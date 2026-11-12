@@ -1,0 +1,28 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.3374, -78.4328, 44.5199, 43.7818)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "GIS Services Region of Durham."
+  ],
+  "dct_description_sm": [
+    "Cartographic watercourse layer, based off of MNRF's OHN Watercourse layer. Watercourse are line features (natural and constructed) that describe various realizations of flowing water at a medium scale of 1:10K in Southern Ontario ROP Consolidation September 3, 2024.Using MNRF's OHN Watercourse layer (scale of 1:10K in Southern Ontario), the smoothing tool was applied with a Bezier curve, to produce a cartographic watercourse layer. Additional edits were made by the Region of Durham DMG Department for watercourses within the Urban River Valley areas (from Greenbelt 2017). These edits were to ensure the cartographic watercourse would remain within the limits of the Urban River Valley areas (as the process of smoothing the watercourse adjust the location of the linework in some places)."
+  ],
+  "dct_identifier_sm": [
+    "276441a8a8b6444a83330bd59fb2dd01",
+    "https://www.arcgis.com/home/item.html?id=276441a8a8b6444a83330bd59fb2dd01"
+  ],
+  "dct_issued_s": "2025-03-17",
+  "dct_publisher_sm": [
+    "GIS Services Region of Durham"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.pickering.ca/datasets/DurhamRegion::map-2f-watercourse-1\"}",
+  "dct_title_s": "Map 2f - Watercourse",
+  "gbl_mdModified_dt": "2025-03-17T19:56:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1e49d9dc-0f23-5716-911b-8cfa4d7bb430",
+  "locn_geometry": "ENVELOPE(-79.3374, -78.4328, 44.5199, 43.7818)",
+  "schema_provider_s": "City of Pickering Open Data Portal"
+}

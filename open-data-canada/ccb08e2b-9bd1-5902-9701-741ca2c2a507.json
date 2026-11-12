@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8778, -94.2148, 58.6783, 49.0)",
+  "dcat_keyword_sm": [
+    "Angler",
+    "Fish Stocking",
+    "Angling",
+    "Fishing",
+    "River",
+    "Lake",
+    "Government information",
+    "Province of Manitoba",
+    "Fish Species",
+    "Fish",
+    "Stocking",
+    "canada",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Registres des stocks dans les plans d'eau du Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This dataset contains information on fish stockings since 1917 in Manitoba waterbodies with details on date of stocking, amount of fish, size of fish and species of fish.  \n  \n  Stocking Data is a point layer representing individual stocking events dating back to 1917. Each record contains information such as waterbody name, fish species, fish size and quantities, as well as the fishing division of the waterbody. Stocking data is updated multiple times per year as the Province of Manitoba Hatchery conducts stocking. The stocking data layer, along with related information, can be found at the Manitoba Lake Information For Anglers app. The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit Manitoba Fisheries. The dataset includes the following fields (Alias (Name): Description) Waterbody ID (WATERBODY_ID): Unique identifier for an individual waterbody. Waterbody Name (WATERBODY_NAME): Name of the waterbody that was stocked. Fishing Division (FISHING_DIVISION): Indicates which fishing division the waterbody is located in and where stocking event took place. Year (YEAR): Year of the stocking event. Date (DATE): Date of the stocking event. Species (SPECIES): Species that was stocked. Size (SIZE): Size of the fish that were stocked. Quantity (QUANTITY): Approximate number of fish stocked. Lat (DD) (LAT_DD): Latitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees. Long (DD) (LONG_DD): Longitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees. Waterbody Lat (WATERBODY_LAT): Latitudinal coordinates of the representative centroid of the waterbody in decimal degrees. Waterbody Long (WATERBODY_LONG): Longitudinal coordinates of the representative centroid of the waterbody in decimal degrees.",
+    "Cet ensemble de données contient des informations sur les stocks de poissons depuis 1917 dans les plans d'eau du Manitoba, ainsi que des détails sur la date d'ensemencement, la quantité de poissons, la taille des poissons et les espèces de poissons.  \n  \n  Les données de stockage sont une couche de points représentant les événements de stockage individuels remontant à 1917. Chaque enregistrement contient des informations telles que le nom du plan d'eau, les espèces de poissons, la taille et la quantité des poissons, ainsi que la division de pêche du plan d'eau. Les données d'ensemencement sont mises à jour plusieurs fois par an à mesure que l'écloserie de la province du Manitoba procède à l'ensemencement. La couche de données sur les stocks, ainsi que les informations connexes, se trouvent dans l'application Manitoba Lake Information For Anglers. Le projet a été lancé par la Direction de la faune et des pêches du Manitoba avec le financement du Fish and Wildlife Enhancement Fund. Les données sont fournies par la Direction de la faune et des pêches du Manitoba, les districts de pêche sportive de Swan Valley et du bassin hydrographique du Manitoba. Pour plus d'informations, visitez Manitoba Fisheries. L'ensemble de données comprend les champs suivants (Alias (nom) : Description) ID du plan d'eau (WATERBODY_ID) : identifiant unique pour un plan d'eau individuel. Nom du plan d'eau (WATERBODY_NAME) : nom du plan d'eau qui a été stocké. Division de pêche (FISHING_DIVISION) : indique dans quelle division de pêche se trouve le plan d'eau et où l'ensemencement a eu lieu. Année (ANNÉE) : Année de l'événement de stockage. Date (DATE) : Date de l'événement de stockage. Espèce (ESPÈCE) : Espèce qui a été ensemencée. Taille (TAILLE) : Taille du poisson qui a été ensemencé. Quantité (QUANTITÉ) : Nombre approximatif de poissons stockés. Lat (DD) (LAT_DD) : coordonnées latitudinales de l'événement de stockage (s'il est enregistré, sinon le centroïde représentatif du plan d'eau) en degrés décimaux. Long (DD) (LONG_DD) : coordonnées longitudinales de l'événement de stockage (s'il est enregistré, sinon le centroïde représentatif du plan d'eau) en degrés décimaux. Lat du plan d'eau (WATERBODY_LAT) : coordonnées latitudinales du centroïde représentatif du plan d'eau en degrés décimaux. Waterbody Long (WATERBODY_LONG) : coordonnées longitudinales du centroïde représentatif du plan d'eau en degrés décimaux.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2fda620c-899c-f5c8-8ba2-ab56b299e38e"
+  ],
+  "dct_issued_s": "2020-10-02",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2fda620c-899c-f5c8-8ba2-ab56b299e38e\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "transport",
+    "society_and_culture",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Manitoba Waterbody Stocking Records",
+  "gbl_mdModified_dt": "2025-10-01T11:10:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ccb08e2b-9bd1-5902-9701-741ca2c2a507",
+  "locn_geometry": "ENVELOPE(-101.8778, -94.2148, 58.6783, 49.0)",
+  "schema_provider_s": "Open Data Canada"
+}

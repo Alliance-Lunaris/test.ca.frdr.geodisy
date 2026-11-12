@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-103.99929118701992, -92.48561931202299, 55.31317753771812, 48.65066277939459)",
+  "dcat_keyword_sm": [
+    "Chronic Wasting Disease",
+    "wildlife",
+    "Open Data",
+    "game hunting area",
+    "CWD",
+    "Government of Manitoba",
+    "Province of Manitoba",
+    "GHA",
+    "Manitoba Government"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>This web map supports the visualization and interpretation of Chronic Wasting Disease (CWD) surveillance data across the province. It is designed for use within a public-facing ArcGIS Dashboard to aid in monitoring spatial trends and communicating surveillance efforts.</p><p>The map contains the following data layers:</p><ul><li><strong>CWD Mandatory Surveillance Area</strong>: Displays the boundary of the current mandatory CWD management and surveillance region. All cervid harvests within this area must have a sample submitted to a Manitoba Wildlife Health biological depot.</li><li><strong>Biological Sample Depots</strong>: Locations where hunters can submit harvested cervid samples for CWD testing, represented as point features.</li><li><strong>Sampling Distribution Heat Map</strong>: A density-based heat layer visualizing the spatial intensity of cervid sample submissions, providing insight into survey coverage and effort.</li><li><strong>Positive Case Locations</strong>: Symbolized point features indicating where confirmed positive CWD test results were detected in Manitoba.</li></ul><p>This map is intended to facilitate understanding of chronic wasting disease, guide future sampling efforts, and inform stakeholders and the public.</p>"
+  ],
+  "dct_identifier_sm": [
+    "688f56c6bf784d16890c8d881d3475e1",
+    "https://www.arcgis.com/home/item.html?id=688f56c6bf784d16890c8d881d3475e1"
+  ],
+  "dct_issued_s": "2024-11-21",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/maps/manitoba::cwd-dashboard-map\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "CWD Dashboard Map",
+  "gbl_mdModified_dt": "2026-02-20T16:32:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "63873e5e-47ab-5636-8e80-7b1fcdb27bf0",
+  "locn_geometry": "ENVELOPE(-103.99929118701992, -92.48561931202299, 55.31317753771812, 48.65066277939459)",
+  "schema_provider_s": "Data MB"
+}

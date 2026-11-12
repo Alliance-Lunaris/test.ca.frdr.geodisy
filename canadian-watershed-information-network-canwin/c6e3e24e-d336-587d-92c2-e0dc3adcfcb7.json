@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.058, -55.894, 52.56, 45.157)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A geospatial database involving 130 descriptors was created describing the pelagic and benthic habitats of the 0–30 m surface layer in the estuary and Gulf of St. Lawrence.\n\nA grid made of 6.25 km² cells (2.5 x 2.5 km) was used to aggregate the data. Each of the 39,337 cells overlapping the marine environment was characterized using landscape, hydrographic, and oceanographic parameters determined from observations (including satellite imagery), a 3D circulation model, and published and unpublished material available at local and regional scales.\n\nPurpose\n\nThe dataset provides useful information on the spatial extent of major coastal epipelagic habitats in the study area and can be used for mapping purposes and for analyses of species-habitat relationships.\n\nAdditional Information\n\nThe low tide limit was taken as the upper (0 m) boundary, but neighbouring landscape features, such as the proximity to freshwater inflows, surface area of the tidal zone, and characteristics of the shoreline, were also taken into consideration.\n\nAlso, each cell was classified as being marine, intertidal, or terrestrial using the high and low tide marks. Those marks were determined using NRCan CANVEC topographic map products (1:50,000). The high tide mark was determined as the limit between the land and water layers. The low tide mark (0 m depth) was determined as the lower limit of the tidal zone in areas with a tidal zone, and as the limit between the land and water layers elsewhere.\n\nSee the report mentioned below for a more detailed description of the treatments for each variable:\n\nDutil, J.-D., S. Proulx, P. Galbraith, J. Chassé and N. Lambert 2012. Coastal and epipelagic habitats of the St. Lawrence estuary and Gulf. Can. Tech. Rep. Fish. Aquat. Sci. 3009 : ix +87 pp."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5edf2b99-1058-438a-a450-155e888a5390"
+  ],
+  "dct_issued_s": "2019-04-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5edf2b99-1058-438a-a450-155e888a5390\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Coastal and epipelagic habitats of the St. Lawrence Estuary and Gulf - Database",
+  "gbl_mdModified_dt": "2026-03-24T09:05:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c6e3e24e-d336-587d-92c2-e0dc3adcfcb7",
+  "locn_geometry": "ENVELOPE(-71.058, -55.894, 52.56, 45.157)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

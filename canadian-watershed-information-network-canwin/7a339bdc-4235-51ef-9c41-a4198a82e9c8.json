@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.534543, -109.678653, 54.862125, 51.545837)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This 5 class 6 m resolution land cover was created for the NSWA and BRWA in 2020-2021 using SPOT6/7 imagery from 2017 and 2018 provided by the Government of Alberta in order to assess riparian intactness for 25,272 km of shoreline in Alberta. The land cover was developed from 44 separate supervised random forest classifications of 41 different SPOT6 6m imagery tiles from 2017/2018 and was then clipped to a 50 m buffer around waterbodies of interest. The full classification is composed of 41 individual polygon files, each of which corresponds to the original SPOT tile that the classification was performed on. Details on the individual SPOT tiles is available in the accompanying report. Two data products are available from this project: Wall to Wall Land Cover (available in TIFF and FGDB formats) and Shoreline Buffer (available in TIFF format). Please see the Distribution Information to obtain the data products."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/bb066f85-d864-4bad-b203-56d979312031"
+  ],
+  "dct_issued_s": "2022-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/bb066f85-d864-4bad-b203-56d979312031\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Project Returns for North Saskatchewan and Battle River Watersheds Land Cover Dataset",
+  "gbl_mdModified_dt": "2026-03-04T15:03:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7a339bdc-4235-51ef-9c41-a4198a82e9c8",
+  "locn_geometry": "ENVELOPE(-117.534543, -109.678653, 54.862125, 51.545837)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(120.193, 121.753, 13.565, 12.091)",
+  "dcat_keyword_sm": [
+    "PALSAR-2",
+    "Synthetic Aperture Radar",
+    "deforestation",
+    "SAR",
+    "Land cover Classification",
+    "Random Forest",
+    "Sentinel-1",
+    "Sentinel-2"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Melnick, Kyle (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Tropical forests experience some of the highest rates of deforestation in the world. Accurate mapping and monitoring of the forest is required to mitigate this deforestation, which is complicated in tropical forests due to the high frequency of cloud cover. Synthetic aperture radar (SAR) imagery can overcome this challenge by seeing through the clouds. However, the historical lack of freely available SAR imagery means its role in characterizing forest cover is less developed than that of optical imagery. This study aimed to compare freely available SAR imagery with freely available optical imagery in order to characterize the forest cover of a particularly cloudy, mountainous tropical forest in the Philippines. SAR imagery was downloaded from Sentinel-1 and ALOS-PALSAR-2 missions while optical imagery from Sentinel-2 was used. Single date images from January 2016 were selected used along with derived forest cover metrics as inputs into a two-class Random Forest classification. The results showed that optical imagery outperforms the SAR models with a 97% overall accuracy compared to 88% for the L-band PALSAR-2 data. The predicted maps created using only SAR inputs are significantly noisier than models that included optical data. SAR maps had high levels of speckling throughout the image which made interpretation difficult at larger spatial scales. The SAR map performed worse in the more mountainous areas. The results demonstrate that SAR cannot directly replace optical for the most mountainous, cloud-prone areas."
+  ],
+  "dct_identifier_sm": [
+    "328530_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/TGWNNA"
+  ],
+  "dct_issued_s": "2022-05-05",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/TGWNNA\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Using SAR Imagery to Assess Forest Distribution on a Cloudy Tropical Island",
+  "gbl_mdModified_dt": "2022-05-05T23:49:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4b9c133b-3720-5b24-afee-4387c1d7ff64",
+  "locn_geometry": "ENVELOPE(120.193, 121.753, 13.565, 12.091)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

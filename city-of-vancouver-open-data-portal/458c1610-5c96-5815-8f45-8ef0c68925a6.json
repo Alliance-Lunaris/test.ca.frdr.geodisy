@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.23375271633267, -123.01372532732785, 49.31966689880937, 49.19370156247169)",
+  "dcat_keyword_sm": [
+    "aerial",
+    "remote sensing elevation",
+    "degree",
+    "vector",
+    "lidar",
+    "mapping",
+    "digital elevation model",
+    "LAS",
+    "light detection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>LiDAR (Light Detection and Ranging) data collected in 2013 with coverage up to extents of City of Vancouver’s legal jurisdiction.</p><p> Data products include \"bare earth\" ground surface and of the upper most surface defined by vegetation cover, buildings and other structures.</p></div> <h3>Note</h3><div><p>The 2013 LiDAR data was used for the City’s coastal flood model, which was done as part of the City’s climate adaptation strategy. </p><h3>Data access</h3><p>Each of the 168 polygons on the map or rows in the table provides two links to the data. One is in GeoTIFF format (zipped, file sizes range from 12 KB to 15.8 MB), the other in LAS format (zipped, file sizes range from 1.0 MB to 349.8 MB).</p><h3>Attributes</h3><p>Point data was classified as:</p><ol><li>Bare-earth;</li><li>Low vegetation;</li><li>High vegetation;</li><li>Water; and</li><li>Buildings</li></ol></div> <h3>Data currency</h3><div><p>Data was collected on February 7, 15, and 19, 2013 and is current as of those dates.</p></div> <h3>Data accuracy</h3><div><ul><li>Average point density: at least 12 points per square metre</li><li>Sidelap: at least 50%</li><li>Vertical accuracy: 0.18 metre (95% confidence level)</li><li>Horizontal accuracy: 0.36 metre (95% confidence level </li></ul></div><h3>Coordinate system</h3><p>The map of grid cells on this portal is in WGS 84 but the LiDAR data in the GeoTIFF and LAS files are in the following coordinate system: </p><div><ul><li>Projection: UTM Zone 10 (Central Meridian 123 West)</li><li>Hz Datum: NAD 83 (CSRS)</li><li>Vertical Datum:  CGVD28</li><li><a href=\"https://www2.gov.bc.ca/gov/content/data/geographic-data-services/georeferencing/geoid-model-data\"><span style=\"text-decoration:underline;\"><font color=\"#0066cc\">Metro Vancouver Geoid</font></span></a> (HTMVBC00_Abbbyn.zip)</li></ul></div> <h3>Websites for further information</h3><div><ul><li>\n<a href=\"https://opendata.vancouver.ca/explore/dataset/city-boundary/\">City boundary dataset</a></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "lidar-2013",
+    "https://opendata.vancouver.ca/explore/dataset/lidar-2013"
+  ],
+  "dct_issued_s": "2019-05-16",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/lidar-2013\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Geography and imagery"
+  ],
+  "dct_title_s": "LiDAR 2013",
+  "gbl_mdModified_dt": "2019-05-16T15:44:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "458c1610-5c96-5815-8f45-8ef0c68925a6",
+  "locn_geometry": "ENVELOPE(-123.23375271633267, -123.01372532732785, 49.31966689880937, 49.19370156247169)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

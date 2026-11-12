@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-148.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This collection is a legacy product that is no longer maintained.  It may not meet current government standards. The correction matrices for the National Topographic Data Base (NTDB), also known under the acronym CORMAT, are products derived from the planimetric enhancement of NTDB data sets at the 1:50 000 scale. The correction matrix enables users to enhance the geometric accuracy of the less accurate NTDB. The matrix is a set of points arrayed on a regular 100-m grid. Each point describes the planimetric correction (DX, DY) to be applied at this location. The position of the points is given in UTM (Universal Transverse Mercator projection) coordinates based on the North American Datum of 1983 (NAD83) . Each file constitutes a rectangular area covering the entire corresponding NTDB data set. Its delimitation corresponds more or less to National Topographic System (NTS) divisions at the 1:50 000 scale. All NTDB data sets at the 1:50 000 scale whose original accuracy was less than 30 m can thus be geometrically corrected. A CORMAT data set contains a list of coordinates and the corresponding corrections to be applied in the form X Y DX DY.  \n  \n  Related Products:   \n  \n  [National Topographic Data Base (NTDB), 1944-2005](https://open.canada.ca/data/en/dataset/1f5c05ff-311f-4271-8d21-4c96c725c2af)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b6d0c19c-27e3-4392-b21f-49b1eec95653"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b6d0c19c-27e3-4392-b21f-49b1eec95653\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "NTDB Correction Matrices, 2003-2009",
+  "gbl_mdModified_dt": "2021-08-11T03:36:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34bed478-286c-580f-9b05-927830bca65c",
+  "locn_geometry": "ENVELOPE(-148.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

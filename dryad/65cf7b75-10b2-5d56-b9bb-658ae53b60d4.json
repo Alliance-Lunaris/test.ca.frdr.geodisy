@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Pekania [Martes] pennanti",
+    "circuitscape current map",
+    "raster map",
+    "current",
+    "reptiles and amphibians"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Erin L., Koen (Trent University, Memorial University of Newfoundland).",
+    "Jeff, Bowman (Trent University, Ontario Ministry of Natural Resources and Forestry, Ministry of Natural Resources and Forestry, Ministry of Natural Resources).",
+    "Carrie, Sadowski (Ministry of Natural Resources).",
+    "Aaron A., Walpole (Ministry of Natural Resources and Forestry, Ministry of Natural Resources)."
+  ],
+  "dct_description_sm": [
+    "The ability to identify regions of high functional connectivity for multiple wildlife species is of conservation interest with respect to forest management and corridor planning. We present a method that does not require independent, field-collected data, is insensitive to the placement of source and destination sites (nodes) for modeling connectivity, and does not require the selection of a focal species. In the first step of our approach, we created a cost surface that represented permeability of the landscape to movement for a suite of species. We randomly selected nodes around the perimeter of the buffered study area and used circuit theory to connect pairs of nodes. When the buffer was removed, the resulting current density map represented, for each grid cell, the probability of use by moving animals. We found that using nodes that were randomly located around the perimeter of the buffered study area was less biased by node placement than randomly selecting nodes within the study area. We also found that a buffer of ≥ 20% of the study area width was sufficient to remove the effects of node placement on current density. We tested our method by creating a map of connectivity in the Algonquin to Adirondack region in eastern North America, and we validated the map with independently collected data. We found that amphibians and reptiles were more likely to cross roads in areas of high current density, and fishers (Pekania [Martes] pennanti) used areas with high current density within their home ranges. Our approach provides an efficient and cost-effective method of predicting areas with relatively high functional connectivity."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.vr184",
+    "https://doi.org/10.5061/dryad.vr184"
+  ],
+  "dct_issued_s": "2015-04-09",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.vr184\"}",
+  "dct_spatial_sm": [
+    "eastern Ontario",
+    "Algonquin to Adirondack (A2A)"
+  ],
+  "dct_title_s": "Data from: Landscape connectivity for wildlife: development and validation of multi-species linkage maps",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "65cf7b75-10b2-5d56-b9bb-658ae53b60d4",
+  "schema_provider_s": "Dryad"
+}

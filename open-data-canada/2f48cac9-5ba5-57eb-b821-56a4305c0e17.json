@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "IDS-Arctique_MNE",
+    "Digital Terrain Model",
+    "Digital Surface Model",
+    "Digital elevation data",
+    "Mosaic",
+    "Digital Elevation Model",
+    "Mosaïque",
+    "Carte de pente",
+    "Modèle numérique de surface",
+    "Modèle numérique de terrain",
+    "Carte d'aspect",
+    "LiDAR",
+    "Relief ombré",
+    "Données numériques d'élévation",
+    "Shaded Relief",
+    "Aspect Map",
+    "Relief ombré couleur",
+    "ArcticSDI_DEM",
+    "Slope Map",
+    "Color Shaded Relief",
+    "LiDAR",
+    "Modèle numérique d'élévation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mosaïque du Modèle numérique d'élévation de haute résolution (Mosaïque MNEHR) - Série CanÉlévation"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The High Resolution Digital Elevation Model Mosaic provides a unique and continuous representation of the high resolution elevation data available across the country. The High Resolution Digital Elevation Model (HRDEM) product used is derived from airborne LiDAR data (mainly in the south) and satellite images in the north. The mosaic is available for both the Digital Terrain Model (DTM) and the Digital Surface Model (DSM) from web mapping services. It is part of the CanElevation Series created to support the National Elevation Data Strategy implemented by NRCan. This strategy aims to increase Canada's coverage of high-resolution elevation data and increase the accessibility of the products.\n\nUnlike the HRDEM product in the same series, which is distributed by acquisition project without integration between projects, the mosaic is created to provide a single, continuous representation of strategy data. The most recent datasets for a given territory are used to generate the mosaic. This mosaic is disseminated through the Data Cube Platform, implemented by NRCan using geospatial big data management technologies. These technologies enable the rapid and efficient visualization of high-resolution geospatial data and allow for the rapid generation of dynamically derived products. The mosaic is available from Web Map Services (WMS), Web Coverage Services (WCS) and SpatioTemporal Asset Catalog (STAC) collections. Accessible data includes the Digital Terrain Model (DTM), the Digital Surface Model (DSM) and derived products such as shaded relief and slope.\n\nThe mosaic is referenced to the Canadian Height Reference System 2013 (CGVD2013) which is the reference standard for orthometric heights across Canada.\n\nSource data for HRDEM datasets used to create the mosaic is acquired through multiple projects with different partners.\n\nCollaboration is a key factor to the success of the National Elevation Strategy. Refer to the “Supporting Document” section to access the list of the different partners including links to their respective data.",
+    "La Mosaïque de modèle numérique d’élévation de haute résolution offre une représentation unique et continue des données d’élévation haute résolution disponibles au pays. Le produit Modèle numérique d'élévation de haute résolution (MNEHR) utilisé est dérivé de données LiDAR aéroporté (principalement au sud) et d'images satellitaires au nord. La mosaïque est disponible pour le modèle numérique de terrain (MNT) et le modèle numérique de surface (MNS) à partir de services de cartographie web. Elle fait partie de la Série CanÉlévation créée pour appuyer la Stratégie nationale de données d’élévation mise en oeuvre par RNCan. Cette stratégie vise à accroître la couverture du Canada en données d’élévation de haute résolution et à augmenter l’accessibilité des produits.\n\nContrairement au produit MNEHR de la même série qui est distribué par projet d’acquisition sans intégration entre les projets, la mosaïque est créée dans le but de fournir une représentation unique et continue des données de la stratégie. Les jeux de données les plus récents pour un territoire donné sont utilisés pour générer la mosaïque. Cette mosaïque est diffusée grâce à la Plateforme de cube de données, mis en place par RNCan et qui utilise des technologies de gestion de mégadonnées géospatiales. Ces technologies permettent une visualisation rapide et efficace de données géospatiales à haute résolution et permettent de générer rapidement des produits dérivés dynamiquement. La mosaïque est disponible à partir de services web cartographiques Web Map Services (WMS), Web Map Coverage (WCS) et collections SpatioTemporal Asset Catalog (STAC). Les données accessibles comprennent le modèle numérique de terrain (MNT), le modèle numérique de surface (MNS) ainsi que des produits dérivés tels que le relief ombragé et la pente.\n\nLa mosaïque est référencée au Système canadien de référence altimétrique de 2013 (CGVD2013) qui est le standard de référence pour les altitudes orthométriques à travers le Canada.\n\nLes données sources du produit MNEHR ayant servi à créer la mosaïque sont acquises par des projets multiples de différents partenaires.\n\nLa collaboration est un facteur clé dans le succès de la Stratégie nationale d'élévation. Référez-vous à la section « Document de soutien » pour accéder à la liste des différents partenaires incluant des liens à leurs données respectives."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0fe65119-e96e-4a57-8bfe-9d9245fba06b"
+  ],
+  "dct_issued_s": "2026-06-04",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0fe65119-e96e-4a57-8bfe-9d9245fba06b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "High Resolution Digital Elevation Model Mosaic (HRDEM Mosaic) - CanElevation Series",
+  "gbl_mdModified_dt": "2026-06-08T15:31:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2f48cac9-5ba5-57eb-b821-56a4305c0e17",
+  "locn_geometry": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

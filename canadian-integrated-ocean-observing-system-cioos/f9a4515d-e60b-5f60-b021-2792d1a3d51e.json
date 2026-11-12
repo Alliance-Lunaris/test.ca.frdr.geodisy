@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "dcat_keyword_sm": [
+    "temperature",
+    "wind-speed",
+    "oceans",
+    "beaufort-sea--amundsen-gulf",
+    "relative-humidity",
+    "temperature-sous-la-surface",
+    "meteorology",
+    "arcticnet",
+    "subsurfacetemperature",
+    "wind-direction",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données météorologiques embarquées, 2009 ArcticNet, mer de Beaufort"
+  ],
+  "dct_creator_sm": [
+    "Else, Brent (University of Calgary, Calgary, AB, Canada).",
+    "Stainton, Emmelia.",
+    "Swystun, Kyle.",
+    "Pind, Meredith.",
+    "Papakyriakou, Tim."
+  ],
+  "dct_description_sm": [
+    "During the ArcticNet annual cruises of the research icebreaker CCGS Amundsen, characteristics of the near-surface atmosphere (basic meteorological elements, incident radiation, CO2 concentration) are monitored in conjunction with surface sea water properties (temperature, salinity, dissolved CO2 and O2) to observe the relationship between the surface micro-climate and the air-sea exchange, with particular interest in CO2.  Central to this integrated dataset, the following meteorological variables were recorded at 1 minute intervals (instrument used to collect each variable is in parentheses, and approximate instrument height above surface is indicated):\n\n-Wind speed (RM Young Wind Monitor 05103) - 16m height\n-Wind direction (RM Young Wind Monitor 05103) -16m height\n-Air Temperature (Vaisala HMP45C212) - 15m height\n-Relative Humidity (Vaisala HMP45C212) -15m height\n-Surface temperature (Everest IR Transducer, 4000.44ZL) - 8m height\n\nAll instruments were mounted on a meteorological tower on the bow of the research icebreaker CCGS Amundsen.",
+    "Au cours des croisières annuelles ArcticNet du brise-glace de recherche CCGS Amundsen, les caractéristiques de l'atmosphère proche de la surface (éléments météorologiques de base, rayonnement incident, concentration de CO2) sont surveillées conjointement avec les propriétés de l'eau de mer de surface (température, salinité, CO2 dissous et O2) afin d'observer la relation entre le microclimat de surface et les échanges air-mer, avec un intérêt particulier pour le CO2. Au cœur de cet ensemble de données intégré, les variables météorologiques suivantes ont été enregistrées à intervalles d'une minute (l'instrument utilisé pour collecter chaque variable est entre parenthèses et la hauteur approximative de l'instrument au-dessus de la surface est indiquée) :\n\n-Vitesse du vent (RM Young Wind Monitor 05103) - Hauteur 16 m\n-Direction du vent (RM Young Wind Monitor 05103) -16 m de hauteur\n-Température de l'air (Vaisala HMP45C212) : 15 m de hauteur\n-Humidité relative (Vaisala HMP45C212) -15 m de hauteur\n-Température de surface (transducteur infrarouge Everest, 4000,44 ZL) - 8 m de hauteur\n\nTous les instruments étaient montés sur une tour météorologique située à la proue du brise-glace de recherche CCGS Amundsen."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/55ed0fca-d8e0-486c-bec8-87883bc0e4d5"
+  ],
+  "dct_issued_s": "2011-02-02",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/55ed0fca-d8e0-486c-bec8-87883bc0e4d5\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ship-Based Meteorological Data, 2009 ArcticNet, Beaufort Sea",
+  "gbl_mdModified_dt": "2026-07-31T16:47:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f9a4515d-e60b-5f60-b021-2792d1a3d51e",
+  "locn_geometry": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

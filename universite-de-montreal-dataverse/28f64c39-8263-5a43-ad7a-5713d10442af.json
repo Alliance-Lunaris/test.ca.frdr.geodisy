@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Oscillations",
+    "Visual perception--Testing",
+    "Perception visuelle--Essais",
+    "Échantillonnage",
+    "Attention-deficit hyperactivity disorder",
+    "Sampling",
+    "Trouble déficitaire de l'attention"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Arguin, Martin (Université de Montréal). ORCID: https://orcid.org/0000-0002-1036-2932",
+    "Pelland-Goulet, Pénélope (Pelland-Goulet). ORCID: https://orcid.org/0009-0007-7424-6491",
+    "Brisebois, Hélène (Collège Montmorency). ORCID: https://orcid.org/0000-0002-7387-8565",
+    "Gosselin, Nathalie (Université de Montréal). ORCID: https://orcid.org/0000-0002-4213-669X"
+  ],
+  "dct_description_sm": [
+    "Raw data used in the \"Visual processing oscillates differently through time for adults with ADHD\" paper.",
+    "This dataset explores temporal differences in visual processing between adults with ADHD and neurotypical individuals. Collected during a visual word recognition task, the data demonstrate that a machine learning algorithm can classify participants according to the group they belong to (ADHD vs control) with 91.8% accuracy and distinguish psychostimulant medication users within the ADHD group with 91.3% accuracy.\n\nThese results reveal behavioral markers of ADHD and medication use, detected through random temporal sampling. This dataset contributes to a better understanding of the impact of ADHD on perceptual oscillations.",
+    "Cet ensemble de données explore les différences temporelles dans le traitement visuel entre des adultes atteints de TDAH et des individus neurotypiques. Reccueillies lors d'une tâche de reconnaissance de mots présentés visuellement, ces données montrent qu'un algorithme d'apprentissage machine peut reconnaitre le groupe d'appartenance des participants (TDAH vs contrôles) avec une précision de 91,8 % et distinguer les utilisateurs de médicaments psychostimulants dans le groupe TDAH avec 91,3 % de précision.\n\nCes résultats révèlent des marqueurs comportementaux du TDAH et de l'usage de médicaments, détectés via la technique d'échantillonnage temporel aléatoire. Ces données contribuent à mieux comprendre l’impact du TDAH sur les oscillations perceptuelles."
+  ],
+  "dct_identifier_sm": [
+    "864988_690918_864987",
+    "https://doi.org/10.5683/SP3/C5QVH6"
+  ],
+  "dct_issued_s": "2024-12-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/C5QVH6\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Temporal sampling of visual processing oscillations in adults with ADHD",
+  "gbl_mdModified_dt": "2026-03-10T16:58:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "28f64c39-8263-5a43-ad7a-5713d10442af",
+  "pcdm_memberOf_sm": [
+    "Martin Arguin Dataverse // Random Temporal Sampling ADHD - PLOS ONE"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

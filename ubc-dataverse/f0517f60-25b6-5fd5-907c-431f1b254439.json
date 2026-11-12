@@ -1,0 +1,58 @@
+{
+  "dcat_keyword_sm": [
+    "Mimulus filicaulis",
+    "Mimulus bicolor",
+    "Mimulus laciniatus",
+    "Mimulus eastwoodiae",
+    "specialist-generalist tradeoffs",
+    "thermal performance curve",
+    "niche breadth",
+    "climatic variability hypothesis",
+    "Mimulus parishii",
+    "Erythranthe",
+    "Mimulus norrisii",
+    "Mimulus verbenaceus",
+    "Mimulus guttatus",
+    "Mimulus cardinalis",
+    "Mimulus floribundus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sheth, Seema (Colorado State University). ORCID: https://orcid.org/0000-0001-8284-7608",
+    "Angert, Amy L. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\">\n<h4 class=\"o-heading__level3-file-title\">Mean thermal performance data for 10 Mimulus species</h4>\n<div class=\"o-metadata__file-description\">File name: <strong>Mimulus_thermal_performance_data.csv</strong>\n</div>\n<div class=\"o-metadata__file-description\"> </div>\n<div class=\"o-metadata__file-description\">This data file includes mean performance, measured as relative growth rate in stem length or leaf number, for each family of each Mimulus species at 15, 20, 25, 30, 35, 40, 45, and 50 degrees Celsius (see publication for further details). Column names are as follows: <strong>species</strong>: species of Mimulus. <strong>family</strong>: unique ID corresponding to full-sibling seed family. <strong>temperature</strong>: daytime temperature of growth chamber. <strong>RGR_stem</strong>: mean relative growth rate in stem length (in units of cm/cm/day) across individuals of each family. <strong>RGR_leaf</strong>: mean relative growth rate in leaf number (in units of leaf #/leaf #/day) across individuals of each family.</div>\n<div class=\"o-metadata__file-name\">\n<h4 class=\"o-heading__level3-file-title\"> </h4>\n<h4 class=\"o-heading__level3-file-title\">Raw thermal performance data for 10 Mimulus species</h4>\n<div class=\"o-metadata__file-description\">File name: <strong>Mimulus_thermal_performance_data_raw.csv</strong>\n</div>\n<div class=\"o-metadata__file-description\"> </div>\n<div class=\"o-metadata__file-description\">This data file includes raw thermal performance, measured as relative growth rate in stem length or leaf number, for each individual of each Mimulus species at 15, 20, 25, 30, 35, 40, 45, and 50 degrees Celsius (see publication for further details). Column names are as follows: <strong>species</strong>: species of Mimulus. <strong>family</strong>: unique ID corresponding to full-sibling seed family. <strong>temperature</strong>: daytime temperature of growth chamber. <strong>stemLen1</strong>: length of primary stem in centimeters prior to imposing temperature treatment. <strong>leafNum1</strong>: number of true leaves &gt; 1mm in length prior to imposing temperature treatment. s<strong>temLen2</strong>: length of primary stem in centimeters after 7 days of exposure to temperature treatment. <strong>leafNum2</strong>: number of true leaves &gt; 1mm in length after 7 days of exposure to temperature treatment. <strong>RGR_stem</strong>: relative growth rate in stem length (in units of cm/cm/day). <strong>RGR_leaf</strong>: relative growth rate in leaf number (in units of leaf #/leaf #/day). Note that we originally only provided mean thermal performance data for each family in the data file above. We have now uploaded a new file of raw data from which these means were calculated. </div>\n</div>\n</div>",
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/8YtWomFFAHOGmTARayibsZmppPAl68XAiwwCONVWRGU</p>\n<p><b>Storage size:</b> 383558</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>The geographic ranges of closely related species can vary dramatically, yet we do not fully grasp the mechanisms underlying such variation. The niche breadth hypothesis posits that species that have evolved broad environmental tolerances can achieve larger geographic ranges than species with narrow environmental tolerances. In turn, plasticity and genetic variation in ecologically important traits and adaptation to environmentally variable areas can facilitate the evolution of broad environmental tolerance. We used five pairs of western North American monkeyflowers to experimentally test these ideas by quantifying performance across eight temperature regimes. In four species pairs, species with broader thermal tolerances had larger geographic ranges, supporting the niche breadth hypothesis. As predicted, species with broader thermal tolerances also had more within-population genetic variation in thermal reaction norms and experienced greater thermal variation across their geographic ranges than species with narrow thermal tolerances. Species with narrow thermal tolerance may be particularly vulnerable to changing climatic conditions due to a lack of plasticity and insufficient genetic variation to respond to novel selection pressures. Conversely, species experiencing high variation in temperature across their ranges may be buffered against extinction due to climatic changes because they have evolved tolerance to a broad range of temperatures.</p>"
+  ],
+  "dct_identifier_sm": [
+    "153734_1226260_150149",
+    "https://doi.org/10.5683/SP2/TOBQS2"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TOBQS2\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "western North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The evolution of environmental tolerance and range size: A comparison of geographically restricted and widespread Mimulus",
+  "gbl_mdModified_dt": "2022-11-18T18:55:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f0517f60-25b6-5fd5-907c-431f1b254439",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

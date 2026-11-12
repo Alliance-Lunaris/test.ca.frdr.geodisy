@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.13265424, -127.95907025, 51.69558793, 51.60936247)",
+  "dcat_keyword_sm": [
+    "high-flow",
+    "other",
+    "hydrograph",
+    "oceans",
+    "watersheds",
+    "discharge",
+    "stream",
+    "water",
+    "autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries chronologiques des stations hydrographiques des bassins versants, îles Calvert et Hécate, Colombie-Britannique, Canada (provisoire)"
+  ],
+  "dct_creator_sm": [
+    "Haughton, Emily (Hakai Institute).",
+    "Floyd, William (Malaspina College, Hakai Institute, British Columbia Ministry of Forests, Vancouver Island University).",
+    "Korver, Maartje C. (Hakai Institute, McGill University).",
+    "Giesbrecht, Ian (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "**General field methods**\n\nIn natural streams it is not possible to continuously measure stream discharge, thus an indirect approach was used: river height (stage) was continuously measured at a gauging station using a pressure transducer and periodic discharge measurements were taken along the range of potential stages to develop a stage-discharge rating curve.\n\nPressure transducers were installed in the fall of 2013 at watershed 708 and in the fall of 2014 at the other watersheds. Watersheds 708, 819, and 693 were decommissioned in 2020 and are no longer active monitoring sites. Beginning in 2025, gauging stations are visited twice per year and surveyed against a minimum of three independent benchmarks to detect sensor movement or datum shifts. Corrections are applied to the stage record where offsets are identified, and where possible, have been applied retrospectively to earlier records. Low flows were manually measured using the velocity-area method with either a Swoffer Current Velocimeter or a Sontek Acoustic Doppler Velocimeter. Higher flows, generally greater than 0.5 m³/s, were measured using the automated salt dilution (auto-salt) method, which releases pre-defined volumes of salt solution at pre-defined water stages and measures the passing salt wave using two permanently installed downstream electrical conductivity sensors. Data are available in near real-time using the Hakai Telemetry Network ([www.hakai.org/technology/#science-1](https://www.hakai.org/technology/#science-1)).\n\n**General data QC and analysis**\n\nStage-discharge rating curves are not static but shift over time due to changes in river channel morphology, often associated with flood events, and are updated regularly. Discharge measurements are assigned a relative uncertainty based on the measurement method and are used to develop a LOESS regression rating curve with confidence intervals following the methodology of Coxon et al. (2015).\n\nThe discharge record linked here is a provisional, unreviewed dataset. A fully QC'd time-series with uncertainty estimates, flagging, and detailed methodology is available upon request or in subsequent data releases.",
+    "**Méthodes générales sur le terrain**\n\nDans les cours d'eau naturels, il n'est pas possible de mesurer en continu le débit des cours d'eau, c'est pourquoi une approche indirecte a été utilisée : la hauteur de la rivière (niveau) a été mesurée en continu dans une station de jaugeage à l'aide d'un transducteur de pression et des mesures périodiques du débit ont été prises le long de la plage des étages potentiels pour développer une courbe d'évaluation du débit par étapes.\n\nDes capteurs de pression ont été installés à l'automne 2013 dans le bassin versant 708 et à l'automne 2014 dans les autres bassins versants. Les bassins versants 708, 819 et 693 ont été déclassés en 2020 et ne sont plus des sites de surveillance actifs. À compter de 2025, les stations de jaugeage sont visitées deux fois par an et étudiées par rapport à au moins trois points de référence indépendants afin de détecter le mouvement des capteurs ou les décalages de référence. Des corrections sont appliquées à l'enregistrement de l'étape où les décalages sont identifiés et, dans la mesure du possible, ont été appliquées rétrospectivement aux enregistrements antérieurs. Les faibles débits ont été mesurés manuellement à l'aide de la méthode de la zone de vélocité à l'aide d'un vélocimètre à courant Swoffer ou d'un vélocimètre Doppler acoustique Sontek. Des débits plus élevés, généralement supérieurs à 0,5 m³/s, ont été mesurés à l'aide de la méthode de dilution automatique du sel (auto-sel), qui libère des volumes prédéfinis de solution saline à des niveaux d'eau prédéfinis et mesure la vague de sel qui passe à l'aide de deux capteurs de conductivité électrique installés en aval en permanence. Les données sont disponibles en temps quasi réel grâce au réseau de télémétrie Hakai ([www.hakai.org/technology/ #science -1] (https://www.hakai.org/technology/#science-1)).\n\n**Contrôle qualité et analyse des données générales**\n\nLes courbes d'évaluation du débit par étapes ne sont pas statiques mais évoluent au fil du temps en raison de changements dans la morphologie du chenal fluvial, souvent associés à des inondations, et sont mises à jour régulièrement. Une incertitude relative est attribuée aux mesures de débit en fonction de la méthode de mesure et sont utilisées pour développer une courbe de régression LOESS avec des intervalles de confiance selon la méthodologie de Coxon et al. (2015).\n\nL'enregistrement des rejets lié ici est un ensemble de données provisoire non révisé. Une série chronologique entièrement contrôlée avec des estimations d'incertitude, des indicateurs et une méthodologie détaillée est disponible sur demande ou lors de publications de données ultérieures."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/67b81524-e385-439e-9bc1-03bd4652eba6"
+  ],
+  "dct_issued_s": "2026-06-26",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/67b81524-e385-439e-9bc1-03bd4652eba6\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)",
+  "gbl_mdModified_dt": "2026-09-22T21:20:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8df235eb-10ce-5018-bd46-09057a905f56",
+  "locn_geometry": "ENVELOPE(-128.13265424, -127.95907025, 51.69558793, 51.60936247)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

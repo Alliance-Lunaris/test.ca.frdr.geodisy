@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Forest Protection Department of the Ministry of Natural Resources and Forests has produced a matrix layer representing the potential for the intensity and spread of forest fires in Quebec. This data is the result of the annual analysis of the distribution of forest fuels at a local territorial scale, integrating data from the ecoforest map and knowledge on the Canadian Method for Predicting Forest Fire Behaviour (MCPCI).\n\nThis matrix layer (raster), with a spatial resolution of 25 m x 25 m, covers the whole of Quebec and is broadcast by fire regime for its southern portion (south of the 52nd parallel). The legend has six classes of potential for intensity and spread: extreme, high, considerable, moderate, low, and lack of forest fuel. This card does not inform the user about the probability of ignition, but about the potential for the intensity and spread of a fire if an ignition occurs. Thus, the probability of starting a fire depends on other factors such as weather, fuel humidity, season, etc.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1728e7f9-472a-474e-9e04-f96bf59479f9"
+  ],
+  "dct_issued_s": "2024-05-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1728e7f9-472a-474e-9e04-f96bf59479f9\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Potential for the intensity and spread of forest fires",
+  "gbl_mdModified_dt": "2026-10-07T17:35:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0e0cc45f-74df-5556-9e3c-019c61665fa2",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

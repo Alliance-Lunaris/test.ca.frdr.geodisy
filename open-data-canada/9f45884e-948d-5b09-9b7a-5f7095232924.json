@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.9229, -128.2528, 54.64628, 50.09828)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Environnement",
+    "Biorégion du plateau Nord",
+    "Ecologically and biologically significant areas (EBSA)",
+    "Zones d’importance écologique et biologique (ZIEB)",
+    "ZIEB",
+    "Northern Shelf Bioregion",
+    "Environment",
+    "EBSA",
+    "Océan",
+    "Biological diversity",
+    "Diversité biologique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Points chauds pour la diversité, la richesse et la biomasse"
+  ],
+  "dct_creator_sm": [
+    "Katie Gale."
+  ],
+  "dct_description_sm": [
+    "This geodatabase includes hotspot maps of 1) nearshore habitat richness, 2) diversity (fish and invertebrates), and 3) biomass (using catch per unit effort of fish and invertebrates), as well as two layers showing the spatial extent of the diversity and biomass hotspot analyses. \n\nFull details and methods can be found in the Rubidge et al. 2018 CSAS Research Document 2018/053 available here or at https://waves-vagues.dfo-mpo.gc.ca/Library/40759842.pdf. These data were reviewed as part of a Canadian Science Advisory Secretariat (CSAS) regional peer review process on Nov 1-2, 2017.\n\nHabitat Richness Hotspots: \nBecause there are no systematic surveys of nearshore species that span the entire coastline of Northern Shelf Bioregion, the nearshore habitat richness hotspots were developed as a proxy for species diversity in nearshore areas. Habitat richness was calculated from eight habitat features: eelgrass, surfgrass, canopy-forming kelp, estuaries, areas of high rugosity, and hard, mixed, and soft substrate. The number of features within 1 km x 1 km planning units was counted, and hotspots were identified using the Getis-Ord G* tool in ArcGIS. Planning units with Gi_Bin values of 3 (99% confidence) were classified as habitat richness hotspots.\n\nDiversity and Biomass Hotspots: \nHotspots of fish and invertebrate diversity and biomass were developed as proxies for spatial patterns of productivity in the Northern Shelf Bioregion. Diversity (Shannon diversity) and biomass (kg/hour or count/hook/hour) were calculated from DFO synoptic trawl and outside hard-bottom longline (HBLL) survey catch records. The outside HBLL survey was previously referred to as Pacific Halibut Management Area (PHMA) survey. The synoptic trawl and HBLL surveys have complementary spatial coverage, with the HBLL surveys occurring in more coastal areas (20–260 m) and the synoptic trawl surveys occurring on deeper shelf areas (50–1300 m). Hotspots were identified using the Getis-Ord G* tool in ArcGIS for five separate analyses: fish biomass (trawl), fish diversity (trawl), fish diversity (longline), invertebrate biomass (trawl), and invertebrate diversity (trawl). Using the Minimum Bounding Geometry Tool, convex hull polygons were drawn around groups of hotspot points (Gi_Bin values of 1, 2, or 3; confidence ≥90%) containing 10 or more points. The resulting polygons were then buffered by 1 km and manually edited where needed to exclude any large areas of the polygons that did not include hotspot points.",
+    "Cette géodatabase comprend des cartes des points chauds pour 1) la richesse des habitats littoraux, 2) la diversité (poissons et invertébrés) et 3) la biomasse (établies selon le taux de capture par unité d’effort des poissons et des invertébrés), ainsi que deux couches montrant l’étendue spatiale des analyses des points chauds de diversité et de biomasse.\n\nTous les détails et les méthodes sont décrits dans le document de Rubidge et coll., Document de recherche 2018/053, SCCS 2018, accessible ici ou à https://waves vagues.dfo mpo.gc.ca/Library/40759854.pdf. Ces données ont été examinées dans le cadre d’un processus régional d’examen par les pairs du Secrétariat canadien de consultation scientifique (SCCS) les 1er et 2 novembre 2017.\n\nPoints chauds pour la richesse de l’habitat:\nComme il n’existe pas de relevés systématiques des espèces littorales qui couvrent l’ensemble du littoral de la biorégion du plateau continental Nord, les points chauds de la richesse de l’habitat littoral ont été conçus comme un indicateur de la diversité des espèces dans les zones littorales. La richesse de l’habitat a été calculée à partir de huit composantes de l’habitat : zostère marine, phyllospadix, varech formant une canopée, estuaires, aires à rugosité élevée et substrat dur, mixte et meuble. Le nombre de composantes dans les unités de planification de 1 km sur 1 km a été compté et les points chauds ont été établis à l’aide de l’outil Getis Ord G* dans ArcGIS. Les unités de planification de valeur Gi_Bin de 3 (99 % de confiance) ont été classées comme points chauds de la richesse de l’habitat.\n\nPoints chauds pour la diversité et la biomasse:\nDes points chauds pour la diversité et la biomasse des poissons et des invertébrés ont été établis comme indicateurs des modèles spatiaux de productivité dans la biorégion du plateau continental Nord. La diversité (diversité de Shannon) et la biomasse (kg/h ou nombre/hameçon/heure) ont été calculées à partir des relevés synoptiques de prises au chalut et des relevés extérieurs à la palangre sur fond dur (HBLL) du MPO. Le relevé extérieur HBLL représente l’ancien relevé de la Pacific Halibut Management Association (PHMA). Les relevés synoptiques de prises au chalut et les relevés HBLL ont une couverture spatiale complémentaire, les relevés HBLL couvrant davantage les zones côtières (20 260 m) et les relevés synoptiques de prises au chalut, les zones plus profondes du plateau (50 1 300 m). Les points chauds ont été établis à l’aide de l’outil Getis Ord G* dans ArcGIS pour cinq analyses distinctes : biomasse des poissons (chalut), diversité des poissons (chalut), diversité des poissons (palangre), biomasse des invertébrés (chalut) et diversité des invertébrés (chalut). À l’aide de l’outil Emprise géométrique minimale, des polygones à enveloppe convexe ont été tracés autour des groupes de points chauds (valeurs Gi_Bin de 1, 2 ou 3; confiance ≥ 90 %) contenant 10 points ou plus. Les polygones qui en ont résulté ont ensuite été entourés d’une zone tampon de 1 km et modifiés manuellement, au besoin, pour exclure toute zone étendue des polygones qui ne comprenait pas de points chauds."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1030ed22-2fa3-42f5-b26f-b27a7b167159"
+  ],
+  "dct_issued_s": "2021-03-30",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1030ed22-2fa3-42f5-b26f-b27a7b167159\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Diversity, Richness, and Biomass Hotspots",
+  "gbl_mdModified_dt": "2026-03-24T08:41:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9f45884e-948d-5b09-9b7a-5f7095232924",
+  "locn_geometry": "ENVELOPE(-133.9229, -128.2528, 54.64628, 50.09828)",
+  "schema_provider_s": "Open Data Canada"
+}

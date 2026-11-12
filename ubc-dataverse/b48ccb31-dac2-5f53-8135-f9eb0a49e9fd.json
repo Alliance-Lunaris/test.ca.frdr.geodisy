@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Imputation",
+    "Genomic selection",
+    "Picea glauca (Moench) Voss",
+    "Genotyping-by-Sequenicing",
+    "Picea engelmannii Parry ex Engelm."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gamal El-Dien, Omnia (University of British Columbia).",
+    "Ratcliffe, Blaise (University of British Columbia).",
+    "Klápste, Jaroslav (University of British Columbia).",
+    "Chen, Charles (Oklahoma State University).",
+    "Porth, Ilga (University of British Columbia, Université Laval).",
+    "El-Kassaby, Yousry A. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/YrxSE3-s-9F2n8V2VywS-qPVtazeFW0Nyut5F7w0pkI</p>\n<p><b>Storage size:</b> 117421105</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Background: Genomic selection (GS) in forestry can substantially reduce the length of breeding cycle and increase gain per unit time through early selection and greater selection intensity, particularly for traits of low heritability and late expression. Affordable next-generation sequencing technologies made it possible to genotype large numbers of trees at a reasonable cost.  Results: Genotyping-by-sequencing was used to genotype 1,126 Interior spruce trees representing 25 open-pollinated families planted over three sites in British Columbia, Canada. Four imputation algorithms were compared (mean value (MI), singular value decomposition (SVD), expectation maximization (EM), and a newly derived, family-based k-nearest neighbor (kNN-Fam)). Trees were phenotyped for several yield and wood attributes. Single- and multi-site GS prediction models were developed using the Ridge Regression Best Linear Unbiased Predictor (RR-BLUP) and the Generalized Ridge Regression (GRR) to test different assumption about trait architecture. Finally, using PCA, multi-trait GS prediction models were developed. The EM and kNN-Fam imputation methods were superior for 30 and 60% missing data, respectively. The RR-BLUP GS prediction model produced better accuracies than the GRR indicating that the genetic architecture for these traits is complex. GS prediction accuracies for multi-site were high and better than those of single-sites while multi-site predictability produced the lowest accuracies reflecting type-b genetic correlations and deemed unreliable. The incorporation of genomic information in quantitative genetics analyses produced more realistic heritability estimates as half-sib pedigree tended to inflate the additive genetic variance and subsequently both heritability and gain estimates. Principle component scores as representatives of multi-trait GS prediction models produced surprising results where negatively correlated traits could be concurrently selected for using PCA2 and PCA3.  Conclusions: The application of GS to open-pollinated family testing, the simplest form of tree improvement evaluation methods, was proven to be effective. Prediction accuracies obtained for all traits greatly support the integration of GS in tree breeding. While the within-site GS prediction accuracies were high, the results clearly indicate that single-site GS models ability to predict other sites are unreliable supporting the utilization of multi-site approach. Principle component scores provided an opportunity for the concurrent selection of traits with different phenotypic optima.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Phenotypes</h4><div class=\"o-metadata__file-description\">Tree ID (Site, Family, Tree), height, diameter, volume, velocity, Resistograph, Xray (wood density), MoE (modulus of elasticity)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SNP MI 30%</h4><div class=\"o-metadata__file-description\">Genotyping-by-sequence imputated SNP file with 30% missing data using the mean imputation method</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SNP MI 60%</h4><div class=\"o-metadata__file-description\">Genotyping-by-sequence imputated SNP file with 60% missing data using the mean imputation method</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153192_150149",
+    "https://doi.org/10.5683/SP2/NL4QXQ"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/NL4QXQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Prediction accuracies for growth and wood attributes of interior spruce in space using genotyping-by-sequencing",
+  "gbl_mdModified_dt": "2021-05-20T03:35:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b48ccb31-dac2-5f53-8135-f9eb0a49e9fd",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

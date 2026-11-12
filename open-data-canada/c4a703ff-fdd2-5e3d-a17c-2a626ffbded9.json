@@ -1,0 +1,91 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "dcat_keyword_sm": [
+    "coast",
+    "un mariage",
+    "fishing",
+    "climate change",
+    "coastal monitoring program",
+    "environmental monitoring",
+    "océanographie",
+    "temperature",
+    "oxygène dissous",
+    "ph",
+    "pH",
+    "temperature",
+    "écosystème",
+    "aquaculture",
+    "surveillance environnementale",
+    "pêche",
+    "climate change",
+    "amarrage",
+    "Government information",
+    "changement climatique",
+    "écosystème",
+    "pêcheries",
+    "dissolved oxygen",
+    "environnement",
+    "programme de surveillance côtière",
+    "Information gouvernementale",
+    "oxygène dissous",
+    "nouveau-brunswick",
+    "océan",
+    "changement climatique",
+    "température",
+    "ecosystem",
+    "côte",
+    "programme de surveillance côtière",
+    "oxygen dissous",
+    "environment",
+    "aquaculture",
+    "qualité de l'eau",
+    "new brunswick",
+    "surveillance de l'environnement",
+    "water quality",
+    "salinité",
+    "environmental monitoring",
+    "température",
+    "salinity",
+    "coastal monitoring program",
+    "mooring",
+    "oceanography",
+    "fisheries",
+    "amarrage",
+    "ecosystem",
+    "ocean"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur la qualité de l'eau de la région nord du Nouveau-Brunswick"
+  ],
+  "dct_creator_sm": [
+    "Government of New Brunswick | Gouvernement du Nouveau-Brunswick."
+  ],
+  "dct_description_sm": [
+    "Oceanographic data from stationary moorings deployed as part of the New Brunswick Coastal Monitoring Program. This Program is a collaboration between the Department of Agriculture, Aquaculture, and Fisheries (DAAF), the Centre for Marine Applied Research (CMAR), Fisheries and Oceans Canada Gulf Region, and several third party field contractors.\n\nUsage Considerations:\n\nThe Coastal Monitoring Program provides high resolution ocean data from around the coast of New Brunswick. Temperature, dissolved oxygen, salinity, and pH data is collected using sensors deployed on stationary moorings. A typical mooring consists of a line anchored to the sea floor and suspended by a sub-surface buoy, with sensors attached at various depths. Sensors are deployed for several months, and data are measured every 10 minutes to 1 hour. Station locations, summary reports, and data collection methods are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/). Datasets and reports may be revised pending ongoing data collection and analyses.\n\nAn automated Gross Range test was applied to the data to identify outlying and unexpected values. These automated flags were reviewed by human experts and modified where necessary. The results are summarized in the “qc_flag” columns of the dataset.  Each data point was assigned a flag of “Pass”, “Fail”, or “Suspect/Of Interest” (IOOS, 2020). Observations flagged as “Pass” passed the tests, while observations flagged as “Fail” failed at least one test and should be excluded from most analyses. “Suspect/Of Interest” flags highlight unusual events or poor-quality data, and “Not Evaluated” flags indicate at least one test was not applied to the observation. Flags should be used as a guide only, and users are responsible for evaluating the data quality prior to use. For technical details on the Quality Control tests, visit the CMAR Data Governance website (https://dempsey-cmar.github.io/cmp-data-governance/pages/cmp_about.html).\n\nOther data quality considerations: 1) Through calibration-validation procedures, CMAR has discovered that the VR2AR temperature sensors typically record 0.5 – 1 °C lower than other temperature sensors. This is not corrected for or flagged in the datasets but may be in the future. 2) Sensor drift is not flagged in the datasets. 3) The sensor_depth_at_low_tide_m column is an estimate and should be compared to sensor_depth_measured_m when possible. Note the mooring can get “knocked down” by currents or sink from biofouling. Large discrepancies between the estimated depth and the minimum recorded depth are flagged in the column depth_crosscheck_flag.\n\nThe Coastal Monitoring Program data is organized by region (North and South). These datasets are very large, typically exceeding the number of rows that can be viewed in Excel. CMAR recommends filtering the data to the waterbody, station, depth, quality control flag, and/or time period of interest before exporting. Take care when exporting data filtered on quality control columns, because the whole row will be filtered (i.e., all other variables measured at that timestamp will also be excluded).\n\nIf you have accessed any Coastal Monitoring Program data, CMAR would appreciate your feedback: https://forms.gle/AyD7Vi3BpKGe6ueYA. Please acknowledge the Centre for Marine Applied Research in any published material that uses this data. Contact info@cmar.ca for more information.\n\nRelated Documents:\n\nhttps://cmar.ca/reports//Données océanographiques provenant de mouillages fixes déployés dans le cadre du Programme de surveillance côtière du Nouveau-Brunswick. Ce programme est une collaboration entre le ministère de l’Agriculture, de l’Aquaculture et des Pêches (MAAP), le Centre de recherche marine appliquée (CRMA), Pêches et Océans Canada, région du Golfe, et plusieurs entrepreneurs de terrain externes.\n\nConsidérations relatives à l’utilisation:\n\nLe Programme de surveillance côtière fournit des données océaniques à haute résolution pour la côte du Nouveau-Brunswick. Les données de température, d’oxygène dissous, de salinité et de pH sont recueillies à l’aide de capteurs déployés sur des mouillages fixes. Un mouillage typique est constitué d’une ligne ancrée au fond marin et suspendue par une bouée sous-marine, avec des capteurs fixés à différentes profondeurs. Les capteurs sont déployés pendant plusieurs mois et les données sont mesurées toutes les 10 minutes à 1 heure. L’emplacement des stations, les rapports de synthèse et les méthodes de collecte de données sont disponibles sur le site Web du CRMA (https:",
+    "/cmar.ca/coastal-monitoring-program/). Les ensembles de données et les rapports peuvent être révisés en fonction des données collectées et analysées en cours. Un test automatisé d'étendue brute a été appliqué aux données afin d'identifier les valeurs aberrantes et inattendues. Ces alertes automatiques ont été examinées par des experts et modifiées le cas échéant. Les résultats sont résumés dans les colonnes « qc_flag » de l'ensemble de données. Chaque point de données s'est vu attribuer l'indicateur « Pass (Réussi) », « Fail (Échec) » ou « Suspect/Of Interest (Suspect/Intéressant) » (SIOO, 2020). Les observations signalées comme « Pass (Réussi) » ont passé les tests, tandis que celles signalées comme « Fail (Échec) » ont échoué à au moins un test et doivent être exclues de la plupart des analyses. Les indicateurs « Suspect/Of Interest (Suspect/Intéressant) » signalent des événements inhabituels ou des données de mauvaise qualité, et les indicateurs « Not evaluated (Non évalué) » indiquent qu'au moins un test n'a pas été appliqué à l'observation. Ces indicateurs ne doivent être utilisés qu'à titre indicatif, et il incombe aux utilisateurs d'évaluer la qualité des données avant leur utilisation. Pour plus de détails techniques sur les tests de contrôle qualité, veuillez consulter le site web de gouvernance des données du Centre de recherche appliquée marine (CRAM): https://dempsey-cmar.github.io/cmp-data-governance/pages/cmp_about.html. Autres considérations relatives à la qualité des données : 1) Lors des procédures d’étalonnage et de validation, le CRAM a constaté que les capteurs de température VR2AR enregistrent généralement une température inférieure de 0,5 à 1 °C à celle des autres capteurs. Cette différence n’est ni corrigée ni signalée dans les jeux de données, mais pourrait l’être ultérieurement. 2) La dérive des capteurs n’est pas signalée dans les jeux de données. 3) La colonne sensor_depth_at_low_tide_m correspond à une estimation et doit être comparée, si possible, à la colonne sensor_depth_measured_m. Il est à noter que le mouillage peut être déplacé par les courants ou s’enfoncer sous l’effet de la biofouling. Les écarts importants entre la profondeur estimée et la profondeur minimale enregistrée sont signalés dans la colonne depth_crosscheck_flag.\n\nLes données du Programme de surveillance côtière sont organisées par région (Nord et Sud). Ces jeux de données sont très volumineux et dépassent généralement le nombre de lignes affichables dans Excel. Le CRAM recommande de filtrer les données par plan d’eau, station, profondeur, indicateur de contrôle qualité et/ou période d’intérêt avant de les exporter. Soyez prudent lors de l'exportation de données filtrées selon les colonnes de contrôle de la qualité, car la ligne entière sera filtrée (c.-à-d. que toutes les autres variables mesurées à ce moment précis seront également exclues).\n\nSi vous avez accédé à des données du Programme de surveillance côtière, le CRAM apprécierait vos commentaires : https://forms.gle/AyD7Vi3BpKGe6ueYA. Veuillez mentionner le Centre de recherche marine appliquée dans toute publication utilisant ces données. Pour plus d'information, veuillez communiquer avec info@cmar.ca.\n\nDocuments connexes:\n\nhttps://cmar.ca/reports/"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e9aee4e0-3651-a9de-6086-0b3f45c6a725"
+  ],
+  "dct_issued_s": "2026-06-29",
+  "dct_publisher_sm": [
+    "Government of New Brunswick | Gouvernement du Nouveau-Brunswick"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e9aee4e0-3651-a9de-6086-0b3f45c6a725\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - New Brunswick http://www.snb.ca/e/2000/data-E.html"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "New Brunswick North Region Water Quality Data",
+  "gbl_mdModified_dt": "2026-10-07T14:01:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c4a703ff-fdd2-5e3d-a17c-2a626ffbded9",
+  "locn_geometry": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "schema_provider_s": "Open Data Canada"
+}

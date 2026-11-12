@@ -1,0 +1,63 @@
+{
+  "dcat_bbox": "ENVELOPE(-92.68, -73.43, 49.19, 39.85)",
+  "dcat_keyword_sm": [
+    "lake and land breeze fronts",
+    "Weather",
+    "atmosphere",
+    "base de donnees de fronts à mesoechelle autour",
+    "Weather and Climate",
+    "database",
+    "des fronts de rafales",
+    "shapefiles",
+    "Great Lakes",
+    "Climatology",
+    "geodatabase",
+    "mesoscale boundary",
+    "un fichier de forme",
+    "meteorology",
+    "2015 Toronto Pan American and Parapan American Games",
+    "de fronts à mesoechelle autour",
+    "des Jeux pan et parapanaméricains de TO2015",
+    "Des Grands Lacs",
+    "Temps et climat",
+    "Climatologie",
+    "des brises de lac et de terre",
+    "Temps (Météorologie)",
+    "outflow boundaries",
+    "météorologie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base de données sur de fronts à mesoechelle autour des Grands Lacs des Jeux pan et parapanaméricains de TO2015"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Mesoscale boundaries have an important influence on mesoscale weather. They can trigger, enhance or inhibit convections and severe weather. They are also indicators of shifts in wind speed and direction, temperature and relative humidity, and can affect air quality and heat indices. Around the Great Lakes, it has been observed that mesoscale boundaries are prevalent and can have complex interactions between each other.\r\n\r\nA mesoscale boundary is the interface between two air masses for weather phenomenon on a scale of 5km to 100km. Mesoscale boundaries are generally associated with wind and differences in temperature, pressure and relative humidity. During the 2015 Pan Am and Parapan Am Games periods, boundary information were collected from July 10 to August 15, 2015. These included lake and land breeze fronts, outflow boundaries, as well as merged and other boundaries.\r\n\r\nEach mesoscale boundary is represented as a curve on the surface of the Earth with a list of coordinates. The data are stored in GeoJSON format and Shapefiles. A CSV file summarizes all the properties of the boundaries, but does not include any geometric information.",
+    "Les fronts à mésoéchelle jouent un rôle important pour la météo à moyenne échelle. Ils peuvent déclencher, intensifier ou freiner le développement des convections et du temps violent. Ils sont aussi un indicateur des changements dans la vitesse et la direction du vent, la température et l'humidité relative, et influencent la qualité de l'air et les indices de chaleur. Autour des Grands Lacs, la prévalence des fronts à mésoéchelle a été observée et leur interaction peut être complexe.\r\n\r\nUn front à mésoéchelle est l'interface entre deux masses d'air pour des phénomènes météorologiques à l'échelle de 5km à 100km. Aux fronts à mésoéchelle sont généralement associés du vent et une différence de température, de pression et d'humidité relative. Au cours des périodes des Jeux panaméricains et parapanaméricains de 2015, les informations ont été recueillies du 10 juillet au 15 août 2015. Les types de fronts inclus des brises de lac et de terre, des fronts de rafales, ainsi que des fronts fusionnés ou d'autre type.\r\n\r\nChaque front est représenté comme une courbe sur la surface de la Terre avec une séquence de coordonnées. Les données sont stockées pour chaque années dans des fichiers de format GeoJSON et Shapefile. Un fichier CSV résume les propriétés de chaque front, mais ne contient pas d'information sur leur géométrie."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8adf372b-8cc4-48a2-9a2a-d9dc8d4b4f2a"
+  ],
+  "dct_issued_s": "2019-08-02",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8adf372b-8cc4-48a2-9a2a-d9dc8d4b4f2a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Great Lakes Mesoscale Boundary Database - TO2015 Pan and Parapan American Games",
+  "gbl_mdModified_dt": "2021-07-27T13:21:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "86dfd2c9-8196-55ef-b2d9-ea9ba881a160",
+  "locn_geometry": "ENVELOPE(-92.68, -73.43, 49.19, 39.85)",
+  "schema_provider_s": "Open Data Canada"
+}

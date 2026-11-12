@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "mines act permit",
+    "notice of work",
+    "Government information",
+    "aggregate",
+    "coal",
+    "mining",
+    "mines act",
+    "MCM",
+    "permit",
+    "application",
+    "NOW",
+    "quarry",
+    "mineral",
+    "authorizations",
+    "placer"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Localisations spatiales de l'avis de travail (NoW) - Public"
+  ],
+  "dct_creator_sm": [
+    "Samson Lee."
+  ],
+  "dct_description_sm": [
+    "This point dataset represents both applications for a Mines Act permit and issued authorizations for mining activities proposed in the application. Applications for regional Mines Act permits are known as Notice of Work (NoW) applications. Regional mine permits are issued for mineral and coal exploration activities, sand and gravel production, quarry production, and placer mining. Major mine permits are issued for producing mineral and coal mines. Permits are issued by the chief permitting officer under section 10 of the Mines Act and administered by the ministry. Regional mines include: * Exploration — mineral, coal, rock quarry, industrial mineral or dimension stone * Sand and gravel — aggregate, rock or natural substances used for construction purposes * Placer   Most exploration and development activities require a permit under the Mines Act. A decision marks the end of the permitting process for a NoW application. The decision can either be to reject the application or to authorize the mining activities proposed in the NoW. * For new NoW authorizations, a Mines Act permit is issued * For an existing open Mines Act permit, the newly authorized mining activities are amended to the existing permit and the permit is re-issued   **NOTE:** Administrative amendments to a NoW are not captured in this dataset. We are currently working to include this addition for a more complete view of the data. For proponents, please log into https://minespace.gov.bc.ca/ to confirm any authorizations on your permits. The ministry is transitioning from point data to polygonal data for permits and authorizations. The polygon dataset is added to when data becomes available. Users should use both the point dataset and the polygon dataset in combination. Polygon representation of permits with authorizations are referred to as Notice of Work (NoW) – Permitted Mine Areas – Regional Mine - Public https://catalogue.data.gov.bc.ca/dataset/c728435d-410e-42f9-81d5-95978c90e44a The downloaded product from the BCGW is a complete set of all the NoW public records. In addition to the records that contain lat/long references to be mapped spatially, this includes records that do not have NoW lat/long or mine lat/long coordinates to spatialize. These records are listed in a CSV file (HSP_NOTICE_OF_WORK_PA_POINT_SV_NullGeom). Notice of Work categories include: Notice of Work application type, Notice of Work application status. **Notice of Work application type** Field: NOW_APPLICATION_TYPE_DESC (NW_APPTYPD) * Coal * Mineral * Placer Operations * Quarry – Construction Aggregate * Quarry – Industrial Mineral * Sand and Gravel   **Notice of Work application status** Field: NOW_APPLICATION_STATUS_DESC (NW_APPSTAD) * Approved – mining activities in the NoW application have been authorized * Client Delayed – Client needs to provide additional information or reclamation security * Government Action Required – Government needs to action; this status is triggered once a client has provided the requested information and client delay is no longer valid * Referred – Includes referral to agencies and stakeholders, and consultation with First Nations * Rejected – An application is rejected. Either the application standards are not met or requested documentation or security was not provided * Received – The NoW application has been sent from virtual FrontCounterBC to the ministry database * No Permit Required – Category when an inspector reviews the application and non-mechanized disturbance does not require a permit, for example an IP survey * Referral Complete – Referral and consultation is complete. The government needs to action the next steps * Withdrawn – Client requested the application to be withdrawn * Pending verification – Category for records needing review and verification. Typically, these are historical NoW applications with approvals. Manual review is required * NULL value – missing status and application type   **For the public view, please be aware that the ministry:** * Only shows mine commodities of gold or jade/nephrite in the MINE_COMMODITY_DESC (MN_COMD) field. All other commodity values remain NULL (empty)",
+    "Cet ensemble de données de points représente à la fois les demandes de permis en vertu de la Loi sur les mines et les autorisations délivrées pour les activités minières proposées dans la demande. Les demandes de permis régionaux en vertu de la Loi sur les mines sont appelées demandes d'avis de travail (NoW). Des permis miniers régionaux sont délivrés pour les activités d'exploration de minéraux et de charbon, la production de sable et de gravier, la production de carrières et l'extraction de placers. Les principaux permis miniers sont délivrés pour la production de mines de minéraux et de charbon. Les permis sont délivrés par le directeur des permis en vertu de l'article 10 de la Loi sur les mines et administrés par le ministère. Les mines régionales comprennent : * L'exploration — minéraux, charbon, carrière de roches, minéraux industriels ou pierres de taille * Le sable et le gravier — agrégats, roches ou substances naturelles utilisés à des fins de construction * Placer La plupart des activités d'exploration et de développement nécessitent un permis en vertu de la Loi sur les mines. Une décision marque la fin du processus d'autorisation pour une demande NoW. La décision peut être de rejeter la demande ou d'autoriser les activités minières proposées dans le NoW. * Pour les nouvelles autorisations NoW, un permis en vertu de la Loi sur les mines est délivré * Pour un permis ouvert existant en vertu de la Loi sur les mines, les activités minières nouvellement autorisées sont modifiées par rapport au permis existant et le permis est réémis **REMARQUE :** Les modifications administratives apportées à un NoW ne sont pas prises en compte dans cet ensemble de données. Nous travaillons actuellement à l'inclusion de cet ajout afin d'avoir une vue plus complète des données. Pour les soumissionnaires, veuillez vous connecter à https://minespace.gov.bc.ca/ pour confirmer les autorisations associées à vos permis. Le ministère passe des données ponctuelles aux données polygonales pour les permis et les autorisations. Le jeu de données de polygones est ajouté lorsque les données sont disponibles. Les utilisateurs doivent utiliser à la fois le jeu de données de points et le jeu de données de polygones en combinaison. La représentation polygonale des permis assortis d'autorisations est appelée Notice of Work (NoW) — Zones minières autorisées — Regional Mine - Public https://catalogue.data.gov.bc.ca/dataset/c728435d-410e-42f9-81d5-95978c90e44a Le produit téléchargé depuis le BCGW est un ensemble complet de tous les documents publics NoW. Outre les enregistrements qui contiennent des références lat/long à cartographier spatialement, cela inclut les enregistrements qui n'ont pas de coordonnées lat/long NoW ou miennes lat/long à spatialiser. Ces enregistrements sont répertoriés dans un fichier CSV (HSP_Notice_Of_Work_PA_Point_SV_NullGeom). Les catégories d'avis de travail incluent : le type de demande d'avis de travail, l'état de la demande d'avis de travail. **Type de demande d'avis de travail** Champ : NOW_APPLICATION_TYPE_DESC (NW_APPTYLD) * Charbon * Minerais * Opérations de placage * Carrière — Agrégat de construction * Carrière — Minéral industriel * Sable et gravier **État de la demande d'avis de travail** Champ : NOW_APPLICATION_STATUS_DESC (NW_APPSTAD) * Approuvé — les activités minières dans l'application NoW ont été autorisées * Client retardé — Le client doit fournir des informations supplémentaires ou une réclamation sécurité * Action gouvernementale requise — Le gouvernement doit agir ; ce statut est déclenché une fois qu'un client a fourni le les informations demandées et le retard du client ne sont plus valides * Recommandé — Comprend le renvoi aux agences et aux parties prenantes, et la consultation avec les Premières Nations * Rejeté — Une demande est rejetée. Soit les normes de candidature ne sont pas respectées, soit la documentation demandée soit la sécurité n'a pas été fournie * Reçu — L'application NoW a été envoyée de FrontCounterBC virtuel à la base de données du ministère * Aucun permis requis — Catégorie dans laquelle un inspecteur examine la demande et une perturbation non mécanisée ne nécessite pas de permis, par exemple une enquête IP * Renvoi terminé — Le renvoi et la consultation sont terminés. Le gouvernement doit passer aux étapes suivantes * Retiré — Le client a demandé le retrait de la demande * En attente de vérification — Catégorie réservée aux dossiers nécessitant un examen et une vérification. Il s'agit généralement d'applications NoW historiques approuvées. Une révision manuelle est requise * Valeur NULL — statut et type de demande manquants **À l'attention du public, veuillez noter que le ministère :** * N'affiche que les matières premières minières que sont l'or ou le jade/néphrite dans le champ MINE_COMMODITY_DESC (MN_COMD). Toutes les autres valeurs de matières premières restent nulles (vides)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fab53209-63be-4c61-8de4-3e3fceec4227"
+  ],
+  "dct_issued_s": "2022-06-17",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fab53209-63be-4c61-8de4-3e3fceec4227\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Notice of Work (NoW) Spatial Locations - Public",
+  "gbl_mdModified_dt": "2026-01-28T19:41:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83e1a73f-4f8f-55a7-b6e4-02eaa4e5c881",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

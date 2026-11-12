@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "Dungeness Crab",
+    "circuit theory analysis",
+    "adult movement",
+    "Marine protected areas",
+    "benthic",
+    "least-cost analysis",
+    "MPA",
+    "Climate change",
+    "Northern Shelf Bioregion",
+    "British Columbia",
+    "Connectivity",
+    "Shortspine Thornyhead"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Friesen, Sarah K. (University of Victoria; ; Fisheries and Oceans Canada). ORCID: https://orcid.org/0000-0003-4488-0479",
+    "Rubidge, Emily (Department of Fisheries and Oceans Canada, Fisheries and Oceans Canada; University of British Columbia, Fisheries and Oceans Canada).",
+    "Martone, Rebecca (Ministry of Forests, Lands, Natural Resource Operations and Rural Development, Province of British Columbia).",
+    "Hunter, Karen L. (Fisheries and Oceans Canada).",
+    "Peña, M. Angelica (Fisheries and Oceans Canada).",
+    "Ban, Natalie C. (University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "<p>This repository contains spatial layers from the analysis in Friesen <i>et al</i> (2021). See \"Related Publication\".</p> \n\n\n<p> Our objective was to assess how ecological connectivity between MPAs may shift with projected seasonal ocean temperature changes in the Northern Shelf Bioregion in British Columbia, Canada. We used benthic temperature outputs from a regional ocean model of the British Columbia continental margin. These model outputs cover a hindcast simulation (1981-2010) and a future climate projection based on the RCP8.5 scenario (2041-2070). To generate the input layers for the analysis, we first calculated mean seasonal temperatures for each pixel in the two time periods. We also subtracted the hindcast temperature value from the projected future temperature value to determine temperature change, then averaged temperature change across the pixels intersecting each MPA. Second, we modelled suitable habitats for each time period and season based on the adult environmental preferences of two case study species: <i>Metacarcinus magister</i>  (Dungeness Crab) and <i>Sebastolobus alascanus</i> (Shortspine Thornyhead). Third, we generated resistance surfaces for each time period and season using the adult environmental preferences of the two case study species. Fourth, we identified MPAs that contained suitable habitats and defined those as network nodes for the connectivity analyses.  \n\nOnce the analysis input layers were generated, we applied least-cost and circuit theory-based tools to identify potential linkages between MPAs via adult movement and compare MPA interconnectedness between the two time periods. Specifically, we used Linkage Mapper to generate least-cost corridors and Pinchpoint Mapper to conduct a seascape-level analysis simulating random exploratory movements within the network. This repository contains the layers from each step of this analysis."
+  ],
+  "dct_identifier_sm": [
+    "174465_74103",
+    "https://doi.org/10.5683/SP2/IZ3JPB"
+  ],
+  "dct_issued_s": "2021-06-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/IZ3JPB\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data from: Effects of changing ocean temperatures on ecological connectivity among marine protected areas in northern British Columbia",
+  "gbl_mdModified_dt": "2021-06-16T14:42:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "53d3a125-5ea7-55fd-a84c-6d8acaa086ef",
+  "pcdm_memberOf_sm": [
+    "CHONe II"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

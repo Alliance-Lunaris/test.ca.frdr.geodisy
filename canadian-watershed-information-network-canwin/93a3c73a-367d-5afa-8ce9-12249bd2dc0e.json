@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.7243, -67.6604, 49.3093, 49.2872)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data report provides information on temperature and salinity in the Godbout region of the St. Lawrence Estuary. Sampling was carried out from 2019 to 2021 over an area of <5 km2. The databases provide information on temperature and salinity at an hourly rate for 2 years.  \n\nThe aim of this project is to analyze telemetry data from sea urchins (Strongylocentrotus droebachiensis), snow crabs (Chionoecetes opilio), rock crabs (Cancer irroratus), spider crabs (Hyas spp.) and whelks (Buccinum undatum). This report focuses on the presentation of benthic environmental data collected throughout the study with high spatial and temporal resolution.  All reported variables were collected at the seafloor, as the aim of the project was to study the movement of epibenthic species. \n\nTemperature data were collected from three devices: telemetry receivers with integrated temperature sensors (InnovaseaTM), HoboTM and Star-OddiTM probes. Temperature data processing involved cleaning up extreme values (below 2°C and above 20°C) and homogenizing the data to fit the bathymetry matrix (1m x 1m cells) of the study site. Temperature data are provided in a NetCDF file with a matrix of the entire study site, where there is a stratum for each hour between August 2019 and October 2021 and in each file, a temperature value for each pixel of the raster.  \n\nSalinity data were collected from Star-OddiTM probes only. Salinity values were averaged hourly for the entire study area. Salinity data is provided as a CSV file with one salinity value per hour for the entire study area."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/baaadb68-45a2-4092-81c1-0394040741d4"
+  ],
+  "dct_issued_s": "2025-03-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/baaadb68-45a2-4092-81c1-0394040741d4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seasonal temperature and salinity of Petite baie Saint-Nicolas (Godbout) in Gulf of St Lawrence from August 2019 to October 2021",
+  "gbl_mdModified_dt": "2026-06-03T20:00:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "93a3c73a-367d-5afa-8ce9-12249bd2dc0e",
+  "locn_geometry": "ENVELOPE(-67.7243, -67.6604, 49.3093, 49.2872)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Microfluidic",
+    "Microfluidique",
+    "Open space microfluidics",
+    "Microfluidique ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Goyette, Pierre-Alexandre (Polytechnique Montréal). ORCID: https://orcid.org/0000-0003-2398-3647",
+    "Boulais, Étienne (Polytechnique Montréal). ORCID: https://orcid.org/0000-0001-5539-1588",
+    "Tremblay, Maude (Polytechnique Montréal). ORCID: https://orcid.org/0000-0002-0203-5069",
+    "Gervais, Thomas (Polytechnique Montréal). ORCID: https://orcid.org/0000-0002-2025-9082"
+  ],
+  "dct_description_sm": [
+    "<p>Simulations and analysis were performed by Pierre-Alexandre Goyette and Maude Tremblay.\nThe 2D finite element simulation of the PCDs were made using the MATLAB-COMSOL livelink (COMSOL Multiphysics v.5.1, COMSOL AB). Simulations were made by coupling Laplace’s equation (velocity potential) with diffusion.\nA custom code was made such as stochastic error in the range [-X%, X%] was added to the flow rate of every apertures. The files are categorised in function of the size of the PCD, and the error range used for the simulation.\n1000 simulations were made for every condition.\nThe PCD used are either a square array of X by X aperture, or a hexagonal staggered array of 92 aperture, used for the triangle pixel simulations.</p>\n\n <p>Les simulations et l’analyse ont été faites par Pierre-Alexandre Goyette et Maude Tremblay. Les simulations par élément finis 2D et ont été faites à l’aide de MATLAB-COMSOL livelink (COMSOL Multiphysics v.5.1, COMSOL AB). Les simulations couplent l’équation de Laplace (potentiel de vélocité) et la diffusion. Un code Matlab a été utilisé afin d’ajouter une erreur stochastique entre les bornes [-X%, X%] pour chacune des ouvertures. Les fichiers sont catégorisés en fonction des bornes (X%) utilisées pour les erreurs stochastiques, et en fonction de la taille des afficheurs pixélisés. 1000 Simulations ont été faites pour chaque condition. Les   afficheurs pixélisés dans les simulations sont formés de tableaux de N par N ouvertures, utilisées pour les simulations de pixels carrés, ou un arrangement en quinconce hexagonal de 92 ouvertures, utilisées pour les simulations de pixels triangulaires.</p>",
+    "<p>This data repository contains all the simulation result used for the article:  \"Pixel-based open-space microfluidics for versatile surface processing\" by Pierre-Alexandre Goyette, Étienne Boulais, Maude Tremblay and Thomas Gervais.\nThis dataset contains the simulation results of pixelated chemical display where stochastic errors are added to the flow rate of the injections and aspirations. The objective is to simulate the behavior of pixelated chemical displays in a real life contexts, where fabrication  errors and partial clogging can affect the device.</p>\n\n<p>Cet ensemble de données contient les résultats de simulations utilisés dans l’article « Pixel-based open-space microfluidics for versatile surface processing » par Pierre-Alexandre Goyette, Étienne Boulais, Maude Tremblay et Thomas   Gervais. Cet ensemble de données contient des simulations d’afficheurs chimiques pixélisés, où des erreurs stochastiques sont ajoutées aux débits de toutes les injections et les aspirations. L’objectif de ces simulations est de simuler le comportement des afficheurs chimique dans un contexte réel, ou des erreurs de fabrication et des obstructions partielles de canaux peuvent survenir et affecter le système.</p>"
+  ],
+  "dct_identifier_sm": [
+    "106166_108417",
+    "https://doi.org/10.5683/SP2/TFJPJM"
+  ],
+  "dct_issued_s": "2020-12-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TFJPJM\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Pixelated Chemical Display Stability Simulations / Résultats des simulations de stabilité des afficheurs chimiques pixélisés",
+  "gbl_mdModified_dt": "2024-10-29T19:28:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "75a64426-5197-5a33-8fba-5aa70068eec0",
+  "pcdm_memberOf_sm": [
+    "Laboratoire Microfluidique pour l'oncologie (MuFO) / Microfluidics for Oncology Laboratory Dataverse"
+  ],
+  "schema_provider_s": "Dataverse de Polytechnique Montréal"
+}

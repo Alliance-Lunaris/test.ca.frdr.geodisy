@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "District electoral",
+    "Vote",
+    "Conseiller municipal",
+    "Elections"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of electoral districts for municipal elections, on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection context**\n Data received from an external firm\n\n**Attributes**\n\n* `objective` (`OID`): \n* `district` (`String`): District\n* `electors` (`smallInteger`): Voters\n* `area` (`Double`): Area\n* `st_area (shape) `(`Double`): \n* `st_length (shape) `(`Double`): \n* `name` (`String`): Name\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polygonale des districts électoraux pour les élections municipales, sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n Données reçues d'une firme externe\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `district` (`String`) : District\n* `electeurs` (`SmallInteger`) : Électeurs\n* `superficie` (`Double`) : Superficie\n* `st_area(shape)` (`Double`) : \n* `st_length(shape)` (`Double`) : \n* `nom` (`String`) : Nom\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/668b7750-b71a-4b4e-a0b2-c04a7710a2e4"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/668b7750-b71a-4b4e-a0b2-c04a7710a2e4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Districts électoraux - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T18:41:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d35c7ea-0860-5305-a262-55abada0ef69",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

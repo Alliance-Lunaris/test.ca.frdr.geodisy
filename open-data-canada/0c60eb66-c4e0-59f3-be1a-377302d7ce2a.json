@@ -1,0 +1,101 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.899489, -108.457447, 60.094657, 48.895825)",
+  "dcat_keyword_sm": [
+    "72E",
+    "GIS-DATA",
+    "ALBERTA",
+    "82G",
+    "74E",
+    "84K",
+    "84B",
+    "CANADA",
+    "82P",
+    "84M",
+    "83B",
+    "84J",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "HYDROGEOLOGY",
+    "82J",
+    "83I",
+    "72M",
+    "83D",
+    "83E",
+    "84N",
+    "84C",
+    "72L",
+    "74L",
+    "74D",
+    "84A",
+    "73E",
+    "84P",
+    "82H",
+    "73D",
+    "82N",
+    "83N",
+    "83H",
+    "83J",
+    "83K",
+    "84O",
+    "83G",
+    "84D",
+    "82O",
+    "73M",
+    "83F",
+    "82I",
+    "MAPPING",
+    "83A",
+    "GEOLOGY",
+    "84F",
+    "84L",
+    "83P",
+    "73L",
+    "74M",
+    "83M",
+    "83C",
+    "83O",
+    "84E",
+    "84G",
+    "83L",
+    "GROUNDWATER",
+    "YIELDS",
+    "84H",
+    "84I"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Compilation des cartes hydrogéologiques du Conseil de recherches de l'Alberta (données SIG, entités polygonales)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset accompanies Open File Report 2009-02. Between 1971 and 1983, the Alberta Research Council created a series of hydrogeological maps of Alberta. The geologists examined the sediment types present and used existing water well information to assign yield values to distinct zones within the mapped areas. They also looked at the materials, generally to a depth of 305 metres (1000 feet) below ground surface, and added the yields of the sediments encountered within this interval to arrive at a yield value for the whole. Alberta Geological Survey compiled the shapefiles for the yield polygons, digitized by the Prairie Farm Rehabilitation Agency, and then digitized the remaining linework for the remaining map areas. Afterwards, we created a geodatabase of the yield polygons for the entire province and assigned yield values to the polygons based on the original maps. We also assigned the most likely formation name, age and lithology to the yield polygon.",
+    "Cet ensemble de données accompagne le rapport Open File 2009-02. Entre 1971 et 1983, l'Alberta Research Council a créé une série de cartes hydrogéologiques de l'Alberta. Les géologues ont examiné les types de sédiments présents et ont utilisé les informations existantes sur les puits d'eau pour attribuer des valeurs de rendement à des zones distinctes dans les zones cartographiées. Ils ont également examiné les matériaux, généralement à une profondeur de 305 mètres (1 000 pieds) sous la surface du sol, et ont ajouté les rendements des sédiments rencontrés au cours de cet intervalle pour obtenir une valeur de rendement pour l'ensemble. L'Alberta Geological Survey a compilé les fichiers de formes pour les polygones de rendement, numérisés par la Prairie Farm Rehabilitation Agency, puis a numérisé le tracé restant pour les zones cartographiques restantes. Ensuite, nous avons créé une géodatabase des polygones de rendement pour l'ensemble de la province et avons attribué des valeurs de rendement aux polygones sur la base des cartes originales. Nous avons également attribué le nom, l'âge et la lithologie de la formation les plus probables au polygone de rendement.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7859080d-a5e2-4120-bd50-87214a85ed4d"
+  ],
+  "dct_issued_s": "2009-07-13",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7859080d-a5e2-4120-bd50-87214a85ed4d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Compilation of Alberta Research Council's Hydrogeology Maps (GIS data, polygon features)",
+  "gbl_mdModified_dt": "2026-03-04T19:13:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0c60eb66-c4e0-59f3-be1a-377302d7ce2a",
+  "locn_geometry": "ENVELOPE(-120.899489, -108.457447, 60.094657, 48.895825)",
+  "schema_provider_s": "Open Data Canada"
+}

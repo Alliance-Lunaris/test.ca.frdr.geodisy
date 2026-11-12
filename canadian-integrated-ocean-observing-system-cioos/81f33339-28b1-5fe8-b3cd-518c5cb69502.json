@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "dcat_keyword_sm": [
+    "biogeochemical ocean model",
+    "phosphate",
+    "Oceans",
+    "nitrate",
+    "modelResult",
+    "silicate",
+    "silicate",
+    "nitrate",
+    "nutrients",
+    "ocean model",
+    "phosphate",
+    "Nutriments"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle NEMO de la mer de Salish (Vert) Champs horaires de biologie v19-05"
+  ],
+  "dct_creator_sm": [
+    "Allen, Susan (UBC EOAS)."
+  ],
+  "dct_description_sm": [
+    "Three-dimensional SMELT biological model field values averaged over 1 hour intervals\nfrom Salish Sea NEMO model runs with physics, biology and chemistry. The values are calculated for the entire model grid that includes the Juan de Fuca Strait, the Strait of Georgia, Puget Sound, and Johnstone Strait on the coasts of Washington State and British Columbia. The time values are UTC. They are the centre of the intervals over which the calculated model results are averaged. Geo-location and depth data for the Salish Sea NEMO model grid are available in the ubcSSnBathymetry2V17-02 dataset.",
+    "Valeurs moyennes des champs du modèle biologique de l'éperlan tridimensionnel sur une heure\ndu modèle NEMO de la mer des Salish avec les composantes physique, biologique et la chimique. Les valeurs sont calculées pour l'ensemble de la grille du modèle qui comprend le détroit Juan de Fuca, le détroit de Georgia, le détroit de Puget et le détroit de Johnstone sur les côtes de l'État de Washington et de la Colombie-Britannique. Les valeurs temporelles sont UTC. Ils constituent le centre des intervalles sur lesquels les résultats calculés du modèle sont calculés. Les données de géolocalisation et de profondeur de la grille modèle NEMO de la mer des Salish sont disponibles dans l'ensemble de données UBCSSnBathymetry2v17-02."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/12ff508b-5927-4203-ba21-be249663ec94"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/12ff508b-5927-4203-ba21-be249663ec94\"}",
+  "dct_rights_sm": [
+    "Apache License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0"
+  ],
+  "dct_title_s": "Salish Sea NEMO Model (Green) Hourly Biology Fields v19-05",
+  "gbl_mdModified_dt": "2026-09-16T20:18:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "81f33339-28b1-5fe8-b3cd-518c5cb69502",
+  "locn_geometry": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

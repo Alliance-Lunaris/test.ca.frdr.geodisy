@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.40786773, -74.42505492, 45.76838351, 45.19823008)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Note: To visualize the data in the viewer, zoom into the area of interest.   \n  \n  The National Air Photo Library (NAPL) of Natural Resources Canada archives over 6 million aerial photographs covering all of Canada, some of which date back to the 1920s.  \n  \n  This collection includes Time Series of aerial orthophoto mosaics over a selection of major cities or targeted areas that allow the observation of various changes that occur over time in those selected regions.  \n  \n  These mosaics are disseminated through the Data Cube Platform implemented by NRCan using geospatial big data management technologies. These technologies enable the rapid and efficient visualization of high-resolution geospatial data and allow for the rapid generation of dynamically derived products. The data is available as Cloud Optimized GeoTIFF (COG) for direct access and as Web Map Services (WMS) or Web Coverage Services (WCS) with a temporal dimension for consumption in Web or GIS applications.    \n  \n  The NAPL mosaics are made from the best spatial resolution available for each time period, which means that the orthophotos composing a NAPL Time Series are not necessarily coregistrated. For this dataset, the spatial resolutions are: 25 cm for the year 1950, 75 cm for the year 1960, 50 cm for the year 1964, 75 cm for the year 1973, 75 cm for the year 1994 and 50 cm for the year 2001.  \n  \n  The NAPL indexes and stores federal aerial photography for Canada, and maintains a comprehensive historical archive and public reference centre. The Earth Observation Data Management System (EODMS) online application allows clients to search and retrieve metadata for over 3 million out of 6 million air photos.  \n  \n  The EODMS online application enables public and government users to search and order raw Government of Canada Earth Observation images and archived products managed by NRCan such as aerial photos and satellite imagery. To access air photos, you can visit the EODMS web site: https://eodms-sgdot.nrcan-rncan.gc.ca/index-en.html"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f129611d-7ca1-418b-8390-ebac5adf958e"
+  ],
+  "dct_issued_s": "2022-04-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f129611d-7ca1-418b-8390-ebac5adf958e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Temporal Series of the National Air Photo Library (NAPL) - Ottawa River, Ontario/Quebec (1950-2001)",
+  "gbl_mdModified_dt": "2024-02-20T22:33:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ea3f8132-08c9-56c9-ac6a-eb7418048595",
+  "locn_geometry": "ENVELOPE(-76.40786773, -74.42505492, 45.76838351, 45.19823008)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

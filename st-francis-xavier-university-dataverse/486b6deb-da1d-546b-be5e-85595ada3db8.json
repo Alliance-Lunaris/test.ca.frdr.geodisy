@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Dispersion modeling",
+    "Oil and gas emissions",
+    "Source localization",
+    "Methane concentration",
+    "Synthetic data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Khaleghi, Afshan (St. Francis Xavier University)."
+  ],
+  "dct_description_sm": [
+    "This dataset includes synthetic methane concentration simulations, real-world case study data, and the associated outputs and scripts used to support the findings of this study. The synthetic data were generated using a Gaussian Dispersion Model (GDM) and results from a Lagrangian-back-trajectory model (TERRAFEX) under various sensor-source geometries and atmospheric conditions, simulating stationary sensor deployment scenarios in oil and gas facilities. The real-world dataset consists of concentration reconstructions and localization results from a gas distribution site in Canada, used to validate the methodology under operational conditions.\nThe dataset includes:\n•\tSynthetic data:\nSimulated CH₄ concentration time series, concentration maps, and source localization outputs created using forward Gaussian dispersion modeling. These datasets cover various source-sensor distances (0–125 m), height differences (0–5 m), and four atmospheric stability classes (A–D), resulting in 456 synthetic scenarios.\n•\tCase study data:\nMeasurement data and localization outputs collected from a gas distribution site in Canada, including CH₄ concentration data, wind measurements, and source localization maps reconstructed using TERRAFEX and the Gradient Indicator (GI) tool.\n•\tOutputs:\nIncludes reconstructed concentration fields with TERRAFEX for both synthetic and case study scenarios.\n•\tScripts:\nAll analysis and visualization scripts used in this study were written in R (version 4.2.X). The scripts include the GDM forward model, and the custom-developed GI tool used for source localization from reconstructed concentration maps.\nInstrumentation and Methodology\n•\tSynthetic Data Generation:\nSynthetic data were created using forward Gaussian dispersion modeling, incorporating real wind data collected in Weyburn, Alberta during December 2015, using a Gill ultrasonic anemometer (precision: 3% RMSE for wind speed, ±3° for wind direction). The simulations used a fixed CH₄ emission rate of 41 m³/day with Pasquill-Gifford stability classes A to D. The TERRAFEX model was applied in concentration mode to reconstruct the source contribution maps from the synthetic measurement line.\n•\tCase Study Measurements:\nData were collected at a gas distribution site in Nova Scotia using an Axetris LGD Compact-A CH₄ analyzer (precision 0.01 ppm, 2 Hz) and a Decagon DS-2 Sonic Anemometer (precision 0.01 m s⁻¹, 1°). Sensor height was varied from 2 m to 4.5 m during the measurement campaign (June 24 to July 8, 2020)."
+  ],
+  "dct_identifier_sm": [
+    "927187",
+    "https://doi.org/10.5683/SP3/HPMOC7"
+  ],
+  "dct_issued_s": "2025-05-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/HPMOC7\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Replication Data for: Optimizing Methane Emission Source Localization in Oil and Gas Facilities Using Lagrangian Stochastic Models and Gradient-Based Detection Tools",
+  "gbl_mdModified_dt": "2025-05-27T15:48:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "486b6deb-da1d-546b-be5e-85595ada3db8",
+  "schema_provider_s": "St. Francis Xavier University Dataverse"
+}

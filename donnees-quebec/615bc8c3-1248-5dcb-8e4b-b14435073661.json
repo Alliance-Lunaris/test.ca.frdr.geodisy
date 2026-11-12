@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "HackQC24",
+    "Énergie",
+    "HackQC22",
+    "Consommation responsable",
+    "Énergie renouvellable",
+    "Transisition énergitique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Donnée et analytique."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données d’Hydro Québec présente la consommation d’électricité de l’ensemble des lieux de consommation du Québec par secteur d’activité. Mises à jour deux fois par année, les données sont disponibles depuis 2016 jusqu'à 2022-09.\r\n\r\nLes données de consommation sont indiquées par secteur d’activité (agricole, résidentiel, commercial, institutionnel et industriel) ou d’une municipalité régionale de comté (MRC) de la province de Québec.\r\n\r\nLes données des réseaux municipaux (Alma, Amos, Baie-Comeau, Coaticook, Joliette, Magog, Saguenay, Sherbrooke et Westmount) ainsi que du réseau de la Coopérative régionale d’électricité de Saint-Jean-Baptiste-de-Rouville sont compilées dans le secteur d’activité « institutionnel ».\r\nCompte tenu de la sensibilité des données de consommation électrique à l’égard de la protection de la vie privée ou de certains enjeux commerciaux, il est possible qu’elles ne soient pas disponibles pour certaines municipalités.\r\n\r\n## Méthode\r\nLes données sont extraites des systèmes sources internes de l’entreprise et compilées selon cinq secteurs d’activité :\r\n\r\n* agricole ;\r\n* commercial ;\r\n* industriel ;\r\n* institutionnel ;\r\n* résidentiel.\r\n\r\nLes données des réseaux municipaux (Alma, Amos, Baie-Comeau, Coaticook, Joliette, Magog, Saguenay, Sherbrooke et Westmount) ainsi que du réseau de la Coopérative régionale d’électricité de Saint-Jean-Baptiste-de-Rouville sont compilées dans le secteur d’activité « institutionnel ».\r\n\r\nCompte tenu de la sensibilité des données de consommation électrique à l’égard de la protection de la vie privée ou de certains enjeux commerciaux, il est possible qu’elles ne soient pas disponibles pour certaines municipalités.\r\n\r\n## Renseignements additionnels\r\n* Fréquence de mise à jour : Semestrielle\r\n* Couverture temporelle : Mensuelle\r\n* Notices et conditions d’utilisation : Les données fournies sont brutes, sans garantie de qualité et peuvent changer sans préavis."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/118b936f-3e8e-4734-8172-9fdd0a79b0a3"
+  ],
+  "dct_issued_s": "2022-10-13",
+  "dct_publisher_sm": [
+    "Hydro-Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/118b936f-3e8e-4734-8172-9fdd0a79b0a3\"}",
+  "dct_rights_sm": [
+    "Attribution, pas d’utilisation commerciale (CC-BY-NC 4.0) https://www.donneesquebec.ca/licence/#CC-BY-NC-4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Historique des données de consommation d’électricité au Québec par secteur d’activité",
+  "gbl_mdModified_dt": "2024-03-06T14:17:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "615bc8c3-1248-5dcb-8e4b-b14435073661",
+  "schema_provider_s": "Données Québec"
+}

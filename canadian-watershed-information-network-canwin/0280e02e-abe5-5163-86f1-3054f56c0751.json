@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.29102658, -49.53321408, 74.17484329, 40.87688521)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset uses RADARSAT Constellation Mission (RCM) Synthetic Aperture Radar (SAR) satellite images to identify open water regions within ice-covered rivers during winter, with the aim to assess hydrokinetic resources near remote communities reliant on diesel fuel for electricity generation. The data is processed with the HyRASS, a machine learning-based SAR image processing and classification algorithm.  \n  \n  Disclaimer:  \n  \n  This dataset was designed to identify open water regions within ice-covered rivers for assessing hydrokinetic resources near remote communities reliant on diesel fuel for electricity generation and is subject to the following limitations:   \n  \n  •\tThis dataset was derived from RADARSAT Constellation Mission (RCM) Synthetic Aperture Radar (SAR) satellite images. While these images are generally reliable, they are subject to inherent limitations, including resolution constraints, potential distortion, and occasional inaccuracies in real-time conditions capture.   \n  \n  •\tThe HyRASS algorithm is designed to pinpoint open water areas using satellite images, with a particular emphasis on RCM quad polarization (QP) imagery. This specialization means that its effectiveness depends on the accessibility of this specific type of imagery. Consequently, the data it produces might not cover a broad spectrum of time periods. For more reliable results, it's essential to classify areas more regularly, ensuring that detected open water regions are consistent over time.  \n  \n  This dataset is intended for preliminary assessment and should not be the sole basis for making critical decisions or investments related to hydrokinetic energy projects.  Further validation and in-depth analysis are strongly recommended, and users should conduct their own due diligence and additional research to verify the data accuracy and relevance for specific applications.   \n  \n  By accessing and using this dataset, users acknowledge and accept these disclaimers. The providers of this dataset explicitly absolve themselves of any responsibility or liability for any consequences arising from the use, reliance upon, or interpretation of this dataset. Users are advised that their use of the dataset is at their own risk, and they assume full responsibility for any actions or decisions made based on the information contained therein. This disclaimer is in accordance with applicable laws and regulations, and by accessing or utilizing the dataset, users agree to release the providers of this dataset from any legal claims, damages, or liabilities that may arise from such use."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b102925f-aa0c-41ad-9cc6-979072fc4871"
+  ],
+  "dct_issued_s": "2024-03-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b102925f-aa0c-41ad-9cc6-979072fc4871\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hydrokinetic Resource Assessment: Open Water Regions in Ice-Covered Rivers for Off-grid Diesel-Reliant Communities",
+  "gbl_mdModified_dt": "2024-03-25T13:40:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0280e02e-abe5-5163-86f1-3054f56c0751",
+  "locn_geometry": "ENVELOPE(-141.29102658, -49.53321408, 74.17484329, 40.87688521)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

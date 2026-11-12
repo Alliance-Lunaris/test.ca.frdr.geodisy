@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.0, -54.0, 62.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Atlantic Colonial Waterbird Monitoring database captures geo-referenced data collected under the Atlantic Region’s Canadian Wildlife Service (CWS) Colonial Seabird Monitoring program, and data collected under CWS’ waterfowl and protected areas programs. These programs collectively monitor 22 species of colonial waterbirds breeding in the Atlantic Region of the following groups: fulmars, shearwaters, storm-petrels, gannets, gulls, terns, alcids, eiders, herons and cormorants, with the primary outcome to update information on the distribution, status, and trends of waterbirds breeding in all four Atlantic provinces. \n\nSurveys are conducted using one of three platforms: aerial, boat, or ground. Aerial surveys provide the most cost-effective way of conducting a comprehensive population census of diurnal species visible from air, namely gulls (Herring, Great Black-backed, Ring-billed, Glaucous), Black-legged Kittiwakes, Northern Gannets, terns (Arctic, Common, Roseate, Caspian), cormorants (Greater, Double-crested), Black Guillemots, and Common Eiders.\n\nAerial surveys are also effective in identifying new colonies and provide additional information on how to most effectively conduct boat and ground surveys. Boat and ground surveys are conducted at smaller geographic scales and are necessary to obtain complementary information on the species composition of colonies and correction factors to finalize gull, tern and eider estimates obtained from the aerial surveys. Ground and/or boat surveys are also necessary to conduct colony counts of cliff-nesting birds (murres and fulmars), crevice nesting birds (razorbills and guillemots) and burrow-nesting birds (puffins, storm-petrels, shearwaters).  \n\nRaw data are captured using various survey methods, including:1) visual estimates, 2) direct counts of number of individuals or apparently occupied sites and/or photo counts, 3) sub-sampling the colony through plot counts and extrapolating the estimated occupied densities over the occupied area which in turn is estimated using a variety of geographic information system approaches (e.g., Wilhelm et al. 2015).  \n\nImportant outcomes for how data are used include informing marine spatial planning, emergency preparedness, impact assessment of various anthropogenic threats, and COSEWIC status assessment (e.g., COSEWIC 2020). Further, these data are regularly used internally or in collaboration with partners to form the basis of peer-reviewed publications on regional, national, and/or global population trends for target species (e.g., Langlois Lopez et al. 2022, Iles et al. 2025).\n\nThis dataset represents a subset of data collected from surveys led by CWS spanning from 1910 to 2024 and summarized to present, at a given colony, the year and count of birds from the most recent survey, the year and maximum count of birds within the last 20 years (if available), and the year and maximum count of birds ever recorded. In addition, CWS works closely with a variety of partners (e.g., provincial, other federal departments, academic, not-for profit organizations) to supplement colonial waterbird data collected in the Atlantic Region. To request additional census or survey data, please contact CWS.\n\nCOSEWIC. 2020. COSEWIC assessment and status report on the Leach’s Storm-Petrel (Atlantic population) Oceanodroma leucorhoa in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. xii + 70 pp. (https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html). \n\nIles, D.T., S.E. Gutowsky, A.M. Calvert, S.I. Wilhelm, J.-F. Rail, A. Hedd, H.L. Major, A.C. Smith, and G.J. Robertson. 2025. Estimating regional trajectories and trends of seabirds from sparse and inconsistent colony counts: case studies from eastern Canada with Leach’s Storm-Petrel and Atlantic Puffin. Avian Conservation and Ecology 20(2):16. https://doi.org/10.5751/ACE-02931-200216\n\nLanglois Lopez, S., Bond, A.L., O’Hanlon, N.J., Wilson, J.M., Vitz, A., Mostello, C.S., Hamilton, F., Rail, J.-F., Welch, L., Boettcher, R., Wilhelm, S.I., Anker-Nilssen, T., Daunt, F., and Masden, E. 2022. Global population and conservation status of the Great Black-backed Gull Larus marinus. Bird Conservation International, 1–11. https://doi.org/10.1017/S0959270922000181\n\nWilhelm, S.I., Mailhiot, J., Arany, J., Chardine, J.W., Robertson, G.J., and Ryan, P.C. 2015. Update and trends of three important seabird populations in the western North Atlantic using a geographic information system approach. Marine Ornithology 43: 211-222."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/efe2be8d-f039-4c52-8e88-974166b082c9"
+  ],
+  "dct_issued_s": "2026-06-12",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/efe2be8d-f039-4c52-8e88-974166b082c9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "CWS Atlantic Colonial Waterbird Monitoring",
+  "gbl_mdModified_dt": "2026-06-12T15:31:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a317257f-2546-53e7-9ecd-5294d0e2aa20",
+  "locn_geometry": "ENVELOPE(-65.0, -54.0, 62.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

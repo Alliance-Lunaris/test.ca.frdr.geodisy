@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 0.0, 80.0, 20.0)",
+  "dcat_keyword_sm": [
+    "Extrêmes (Météorologie)",
+    "Cyclone extratropical",
+    "Vents--Vitesse",
+    "Hurricanes and other cyclonic storms",
+    "Extratropical cyclones, near-surface winds, precipitation, extreme weather events"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chen, Ting-Chen (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9254-2314",
+    "Di Luca, Alejandro (UQAM | Université du Québec à Montréal, Université du Québec à Montréal. Département des sciences de la terre et de l'atmosphère, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961",
+    "Winger, Katja (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-2664-2944"
+  ],
+  "dct_description_sm": [
+    "This dataset (produced by the research team of Alejandro Di Luca) is licensed under a CC BY 4.0 license. The source data we used to produce this dataset is the European Centre for Medium-Range Weather Forecasts (ECMWF) ERA5 hourly reanalysis at a spatial resolution of 0.25×0.25 degree. The ECMWF ERA5 reanalysis data (published under a CC BY 4.0 license) is available through the Climate Data Store infrastructure: https://cds.climate.copernicus.eu.",
+    "The NAEC catalogue comprises information on extratropical cyclone (ETC) tracks in North America (20–80 N and 180-0W) from January 1979 to December 2020. The source data used to produce this dataset is obtained from the ECMWF ERA5 reanalysis at 1-hour spatial resolution and 0.25x0.25 degree spatial resolution. In addition to the location, time, and intensity, this dataset also includes ETC-associated impact variables such as the near-surface wind speed, wind gust, and precipitation, averaged using different radii around the ETC center. Both absolute and relative (to the local climatology) measures are provided. This catalogue provides useful information for the assessment of ETC-induced impacts over North America."
+  ],
+  "dct_identifier_sm": [
+    "352201",
+    "https://doi.org/10.5683/SP3/LH8OBV"
+  ],
+  "dct_issued_s": "2022-06-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LH8OBV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Amérique du Nord"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "North America Extratropical Cyclone (NAEC) Catalogue",
+  "gbl_mdModified_dt": "2023-11-28T19:59:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31a419cd-53e3-5b91-a54c-ec71ec4d135a",
+  "locn_geometry": "ENVELOPE(-180.0, 0.0, 80.0, 20.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

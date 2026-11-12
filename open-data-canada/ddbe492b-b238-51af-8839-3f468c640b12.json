@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Electoral division of the 2017 election.\n\n**Collection context**\n Creation of districts in collaboration with the legal services and the electoral data of the Chief Electoral Officer (DGE). Balancing of districts according to anthropogenic constraints and number of voters.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_SEC_DIS` (`long`): Identifier\n* `NAME_DISTRI` (`varchar`): District name\n* `NO` (`long`): District number\n* `AREA` (`varchar`): Area\n* `ADVISORY_NAME` (`varchar`): Name of the advisor\n* `SOURCE` (`varchar`): Source\n* `DATE_CREAT` (`date`): Creation date\n* `DATE_MODIF` (`date`): Date of modification\n* `USER_MODIF` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Découpage électoral de l'élection 2017.\n\n**Contexte de collecte**\n Création des districts en collaboration avec les services juridiques et les données électorale du Directeur Général des Élections (DGE). Balancement des districts selon contraintes anthropiques et nombre d'électeurs.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_SEC_DIS` (`long`) : Identifiant\n* `NOM_DISTRI` (`varchar`) : Nom du district\n* `NO` (`long`) : Numéro de district\n* `SUPERFICIE` (`varchar`) : Superficie\n* `NOM_CONSEI` (`varchar`) : Nom du conseillé\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREAT` (`date`) : Date de création\n* `DATE_MODIF` (`date`) : Date de modification\n* `USER_MODIF` (`varchar`) : Modifié par\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f9a61d97-946d-4a22-a378-668300df65ca"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f9a61d97-946d-4a22-a378-668300df65ca\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Districts électoraux 2017 - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:04:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ddbe492b-b238-51af-8839-3f468c640b12",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

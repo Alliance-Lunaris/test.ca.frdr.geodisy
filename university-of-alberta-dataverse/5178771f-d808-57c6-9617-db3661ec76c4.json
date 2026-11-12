@@ -1,0 +1,42 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Islam, Nafeez (University of Alberta). ORCID: https://orcid.org/0000-0001-7770-9518",
+    "Nafziger, Jennifer (University of Alberta).",
+    "McFarlane, Vincent (University of Alberta).",
+    "Hajari, Nasim (Concordia University of Edmonton)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains modified Sentinel-2 satellite image tiles and YOLO compatible segmentation labels for river-ice classification. The dataset was developed as part of research on automated river-ice monitoring for flood forecasting and emergency response. It includes True Colour Image (TCI) tiles, Sentinel-2 Band 08 near-infrared tiles, corresponding polygon label files, and a CSV file summarizing image-level class presence. The imagery covers river-ice conditions from the Peace, Athabasca, and Hay Rivers. It includes nine classes: border ice, frazil pans, frazil slush, ice jam, ice run, intact ice, island/bar, open lead, and open water. The dataset is licensed under CC BY 4.0 Attribution and contains modified Copernicus Sentinel-2 data; users should provide appropriate attribution, including “Contains modified Copernicus Sentinel data”, and cite the dataset DOI when using or redistributing the data."
+  ],
+  "dct_identifier_sm": [
+    "1183663_203206",
+    "https://doi.org/10.5683/SP4/RMPIHY"
+  ],
+  "dct_issued_s": "2026-06-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/RMPIHY\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Alberta, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Labelled Sentinel-2 River Ice Dataset for the Peace, Athabasca, and Hay Rivers",
+  "gbl_mdModified_dt": "2026-07-16T16:39:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5178771f-d808-57c6-9617-db3661ec76c4",
+  "pcdm_memberOf_sm": [
+    "UAlberta Research Data Collection"
+  ],
+  "schema_provider_s": "University of Alberta Dataverse"
+}

@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Trottoir",
+    "Ruelle",
+    "Bordure",
+    "Voirie",
+    "SIRR",
+    "Giratoire",
+    "Information gouvernementale",
+    "Autoroute",
+    "Intersection",
+    "Bretelle",
+    "Mail",
+    "PoleARTM",
+    "Chemin",
+    "Chaussée",
+    "Latéral",
+    "Accotement",
+    "Rue",
+    "Îlot",
+    "Terre-plein"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "The Roads database includes an inventory of road assets (roadways, blocks, intersections, sidewalks, curbs) with a spatial representation and various attached information.\n\n__Aggregate pavement-type road assets__ represent carriageways located in the public domain and which are part of the local or arterial road network. Aggregate pavements are represented by polygons that are aggregated by type of use. Among the information associated with a pavement object is the date of construction, the date of resurfacing, the date of survey, the materials of the pavement, the type of foundation, the presence of a bicycle lane, the use, etc.\n\n__Island-type road assets__ represent malls located in the public domain and which are juxtaposed to the local or arterial road network. The islands are represented by polygons that are differentiated by their configuration. Among the information associated with an island-type object is the date of construction, the date of survey, the materials of the block and the border, the presence of trees, the type of island, etc.\n\n__Intersection-type road assets__ represent road crossings located in the public domain and which are part of the local or arterial road network. Intersections are represented by polygons that are cut according to the number of traffic axes. Information associated with an intersecting object includes the construction date, resurfacing date, survey date, intersection materials, foundation type, presence of bike lanes, etc.\n\n__Sidewalk-type road assets__ represent sidewalks and curbs juxtaposed with carriageways located in the public domain and that are part of the local or arterial road network. Sidewalks and curbs are represented by polygons differentiated by category and type. Among the information associated with a sidewalk-type object is the date of construction, the date of survey, the type of sidewalk and curb, the materials of the sidewalk, the border and the developed strip, the presence of trees, the presence of a projection, the presence of a ledge, the presence of a bicycle lane, the use, etc.\n\nThe __zone-type road assets__ represent the regions located between other road assets and that are not part of the local or arterial road network. The areas are represented by polygons. Among the information associated with a zone-like object is the type of zone, etc.\n\nData is also available in separate sets on the portal to support several uses:\n\n- [Roadway and intersection] (/city-of-montreal/voirie-causee-intersection)\n\n- [Sidewalk and island] (/city-of-montreal/voirie-trottoir-ilot)\n\n- [Off-road zone] (/city-of-montreal/voirie-zone) \n\n__Warnings__\n\n- The data released on road assets are those in the possession of the City's geomatics team and are not necessarily up to date throughout the territory.\n\n- The data released on road assets is provided for information purposes only and should not be used for the purposes of designing or carrying out works or for the location of assets.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La base de données Voirie inclut l'inventaire des actifs de voirie (chaussées, îlots, intersections, trottoirs, bordures) avec une représentation spatiale et diverses informations attachées.\n\nLes __actifs de voirie de type chaussée agrégée__ représentent les voies carrossables situées dans le domaine public et qui font partie du réseau routier local ou artériel. Les chaussées agrégées sont figurées par des polygones qui sont agrégés par type d'utilisation. Parmi les informations associées à un objet de type chaussée se trouvent la date de construction, la date de résurfaçage, la date de relevé, les matériaux de la chaussée, le type de fondation, la présence de voie cyclable, l’utilisation, etc.\n\nLes __actifs de voirie de type îlot__ représentent les mails situés dans le domaine public et qui sont juxtaposés au réseau routier local ou artériel. Les îlots sont figurés par des polygones qui sont différenciés par leur configuration. Parmi les informations associées à un objet de type îlot se trouvent la date de construction, la date de relevé, les matériaux de l'îlot et de la bordure, la présence d’arbres, le type d'îlot, etc.\n\nLes __actifs de voirie de type intersection__ représentent les croisements des voies carrossables situées dans le domaine public et qui font partie du réseau routier local ou artériel. Les intersections sont figurées par des polygones qui sont découpés en fonction du nombre d'axes de circulation. Parmi les informations associées à un objet de type intersection se trouvent la date de construction, la date de résurfaçage, la date de relevé, les matériaux de l'intersection, le type de fondation, la présence de voie cyclable, etc.\n\nLes __actifs de voirie de type trottoir__ représentent les trottoirs et les bordures juxtaposés aux voies carrossables situées dans le domaine public et qui font partie du réseau routier local ou artériel. Les trottoirs et les bordures sont figurés par des polygones différenciés par catégorie et type. Parmi les informations associées à un objet de type trottoir se trouvent la date de construction, la date de relevé, le type de trottoir et de bordure, les matériaux du trottoir, de la bordure et de la bande aménagée, la présence d'arbres, la présence de saillie, la présence de voie cyclable, l’utilisation, etc.\n\nLes __actifs de voirie de type zone__ représentent les régions situées entre les autres actifs de voirie et qui ne font pas partie du réseau routier local ou artériel. Les zones sont figurées par des polygones. Parmi les informations associées à un objet de type zone se trouvent le type de zone, etc.\n\nLes données sont aussi disponibles dans des ensembles distincts sur le portail pour supporter plusieurs utilisations:\n\n- [Chaussée et intersection](/ville-de-montreal/voirie-chaussee-intersection)\n\n- [Trottoir et îlot](/ville-de-montreal/voirie-trottoir-ilot)\n\n- [Zone hors voirie](/ville-de-montreal/voirie-zone) \n\n__Avertissements__\n\n- Les données diffusées sur les actifs de voirie sont celles qui se trouvent en la possession de l'équipe géomatique de la Ville et ne sont pas nécessairement à jour sur l'ensemble du territoire.\n\n- Les données diffusées sur les actifs de voirie sont fournies seulement à titre indicatif et ne devraient pas être utilisées pour des fins de conception ou réalisation des travaux ni pour la localisation des actifs."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0acbc6c8-bbfc-4aae-a0fa-ec74ba0686c6"
+  ],
+  "dct_issued_s": "2018-08-16",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0acbc6c8-bbfc-4aae-a0fa-ec74ba0686c6\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Actifs de voirie (Base de données complète - Chaussée, Îlot, Intersection, Trottoir, Zone)",
+  "gbl_mdModified_dt": "2026-09-23T17:39:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "06f04d70-3ea4-57e6-a33e-12c261ed5f34",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "borders",
+    "immigration detention",
+    "immigration",
+    "international migration"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "The Guardian."
+  ],
+  "dct_description_sm": [
+    "<b><u>About</u></b>\n<br></br>\nThe <em>Nauru Files</em> contain the largest set of documents published from inside Australia's immigration detention system. Leaked to <em>The Guardian</em> in 2016, they include nearly 2,000 incident reports from the Nauru detention centre, which were written by guards, caseworkers and teachers on the remote Pacific island. \n<br></br>\n<b><u>Summary</u></b>\n<br></br>\nExamples of events include assaults, injuries, abuse and other forms of violence reported at the detention centre between 2013 and 2015. As noted by The Guardian, as well as academic research, Australia has privatised its immigration detention centres and exported detention of asylum seekers offshore to places such as Nauru and Manus Island in Papua New Guinea. This strategy is part of a wider \"Pacific Solution\" implemented by the Government of Australia since the early 2000s as a hardline deterrent to \"stop the boats.\" Effectively, asylum seekers intercepted and detained on Nauru are removed from access to Australia's asylum system.\n<br></br>\n<b><u>Data Structure</u></b>\n<br></br>\nThese data are composed of incident reports. An incident report is a short summary of an event in the Nauru detention centre written by staff there. Some of the details found in the files may be triggering; we therefore advise caution with reading and analysing these data. According to The Guardian, these reports form part of the Government of Australia's requirements to document what is happening within its detention system. Each report holds detailed information of the incident at the detention centre along with a \"summary log\". Working with The Guardian, we have organised these data into two forms: a PDF of each incident report, sorted by name at the time of leak, and a CSV/JSON of all incident reports (see \"nauru_files.csv/json\"), which structures key details into variables within its columns. Examples of variables include time, incident type, severity and description. Combined, these form a structured database linking each incident report to these variables.\n<br></br>\n<b><u>Data Source</u></b>\n<br></br>\nThe Guardian has modified the original, leaked data to remove any personally-identifying information within them. To achieve this, a stringent approach of redaction has been implemented to remove names of asylum seekers and staff, personal identification numbers of asylum seekers, signatures of detention staff, nationalities within small population groups and residential tent numbers, among other things.\n<br></br>\nThere are also a large number of acronyms used in these data. For your convenience, we have provided an RTF document with a listing of these acronyms and their meanings.\n<br></br>\nIf you use these data, please cite the original source at The Guardian: The Guardian. (10 August 2016). The Nauru Files: The lives of asylum seekers in detention detailed in a unique database. Retrieved from <a href=\"https://www.theguardian.com/australia-news/ng-interactive/2016/aug/10/the-nauru-files-the-lives-of-asylum-seekers-in-detention-detailed-in-a-unique-database-interactive\">https://www.theguardian.com/australia-news/ng-interactive/2016/aug/10/the-nauru-files-the-lives-of-asylum-seekers-in-detention-detailed-in-a-unique-database-interactive</a>. Should you have any comments, questions or requested edits or extensions to the Nauru files, please contact Haven at <a href=\"kira.williams@utoronto.ca\">kira.williams@utoronto.ca</a>.\n<br></br>\nFor more articles from <em>The Guardian</em> on these data, see:\n<ul>\n<li><a href=\"https://www.theguardian.com/australia-news/2016/aug/10/the-nauru-files-2000-leaked-reports-reveal-scale-of-abuse-of-children-in-australian-offshore-detention\">The Nauru files: cache of 2,000 leaked reports reveal scale of abuse of children in Australian offshore detention</a>.\n<li><a href=\"https://www.theguardian.com/world/2016/aug/10/a-short-history-of-nauru-australias-dumping-ground-for-refugees\">A short history of Nauru, Australia’s dumping ground for refugees</a>.\n<li><a href=\"https://theguardian.com/news/2016/aug/10/i-want-death-nauru-files-chronicle-despair-of-asylum-seeker-children\">‘I want death’: Nauru files chronicle despair of asylum seeker children</a>.\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "721905_687352_721904",
+    "https://doi.org/10.5683/SP3/JWHSU9"
+  ],
+  "dct_issued_s": "2024-04-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/JWHSU9\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Nauru",
+    "Australia"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "The Nauru Files",
+  "gbl_mdModified_dt": "2024-04-18T16:49:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "abe7f1d3-a535-5306-9369-ae543203945a",
+  "pcdm_memberOf_sm": [
+    "Haven Lab // Nauru Files Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Pedology",
+    "Holocene",
+    "temperate rainforest",
+    "Soil carbon",
+    "Anthropocene"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gavin, McNicol (University of Illinois Chicago). ORCID: https://orcid.org/0000-0002-6655-8045",
+    "Chuck, Bulmer (Ministry of Forests).",
+    "David, D'Amore (US Forest Service).",
+    "Paul, Sanborn (University of Northern British Columbia).",
+    "Sari, Saunders (Ministry of Forests).",
+    "Ian, Giesbrecht (Hakai Institute).",
+    "Santiago Gonzalez, Arriola (Hakai Institute).",
+    "Allison, Bidlack (University of Alaska Southeast, University of Alaska Fairbanks).",
+    "David, Butman (University of Washington).",
+    "Brian, Buma (University of Colorado Denver)."
+  ],
+  "dct_description_sm": [
+    "<p>Accurate soil organic carbon (SOC) maps are needed to predict the terrestrial SOC feedback to climate change, one of the largest remaining uncertainties in Earth system modeling. Over the last decade, global scale models have produced varied predictions of the size and distribution of SOC stocks, ranging from 1,000 to &gt; 3,000 Pg of C within the top 1 m. Regional assessments may help validate or improve global maps because they can examine landscape controls on SOC stocks and offer a tractable means to retain regionally-specific information, such as soil taxonomy, during database creation and modeling. We compile a new transboundary SOC stock database for coastal watersheds of the North Pacific coastal temperate rainforest, using soil classification data to guide gap-filling and machine learning approaches used to explore spatial controls on SOC and predict regional stocks. Precipitation and topographic attributes controlling soil wetness were found to be the dominant controls of SOC, underscoring the dependence of C accumulation on high soil moisture. The random forest model predicted stocks of 4.5 Pg C (to 1 m) for the study region, 22% of which was stored in organic soil layers. Calculated stocks of 228 ± 111 Mg C ha-1 fell within ranges of several past regional studies and indicate 11-33 Pg C may be stored across temperate rainforest soils globally. Predictions were compared very favorably to regionalized estimates from two spatially explicit global products (Pearson's correlation: ρ = 0.73 vs. 0.34). Notably, SoilGrids250m was an outlier for estimates of total SOC, predicting 4-fold higher stocks (18 Pg C) and indicating bias in this global product for the soils of the temperate rainforest. In sum, our study demonstrates that CTR ecosystems represent a moisture-dependent hotspot for SOC storage at mid-latitudes.</p>"
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.5jf6j1r",
+    "https://doi.org/10.5061/dryad.5jf6j1r"
+  ],
+  "dct_issued_s": "2024-10-10",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.5jf6j1r\"}",
+  "dct_spatial_sm": [
+    "North Pacific coastal temperate rainforest",
+    "Southeast Alaska",
+    "Alaska",
+    "British Columbia"
+  ],
+  "dct_title_s": "Data from: Large, climate-sensitive soil carbon stocks mapped with pedology-informed machine learning in the North Pacific coastal temperate rainforest",
+  "gbl_mdModified_dt": "2024-10-10T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8f718906-33f7-5f29-8233-36b5bbb3e215",
+  "schema_provider_s": "Dryad"
+}

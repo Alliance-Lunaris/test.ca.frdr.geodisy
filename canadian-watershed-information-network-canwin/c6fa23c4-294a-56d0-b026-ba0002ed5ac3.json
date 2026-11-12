@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This point dataset represents both applications for a Mines Act permit and issued authorizations for mining activities proposed in the application. Applications for regional Mines Act permits are known as Notice of Work (NoW) applications. Regional mine permits are issued for mineral and coal exploration activities, sand and gravel production, quarry production, and placer mining. Major mine permits are issued for producing mineral and coal mines. Permits are issued by the chief permitting officer under section 10 of the Mines Act and administered by the ministry. Regional mines include: * Exploration — mineral, coal, rock quarry, industrial mineral or dimension stone * Sand and gravel — aggregate, rock or natural substances used for construction purposes * Placer   Most exploration and development activities require a permit under the Mines Act. A decision marks the end of the permitting process for a NoW application. The decision can either be to reject the application or to authorize the mining activities proposed in the NoW. * For new NoW authorizations, a Mines Act permit is issued * For an existing open Mines Act permit, the newly authorized mining activities are amended to the existing permit and the permit is re-issued   **NOTE:** Administrative amendments to a NoW are not captured in this dataset. We are currently working to include this addition for a more complete view of the data. For proponents, please log into https://minespace.gov.bc.ca/ to confirm any authorizations on your permits. The ministry is transitioning from point data to polygonal data for permits and authorizations. The polygon dataset is added to when data becomes available. Users should use both the point dataset and the polygon dataset in combination. Polygon representation of permits with authorizations are referred to as Notice of Work (NoW) – Permitted Mine Areas – Regional Mine - Public https://catalogue.data.gov.bc.ca/dataset/c728435d-410e-42f9-81d5-95978c90e44a The downloaded product from the BCGW is a complete set of all the NoW public records. In addition to the records that contain lat/long references to be mapped spatially, this includes records that do not have NoW lat/long or mine lat/long coordinates to spatialize. These records are listed in a CSV file (HSP_NOTICE_OF_WORK_PA_POINT_SV_NullGeom). Notice of Work categories include: Notice of Work application type, Notice of Work application status. **Notice of Work application type** Field: NOW_APPLICATION_TYPE_DESC (NW_APPTYPD) * Coal * Mineral * Placer Operations * Quarry – Construction Aggregate * Quarry – Industrial Mineral * Sand and Gravel   **Notice of Work application status** Field: NOW_APPLICATION_STATUS_DESC (NW_APPSTAD) * Approved – mining activities in the NoW application have been authorized * Client Delayed – Client needs to provide additional information or reclamation security * Government Action Required – Government needs to action; this status is triggered once a client has provided the requested information and client delay is no longer valid * Referred – Includes referral to agencies and stakeholders, and consultation with First Nations * Rejected – An application is rejected. Either the application standards are not met or requested documentation or security was not provided * Received – The NoW application has been sent from virtual FrontCounterBC to the ministry database * No Permit Required – Category when an inspector reviews the application and non-mechanized disturbance does not require a permit, for example an IP survey * Referral Complete – Referral and consultation is complete. The government needs to action the next steps * Withdrawn – Client requested the application to be withdrawn * Pending verification – Category for records needing review and verification. Typically, these are historical NoW applications with approvals. Manual review is required * NULL value – missing status and application type   **For the public view, please be aware that the ministry:** * Only shows mine commodities of gold or jade/nephrite in the MINE_COMMODITY_DESC (MN_COMD) field. All other commodity values remain NULL (empty)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fab53209-63be-4c61-8de4-3e3fceec4227"
+  ],
+  "dct_issued_s": "2023-04-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fab53209-63be-4c61-8de4-3e3fceec4227\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Notice of Work (NoW) Spatial Locations - Public",
+  "gbl_mdModified_dt": "2026-01-28T19:41:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c6fa23c4-294a-56d0-b026-ba0002ed5ac3",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,101 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.92196, -100.245045, 64.013218, 48.00311)",
+  "dcat_keyword_sm": [
+    "72E",
+    "GIS-DATA",
+    "ALBERTA",
+    "82G",
+    "74E",
+    "84K",
+    "84B",
+    "CANADA",
+    "82P",
+    "84M",
+    "83B",
+    "84J",
+    "LINEAMENTS",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "82J",
+    "83I",
+    "72M",
+    "83D",
+    "83E",
+    "84N",
+    "84C",
+    "72L",
+    "74L",
+    "74D",
+    "84A",
+    "73E",
+    "84P",
+    "82H",
+    "73D",
+    "82N",
+    "83N",
+    "83H",
+    "83J",
+    "STRUCTURE",
+    "83K",
+    "84O",
+    "83G",
+    "84D",
+    "PEACE-RIVER-ARCH",
+    "82O",
+    "73M",
+    "83F",
+    "82I",
+    "83A",
+    "84F",
+    "84L",
+    "FAULT",
+    "83P",
+    "73L",
+    "74M",
+    "83M",
+    "83C",
+    "83O",
+    "84E",
+    "84G",
+    "STRUCTURAL-GEOLOGY",
+    "83L",
+    "84H",
+    "84I"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Compilation SIG d'éléments structuraux en Alberta, version 3.0 (données SIG, entités linéaires)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset (lineaments_ln_ll.shp) comprises structural features compiled into GIS format from existing literature, published up to 2003. The data represent fault/lineament locations known or inferred in the Alberta Plains. We have chosen to digitize and publish all lineaments from source maps even where they extended beyond the Alberta boundary. Each compiled feature is characterized by a set of attributes including: affected formations (oldest affected and oldest non-affected stratigraphic unit), fault type, fault sense of displacement, evidence used to infer the fault/lineament, original reference information and publication scale, and an estimate of the georeferencing error. The completeness of the captured attribute set varies for each feature as a function of the level of detail in the source article. The data set should be used cautiously. First, the original authors' interpretation of subsurface faults, particularly of 'basement faults', from air photo or satellite imagery lineaments is tenuous. Second, the vast majority of faults inferred in the foreland basin (Alberta Plains) east of the deformation front are normal-slip faults. although only the dip slip component has been inferred, some of these faults may also have a strike-slip component, generally not accounted for. Third, the location of lineaments includes cumulative errors inherent in the process of transferring into GIS lineaments traced by hand in the pre-computer era on small scale (regional) paper-copy maps. Such errors include spatial imprecisions in original lineament identification and drawing and errors in georefencing of the source map, as well as minor errors introduced during lineament digitization. Although each of them is minor at the scale of the original map, the cumulative effect of these errors may be significant and even misleading for large-scale (township or larger) projects.",
+    "Cet ensemble de données (lineaments_ln_ll.shp) comprend des caractéristiques structurelles compilées au format SIG à partir de la littérature existante, publiée jusqu'en 2003. Les données représentent les emplacements des failles et des linéaments connus ou déduits dans les plaines de l'Alberta. Nous avons choisi de numériser et de publier tous les linéaments à partir de cartes sources, même lorsqu'ils s'étendaient au-delà de la frontière de l'Alberta. Chaque entité compilée est caractérisée par un ensemble d'attributs, notamment : les formations touchées (unité stratigraphique la plus ancienne affectée et la plus ancienne non affectée), le type de faille, la sensation de déplacement de la faille, les preuves utilisées pour déduire la faille/le linéament, les informations de référence originales et l'échelle de publication, et une estimation de l'erreur de géoréférencement. L'exhaustivité de l'ensemble d'attributs capturé varie pour chaque caractéristique en fonction du niveau de détail de l'article source. L'ensemble de données doit être utilisé avec prudence. Tout d'abord, l'interprétation par les auteurs originaux des failles souterraines, en particulier des « failles du sous-sol », à partir des linéaments de photos aériennes ou d'images satellites est ténue. Deuxièmement, la grande majorité des failles déduites dans le bassin de l'avant-pays (plaines de l'Alberta) à l'est du front de déformation sont des failles de glissement normal. Bien que seule la composante de glissement ait été déduite, certaines de ces failles peuvent également avoir une composante de glissement, qui n'est généralement pas prise en compte. Troisièmement, la localisation des linéaments inclut les erreurs cumulatives inhérentes au processus de transfert dans le SIG de linéaments tracés à la main à l'ère pré-informatique sur des cartes papier à petite échelle (régionales). Ces erreurs incluent des imprécisions spatiales dans l'identification et le dessin du linéament original et des erreurs de géoréférencement de la carte source, ainsi que des erreurs mineures introduites lors de la numérisation du linéament. Bien que chacune d'entre elles soit mineure à l'échelle de la carte originale, l'effet cumulatif de ces erreurs peut être significatif et même trompeur pour les projets de grande envergure (cantonaux ou plus grands).\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4ba232c0-4f28-48c8-bd53-a58a49c00342"
+  ],
+  "dct_issued_s": "2015-01-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4ba232c0-4f28-48c8-bd53-a58a49c00342\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "GIS compilation of structural elements in Alberta, version 3.0 (GIS data, line features)",
+  "gbl_mdModified_dt": "2026-03-04T15:05:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6d5a5b36-b60c-5138-a606-eeb0f8678441",
+  "locn_geometry": "ENVELOPE(-124.92196, -100.245045, 64.013218, 48.00311)",
+  "schema_provider_s": "Open Data Canada"
+}

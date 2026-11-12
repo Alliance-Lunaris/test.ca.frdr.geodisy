@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Probability (likelihood) of cool wave days for cool season/overwintering crops occurring Cool Wave Days are the number of days in the forecast period with a minimum temperature below the cardinal minimum temperature, the lowest temperature at which crop growth will begin (dcw_cool_prob). This temperature is 5°C for cool season crops.  \n  \n  Week 1 and week 2 forecasted probability is available daily from April 1 to October 31.  \n  \n  Week 3 and week 4 forecasted probability is available weekly (Thursday) from April 1 to October 31.  \n  \n  Cool season crops require a relatively low temperature condition. Typical examples include wheat, barley, canola, oat, rye, pea, and potato. They normally grow in late spring and summer, and mature between the end of summer and early fall in the southern agricultural areas of Canada. The optimum temperature for such crops is 25°C.  \n  \n  Agriculture and Agri-Food Canada (AAFC) and Environment and Climate Change Canada (ECCC) have together developed a suite of extreme agrometeorological indices based on four main categories of weather factors: temperature, precipitation, heat, and wind.  The extreme weather indices are intended as short-term prediction tools and generated using ECCC’s medium range forecasts to create a weekly index product on a daily and weekly basis."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d0c98f87-63f1-43d4-900a-9f3d11d1e614"
+  ],
+  "dct_issued_s": "2019-02-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d0c98f87-63f1-43d4-900a-9f3d11d1e614\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Probability of Cool wave days for cool season/overwintering crops (<5°C)",
+  "gbl_mdModified_dt": "2023-02-23T14:23:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4514db36-8ae4-5d6d-8ed6-584db3335c54",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

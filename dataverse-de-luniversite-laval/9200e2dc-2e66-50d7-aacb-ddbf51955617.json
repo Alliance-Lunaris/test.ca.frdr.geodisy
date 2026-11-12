@@ -1,0 +1,76 @@
+{
+  "dcat_bbox": "ENVELOPE(-78.25, -65.9, 62.45, 55.27)",
+  "dcat_keyword_sm": [
+    "Sédimentation (Géologie)",
+    "Aléas naturel",
+    "Pergélisol",
+    "Climat--Changements--Évaluation du risque",
+    "Natural hazards",
+    "Pergélisols",
+    "Constructions--Facteurs climatiques",
+    "Permafrost",
+    "Catastrophes naturelles--Évaluation du risque"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Michel Allard (Centre d’études nordiques, Université Laval). ORCID: https://orcid.org/0000-0002-7945-3138",
+    "Aubé-Michaud, Sarah (Université Laval. Centre d'études nordiques).",
+    "Mathon-Dufour, Valérie (Université Laval. Centre d'études nordiques).",
+    "L'Hérault, Emmanuel (Université Laval. Centre d'études nordiques, Centre d'études Nordiques).",
+    "Carbonneau, Andrée-Sylvie (Université Laval. Centre d'études nordiques).",
+    "Ducharme, Marc-André (Université Laval. Centre d'études nordiques).",
+    "Chiasson, Alexandre (Université Laval. Centre d'études nordiques). ORCID: https://orcid.org/0000-0003-1852-0138",
+    "B. St-Amour, Arianne (Université Laval. Centre d'études nordiques).",
+    "Bilodeau, Samuel (Université Laval. Centre d'études nordiques).",
+    "Deslauriers, Catherine (Université Laval. Centre d'études nordiques).",
+    "Gauthier, Sarah (Université Laval. Centre d'études nordiques)."
+  ],
+  "dct_description_sm": [
+    "Les auteurs tiennent à remercier le réseau stratégique du CRNSG PermafrostNet pour leur support dans la mise en ligne des résultats de ces importantes études, financées par le ministère des Affaires municipales et de l'Habitation (MAMH) et par le ministère de la Sécurité publique (MSP).",
+    "Ce jeu de données comprend des cartes et des données géospatiales obtenues dans le cadre de deux projets menés au Centre d’études nordiques entre 2007 et 2020: le projet de Caractérisation géotechnique et cartographie améliorée du pergélisol dans les communautés nordiques du Nunavik, financé par le ministère des Affaires municipales et de l'Habitation (MAMH), et le projet Identification des risques actuels et appréhendés sur le territoire des communautés du Nunavik en fonction des changements climatiques, financés par le ministère de la Sécurité publique (MSP). Ensemble, ces projets ont permis d’obtenir des résultats complémentaires répondant à une forte demande en matière de données géospatiales pour appuyer l'aménagement du territoire dans les communautés du Nunavik.\n\nL’ensemble des données est organisé par village. Pour chaque village, un fichier compressé (.zip) contient :\n1. Un paquetage de cartes ArcGIS Pro (.ppkx, compatible avec la version 3.2 et les versions ultérieures), incluant la mise en page complète en français et en anglais ;\n2. Une géodatabase (.gdb) regroupant l’ensemble des couches de données associées.\n\nPour les treize communautés inuites du Nunavik construites sur le pergélisol, chaque paquetage de cartes inclut les cartes du projet du MAMH, soit les cartes de dépôts de surface, de conditions du pergélisol et de potentiel de construction, et la carte des aléas naturels produite dans le cadre du projet du MSP. Pour Whapmagoostui-Kuujjuarapik, seule la carte des aléas naturels est disponible, puisqu’il n'y a pas de pergélisol dans les limites municipales du village.\n\nLa liste des couches et leurs sources est disponible dans le document 'Lisez-moi'.",
+    "This dataset includes geospatial data obtained as part of two projects conducted at the Centre for Northern Studies between 2007 and 2020: the Geotechnical Characterisation and Permafrost Mapping Project in the Inuit communities of Nunavik, funded by the Ministère des Affaires Municipales et de l'Habitation (MAMH); and the Identification of Current and Potential Risks from Climate Change for the Nunavik Communities’ Territory project funded by the Ministère de la Sécurité publique (MSP). Together, these projects provide complementary results and geospatial data that fulfill a strong demand to support land use planning in Nunavik.\n\nThe dataset is organized by village. For each village, a compressed (.zip) file contains:\n1. An ArcGIS Pro map package (.ppkx, compatible with version 3.2 and later), including the complete layout in both French and English; \n2. A geodatabase (.gdb) containing all associated data layers.\n\nFor the thirteen Inuit communities in Nunavik that were built on permafrost, each map package includes the MAMH maps (surficial geology, permafrost conditions, and construction potential), as well as the MSP natural hazards map. However, for Whapmagoostui-Kuujjuarapik, only the natural hazard map is included since there is no permafrost within the village's municipal boundaries.\n\nThe list of layers and their sources is available in the “Read Me” file."
+  ],
+  "dct_identifier_sm": [
+    "981062_882551",
+    "https://doi.org/10.5683/SP3/BEO8I7"
+  ],
+  "dct_issued_s": "2025-11-25",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BEO8I7\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Akulivik, Québec, Canada",
+    "Aupaluk, Québec, Canada",
+    "Inukjuak, Québec, Canada",
+    "Ivujivik, Québec, Canada",
+    "Kangirsuk, Québec, Canada",
+    "Kangiqsujuaq, Québec, Canada",
+    "Kangiqsualujjuaq, Québec, Canada",
+    "Kuujjuaq, Québec, Canada",
+    "Kuujjuarapik-Whapmagoostui, Québec, Canada",
+    "Puvirnituq, Québec, Canada",
+    "Quaqtaq, Québec, Canada",
+    "Salluit, Québec, Canada",
+    "Tasiujaq, Québec, Canada",
+    "Umiujaq, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Cartes et données géospatiales sur les dépôts de surface, les conditions de pergélisol, le potentiel de construction et les aléas naturels sur le territoire des villages nordiques au Nunavik",
+  "gbl_mdModified_dt": "2025-11-25T13:54:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9200e2dc-2e66-50d7-aacb-ddbf51955617",
+  "locn_geometry": "ENVELOPE(-78.25, -65.9, 62.45, 55.27)",
+  "pcdm_memberOf_sm": [
+    "Centre d'études nordiques"
+  ],
+  "schema_provider_s": "Dataverse de l'Université Laval"
+}

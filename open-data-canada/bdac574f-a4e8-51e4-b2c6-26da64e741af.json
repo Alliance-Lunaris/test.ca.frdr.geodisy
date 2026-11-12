@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.71359502, -123.11621343, 48.70307021, 48.37117607)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Buildings",
+    "GéoBase",
+    "Change detection",
+    "Victoria",
+    "GéoIA",
+    "Routes",
+    "Automatic Extraction",
+    "Intelligence artificielle",
+    "Victoria",
+    "GeoBase",
+    "Roads",
+    "Extraction Automatique",
+    "GeoAI",
+    "Earth Sciences",
+    "Artificial intelligence",
+    "Détection de changement",
+    "Sciences de la Terre",
+    "Bâtiments",
+    "Forêts",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "GéoIA - Cas d’utilisation de détection de changement - Victoria"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Temporal analysis of changes for Victoria, British Columbia, based on GeoAI features automatically extracted from satellite images acquired in the 2000s, 2010s and 2020s. Simple geospatial analysis intersecting Statistics Canada's Open Database of Buildings, version 3 (ODB v3) with GeoAI multidate building features enables the detection of buildings observed in the 2000s, 2010s and 2020s. The addition of new buildings is a good indicator of urban development and/or sprawl. Using the same approach, GeoAI multidate roads enable the detection of Statistics Canada's National Roads Network (NRN) segments present in the 2000s, 2010s and 2020s. The development of new roads is also indicator of urban development and/or sprawl. Complementarily, an analysis of changes in the forest coverage from the GeoAI datasets is done between the 2000s and the 2020s. This analysis reflects the gains and losses between both dates.\n\n‌\n\nGeoAI enables temporal coverage of various areas in Canada, thus providing a useful tool for change detection and trend analysis at high resolution. While the series is still fairly new, and such examples are limited for the time being, NRCan strives to gradually increase its GeoAI data offering for both spatial and temporal coverage.\n\nFor more information about the GeoAI - GeoBase Series, please visit the following link: https://open.canada.ca/data/en/dataset/74738ff5-5367-5958-9aee-98fffdcd1876",
+    "Analyse temporelle de changements de Victoria, Colombie-Britannique, à partir des entités GéoIA extraites automatiquement des images satellites acquises dans les décénies 2000, 2010 et 2020. Une simple analyse géospatiale croisant la base de données ouverte sur les immeubles de Statistique Canada, version 3 (BDOI v3), avec les bâtiments multi-dates de GéoIA, permet de détecter les bâtiments observés en 2000, 2010 et 2020. L'ajout de nouveaux bâtiments est un bon indicateur du développement urbain et/ou de l'étalement urbain. En utilisant la même approche, les routes multi-dates de GéoIA permettent de détecter les segments du Réseau Routier national (RRN) de Statistique Canada présents dans les années 2000, 2010 et 2020. Le développement de nouvelles routes est également un indicateur du développement urbain et/ou de l'étalement urbain. En complément, une analyse des changements dans la couverture forestière à partir des ensembles de données GéoIA est effectuée entre les années 2000 et 2020. Cette analyse reflète les gains et les pertes entre ces deux dates.\n\nGéoIA offre une couverture temporelle de diverses régions du Canada, offrant ainsi un outil utile pour la détection des changements et l'analyse des tendances à haute résolution. Bien que la série soit encore relativement nouvelle et que les exemples soient pour l'instant limités, RNCan s'efforce d'augmenter progressivement son offre de données GéoIA, tant sur le plan spatial que temporel.\n\nPour plus d'informations sur le GéoIA - Série GéoBase, veuillez consulter le lien suivant: https://ouvert.canada.ca/data/fr/dataset/74738ff5-5367-5958-9aee-98fffdcd1876"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f011c7b9-f79e-42f8-9481-9bf9788bb189"
+  ],
+  "dct_issued_s": "2026-05-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f011c7b9-f79e-42f8-9481-9bf9788bb189\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "GeoAI - Change detection use case - Victoria",
+  "gbl_mdModified_dt": "2026-06-29T18:30:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bdac574f-a4e8-51e4-b2c6-26da64e741af",
+  "locn_geometry": "ENVELOPE(-123.71359502, -123.11621343, 48.70307021, 48.37117607)",
+  "schema_provider_s": "Open Data Canada"
+}

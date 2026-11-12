@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.46040705, -67.68914176, 49.36949937, 48.57476245)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Species characterization by environmental DNA (eDNA) is a method that allows the use of DNA released into the environment by organisms from various sources (secretions, faeces, gametes, tissues, etc.). It is a complementary tool to standard sampling methods for the identification of biodiversity. This project provides a list of fish and marine mammal species whose DNA has been detected in water samples collected between 2019 and 2021 using the mitochondrial marker MiFish (12S).\nThe surveys were carried out in the summer of 2019 (July 14-18) and (July 30 - August 5), in the fall of 2020 (October 27-28) and in the summer-fall of 2021 (May 31 - June 3 ) and (August 24-25) between Forestville and Godbout (Haute-Côte-Nord). Sampling was carried out between 1-50 meters depth in 91 stations, with 1 to 3 replicates per station. Two liters of water were filtered through a 1.2 µm fiberglass filter. DNA extractions were performed with the DNeasy Blood and Tissues or PowerWater extraction kit (Qiagen). Negative field, extraction and PCR controls were added at the different stages of the protocol. The libraries were prepared either by Génome Québec (2019, 2020) or by the Genomics Laboratory of the Maurice-Lamontagne Institute (2021), then sequenced on a NovaSeq 4000 PE250 system by Génome Québec. The bioinformatics analysis of the sequences obtained was carried out using an analysis pipeline developed in the genomics laboratory. A first step made it possible to obtain a table of molecular operational taxonomic units (MOTU) using the cutadapt software for the removal of the adapters and the R package DADA2 for the filtration, the fusion, removal of chimeras and compilation of data. The MOTUs table was then corrected using the R package metabaR to eliminate the tag-jumping and take contaminants into consideration. Samples showing a strong presence of contaminating MOTUs were removed from the dataset. The MOTUs were also filtered to remove all remaining adapter sequences and also retain only those of the expected size (around 170 bp). Finally, taxonomic assignments were made on the MOTUs using the BLAST+ program and the NCBI-nt database. Taxonomic levels (species, genus or family) were assigned using a best match method (Top hit), with a threshold of 95%. Only assignments at the level of fish and marine mammals were considered, and the taxa detected were compared to a list of regional species, and corrected if necessary. The species detections of the different replicas have been combined.\nThe file provided includes generic activity information, including site, station name, date, marker type, assignment types used for taxa identification, and a list of taxa or species. The list of taxa has been verified by a biodiversity expert from the Maurice-Lamontagne Institute.\nThis project was funded by Fisheries and Oceans Canada's Coastal Environmental Baseline Data Program under the Oceans Protection Plan. This initiative aims to acquire baseline environmental data that contributes to the characterization of significant coastal areas and supports evidence-based assessments and management decisions to preserve marine ecosystems.\n\nData were also published on SLGO platform : https://doi.org/10.26071/ogsl-2239bca5-c24a"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f37aaeca-717d-4f13-bc42-bad029dcc9cb"
+  ],
+  "dct_issued_s": "2023-02-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f37aaeca-717d-4f13-bc42-bad029dcc9cb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Development of a coastal species characterization approach using environmental DNA (eDNA) using the marker Mifish (12S)",
+  "gbl_mdModified_dt": "2026-03-24T08:03:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f75e708-e7c9-5267-b911-24c49307684d",
+  "locn_geometry": "ENVELOPE(-69.46040705, -67.68914176, 49.36949937, 48.57476245)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

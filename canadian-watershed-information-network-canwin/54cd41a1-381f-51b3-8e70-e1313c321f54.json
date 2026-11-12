@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.413259, -112.377571, 51.239285, 48.999998)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This GIS dataset is a compilation of existing surficial map information for the Calgary-Lethbridge Corridor area tiled into one layer. It is suitable for presentation and use at 1:250 000 scale. The dataset was prepared by appending existing GIS datasets into one layer with a standard attribute table. These datasets were then compared against surficial maps for which GIS data were unavailable. Lastly, polygon boundaries were modified to agree with the surface topography as represented by a digital elevation model (DEM) with a grid cell size of 25 metres. Data sources included published Alberta Geological Survey and Geological Survey of Canada maps and the Agricultural Regions of Alberta Soil Inventory Database Version 4.0. Legend information for each polygon was translated by the author into the standard schema. This dataset contains the polygon features of Alberta Geological Survey Map 579, Surficial Geology of the Calgary-Lethbridge Corridor, and has been exported in shapefile format for public distribution."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0dff7532-7590-4875-b57c-8d2da241ca10"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0dff7532-7590-4875-b57c-8d2da241ca10\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Surficial Geology of the Calgary-Lethbridge Corridor (GIS data, polygon features)",
+  "gbl_mdModified_dt": "2026-03-04T15:38:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "54cd41a1-381f-51b3-8e70-e1313c321f54",
+  "locn_geometry": "ENVELOPE(-114.413259, -112.377571, 51.239285, 48.999998)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

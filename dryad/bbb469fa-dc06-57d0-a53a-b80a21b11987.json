@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "reference genome",
+    "Bioinformatics",
+    "Galápagos sea lion (Zalophus wollebaeki)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Aaron B. A., Shafer (University of Alberta, Uppsala University, Department of Evolutionary Biology; Evolutionary Biology Centre; Uppsala SE-75236 Sweden, Trent University).",
+    "Claire R., Peart (Uppsala University).",
+    "Sergio, Tusso (Uppsala University).",
+    "Inbar, Maayan (Uppsala University).",
+    "Alan, Brelsford (University of California System, University of British Columbia, University of Lausanne).",
+    "Christopher W., Wheat (Stockholm University).",
+    "Jochen B. W., Wolf (Department of Evolutionary Biology; Evolutionary Biology Centre; Uppsala SE-75236 Sweden, Ludwig-Maximilians-Universität München)."
+  ],
+  "dct_description_sm": [
+    "Restriction site-associated DNA sequencing (RAD-seq) provides high-resolution population genomic data at low cost, and has become an important component in ecological and evolutionary studies. As with all high-throughput technologies, analytic strategies require critical validation to ensure accurate and unbiased interpretation.\r\nTo test for the impact of bioinformatic data processing on downstream population genetic inferences, we analysed mammalian RAD-seq data (>100 individuals) with 312 combinations of methodology (de novo vs. mapping to references of increasing divergence) and filtering criteria (missing data, HWE, FIS, coverage, mapping, genotype quality). In an effort to identify commonalities and biases in all pipelines, we computed summary statistics (nr. loci, nr. SNP, π, Hetobs, FIS, FST, Ne, m) and compared the results to independent null expectations (isolation-by-distance correlation, expected transition-to-transversion ratio Ts/Tv, Mendelian mismatch rates of known parent-offspring trios).\r\nWe observed large differences between reference-based and de novo approaches, the former generally calling more SNPs and reducing FIS and Ts/Tv. Data completion levels showed little impact on most summary statistics, and FST estimates were robust across all pipelines. The site-frequency spectrum (SFS) was highly sensitive to the chosen approach as reflected in large variance of parameter estimates across demographic scenarios (single-population bottlenecks and isolation-with-migration model). Null-expectations were best met by reference-based approaches, though contingent on the specific criteria.\r\nWe recommend RAD-seq studies employ reference-based approaches to a closely related genome, and due to the high stochasticity associated with the pipeline advocate the use of multiple pipelines to ensure robust population genetic and demographic inferences."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.q14c1",
+    "https://doi.org/10.5061/dryad.q14c1"
+  ],
+  "dct_issued_s": "2017-10-27",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.q14c1\"}",
+  "dct_spatial_sm": [
+    "Galápagos archipelago"
+  ],
+  "dct_title_s": "Data from: Bioinformatic processing of RAD-seq data dramatically impacts downstream population genetic inference",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bbb469fa-dc06-57d0-a53a-b80a21b11987",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Crop Stress Index is the ratio of actual evapotranspiration (AET) to potential evapotranspiration (PET) express as: \nCSI = 1-(AET/PET)\nAET and PET are calculated within the Versatile Soil Moisture Budget (VSMB) model using temperature and precipitation data and a crop-specific biometeorological time scale model to estimate growth stage (Robertson, 1968), with crop specific phenological and crop water extraction coefficients taken from Chipanshi et al 2013. The WDI ranges between 0 and 1, with a value closer to 1 indicating higher stress Crop Stress Index is modelled for each climate station using measured precipitation and temperature"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/07fc840d-69de-4d23-af0d-51d6df042d8a"
+  ],
+  "dct_issued_s": "2020-07-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/07fc840d-69de-4d23-af0d-51d6df042d8a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Crop Stress Index",
+  "gbl_mdModified_dt": "2026-02-25T18:31:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43c03cb3-4226-5c01-be29-353bb9f3caa9",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

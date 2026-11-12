@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-116.632115, -114.655797, 52.902468999999996, 50.731983)",
+  "dcat_keyword_sm": [
+    "MINIMUM-COUNT-SURVEY",
+    "ALBERTA",
+    "ENVIRONMENT",
+    "HORSES",
+    "Government information",
+    "FERAL-HORSE-MANAGEMENT",
+    "AERIAL-COUNT",
+    "BIOTA",
+    "HORSE-CAPTURE-AREA",
+    "EQUINE-MANAGEMENT-ZONE",
+    "FERAL-HORSES",
+    "-CANADA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nombre minimum de chevaux sauvages"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset provides the point locations of horse bands as they were observed during annual aerial surveys. Equine Management Zones are surveyed using a helicopter and horses observed on the landscape during minimum count surveys are reported. Data is stored in file geodatabase, feature class format with associated attributes, meaning each point has a number of horses observed and age class. This dataset simply reports the horses counted on the landscape at one snapshot in time. This data also depicts the flight track flown during the annual aerial minimum counts. Surveys are flown by helicopter once per year when suitable conditions permit. Areas are typically flown by grid pattern within high density areas and over known horse locations. In low density areas, preferred habitats are flown. For additional methodology information and results from prior years please visit https://www.alberta.ca/feral-horse-management.aspx",
+    "Cet ensemble de données fournit les emplacements des bandes de chevaux tels qu'ils ont été observés lors des relevés aériens annuels. Les zones de gestion équine sont étudiées à l'aide d'un hélicoptère et les chevaux observés dans le paysage lors des relevés à dénombrement minimal sont signalés. Les données sont stockées dans une géodatabase de fichiers, au format de classe d'entités avec les attributs associés, ce qui signifie que chaque point possède un nombre de chevaux observés et une classe d'âge. Cet ensemble de données indique simplement le nombre de chevaux comptés dans le paysage en une seule prise de temps. Ces données décrivent également la trajectoire de vol parcourue lors des dénombrements aériens minimaux annuels. Les relevés sont effectués par hélicoptère une fois par an lorsque les conditions le permettent. Les zones sont généralement survolées selon un quadrillage dans des zones à forte densité et au-dessus de sites équestres connus. Dans les zones à faible densité, les habitats préférés sont survolés. Pour plus d'informations sur la méthodologie et les résultats des années précédentes, rendez-vous sur https://www.alberta.ca/feral-horse-management.aspx\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/82f9f020-926c-4298-b11d-d1bdb509a6f8"
+  ],
+  "dct_issued_s": "2026-04-22",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/82f9f020-926c-4298-b11d-d1bdb509a6f8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Feral Horse Minimum Count",
+  "gbl_mdModified_dt": "2026-09-01T13:01:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2fdb0af5-debf-54e4-8942-bef60da628e9",
+  "locn_geometry": "ENVELOPE(-116.632115, -114.655797, 52.902468999999996, 50.731983)",
+  "schema_provider_s": "Open Data Canada"
+}

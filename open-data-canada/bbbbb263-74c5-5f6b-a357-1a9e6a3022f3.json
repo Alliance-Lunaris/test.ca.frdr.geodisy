@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "dcat_keyword_sm": [
+    "sph",
+    "total",
+    "tph",
+    "forestry",
+    "forest inventory",
+    "trees per hectare",
+    "Government information",
+    "forest",
+    "fri",
+    "forest service",
+    "stems per hectare",
+    "environment",
+    "tot",
+    "ministry of environment",
+    "raster",
+    "government of saskatchewan",
+    "sphtot",
+    "saskatchewan",
+    "canada",
+    "forest resource inventory",
+    "density"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "FRI : Tiges par hectare - total"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "Stems per hectare - total (SPHTOT) is an expression of the total number of merchantable trees on a per-hectare basis. Available here as total stems per hectare raster (GeoTIF) with a 20 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.  Stems per hectare - total (SPHTOT) is an expression of the number of merchantable trees on a per-hectare basis. SPHTOT is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 20 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing SPHTOT data in the following 500 stems/ha categories. Domain: [NULL, 0…100,000]. RANGE LABEL RED GREEN BLUE 0 <= SPHTOT < 250 0 NA NA NA 250 <= SPHTOT < 750 500 63 81 181 750 <= SPHTOT < 1250 1000 67 112 147 1250 <= SPHTOT < 1750 1500 72 144 114 1750 <= SPHTOT < 2250 2000 76 175 80 2250 <= SPHTOT < 2750 2500 136 195 73 2750 <= SPHTOT < 3250 3000 195 215 66 3250 <= SPHTOT < 3750 3500 255 235 59 3750 <= SPHTOT < 4250 4000 255 207 39 4250 <= SPHTOT < 4750 4500 255 180 20 4750 <= SPHTOT < 5250 5000 255 152 0 5250 <= SPHTOT < 5750 5500 251 124 18 5750 <= SPHTOT < 6250 6000 248 95 36 6250 <= SPHTOT < 6750 6500 244 67 54For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter.",
+    "Le nombre total de tiges par hectare (SPHTOT) est une expression du nombre total d'arbres commercialisables par hectare. Disponible ici sous forme de raster total de tiges par hectare (GeoTIF) avec une résolution de 20 millions de pixels.  \n  \n  Télécharger : ici La Direction des services forestiers du ministère de l'Environnement de la Saskatchewan a élaboré un inventaire des ressources forestières (FRI) qui répond à divers besoins d'information en matière de planification stratégique et opérationnelle pour les plaines boréales. Ces besoins comprennent des informations sur la couverture terrestre générale, le terrain et le stock en croissance (hauteur, diamètre, surface terrière, volume de bois et densité des tiges) dans la forêt provinciale et la frange forestière adjacente. Cet inventaire fournit des informations spatialement explicites sous forme de grilles matricielles de 10 m ou 20 m et de polygones vectoriels pour des peuplements forestiers relativement homogènes ou des zones naturellement non boisées avec une superficie minimale de 0,5 ha et une superficie médiane de 2,0 ha. Tiges par hectare - total (SPHTOT) est une expression du nombre d'arbres commercialisables par hectare. SPHTOT est disponible ici sous la forme d'une grille matricielle d'entiers non signés 16 bits mappée en couleurs au format GeoTIFF avec une résolution de 20 millions de pixels. Un fichier de couche ArcGIS Pro (*.lyrx) est fourni pour visualiser les données SPHTOT dans les catégories 500 tiges/ha suivantes. Domaine : [NULL, 0... 100 000]. ÉTIQUETTE DE GAMME ROUGE VERT BLEU 0 <= SPHTOT < 250 0 NA NA NA 250 <= SPHTOT < 750 500 63 81 181 750 <= SPHTOT < 1250 1000 67 112 147 1250 <= SPHTOT < 1750 1500 72 144 114 1750 <= SPHTOT < 2250 2000 76 175 80 2250 <= SPHTOT < 2750 2500 136 195 73 2750 <= SPHTOT < 3250 3000 195 215 66 3250 <= SPHTOT < 37TOT < 37TOT 50 3500 255 235 59 3750 <= SPHTOT < 4250 4000 255 207 39 4250 <= SPHTOT < 4750 4500 255 180 20 4750 <= SPHTOT < 5250 5000 255 152 0 5250 <= SPHTOT < 5750 5500 251 124 18 5750 <= SPHTOT < 6250 6000 248 95 36 6250 <= SPHTOT < 6750 6500 244 67 54Pour plus d'informations, consultez Norme d'inventaire forestier du Code environnemental de la Saskatchewan, chapitre sur l'inventaire forestier.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2563938b-2711-6f35-8a40-b8eca97cb2c6"
+  ],
+  "dct_issued_s": "2021-03-08",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2563938b-2711-6f35-8a40-b8eca97cb2c6\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "FRI: Stems per hectare - total",
+  "gbl_mdModified_dt": "2025-02-05T19:06:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bbbbb263-74c5-5f6b-a357-1a9e6a3022f3",
+  "locn_geometry": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-93.8175, -93.7172, 49.7749, 49.6637)",
+  "dcat_keyword_sm": [
+    " Lake Chemistry",
+    " Water Quality",
+    "IISD Experimental Lakes Area",
+    " Water Chemistry",
+    " LTER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "IISD Experimental Lakes Area."
+  ],
+  "dct_description_sm": [
+    "The IISD Experimental Lakes Area (IISD-ELA) Chemistry of LTER Lakes data package provides lake chemistry data from five reference lakes in northwestern Ontario, Canada for the years 1968-2025.\nThe chemistry data includes the analysis of physical, nutrient, biological, inorganic, and organic parameters for long-term ecological research across lakes 114, 224, 239, 373, and 442, with lake 239 having the longest and most consistent data record. The dataset contains a row for each parameter measured at a specific date, lake, and depth (integrated layer or profile level). Please note that the data user must look at all three characteristic columns (CharacteristicName, MethodSpeciation, ResultSampleFraction) to accurately distinguish the analyzed parameters for each row.\nThis data package is ongoing—updates will be provided as data are collected from these lakes in subsequent years. If data are not present here for a specific IISD-ELA lake that you are interested in, please get in touch with us.\nThe data in this data package are also published in parallel on the Environmental Data Initiative (EDI) repository (https://portal.edirepository.org/nis/revisionbrowse?scope=edi&amp;identifier=1818). The differences between the two are: the formatting of data and metadata (particularly how integrated sample information is organized across columns), and the exclusion of two additional metadata files from DataStream. Additionally, this data has been transformed to align with DataStream’s Nutrient and Metal guidelines (https://datastream.org/en-ca/documentation/data-schema). The two metadata files on EDI provide additional details about the datasets including location coordinates and record counts, background and uses of the datasets, a data dictionary, diagrams, descriptions of methods, additional references, and a table that maps the chemical parameter names in this repository to their equivalents in the EDI repository."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/fq3n-8207"
+  ],
+  "dct_issued_s": "2024-12-13",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/fq3n-8207\"}",
+  "dct_title_s": "IISD Experimental Lakes Area: Chemistry of LTER Lakes",
+  "gbl_mdModified_dt": "2026-07-16T17:26:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "258bdba4-fce7-52fe-810a-aa8e28b33056",
+  "locn_geometry": "ENVELOPE(-93.8175, -93.7172, 49.7749, 49.6637)",
+  "schema_provider_s": "DataStream"
+}

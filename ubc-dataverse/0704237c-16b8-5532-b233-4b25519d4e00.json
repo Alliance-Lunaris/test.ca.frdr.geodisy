@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Policy",
+    "HART",
+    "Property Acquisitions"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Daniels, Joseph (University of British Columbia).",
+    "August, Martine (University of Waterloo)."
+  ],
+  "dct_description_sm": [
+    "<p> For more information, please visit HART.ubc.ca. </p>\n\n<p>\n<h3>Housing Assessment Resource Tools (HART)</h3>\n</p>\n\n<p>\nThis database was created to accompany a report prepared by Joe Daniels, PhD, and Martine August, PhD, entitled “Acquisitions Programs for Affordable Housing: Creating non-market supply and preserving affordability with existing multi-family housing.” The database and report form part of the work performed under the HART project, and the report can be found at HART’s website: HART.ubc.ca.\n</p>\n\n<p>\nThe database is a single table that summarizes 11 key elements, plus notes and references, of a growing list of policies from governments across the world. There are currently 108 policies included in the database. The authors expect to update this database with additional policies from time to time.\n</p>\n\n<p>\nThe authors hope this database will serve as a resource for governments looking to become familiar with a variety of policies in order to help them evaluate what policies might be most applicable in their communities.\n</p>\n\n<br/>\n<b>Data Fields:</b> <br />\n<br/>\n<u>List of data fields (15 total): </u><br/><br/>\n1.\tGovernment Order <br />\n2.\tGovernment Jurisdiction <br />\n3.\tPolicy Name/Action <br />\n4.\tAcquisition Target <br />\n5.\tYears Active <br />\n6.\tFunder/Funding <br />\n7.\tFunding Amount (Program) <br />\n8.\tFunding Form <br />\n9.\tAffordability Standard <br />\n10.\tAffordability Term <br />\n11.\tFeatures/Requirements <br />\n12.\tComments <br />\n13.\tReference link 1 <br />\n14.\tReference link 2 <br />\n15.\tReference link 3 <br />\n<br/>\n<u>Description of data fields (15)</u><br /><br/>\n1. Government Order: <br/>\n- Categorizes the relative political authority in terms of one of three categories:\n<ol>\n<li>Municipal (responsible for a city or small region), </li>\n<li>Provincial (responsible for multiple municipalities), or </li>\n<li>Country (responsible for multiple provinces; highest political authority). </li></ol>\n- This field may be used to help identify those policies most relevant to the reader.<br/>\n\n<br/>\n2. Government Jurisdiction:<br/>\n- Indicates the name of the government. <br/>\n- For example, a country might be named “Canada,” a province might be named “Quebec,” and a municipality might be named “Calgary.” <br/>\n<br/>\n3. Policy Name/Action:<br/>\n- Indicates the name of the policy. <br/>\n- This generally serves as the unique identifier for the record. However, there may be some programs that are only known by a common term; for example, “Right of First Refusal.” <br/>\n<br/>\n4. Acquisition Target:<br/>\n- Describes the type of housing asset that the policy is concerned with. For example, acquiring land, acquiring existing rental buildings, renovating existing supportive housing. <br/>\n<br/>\n5. Years Active:<br/>\n- The time period that the policy has been active. <br/>\n- Typically formatted as “[Year started] - [Year ended]”. If just a single year is listed (e.g. “2009”) that means the policy was only active that one year. <br/>\n- If the policy is active with no end date, then the format will be “[Year started] - ongoing.” If the policy has a specified end date in the future, that year will be listed instead: “[Year started] – [Expected final year].” <br/>\n<br/>\n6. Funder/Funding:<br/>\n- The government, government agency, or organization responsible for the use of those funds made available through the policy. <br/>\n<br/>\n7. Funding Amount (Program):<br/>\n- The dollar value of funds connected to the policy. <br/>\n- Sometimes this is the total value of funds available to the policy, and sometimes it is the actual value of funds that were used. <br/>\n- The funds indicated here do not necessarily correspond to the time period indicated in the ‘Years Active’ field. Additional detail will be added to clarify whenever possible. <br/>\n- If policy has “N/A” listed here, see ‘Features/Requirements’ for more information. <br/>\n<br/>\n8. Funding Form:<br/>\n- Indicates the type of financial tools available to the policy. For example, “capital funding,” “forgivable loans,” or “rent supplements.” <br/>\n- If policy has “N/A” listed here, see ‘Features/Requirements’ for more information. <br/>\n<br/>\n9. Affordability Standard:<br/>\n- Indicates whether the policy includes an explicit standard or benchmark of affordability that is used to guide or otherwise inform the policy’s goals. <br/>\n<br/>\n10. Affordability Term:<br/>\n- Indicates whether the affordability standard applies to a specific time period. <br/>\n- This field may also contain other information on time periods that are relevant to the policy; for example, an operating loan guaranteed to be active for a specific number of years. <br/>\n<br/>\n11. Features/Requirements:<br/>\n- Describes the broad objectives of the policy as well as any specific guidelines that the policy must follow. <br/>\n<br/>\n12. Comments:<br/>\n- Author’s commentary on the policy. <br/>\n<br/>\n13. Reference link 1:<br/>\n- A web address (URL) or citation indicating the source of the details on the policy. <br/>\n<br/>\n14. Reference link 2:<br/>\n- A second web address (URL) or citation indicating the source of the details on the policy. <br/>\n<br/>\n15. Reference link 3:<br/>\n- A third web address (URL) or citation indicating the source of the details on the policy. <br/>\n<br/>\n<b>File list (1):</b><br/><br/>\n1. Property Acquisition Policy Database.xlsx <br/>\n<br/>"
+  ],
+  "dct_identifier_sm": [
+    "448168_73885",
+    "https://doi.org/10.5683/SP3/YGOIHA"
+  ],
+  "dct_issued_s": "2023-03-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YGOIHA\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Nova Scotia, Ontario, Quebec, Alberta,, Canada",
+    "n/a, Finland",
+    "n/a, Italy",
+    "n/a, France",
+    "n/a, Sweden",
+    "n/a, United Kingdom",
+    "Many states, United States"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "HART - Property Acquisitions Policy Database",
+  "gbl_mdModified_dt": "2023-11-22T21:06:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0704237c-16b8-5532-b233-4b25519d4e00",
+  "pcdm_memberOf_sm": [
+    "Housing Research Collaborative"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Volcanic Response activities under the World Climate Research Programme's (WCRP's) Atmospheric Processes and Their Role in Climate (APARC) and the Decadal Climate Prediction Project (DCPP) organized a community exercise to respond to a hypothetical large eruption occurring in April 2022. As part of this Volcanic Response Readiness Exercise (VolRes-RE), the Easy Volcanic Aerosol forcing generator was used to provide stratospheric sulfate aerosol optical properties customized to the configurations of individual decadal prediction models. Participating centers reran forecasts for 2022–26 from their original initialization dates (beginning of November 2021 or January 2022) and, in most cases, also from just before the eruption at the beginning of April 2022, according to two candidate response protocols. The forecast data requested for VolRes-RE are monthly averages of six two-dimensional variables including (priority 1) near-surface air temperature (tas), precipitation rate (pr), and sea level pressure (psl), and (priority 2) surface temperature (ts), sea ice concentration (siconc), and Atlantic meridional overturning streamfunction (msftmz). This product contains raw ensemble decadal forecasts of these variables produced without volcanic forcing (f1) and with volcanic forcing (f2) for the two initialization dates by each of the 9 participating models. Data are available on the native grids. Forecast ranges vary from at least 5 years to up to 10 years for some models. Details of the VolRes-RE experiment, technical aspects of the participating decadal prediction systems, and the outcome of this exercise are available at https://doi.org/10.1175/BAMS-D-23-0111.1."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/52dae667-e824-44ae-84b6-4297921838c9"
+  ],
+  "dct_issued_s": "2025-09-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/52dae667-e824-44ae-84b6-4297921838c9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Decadal climate predictions for the Volcanic Response Readiness Exercise (VolRes-RE)",
+  "gbl_mdModified_dt": "2025-09-10T18:51:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a515dec-be57-519f-964e-24c86b00c6a8",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

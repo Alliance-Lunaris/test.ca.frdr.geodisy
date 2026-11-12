@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 22.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Annual and five-year (5YA) average wet deposition maps for the non-sea-salt sulfate ion are available. The file formats include geodatabase files (*.gdb) compatible with geospatial software (e.g. ESRI ArcGIS) and KMZ files compatible with virtual globe software (e.g. Google Earth™). Maps can also be viewed online via Open Maps and the ArcGIS online viewer. Annual deposition from each site was screened for completeness using the following criteria: (1) precipitation amounts were recorded for >90% of the year and >60% of each quarter, and (2) sulfate concentrations were reported for >70% of the precipitation measured over the year and for >60% of each quarter. Five-year average wet deposition values are averaged annual deposition values with a completeness criterion >60% for the five-year period. Units for wet deposition fluxes are in kg of xSO4 per hectare per year (kg ha-1 y-1). Sources of measurement data and spatial interpolation method are described here: https://doi.org/10.18164/e8896575-1fb8-4e53-8acd-8579c3c055c2.   \n  \n  Recommended citation: Environment and Climate Change Canada, [year published]. xSO4 Wet Deposition Maps. Air Quality Research Division, Environment and Climate Change Canada, Toronto, Ontario, Canada. [URL/DOI], accessed [date].  \n  \n  Recommended acknowledgement: The author(s) acknowledge Environment and Climate Change Canada for the provision of Canada-U.S. wet deposition kriging maps accessed from the Government of Canada Open Government Portal at open.canada.ca, and the data providers referenced therein."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/14384cc5-5f57-4878-ad9e-79a965bb49a2"
+  ],
+  "dct_issued_s": "2024-01-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/14384cc5-5f57-4878-ad9e-79a965bb49a2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "xSO4 Wet Deposition Maps",
+  "gbl_mdModified_dt": "2024-01-19T19:20:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f8ed941b-5ac0-5e3c-9512-11a91b0859e0",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 22.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

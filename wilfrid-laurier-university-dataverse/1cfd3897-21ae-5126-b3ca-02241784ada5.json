@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.01, -98.97, 76.23, 50.26)",
+  "dcat_keyword_sm": [
+    "Alpine/Tundra",
+    "Terrestrial Ecosystems",
+    "Land Surface",
+    "Dominant Species",
+    "Ecosystem",
+    "Biosphere",
+    "Land Use/ Land Cover"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wang, J.A. (Boston University). ORCID: https://orcid.org/0000-0003-2839-0699",
+    "Sulla-Menashe, D. (Boston University). ORCID: https://orcid.org/0000-0002-0435-6114",
+    "Woodcock, C.E. (Boston University).",
+    "Sonnentag, Oliver (University of Montreal, Montreal University, Wilfrid Laurier University, University of Montreal, Université de Montréal).",
+    "Keeling, R.F. (University of California San Diego).",
+    "Friedl, M.A. (Boston University)."
+  ],
+  "dct_description_sm": [
+    "This record is for the dataset “ABoVE: Landsat-derived Annual Dominant Land Cover Across ABoVE Core Domain, 1984-2014” at <a href= \"https://doi.org/10.3334/ORNLDAAC/1691\">https://doi.org/10.3334/ORNLDAAC/1691</a>\n<p><p> \nThis dataset provides two 30-m resolution time series products of annual land cover classifications over the Arctic Boreal Vulnerability Experiment (ABoVE) core domain for each year of the period 1984-2014. The data are the annual dominant plant functional type in a given 30-m pixel derived from Landsat surface reflectance, landcover training data mapped across the ABoVE domain (using Random Forests modeling, with clustering and interpretation of field photography) and very high resolution imagery to assign land cover classifications. One product has a 15-class land cover classification that breaks out forest and shrub types into several additional classes; the other product provides a simplified, 10-class approach. Classification accuracy assessment results are provided per year. Assessments were based on a probability-based random sample of reference data that supported statistically robust estimation of areas and uncertainties in mapped areas. <p>\nThis dataset can be downloaded at <a href= \"https://doi.org/10.3334/ORNLDAAC/1691\">https://doi.org/10.3334/ORNLDAAC/1691</a>"
+  ],
+  "dct_identifier_sm": [
+    "720156_137_716466",
+    "https://doi.org/10.5683/SP3/YBNORS"
+  ],
+  "dct_issued_s": "2024-12-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YBNORS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "ABoVE: Landsat-derived Annual Dominant Land Cover Across ABoVE Core Domain, 1984-2014",
+  "gbl_mdModified_dt": "2024-12-11T18:19:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1cfd3897-21ae-5126-b3ca-02241784ada5",
+  "locn_geometry": "ENVELOPE(-170.01, -98.97, 76.23, 50.26)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // LaurierGWFO"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

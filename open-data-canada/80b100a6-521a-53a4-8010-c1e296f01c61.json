@@ -1,0 +1,69 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -52.0, 60.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "géomatique",
+    "Geography",
+    "Earth sciences",
+    "relief",
+    "GéoBase",
+    "élévation",
+    "Canada",
+    "DEM",
+    "Canada",
+    "Sciences de la terre",
+    "geomatics",
+    "MNSC",
+    "Système d'information géographique",
+    "Topography",
+    "Geomatics",
+    "MNE",
+    "CDSM",
+    "Géographie",
+    "GeoBase",
+    "elevation",
+    "Cartography",
+    "Topographie",
+    "Earth Sciences",
+    "Geographic information systems",
+    "Géomatique",
+    "relief",
+    "Sciences de la Terre",
+    "Cartographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle numérique de surface du Canada, 2000"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This is a legacy product that is no longer supported. It may not meet current government standards.  \n  \n  The Canadian Digital Surface Model (CDSM) is part of Natural Resources Canada's altimetry system designed to better meet the users' needs for elevation data and products. The 0.75-second (~20 m) CDSM consists of a derived product from the original 1-second (30 m) Shuttle Radar Topographic Mission (SRTM) digital surface model (DSM). In these data, the elevations are captured at the top of buildings, trees, structures, and other objects rather than at ground level.  \n  \n  A CDSM mosaic can be obtained for a pre-defined or user-defined extent. The coverage and resolution of a mosaic varies according to the extent of the requested area.  \n  \n  Derived products such as slope, shaded relief and colour shaded relief maps can also be generated on demand by using the Geospatial-Data Extraction tool. Data can then be saved in many formats.  \n  \n  The pre-packaged GeoTiff datasets are based on the National Topographic System of Canada (NTS) at the 1:50 000 scale; the NTS index file is available in the Resources section in many formats.",
+    "Ce produit fait maintenant partie du patrimoine, il n’est plus maintenu. Il pourrait ne pas respecter les normes actuelles du gouvernement.  \n  \n  Le Modèle numérique de surface du Canada (MNSC) fait partie du système d'altimétrie conçu par Ressources naturelles Canada afin de mieux répondre aux besoins des utilisateurs de données et de produits d'élévation. Le MNSC à 0,75 seconde (~20 m) est un produit dérivé du modèle numérique de surface (MNS) original à 1 seconde (30 m) du Shuttle Radar Topographic Mission (SRTM). Dans ces données, les élévations sont captées au sommet des édifices, arbres, structures et autres objets, plutôt qu'au sol.  \n  \n  Une mosaïque du MNSC peut être obtenue pour une région prédéfinie ou définie par l'utilisateur. La couverture et la résolution des mosaïques varient selon l'étendue de la région demandée.  \n  \n  Des produits dérivés tels que des cartes de pente, de relief ombragé et de relief ombragé en couleurs peuvent aussi être générés sur demande en utilisant l'outil d'extraction de données géospatiales. Les données peuvent alors être sauvegardées dans plusieurs formats.  \n  \n  Les jeux de données pré-emballés GeoTiff sont basés sur le système national de référence cartographique du Canada (SNRC) à l'échelle de 1/50 000; l'index SNRC est disponible dans la section Ressources de données dans différents formats."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/768570f8-5761-498a-bd6a-315eb6cc023d"
+  ],
+  "dct_issued_s": "2015-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/768570f8-5761-498a-bd6a-315eb6cc023d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Canadian Digital Surface Model, 2000",
+  "gbl_mdModified_dt": "2023-06-10T17:49:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "80b100a6-521a-53a4-8010-c1e296f01c61",
+  "locn_geometry": "ENVELOPE(-140.0, -52.0, 60.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

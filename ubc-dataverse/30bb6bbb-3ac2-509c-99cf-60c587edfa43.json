@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Theory",
+    "Ecological Genetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Débarre, Florence (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/iuLy7quy6UavPPDodlc8VZ6m2_N0mhLDxfO8oW2qSrc</p>\n<p><b>Storage size:</b> 1347824</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Can speciation occur in a single population when different types of resources are available, in the absence of any geographical isolation, or any spatial or temporal variation in selection? The controversial topics of sympatric speciation and ecological speciation have already stimulated many theoretical studies, most of them agreeing on the fact that mechanisms generating disruptive selection, some level of assortment, and enough heterogeneity in the available resources, are critical for sympatric speciation to occur. Few studies, however, have combined the three factors and investigated their interactions. In this article, I analytically derive conditions for sympatric speciation in a general model where the distribution of resources can be uni- or bimodal, and where a parameter controls the range of resources that an individual can exploit. This approach bridges the gap between models of a unimodal continuum of resources and Levene-type models with discrete resources. I then test these conditions against simulation results from a recently published article (Thibert-Plante and Hendry 2011) and confirm that sympatric ecological speciation is favoured when (i) selection is disruptive (ie, individuals with an intermediate trait are at a local fitness minimum), (ii) resources are differentiated enough, and (iii) mating is assortative. I also discuss the role of mating preference functions, and the need (or lack thereof) for bimodality in resource distributions for diversification.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">FDebarre_JEB-2621_SuppInfo-Mathematica</h4><div class=\"o-metadata__file-description\">Mathematica notebook with the analytical derivations of the results.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">FDebarre_JEB-2621_R-scripts</h4><div class=\"o-metadata__file-description\">Zipped folder with all the R scripts used in the study. To evaluate them, unzip the folder, launch R, go to the folder where the scripts are, and type source('MASTERFILE.R') . All the figures will be created and saved as pdfs in the figures folder.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">FDebarre_JEB_2621_Appendix</h4><div class=\"o-metadata__file-description\">pdf printout of the Mathematica and R files.</div><div class=\"o-metadata__file-name\">FDebarre-JEB_2621_Appendix.pdf</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">FDebarre_JEB-2621_FigsS1-4</h4><div class=\"o-metadata__file-description\">Supplementary figures.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153398_1226260_150149",
+    "https://doi.org/10.5683/SP2/T1VXBR"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/T1VXBR\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Refining the conditions for sympatric ecological speciation",
+  "gbl_mdModified_dt": "2021-05-19T19:11:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "30bb6bbb-3ac2-509c-99cf-60c587edfa43",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

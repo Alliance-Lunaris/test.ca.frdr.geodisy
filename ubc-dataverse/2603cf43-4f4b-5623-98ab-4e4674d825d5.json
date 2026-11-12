@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Wolves",
+    "Genomics",
+    "Ecology",
+    "Coyotes",
+    "Endangered species",
+    "Conservation genetics",
+    "Species delimitation",
+    "Population genetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Walker, Emily (Ministry of Natural Resources and Forestry).",
+    "Patterson, Brent (Ontario Ministry of Natural Resources, Ministry of Natural Resources and Forestry, Ontario Ministry of Natural Resources and Forestry).",
+    "Rutledge, Glen (,).",
+    "Rutledge, Linda (University of British Columbia). ORCID: https://orcid.org/0000-0002-6008-2322"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 6</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/dataset/doi:10.5061/dryad.02v6wwqgb</p>\n<p><b>Storage size:</b> 3585223968</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Population genetic studies have traditionally relied on data from short tandem repeat (STR) markers, known as microsatellites, to produce individual genotypes used in population genetics research. However, size fragment analysis from traditional capillary electrophoresis presents scoring challenges and limits data comparisons among labs. Here, we present a new cost-effective, universal microsatellite genotype-by-sequencing assay for Canis species that allows for unambiguous allele calls, flags homoplasy for more accurate assignment tests and estimates of diversity, and improves genotyping output from low-template DNA. We note size homoplasy in 18 of 26 loci, with the number of alleles being 32% higher in the dataset that included sequence mutations (Namut=334) compared to the dataset based on size alone (Nalen=253). Bayesian cluster analysis was similar for both datasets, although 63 of 83 samples had higher assignment values to their primary cluster when mutations were considered. We document and code a list of sequence mutations associated with each locus and propose a framework for building an accessible, universal STR dataset for wolves, coyotes, and dogs that improves cluster assignments and admixture estimates in a system with complex demography and hybridization patterns. Overall, the assay provides an improved method of genetic monitoring for improved conservation of wolf populations.</p>"
+  ],
+  "dct_identifier_sm": [
+    "1123495_150149",
+    "https://doi.org/10.5683/SP3/AJBOBD"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AJBOBD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Canis STR-seq: A universal approach for non-invasive genetic monitoring of wolves and coyotes",
+  "gbl_mdModified_dt": "2026-04-02T13:16:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2603cf43-4f4b-5623-98ab-4e4674d825d5",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

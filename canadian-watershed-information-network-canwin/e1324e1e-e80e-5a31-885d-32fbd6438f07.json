@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Roads database includes an inventory of road assets (roadways, blocks, intersections, sidewalks, curbs) with a spatial representation and various attached information.\n\nAggregate pavement assets represent carriageways located in the public domain and that are part of the local or arterial road network. Aggregate pavements are represented by polygons that are aggregated by type of use.\n\nAmong the information associated with a pavement object is the date of construction, the date of resurfacing, the date of survey, the materials of the pavement, the type of foundation, the presence of a bicycle lane, the use, etc.\n\nIntersecting road assets represent road crossings located in public areas that are part of the local or arterial road network. Intersections are represented by polygons that are cut according to the number of traffic axes.\n\nInformation associated with an intersecting object includes the construction date, resurfacing date, survey date, intersection materials, foundation type, presence of bike lanes, etc.\n\nData is also available in separate sets on the portal to support several uses:\n\n- [Road asset (complete database)] (/city-of-montreal/road-active)\n\n- [Sidewalk and island] (/city-of-montreal/voirie-trottoir-ilot)\n\n- [Off-road zone] (/city-of-montreal/voirie-zone) \n\n__Warnings__\n\n- The data released on road assets are those in the possession of the City's geomatics team and are not necessarily up to date throughout the territory.\n\n- The data released on road assets is provided for information purposes only and should not be used for the purposes of designing or carrying out works or for the location of assets.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a2810949-7335-49e2-84af-1c5da4ff6342"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a2810949-7335-49e2-84af-1c5da4ff6342\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Aggregate roadway and intersection (Road Assets Database)",
+  "gbl_mdModified_dt": "2026-10-07T17:34:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e1324e1e-e80e-5a31-885d-32fbd6438f07",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

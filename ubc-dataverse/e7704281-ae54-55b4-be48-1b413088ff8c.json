@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "COVID-19",
+    "forecasting",
+    "time series",
+    "digital surveillance"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "McDonald, Daniel (University of British Columbia). ORCID: https://orcid.org/0000-0002-0443-4282",
+    "Bien, Jacob (University of Southern California).",
+    "Green, Alden (Carnegie Mellon University).",
+    "Hu, Addison J (Carnegie Mellon University). ORCID: https://orcid.org/0000-0002-9339-7291",
+    "Tibshirani, Ryan (Carnegie Mellon University). ORCID: https://orcid.org/0000-0002-2158-8304"
+  ],
+  "dct_description_sm": [
+    "<p>This dataset contains large files which can be used to reproduce the results in McDonald, D.J., Bien, J., Green, A., Hu, A.J., DeFries, N., Hyun, S., Oliveira, N.L., Sharpnack, J., Tang, J., Tibshirani, R., Ventura, V., Wasserman, L., and Tibshirani, R.J. “Can Auxiliary Indicators Improve COVID-19 Forecasting and Hotspot Prediction?,” Proceedings of the National Academy of Sciences, 2021. <a>https://doi.org/10.1101/2021.06.22.21259346</a>\n</p>\n<p>\nShort-term forecasts of traditional streams from public health reporting (such as cases, hospitalizations, and deaths) are a key input to public health decision-making during a pandemic. Since early 2020, our research group has worked with data partners to collect, curate, and make publicly available numerous real-time COVID-19 indicators, providing multiple views of pandemic activity in the U.S.  This paper studies the utility of five such indicators---derived from de-identified medical insurance claims, self-reported symptoms from online surveys, and COVID-related Google search activity---from a forecasting perspective. For each indicator, we ask whether its inclusion in an autoregressive (AR) model leads to improved predictive accuracy relative to the same model excluding it. Such an AR model, without external features, is already competitive with many top COVID-19 forecasting models in use today. Our analysis reveals that (a) inclusion of each of these five indicators improves on the overall predictive accuracy of the AR model; (b) predictive gains are in general most pronounced during times in which COVID cases are trending in \"flat\" or \"down\" directions; (c) one indicator, based on Google searches, seems to be particularly helpful during \"up\"  trends.</p>\n<p>Complete descriptions as well as code are available from <a>https://github.com/cmu-delphi/covidcast-pnas/</a> and are permanently accessible at <a>https://doi.org/10.5281/zenodo.5639567</a>.</p>\n<p>\nThis material is based on work supported by gifts from Facebook, Google.org, the McCune Foundation, and Optum.</p>"
+  ],
+  "dct_identifier_sm": [
+    "234061_73901",
+    "https://doi.org/10.5683/SP3/UW4VTC"
+  ],
+  "dct_issued_s": "2021-11-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/UW4VTC\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Replication Data for: Can Auxiliary Indicators Improve COVID-19 Forecasting and Hotspot Prediction?",
+  "gbl_mdModified_dt": "2021-11-09T00:44:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e7704281-ae54-55b4-be48-1b413088ff8c",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

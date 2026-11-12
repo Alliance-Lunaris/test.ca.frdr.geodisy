@@ -1,0 +1,68 @@
+{
+  "dcat_keyword_sm": [
+    "Marital status",
+    "Shelter",
+    "Ethnic origin",
+    "Government income",
+    "Age",
+    "Commuting",
+    "Full time work",
+    "Unpaid work",
+    "Language",
+    "Mobility",
+    "Immigration",
+    "Citizenship",
+    "Self-employment",
+    "Investment",
+    "Income",
+    "Visible minority",
+    "Mother Tongue",
+    "Pension",
+    "First Nation",
+    "Birthplace",
+    "Census of Population",
+    "Household",
+    "Labour force",
+    "Family",
+    "Dwelling",
+    "Aboriginal",
+    "Employment",
+    "Part time work",
+    "Wages",
+    "Education"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "Notes: <p><strong>Reduced Level of Detail</strong><br /> Data for small geographic areas are not available in this product. The smallest geographic unit in the 2006 Hierarchical File (PUMF) is the census metropolitan area (CMA) and the latter has been further restricted to five of the six most populated census metropolitan areas in Canada. The Ottawa-Gatineau CMA was excluded due to confidentiality risks incurred by using the region variable to split the CMA into two smaller, less populated geographic regions. Also, due to confidentiality concerns some provinces and territories have been aggregated to create a geographic region, for example: Yukon Territory, the Northwest Territories and Nunavut are grouped under the term 'Northern Canada.'</p> <p>Furthermore, the data have been aggregated in such a way as to preserve confidentiality, while at the same time, providing analytical detail as to the structure and composition of the different census universes, .i.e.: households, economic families and census families. For example, the National Occupational Classification for Statistics (NOC-S) – occupation variable does not have a 'physician' category, but rather the more general 'Health occupations' category. This category also includes other medical occupations, such as 'nurse.'</p> <p><strong>Data not available</strong><br /> For a few records, the codes for certain variables were changed to indicate <strong>Not available</strong>, so as to guarantee data confidentiality. Users must make sure to exclude them from their  calculations.</p> <p><strong>Lower and upper income limits</strong><br /> The PUMF contains lower and upper income limits. Extreme values have been replaced by a common value as described in chapter 5.</p> <p><strong>New Features</strong><br /> The hierarchical structure of the file is a new feature in the line of census public use microdata files. It is intended to replace the 'household and housing' and 'families' flat files. The new format contains the census records of all persons who make up the private households which were selected to create the 1% sample. Each person level record contains a household identifier, an  economic family identifier, a census family identifier and a person identifier allowing users to aggregate data according to census universes. All identifiers are unique within the universes they define, for example, all members of a same household share the same household identifier and that identifier is unique amongst households, the same can be said for economic family identifiers and census family identifiers. Consequently, persons are the smallest unit of measure therefore each person identifier is unique within the file.</p> <ul>   <li>Changes to the content of the 2006 Census questionnaire<br />   New variables were inserted to reflect the content of the 2006 Census questionnaire.   <ul>     <li>Income<br />     For some respondents, Statistics Canada has income data obtained directly from Canada Revenue Agency. As a result, the 2006 PUMF now includes the 'after-tax income' and 'income tax paid' variables</li>     <li>Education<br />     The 2B questionnaire for the 2006 Census contained a new question on the location of study and for the first time the major field of study was coded based on the Classification of Instructional Programs (CIP) Canada 2000. The 2006 PUMF includes these new variables, which indicate, firstly, the province or territory (in Canada) or the country (outside Canada) where the highest certificate, diploma or degree was obtained and, secondly, the major field of study.</li>     <li>Religion<br />     The question on religion was not asked in the 2006 Census.</li>   </ul>   </li> </ul> <p><strong>Universes</strong></p> <p><strong>Private Household</strong><br /> Refers to a person or a group of persons (other than foreign residents) who occupy a private dwelling and do not have a usual place of residence elsewhere in Canada.</p> <p>The 2006 hierarchical PUMF contains 124,358 private households.</p> <p><strong>Dwelling, private, occupied by usual residents</strong><br /> Refers to a private dwelling in which a person or a group of persons is permanently residing. Also included are private dwellings whose usual residents are temporarily absent on Census Day.</p> <p>The number of private dwellings occupied by usual residents is equal to the number of private households in the 2006, 2001, 1996, 1991, 1986, 1981 and 1976 Censuses.</p> <p>The 2006 hierarchical PUMF contains 124,358 private dwellings occupied by usual residents.</p> <p><strong>Economic Family</strong><br /> Refers to a group of two or more persons who live in the same dwelling and are related to each other by blood, marriage, common-law or adoption. A couple may be of opposite or same sex. For 2006, foster children are included.</p> <p>The economic family concept requires only that family members be related by blood, marriage, common-law or adoption. By contrast, the census family concept requires that family members be either a male or female spouse, a male or female common-law partner, a male or female lone parent, or a child with a parent present. The concept of economic family may therefore refer to a larger group of persons than does the census family concept. For example, a widowed mother living with her married son and daughter-in-law would be treated as a person not in a census family. That same person would, however, be counted as a member of an economic family along with her son and daughter-in-law. Two or more related census families living together also constitute one economic family as, for example, a man and his wife living with their married son and daughter-in-law. Two or more brothers or sisters living together, apart from their parents, will form an economic family, but not a census family, since they do not meet the requirements for the latter. All census family persons are economic family persons. For 2006, foster children are considered economic family members.</p> <p>For 2006, married spouses may be of opposite or same sex.</p> <p>Note that as of 2001, same-sex partners are considered to be common-law partners. Thus they are considered related and members of the same economic family.</p> <p>The 2006 hierarchical PUMF contains 87,763 economic families.</p> <p><strong>Census Family</strong><br /> Refers to a married couple (with or without children of either or both spouses), a couple living common-law (with or without children of either or both partners) or a lone parent of any marital status, with at least one child living in the same dwelling. A couple may be of opposite or same sex. 'Children' in a census family include grandchildren living with their grandparent(s) but with no parents present.</p> <p>Children refer to blood, step- or adopted sons and daughters (regardless of age or marital status) who are living in the same dwelling as their parent(s), as well as grandchildren in households where there are no parents present. Sons and daughters who are living with their spouse or common-law partner, or with one or more of their own children, are not considered to be members of the census family of their parent(s), even if they are living in the same dwelling. In addition, the sons or daughters who do not live in the same dwelling as their parent(s) are not considered members of the census family of their parent(s). When sons or daughters study or have a summer job elsewhere but return to live with their parent(s) during the year,  these sons and daughters are considered members of the census family of their parent(s).</p> <p>For 2006, a married couple may be of opposite or same sex.</p> <p>For the 2001 Census, several changes were made to the census family concept:</p> <ul>   <li>Two persons living in a same-sex common-law relationship, along with any of their children residing in the household, are considered a census family.</li>   <li>Children in a census family can have been previously married (as long as they are not currently living with a spouse or common-law partner). Previously, they had to be 'never married'.</li>   <li>A grandchild living in a three-generation household where the parent (middle generation) is never-married will, contrary to previous censuses, now be considered as a child in the census family of his or her parent, provided the grandchild is not living with his or her own spouse, common-law partner, or child. Traditionally, the census family usually consisted of the two older generations.</li>   <li>A grandchild of another household member, where a middle-generation parent is not present, will now be considered as a child in the census family of his or her grandparent, provided the grandchild is not living with his or her own spouse, common-law partner, or child. Traditionally, such a grandchild would not be considered as the member of a census family.</li> </ul> <p>As of 2001, the write-in responses for Question 6 (Relationship to Person 1) on the Forms 2A and 3A (2A only in 1996) were not captured, but were classified as 'Other write-ins'. The write- in responses on Forms 2B, 2C, 2D and 3B (Forms 2B, 2C, 2D and 3 in 1996) were captured as reported by respondents. Unlike for censuses prior to 1996, the published output on families  will be produced from the sample database.<br /> In censuses prior to 1991, the families of married couples and those of opposite-sex common-law couples together constituted 'husband-wife families' and appeared as such in most  census family tables.</p> <p>The 2006 hierarchical PUMF contains 88,939 census families.</p>;",
+    "<p>The Hierarchical File, 2006 Census (Public Use Microdata Files) is a collection of records depicting individuals' responses to the 2006 Census. The Hierarchical File (PUMF) provides  important information about the composition and structure of Canadian families and households. The file allows users to explore the demographic, socio-cultural, ethno-cultural, housing and economic characteristics of census families, economic families and private households, as well as the individuals that define these units.</p> <p>The Hierarchical File (PUMF) contains 124,358 private households with a total of 309,841 individual records, representing approximately 1% of the population in private households in  private occupied dwellings in Canada. Each individual record contains 99 variables and was drawn from a sample of one-fifth of the Canadian population (sample data from the census 2B questionnaire). Rigorous steps were taken to preserve and maintain the confidentiality and anonymity of the identity of the persons found in the file.</p> <p>Since the 1971 Census, Statistics Canada has traditionally produced three public use microdata files: the Individuals File, the Families File and the Households and Housing File. To meet users' needs and allow international comparison of PUMFs, Statistics Canada produced two files for the 2006 Census: the Individuals File (released March 2010) and the present Hierarchical File.</p>"
+  ],
+  "dct_identifier_sm": [
+    "562287_47990_48010",
+    "https://doi.org/10.5683/SP3/U9D8Q3"
+  ],
+  "dct_issued_s": "2023-09-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/U9D8Q3\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "2006 Census of Population  [Canada] Public Use Microdata File (PUMF): Hierarchical File",
+  "gbl_mdModified_dt": "2023-10-12T21:03:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43c800b2-0daf-5888-a314-0f8620f5b4f9",
+  "pcdm_memberOf_sm": [
+    "Census of Population / Recensement de la population Dataverse // 2006 Census / Recensement 2006 Dataverse"
+  ],
+  "schema_provider_s": "ODESI Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-81.0, -56.0, 63.0, 44.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A lidar dataset (*light detection and ranging*) is a collection of 3D points represented in the form of a point cloud, generated from laser surveys (airborne).\n\nRemote sensing by airborne laser or lidar refers to a remote sensing or optical measurement technology based on the analysis of the properties of laser light returned to its emitter. The coordinates of the lidar points correspond to the precise positions where the laser pulses emitted by the lidar sensor have been reflected by objects or surfaces. In other words, each lidar spot represents a specific location where the light beam touched a surface and returned to the sensor. These coordinates are expressed in three dimensions (X, Y, Z) and make it possible to create very detailed and accurate representations of the terrain.\n\nIn particular, lidar data allows:\n\n* to generate, among other things, numerical terrain (DTM) and surface (MNS) models;\n\n* to visualize the territory in perspective;\n\n* to perform three-dimensional spatial analyses for various needs, including:\n\n * the identification of areas potentially exposed to landslides and bank erosion;\n\n * landslide modeling;\n\n * the production of by-products and analyses of forest sectors;\n\n * the delimitation of flood zones.\n\nThese datasets are the result of various intergovernmental collaborations, in particular with several ministries of the Government of Quebec, as well as with the federal government and the municipal sector. \n\nThe geographic coverage corresponds to the information available on the download map and will be improved according to the availability of new data. In most cases, the data shown on this map corresponds to classified data. In the absence of classified data, but in the presence of raw data, it is the latter that will be presented on the map. \n\n\nUsers of [*Open Forest*] (https://www.foretouverte.gouv.qc.ca/?pos=@-69.01196,50.56983&ctx=_telechargement&layers=236id,0v,38z;275id,272pid,1v,6z&groups=272id,T%C3%A9l%C3%A9chargement%20-%20Lidar%20(nuages%20de%20points)t,5z,1v,1e) can also download this data on this platform. \n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/757bb61a-a5c5-4f38-947b-0130355a7917"
+  ],
+  "dct_issued_s": "2025-12-03",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/757bb61a-a5c5-4f38-947b-0130355a7917\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Quebec lidar data",
+  "gbl_mdModified_dt": "2026-10-07T17:36:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37fe13db-3428-56cc-89ff-92ef86dec570",
+  "locn_geometry": "ENVELOPE(-81.0, -56.0, 63.0, 44.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

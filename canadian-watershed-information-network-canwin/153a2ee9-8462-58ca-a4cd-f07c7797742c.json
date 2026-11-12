@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Environment and Climate Change Canada collected ambient air samples from three monitoring sites in Alberta’s oil sands region—Mannix (AMS5), Lower Camp (AMS11), and Fort McKay South (AMS13)—between December 2010 and July 2012. These samples were analyzed for polycyclic aromatic compounds (PACs), including polycyclic aromatic hydrocarbons (PAHs), alkylated PAHs, and dibenzothiophenes (DBTs), in both air and precipitation.\n\rUsing these measurements, a database of scavenging ratios was developed to quantify the removal of PACs by snow and rain. Since dry deposition cannot be measured directly, air concentrations were used to estimate dry deposition amounts. A dry deposition algorithm was also created and applied to various land cover types surrounding the monitoring sites.\n\r\n\rThe resulting dataset includes:\n\r1.\tScavenging ratio statistics for 43 PAC species in snow and rain.\n\r2.\tStatistics of modeled hourly dry deposition velocities for these PACs over different land cover types during 2011.\n\r3.\tSeasonal and annual estimates of dry and wet deposition for three groups of PACs (PAHs, Alkylated PAHs, and DBTs) at the three sites. \n\r\n\rThese deposition estimates can be integrated with data on other pollutants to assess cumulative environmental impacts on ecosystems and communities within and downwind of the oil sands region."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b49c4021-0ff4-4c4d-a2d0-3b136cbd972d"
+  ],
+  "dct_issued_s": "2026-02-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b49c4021-0ff4-4c4d-a2d0-3b136cbd972d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Scavenging ratio, dry deposition velocity and dry deposition for polycyclic aromatic compounds at three monitoring sites, Oil Sands Region",
+  "gbl_mdModified_dt": "2026-03-23T19:01:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "153a2ee9-8462-58ca-a4cd-f07c7797742c",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

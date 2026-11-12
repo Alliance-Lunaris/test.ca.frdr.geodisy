@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Rtcs",
+    "Donnee ouverte",
+    "Arret de bus",
+    "Taxi",
+    "Carte interactive",
+    "Bus",
+    "Interconnexion",
+    "Transport en commun",
+    "Autobus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des points de chute (interconnexion entre le réseau accès bus et le réseau de transport urbain) de la régie de transport en commun de Shawinigan (RTCS) sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n![Logo du RTCS](https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _adresse_ (_String_) : Adresse\n* _no_embarquement_ (_String_) : Numéro d'embarquement\n* _zones_ (_String_) : \n* _détails_ (_String_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/bcea85957baf49e0a437008c17909a34\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/7a8ff756-92f2-4e3e-9daf-0fecd465db66"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/7a8ff756-92f2-4e3e-9daf-0fecd465db66\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport"
+  ],
+  "dct_title_s": "Points de correspondace accès bus (RTCS) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "765b96f3-f0cf-5cc1-bc01-60c7f18cc75b",
+  "schema_provider_s": "Données Québec"
+}

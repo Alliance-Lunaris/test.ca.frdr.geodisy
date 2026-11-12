@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(0.0, 90.0, 80.0, 64.0)",
+  "dcat_keyword_sm": [
+    "Arctic Ocean",
+    "Kara Sea",
+    "Modeling",
+    "Barents Sea",
+    "Climate model",
+    "sea ice",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "Daily sea ice concentration (1950 - 2050) from models participating in version 6 of the Coupled Model Intercomparison Project is reprojected to the WGS84/NSIDC 25-km North Polar Stereographic grid (EPSG: 3413) using the NOAA/NSIDC Climate Data Record of passive microwave-derived sea ice concentration as the reference dataset and a modified version of the MAVRIC bias correction method described by Melia et al. (2015; DOI: 10.5194/tc-9-2237-2015). Corrections are based on a combination of mean bias for the period 1979-2014 and bias in the detrended standard deviation. The full equation is \r\n\r\nSICadj = (SICmod – SICmod.11) * (SDobs.clim / SDmod.clim) + SICmod.11 * (AVGobs.clim / AVGmod.clim)\r\n\r\nWhere SICadj is the adjusted sea ice concentration from a model on a given day for a given grid cell, SICmod is the original modeled sea ice concentration, SICmod.11 is the 11-year moving average of sea ice concentration, SD is the detrended standard deviation of sea ice concentration for the period 1979-2014 (which is the overlap of the historical experiment and the passive microwave record) for the observations (obs) and model (mod), and AVG is the average sea ice concentration for the period 1979-2014. Corrections are applied separately for each model, grid cell, and day-of-year. The difference between our method and Melia et al. (2015) is that they were working only with models that provided an ensemble of simulations, so they used ensemble means for the climatology and 11-year running mean modeled variables (SICmod.11, SDmod.clim, and AVGmod.clim). Since we could not do this for most models, we chose to only use a single ensemble member from each model.\r\n\r\nFollowing the downscaling procedure, some sea ice concentration values will fall below 0% or over 100%, which is physically unrealistic. Any value below 0% is replaced by 0%, and any value above 100% is replaced by 100%.\r\n\r\nData are stored in decadal files and grouped in zipped folders by model and experiment. Data from purely the historical experiment covers 1950-2009. The future experiment files (a.k.a. \"Shared Socioeconomic Pathways\" or SSPs) cover 2010-2050.  Because of the use of an 11-year moving average, although the historical experiments run through 2014, every year 2010-2014 always must include data from an SSP experiment to maintain a full 11 years of data. Therefore, years from 2010 -2019 are based on the concatenation of the historical experiment along with each SSP experiment."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4ef8f9ef-2f2c-4776-88b4-bd694e56ce6d"
+  ],
+  "dct_issued_s": "2023-07-21",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4ef8f9ef-2f2c-4776-88b4-bd694e56ce6d\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Cryosphere"
+  ],
+  "dct_title_s": "Bias-corrected CMIP6 Daily Sea Ice Concentration in the Barents and Kara Seas",
+  "gbl_mdModified_dt": "2026-02-24T00:04:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "55d17ca6-1402-57af-8b8a-a61caabce4bd",
+  "locn_geometry": "ENVELOPE(0.0, 90.0, 80.0, 64.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

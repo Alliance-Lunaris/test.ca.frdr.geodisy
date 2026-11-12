@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.985, -57.2917, 51.24, 45.92)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Fisheries and Oceans Canada (DFO) conducted a winter multidisciplinary scientific surveys with a bottom trawl in the northern Gulf of St. Lawrence and Cabot Straight from 1978 to 1994. The specificities of the missions onboard the MV Gadus Atlantica are described below.\n\nObjectives:\n\n1. Assess groundfish populations abundance and condition\n\n2. Assess environmental conditions\n\n3. Conduct a biodiversity inventory of benthic and demersal megafauna\n\n4. Collect samples for various research projects\n\nSurvey description\n\nThis winter survey covers the northern Gulf of St. Lawrence, that is the divisions 4R, 4S and 3Pn of the Northwest Atlantic Fisheries Organization (NAFO). A stratified random sampling strategy is used for this survey and the fishing gear used on the MV Gadus Atlantica is an Engel 145 Otter trawl. Standard trawling tows last 30 minutes, starting from the time the trawl touches the sea floor. Towing speed is 3.5 knots.\n\nData\n\nFor each fishing tow, the catch is sorted and weighed by taxa; individuals are counted and biological data are collected on a subsample. For fish, crab and squid, size and weight are measured by individual and, for some species, sex, gonad maturity, and the weight of certain organs (stomach, liver, gonads) are also evaluated. The soft rays of the anal fin are counted for redfish and otoliths are collected for Greenland halibut and Atlantic cod. Invertebrates are weighted and counted (no individual measurements).\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for all species caught, a “Carbio” file containing biological and morphometric measurements per individual, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level (for fish and certain invertebrate species), use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nData collection methods and sampling protocols have varied over the years. These changes may affect the comparability of the data across sampling periods. For more information about the protocols used, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nIt's important to note that this is raw data. Only sets considered successful are retained. In each set, all species are kept, with a few exceptions. For more information please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4bbd03ce-ae48-4aaa-97ac-5594c2a3a6c2"
+  ],
+  "dct_issued_s": "2020-03-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4bbd03ce-ae48-4aaa-97ac-5594c2a3a6c2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Multidisciplinary winter survey for assessing groundfish in the northern Gulf of St. Lawrence (MV Gadus Atlantica 1978 - 1994)",
+  "gbl_mdModified_dt": "2026-08-28T11:01:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b663f094-14fc-5a32-8d8d-be5ba74e0f1d",
+  "locn_geometry": "ENVELOPE(-66.985, -57.2917, 51.24, 45.92)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

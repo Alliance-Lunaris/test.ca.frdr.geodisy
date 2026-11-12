@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "High-resolution annual forest land cover maps for Canada's forested ecosystems (1984-2022). It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). The annual time series of forest land cover maps are national in scope (entire 650 million hectare forested ecosystem) and represent a wall-to-wall land cover characterization yearly from 1984 to 2022. These time-series land cover maps were produced from annual time-series of Landsat image composites, forest change information, and ancillary topographic and hydrologic data following the framework described in Hermosilla et al. (2022), which builds upon the approach introduced in Hermosilla et al. (2018). The methodological innovations included (i) a refined training pool derived from existing land cover products using airborne and spaceborne measures of forest structure; (ii) selection of training samples proportionally to the land cover distribution using a distance-weighted approach; and (iii) generation of regional classification models using a 150x150 km tiling system. Maps are post-processed using disturbance information to ensure logical class transitions over time using a Hidden Markov Model. Hidden Markov Models assess individual year class likelihoods to reduce variability and possible noise in year-on-year class assignments (for instances when class likelihoods are similar).\n\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., 2022. Land cover classification in an era of big and open data: Optimizing localized implementation and training data selection to improve mapping outcomes. Remote Sensing of Environment. Vol. 268, No. 112780. https://doi.org/10.1016/j.rse.2021.112780. (Hermosilla et al. 2022)\n\nHermosilla, T., M.A. Wulder, J.C. White, N.C. Coops, G. W. Hobart, (2018). Disturbance-Informed Annual Land Cover Classification Maps of Canada's Forested Ecosystems for a 29-Year Landsat Time Series. Canadian Journal of Remote Sensing. 44(1) 67-87.DOI: 10.1080/07038992.2018.1437719 (Hermosilla et al. 2018)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2785c103-9c2d-429b-9f3d-89f5cd9ea94d"
+  ],
+  "dct_issued_s": "2026-02-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2785c103-9c2d-429b-9f3d-89f5cd9ea94d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Annual High-resolution forest land cover for Canada (1984-2022)",
+  "gbl_mdModified_dt": "2026-09-02T17:00:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8ba894c6-6943-5674-8c4f-df93ccea01a4",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

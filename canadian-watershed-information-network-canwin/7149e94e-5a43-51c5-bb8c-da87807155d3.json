@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Municipalities with established populations of _Ixodes scapularis_ ticks (blacklegged ticks) are municipalities where tick populations reproduce and survive from one year to the next. This indicator makes it possible to identify municipalities where their presence suggests a higher risk of tick bites and the transmission of diseases, such as Lyme disease, anaplasmosis or babesiosis. In other municipalities without an established population, the presence of ticks is possible, as ticks can be carried there by birds or terrestrial mammals. The data used to build this indicator come from passive and active acarological surveillance. Active and passive surveillance data were accumulated and then aggregated by municipality and by year. This made it possible to determine whether an established tick population is identified by the indicator at least 1 year over the study period.\n\nThe climate zone favorable to the establishment of ticks _Ixodes scapularis_ highlights the areas where the estimated temperature would be favorable to the establishment of tick populations in Quebec. An area where the climate is favorable for the establishment of tick populations is defined by an annual number of degree-days above 0°C (DJ0). This indicator was calculated for the historical surveys 2009-2017 (current distribution) and for the horizons of 2030, 2050 and 2080 according to the climate scenarios SSP2-4.5 and SSP3-7.0 (future distribution). The DJ0 are calculated by calculating the difference between the daily mean temperature and the 0°C reference temperature used in this situation, then interpolating on a 10km x 10km grid. The final DJ0 value used is the 50th percentile.\n\nFor more information on municipalities with established populations of _Ixodes scapularis_ ticks or the climatic zones favorable to their establishment you can consult the * [Methodological Report] (\n\nhttps://www.inspq.qc.ca/publications/3483) * OR the * [INSPQ website, Current and future distribution maps of zoonoses in Quebec] (https://www.inspq.qc.ca/zoonoses/cartes) *.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ee83edb0-771e-4e68-9f97-2a2e736d4112"
+  ],
+  "dct_issued_s": "2024-05-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ee83edb0-771e-4e68-9f97-2a2e736d4112\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Mapping the current and future distribution of Ixodes scapularis ticks in Quebec according to climate change",
+  "gbl_mdModified_dt": "2026-09-30T17:37:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7149e94e-5a43-51c5-bb8c-da87807155d3",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Climat",
+    "Climate",
+    "Climatology",
+    "Climatologie",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Climatologie mensuelle par satellite de la température de la surface de la mer de la zone économique exclusive du Canada dans le Pacifique (1990-2020) – Résolution 4 km"
+  ],
+  "dct_creator_sm": [
+    "Lu Guan."
+  ],
+  "dct_description_sm": [
+    "Description:\nNight-time sea surface temperature (SST) was acquired from the AVHRR Pathfinder project, with data distributed by NOAA, and averaged into monthly climatological composites. The data span 1990 through 2020 at 4 km pixel resolution.\n\nMethods:\nAVHRR Pathfinder version 5.3 Level 3C night Sea Surface Temperature (SST) was acquired from NOAA at 4 km spatial resolution. The monthly mean value at all pixels was calculated for individual years, then all years were combined to produce final maps of monthly mean and monthly standard deviation of SST, and the number of occurrences of each pixel over the period of observation. The quality level of all satellite observations was also acquired with this dataset, and used to remove any pixels with a quality level lower than 4. Further, pixels with fewer than two occurrences over the period 1990-2020 were removed from these maps, and set to a NaN value in the tif files. All resulting rasters were cropped to the Canadian Exclusive Economic Zone and assigned to the NAD83 geographic coordinate reference system (EPSG:4269), and have a final pixel resolution of approximately 0.0417 degrees. The monthly mean, monthly standard deviation, and number of occurrences for all pixels are provided.\n\nUncertainties:\nSatellite values have been evaluated against global datasets, and datasets of samples in the Pacific region (see references). However, uncertainties are introduced when averaging together images over time as each pixel has a differing number of observations. Short-lived or spatially limited events may be missed.",
+    "Description:\nLes données sur la température de la surface de la mer (TSM) de nuit ont été tirées du projet d’AVHRR Pathfinder. Les données ont été distribuées par la NOAA, puis la valeur moyenne a été calculée en composites climatologiques mensuels. Les données couvrent les années 1990 à 2020 à une résolution de 4 km.\n\nMéthodes:\nLes données sur la température de la surface de la mer (TSM) de nuit dans la version 5.3 d’AVHRR Pathfinder, niveau 3C, avec une résolution spatiale de 4 km, ont été acquises auprès de la NOAA. On a calculé la valeur moyenne géométrique mensuelle de tous les pixels pour chaque année, puis on a combiné toutes les années afin de produire les cartes finales de la moyenne mensuelle et de l’écart-type mensuel de la TSM, ainsi que le nombre d’occurrences de chaque pixel sur la période d’observation. Le niveau de qualité de toutes les observations par satellite a également été acquis avec cet ensemble de données, et utilisé pour retirer les pixels ayant un niveau de qualité inférieur à 4. De plus, les pixels ayant moins de deux occurrences entre 1990 et 2020 ont été retirés de ces cartes, et leur valeur définie à NaN dans les fichiers tif. Toutes les trames obtenues ont été recadrées à la zone économique exclusive canadienne et assignées au système de référence des coordonnées géographiques NAD83 (EPSG:4269), et ont une résolution finale en pixels d’environ 0,0417 degré. La moyenne mensuelle, l’écart-type mensuel et le nombre d’occurrences pour tous les pixels sont fournis.\n\nIncertitudes:\nLes valeurs obtenues par satellite ont été évaluées en fonction de jeux de données mondiaux et de jeux de données d’échantillons dans la région du Pacifique (voir les références). Cependant, des incertitudes sont engendrées lors du calcul groupé de la moyenne des images au fil du temps, car chaque pixel présente un nombre différent d’observations. Des événements de courte durée ou limités dans l’espace peuvent ne pas être pris en compte."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a67df54b-286d-4eb6-9b38-474f1efe86db"
+  ],
+  "dct_issued_s": "2021-03-29",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a67df54b-286d-4eb6-9b38-474f1efe86db\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Monthly Satellite Sea Surface Temperature Climatology of the Canadian Pacific Exclusive Economic Zone (1990-2020) – 4 km Resolution",
+  "gbl_mdModified_dt": "2026-03-24T08:07:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43e02a0d-6f56-50f6-870c-38f110ee21df",
+  "locn_geometry": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

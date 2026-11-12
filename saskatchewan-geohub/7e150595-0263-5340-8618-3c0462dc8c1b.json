@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-111.45044599115516, -100.3015517851164, 59.6805846009994, 48.89199371594648)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "road network",
+    "Transportation",
+    "Highway",
+    "Infrastructure",
+    "infrastructure",
+    "Road Network",
+    "highway"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P STYLE=\"text-align:Justify;margin:0 0 0 0;\"><SPAN><SPAN>HIGHWAY_OFFICIAL consists of provincial and national highways system in Saskatchewan maintained by the Saskatchewan Ministry of Highways and Infrastructure (MHI). This data layer is based on the Linear Reference System (LRS) concepts. KM_FROM and KM_TO fields store the start point and the end point at Kilometer information of the line segment. Unique Identifiers (RoadName &amp; NID) are associated with each line segment. The \"RoadName\" field carry the unique highway name for each line segment in a control section. \"NID\" National Identifier is used to manage the updates between data producer and data users. HIGHWAY_OFFICIAL data layer serves as a foundation for SURN, NRN, SASK911, CAR, SGI-iHaul and other applications.</SPAN></SPAN></P><P STYLE=\"margin:0 0 0 0;\"><SPAN /></P><P><SPAN /></P></DIV></DIV></DIV>"
+  ],
+  "dct_identifier_sm": [
+    "31af3a34fa60402185f79a98090a99ac",
+    "https://www.arcgis.com/home/item.html?id=31af3a34fa60402185f79a98090a99ac"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/datasets/saskatchewan::highway-official\"}",
+  "dct_rights_sm": [
+    "Data are subject to the GeoBase Unrestricted Use Licence Agreement. Open Government Licence - Canadahttp://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "HIGHWAY_OFFICIAL",
+  "gbl_mdModified_dt": "2025-06-10T16:11:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7e150595-0263-5340-8618-3c0462dc8c1b",
+  "locn_geometry": "ENVELOPE(-111.45044599115516, -100.3015517851164, 59.6805846009994, 48.89199371594648)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

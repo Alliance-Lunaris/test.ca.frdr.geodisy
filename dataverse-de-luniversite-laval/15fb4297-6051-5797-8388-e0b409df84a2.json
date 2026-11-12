@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Imagerie (Technique)--Qualité de l'image",
+    "Imagerie (Technique)--Informatique",
+    "Imagerie à haute résolution",
+    "Microscopie électronique à haute résolution",
+    "Apprentissage automatique--Méthodes graphiques"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lavoie-Cardinal, Flavie (CERVO Brain research centre, Université Laval, Institute for intelligence and data (IID), Laval University). ORCID: https://orcid.org/0000-0002-4496-5088",
+    "Bilodeau, Anthony (Université Laval). ORCID: https://orcid.org/0000-0002-7041-6402",
+    "Durand, Audrey (Université Laval).",
+    "Wiesner, Theresa (Université Laval, Centre de recherche CERVO, Institut de Neurophysiopathologie). ORCID: https://orcid.org/0000-0001-5620-2945",
+    "Gardner, Marc-André (Université Laval).",
+    "Robitaille, Louis-Émile (Université Laval).",
+    "Gagné, Christian (Université Laval). ORCID: https://orcid.org/0000-0003-3697-4184",
+    "De Koninck, Paul (Université Laval). ORCID: https://orcid.org/0000-0002-6436-1062"
+  ],
+  "dct_description_sm": [
+    "Traditional approaches for finding well-performing parameterizations of complex imaging systems, such as super-resolution microscopes rely on an extensive exploration phase over the illumination and acquisition settings, prior to the imaging task. This strategy suffers from several issues: it requires a large amount of parameter configurations to be evaluated, it leads to discrepancies between well-performing parameters in the exploration phase and imaging task, and it results in a waste of time and resources given that optimization and final imaging tasks are conducted separately. Here we show that a fully automated, machine learning-based system can conduct imaging parameter optimization toward a trade-off between several objectives, simultaneously to the imaging task. Its potential is highlighted on various imaging tasks, such as live-cell and multicolor imaging and multimodal optimization. This online optimization routine can be integrated to various imaging systems to increase accessibility, optimize performance and improve overall imaging quality. All datasets used in the fully convolutional network (FCN) experiments."
+  ],
+  "dct_identifier_sm": [
+    "746778_746761",
+    "https://doi.org/10.5683/SP3/SU4OL1"
+  ],
+  "dct_issued_s": "2024-07-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SU4OL1\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Replication Data for a machine learning approach for online automated optimization of super-resolution optical microscopy",
+  "gbl_mdModified_dt": "2024-07-19T12:43:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "15fb4297-6051-5797-8388-e0b409df84a2",
+  "pcdm_memberOf_sm": [
+    "Flavie Lavoie-Cardinal 5088"
+  ],
+  "schema_provider_s": "Dataverse de l'Université Laval"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.0, -52.0, 84.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The 2021 Census Boundary Files depict the boundaries of all standard geographic areas established for the purpose of disseminating census data.   \n  \n  They contain information such as unique identifier (UID), name and type where applicable, as well as land area and province or territory unique identifier (PRUID). Each boundary file can be linked to all higher level geographic areas using its DGUID and the new 2021 Dissemination Geographies Relationship File.  \n  \n  They are available for download or viewing in two types: cartographic and digital. Both cartographic and digital boundary files are portrayed in Lambert conformal conic projection (North American Datum of 1983 [NAD83]).  \n  \n  The purpose of the 2021 Census Boundary Files is to provide a framework for mapping and spatial analysis, and to support Geographic Information System (GIS) applications used for land use and demographic studies, or social, economic and market research. Geographic unique identifiers permit linkage of statistical data to geographic areas depicted in the boundary files. Boundary files can also be used to create new geographic areas by combining standard geographic areas.  \n  \n  The boundary files are positionally consistent with the 2021 Road Network File, which provides additional reference for geographic context for mapping applications.  \n  \n  Each 2021 Census Boundary File contains the UID, DGUID, name and type where applicable, and land area of the geographic level the file represents. It also contains the PRUID. A 2021 Census Boundary File is available for each of the following geographic areas:  \n  \n  •\tProvinces and territories (PRs)  \n  \n  •\tCensus divisions (CDs)  \n  \n  •\tFederal electoral districts (2013 Representation Order) (FEDs)  \n  \n  •\tCensus subdivisions (CSDs)  \n  \n  •\tDesignated places (DPLs)  \n  \n  •\tEconomic regions (ERs)  \n  \n  •\tCensus agricultural regions (CARs)  \n  \n  •\tCensus consolidated subdivisions (CCSs)  \n  \n  •\tCensus metropolitan areas and census agglomerations (CMA/CAs)  \n  \n  •\tCensus tracts (CTs)  \n  \n  •\tPopulation centres (POPCTRs)  \n  \n  •\tDissemination areas (DAs)  \n  \n  •\tDissemination blocks (DBs)  \n  \n  •\tAggregate dissemination areas (ADAs)  \n  \n  •\tCensus Forward Sortation Areas© (CFSAs©)  \n  \n  •\tPopulation Ecumene"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ef70dc3b-1069-4037-9bce-61f47e628a1d"
+  ],
+  "dct_issued_s": "2022-04-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ef70dc3b-1069-4037-9bce-61f47e628a1d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "2021 Census - Boundary files",
+  "gbl_mdModified_dt": "2024-02-15T18:37:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a8aebc86-a688-5e61-bb5c-f336f7aeb59b",
+  "locn_geometry": "ENVELOPE(-143.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

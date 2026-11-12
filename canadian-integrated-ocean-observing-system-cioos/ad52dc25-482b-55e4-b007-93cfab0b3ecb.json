@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "Oceans",
+    "subSurfaceSalinity",
+    "subSurfaceTemperature",
+    "water temperature",
+    "ocean model",
+    "Salinité sous la surface",
+    "salinité",
+    "salinity",
+    "température de l'eau"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Salish Sea NEMO Modèle (Vert) Champs de traceur 3D horaire, v19-05"
+  ],
+  "dct_creator_sm": [
+    "Allen, Susan (UBC EOAS)."
+  ],
+  "dct_description_sm": [
+    "Three-dimensional salinity and water temperature field values averaged over 1 hour intervals\nfrom Salish Sea NEMO model runs with physics, biology and chemistry. The values are calculated for the entire model grid that includes the Juan de Fuca Strait, the Strait of Georgia, Puget Sound,\nand Johnstone Strait on the coasts of Washington State and British Columbia.\nThe time values are UTC. They are the centre of the intervals over which the calculated model results are averaged. Geo-location and depth data for the Salish Sea NEMO model grid are available in the ubcSSnBathymetry2V17-02 dataset.",
+    "Données tridimensionnelle moyenne de salinité et de température de l'eau calculées sur des intervalles d'une heure du modèle NEMO de la mer des Salish avec les composantes physique, biologique et la chimique. Les valeurs sont calculées pour l'ensemble de la grille du modèle qui comprend le détroit de Juan de Fuca, le détroit de Georgia, Puget Sound, et le détroit de Johnstone sur les côtes de l'État de Washington et de la Colombie-Britannique.\nLes valeurs temporelles sont UTC. Ils constituent le centre des intervalles sur lesquels les résultats calculés du modèle sont calculés. Les données de géolocalisation et de profondeur de la grille modèle NEMO de la mer des Salish sont disponibles dans l'ensemble de données UBCSSnBathymetry2v17-02."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/f3d0588a-bd74-4366-b3b6-e2a391398ddb"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/f3d0588a-bd74-4366-b3b6-e2a391398ddb\"}",
+  "dct_rights_sm": [
+    "Apache License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0"
+  ],
+  "dct_title_s": "Salish Sea NEMO Model (Green) Hourly 3D Tracer Fields, v19-05",
+  "gbl_mdModified_dt": "2026-09-16T20:41:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ad52dc25-482b-55e4-b007-93cfab0b3ecb",
+  "locn_geometry": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dcat_keyword_sm": [
+    "MNT",
+    "Élévation",
+    "Terrain",
+    "Information gouvernementale",
+    "MNA",
+    "Altitude",
+    "Relief",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l'information géospatiale."
+  ],
+  "dct_description_sm": [
+    "Digital terrain models offer a representation of the relief south of the 52nd parallel, in the form of an elevation matrix. This matrix makes it possible to visualize the territory in perspective and to perform three-dimensional spatial analyses, using appropriate software.\n\nA module specialized in three-dimensional data processing, such as 3D Analyst or Spatial Analyst, is required to visualize the digital altitude model in three dimensions.\n\nThis digital altitude model (10-meter pixel matrix) is obtained by processing altimeter data (level curves and elevation points) from ** [topographic databases on a scale of 1/20,000] (https://www.donneesquebec.ca/recherche/fr/dataset/cartes-topographiques-a-l-echelle-de-1-20-000) **.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Les modèles numériques de terrain offrent une représentation du relief au sud du 52e parallèle, sous forme d’une matrice d’élévation. Cette matrice permet de visualiser le territoire en perspective et d’effectuer des analyses spatiales tridimensionnelles, à l’aide des logiciels appropriés.\n\nUn module spécialisé en traitement de données tridimensionnelles, tel que 3D Analyst ou Spatial Analyst, est nécessaire pour visualiser le modèle numérique d'altitude en trois dimensions.\n\nCe modèle numérique d’altitude (matrice de pixels de 10 mètres) est obtenu par le traitement des données altimétriques (courbes de niveau et points d’élévation) issues des **[bases de données topographiques à l'échelle de 1/20 000](https://www.donneesquebec.ca/recherche/fr/dataset/cartes-topographiques-a-l-echelle-de-1-20-000)**."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/722bfd5d-408e-4127-8008-121905ee24a5"
+  ],
+  "dct_issued_s": "2019-03-11",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/722bfd5d-408e-4127-8008-121905ee24a5\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Modèles numériques de terrain à l’échelle de 1/20 000",
+  "gbl_mdModified_dt": "2026-09-30T17:33:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43192cd7-9a83-5974-9594-0014a6423196",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

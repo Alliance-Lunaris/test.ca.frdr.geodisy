@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-145.0304, -39.6925, 70.3619, 36.9368)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canadian National Wetlands Inventory (CNWI) is a comprehensive, publicly available national geodatabase developed by the Canadian Wildlife Service (CWS) of Environment and Climate Change Canada (ECCC), in collaboration with federal, provincial, and territorial governments, academia, Indigenous groups, and Non-Governmental Organizations (NGOs). It consists of the best available wetland mapping data, along with its metadata, published in a standardized manner.  \n  \n  The CNWI is continuously updated through the compilation of existing data and the acquisition of new high-resolution datasets to address coverage gaps, with an emphasis on peatlands and coastal wetlands, which are key habitats for greenhouse gas (GHG) sequestration. ECCC plans to use the CNWI to train and validate machine-learning algorithms to delineate and classify wetlands at a national scale and to measure trends over time. This will directly support Canada’s Nature-Based Climate Solutions by informing biodiversity conservation, guiding climate change mitigation and adaptation strategies, and supporting GHG emissions reporting.  \n  \n  The CNWI was initially released in February 2024 with 13 source datasets. In June 2025, the Inventory was updated to include 14 additional datasets. Collectively, these 27 source datasets comprise approximately 12.1 million wetland polygon features, covering a total area of roughly 640,000 square kilometers across ten provinces and territories (BC, MB, NB, NL, NS, PE, ON, QC, SK, YT). These source datasets were cross-walked into a standardized CNWI classification schema, which is based on two foundational documents: the Canadian Wetland Classification System (National Wetlands Working Group, 1997) and the Canadian Wetland Inventory Data Model (2016).  \n  \n  The CNWI Schema contains five major wetland classes (Bog, Fen, Swamp, Marsh, and Shallow/Open Water) and eight subclasses (Rich Fen, Poor Fen, Organic Swamp, Mineral Swamp, Organic Marsh, Mineral Marsh, Shallow Water, and Open Water). Non-conforming wetlands can be categorized into three groups: Peatland, Mixed, and Unclassified.   \n  \n  For more information on the CNWI and the related database, please refer to the CNWI User Manual and other supporting documents that accompany this publication. The User Manual provides detailed information on how data are collected, managed, and distributed to meet CNWI data standards."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d5af4ac5-ebdb-4645-bb0a-8ec5cac5e29f"
+  ],
+  "dct_issued_s": "2024-02-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d5af4ac5-ebdb-4645-bb0a-8ec5cac5e29f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian National Wetlands Inventory",
+  "gbl_mdModified_dt": "2025-10-15T12:15:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd9ffc8e-10d3-554e-9fb2-51f6445945df",
+  "locn_geometry": "ENVELOPE(-145.0304, -39.6925, 70.3619, 36.9368)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

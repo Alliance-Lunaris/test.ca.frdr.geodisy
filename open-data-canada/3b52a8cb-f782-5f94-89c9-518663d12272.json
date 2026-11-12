@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-112.267, -110.151, 59.261, 58.116)",
+  "dcat_keyword_sm": [
+    "modèle altimétrique numérique",
+    "Digital elevation data",
+    "MAN",
+    "Digital Elevation Model",
+    "DEM",
+    "données altimétriques de la surface du sol",
+    "Ground Surface Elevational data",
+    "Données numériques d'élévation",
+    "Peace-Athabasca Delta",
+    "Delta Paix-Athabasca"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Résumé du Modèle altimétrique numérique (MAN) du delta Paix-Athabasca (DPA)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "A high-resolution digital elevation model (DEM) is key to assessing habitat conditions, surface water connectivity, developing hydraulic models, and environmental change in the Peace-Athabasca Delta (PAD), Northern Alberta. Note that in this instance, DEM is a representation of the ground surface elevations and is thus considered synonymous with a digital terrain model. As part of the Oil Sands Monitoring (OSM) Program, the PAD DEM v1 was derived solely from airborne LiDAR surveys carried out since 2000 through multiple projects with different partners and collaborators, with the bulk of the area surveyed in 2019. Hence, the vertical accuracy varies spatially depending on the technology/method used in individual aerial surveys, as well as if a pixel was filled in via interpolation due to a lack of LiDAR ground data returns in very dense deltaic floodplain vegetation. Furthermore, it does not include traditional ground-based elevation survey data and bathymetric elevations, nor surface water extents for the multiple lakes, wetlands and channels – addition of these data will form part of a planned future version of this DEM product. Given that the DEM has yet to be tested and is a work in progress, the quality, accuracy or completeness is not warranted. The PAD DEM v1 is provided as a 4 m horizontal resolution product that is projected to the UTM NAD83 (CSRS) Zone 12 coordinate system and is referenced to the Canadian Geodetic Vertical Datum of 2013 (CGVD2013) Epoch 2010.",
+    "Un modèle altimétrique numérique (MAN) à haute résolution est essentiel pour évaluer les conditions d’habitat, la connectivité des eaux de surface, le développement de modèles hydrauliques et les changements environnementaux dans le delta des rivières de la Paix et Athabasca (DPA), dans le nord de l’Alberta. Notez que dans ce cas, le MAN est une représentation de l’altitude de la surface du sol et est donc considéré comme synonyme de modèle numérique de terrain. Dans le cadre du programme de surveillance des sables bitumineux, le MAN DPA v1 a été dérivé uniquement de levés LiDAR aéroportés réalisés depuis 2000 dans le cadre de multiples projets avec différents partenaires et collaborateurs, la majeure partie des levés ayant été réalisés en 2019. Par conséquent, la précision verticale varie dans l’espace en fonction de la technologie/méthode utilisée dans les relevés aériens individuels, ou si un pixel a été rempli par interpolation en raison du manque de retours de données LiDAR au sol dans la végétation très dense des plaines d’inondation deltaïques. En outre, il ne comprend pas les données traditionnelles de levés altimétriques au sol et les élévations bathymétriques, ni les étendues d’eau de surface pour les multiples lacs, zones humides et canaux - l’ajout de ces données fera partie d’une version future planifiée de ce MAN. Étant donné que le MAN n’a pas encore été testé et qu’il s’agit d’un travail en cours, sa qualité, son exactitude ou son exhaustivité ne sont pas garanties. Le MAN DPA v1 est fourni comme un produit à résolution horizontale de 4 m, projeté dans le système de coordonnées UTM NAD83 (SCRS) Zone 12 et référencé au Système de référence géodésique canadien de 2013 (CGVD2013) Époque 2010."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/03568324-1a8b-4c00-8650-f5c35f6e0bff"
+  ],
+  "dct_issued_s": "2022-10-25",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/03568324-1a8b-4c00-8650-f5c35f6e0bff\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Peace-Athabasca Delta (PAD) Digital Elevation Model (DEM) Abstract",
+  "gbl_mdModified_dt": "2022-11-22T15:23:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3b52a8cb-f782-5f94-89c9-518663d12272",
+  "locn_geometry": "ENVELOPE(-112.267, -110.151, 59.261, 58.116)",
+  "schema_provider_s": "Open Data Canada"
+}

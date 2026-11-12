@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.168, -66.8128, 45.186, 44.9166)",
+  "dcat_keyword_sm": [
+    "CTD",
+    "Océanographie",
+    "Oceanography",
+    "CTP",
+    "Sciences physiques",
+    "Température",
+    "Temperature",
+    "Physical sciences"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Échantillonnage mensuel CTP (conductivité, température et profondeur) dans la baie Passamaquoddy (de 1989 à 2018)"
+  ],
+  "dct_creator_sm": [
+    "CESD Data Manager / DSEC Gestionnaire de données."
+  ],
+  "dct_description_sm": [
+    "A systematic oceanographic monitoring program was initiated in September 1989 at twenty-five monitoring stations in the Passamaquoddy Bay area and approaches by Dr. Shawn Robinson based out of the St. Andrews Biological Station (SABS). Stations were established in a uniform grid pattern of two arcminutes latitude and longitude over the study area in order to develop a database on the spatial patterns of water properties. Monthly measurements of the water column for the temperatures and salinity at all stations was completed using a Seacat SBE 19 internally recording CTD from Sea-bird Electronics Inc. The CTD was programmed to record conductivity, temperature, and depth at a frequency of 2 hz, corresponding to 2 measurements per meter of water depth.\t\nCTD casts were recorded for each of the 25 stations in the study area monthly using the R/V Pandalus, and later the CCGS Viola M. Davidson based out of SABS. The CTD was configured such that the sensors were oriented towards the benthos and the CTD was then attached to a hydraulic winch on the deck of the ship by a stainless steel cable one meter above a weight, and lowered 1 m below the water's surface in order for the CTD to equilibrate for one minute. The CTD was then lowered at 1 m/s to the benthos using a metered block on the winch to determine when the CTD had reached the maximum depth at that station. Once the weight had touched the bottom, the CTD was retrieved from the water, turned off, and placed in a bucket of fresh seawater in order to minimize equilibration time at the next station.           \t\nInitially, the CTD measured salinity via water forced through the salinity cell with the drop rate of 1 m/s, but in August 1992, a pump was mounted on the CTD in order to provide a more consistent flow of water across the salinity cell. Surface temperatures were measured from bucket samples collected upon arriving at each station using a hand-held mercury thermometer at each station, and Secchi disk measurements were recorded.\t\nAll data were downloaded from the CTD upon return to SABS using a DFO computer and the proprietary Sea-Soft software. Downcast data from each profile was retained, binned into 1 m intervals, and processed to remove data spikes, density inversions, and anomalies due to inadequate instrument equilibration. Processed data was then stored in the DFO's Oracle database (PTRAN) under the IMTA_SABS schema in the INVHYD and INVINF tables. Station numbers and locations are recorded in the CTD_STATIONS table in the IMTA_SABS schema.\n\nCite this data: Robinson, S. Data of: Passamaquoddy Bay monthly Conductivity Temperature and Depth (CTD) sampling (1989 - 2018). Published: October 2019. Coastal Ecosystems Science Division, Fisheries and Oceans Canada, St. Andrews, NB. https://open.canada.ca/data/en/dataset/12184962-7879-4214-aef0-b31162f04a27",
+    "En septembre 1989, M. Shawn Robinson, Ph. D., établi à la Station biologique de St. Andrews (SABS), a lancé un programme de surveillance océanographique systématique visant 25 stations de surveillance des approches et du secteur de la baie Passamaquoddy. Les stations ont été disposées selon un quadrillage uniforme en fonction d’une latitude et d’une longitude de deux minutes d’arc dans la zone d’étude afin d’établir une base de données sur les configurations spatiales des propriétés de l’eau. On a pris à l’aide d’une sonde CTP d’enregistrement interne Seacat SBE 19 de Sea bird Electronics Inc des mesures mensuelles de la colonne d’eau, qui ont permis de déterminer la température et la salinité à toutes les stations. La sonde a été programmée pour enregistrer la conductivité, la température et la profondeur à la fréquence de 2 Hz, ce qui correspond à deux mesures par mètre de profondeur d’eau.\nÀ l’aide du NR Pandalus, puis du NGCC Viola M. Davidson, dont le port d’attache est à la SABS, on enregistre chaque mois des profils verticaux de CTP pour chacune des 25 stations de la zone d’étude. On configure la sonde CTP de sorte que ses capteurs soient orientés vers le benthos. On la fixe ensuite à un câble en acier inoxydable lié à un treuil hydraulique se trouvant sur le pont du navire, puis on installe un lest à un mètre sous la sonde. On descend la sonde à un mètre sous la surface de l’eau et on l’y maintient pendant une minute pour qu’elle atteigne un état d’équilibre. Par la suite, on la fait descendre de 1 m/s jusqu’au benthos à l’aide du bloc de mesure du treuil, qui permet de déterminer le moment où la sonde atteint la profondeur maximale à la station visée. Lorsque le lest touche le fond, la sonde est retirée de l’eau, éteinte et plongée dans un seau d’eau de mer fraîchement puisée afin de minimiser le temps d’équilibrage à la station suivante. Au début du programme, la sonde CTP mesurait la salinité de l’eau qui circulait dans la cellule de conductivité en réaction à la descente de 1 m/s. Toutefois, en août 1992, une pompe a été installée sur la sonde afin d’assurer un débit d’eau plus constant. On mesure les températures de surface à l’aide d’un thermomètre à mercure portatif à partir d’échantillons prélevés au moyen d’un seau à l’arrivée à chaque station, et on enregistre les mesures d’après le disque de Secchi.\nAu retour à la SABS, toutes les données sont téléchargées de la sonde CTP vers un ordinateur du MPO au moyen du logiciel exclusif Sea-Soft. Les données obtenues pendant la descente de chaque profil sont consignées, regroupées par intervalles d’un mètre et traitées pour en éliminer les pics de données, les inversions de densité et les anomalies dues à un mauvais équilibrage de l’instrument. Les données traitées sont ensuite stockées dans la base de données Oracle (PTRAN) du MPO sous le schéma IMTA_SABS dans les tableaux INVHYD et INVINF. Les numéros et emplacements des stations sont enregistrés dans le tableau CTD_STATIONS du schéma IMTA_SABS.\n\nCiter ces données comme suit: Robinson, S. Données de: Échantillonnage mensuel CTP (conductivité, température et profondeur) dans la baie Passamaquoddy (de 1989 à 2018). Date de publication: Octobre 2019. Division des sciences des écosystèmes côtiers, Pêches et Océans Canada, St. Andrews (Nouveau-Brunswick). https://open.canada.ca/data/fr/dataset/12184962-7879-4214-aef0-b31162f04a27"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/12184962-7879-4214-aef0-b31162f04a27"
+  ],
+  "dct_issued_s": "2019-10-30",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/12184962-7879-4214-aef0-b31162f04a27\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Passamaquoddy Bay monthly Conductivity Temperature and Depth (CTD) sampling (1989 - 2018)",
+  "gbl_mdModified_dt": "2026-04-24T14:00:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc49842f-30c3-56e2-a452-a82cee7a689e",
+  "locn_geometry": "ENVELOPE(-67.168, -66.8128, 45.186, 44.9166)",
+  "schema_provider_s": "Open Data Canada"
+}

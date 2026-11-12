@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0071, -116.6628, 60.1644, 48.1566)",
+  "dcat_keyword_sm": [
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic plants",
+    "Plante aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Répartition du varech sur la côte de la Colombie-Britannique d’après les données sources du SHC (1904 à 2004)"
+  ],
+  "dct_creator_sm": [
+    "Peter Wills."
+  ],
+  "dct_description_sm": [
+    "Kelp features were taken from digitized survey source fieldsheets produced by the Canadian Hydrographic Service (CHS).  The area covered by this dataset encompasses various surveyed areas along the western coast of North America in British Columbia coastal waters.  CHS has an extensive collection of hydrographic survey data in the form of field sheets based on over 100 years of surveying in Canada. Data has been collected using a wide range of methods and systems, from lead-line to modern day multi-transducer and multibeam systems. Positions have been established using the different types of terrestrial systems and methods available over many years - up to the latest advanced satellite positioning systems.\n\nFieldsheets that had not been previously digitizted were imported into ESRI ArcMap and georeferenced directly to WGS84 using CHS georeferencing standards and principles (charts.gc.ca). In order to minimize error, a hierarchy of control points was used, ranging from high survey order control points to comparing conspicuous stable rock features apparent in satellite imagery. The georeferencing result was further validated against satellite imagery, CHS charts and fieldsheets, the CHS-Pacific High Water Line (charts.gc.ca), and adjacent and overlapping Fieldsheets.  Finally, the kelp features were digitized, and corresponding chart information (category of kelp, scale, source, title, year, and comments) was added as attributes to each feature.  When digitizing kelp features the points were located at the optical center of the feature being digitized.  This dataset includes a point and a polygon layer.  Kelp that is located on land is historically valid. \n\nSymbolized kelp is not always an exact location but indicates that kelp is present in the area.  The symbol is a proxy.\n\nThe kelp attribute field does not distinguish between different types of kelp.  The field has three variables that are kelp, seaweed and Aquatic Plants.  Seaweed is the general name for marine plants of the Algae class which grow in long narrow ribbons. (International Maritime Dictionary, 2nd Ed.)\n\nKelp is one of an order (laminariales) of usually large, blade-shaped or vine-like brown algae. (IHO Dictionary, S-32, 5th Edition, 2611)\n\nAquatic Plants – Aquatic plants are used as to represent vegetation in fresh water rivers and lakes.\n\nGeographically encompasses the kelp in the Western Coastal waters of North America (mainly Canada) and Temporally overlaps/continues from data extracted from the British Admiralties.",
+    "Les caractéristiques du varech ont été tirées de feuilles de levé sur le terrain numérisées produites par le Service hydrographique du Canada (SHC). La zone couverte par cet ensemble de données englobe divers secteurs qui ont fait l’objet de levés le long de la côte ouest de l’Amérique du Nord, dans les eaux côtières de la Colombie-Britannique. Le SHC détient une vaste collection de données liées aux levés hydrographiques effectués sur une période de 100 plus ans au Canada. Ces données sont présentées sous forme de minutes hydrographique. Elles ont été recueillies à l’aide d’un large éventail de méthodes et de systèmes, que ce soit au moyen de ralingues ou de systèmes multitransducteurs et multifaisceaux modernes. Les positions ont été établies au fil des ans à l’aide de différents types de systèmes et de méthodes terrestres, et plus récemment à l’aide de systèmes de positionnement par satellite dernier cri.\n\nLes minutes hydrographique qui n’avaient pas été numérisées précédemment ont été importées dans ESRI ArcMap et géoréférencées directement dans le Système géodésique mondial 1984 (WGS84) en fonction des normes et des principes de géoréférencement du SHC (cartes.gc.ca). En vue de minimiser les erreurs, on a utilisé un hiérarchie des points de contrôle allant de « points de contrôle d’ordre supérieur de levé » à « comparaison d’entités rocheuses stables » indiquées dans les images satellite\n Le résultat du géoréférencement a ensuite été validé en fonction de l’imagerie satellite, des cartes et des minutes hydrographique du SHC, de la laisse de haute mer du Pacifique (cartes.gc.ca) et des feuilles de terrain adjacentes et chevauchantes. Finalement, les caractéristiques du varech ont été numérisées, et les renseignements cartographiques correspondants (catégorie de varech, la source, \néchelle,année de création, commentaires) ont été ajoutés à titre d’attributs de chaque caractéristique. Lors de la numérisation des caractéristiques du varech, les points ont été placés sur le centre optique de la caractéristique numérisée.  Cet ensemble de données comprend un point et une couche de polygones.  Le varech qui est situé sur terre est historiquement valide.\n\nLa représentation du varech n’indique pas une position exacte, mais elle indique la présence de varech dans les environs. Le signe conventionnel n’est qu’un indicateur.\n\nLe champ d’attribut du varech ne fait pas de distinction entre les différents types de varechs. Le champ comporte trois variables : « varech », « algue » et «Plantes aquatiques ». Le nom « algue » est celui qu’on attribue généralement aux plantes marines de la classe des algues qui poussent sous forme de longs rubans étroits (International Maritime Dictionary, 2e édition).\n\nLe varech est une algue brune (de l’ordre des Laminariales) habituellement assez large qui rappelle la forme d’une lame ou peut s’apparenter à une vigne (Dictionnaire de l’OHI S-32, 5e édition, 2611).\n\nPlantes aquatiques – Les plantes aquatiques sont utilisées pour représenter la végétation dans l’eau douce des rivières et fleuves.\n\nEnglobe géographiquement le varech qu’on trouve dans les eaux des régions côtières de l’ouest de l’Amérique du Nord (principalement en eaux canadiennes) et chevauche ou poursuit de façon chronologique les données obtenues auprès de l’Amirauté britannique."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9a6f8163-3ee5-4dd0-acf4-4c8fde4126a3"
+  ],
+  "dct_issued_s": "2020-06-02",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9a6f8163-3ee5-4dd0-acf4-4c8fde4126a3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology",
+    "society_and_culture"
+  ],
+  "dct_title_s": "Distribution of kelp on the coast of British Columbia extracted from CHS source data: 1904 - 2004",
+  "gbl_mdModified_dt": "2026-03-24T09:04:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f83c6302-bc92-5a2b-8d87-1b22b3ced7e6",
+  "locn_geometry": "ENVELOPE(-135.0071, -116.6628, 60.1644, 48.1566)",
+  "schema_provider_s": "Open Data Canada"
+}

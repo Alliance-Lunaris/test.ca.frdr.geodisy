@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Anhaus, Philipp (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0671-8545",
+    "Schiller, Martin (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0506-2759",
+    "Planat, Noémie (McGill University).",
+    "Katlein, Christian (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung). ORCID: https://orcid.org/0000-0003-2422-0414",
+    "Nicolaus, Marcel (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0003-0903-1746"
+  ],
+  "dct_description_sm": [
+    "The horizontal position of the remotely operated vehicle (ROV) during the ARTofMELT2023 expedition in May and June 2023 was measured using an acoustic Long Base Line (LBL) positioning system (LinkQuest Pinpoint) with an operating frequency of 26.77-44.62kHz. It consists of a transceiver onboard the ROV and 3 transponders which were deployed on 5 m long chains through the drifting ice cover at different horizontal distances from the ROV ice access hole. Due to the high latitude and glitches in the Pinpoint software's coordinate conversions, the surveys were virtually moved and 'fake' geographic positions centered around 1°N/1°E were used. The survey track was smoothed using a Kalman filter from initial acoustic fixes and cleaned for most obvious outliers. This calibration result in a floe-fixed, relative coordinate system (distance, relative, X and distance, relative, Y) with the origin (X=0 m, Y=0 m) at the ROV hole. The final position was recorded in the SPOT.ON survey systems software (OceanModulesTM). A quality flag for the position is introduced based on the time to the closest fix with \"1\" indicating good positon (fix reached &lt;= 3s), \"2\" medium position (fix reached &gt; 3s &amp; &lt;= 5s), and \"3\" bad position (fix reached &gt; 5s). Depending on the scientific aim, a position with quality flag \"3\" can still be useful. The ROV depth was measured by an integrated pressure sensor (Keller A-21Y, Keller AG) included in the main electronics housing of the ROV and calibrated to 0 during pre-survey procedures, when the top side of the ROV was at the same level as the water surface. The accuracy of the sensor is 0.10 m. ROV attitude (roll, pitch, heading) was measured with an onboard inertial measuring unit (Microstrain) with three axis accelerometer, magnetometer, and gyroscope."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.962940",
+    "https://doi.org/10.1594/pangaea.962940"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.962940\"}",
+  "dct_subject_sm": [
+    "Remote operated vehicle",
+    "Sea Ice Physics @ AWI (AWI_SeaIce)",
+    "Pressure sensor, Keller A-21Y",
+    "Distance, relative, X",
+    "Pitch angle",
+    "Survey ID",
+    "ARTofMELT2023",
+    "Roll angle",
+    "Remotely operated vehicle (ROV)",
+    "Sea ice",
+    "Quality flag, position",
+    "DATE/TIME",
+    "Distance, relative, Y",
+    "Time in seconds",
+    "Inertial measuring unit, Microstrain",
+    "Oden",
+    "DEPTH, water",
+    "Heading",
+    "Atmospheric rivers and the onset of sea ice melt 2023 (ARTofMELT)",
+    "BEAST",
+    "FRontiers in Arctic marine Monitoring (FRAM)"
+  ],
+  "dct_title_s": "Positioning and telemetry from ROV survey ARTofMELT2023/1_20-3 on 2023-05-20, survey 2",
+  "gbl_mdModified_dt": "2024-10-17T01:11:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "786265f9-122e-5d91-ad31-cb474ee810b9",
+  "locn_geometry": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "schema_provider_s": "PANGAEA"
+}

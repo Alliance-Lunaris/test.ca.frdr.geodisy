@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.261874, -122.745093, 56.93866, 46.956712)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Catch, effort, location (latitude and longitude), and associated biological data from groundfish multi-species longline surveys in the southern portion of the inlets and protected waters east of Vancouver Island, British Columbia.\n\nIntroduction \n\nThe Inside South Hard Bottom Longline (HBLL) survey is one of a set of long-term and coordinated surveys that together cover most of the nearshore, hard-bottom habitat of coastal British Columbia. The other surveys are the Inside North HBLL survey, Outside South HBLL survey, and Outside North HBLL survey.\n\nThe Inside South HBLL survey was first conducted in 2005. Starting in 2009, this survey has been repeated every second year, with the exception that no surveys were conducted in 2017, and the 2020 survey was postponed to 2021 due to the COVID-19 pandemic. The objective of these surveys is to provide fishery-independent abundance indices and associated biological data for the assessment of nearshore rockfishes and other groundfish species that live on untrawlable, hard bottom habitats. The surveys follow a random depth-stratified design and the sampling units are 2 km by 2 km blocks. The surveys use size 13/0 circle hooks, baited with frozen squid. \n\nThe Inside South HBLL Survey is conducted by Fisheries and Oceans Canada (DFO) and takes place on the Canadian Coast Guard Research Vessel Neocaligus. This survey covers the southern portion of the inlets and protected waters east of Vancouver Island, including Desolation Sound, the Strait of Georgia and southern Gulf Islands in Pacific Fishery Management areas (PFMAs) 14 – 20, 28, and 29.\n\nEffort\n\nThis table contains information about the survey trips and fishing events (sets) that are part of this survey series. Trip-level information includes the year the survey took place, a unique trip identifier, the vessel that conducted the survey and the trip start and end dates (the dates the vessel was away from the dock conducting the survey).  Set-level information includes the date, time, location and depth that fishing took place, soak time, hook spacing, and numbers of hooks counted. All successful fishing events are included, regardless of what was caught.\n\nCatch\n\nThis table contains the catch information from successful fishing events. Catches are identified to species or to the lowest taxonomic level possible. From 2005 to 2018, all catches are counted, and most catches are weighed; some catches are too small (“trace” amounts) or too large (e.g. very large Big Skate) to weigh.  From 2020 onwards, catches are recorded as counts only.  The unique trip identifier and set number are included so that catches can be related to the fishing event information (including capture location).\n\nBiology\n\nThis table contains the available biological data for catches which were sampled. Data may include any or all of length, sex, weight, age. Different length types are measured depending on the species. Age structures are collected when possible for species where validated aging methods exist and are archived until required for an assessment; therefore, all existing structures have not been aged at this time. Tissue samples (usually a fin clip) may be collected for genetic (DNA) analysis for some individuals of particular species.  Genetic samples may be archived until required for analysis; for more information please see the data contacts.  The unique trip identifier and set number are included so that samples can be related to the fishing event and catch information."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad921d10-363f-45fb-b0ce-05304fb91386"
+  ],
+  "dct_issued_s": "2020-08-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad921d10-363f-45fb-b0ce-05304fb91386\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Inside South Hard Bottom Longline Surveys",
+  "gbl_mdModified_dt": "2026-07-10T18:31:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b22de802-43e1-5c64-9740-db90b687fc89",
+  "locn_geometry": "ENVELOPE(-135.261874, -122.745093, 56.93866, 46.956712)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

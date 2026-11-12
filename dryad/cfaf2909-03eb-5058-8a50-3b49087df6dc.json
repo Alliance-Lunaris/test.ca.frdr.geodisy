@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "carbon budget",
+    "systems dynamics",
+    "Holocene",
+    "stochastic",
+    "landscape dynamics",
+    "land use change",
+    "landscape ecology",
+    "spatial",
+    "ST-Sim software",
+    "Markov chain"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Colin J., Daniel (University of Toronto).",
+    "Benjamin M., Sleeter (University of Toronto).",
+    "Leonardo, Frid (Apex Resource Management Solutions Ltd. 937 Kingsmere Ave. Ottawa ON K2A 3K2 Canada, Apex Resource Management Solutions Ltd. Ottawa ON Canada).",
+    "Marie-Josée, Fortin (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "1.State-and-transition simulation models (STSMs) provide a general framework for forecasting landscape dynamics, including projections of both vegetation and land-use/land-cover (LULC) change. The STSM method divides a landscape into spatially-referenced cells and then simulates the state of each cell forward in time, as a discrete-time stochastic process using a Monte Carlo approach, in response to any number of possible transitions. A current limitation of the STSM method, however, is that all of the state variables must be discrete.\r\n\r\n2.Here we present a new approach for extending a STSM, in order to account for continuous state variables, called a state-and-transition simulation model with stocks and flows (STSM-SF). The STSM-SF method allows for any number of continuous stocks to be defined for every spatial cell in the STSM, along with a suite of continuous flows specifying the rates at which stock levels change over time. The change in the level of each stock is then simulated forward in time, for each spatial cell, as a discrete-time stochastic process. The method differs from the traditional systems dynamics approach to stock-flow modelling in that the stocks and flows can be spatially-explicit, and the flows can be expressed as a function of the STSM states and transitions.\r\n\r\n3.We demonstrate the STSM-SF method by integrating a spatially-explicit carbon (C) budget model with a STSM of LULC change for the state of Hawai'i, USA. In this example, continuous stocks are pools of terrestrial C, while the flows are the possible fluxes of C between these pools. Importantly, several of these C fluxes are triggered by corresponding LULC transitions in the STSM. Model outputs include changes in the spatial and temporal distribution of C pools and fluxes across the landscape in response to projected future changes in LULC over the next 50 years.\r\n\r\n4.The new STSM-SF method allows both discrete and continuous state variables to be integrated into a STSM, including interactions between them. With the addition of stocks and flows, STSMs provide a conceptually simple yet powerful approach for characterizing uncertainties in projections of a wide range of questions regarding landscape change."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.6939c",
+    "https://doi.org/10.5061/dryad.6939c"
+  ],
+  "dct_issued_s": "2017-12-11",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.6939c\"}",
+  "dct_spatial_sm": [
+    "Hawaii"
+  ],
+  "dct_title_s": "Data from: Integrating continuous stocks and flows into state-and-transition simulation models of landscape change",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cfaf2909-03eb-5058-8a50-3b49087df6dc",
+  "schema_provider_s": "Dryad"
+}

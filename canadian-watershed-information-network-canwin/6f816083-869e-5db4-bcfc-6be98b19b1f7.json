@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.74, -54.9, 47.0, 40.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Effective fisheries and habitat management processes require knowledge of the distribution of areas of high ecological or biological significance. On the Scotian Shelf and Slope, a number of benthic ecologically or biologically significant areas consisting of habitat-forming species such as sponges and deep-water corals have been identified. However, knowledge of their spatial distribution is largely based on targeted surveys that are limited in their spatial extent. We used a species distribution modelling approach called random forest (RF) to predict the probability of occurrence and biomass of sponges, sea pens, and large and small gorgonian corals across the entire spatial extent of Fisheries and Oceans Canada’s (DFO) Maritimes Region. We also modelled the rare sponge Vazella pourtalesi, which forms the largest known aggregation of its kind on the Scotian Shelf. We utilized a number of data sources including DFO multispecies trawl catch data and in situ benthic imagery observations. Most models had excellent predictive capacity with cross-validated Area Under the Receiver Operating Characteristic Curve (AUC) values ranging from 0.760 to 0.977. Areas of suitable habitat were identified for each taxon and were contrasted against their known distribution and when applicable, the location of closure areas designated for their protection. Generalized additive models (GAMs) were developed to predict the biomass distribution of each taxonomic group and serve as a comparison to the RF models. The RF and GAM models provided comparable results, although GAMs provided superior predictions of biomass along the continental slope for some taxonomic groups. In the absence of data observations, the results of this study could be used to identify the potential distribution of sensitive benthic taxa for use in fisheries and habitat management applications. These results could also be used to refine significant concentrations of these taxa as identified through the kernel density analyses.\n\nCite this data as: Beazley, Lindsay; Kenchington, Ellen; Murillo-Perez, Javier; Lirette, Camille; Guijarro-Sabaniel, Javier; McMillan, Andrew; Knudby, Anders (2019). Species Distribution Modelling of Corals and Sponges in the Maritimes Region for Use in the Identification of Significant Benthic Areas. Published July 2023. Ocean Ecosystems Science Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/356e92f3-5bf3-4810-98b1-3e10cd7742aa"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/356e92f3-5bf3-4810-98b1-3e10cd7742aa"
+  ],
+  "dct_issued_s": "2023-07-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/356e92f3-5bf3-4810-98b1-3e10cd7742aa\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Species Distribution Modelling of Corals and Sponges in the Maritimes Region for Use in the Identification of Significant Benthic Areas",
+  "gbl_mdModified_dt": "2026-03-24T08:14:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6f816083-869e-5db4-bcfc-6be98b19b1f7",
+  "locn_geometry": "ENVELOPE(-67.74, -54.9, 47.0, 40.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,35 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.21173991076648, -123.02418694831431, 49.29562688805163, 49.203558890149)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><div><p>This dataset encompasses all issued permits since the start of the operating permit program (2019-present). Operating permits are required for new and existing cooling towers, decorative water features, building water treatment systems and rainwater harvesting/non-​potable water systems. It includes water quality reports and current system status. Withdrawn or cancelled permits are not included. Once through cooling operating permits are not included.</p><p>Operating permits for water systems allow the City and health authorities to respond more effectively to incidents, mitigate health risks by pathogens (such as <em>Legionella pneumophila</em>) and ensure on-going compliance with public health protection standards. See the Operating Permit webpage for more details.<br></p><p>​Please refer to the companion dataset <a href=\"https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/\" target=\"_blank\">Operating permits - water systems - water quality reports</a> ​for a complete history of water quality reports <br></p></div></div> <h3>Note</h3><div><div><p>Water quality data are self-reported by permit holders. There may be data entry errors and omissions.<br></p></div></div> <h3>Data currency</h3><div><div><p>Data are updated daily.<br></p></div></div> <h3>Data accuracy</h3><div><div><p>Water quality data and system status are self-reported by permit holders. The data are subject to audit and may be corrected after the initial submission by a permit holder.</p><p>There may be addresses that do not return coordinates through the geocoding process (using BC Address Geocoder API). These Operating Permits do not appear on the Map. Please consult the Table view for a complete list of Operating Permits.<br></p></div></div> <h3>Websites for further information</h3><div><div><p><a href=\"http://www.vancouver.ca/operating-permit\" target=\"_blank\">Operating permits</a><br></p></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "issued-operating-permits-water-systems-",
+    "https://opendata.vancouver.ca/explore/dataset/issued-operating-permits-water-systems-"
+  ],
+  "dct_issued_s": "2026-09-24",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/issued-operating-permits-water-systems-\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Safety",
+    "Property and development"
+  ],
+  "dct_title_s": "Issued operating permits – water systems",
+  "gbl_mdModified_dt": "2026-09-24T13:05:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "29a9f668-9049-500a-ab4c-ce06860f873c",
+  "locn_geometry": "ENVELOPE(-123.21173991076648, -123.02418694831431, 49.29562688805163, 49.203558890149)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

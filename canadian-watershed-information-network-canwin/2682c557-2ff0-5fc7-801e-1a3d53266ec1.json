@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Environment and Climate Change Canada provides global sea-ice analysis fields produced by its operational Global Deterministic Prediction System (GDPS) and interpolated to a rotated latitude-longitude grid with 0.09 x 0.09 degree resolution. The data files are in NetCDF format (NetCDF-4 classic model) and comply with the Climate and Forecast Conventions. The Global Sea-Ice Analysis System is an analysis system based on 3D-Var assimilation covering all waters (ocean and lakes) at a 10km horizontal resolution on a YIN-YANG grid and using a 6 hours persistence forecast for the background state. This analysis assimilates 4 times a day satellite remote sensing data and Canadian Ice Service ice charts."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/29c5a21a-8a5f-410d-b2a3-c3f3dadad86f"
+  ],
+  "dct_issued_s": "2026-03-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/29c5a21a-8a5f-410d-b2a3-c3f3dadad86f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Global Sea-Ice Analysis System",
+  "gbl_mdModified_dt": "2026-03-13T17:31:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2682c557-2ff0-5fc7-801e-1a3d53266ec1",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

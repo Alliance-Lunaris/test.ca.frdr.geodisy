@@ -1,0 +1,58 @@
+{
+  "dcat_keyword_sm": [
+    "<i>Accipiter gentilis laingi</i>",
+    "Species at Risk Act",
+    "Accipiter gentilis laingi",
+    "designatable unit",
+    "northern goshawk",
+    "population genetics",
+    "genomics",
+    "Accipiter gentilis",
+    "genotype-by-sequencing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Geraldes, Armando (University of British Columbia).",
+    "Askelson, Kenneth K. (University of British Columbia).",
+    "Nikelski, Ellen (University of British Columbia, University of Toronto).",
+    "Doyle, Frank I. (Wildlife Dynamics Consulting Terrace British Columbia Canada).",
+    "Harrower, William L. (University of British Columbia).",
+    "Winker, Kevin (University of British Columbia).",
+    "Irwin, Darren E. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/sncbcgS-lkIoHtmlSzKp5vu0rAdwiTDy0pPSGte1BKk</p>\n<p><b>Storage size:</b> 38049206</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Accurate knowledge of geographic ranges and genetic relationships among populations is important when managing a species or population of conservation concern. Along the western coast of Canada, a subspecies of the northern goshawk (Accipiter gentilis laingi) is legally designated as Threatened. The range and distinctness of this form, in comparison to the broadly distributed North American subspecies (Accipiter gentilis atricapillus), is unclear. Given this morphological uncertainty, we analyzed genomic relationships in thousands of single nucleotide polymorphisms identified using genotyping-by-sequencing of high-quality genetic samples. Results revealed a genetically distinct population of northern goshawks on the archipelago of Haida Gwaii and subtle structuring among other North American sampling regions. We then developed genotyping assays for ten loci that are highly differentiated between the two main genetic clusters, allowing inclusion of hundreds of low-quality samples and confirming that the distinct genetic cluster is restricted to Haida Gwaii. As the laingi form was originally described as being based in Haida Gwaii (where the type specimen is from), further morphological analysis may result in this name being restricted to the Haida Gwaii genetic cluster. Regardless of taxonomic treatment, the distinct Haida Gwaii genetic cluster along with the small and declining population size of the Haida Gwaii population suggests a high risk of extinction of an ecologically and genetically distinct form of northern goshawk. Outside of Haida Gwaii, sampling regions along the coast of BC and southeast Alaska (often considered regions inhabited by laingi) show some subtle differentiation from other North American regions. These results will increase the effectiveness of conservation management of northern goshawks in northwestern North America. More broadly, other conservation-related studies of genetic variation may benefit from the two-step approach we employed that first surveys genomic variation using high-quality samples and then genotypes low-quality samples at particularly informative loci.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">NOGO_SNP_Genotyping</h4><div class=\"o-metadata__file-description\">This \"Nogo_SNP_Genotyping.zip\" file contains the raw data from the genotyping of 10 ancestry informative SNPs from Geraldes et al. 2018. Within, there are twenty files. Each contains the results from one run on a Viia7 Real-Time PCR system. For each SNP two plates were genotyped. The SNP genotyping results reported in Supporting Table 6 and visualized in Supporting Figure 2 of Geraldes et al. 2018, were obtained by plotting columns \"Allele 1 Delta Rn\" and \"Allele 2 Delta Rn\" from the two files for each SNP. The column \"Sample Name\" in these files corresponds to the column \"Irwin Code\" in Supporting Table 1 of Geraldes et al. 2018.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153143_1226260_150149",
+    "https://doi.org/10.5683/SP2/X0JYQV"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/X0JYQV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Europe",
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Population genomic analyses reveal a highly differentiated and endangered genetic cluster of northern goshawks (Accipiter gentilis laingi) in Haida Gwaii",
+  "gbl_mdModified_dt": "2021-05-19T18:36:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8fd2056a-b93e-5f39-b140-4e09b03a36dc",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

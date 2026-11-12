@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-82.975842, -79.712515, 46.443096, 44.759476)",
+  "dcat_keyword_sm": [
+    "species at risk",
+    "habitat suitability",
+    "Stiff Yellow Flax",
+    "Eastern Georgian Bay",
+    "Random Forest",
+    "Linum medium var. medium",
+    "species distribution modelling",
+    "MaxEnt"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kealey, Abbey (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Habitat loss and climate change are driving an unprecedented decline in biodiversity, yet for many species at risk, the environmental conditions needed for their survival remain poorly understood. Stiff Yellow Flax (Linum medium var. medium) is a vulnerable shoreline perennial plant found exclusively in Eastern Georgian Bay (EGB), Ontario, a restricted range that, combined with its small population size, leaves it poorly understood and in need of targeted conservation action. This study mapped habitat suitability for Stiff Yellow Flax across EGB using Maximum Entropy (MaxEnt) and Random Forest (RF) models, identifying both suitable and unsuitable habitat and the environmental factors driving its distribution. \nBoth models demonstrated high predictive accuracy, with RF achieving an Area Under the Curve (AUC) of 0.936 and True Skill Statistic (TSS) of 0.753, and MaxEnt achieving an AUC of 0.899 and TSS of 0.723. Across both approaches, mean summer temperature emerged as the most important predictor of occurrence, while Normalized Difference Vegetation Index (NDVI), elevation, and distance to water were also consistently identified as influential environmental predictors driving habitat suitability. Highly suitable habitat was predominantly predicted along southern shorelines, reflecting the species' strong coastal association. The agreement between these two independent modelling approaches strengthens confidence in the results, and the resulting suitability maps provide a robust baseline for conservation planning, particularly to support the Georgian Bay Land Trust's (GBLT) upcoming multispecies action plan."
+  ],
+  "dct_identifier_sm": [
+    "1146090_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/6TNR6X"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/6TNR6X\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Predicting Suitable Habitat for Stiff Yellow Flax in Eastern Georgian Bay: A MaxEnt and Random Forest Approach",
+  "gbl_mdModified_dt": "2026-04-28T16:35:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "46ae1dd3-0f09-5497-8172-3591e4ef00f8",
+  "locn_geometry": "ENVELOPE(-82.975842, -79.712515, 46.443096, 44.759476)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

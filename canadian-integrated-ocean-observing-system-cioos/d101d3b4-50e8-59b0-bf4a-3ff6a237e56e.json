@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.12, -67.66, 49.32, 48.59)",
+  "dcat_keyword_sm": [
+    "Abondance et distribution de poissons",
+    "Oceans",
+    "Coastal Environmental Baseline Program",
+    "zone côtière",
+    "macrofaune benthique",
+    "benthic macrofauna",
+    "invertebrateAbundanceAndDistribution",
+    "Abondance et distribution d'invertébrés",
+    "coastal zone",
+    "taxonomie",
+    "fishAbundanceAndDistribution",
+    "taxonomy"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biodiversité côtière de l’épifaune benthique de l'estuaire du Saint-Laurent (2018-2019)"
+  ],
+  "dct_creator_sm": [
+    "Roy, Virginie (Fisheries and Oceans Canada, Pêches et Océans Canada)."
+  ],
+  "dct_description_sm": [
+    "The North Shore of the Lower Estuary (Upper North Shore, Quebec) is a productive coastal system where many commercial species of benthic invertebrates are fished in the infralittoral (10-20 m) and circalittoral (20-50 m) zone. However, little data exist on the biodiversity of non-commercial species and the environmental characteristics of the benthic habitat in this area. Two scientific surveys were conducted in 2018 and 2019 to address this knowledge gap by developing a framework of biodiversity and environmental (water column and seafloor) data taking that will be used to determine the baseline state of the benthic ecosystem in this region.\n\n\nSurveys were conducted in 2018 (August 11-14) and 2019 (July 30-August 5) in the Upper North Shore region (between the towns of Forestville and Godbout). Surveys followed a fixed sampling design of eight transects perpendicular to bathymetry with stations at 10 m depth intervals in a bathymetry range of 10-50 m for a total of approximately 40 stations per survey. Specimens were collected with a beam trawl with an opening of 2.8 m. The sets were made at a target speed of 2 knots and a target duration of 7 minutes. The start and end positions were recorded to calculate the distance traveled on each tow using the geosphere library of R. The average tow distance was approximately 425 m. The area covered at each tow was the product of the trawl opening and the distance traveled. \n\n\nThe files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic event information, including date and location, sample size, sampling protocol and sampling effort, among others. The \"taxon_occurrence\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. For abundance and biomass estimates, contact Virginie Roy (virginie.roy@dfo-mpo.gc.ca).\n\n\nFor quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. Special cases were noted in \"identificationRemarks\" and selected specimens were confirmed using field photos. Data quality checks were performed using the R obistools and worms libraries. All sampling locations were spatially validated.\n\n\nThis project was funded by DFO Coastal Environmental Baseline Program under Canada’s Oceans Protection Plan. This initiative aims to acquire environmental baseline data contributing to the characterization of important coastal areas and to support evidence-based assessments and management decisions for preserving marine ecosystems. Consult the dataset also available on the [**Open Data Canada**](https://ouvert.canada.ca/data/en/dataset/47f10264-1b59-4034-9679-3cb74f7527c7) portal.",
+    "La rive nord de l’estuaire maritime (Haute-Côte-Nord, Québec) est un système côtier productif où de nombreuses espèces commerciales d’invertébrés benthiques sont pêchées dans la zone infralittorale (10-20 m) et circalittorale (20-50 m). Cependant, peu de données existent sur la biodiversité des espèces non commerciales et les caractéristiques environnementales de l’habitat benthique de ce milieu. Deux relevés scientifiques ont donc été réalisés en 2018 et 2019 afin de combler ce manque de connaissances en développant un cadre de prises de données de biodiversité et environnementales (colonne d’eau et fond marin) qui serviront à déterminer l’état de référence de l’écosystème benthique de cette région.\n\nLes relevés ont été réalisés en 2018 (11-14 août) et en 2019 (30 juillet — 5 août) dans la région de la Haute-Côte-Nord (entre Forestville et Godbout). Les relevés suivaient un plan d’échantillonnage fixe de huit transects perpendiculaires à la bathymétrie avec des stations à intervalle de 10 m de profondeur dans une bathymétrie de 10 à 50 m pour un total d’environ 40 stations par relevé. Les spécimens ont été récoltés à l’aide d’un chalut à bâton (ou chalut à perche) d’une ouverture de 2.8 m. Les traits ont été réalisés à une vitesse visée de 2 nœuds et d’une durée visée de 7 minutes. Les positions début et fin ont été notées pour calculer la distance parcourue à chaque trait à l'aide de la bibliothèque geosphere de R. La distance moyenne des traits était d’environ 425 m. La superficie couverte à chaque trait était le produit de l’ouverture du chalut et de la distance parcourue. \n\nLes fichiers fournis (format DarwinCore) sont complémentaires et sont reliés par la clé «eventID». Le fichier «event_information» comprend les informations génériques de l'activité, notamment la date et la localisation, la taille de l'échantillon, le protocole et l’effort d’échantillonnage. Le fichier «taxon_occurrence» comprend la taxonomie des espèces observées, identifiées à l’espèce ou au niveau taxonomique le plus bas possible. Pour obtenir l’évaluation de l’abondance et de la biomasse, communiquez avec Virginie Roy (virginie.roy@dfo-mpo.gc.ca).\n\nPour les contrôles de qualité, tous les noms taxonomiques ont été vérifiés sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues. La correspondance WoRMS a été placée dans le champ «scientificNameID» du fichier d'occurrence. Les cas spéciaux ont été notés dans «identificationRemarks» et certains spécimens sélectionnés ont été confirmés à l'aide de photos de terrain. Les contrôles de la qualité des données ont été effectués à l'aide des bibliothèques R obistools et worms. Tous les emplacements d'échantillonnage ont été validés spatialement.\n\nCe projet a été financé par le Programme sur les données environnementales côtières de référence de Pêches et Océans Canada dans le cadre du Plan de protection des océans. Cette initiative vise à acquérir des données environnementales de base qui contribuent à la caractérisation des zones côtières d’importance et appuient des évaluations fondées sur des preuves ainsi que les décisions de gestion afin de préserver les écosystèmes marins. Consultez le jeu de données aussi disponible sur le portail de [**Données Ouvertes Canada**](https://ouvert.canada.ca/data/fr/dataset/47f10264-1b59-4034-9679-3cb74f7527c7)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a9bf8091-b7ce-448c-90c6-a859a9b11b16"
+  ],
+  "dct_issued_s": "2018-08-11",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a9bf8091-b7ce-448c-90c6-a859a9b11b16\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Coastal Biodiversity of the Benthic Epifauna of the St. Lawrence Estuary (2018-2019)",
+  "gbl_mdModified_dt": "2026-07-31T16:37:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d101d3b4-50e8-59b0-bf4a-3ff6a237e56e",
+  "locn_geometry": "ENVELOPE(-69.12, -67.66, 49.32, 48.59)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

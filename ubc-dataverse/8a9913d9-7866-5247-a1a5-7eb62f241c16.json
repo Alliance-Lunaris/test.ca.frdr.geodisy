@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.5466, -119.5393, 49.079, 49.0647)",
+  "dcat_keyword_sm": [
+    "Precision viticulture, UAV multispectral imagery, vineyard segmentation, NDRE, GNDVI, Zonal Statistics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Boateng, Kelvin (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Spatial variability within vineyards influences the grapevine yield and quality, and management practices often limit site-specific optimization. This study used multispectral data obtained from an Unmanned Aerial Vehicle (UAV) and Geographic Information System (GIS) - based spatial analysis approaches to identify vineyard rows, segment vineyard canopies, and quantify vine vigour in the Okanagan region. High-resolution multispectral imagery with a ground pixel size of 3cm was processed to vegetation indices, including Normalized Differential Red Edge (NDRE) and Green Normalized Difference Vegetation Index (GNDVI). A canopy height model was generated to isolate vine structures using a 0.5m threshold, and a rule-based geometric clustering approach was applied to delineate vineyard rows.\nNDRE values ranged from 0.13 to 0.65 in the test block and 0.15 to 0.64 in the applied block, while GNDVI ranged from −0.01 to 0.64 and −0.29 to 0.64, respectively. Spatial patterns were consistent across both indices, with higher vigour concentrated in the central rows and lower vigour along the block margins. The applied block exhibited greater variability in canopy vigour and row-level canopy area 0.01– 20.42 square meters relative to the more uniform test block 0 – 7.48 square meters. The segmentation workflow produced continuous and geometrically consistent row networks, enabling reliable extraction of zonal statistics.\n The results indicate that UAV multispectral imagery and GIS approaches enhance canopy delineation and detection of intra-vineyard variability, offering a scalable solution for precision viticulture that supports data-driven management practices to optimize productivity and resource efficiency."
+  ],
+  "dct_identifier_sm": [
+    "1138389_73894_115983",
+    "https://doi.org/10.5683/SP3/BHBQ10"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BHBQ10\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Osoyoos Lacrosse, Okanagan, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Unmanned Aerial Vehicle (UAV) Multispectral Imagery and GIS-based Approaches for Vineyard Row Identification and Segmentation in Precision Viticulture",
+  "gbl_mdModified_dt": "2026-04-28T16:34:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a9913d9-7866-5247-a1a5-7eb62f241c16",
+  "locn_geometry": "ENVELOPE(-119.5466, -119.5393, 49.079, 49.0647)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

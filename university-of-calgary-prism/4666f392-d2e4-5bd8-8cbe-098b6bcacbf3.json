@@ -1,0 +1,33 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Stanley, Emma (University of Calgary)."
+  ],
+  "dct_description_sm": [
+    "Artificial intelligence (AI) models trained using medical images for clinical tasks often exhibit bias in the form of subgroup performance disparities. However, since not all sources of bias in real-world medical imaging data are easily identifiable, it is challenging to comprehensively assess their impacts. We introduced Simulated Bias in Artificial Medical Images (SimBA), an analysis framework for systematically and objectively investigating the impact of biases in medical images on AI models. \n<br>\nThis repository contains SimBA data in which either a localized morphological deformation in the brain or global intensity variations (“bias effects”) are spuriously correlated with a “disease” classification task. AI models trained on this data are susceptible to shortcut learning and consequently, subgroup performance disparities. The three datasets in this repository include counterfactual dataset scenarios where only the morphological bias effect is present, where both morphological and intensity bias effects are present, and where neither bias effects are present."
+  ],
+  "dct_identifier_sm": [
+    "875414",
+    "https://doi.org/10.5683/SP3/A9SOBZ"
+  ],
+  "dct_issued_s": "2025-02-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/A9SOBZ\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Simulated Bias in Artificial Medical Images (SimBA) - eBioMedicine 2025",
+  "gbl_mdModified_dt": "2025-02-11T17:58:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4666f392-d2e4-5bd8-8cbe-098b6bcacbf3",
+  "schema_provider_s": "University of Calgary Prism"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The [Dawson City/Klondike Valley flood hazard mapping study](https://floods.service.yukon.ca/pages/final-flood-maps) was completed between May 2024 and March 2026. Learn more by visiting the [Yukon Flood Hub](https://floods.service.yukon.ca).\n\nIn the Resources section below, you can find the bathymetric data that was collected as part of the flood hazard mapping study.\n\nThe coordinates (XY) were collected in NAD83 (CSRS) UTM Zone 7 North, while the elevations are orthometric and derived from the vertical datum CGVD2013, Geoid CGG2013a.\n\n- Excel spreadsheet with latitude, longitude, elevation and survey codes\n\n- ESRI shapefile with latitude, longitude, elevation and survey codes, reprojected to NAD83 Yukon Albers\n\n- Digital elevation models (bathymetric and topographic/bathymetric combined)\n\n- Multibeam bathymetric LAS point clouds\n\nFor bathymetric collection specifications, please see the Technical Report in the resources section.\n\nFor more information see [What is flood mapping?](https://floods.service.yukon.ca/pages/flood-mapping) or email [FloodMapping@yukon.ca](mailto:floodmapping@yukon.ca).\n\n### See also\n\n- [Dawson City/Klondike Valley flood hazard maps](https://open.yukon.ca/data/dawson-city-klondike-valley-flood-hazard-maps)\n\n- [Carmacks flood hazard maps - bathymetric data](https://open.yukon.ca/data/carmacks-flood-hazard-maps-bathymetric-data)\n\n- [Old Crow flood hazard maps - bathymetric data](https://open.yukon.ca/data/old-crow-flood-hazard-maps-bathymetric-data)\n\n- [Southern Lakes flood hazard maps - bathymetric data](https://open.yukon.ca/data/southern-lakes-flood-hazard-maps-bathymetric-data)\n\n- [Teslin flood hazard maps - bathymetric data](https://open.yukon.ca/data/teslin-flood-hazard-maps-bathymetric-data)\n\n- [Upper Liard flood hazard maps - bathymetric data](https://open.yukon.ca/data/upper-liard-flood-hazard-maps-bathymetric-data)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a210c44e-1eb7-4092-ba09-1cd94b466251"
+  ],
+  "dct_issued_s": "2026-08-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a210c44e-1eb7-4092-ba09-1cd94b466251\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Dawson City/Klondike Valley flood hazard maps - bathymetric data",
+  "gbl_mdModified_dt": "2026-10-07T16:06:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44c0a293-c827-5a84-b5b9-f0dbe39fc5e5",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

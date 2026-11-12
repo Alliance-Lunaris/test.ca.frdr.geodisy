@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Modèle",
+    "MNS",
+    "SIRR",
+    "Surface",
+    "Information gouvernementale",
+    "Relief",
+    "PoleARTM",
+    "3D",
+    "Numérique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "An accurate representation of the relief is essential for a large number of land management applications. Digital terrain models (DTM) and digital surface models (MNS) are simplified representations of ground altimetry.\n\nThe MNT is a representation of the altitude of “bare ground” without infrastructure, while the MNS reproduces the shape of the Earth's surface by including all the permanent and visible elements of the landscape such as the ground and buildings.\n\nIt is possible to add vegetation by including the [Numerical Canopy Model (MNC)] (/city-of-montreal/model-numerique-de-canopee-mnc).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Une représentation précise du relief est indispensable pour de très nombreuses applications de gestion du territoire. Les modèles numériques de terrain (MNT) et de modèles numériques de surface (MNS) sont des représentations simplifiées de l’altimétrie du sol.\n\nLe MNT est une représentation de l’altitude du «terrain nu» sans infrastructure, alors que le MNS reproduit la forme de la surface terrestre en incluant tous les éléments permanents et visibles du paysage tels que le sol et les bâtiments.\n\nIl est possible d'ajouter la végétation en incluant le [Modèle numérique de Canopée (MNC)](/ville-de-montreal/modele-numerique-de-canopee-mnc)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/853eef5e-239a-447f-9352-2c8655cb7de1"
+  ],
+  "dct_issued_s": "2018-04-03",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/853eef5e-239a-447f-9352-2c8655cb7de1\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Modèle numérique de surface (MNS)",
+  "gbl_mdModified_dt": "2026-09-30T17:35:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a1ca3dd2-3fea-5fbe-9164-94108d6eac61",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

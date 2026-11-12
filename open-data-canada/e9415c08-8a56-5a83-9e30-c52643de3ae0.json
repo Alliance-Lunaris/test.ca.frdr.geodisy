@@ -1,0 +1,69 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.810954, -112.807966, 54.632724, 50.90788)",
+  "dcat_keyword_sm": [
+    "GIS-DATA",
+    "ALBERTA",
+    "HAYNES-MEMBER",
+    "HYDROSTRATIGRAPHY",
+    "BEDROCK-AQUIFER",
+    "PASKAPOO-FORMATION",
+    "CANADA",
+    "82P",
+    "83B",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "83I",
+    "ALBERTA-FOOTHILLS",
+    "82N",
+    "83H",
+    "83J",
+    "83K",
+    "83G",
+    "ALBERTA-PLAINS",
+    "AQUIFERS",
+    "SAND",
+    "82O",
+    "SANDSTONE",
+    "83F",
+    "83A",
+    "STRUCTURE-MAPS",
+    "83C",
+    "RASTER-GRID"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Structure supérieure de l'aquifère Haynes, Alberta (données maillées, format ASCII)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This is a 1000 m cell-sized raster grid dataset of the top of the sandstone of the Haynes member of the Paskapoo Formation. We mapped the sandstone using 3-D geostatistical modelling algorithms from data derived from sand calculations of 25 m thick slice intervals of the Paskapoo Formation. We selected the >55% sand isovalue to define sandstone, based on the results of mini-models that show vertical hydraulic connections being established if sand abundance is 55% or greater. This grid represents the upper surface of that three-dimensional body defined by the >55% sand threshold value. Alberta Geological Survey Bulletin 66 provides a detailed description of how the unit was defined. The dataset is in ESRI ASCII grid format.",
+    "Il s'agit d'un jeu de données matriciel de la taille d'une cellule de 1 000 m représentant le sommet du grès du membre Haynes de la Formation de Paskapoo. Nous avons cartographié le grès à l'aide d'algorithmes de modélisation géostatistique 3D à partir de données dérivées de calculs sur le sable à des intervalles de tranches de 25 m d'épaisseur de la formation de Paskapoo. Nous avons sélectionné l'isovaleur du sable > 55 % pour définir le grès, sur la base des résultats de mini-modèles qui montrent que des connexions hydrauliques verticales sont établies si l'abondance de sable est de 55 % ou plus. Cette grille représente la surface supérieure de ce corps tridimensionnel défini par une valeur seuil de sable supérieure à 55 %. Le Bulletin 66 de l'Alberta Geological Survey fournit une description détaillée de la façon dont l'unité a été définie. Le jeu de données est au format de grille ASCII ESRI.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ad58b1ab-5df7-4527-ba74-ccffec429d1a"
+  ],
+  "dct_issued_s": "2012-09-12",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ad58b1ab-5df7-4527-ba74-ccffec429d1a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Structure Top of the Haynes Aquifer, Alberta (Gridded data, ASCII format)",
+  "gbl_mdModified_dt": "2026-03-04T15:32:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9415c08-8a56-5a83-9e30-c52643de3ae0",
+  "locn_geometry": "ENVELOPE(-117.810954, -112.807966, 54.632724, 50.90788)",
+  "schema_provider_s": "Open Data Canada"
+}

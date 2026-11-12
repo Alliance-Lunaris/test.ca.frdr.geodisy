@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-146.90785625, -50.57973125, 83.65500213, 41.62281639)",
+  "dcat_keyword_sm": [
+    "Base de données",
+    "Eau de surface",
+    "information géoscientifique",
+    "Lac",
+    "Inland waters",
+    "Climat",
+    "Climate",
+    "Databases",
+    "Lakes",
+    "Surface water",
+    "Remote sensing",
+    "Hydrologie",
+    "Eaux intérieures",
+    "Hydrology",
+    "Eau",
+    "geoscientific information",
+    "Water",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fréquence d'apparition de l'eau de surface au Canada"
+  ],
+  "dct_creator_sm": [
+    "Shusen Wang."
+  ],
+  "dct_description_sm": [
+    "Data represents surface water occurrence frequency (percentage), which describes the frequency for each grid appeared as water in the 30 years time period of 1991 to 2020. The data covers Canada’s entire landmass including all transboundary watersheds, and is at 30-meter spatial resolution. The surface water occurrence frequency is derived using the surface water model of Wang et al. (2023) from all-available monthly water data observed by the Landsat satellites (Pekel et al., 2016). Here, permanent waters are represented by 100%, and permanent land surfaces by 0%, of water occurrence for a 30-meter by 30-meter grid.  \n  \n  References:  \n  \n  Pekel, J.-F., A. Cottam, N. Gorelick, A.S. Belward, 2016, High-resolution mapping of global surface water and its long-term changes. Nature, 540, 418-422.  \n  \n  Wang, S., J. Li, and H. A. J. Russell, 2023, Methods for Estimating Surface Water Storage Changes and Their Evaluations. Journal of Hydrometeorology, DOI: https://doi.org/10.1175/JHM-D-22-0098.1.",
+    "Les données représentent la fréquence d'apparition de l'eau de surface (pourcentage), qui décrit la fréquence d'apparition de l'eau pour chaque grille au cours de la période de 30 ans allant de 1991 à 2020. Les données couvrent l'ensemble de la masse continentale du Canada, y compris tous les bassins versants transfrontaliers, et ont une résolution spatiale de 30 mètres. La fréquence d'apparition de l'eau de surface est dérivée à l'aide du modèle d'eau de surface de Wang et al. (2023) à partir de toutes les données mensuelles disponibles sur l'eau observées par les satellites Landsat (Pekel et al., 2016). Ici, les eaux permanentes sont représentées par 100%, et les surfaces terrestres permanentes par 0%, de l'occurrence de l'eau pour une grille de 30 mètres par 30 mètres.  \n  \n  Références :  \n  \n  Pekel, J.-F., A. Cottam, N. Gorelick, A.S. Belward, 2016, High-resolution mapping of global surface water and its long-term changes. Nature, 540, 418-422.  \n  \n  Wang, S., J. Li, and H. A. J. Russell, 2023, Methods for Estimating Surface Water Storage Changes and Their Evaluations. Journal of Hydrometeorology, DOI: https://doi.org/10.1175/JHM-D-22-0098.1."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2b76d117-d940-4ebb-bf26-91f768081c5f"
+  ],
+  "dct_issued_s": "2023-02-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2b76d117-d940-4ebb-bf26-91f768081c5f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Canada's surface water frequency",
+  "gbl_mdModified_dt": "2023-05-19T19:20:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2df59826-81d9-5045-bf40-0de8d3da7122",
+  "locn_geometry": "ENVELOPE(-146.90785625, -50.57973125, 83.65500213, 41.62281639)",
+  "schema_provider_s": "Open Data Canada"
+}

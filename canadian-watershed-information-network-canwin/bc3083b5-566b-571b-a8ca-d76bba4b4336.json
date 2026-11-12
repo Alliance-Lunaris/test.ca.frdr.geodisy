@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-152.181465, -31.436601, 60.105908, 33.629119)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "These products represent crop health indices derived from the Versatile Soil Moisture Budget (VSMB) model using crop specific coefficients and station based precipitation and temperature measurements to simulate crop growth. The VSMB model simulates soil moisture dynamics and water stress conditions based on water availability in the soil profile and simulated evapotranspiration during the crop growing season. Crop phenological stages, which are related to crop water use, are determined by a biometeorlogical time scale model (Robertson, 1968) for cool season crops (wheat, barley etc.)  and a Crop Heat Unit (Brown and Bootsma, 1993) algorithm for warm season crops (corn and soybean etc.)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7f835844-3774-4323-b20e-a898c9f20136"
+  ],
+  "dct_issued_s": "2020-05-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7f835844-3774-4323-b20e-a898c9f20136\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Crop Health Indices",
+  "gbl_mdModified_dt": "2026-02-17T21:01:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bc3083b5-566b-571b-a8ca-d76bba4b4336",
+  "locn_geometry": "ENVELOPE(-152.181465, -31.436601, 60.105908, 33.629119)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

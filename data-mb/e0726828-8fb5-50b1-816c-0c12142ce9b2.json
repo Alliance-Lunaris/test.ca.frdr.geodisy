@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.99999999999917)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Budget",
+    "Province of Manitoba",
+    "Capital Planning",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif' style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>This dataset will show all the proposed infrastructure projects for the next 5 years. This Feature layer is similar to the &quot;Manitoba Capital Plans Project Status&quot; and will be updated once a year.</font><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>This dataset contains points showing the locations of the capital projects such as asphalt surface treatment, grading, bituminous rehabilitation, concrete reconstruction, culvert jacking, intersection improvement, structures improvement, traffic signal improvements, and traffic safety improvements. This dataset was created by digitizing high-resolution imagery of Manitoba road network, bridge sites, and culvert locations. The details of the capital projects are available as attributes of the dataset.</span><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Fields included (<b>Alias </b>(Field Name): Field description.)</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><div style='font-family:inherit;'><ul><li><b>Hwy</b> (Hwy): The highway number where the project is located. </li><li><b>Location Description</b> (Location_Description): A detailed description of the project location.</li><li><b>Project Distance in km</b> (km): The physical length of the project</li><li><b>Project Type</b> (Project_Type): A particular category assigned to the project based on the nature of work.<br /></li><li><b>Investment </b><font style='font-family:inherit;'><b>Category</b></font><b>:</b><font face='inherit' style='font-family:inherit;'> (Investment_Category): </font>Category of future investment for the project. (Ex: Renewal, Economic Development, Connectivity and Innovation, Climate Resiliency) </li><li><b>Municipality Name</b> (MUNI_NAME): The name of the municipality where the project is located.</li><li><b>Department Program</b> (Department_Program): The name of the MI department responsible for the project.</li></ul></div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>This dataset is used in <a href='https://arcgis.com/home/item.html?id=2ae2672be5374858aa69bad8550c75d9' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:inherit;' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Infrastructure Projects</a> an interactive map that shows Manitoba infrastructure's new, approved, and continuing capital project locations.</div>"
+  ],
+  "dct_identifier_sm": [
+    "e8d8f23531d54ec49ac9d18ae08d2f08",
+    "https://www.arcgis.com/home/item.html?id=e8d8f23531d54ec49ac9d18ae08d2f08"
+  ],
+  "dct_issued_s": "2023-03-08",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::multi-year-investment-strategy\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Multi Year Investment Strategy",
+  "gbl_mdModified_dt": "2025-05-08T16:14:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e0726828-8fb5-50b1-816c-0c12142ce9b2",
+  "locn_geometry": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.99999999999917)",
+  "schema_provider_s": "Data MB"
+}

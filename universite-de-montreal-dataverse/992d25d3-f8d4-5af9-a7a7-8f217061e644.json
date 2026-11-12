@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Aquatic habitats",
+    "Habitats aquatiques",
+    "Fish communities",
+    "Eau--Chimie",
+    "Water chemistry",
+    "Black spot disease",
+    "Poissons--Communautés"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Vigneault, Juliane (Université de Montréal). ORCID: https://orcid.org/0009-0000-0968-0119",
+    "Éric Harvey (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-8601-7326",
+    "Sandra Binning (Université de Montréal). ORCID: https://orcid.org/0000-0002-2804-9979"
+  ],
+  "dct_description_sm": [
+    "The dataset contains the following variables and units of measurement : Sampling effort ID, Date (YYYY-MM-DD), Site latitude (DD), Site longitude (DD), Cloud cover (%), Sampling time (HH:MM), Sampling method (either Transect, Seine or Minnow trap), Gear ID, Identifier name, tot_AmRu (Ambloplites rupestris total abundance), tot_FuDi (Fundulus diaphanus total abundance),\ttot_MiDo (Micropterus dolomieu total abundance), tot_Centrarchidae (unknown centrarchids total abundance), tot_LeGi (Lepomis gibbosus total abundance), tot_PeFl (Perca flavescens total abundance), tot_PiPr (Pimephales promelas total abundance),\ttot_ChrosomusSpp. (Chrosomus spp. total abundance), tot_PiNo (Pimaphales promelas total abundance), tot_Cyprinidae (Unkown cyprinids total abundance), tot_SeAt (Semotilus atromaculatus total abundance), tot_LuCo (Luxilus cornutus total abundance), tot_AmNe (Ameiurus nebulosus total abundance), tot_CaCo (Cacostomus commersonii total abundance),\ttot_EsMa (Esox masquinongy total abundance), tot_UmLi (Umbra limi total abundance), tot_RhAt (Rhinichthys atromaculatus total abundance), inf_AmRu (Ambloplites rupestris infected abundance), inf_FuDi (Fundulus diaphanus infected abundance), inf_MiDo (Micropterus dolomieu infected abundance), inf_Centrarchidae (unkown centrarchids infected abundance), inf_LeGi (Lepomis gibbosus infected abundance), inf_PeFl (Perca flavescens infected abundance), inf_PiPr\t(Pimephales promelas infected abundance), inf_ChrosomusSpp. (Chrosomus spp. infected abundance), inf_PiNo (Pimephales notatus infected abundance),\tinf_Cyprinidae\t(unkown cyprinids infected abundance), inf_SeAt\t(Semotilus atromaculatus infected abundance), inf_LuCo (Luxilus cornutus infected abundance), inf_AmNe (Ameiurus nebulosus infected abundance), inf_CaCo (Cacostomus commersonii infected abundance), inf_EsMa (Esox masquinongy infected abundance),\tinf_UmLi (Umbra limi infected abundance), inf_RhAt (Rhinichthys atromaculatus infected abundance), Trunk, Silt cover (%), Sand cover (%), Rock cover (%), Boulder cover (%), Macrophyte cover\t(%), Site depth (cm), Temperature (°C), Conductivity (μS/cm), DO (dissolved oxygen, mg/L), Turbidity (NTU), pH, TOC (total organic carbon, mg/L), TN (total nitrogen, mg/L), TP (total phosphorus, mg/L), Watershed, Lake latitude (DD), Lake longitude (DD), Lake area (km2), Lake maximum depth (m), Lake mean depth (m), Water residence time (year), Drainage are (km2), Elevation (m), Perimeter (m), Distance to nearest lake (m)",
+    "This dataset is the result of a collaborative study on spatial ecology of the black spot disease in fish communities from the littoral zone of lakes located in Saint-Hippotyle, QC, Canada. Sampling occurred during summer 2022. Black spot occurence was assessed in fish samples through either minnow traps, seine nets or observational snorkeling transects. This data describe fish community matrix, infected fish community matrix and their environment. Habitat description and water chemistry measurements are given for transect samples. Geographical and morphometric lake attributes are also given."
+  ],
+  "dct_identifier_sm": [
+    "713915_281357_281358",
+    "https://doi.org/10.5683/SP3/80JDBU"
+  ],
+  "dct_issued_s": "2024-04-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/80JDBU\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Saint-Hippolyte, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data on black spot disease occurence in fish communities of lakes from Québec, Canada",
+  "gbl_mdModified_dt": "2024-04-10T19:23:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "992d25d3-f8d4-5af9-a7a7-8f217061e644",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

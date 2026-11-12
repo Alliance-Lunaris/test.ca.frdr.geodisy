@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Science Branch of Fisheries and Oceans Canada (DFO) in the Newfoundland and Labrador (NL) region has been conducting multispecies research vessel (RV) surveys using a stratified random survey design since the early 1970s. The DFO RV survey dataset represents the longest time series of species data in the NL region, making it ideal for mapping the average relative densities of species over time. Average relative density maps depict the interpolated densities (calculated from kg/tow) of fish species or functional groups. These densities are averaged over each time series (Engel and Campelen) and include data from all available seasons, so they represent persistent areas of relatively high and low densities for that species or functional group for the duration of the time series, independent of season. These maps are well suited as decision support tools related to conservation areas and marine spatial planning. These maps can also inform other processes that require information on areas important to marine fish, such as environmental assessments.  \n\nSpring, fall, and winter data from the DFO RV survey between 1981 and 2017, inclusive, were used for the analysis. Due to a gear change from an Engel 145 Hi-Lift Otter Trawl to a Campelen 1800 Shrimp Trawl in 1995, the time series is treated as two separate datasets. NAFO Divisions 2J3KLNOP were sampled during the Engel time series and Division 2H was added for the Campelen time series. The data were filtered prior to use so that only core strata (areas consistently sampled across years) were included, resulting in most deep water and inshore sets being excluded in this analysis. Weight per tow (kg/tow; standardized for tow length for each gear type) data for fish, shrimp, and crab species were extracted from the database, and all successful sets from regular multispecies surveys were used for analyses.  \n\nEight fish functional groups (groups of species of similar size and diet) were identified based on the RV survey dataset: small benthivores, medium benthivores, large benthivores, piscivores, plank-piscivores, planktivores, shrimp, and forage fish. Data for each functional group were mapped three ways: all species, dominant species (i.e. top 90% biomass), and non-dominant species. In total, 40 dominant species and/or at-risk species (i.e. COSEWIC endangered, threatened, special concern; SARA; DFO/NAFO depleted) were mapped individually. To identify the average relative density, independent of seasonality, the spring, fall, and winter survey sets were compiled into a composite dataset using a log transformation on the biomass (kg/tow). For functional groups, these values were then standardized across each group. Absences (0 kg/tow catch values) were included. A continuous raster with a 4x4km resolution was generated through ordinary kriging. The raster was clipped to an 8-km buffer of the RV survey extent and the zero values were then removed.  \n\nThe results of this process are maps depicting the average relative density of fish functional groups and selected individual species during both the Engel (1981-1995) and Campelen (1995-2017) time series. Note that the original units (e.g. kg/tow) are no longer relevant due to data processing. Cell values are not comparable between groups or species; when mapping, all numeric values should be removed from the labels and legend, with relative qualifiers (“high” and “low”) used instead. \n\nMore detailed information can be found in Wells et al. (2021). \n\nReferences: \n\nWells, N.J., Pretty, C., Warren, M., Novaczek, E. and Koen-Alonso, M. 2021. Average Relative Density of Fish Species and Functional Groups in the Newfoundland and Labrador Shelves Bioregion from 1981-2017. Can. Tech. Rep. Fish. Aquat. Sci. 3427: viii + 76 p."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/da63ecd4-0720-47b3-a447-d0b1a1716b76"
+  ],
+  "dct_issued_s": "2021-06-01",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/da63ecd4-0720-47b3-a447-d0b1a1716b76\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Average Relative Density of Fish Functional Groups and Species in the Newfoundland and Labrador Shelves Bioregion, 1981-2017",
+  "gbl_mdModified_dt": "2026-03-24T08:12:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "70859bf2-e555-5b86-b58d-d576671d4498",
+  "locn_geometry": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

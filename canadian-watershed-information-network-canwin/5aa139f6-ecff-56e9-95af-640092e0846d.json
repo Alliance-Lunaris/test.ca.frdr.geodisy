@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.137472, -64.461033, 45.663828, 43.999755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The data layer (.shp) presented is the result of an unsupervised classification method for classifying seafloor habitat in the Bay of Fundy (Northwest Atlantic, Canada). This method involves separating environmental variables derived from multibeam bathymetry (slope, bathymetric position index), backscatter, and oceanographic information (wave-shear current velocity) into spatial units (i.e. image objects) and classifying the acoustically and oceanographically separated units into 7 habitat classes (Bedrock and Boulders, Mixed Sediments, Gravelly Sand, Sand, Silty Gravel with Anemones, Silt, and Tidal Scoured Mixed Sediments) using in-situ data (imagery). Benthoscape classes (synonymous to landscape classifications in terrestrial ecology) describe the geomorphology and biology of the seafloor and are derived from elements of the seafloor that were acoustically and oceanographically distinguishable. \nReference:\nWilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. (2021). Mapping seafloor habitats in the Bay of Fundy to assess macrofaunal assemblages associated with Modiolus modiolus beds. Estuarine, Coastal and Shelf Science, 252. https://doi.org/10.1016/j.ecss.2021.107294\n\nCite this data as: Wilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. Bay of Fundy Benthoscape. Published May 2023. Population Ecology Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c"
+  ],
+  "dct_issued_s": "2023-05-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Bay of Fundy Benthoscape",
+  "gbl_mdModified_dt": "2026-03-24T08:34:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5aa139f6-ecff-56e9-95af-640092e0846d",
+  "locn_geometry": "ENVELOPE(-67.137472, -64.461033, 45.663828, 43.999755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

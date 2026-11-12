@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.3171, -115.1649, 52.2704, 50.7051)",
+  "dcat_keyword_sm": [
+    "Landscape Ecology",
+    "Forest Fires",
+    "Remote Sensing",
+    "Prescribed fire",
+    "Land cover change",
+    "Time Series Analysis",
+    "Landsat",
+    "Restoration ecology",
+    "Landscape Metrics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yakiwchuk, Brian (University of British Columbia). ORCID: https://orcid.org/0009-0003-7526-1838"
+  ],
+  "dct_description_sm": [
+    "<p>In response to the growing need for broad-scale ecological\nmonitoring, recent efforts have been made to quantify important\nlandscape changes. The landscapes in the Rocky Mountain Cordillera\nundergo constant change due to the intricate interplay of ecological\nprocesses, with fire being the primary disturbance agent. Fire\nsuppression policies have impeded the ecological role of fire, resulting\nin increased conifer forest dominance and declines in landscape\nheterogeneity. The objective of this study was to develop a methodology\nto accurately measure regional landscape changes resulting from fire\nsuppression and fire restoration in Banff National Park, with the goal\nof supporting data-informed resource management.</p>\n<p>The use of remote sensing technologies provides consistent and\naccurate data over large spatial and temporal scales, which would be\nchallenging with traditional field-based methods. A landscape metrics\napproach was selected to investigate changes across 27 management units.\nFour landscape metrics were calculated using annual land cover maps\nderived from Virtual Land Cover Engine/Landsat-5/7 imagery spanning 34\nyears (1984-2019). Metrics were selected to capture conifer encroachment\n(proportion of conifer class) and landscape heterogeneity (contagion,\nedge density, Shannon’s diversity index) changes. Time-series analysis\nand Thiel-Sen slope estimation were used to identify metric trends.</p>\n<p>The methodology was successful in discerning regional-scale aspects\nof fire ecology using landscape metrics. Management units lacking fire\n(or with &lt;10% area burned) are less heterogeneous and are trending\ntoward more conifer-dominated, less heterogeneous states. Reassuringly,\nthe opposite patterns are observed in management units with greater than\n10% area burned, suggesting successful fire restoration efforts from a\nlandscape ecology standpoint.</p>\n<p>The study’s resulting metrics offer resource managers additional\nlandscape attributes to compare and monitor management units, which can\nsupport decision-making, prioritize fire restoration and inform future\necological studies.</p>"
+  ],
+  "dct_identifier_sm": [
+    "455732_73894_115983",
+    "https://doi.org/10.5683/SP3/BZQGAT"
+  ],
+  "dct_issued_s": "2023-04-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BZQGAT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Banff, Alberta, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Metrics of Change: Informing Ecological Restoration by Quantifying Landscapes and Processes in Banff National Park",
+  "gbl_mdModified_dt": "2023-04-13T18:12:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "77933329-0eb1-5e38-9108-80f38165c7f2",
+  "locn_geometry": "ENVELOPE(-117.3171, -115.1649, 52.2704, 50.7051)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

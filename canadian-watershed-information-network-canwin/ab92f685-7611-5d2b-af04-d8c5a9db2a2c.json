@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nProducts derived from lidar (Light Detection and Ranging) are generated as part of the provincial lidar sensor data acquisition project. It is therefore to facilitate the use of raw lidar data and optimize its benefits that the Ministry of Natural Resources and Forests (MRNF) generated and made available products derived from lidar in a user-friendly format. \n\nLidar technology makes it possible to accurately provide information such as ground altitude, forest cover height (canopy), slopes, and contour lines.\n\nHere is the list of the five derivatives: \n\n+ Digital terrain model (spatial resolution: 1 m)\n\n+ Digital terrain model in shaded relief (spatial resolution: 2 m)\n\n+ Canopy height model (spatial resolution: 1 m)\n\n+ Slopes (spatial resolution: 2 m)\n\n+ Level curve (range: 1 m)\n\nThis data covers almost all of the southern part of the province. This map is distributed by map sheets at a scale of ** 1:20,000**.\n\n⚡ If you want to download **lidar point clouds**, please consult the Quebec Lidar Data page.\n\n__ ⚠️ 1) Note that__ the resolution of the following products (digital terrain model, digital terrain model in shaded relief, canopy height model and slopes) **has been slightly degraded** when viewed in the interactive map to ensure efficient display.\n\n__ ⚠️ 2) Note that__ **the planimetric and altimeter accuracy of the curves is variable**, but inevitably lower than that of the lidar surveys used to generate them. Moreover, it is recommended to use these level curves only for visual representations, and not for quantitative analyses.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e5d2750-d129-4952-b9fc-f824c5e480b4"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e5d2750-d129-4952-b9fc-f824c5e480b4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Lidar - Digital models (terrain, canopy, slope, level curve)",
+  "gbl_mdModified_dt": "2026-10-07T18:05:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ab92f685-7611-5d2b-af04-d8c5a9db2a2c",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

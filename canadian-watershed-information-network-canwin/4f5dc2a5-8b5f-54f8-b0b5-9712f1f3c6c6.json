@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nChlorophyll-a concentration (a proxy for phytoplankton biomass) was retrieved from the MODIS instrument on the Aqua satellite, with data distributed by the NASA Ocean Biology Processing Group, and averaged into monthly climatological composites. The data span the years 2003-2020; records were created for both 1 km and 4 km pixel resolutions to be consistent with other satellite products.\n\nMethods:\nMODIS-Aqua Chlorophyll-a (Chl-a) was acquired from the NASA Ocean Biology Processing Group where Chl-a concentration was calculated using the OC3/OCI method. The months of January and December were excluded from these datasets, as data in the winter months at higher latitudes are missing due to low sun angle preventing acquisition. The monthly geometric mean value at all pixels was calculated for individual years, then the geometric mean and geometric standard deviation factor of chlorophyll-a were calculated by month from these images. These methods of calculating mean and standard deviation were used due to the log-normal distribution of chlorophyll-a. The geometric standard deviation is a unitless factor, where the lower bound is the ratio of the geometric mean and geometric standard deviation, and the upper bound is the multiplication of the two. In addition to the geometric mean and geometric standard deviation factor the number of occurrences of valid data at each pixel over the period of observation were calculated. Pixels with fewer than two occurrences over the entire period of observation were removed from these maps and set to a NaN value in the tif files. All resulting rasters were cropped to the Canadian Exclusive Economic Zone, assigned to the NAD83 geographic coordinate reference system (EPSG:4269), and have final pixel resolutions of approximately 0.01 degrees and 0.0417 degrees. The monthly geometric mean, monthly geometric standard deviation factor, and number of occurrences for all pixels are provided.\n\nData Sources:\nNASA Ocean Biology Processing Group. (2017). MODIS-Aqua Level 2 Ocean Color Data Version R2018.0. NASA Ocean Biology Distributed Active Archive Center. https://doi.org/10.5067/AQUA/MODIS/L2/OC/2018\n\nUncertainties:\nSatellite values have been evaluated against global datasets, and datasets of samples in the Pacific region (see references). However, uncertainties are introduced when averaging together images over time as each pixel has a differing number of observations. Short-lived or spatially limited events may be missed."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5a7d1e1b-edeb-4a32-b17f-2ef053ca22d5"
+  ],
+  "dct_issued_s": "2021-04-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5a7d1e1b-edeb-4a32-b17f-2ef053ca22d5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Monthly Satellite Chlorophyll-a Climatology of the Canadian Pacific Exclusive Economic Zone (2003-2020)",
+  "gbl_mdModified_dt": "2026-03-24T08:42:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4f5dc2a5-8b5f-54f8-b0b5-9712f1f3c6c6",
+  "locn_geometry": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

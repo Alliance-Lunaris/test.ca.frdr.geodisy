@@ -1,0 +1,80 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "terrestrial ecosystem mapping",
+    "ecosystem mapping",
+    "wildlife inventory",
+    "bioterrain mapping",
+    "terrain and ecosystems",
+    "STE",
+    "TEM",
+    "describing terrestrial ecosystems",
+    "BGC",
+    "TSM",
+    "slope stability",
+    "predictive ecosystem mapping",
+    "soil",
+    "ecology",
+    "Canada",
+    "Government information",
+    "DTEIF",
+    "bioterrain",
+    "erosion",
+    "terrain",
+    "Drainage",
+    "terrain stability mapping",
+    "sensitive ecosystem",
+    "terrain inventory mapping",
+    "PEM",
+    "WHR",
+    "TEIS",
+    "biogeoclimatic",
+    "STEWI",
+    "wildlife habitat rating",
+    "terrain mapping",
+    "SEI",
+    "ecosystem modelling",
+    "landslide",
+    "terrain stability",
+    "sensitive ecosystems inventory",
+    "sedimentation",
+    "ecosystem",
+    "TER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Polygones détaillés de la cartographie de l'inventaire du terrain (TIM) avec vue spatiale sous forme de table attributaire courte"
+  ],
+  "dct_creator_sm": [
+    "Terrestrial Ecosystem Information (TEI) Mailbox."
+  ],
+  "dct_description_sm": [
+    "Terrain Inventory Mapping (TIM) Detailed Polygons (STE_TER_INVENTORY_POLYS_SVW) contains TIM polygons with key and amalgamated (concatenated) attributes derived from the Resource Inventory Standards Committee (RISC) standard attributes. This layer is derived from the [STE_TEI_ATTRIBUTE_POLYS_SP](https://catalogue.data.gov.bc.ca/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad) layer by filtering on the PROJECT_TYPE attribute. Project types include: TIM and TIMSOI. TIM is multi-purpose and divides the landscape into units according to surficial material, surface expression and geomorphological process using the Terrain Classification System for British Columbia. Most of the inventory mapping was completed in the 1970s and 1980s on 1 to 50,000 scale base maps using air photo interpretation with selective field checking, and manual transfer and drafting of paper maps. These maps were later digitized and have been converted from IGDS or CAPAMP to ArcInfo to Geodatabase. TIM Detailed Polygon layer should be used in conjunction with [TER Project Boundaries](https://catalogue.data.gov.bc.ca/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996) which contain boundaries (study areas) and attributes describing each project (project level metadata), plus links to the locations of other data associated with the project (e.g., reports, polygon datasets, plotfiles, legends). TIM inventory polygons with full RISC attributes can be accessed through the [Terrestrial Ecosystem Information (TEI) Data Distribution Packages](https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). **Current version**: v12 (2026-06-22)",
+    "Les polygones détaillés de la cartographie de l'inventaire du terrain (TIM) (STE_TER_INVENTORY_POLYS_SVW) contiennent des polygones TIM dotés d'attributs clés et d'attributs fusionnés (concaténés) dérivés des attributs standard du Resource Inventory Standards Committee (RISC). Cette couche est dérivée de la couche [STE_TEI_ATTRIBUTE_POLYS_SP] (https://catalogue.data.gov.bc.ca/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad) en filtrant sur l'attribut PROJECT_TYPE. Les types de projets incluent : TIM et TIMSOI. Le TIM est polyvalent et divise le paysage en unités en fonction des matériaux de surface, de l'expression de la surface et du processus géomorphologique à l'aide du système de classification du terrain de la Colombie-Britannique. La majeure partie de la cartographie de l'inventaire a été réalisée dans les années 1970 et 1980 sur des cartes de base à l'échelle 1 à 50 000 en utilisant l'interprétation de photos aériennes avec vérification sélective sur le terrain, ainsi que le transfert manuel et la rédaction de cartes papier. Ces cartes ont ensuite été numérisées et ont été converties de l'IGDS ou du CAPAMP vers ArcInfo to Geodatabase. La couche TIM Detailed Polygon doit être utilisée conjointement avec [TER Project Boundaries] (https://catalogue.data.gov.bc.ca/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996) qui contient les limites (zones d'étude) et les attributs décrivant chaque projet (métadonnées au niveau du projet), ainsi que des liens vers les emplacements d'autres données associées au projet (par exemple, des rapports, des ensembles de données polygonaux, des fichiers graphiques, des légendes). Les polygones d'inventaire TIM dotés d'attributs RISC complets sont accessibles via les [packages de distribution de données d'information sur les écosystèmes terrestres (TEI)] (https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). **Version actuelle** : v12 (2026-06-22)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/3f6280a0-11d6-430f-92c5-a4a66023e6a1"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/3f6280a0-11d6-430f-92c5-a4a66023e6a1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Terrain Inventory Mapping (TIM) Detailed Polygons with Short Attribute Table Spatial View",
+  "gbl_mdModified_dt": "2026-07-29T18:32:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "06eed4ac-c343-5eb2-b5ac-acfbaf916a0e",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

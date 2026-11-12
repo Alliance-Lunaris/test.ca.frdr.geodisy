@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "behavior and systematics",
+    "Microbial evolution",
+    "Phylogenomics",
+    "Ecology",
+    "single cell",
+    "Protists",
+    "Microbiology",
+    "smartseq",
+    "Evolution",
+    "Deep sea",
+    "Phylogenetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lax, Gordon (Dalhousie University, University of British Columbia). ORCID: https://orcid.org/0000-0003-3986-3068",
+    "Okamoto, Noriko (Hakai Institute, University of British Columbia).",
+    "Keeling, Patrick (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 5</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.hqbzkh1pj</p>\n<p><b>Storage size:</b> 2978750258</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Eupelagonemids, formerly known as Deep Sea Pelagic Diplonemids I (DSPD I), are among the most abundant and diverse heterotrophic protists in the deep ocean, but little else is known about their ecology, evolution, or biology in general. Originally recognized solely as a large clade of environmental ribosomal subunit RNA gene sequences (SSU rRNA), branching with a smaller sister group DSPD II, they were postulated to be diplonemids, a poorly-studied branch of Euglenozoa. Although new diplonemids have been cultivated and studied in depth in recent years, the lack of cultured eupelagonemids has limited data to a handful of light micrographs, partial SSU rRNA gene sequences, a small number of genes from single amplified genomes (SAGs), and only a single formal described species, <em>Eupelagonema oceanica</em>. To determine exactly where this clade goes in the tree of eukaryotes and begin to address the overall absence of biological information about this apparently ecologically important group, we conducted single-cell transcriptomics from two eupelagonemid cells. A SSU rRNA gene phylogeny shows these two cells represent distinct subclades within eupelagonemids, each different from <em>E. oceanica</em>. Phylogenomic analysis based on a 125-gene matrix contrasts with the findings based on ecological survey data, and shows eupelagonemids branch sister to the diplonemid subgroup Hemistasiidae.</p>",
+    "<b>Methods</b><br /><p>Two single cells of eupelagonemids were isolated from seawater that was collected with a Niskin bottle from 300m depth at station KSC10 (Lat. 51.6505, Lon. -127.9516; Calvert Island, British Columbia, Canada) on July 3rd 2022. The cells were manually isolated from the concentrated seawater with a microcapillary and imaged on a Leica DMIL-LED inverted microscope equipped with a Sony alpha7S III camera at 630X magnification.</p>\n<p>The isolated cells were rinsed three times in drops of clean seawater and dispensed into 2µl of Smart-seq3 lysis buffer. cDNA was generated using Smart-seq3 with 24 PCR-cycles for cDNA amplification, libraries were prepared with Illumina DNA library prep and sequenced on an Illumina NextSeq 500 platform with 2x150bp paired-end reads.</p>\n<p>Raw reads were read-corrected with rcorrector version 1.0.5, adapter- and quality-trimmed with trimmomatic version 0.39 using parameters ILLUMINACLIP: 2:30:10 LEADING:5 SLIDINGWINDOW:5:16 MINLEN:60, with the following sequences trimmed: Transposase1 (5’ CTGTCTCTTATACACATCTCCGAGCCCACGAGAC 3’), Transposase2RC (5’ CTGTCTCTTATACACATCTGACGCTGCCGACGA 3’), SmartSeq3_TSO_N8 (5’ AGAGACAGATTGCGCAATGNNNNNNNNGGG 3’), SmartSeq3_oligo-dT (5’ ACGAGCATCAGCAGCATACGATTTTTTTTTTTTTTTTTTTTTTTTTTTTTT 3’). The trimmed reads were then assembled with rnaSPAdes version 3.15.5 with default parameters. Protein-coding sequences were predicted with transdecoder version 5.5.0.</p>\n<p>SSU rRNA gene sequences were extraced from assemblies Eupelagonemid 7 and Eupelagonemid 8 with barrnap version 0.9. Diplonemid SSU rDNA sequences were then aligned with 237 other diplonemid, kinetoplastid, and symbiontid sequences. This dataset was aligned with MAFFT E-INS-I version 7.481, trimmed with BMGE version 1.12, and a Maximum likelihood tree was estimated with RAxML-NG version 1.1.0 under the GTR+GAMMA model and 1,000 non-parametric bootstraps.</p>\n<p>To generate a multigene dataset, predicted proteomes of both cells were used as input into phylofisher version 1.2.6. We also added nine diplonemid and three kinetoplastid taxa (<em>Hemistasia phaeocysticola, Artemidia motanka, Namystinia karyoxenos, Lacrimia lanifica, Rhynchopus humris, R. euleeides, Diplonema japonicum, Paradiplonema papillatum, Sulcionema specki, Papus ankaliazontas, Apiculatamorpha spiralis</em>, SAG EU19). After checking each of the 240 single gene trees for contaminant, paralogous, or otherwise aberrant sequences, we recovered 28.1% of sites for cell Eupelagonemid 7 (54 genes), and 17.9% of sites for cell Eupelagonemid 8 (36 genes) out of a total of 77,659 sites (240 genes).</p>\n<p>A final concatenated dataset of 125 genes from 33 euglenozoan and outgroup taxa (all Discoba) with a total 32,780 sites was used to run a ML-phylogeny using IQ-TREE2 version 2.2.0 under the LG+C60+F+G model with 1,000 ultrafast bootstraps (UFB). We additionally ran the same dataset under a posterior mean site frequency model (PMSF) with 200 non-parametric bootstraps, using the previous LG+C60+F+G tree as a guide tree.</p>"
+  ],
+  "dct_identifier_sm": [
+    "718790_150149",
+    "https://doi.org/10.5683/SP3/AHF42C"
+  ],
+  "dct_issued_s": "2024-03-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AHF42C\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Phylogenomic position of eupelagonemids, abundant and diverse deep-ocean heterotrophs",
+  "gbl_mdModified_dt": "2024-08-29T19:09:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b0f79f0c-efe2-5b13-ac84-7170a3c36cbb",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

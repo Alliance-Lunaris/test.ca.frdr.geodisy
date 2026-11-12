@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The “Hydrometric Gauging Station Network of the AAFC Watersheds Project - 2013” dataset is a geospatial data layer containing network line features representing links between hydrometric gauging stations of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project. Each line connects a gauging station to its downstream neighbour(s), indicating its drainage direction.  \n  \n  This network is a ‘drainage’ network, not a ‘stream’ network. That is, the lines do not in any way portray the actual stream path between stations.  \n  \n  In some instances, a lake, for example, an area may have several gauging stations. In such cases, one of the gauging stations is designated the ‘primary’ gauging station for calculation purposes, and to maintain proper hydraulic relationships between gauging stations, where only the primary stations are connected to the downstream portion of the network."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c5e9e5c4-aa04-461e-9751-f8b74691f481"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c5e9e5c4-aa04-461e-9751-f8b74691f481\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hydrometric Gauging Station Network of the AAFC Watersheds project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:21:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "094d255e-ecf4-54d8-821f-0e08b61a892b",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

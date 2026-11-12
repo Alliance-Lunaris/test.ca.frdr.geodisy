@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.75, -58.5, 50.1, 46.745)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Bottom dissolved oxygen time series at the 3 fixed stations and 46 stations, grouped into transects, of the Atlantic Zonal Monitoring Program (AZMP) under the Quebec region responsibility.\n\nThe mean bottom dissolved oxygen of the last ten years are displayed as 2 layers, one for the June survey (2014-2023, 2020 not sampled), another for the autumn survey (2014-2023).  A third layer shows the positions of the fixed stations of the program (Anticosti Gyre, Gaspé Current and Rimouski).\n\nEach station is linked with a .png file showing the bottom dissolved oxygen time series and with a .csv file containing all the bottom dissolved oxygen data acquired at those stations since the beginning of the program sampling (columns : Station, Latitude, Longitude, Date(UTC), Sounding(m), Depth/Profondeur(m), Dissolved_Oxygen/Oxygène_Dissous(%sat)).\n\nPurpose\n\nThe Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with the aim of increasing the Department of Fisheries and Oceans Canada’s (DFO) capacity to detect, track and predict changes in the state and productivity of the marine environment.\n\nThe AZMP collects data from a network of stations composed of high-frequency monitoring sites and cross-shelf sections in each following DFO region: Québec, Gulf, Maritimes and Newfoundland. The sampling design provides basic information on the natural variability in physical, chemical, and biological properties of the Northwest Atlantic continental shelf. Cross-shelf sections sampling provides detailed geographic information but is limited in a seasonal coverage while critically placed high-frequency monitoring sites complement the geography-based sampling by providing more detailed information on temporal changes in ecosystem properties.\n\nIn Quebec region, two surveys (46 stations grouped into transects) are conducted every year, one in June and the other in autumn in the Estuary and Gulf of St. Lawrence. Historically, 3 fixed stations were sampled more frequently. One of these is the Rimouski station that still takes part of the program and is sampled about weekly throughout the summer and occasionally in the winter period.\n\nAnnual reports (physical, biological and a Zonal Scientific Advice) are available from the Canadian Science Advisory Secretariat (CSAS), (http://www.dfo-mpo.gc.ca/csas-sccs/index-eng.htm).\n\nDevine, L., Scarratt, M., Plourde, S., Galbraith, P.S., Michaud, S., and Lehoux, C. 2017. Chemical and Biological Oceanographic Conditions in the Estuary and Gulf of St. Lawrence during 2015. DFO Can. Sci. Advis. Sec. Res. Doc. 2017/034. v + 48 pp.\n\n\nSupplemental Information\n\nBottom dissolved oxygen is determined from CTD profile in the water column according to AZMP sampling protocol:\n\nMitchell, M. R., Harrison, G., Pauley, K., Gagné, A., Maillet, G., and Strain, P. 2002. Atlantic Zonal Monitoring Program sampling protocol. Can. Tech. Rep. Hydrogr. Ocean Sci. 223: iv + 23 pp."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/59bbb435-9516-4c64-a8ea-d5f0b7b1aee8"
+  ],
+  "dct_issued_s": "2020-03-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/59bbb435-9516-4c64-a8ea-d5f0b7b1aee8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Bottom dissolved oxygen at the Atlantic Zone Monitoring Program (AZMP)-Quebec’s stations.",
+  "gbl_mdModified_dt": "2026-03-24T08:12:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5b1ef3da-07d4-53cc-a2ff-4119099b8555",
+  "locn_geometry": "ENVELOPE(-68.75, -58.5, 50.1, 46.745)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

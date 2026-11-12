@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.99999999999917)",
+  "dcat_keyword_sm": [
+    "Unités d’aménagement forestier",
+    "FML",
+    "Forest Management Licence",
+    "province du Manitoba",
+    "MU",
+    "foresterie",
+    "Canada",
+    "Forest Sections",
+    "FMU",
+    "Forestry",
+    "zone de gestion forestière visée par une licence",
+    "Province of Manitoba",
+    "zones forestières",
+    "Forest Management Units",
+    "gouvernement du Manitoba",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p><span>Forest Management Units (FMUs) define a forested area with common forest conditions that are managed in a similar manner. Forest Sections are comprised of FMUs. Forest inventories within Forest Management Units are analyzed to determine allowable harvest limits of softwood and hardwood tree species within each Forest Management Unit.</span></p><p>Version 6: Eastern and western boundaries of FMU 60 were adjusted to match more detailed water boundary data captured in the last forest inventory. FMUs 82 and 801 have been modified along their shared boundary: a narrow portion of FMU 82 was reclassed as FMU 801, reverting back to the version 4 boundary in the area and subsequently restoring the Forest Management Licence (FML) area FML-2 boundary to its version 3 for the same area. Numerous minor edits were made to several FMUs to maintain coincident line work with both the provincial boundary and Provincial Forests (v5). Two new fields were added to provide a clear relationship between FMUs and FMLs: &quot;FML&quot; and &quot;FML_NAME.&quot;<br /></p><p><span>Version 5: </span><span>This version of Manitoba's FMUs alters boundaries</span><span> within the Nelson River forest section</span><span> to include FMUs 800, 801 and 802</span><span>.  The extent of the </span><span>Nelson River </span><span>Fo</span><span>rest Land Inventory (FLI) </span><span>is now FMU 801. FMU</span><span> 801 covers areas that were previously part of FMUs 83, 84, 85 an</span><span>d</span><span> 87.  FMU 800 is east of FMU 801 and covers areas previously part of FMUs 83, 84 and 85.  FMU 802 is north of FMU 801 and covers areas previously part of FMUs 87 and 89.</span><span>  </span></p><p><span>Version 4: The northern portion of FMU</span><span> </span><span>68</span><span>,</span><span> along the Rail Haul within the Highrock Forest Section</span><span>,</span><span> has been adjust</span><span>ed</span><span> so that the boundary falls within water only. </span><span>V</span><span>ersion 4 also </span><span>splits the 'White Zone' forest section (FMU 76) by ecozones, creating FMU 76 (Taiga Shield), FMU 77 (Southern Arctic), FMU 78 (Hudson Plain) and FMU 79 (Boreal Shield).</span></p><p><span>Version 3: T</span><span>he southern portion of FMU 67</span><span>,</span><span> within the Highrock Forest Section</span><span>,</span><span> has been adjusted to align with base features captured in 2009</span><span>.</span><span> An</span><span> 11 ha portion of the Saskatchewan River Forest Section (FMU 59) has</span><span> also</span><span> been added to the Highrock Forest Section.</span></p>\n\n<p> </p>\n<p>The dataset includes the following fields /<br />Les ensembles de données comprennent les champs suivants</p>\n\n<table style='text-align:left; font-weight:normal; width:100%; border-collapse:collapse;'>\n    <tbody>\n        <tr>\n            <th style='width:20%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>\n                Name / Nom</th>\n            <th style='width:25%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>\n                Alias</th>\n            <th colspan='2' style='width:55%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>\n                Description</th>\n        </tr>\n        <tr>\n            <td>MU</td>\n            <td>MU</td>\n            <td style='width:27.5%;'>Management Unit (MU) number. Also referred to as Forest Management Unit or FMU.</td>\n            <td style='width:27.5%;'>Numéro d’unité d’aménagement. Aussi appelée unité d’aménagement forestier.</td>\n        </tr>\n        <tr>\n            <td>SEC</td>\n            <td>Section</td>\n            <td>Forest section number</td>\n            <td>Numéro de zone forestière</td>\n        </tr>\n        <tr>\n            <td>SEC_NAME</td>\n            <td>Section Name / Nom</td>\n            <td>Forest section name</td>\n            <td>Nom de zone forestière</td>\n        </tr>\n        <tr>\n            <td>FML</td>\n            <td>FML</td>\n            <td>Forest Management Licence Area number</td>\n            <td>Numéro de zone de gestion forestière visée par une licence</td>\n        </tr>\n        <tr>\n            <td>FML_NAME</td>\n            <td>FML Name / Nom</td>\n            <td>Forest Management Licence Area name</td>\n            <td>Nom de zone de gestion forestière visée par une licence</td>\n        </tr>\n        <tr>\n            <td>AREA_HA</td>\n            <td>Area / Surface (Hectares)</td>\n            <td>Area in hectares</td>\n            <td>La surface en hectares</td>\n        </tr>\n    </tbody>\n</table>\n\n<p> </p>\n\n<p style='font-weight:bold;'>Limites des unités d’aménagement forestier du Manitoba – Version 6</p>\n\n<p><span>Les unités d’aménagement forestier définissent une aire forestière comportant des conditions communes qui sont gérées de la même manière. Les zones forestières sont composées d’unités d’aménagement. L’inventaire des forêts d’une unité d’aménagement forestier est analysé afin de déterminer les limites de l’exploitation permise des espèces de conifères et de feuillus dans chaque unité.</span></p><p><span>Version 6 : Les limites est et ouest de l’unité d’aménagement 60 ont été rajustées de manière à correspondre aux données plus détaillées sur les limites des eaux saisies lors du dernier inventaire des forêts. Les unités d’aménagement 82 et 801 ont été modifiées le long de leur limite commune : une bande étroite de l’unité d’aménagement 82 a été reclassée comme étant l’unité d’aménagement 801, revenant à la limite de la version 4 dans la zone et rétablissant par la suite la limite de la zone de gestion forestière visée par une licence FML-2 à sa version 3 pour la même zone. De nombreuses modifications mineures ont été apportées à plusieurs unités d’aménagement afin de maintenir la coïncidence des lignes de démarcation avec les limites provinciales et les forêts provinciales (v5). Deux nouveaux champs ont été ajoutés pour établir une relation claire entre les unités d’aménagement et les zones de gestion forestière visées par une licence : « FML » et « FML_NAME ».</span></p><p><span>Version 5 : Cette version des unités d’aménagement du Manitoba modifie les limites de la zone forestière de Nelson River pour y inclure les unités d’aménagement 800, 801 et 802. L’étendue de l’inventaire des forêts de la rivière Nelson est maintenant l’unité d’aménagement 801. L’unité d’aménagement 801 couvre les zones qui faisaient auparavant partie des unités d’aménagement 83, 84, 85 et 87. L’unité d’aménagement 800, qui est située à l’est de l’unité d’aménagement 801, couvre des zones qui faisaient auparavant partie des unités d’aménagement 83, 84 et 85. L’unité d’aménagement 802, qui est située au nord de l’unité d’aménagement 801, couvre des zones qui faisaient auparavant partie des unités d’aménagement 87 et 89.</span></p><p><span>Version 4 : La partie nord de l’unité d’aménagement 68 longeant la voie ferrée dans la zone forestière Highrock a été modifiée de façon que sa limite soit uniquement bordée d’eau. La version 4 divise la zone forestière appelée « zone blanche » (unité d’aménagement 76) en écozones, créant les unités d’aménagement 76 (Taïga du Bouclier), 77 (Bas-Arctique), 78 (Plaines hudsonniennes) et 79 (Bouclier boréal).</span></p><p><span>Version 3 : La partie sud de l’unité d’aménagement 67 dans la zone forestière Highrock a été modifiée pour qu’elle s’harmonise avec les caractéristiques de base saisies en 2009. Une partie de 11 ha de la zone forestière de la rivière Saskatchewan (unité d’aménagement 59) a aussi été ajoutée à la zone forestière Highrock.</span></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "1ec30a1d99f64aef8ae481c7e697053f",
+    "https://www.arcgis.com/home/item.html?id=1ec30a1d99f64aef8ae481c7e697053f"
+  ],
+  "dct_issued_s": "2022-09-16",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-forest-management-units-fmu-version-6\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence | Licence relative au site Ouverture MB"
+  ],
+  "dct_title_s": "Manitoba Forest Management Units (FMU) - Version 6",
+  "gbl_mdModified_dt": "2023-08-03T19:38:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c474c203-7303-5529-bf34-869d54322295",
+  "locn_geometry": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.99999999999917)",
+  "schema_provider_s": "Data MB"
+}

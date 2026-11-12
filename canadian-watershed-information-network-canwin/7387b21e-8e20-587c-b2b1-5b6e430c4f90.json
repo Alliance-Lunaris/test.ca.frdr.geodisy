@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The digital terrain model (DTM) is a simplified representation of ground altimetry. The available data is in the form of an irregular triangular mesh (TIN). This is polygon numerical geographic data constructed by triangulating a set of points. The vertices are connected to a series of segments to form a mesh of triangles of different dimensions. \n\nThis representation can be used as a basis for the 3D buildings of the digital base model.\n\nIt should be noted that the data made available by the City is proposed for planning purposes and not for construction purposes given the associated decimeter details.\n\nThe [3D buildings 2016 (LOD2 model with textures)]] (https://donnees.montreal.ca/ville-de-montreal/batiment-3d-2016-maquette-citygml-lod2-avec-textures2), the [2013 3D buildings (2013 3D buildings (CityGML LOD2 model with textures)] (/city-of-montreal/model-numeric-plateau-mont-royal-buildal-build2-buildings-lod2-with-textures), or the [3D buildings 2009 (CityGML LOD2 model with textures)] (/city-of-montreal/model-numeric-plateau-mont-royal-build2-buildings-lod2-with-textures), or the [3D buildings 2009 (CityGML LOD2 model with textures)] (/city-of-montreal/model-numerique-plateau-mont-royal-batiments-lod2-with-textures), or the [3D buildings 2009 (CityGML LOD2 model with textures)] (/city-of-montreal/model-numeric-s-citygml-lod2-with-textures) complement the digital terrain model in the urban territorial representation of Montreal.\n\nThe [elevation data from aerial LiDAR] (/city-of-montreal/lidar-aerien-2015) are also available on the portal.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/08a528e3-5bff-4bd8-b28d-85e584d5cc1d"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/08a528e3-5bff-4bd8-b28d-85e584d5cc1d\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Digital terrain model",
+  "gbl_mdModified_dt": "2026-09-23T17:34:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7387b21e-8e20-587c-b2b1-5b6e430c4f90",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

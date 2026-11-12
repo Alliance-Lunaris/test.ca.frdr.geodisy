@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Étiage",
+    "Hydrologie",
+    "Information gouvernementale",
+    "Débit",
+    "Eau",
+    "Changements climatiques",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de l'expertise hydrique."
+  ],
+  "dct_description_sm": [
+    "# #Archive data from the 2018 Hydroclimatic Atlas\n## #Description\nThe Hydroclimatic Atlas describes the current and future water regime in southern Quebec in order to support the implementation of water management practices that are resilient to climate change.\n## #Avertissement\nThe 2018 version of the Atlas is now replaced by a more recent version on the website. Data from the 2018 version is archived on Data Québec for reference, for example for old reports or analyses referring to this version of the data. Any new study or analysis should use the most recent data available on [Data Quebec (Hydroclimatic Atlas 2022)] (https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2022) or on the Atlas website (www.cehq.gouv.qc.ca/atlas-hydroclimate-).\n## #Liste of available data\n* Map of river sections from the Hydroclimatic Atlas with their attributes (available in GeoJSON and shapefile format).\n* The CSV tables (“Magnitude...”) for each of the 28 hydrological indicators describing the __ampliture__ and the __direction__ for RCP4.5 and RCP8.5, for the three future horizons (see documentation for details).\n* The CSV tables (“Projected Indicator...”) for each of the 28 hydrological indicators detailing the flow values with their uncertainty for the historical period and the three future horizons (RCP4.5 and 8.5). See documentation for more details.\n* A more detailed [PDF with metadata and description] (https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2018/resource/7af10f58-75a0-4839-b9f0-2b9728cb447d) of the data.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "##Archive des données de l'Atlas hydroclimatique 2018\n###Description\nL’Atlas hydroclimatique décrit le régime hydrique actuel et futur du Québec méridional dans le but de soutenir la mise en œuvre de pratiques de gestion de l’eau résilientes aux changements climatiques.\n###Avertissement\nLa version 2018 de l’Atlas est maintenant remplacée par une version plus récente sur le site web. Les données de la version 2018 sont archivées sur Données Québec pour référence, par exemple pour d’anciens rapports ou analyses faisant référence à cette version des données. Toute nouvelle étude ou analyse devrait utiliser les plus récentes données disponibles sur [Données Québec (Atlas hydroclimatique 2022)](https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2022) ou sur le site web de l’Atlas (www.cehq.gouv.qc.ca/atlas-hydroclimatique).\n###Liste des données disponibles\n* Carte des tronçons de rivière de l’Atlas hydroclimatique avec leurs attributs (disponible en format GeoJSON et shapefile).\n* Les tables CSV (« Ampleur ... ») pour chacun des 28 indicateurs hydrologiques décrivant l’__ampleur__ et la __direction__ pour les RCP 4.5 et RCP8.5, pour les trois horizons futurs (voir la documentation pour les détails).\n* Les tables CSV (« Indicateur projeté … ») pour chacun des 28 indicateurs hydrologiques détaillant les valeurs de débits avec leur incertitude pour la période historique et les trois horizons futurs (RCP4.5 et 8.5). Voir la documentation pour plus de détails.\n* Un [PDF avec les métadonnées et une description](https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2018/resource/7af10f58-75a0-4839-b9f0-2b9728cb447d) plus détaillée des données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/89c0b643-99af-4a23-9689-45628d8d742f"
+  ],
+  "dct_issued_s": "2022-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/89c0b643-99af-4a23-9689-45628d8d742f\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Atlas hydroclimatique 2018",
+  "gbl_mdModified_dt": "2026-05-27T19:07:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dbf282c4-a619-54f2-ac08-40274d038c99",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

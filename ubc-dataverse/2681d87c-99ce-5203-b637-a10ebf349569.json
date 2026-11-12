@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.05, -122.75, 50.19, 50.04)",
+  "dcat_keyword_sm": [
+    "forest inventory",
+    "remote sensing",
+    "Vegetation Resource Inventory",
+    "forest structure",
+    "tree morphology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zheng, Si Ming (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "This study evaluates the integration of airborne LiDAR (Light Detection and Ranging) data with British Columbia’s Vegetation Resource Inventory (VRI) to identify opportunities for enhancement. LiDAR-derived forest structure metrics were compared against VRI estimates in the Resort Municipality of Whistler, revealing discrepancies and variable correlation strengths. Tree height showed a moderately strong correlation (r ≈ 0.66, p < 0.001) between VRI-projected and LiDAR-measured values. LiDAR heights were on average ~0.86 m lower than VRI estimates, through sharing identical patterns and trends, indicating agreement in vertical structure. In contrast, canopy closure (percent cover) has only a weak correlation (r ≈ 0.27). LiDAR-derived canopy closure values were substantially higher, about 55.8% on average than VRI projections, suggesting that our LiDAR method overestimated due to methodological differences. Conifer vs. broadleaf compositions showed that LiDAR morphological metrics can partly predict species composition: percent conifer in VRI had a moderate negative correlation with LiDAR-derived canopy cover (r ≈ –0.41) and moderate positive correlation with tree shape aspect ratio (r ≈ 0.40) though showing some correlation this is too modest for any conclusive predictive power. Our methodology combined terrain-normalized LiDAR point clouds, individual tree segmentation, and extraction of metrics such as height, crown area, aspect ratio, and crown surface curvature. The results demonstrate that LiDAR can augment VRI by providing more objective measurements, higher spatial resolution, and improved estimates of key forest attributes. These enhancements could benefit applications including forest management, wildfire risk assessment, and carbon accounting."
+  ],
+  "dct_identifier_sm": [
+    "898343_73894_115983",
+    "https://doi.org/10.5683/SP3/VXKMD0"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VXKMD0\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Whistler, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Evaluating LiDAR technology to Augment Fuel Typing Classification by Enhancing accuracy of Vegetation Resource Indices in The Resort Municipality of Whistler",
+  "gbl_mdModified_dt": "2025-04-22T16:46:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2681d87c-99ce-5203-b637-a10ebf349569",
+  "locn_geometry": "ENVELOPE(-123.05, -122.75, 50.19, 50.04)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

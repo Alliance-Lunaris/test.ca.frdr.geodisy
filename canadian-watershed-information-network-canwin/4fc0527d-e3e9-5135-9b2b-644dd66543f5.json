@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This map of the first vertical derivative of the magnetic field was derived from data acquired during an aeromagnetic survey carried out by EON Geosciences Inc. in the period between April 10, 2009 and September 16, 2009. The data were recorded using split-beam cesium vapour magnetometers (sensitivity = 0.005 nT) mounted in each of the tail booms of a Piper Navajo and a Cessna 206 aircraft. The nominal traverse and control line spacings were, respectively, 800 m and 2 400 m, and the aircraft flew at a nominal terrain clearance of 250 m. Traverse lines were oriented N90°E with orthogonal control lines. The flight path was recovered following post-flight differential corrections to the raw Global Positioning System data and inspection of ground images recorded by a vertically-mounted video camera. The survey was flown on a pre-determined flight surface to minimize differences in magnetic values at the intersections of control and traverse lines. These differences were computer-analysed to obtain a mutually levelled set of flight-line magnetic data. The levelled values were then interpolated to a 200 m grid. The International Geomagnetic Reference Field (IGRF) was not removed from the total magnetic field."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c29bedd3-92b8-46d2-94cc-13481136cdb2"
+  ],
+  "dct_issued_s": "2025-09-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c29bedd3-92b8-46d2-94cc-13481136cdb2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "First vertical derivative of the magnetic field, Eagle Plains Aeromagnetic Survey, NTS 116-O (south half), Yukon",
+  "gbl_mdModified_dt": "2026-08-26T16:38:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4fc0527d-e3e9-5135-9b2b-644dd66543f5",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

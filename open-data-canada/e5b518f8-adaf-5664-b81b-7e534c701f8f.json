@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.875, -47.875, 86.375, 40.125)",
+  "dcat_keyword_sm": [
+    "Risk management",
+    "vulnerability",
+    "Climate change",
+    "risque",
+    "Ressources halieutiques",
+    "Gestion des risques",
+    "risk",
+    "Fisheries resources",
+    "Protected species",
+    "Changement climatique",
+    "vulnérabilité",
+    "Espèce protégée"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice de risque climatique pour les espèces marin d'intérêt commercial et de conservation au Canada"
+  ],
+  "dct_creator_sm": [
+    "Ecosystem Science Division - Climate Change and Aquatic Conservation."
+  ],
+  "dct_description_sm": [
+    "Significant climate change impacts are highly likely in all Canadian marine and freshwater basins, with effects increasing over time (DFO 2012). Climate models project that ecosystems and fisheries across Canada will be disrupted into the foreseeable future (Lotze et al. 2019; Bryndum-Buchholz et al. 2020; Tittensor et al. 2021; Boyce et al. 2024). Despite its imminence, climate change is infrequently factored into Canada’s primary marine conservation strategies, such as spatial planning (O’Regan et al. 2021) or fisheries management (Boyce et al. 2021; Pepin et al. 2022). The Climate Risk Index for Biodiversity (CRIB) was developed to assess climate risk for marine species in a quantitative, spatially explicit, and scalable manner, supporting climate-informed decision-making. It has been used to evaluate climate risks for marine life globally (Boyce et al. 2022), regionally (Lewis et al. 2023; Boyce et al. 2024; Keen et al. 2023), for fisheries (Boyce et al. 2024), and in support of spatial conservation planning (Keen et al. 2023). \n\nThis dataset contains climate vulnerability and risk estimates from the CRIB framework adapted to consider warming at both the sea surface and its bottom for 145 marine species of conservation or fisheries interest across Canada’s marine territory. Climate risk is available at a 0.25-degree resolution under two contrasting emission scenarios to 2100. For each species, location, and scenario, 12 climate indexes, three vulnerability dimensions, and an overall vulnerability and risk score are provided. The accompanying report describes the data, methods, and workflow used to calculate risk. This report also guides the interpretation of these data to inform and support climate-informed decision-making in Canada.",
+    "Il est fort probable que le changement climatique ait des répercussions importantes dans tous les bassins marins et d'eau douce du Canada, et que les effets s'accentuent au fil du temps (MPO 2012). Les modèles climatiques prévoient que les écosystèmes et les pêcheries du Canada seront perturbés dans un avenir prévisible (Lotze et al. 2019 ; Bryndum-Buchholz et al. 2020 ; Tittensor et al. 2021 ; Boyce et al. 2024). Malgré son imminence, le changement climatique est rarement pris en compte dans les principales stratégies de conservation marine du Canada, telles que la planification spatiale (O'Regan et al. 2021) ou la gestion des pêches (Boyce et al. 2021 ; Pepin et al. 2022). L'indice de risque climatique pour la biodiversité (Climate Risk Index for Biodiversity, CRIB) a été mis au point pour évaluer le risque climatique pour les espèces marines d'une manière quantitative, spatialement explicite et évolutive, afin d'appuyer la prise de décision éclairée par le climat. Il a été utilisé pour évaluer les risques climatiques pour la vie marine à l'échelle mondiale (Boyce et al. 2022), régionale (Lewis et al. 2023 ; Boyce et al. 2024 ; Keen et al. 2023), pour les pêcheries (Boyce et al. 2024), et pour soutenir la planification de la conservation spatiale (Keen et al. 2023).\n \nCe jeu de données contient des estimations de la vulnérabilité et du risque climatique à partir du cadre du CRIB adapté pour prendre en compte le réchauffement à la fois à la surface et au fond de la mer pour 145 espèces marines présentant un intérêt pour la conservation ou la pêche sur l'ensemble du territoire marin du Canada. Le risque climatique est disponible à une résolution de 0,25 degré dans le cadre de deux scénarios d'émissions contrastés jusqu'en 2100. Pour chaque espèce, chaque lieu et chaque scénario, 12 indices climatiques, trois dimensions de la vulnérabilité et un score global de vulnérabilité et de risque sont fournis. Le rapport qui en découle décrit les données, les méthodes et le déroulement des opérations de travail utilisés pour calculer le risque. Ce rapport guide également l'interprétation de ces données afin d'informer et de soutenir la prise de décision éclairée par des considerations climatiques au Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/264692e5-7b51-4ab9-bb1f-da65f6fc0875"
+  ],
+  "dct_issued_s": "2025-03-25",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/264692e5-7b51-4ab9-bb1f-da65f6fc0875\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "A climate risk index for marine species of commercial and conservation interest across Canada",
+  "gbl_mdModified_dt": "2026-03-24T08:06:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e5b518f8-adaf-5664-b81b-7e534c701f8f",
+  "locn_geometry": "ENVELOPE(-140.875, -47.875, 86.375, 40.125)",
+  "schema_provider_s": "Open Data Canada"
+}

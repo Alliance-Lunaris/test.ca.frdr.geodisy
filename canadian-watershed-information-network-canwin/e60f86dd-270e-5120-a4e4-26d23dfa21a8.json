@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-118.003216, -109.884957, 54.850698, 51.825589)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset is produced for the Government of Alberta and is available to the general public. Please consult the Distribution Information of this metadata for the appropriate contact to acquire this dataset. Physical Land Classification (PLC) is a mapping system that was designed to describe the landscape in terms of landform, soils, drainage and slope. It is a hierarchical system that captures physiographic information at the following levels: Region - 1:3 000 000 or smaller Section - 1:1 000 000 to 1:3 000 000 District - 1:500 000 to 1:1 000 000 Geomorphic System - 1:100 000 (can range from 1:50 000 to 1:250 000) Geomorphic Unit - 1:10 000 to 1:50 000 There are some variations in this hierarchy for individual study areas. The Land Classification Group (Resource Inventory Section), Alberta Energy and Natural Resources, adopted the initial Physical Land Classification methodology in 1977 to meet the needs of resource planning and management agencies. Many aspects of the methodology were developed from landform mapping schemes used by the System of Soil Classification for Canada (1976). The PLC system is essentially a geomorphic interpretation and classification system based on the principles of the inherent properties of the land and its forms. Physical Land Classification (PLC) maps have been created largely during the 1980s and 1990s as part of a program to acquire background information for Integrated Resource Plans along the eastern slopes and across northern Alberta. The data were generally mapped at the geomorphic unit level using the 1:50 000 scale National Topographic System maps as a base. The PLC hardcopy maps were scanned, georeferenced, rectified, cleaned, vectorized, merged and attributed to form GIS polygons. The polygons are attributed for parent geologic material, landform / surface expression, modifying process, slope, texture, soil taxonomy and soil drainage. This classification system was designed to enhance and replace the Canada Land Inventory (CLI) and Alberta Landform Inventory (ALI) Landform classification systems. There is more attribution associated with PLC mapping than with ALI / CLI Landform mapping. There is some overlap with the ALI / CLI Landform maps but much of the PLC mapping was conducted in areas not covered by ALI / CLI Landform maps. PLC mapping is considered to be more reliable than ALI / CLI Landform mapping as field checking was more extensive."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cee7654d-5485-4cea-b809-1cf9417ee8fc"
+  ],
+  "dct_issued_s": "2022-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cee7654d-5485-4cea-b809-1cf9417ee8fc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Physical Land Classification (PLC)",
+  "gbl_mdModified_dt": "2026-03-04T15:43:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e60f86dd-270e-5120-a4e4-26d23dfa21a8",
+  "locn_geometry": "ENVELOPE(-118.003216, -109.884957, 54.850698, 51.825589)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

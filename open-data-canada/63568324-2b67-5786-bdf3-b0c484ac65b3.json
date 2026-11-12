@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Linear layer of the city's bicycle network.\nIncludes multi-use trails, bike lanes, on-street networks, etc.\n\n**Collection context**\n Manual collection through an update process in collaboration with the engineering departments and the recreation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_CYCL` (`integer`): Identifier\n* `VOI_NAME_CYCL` (`varchar`): Name\n* `WAY_TYPE` (`varchar`): Type\n* `PROJECT` (`varchar`): Projected\n* `NEIGHBORHOOD` (`varchar`): Neighborhood\n* `DATE_INSTALLE` (`integer`): Installation date\n* `LENGTH` (`numeric`): Length\n* `WIDTH` (`numeric`): Width\n* `SOURCE` (`varchar`): Source\n* `NOTES` (`nvarchar`): Notes\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `DATE_CREATION` (`smalldatetime`): Creation date\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche linéaire du réseau cyclable de la ville.\nComprend les sentiers polyvalents, les bandes cyclables, le réseau sur rue, etc.\n\n**Contexte de collecte**\n Collecte manuelle par processus de mise à jour en collaboration avec les service du génie et le service des loisirs.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_CYCL` (`integer`) : Identifiant\n* `NOM_VOI_CYCL` (`varchar`) : Nom\n* `TYPE_VOIE` (`varchar`) : Type\n* `PROJETE` (`varchar`) : Projeté\n* `QUARTIER` (`varchar`) : Quartier\n* `DATE_INSTALLE` (`integer`) : Date d'installation\n* `LONGUEUR` (`numeric`) : Longueur\n* `LARGEUR` (`numeric`) : Largeur\n* `SOURCE` (`varchar`) : Source\n* `NOTES` (`nvarchar`) : Notes\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/012a76fd-d682-49cd-974a-21d8737997a8"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/012a76fd-d682-49cd-974a-21d8737997a8\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Réseau cyclable - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T19:11:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "63568324-2b67-5786-bdf3-b0c484ac65b3",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

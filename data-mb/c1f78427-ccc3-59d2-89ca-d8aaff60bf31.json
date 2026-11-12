@@ -1,0 +1,34 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.116657498997, -88.74147119109037, 60.11593106249625, 48.92476726799839)",
+  "dcat_keyword_sm": [
+    "veterinary"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div>This table contains information relevant to animal disease investigations in Manitoba from 2012 to present, conducted by the Chief Veterinary Office (CVO). Information includes year, number of sites, number of linked sites, animal species, disease types and results. Updated on a weekly basis. </div><div><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'><br /></p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'>It is important that users are aware of the following caveats when reviewing data presented in the Animal Disease Investigations Dashboard: </p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'><br />1. Each investigation can have one or more cases involved depending on the number of herds or animals exposed.  Not all disease investigations are handled the same due to a partnership approach.  Diseases can be detected via surveillance, ad hoc reporting, or through other programs. </p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'><br />2. Rabies is a separate program. Please see <a href='https://www.gov.mb.ca/health/publichealth/diseases/rabiessurveillance.html' rel='nofollow ugc' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:inherit; box-sizing:border-box;'>Manitoba's Provincial Rabies Management Program</a> for data related to Rabies Surveillance.</p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'><br />3. Certain zoonotic diseases, such as salmonella or influenza, are also captured in more detail through other means.  The total occurrence of a zoonotic disease represented in this dashboard reflects occurrences where risks or exposures were deemed significant enough to warrant further investigation. </p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'> </p><p style='margin-top:0px; margin-bottom:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; box-sizing:border-box; font-size:14px;'>4. Historically, One Health Investigations that were predominantly focused on Public Health issues rather than Animal Health concerns were not captured in this system and will be underrepresented here.</p></div><div><br /></div><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></span></div><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Fields included (</span><b>Alias</b><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'> (Field Name): Field description.)</span></div><div><ul><li><b>Year </b>(Year): Year of the disease investigation</li><li><b>Number of Sites </b>(Number_of_Sites): Number of investigation sites</li><li><b>Number of Linked Sites </b>(Number_of_Linked_Sites): Number of sites linked to investigation sites</li><li><b>Species/Class </b>(Species__Class): Group of animal species</li><li><b>Disease Type </b>(Disease_Type): The type of disease that is being investigated</li><li><b>Result </b>(Result)<b>: </b>The outcome (positive/negative) for the corresponding animal disease investigation</li></ul></div><div><br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "c1fa160fcde74a2595af2f4dafe7df3c",
+    "https://www.arcgis.com/home/item.html?id=c1fa160fcde74a2595af2f4dafe7df3c"
+  ],
+  "dct_issued_s": "2021-03-10",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::disease-investigations-data\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Disease Investigations data",
+  "gbl_mdModified_dt": "2026-08-05T18:24:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c1f78427-ccc3-59d2-89ca-d8aaff60bf31",
+  "locn_geometry": "ENVELOPE(-102.116657498997, -88.74147119109037, 60.11593106249625, 48.92476726799839)",
+  "schema_provider_s": "Data MB"
+}

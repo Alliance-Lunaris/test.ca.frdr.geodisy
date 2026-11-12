@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Terrain Mapping (TER) Project Boundaries (STE_TER_PROJECT_BOUNDARIES_SVW) contains boundaries (study areas) and attributes describing each TER project (project level metadata), plus links to the locations of other data associated with the project (e.g., reports, polygon datasets, plotfiles, legends). This layer is derived from the [STE_TEI_PROJECT_BOUNDARIES_SP](https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) layer by filtering on the PROJECT_TYPE attribute. Project types include: TEM, TEMNSS, TEMPRE, TEMSEI, TEMSET, TEMTSM, TSM, TSMREC, TSMDET, TIM, TBS, TBT, TIMSOI, TEMWHR, TEMSDM, TEMPRW, and PEMTBT. TER project boundaries should be used in conjunction with TER detailed inventory polygons which divide the landscape into units according to surficial materials, landforms and geomorphological processes using the Terrain Classification System for British Columbia. TER inventory polygons with full Resources Information Standards Committee (RISC) attributes can be accessed through the [Terrestrial Ecosystem Information (TEI) Data Distribution Packages](https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). TER inventory polygons with simplified and amalgamated (concatenated) RISC attributes can be accessed through the [Terrain Mapping (TER) Polygon Attributes](https://catalogue.data.gov.bc.ca/dataset/caf1ad28-9bd9-4b41-b2f8-928fff115855). Further subsetted data can be found through the [Terrain Stability Mapping (TSM)](https://catalogue.data.gov.bc.ca/dataset/d800cbc8-0de6-4d57-a3f9-88bcfbdc0769), [Terrain Inventory Mapping (TIM)](https://catalogue.data.gov.bc.ca/dataset/3f6280a0-11d6-430f-92c5-a4a66023e6a1), and [Bioterrain Mapping (TBT)](https://catalogue.data.gov.bc.ca/dataset/06121ed8-0a75-4a76-b645-182f94418571) records. **Current version**: v12 (2026-06-22)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996"
+  ],
+  "dct_issued_s": "2020-06-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Terrain Mapping (TER) Project Boundaries",
+  "gbl_mdModified_dt": "2026-07-29T18:32:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b481e59d-fd6c-57f4-bb43-27573a217170",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

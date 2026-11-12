@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.0, -52.6174, 52.0, 45.0)",
+  "dcat_keyword_sm": [
+    "At-sea Observer",
+    "Observateur en mer",
+    "Commercials species",
+    "Fisheries management",
+    "Espèces commerciales",
+    "Ressources halieutiques",
+    "Pêcherie",
+    "Fisheries resources",
+    "Gestion des pêches",
+    "Pêcheries",
+    "Fisheries",
+    "Fishery"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Programme des observateurs en mer du golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Section Gestion de données - Direction des avis, information et soutien scientifiques / Data Management Section - Scientific Advice, Information and Support Branch."
+  ],
+  "dct_description_sm": [
+    "The Gulf of St. Lawrence At-Sea Observer Program is part of the Fisheries Monitoring Policy of the Department of Fisheries and Oceans Canada (DFO) (https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/fishery-monitoring-surveillance-des-peches-eng.htm#toc13). Its purpose is to ensure accurate verification of fishing activities at sea by an independent third party, and to provide DFO with scientific data on catches. The fishing industry and DFO depend on the proper communication of this information for fisheries management, monitoring and scientific research activities.\n\nBiological data on fish and marine invertebrates collected by the At-Sea Observer Program is one of the sources of information used by DFO to assess the status of these resources. Biological data protocols are the subject of an annual consultation with the biologists responsible for assessing each of the exploited stocks.\n\nThis dataset contains the sum of weight data for species caught, by NAFO (Northwest Atlantic Fisheries Organization) sub-division and by year from 1999-2023, from commercial species directed fisheries for stock assessments in the Quebec region. It also includes length frequencies for species caught when required by protocol.\n\nTo preserve the confidentiality of the fishing industry, data are only presented when fishing activity has been observed on a minimum of 5 vessels in a given NAFO area. The data presented are raw and should be interpreted with caution. They may contain errors such as spatial coordinates, landing weights or inaccurate or unreliable species identifications. A brief review of the taxonomy was carried out by DFO taxonomist cited as collaborator. His comments can be found in the “REMARK_IDENT” column preceded by the code “Claude_Nozere”.",
+    "Le programme des observateurs en mer du golfe du St-Laurent entre dans la politique de surveillance des pêches du Ministère des Pêches et Océans du Canada (MPO) (https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/fishery-monitoring-surveillance-des-peches-fra.htm#toc13). Il a pour objet d'assurer la vérification exacte des activités de pêche en mer par un tiers indépendant et de fournir au MPO des données scientifiques sur les prises. L'industrie de la pêche et le MPO dépendent de la communication adéquate de ces informations pour les activités de gestion, de surveillance et de recherche scientifique liées aux pêches.\n\nLes données biologiques de poissons et d’invertébrés marins récoltées par le programme des observateurs en mer constituent l’une des sources d’information utilisées par le MPO pour évaluer l’état de ces ressources. Les protocoles de récolte de données biologiques font l’objet d’une consultation annuelle auprès des biologistes responsables de l’évaluation de chacun des stocks exploités.\n\nCe jeu de données contient la somme des données de poids des espèces capturées, par sous-division de l’OPANO (Organisation des Pêches de l'Atlantique Nord-Ouest) et par année de 1999-2023, des pêches dirigées vers les espèces commerciales des évaluations de stocks de la région du Québec. Il comprend aussi les fréquences de longueur des espèces capturées lorsque le protocole l’exigeait. \n\nPour préserver la confidentialité de l’industrie de la pêche, les données sont présentées lorsqu’il y a eu des observations d’activités de pêche sur un minimum de 5 bateaux dans une zone OPANO donnée. Les données présentées sont brutes et la prudence est de mise lors de leur interprétation. Celles-ci peuvent contenir des erreurs telles que les coordonnées spatiales, les poids au débarquement ou les identifications d’espèces inexactes ou non fiables. Une révision sommaire de la taxonomie a été effectuée par un taxonomiste du MPO, cité comme collaborateur. Ses commentaires taxonomiques se trouvent dans la colonne « REMARK_IDENT » précédé du code « Claude_Nozere »."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5f4edda8-4e25-45d3-a0ec-1ee892da7ebf"
+  ],
+  "dct_issued_s": "2024-06-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5f4edda8-4e25-45d3-a0ec-1ee892da7ebf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Gulf of St. Lawrence observer at sea program",
+  "gbl_mdModified_dt": "2026-03-24T08:33:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "097588b9-5b46-5e6f-8d61-378648f6a960",
+  "locn_geometry": "ENVELOPE(-68.0, -52.6174, 52.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

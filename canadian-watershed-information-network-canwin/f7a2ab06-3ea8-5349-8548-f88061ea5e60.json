@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.8211, -100.7315, 60.0946, 51.498)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Predictive ecosite map of Saskatchewan's provincial forests and adjacent parks within the boreal plain, boreal shield and taiga shield ecozones: version 01.  \n  \n  Download: Here The Predictive Ecosite Map of Saskatchewan is based on the classifications of McLaughlan et al. (2010). This version (v01) is an interim proof-of-concept product and is not considered highly accurate or finalized. Ecosite prediction accuracy is anticipated to between 40% and 65%, depending on geographic location. For the boreal plain ecozone, ecosites were derived using a random forest imputation with the yaImpute package in R and mapped by L. Gelhorn (2014-07-24). Pixel values presented here are prefixed with a 2. Non-forest / non-water pixels are often assigned a BP28 ecosite code (228). For the boreal shield and taiga shield ecozones, ecosites were derived using a random forest imputation with the yaImpute package in R and mapped by S. Oldford (2019-11-20). Pixel values presented here are prefixed with a 3 and a 4, respectively. In the case of the taiga shield ecozone, there were limited sample plot data. To increase the sample size for modelling, the majority of taiga shield ecosites data are combined and modeled with boreal sheild ecosites using the ecozonal synonyms of McLaughlan et al. (2010). Ecosites TS01 (401), TS04 (404) and TS17 (417) were modeled as such because no ecozonal synonyms exist. This map is clipped to the Saskatchewan provincial forest and adjacent park boundaries. Water bodies are masked according to the 2015 Landcover Map of Canada of White et al. (2017) and have a pixel value of zero (0). References: McLaughlan, M.S., Wright, R.A. and Jiricka, R.D. (2010). Field guide to the ecosites of Saskatchewan’s provincial forests. Saskatchewan Ministry of Environment, Forest Service. Prince Albert, Saskatchewan. 343 pp. White, J.C., Wulder, M.A., Hermosilla, T., Coops, N.C. and Hobart, G.W. (2017). A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series. Remote Sensing of Environment. 192: 303-321."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e1c67541-f7a8-3133-53f8-001bb6eb815a"
+  ],
+  "dct_issued_s": "2024-06-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e1c67541-f7a8-3133-53f8-001bb6eb815a\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Predictive Ecosite Map of Saskatchewan - v01",
+  "gbl_mdModified_dt": "2025-02-05T19:07:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f7a2ab06-3ea8-5349-8548-f88061ea5e60",
+  "locn_geometry": "ENVELOPE(-110.8211, -100.7315, 60.0946, 51.498)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

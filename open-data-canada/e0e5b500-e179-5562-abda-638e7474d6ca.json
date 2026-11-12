@@ -1,0 +1,78 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -52.0, 83.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Transport",
+    "Parc",
+    "Carte de Base",
+    "Digital elevation data",
+    "Parks",
+    "Carte de localisation",
+    "Buildings",
+    "Location map",
+    "Canada",
+    "Rail transport",
+    "Carte géographique",
+    "National parks",
+    "Canada",
+    "Bridges",
+    "Transport",
+    "Forêt",
+    "Cimetière",
+    "Drainage",
+    "Traversier",
+    "Drainage",
+    "Geomatics",
+    "Maps",
+    "Ferries",
+    "Road maps",
+    "Transport ferroviaire",
+    "Pont",
+    "Données numériques d'élévation",
+    "Bâtiment",
+    "Geographical maps",
+    "Basemap",
+    "Cemeteries",
+    "Géomatique",
+    "Carte",
+    "Carte routière",
+    "Parc national",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de base du Canada - Transport (CBCT) - tuiles rasters"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The Canada Basemap Transportation (CBMT) is a raster tile service that provides spatial reference context with an emphasis on transportation networks across Canada. It is designed especially for use as a background layer in a web mapping application or geographic information system (GIS).   \n  \n  Access: Access is free of charge under the terms of the Open Government Licence - Canada.  \n  \n  Data Sources:   \n  \n  Data for the CBMT is sourced from the following datasets:  \n  \n  - Topographic data of Canada – CanVec Series  \n  \n  - Official names from the Canadian Geographical Names Database (CGNDB).  \n  \n  Projections:  \n  \n  - Data is provided in the EPSG:3978 (NAD83 Canada Atlas Lambert) projected coordinate system.  \n  \n  - Data is provided in the EPSG:3857 (WGS84 Pseudo-Mercator) projected coordinate system.  \n  \n  Geographic Coverage:   \n  \n  - The CBMT in the EPSG:3857 has complete coverage of the world, with full datasets in Canada and only partial data in other parts of the world including boundaries, Country Names, and major cities.  \n  \n  - The CBMT in the EPSG:3978 covers the entire geographic area of Canada and some major transportation routes and cities in the northern States of the USA.  \n  \n  Additional Versions:   \n  \n  - The CBMT is available as a dynamic service (WMS) or a tiled service (ESRI REST and WMTS).   \n  \n  - A geometry-only version (CBMT GEOM) and a text-only version (CBMT TXT) are available.   \n  \n  - French versions of the basemap are accessible via the Carte de base du Canada - Transport (CBCT).",
+    "La Carte de base du Canada – Transport (CBMT) est un service cartographique de tuiles rasters qui fournit un contexte de référence spatiale en mettant l'accent sur les réseaux de transport à travers le Canada. Elle est conçue spécialement pour être utilisée comme couche d’arrière-plan dans une application de cartographie Web ou un système d’information géographique (SIG).  \n  \n  Accès : L’accès est gratuit conformément aux modalités de la Licence du gouvernement ouvert – Canada.  \n  \n  Sources de données : les données de la CBCT proviennent de nombreux ensembles de données :  \n  \n  - Données topographiques du Canada – Série CanVec  \n  \n  - Toponymes officiels tirés de la Base de données toponymiques du Canada (BDTC).  \n  \n  Projections:   \n  \n  - Les données sont fournies dans le système de coordonnées de projection EPSG:3857 (WGS84 Pseudo-Mercator).  \n  \n  - Les données sont fournies dans le système de coordonnées de projection EPSG:3978 (NAD83 Canada Atlas Lambert).  \n  \n  Couverture géographique :   \n  \n  - La CBCT projeté en EPSG:3857 offre une couverture complète du monde, avec des ensembles de données complets au Canada et seulement des données partielles dans d’autres parties du monde, y compris les frontières, les noms de pays et les grandes villes.  \n  \n  - La CBCT projeté en EPSG:3978 couvre toute la zone géographique du Canada et certaines grandes routes et villes des États du nord des États-Unis.  \n  \n  Versions supplémentaires :   \n  \n  - La CBCT est disponible sous forme de service dynamique (WMS) ou de service tuilé (ESRI REST et WMTS).  \n  \n  - Une version texte seulement (CBCT TXT) et une version avec géométrie seulement (CBCT GEOM) sont disponibles.  \n  \n  - Les versions anglaises de la carte de base sont accessibles via la Canada Basemap Transportation (CBMT)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/296de17c-001c-4435-8f9a-f5acab632e85"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/296de17c-001c-4435-8f9a-f5acab632e85\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "government_and_politics",
+    "nature_and_environment",
+    "transport"
+  ],
+  "dct_title_s": "Canada Basemap Transportation (CBMT) - Raster Tile",
+  "gbl_mdModified_dt": "2025-06-10T20:20:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e0e5b500-e179-5562-abda-638e7474d6ca",
+  "locn_geometry": "ENVELOPE(-140.0, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

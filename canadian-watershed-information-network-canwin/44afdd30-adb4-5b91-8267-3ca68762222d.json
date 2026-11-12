@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8778, -94.2148, 58.6783, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains information on fish stockings since 1917 in Manitoba waterbodies with details on date of stocking, amount of fish, size of fish and species of fish.  \n  \n  Stocking Data is a point layer representing individual stocking events dating back to 1917. Each record contains information such as waterbody name, fish species, fish size and quantities, as well as the fishing division of the waterbody. Stocking data is updated multiple times per year as the Province of Manitoba Hatchery conducts stocking. The stocking data layer, along with related information, can be found at the Manitoba Lake Information For Anglers app. The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit Manitoba Fisheries. The dataset includes the following fields (Alias (Name): Description) Waterbody ID (WATERBODY_ID): Unique identifier for an individual waterbody. Waterbody Name (WATERBODY_NAME): Name of the waterbody that was stocked. Fishing Division (FISHING_DIVISION): Indicates which fishing division the waterbody is located in and where stocking event took place. Year (YEAR): Year of the stocking event. Date (DATE): Date of the stocking event. Species (SPECIES): Species that was stocked. Size (SIZE): Size of the fish that were stocked. Quantity (QUANTITY): Approximate number of fish stocked. Lat (DD) (LAT_DD): Latitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees. Long (DD) (LONG_DD): Longitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees. Waterbody Lat (WATERBODY_LAT): Latitudinal coordinates of the representative centroid of the waterbody in decimal degrees. Waterbody Long (WATERBODY_LONG): Longitudinal coordinates of the representative centroid of the waterbody in decimal degrees."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fda620c-899c-f5c8-8ba2-ab56b299e38e"
+  ],
+  "dct_issued_s": "2024-09-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fda620c-899c-f5c8-8ba2-ab56b299e38e\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Waterbody Stocking Records",
+  "gbl_mdModified_dt": "2025-10-01T11:10:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44afdd30-adb4-5b91-8267-3ca68762222d",
+  "locn_geometry": "ENVELOPE(-101.8778, -94.2148, 58.6783, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

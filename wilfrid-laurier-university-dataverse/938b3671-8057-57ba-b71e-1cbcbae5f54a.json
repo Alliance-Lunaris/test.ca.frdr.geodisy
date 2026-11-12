@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.243545, -113.535587, 65.898512, 60.579345)",
+  "dcat_keyword_sm": [
+    "Fire",
+    "Soil moisture",
+    "Northwest Territories",
+    "Boreal forest",
+    "Succession",
+    "Natural disturbance"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jorgensen, Alexis (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-4690-7201",
+    "Alfaro-Sánchez, Raquel (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0001-7357-3027",
+    "Cumming, Steven G. (Université Laval, Laval University). ORCID: https://orcid.org/0000-0002-7862-2913",
+    "White, Alison L. (Ministry of Natural Resources and Forestry).",
+    "Degré-Timmons, Geneviève É. (Laval University, Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-1121-4659",
+    "Day, Nicola J. (Victoria University of Wellington, Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-3135-7585",
+    "Turetsky, Merritt (University of Colorado Boulder). ORCID: https://orcid.org/0000-0003-0155-8666",
+    "Johnstone, Jill F. (University of Saskatchewan). ORCID: https://orcid.org/0000-0001-6131-9339",
+    "Walker, Xanthe J. (Northern Arizona University). ORCID: https://orcid.org/0000-0002-2448-691X",
+    "Baltzer, Jennifer L. (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0001-7476-5928"
+  ],
+  "dct_description_sm": [
+    "Time Period spans 1740-2015. However, pre-1965 data are outliers from the main set.<p><p>\n\nWe wish to recognize our funding partners the Government of the Northwest Territories Cumulative Impacts Monitoring program, the Northern Scientific Training Program, and Northern Water Futures, as well as Aurora Research Institute for granting the research licenses for this work. We also thank the Dehcho First Nations, the Ka'a'gee Tu First Nation, the Deh Gáh Got’îê First Nation, Northwest Territory Métis Nation, Norman Wells Renewable Resources Council, the Sahtú Renewable Resources Board, and the Tłı̨chǫ Government for their support and allowing this research to be carried out on their traditional territories.",
+    "This data was gathered to explore patterns of vegetation recovery after fire in the boreal forests of the Northwest Territories, Canada. Vegetation and environmental data was collected from a chronosequence of sampling sites ranging from one to 275 years after fire covering both the Taiga Shield and Taiga Plains Ecoregions.<p><p>\n\nThe dataset is comprised of three data sheets:<p>\n<ol type=\"1\">\n<li>\nJorgensen et al_SpeciesRelativeAbundance includes presence and absence data per plot for a selection of vascular plant and lichen species, as well as associated environmental variables and site information. Each species has a \"presence\" column and an \"absence\" column, adding to five, indicating the number of quadrats per plot where the species was found. \n </li>\n\n<li>\nJorgensen et al_VegetationCommunityComposition includes abundance indices (from 1-5) per plot for all vascular and non-vascular species used in manuscript ordinations (excluded: species present in only one plot, species causing anomalies - see manuscript for more information).\n</li>\n\n<li>\nJorgensen et al_SeedlingSaplingCounts includes counts of the number of seedlings and saplings <1.3m tall per sampling plot for black spruce (Picea mariana), paper birch (Betula papyrifera), and trembling aspen (Populus tremuloides).\n</li>"
+  ],
+  "dct_identifier_sm": [
+    "465681_137",
+    "https://doi.org/10.5683/SP3/F45UGZ"
+  ],
+  "dct_issued_s": "2023-06-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/F45UGZ\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data For: The Influence of Post-Fire Recovery and Environmental Conditions on Boreal Vegetation",
+  "gbl_mdModified_dt": "2023-06-01T13:26:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "938b3671-8057-57ba-b71e-1cbcbae5f54a",
+  "locn_geometry": "ENVELOPE(-128.243545, -113.535587, 65.898512, 60.579345)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

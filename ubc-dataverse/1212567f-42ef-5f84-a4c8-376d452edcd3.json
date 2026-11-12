@@ -1,0 +1,109 @@
+{
+  "dcat_keyword_sm": [
+    "SEF",
+    "bootstrap support",
+    "TPLATE",
+    "pgiC",
+    "R",
+    "tree file",
+    "Pteridophyta",
+    "Ferns",
+    "Sequin",
+    "COP9",
+    "Psilotales",
+    "low-copy nuclear gene",
+    "DET1",
+    "transcriptome",
+    "Polypodiidae",
+    "GClev",
+    "ApPEFP",
+    "GenBank",
+    "divergence time dating",
+    "DUF1077",
+    "Hsp40",
+    "MCD1",
+    "NDUFS6",
+    "newick",
+    "curated phylogenomics",
+    "model selection",
+    "transducin",
+    "fern chronogram",
+    "Cryptochrome",
+    "Polypodiopsida",
+    "IGPD",
+    "gapCp",
+    "Equisetum",
+    "HEMERA",
+    "Ophioglossales",
+    "monilophytes",
+    "z-test",
+    "t-test",
+    "IBR3",
+    "Codon models",
+    "Marattiales",
+    "voucher table",
+    "Python",
+    "nexus",
+    "SQD1"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rothfels, Carl J. (University of California, Berkeley, Duke University, University of British Columbia).",
+    "Li, Fay-Wei (Duke University).",
+    "Sigel, Erin M. (Smithsonian Institution).",
+    "Huiet, Layne (Duke University).",
+    "Larsson, Anders (Uppsala University).",
+    "Burge, Dylan O. (University of British Columbia, California Academy of Sciences).",
+    "Ruhsam, Markus (Royal Botanic Garden Edinburgh).",
+    "Deyholos, Michael (University of British Columbia).",
+    "Soltis, Douglas E. (University of Florida).",
+    "Stewart Jr., C. Neal.",
+    "Shaw, Shane W. (Orleans, Vermont 05860 USA).",
+    "Pokorny, Lisa (Real Jardín Botánico).",
+    "Chen, Tao (Chinese Academy of Sciences).",
+    "dePamphilis, Claude.",
+    "DeGironimo, Lisa (The Bronx Defenders).",
+    "Chen, Li (Population Studies Division, Health Canada, Ottawa, Canada, Beijing Genomics Institute).",
+    "Wei, Xiaofeng (Beijing Genomics Institute).",
+    "Sun, Xiao (Beijing Genomics Institute).",
+    "Korall, Petra (Uppsala University).",
+    "Stevenson, Dennis W. (The Bronx Defenders, University of British Columbia).",
+    "Graham, Sean W. (University of British Columbia).",
+    "Wong, Gane Ka-Shu (University of Alberta).",
+    "Pryer, Kathleen M. (Duke University).",
+    "Stewart, C. Neal (University of Tennessee at Knoxville).",
+    "Wong, Gane K-S. (University of Alberta).",
+    "de Pamphilis, Claude (Pennsylvania State University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/dUyuY6DNQ8iQeY3dXu6g62MtLsw93whLIqRskdXH3Lk</p>\n<p><b>Storage size:</b> 193654057</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Premise of the study: Understanding fern (monilophyte) phylogeny and its evolutionary timescale is critical for broad investigations of the evolution of land plants, and for providing the point of comparison necessary for studying the evolution of the fern sister group, seed plants. Molecular phylogenetic investigations have revolutionized our understanding of fern phylogeny, however, to date, these studies have relied almost exclusively on plastid data. Methods: Here we take a curated phylogenomics approach to infer the first broad fern phylogeny from multiple nuclear loci, by combining broad taxon sampling (73 ferns and 12 outgroup species) with focused character sampling (25 loci comprising 35877 bp), along with rigorous alignment, orthology inference and model selection. Key results: Our phylogeny corroborates some earlier inferences and provides novel insights; in particular, we find strong support for Equisetales as sister to the rest of ferns, Marattiales as sister to leptosporangiate ferns, and Dennstaedtiaceae as sister to the eupolypods. Our divergence-time analyses reveal that divergences among the extant fern orders all occurred prior to ∼200 MYA. Finally, our species-tree inferences are congruent with analyses of concatenated data, but generally with lower support. Those cases where species-tree support values are higher than expected involve relationships that have been supported by smaller plastid datasets, suggesting that deep coalescence may be reducing support from the concatenated nuclear data. Conclusions: Our study demonstrates the utility of a curated phylogenomics approach to inferring fern phylogeny, and highlights the need to consider underlying data characteristics, along with data quantity, in phylogenetic studies.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MrBayes_configAndResults</h4><div class=\"o-metadata__file-description\">Nexus datafile (alignment), MrBayes commands, and resulting parameter and tree log files.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">alignments_andTrees_v5</h4><div class=\"o-metadata__file-description\">Nexus files (alignments) for each locus, with their corresponding maximum likelihood tree.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">add_genbankNums_toVouchertable</h4><div class=\"o-metadata__file-description\">Python script to extract the genBank numbers from the list supplied by NCBI (in response to a sequin submission) and format them into an accession-by-locus table.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">add_node_numbers_to_tree</h4><div class=\"o-metadata__file-description\">Python script to print a version of an input phylogeny with the nodes annotated with their node number. (So that, e.g., the nodes can be matched to their divergence time estimates, etc.)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">append_metadata_tofasta_forSequin</h4><div class=\"o-metadata__file-description\">A python script that goes through a single-locus alignment and matches each taxon in that alignment with the corresponding metadata, which it adds in a Sequin block to the alignment file. For automating the production of Sequin submission to GenBank in cases where there are many loci, each with different combinations of taxa.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">nexusToNewick</h4><div class=\"o-metadata__file-description\">Python script to convert a bunch of tree files from nexus to newick format.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">summarizing_support</h4><div class=\"o-metadata__file-description\">R script to summarize support values across analyses. Computes average node support, does t- and z-tests to examine whether average support differs across analyses/whether support for particular nodes differs.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153751_1226260_150149",
+    "https://doi.org/10.5683/SP2/GWSLBE"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/GWSLBE\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The evolutionary history of ferns inferred from 25 low-copy nuclear genes",
+  "gbl_mdModified_dt": "2021-05-19T20:24:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1212567f-42ef-5f84-a4c8-376d452edcd3",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

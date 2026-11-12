@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-129.371584, -99.691072, 60.105552, 48.350446)",
+  "dcat_keyword_sm": [
+    "OPTICAL-DATA",
+    "RADAR",
+    "GROUND-COVER",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "LIDAR",
+    "ASLC",
+    "IMAGE-CLASSIFICATION",
+    "BIOTA",
+    "REMOTE-SENSING"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Couverture terrestre par satellite de l'Alberta"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "Alberta Satellite Land Cover (ASLC) raster is produced for Government of Alberta and is available to the general public. The ASLC Mosaic is a land cover dataset for the province of Alberta. It is a set of individual projects completed in the last decade for wildfire historical burns and various areas. As the remote sensing technology and related information extraction approaches have made significant advancements during last 20 years the process naturally evolved from classification schema targeting Landsat 5 to one integrating various sources of remote sensing data, information extraction procedures, different open and commercial toolboxes for processing and more automation. Integration of multiple data types includes various optical and radar data free of charge as well as GOA's purchased LiDAR data swaths. Since raster values in products from individual projects are identical with values of initial Alberta Ground Cover Classification product, it was possible to merge all those into new ASLC raster.",
+    "Le raster ASLC (Alberta Satellite Land Cover) est produit pour le gouvernement de l'Alberta et est accessible au grand public. La mosaïque ASLC est un ensemble de données sur la couverture terrestre de la province de l'Alberta. Il s'agit d'un ensemble de projets individuels achevés au cours de la dernière décennie pour les feux de forêt, les incendies historiques et divers domaines. La technologie de télédétection et les approches d'extraction d'informations associées ayant fait des progrès significatifs au cours des 20 dernières années, le processus a naturellement évolué, passant d'un schéma de classification ciblant Landsat 5 à un schéma intégrant diverses sources de données de télédétection, des procédures d'extraction d'informations, différentes boîtes à outils ouvertes et commerciales pour le traitement et une automatisation accrue. L'intégration de plusieurs types de données comprend diverses données optiques et radar gratuites ainsi que des bandes de données LiDAR achetées par GOA. Comme les valeurs matricielles des produits issus de projets individuels sont identiques aux valeurs du produit initial de classification de la couverture végétale de l'Alberta, il a été possible de les fusionner dans un nouveau raster ASLC.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c0511ea4-bee5-40f6-ab4d-59de37bbbe66"
+  ],
+  "dct_issued_s": "2018-06-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c0511ea4-bee5-40f6-ab4d-59de37bbbe66\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Alberta Satellite Land Cover",
+  "gbl_mdModified_dt": "2026-03-04T16:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34e19c2b-6ec5-5ce0-bbbc-c38acc6ccc41",
+  "locn_geometry": "ENVELOPE(-129.371584, -99.691072, 60.105552, 48.350446)",
+  "schema_provider_s": "Open Data Canada"
+}

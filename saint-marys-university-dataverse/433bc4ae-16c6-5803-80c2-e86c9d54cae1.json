@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Wildfire, Vegetation Loss, Emergency Response, Remote Sensing, Network analysis,  Nova Scotia, Spring 2023"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Matsumoto, Patricia (Saint Mary's University). ORCID: https://orcid.org/0000-0001-7205-7557"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the spatial extent of wildfires that occurred in Nova Scotia during the spring of 2023. It includes polygon features delineating wildfire areas, as well as polygon and point features of emergency shelters and network accessibility affected by the wildfires. The burned area features were produced through a combination of supervised classification of satellite imagery and manual digitization. Initial fire locations and ignition dates were obtained from the Canadian Wildland Fire Information System (CWFIS) interactive map (https://cwfis.cfs.nrcan.gc.ca/interactive-map). Only fire events larger than 5 hectares were included. These dates informed the acquisition of Sentinel-2 Level-2A imagery via the Copernicus Open Access Hub. A threshold of less than 15% of cloud cover was set. Image classification was conducted in ArcGIS Pro version 3.1.2 using a supervised, pixel-based approach. Training samples were collected for the following land cover classes: \"burned\", \"developed\", \"undeveloped\", and \"water\". Classification was performed on false-color composite imagery (bands 8-4-3) to enhance burn detection. Raster outputs were converted to vector format, followed by a consistency check using visual inspection. Where classification results were insufficient, manual digitization of burned areas was performed to improve spatial accuracy, particularly in smaller or heterogeneous burn scars. The final wildfire perimeter layer is a merged product of the classified and manually digitized features. Each polygon includes attributes for fire name, ignition date, and burned area in hectares. \nThe socioeconomic dataset includes census-based attributes aggregated at the dissemination area (DA) level for the province of Nova Scotia (Statistics Canada). The DA boundary shapefiles were obtained from Statistics Canada (2021 Census Boundary Files), and the corresponding tabular socioeconomic variables were retrieved from the CHASS Data Centre (University of Toronto) based on the 2021 Census of Population. Each DA polygon is attributed with the total population (2021), population density (persons per square kilometre), and average after-tax household income (2020 CAD). \nThe coordinate system of shapefiles is NAD83 CSRS UTM Zone 20 N, EPSG: 2961. \nThis dataset supports research on wildfire impact assessment, emergency preparedness planning, vegetation change analysis, and spatial network modeling."
+  ],
+  "dct_identifier_sm": [
+    "955107",
+    "https://doi.org/10.5683/SP3/ZXYUTS"
+  ],
+  "dct_issued_s": "2025-07-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZXYUTS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Business and Management",
+    "Social Sciences",
+    "Arts and Humanities",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Wildfire Impacts in Nova Scotia, Spring 2023",
+  "gbl_mdModified_dt": "2026-04-02T11:55:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "433bc4ae-16c6-5803-80c2-e86c9d54cae1",
+  "schema_provider_s": "Saint Mary's University Dataverse"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Correlation Mapping",
+    "Insulin",
+    "Atomic Mutual Information",
+    "Density Functional Theory",
+    "Cut-Wise Strategy"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Javaheri Moghadam, Mostafa (University of New Brunswick). ORCID: https://orcid.org/0009-0002-1415-9867",
+    "Mulder, Rebecca (University of New Brunswick).",
+    "De Baerdemacker, Stijn (University of New Brunswick). ORCID: https://orcid.org/0000-0001-7933-3227"
+  ],
+  "dct_description_sm": [
+    "This dataset contains one ORCA DFT input template used for all calculations, and individual ORCA output files for each spherical fragment radius (4, 5, and 6 Å) and the full-protein calculation. The inputs share the same settings, while the outputs differ according to each fragment’s local environment."
+  ],
+  "dct_identifier_sm": [
+    "8196_343",
+    "https://doi.org/10.25545/OZX7DP"
+  ],
+  "dct_issued_s": "2025-12-24",
+  "dct_publisher_sm": [
+    "UNB"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25545/OZX7DP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Chemistry"
+  ],
+  "dct_title_s": "Divide and Correlate: Mapping Electronic Correlations in Proteins via Local Cut-Wise Reconstruction",
+  "gbl_mdModified_dt": "2025-12-24T01:31:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c0d40a52-3048-5b9e-908a-a7609a1af53f",
+  "pcdm_memberOf_sm": [
+    "QuNB Quantum Chemistry Lab"
+  ],
+  "schema_provider_s": "University of New Brunswick Dataverse"
+}

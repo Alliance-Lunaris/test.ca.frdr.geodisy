@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Global Ensemble Prediction System (GEPS) carries out physics calculations to arrive at probabilistic predictions of atmospheric elements from the current day out to 16 days into the future (up to 39 days twice a week on Mondays and Thursdays at 00UTC for calculating forecast anomalies). The GEPS produces different outlooks (scenarios) to estimate the forecast uncertainties due to the nonlinear (chaotic) behavior of the atmosphere. The probabilistic predictions are based on an ensemble of 20 scenarios that differ in their initial conditions, their physics parameters which are randomly perturbed by a Stochastic Parameter Perturbation (SPP) method, and the stochastic perturbations (kinetic energy). A control member that is not perturbed is also available. Weather elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage is global. Data is available on some fifteen vertical levels on a global latitude-longitude uniform grid with 0.5 degree horizontal resolution (about 39km). Predictions are performed twice a day."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d9dd2f8-202e-58cb-a110-e2168832aacb"
+  ],
+  "dct_issued_s": "2022-09-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d9dd2f8-202e-58cb-a110-e2168832aacb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Global Ensemble Prediction System",
+  "gbl_mdModified_dt": "2025-10-15T19:43:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9c34cf10-a314-5ed3-8c46-9cd04393363c",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

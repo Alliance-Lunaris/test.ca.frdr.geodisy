@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Brassicaceae",
+    "climatic characteristics",
+    "SNPs",
+    "phylogenetic non-independence",
+    "R script",
+    "Neutrality",
+    "Capsella bursa-pastoris",
+    "environment",
+    "Population ecology",
+    "differential gene expression analysis",
+    "phylogenetic tree"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dmytro, Kryvokhyzha (Uppsala University).",
+    "Karl, Holm (Uppsala University).",
+    "Jun, Chen (Uppsala University).",
+    "Amandine, Cornille (Centre National de la Recherche Scientifique, Uppsala University).",
+    "Sylvain, Glémin (Uppsala University).",
+    "Stephen I., Wright (University of Toronto).",
+    "Ulf, Lagercrantz (Uppsala University).",
+    "Martin, Lascoux (Uppsala University)."
+  ],
+  "dct_description_sm": [
+    "Population structure is a potential problem when testing for adaptive phenotypic differences among populations. The observed phenotypic differences among populations can simply be due to genetic drift, and if the genetic distance between them is not considered, the differentiation may be falsely interpreted as adaptive. Conversely, adaptive and demographic processes might have been tightly associated and correcting for the population structure may lead to false negatives. Here, we evaluated this problem in the cosmopolitan weed Capsella bursa-pastoris. We used RNA-Seq to analyse gene expression differences among 24 accessions, which belonged to a much larger group that had been previously characterized for flowering time and circadian rhythm and were genotyped using genotyping-by-sequencing (GBS) technique. We found that clustering of accessions for gene expression retrieved the same three clusters that were obtained with GBS data previously, namely Europe, the Middle East and Asia. Moreover, the three groups were also differentiated for both flowering time and circadian rhythm variation. Correction for population genetic structure when analysing differential gene expression analysis removed all differences among the three groups. This may suggest that most differences are neutral and simply reflect population history. However, geographical variation in flowering time and circadian rhythm indicated that the distribution of adaptive traits might be confounded by population structure. To bypass this confounding effect, we compared gene expression differentiation between flowering ecotypes within the genetic groups. Among the differentially expressed genes, FLOWERING LOCUS C was the strongest candidate for local adaptation in regulation of flowering time."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.q83pt",
+    "https://doi.org/10.5061/dryad.q83pt"
+  ],
+  "dct_issued_s": "2016-01-14",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.q83pt\"}",
+  "dct_spatial_sm": [
+    "Middle East",
+    "USA",
+    "Asia",
+    "Europe",
+    "North Africa",
+    "North America"
+  ],
+  "dct_title_s": "Data from: The influence of population structure on gene expression and flowering time variation in the ubiquitous weed Capsella bursa-pastoris (Brassicaceae)",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b75002dd-cd0c-522a-8af3-18a11f6cf9a6",
+  "schema_provider_s": "Dryad"
+}

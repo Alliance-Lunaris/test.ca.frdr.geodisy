@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "SIRR",
+    "Information gouvernementale",
+    "Aérien",
+    "Lidar",
+    "PoleARTM",
+    "3D"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier."
+  ],
+  "dct_description_sm": [
+    "3D topographic representation of the territory in the form of a point cloud.\n\nLiDAR (Light Detection and Ranging) technology makes it possible to represent the Earth's surface topographically in three dimensions using a laser system mounted on board an aircraft. The very large number of 3D points recorded (up to 400,000 per second) makes it possible to obtain a multitude of details at the level of the ground and surface elements.\n\nLiDAR technology quickly, easily, and above all accurately provides the altitude of ground details and elements above ground, even in the presence of dense vegetation.\n\nThe uses are: creation of a digital terrain model (MNT), creation of level curves, creation of level curves, volume calculation, planning, calculation of tree heights, mapping of building roofs, 3D modeling of cities, etc.\n\nSource: XEOS Imaging Inc.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Représentation topographique 3D du territoire sous forme de nuage de points.\n\nLa technologie LiDAR (Light Detection and Ranging) permet de représenter topographiquement en trois dimensions la surface terrestre grâce à un système laser monté à bord d’un aéronef. Le très grand nombre de points 3D relevés (jusqu’à 400 000 par seconde) permet d’obtenir une multitude de détails au niveau du sol et des éléments de surface.\n\nLa technologie LiDAR fournit rapidement, facilement et surtout précisément, l’altitude des détails du sol et des éléments au-dessus du sol, et ce, même en présence de végétation dense.\n\nLes usages sont : création d’un modèle numérique de terrain (MNT), création de courbes de niveau, calcul de volume, planification, calcul de hauteur d’arbres, cartographie des toits de bâtiments, modélisation 3D de villes, etc.\n\nSource : XEOS imagerie inc."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9ae61fa2-c852-464b-af7f-82b169b970d7"
+  ],
+  "dct_issued_s": "2016-06-21",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9ae61fa2-c852-464b-af7f-82b169b970d7\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "LiDAR aérien 2015",
+  "gbl_mdModified_dt": "2026-09-30T17:33:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "19598c5e-9120-5ca4-b54e-bcbc0c633563",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

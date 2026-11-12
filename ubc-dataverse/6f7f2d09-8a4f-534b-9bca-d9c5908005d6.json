@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.245681, -123.232184, 49.253912, 49.247651)",
+  "dcat_keyword_sm": [
+    "agriculture",
+    "remote sensing",
+    "Planet satellite",
+    "normalized difference vegetation index",
+    "small-scale",
+    "time series"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Fromstein, Maya (University of British Columbia). ORCID: https://orcid.org/0000-0002-5873-2250"
+  ],
+  "dct_description_sm": [
+    "Remote sensing is an emerging tool in the agricultural sector with proven diverse applications, including monitoring indicators of soil health and crop productivity. These applications are currently predominantly limited to monocultural large-scale farms, and effectively monitoring small, diverse farms still presents many challenges. However, the high global prevalence of smallholder farms under diversified production warrants further research to expand the potential of remote sensing to small-scale farms. Using the 24-hectare University of British Columbia (UBC) Farm in Vancouver, British Columbia as a case study, this research calculated a Normalized Difference Vegetation Index (NDVI) time series from twelve monthly 3m resolution Planet satellite images from 2019 for the Farm’s annual production plots. NDVI was used as a proxy for soil coverage by vegetation and therein for productivity, and significance was tested for temporal and spatial variations in NDVI values. October was found to be the most productive month, while June was observed to be the least productive. There were no statistically significant differences in NDVI values across the farm plots. The seasonal trend detected from the time series may represent the stronger influences of climate on NDVI over different forms of vegetation. However, unexpected NDVI results may also more accurately reflect variations in activity across the farm throughout the year. This study lays the groundwork for future research with higher spectral, spatial, and temporal resolution imagery (perhaps collected via drones or ground-based robots) to enable finer-scaled analyses of spatial variations in vegetation coverage. These advancements will be necessary to provide more suitable data for informing small-scale farm soil and farm management protocols."
+  ],
+  "dct_identifier_sm": [
+    "154405_73894_115983",
+    "https://doi.org/10.5683/SP2/CVI1EB"
+  ],
+  "dct_issued_s": "2021-04-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/CVI1EB\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Estimating Productivity on the University of British Columbia (UBC, Vancouver Campus) Farm in 2019 using Normalized Difference Vegetation Index (NDVI) Time Series",
+  "gbl_mdModified_dt": "2021-04-12T16:59:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6f7f2d09-8a4f-534b-9bca-d9c5908005d6",
+  "locn_geometry": "ENVELOPE(-123.245681, -123.232184, 49.253912, 49.247651)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

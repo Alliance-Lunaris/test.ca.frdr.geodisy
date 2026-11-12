@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -50.0, 78.2, 41.4)",
+  "dcat_keyword_sm": [
+    "Canada",
+    "Manitoba",
+    "British Columbia",
+    "New Brunswick",
+    "COVID-19 (Disease)",
+    "Public health",
+    "Nunavut",
+    "Newfoundland and Labrador",
+    "Public officers",
+    "Twitter",
+    "Alberta",
+    "Ontario",
+    "Nova Scotia",
+    "Yukon",
+    "Northwest Territories",
+    "Prince Edward Island",
+    "Québec",
+    "Saskatchewan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Paterson, Susan (University of British Columbia). ORCID: https://orcid.org/0000-0001-7661-5827",
+    "Brigham, Doug (University of British Columbia). ORCID: https://orcid.org/0000-0001-8683-2024"
+  ],
+  "dct_description_sm": [
+    "<p>This dataset includes tweets from provincial and territorial government officials. In cases when a health official does not use Twitter (e.g. Dr. Bonnie Henry), other official accounts for the province or territory have been substituted. The dataset does not include tweets from federal government officials. The tweet IDs were collected using Documenting the Now's Twarc library (https://github.com/DocNow/twarc).</p>\n<p>The date of the earliest available tweet is different for each handle. The date of the latest available tweet will not be later than the upload date for each file. See the file-level information below.</p>\n<p>The tweet ids were extracted from the raw JSON files retrieved from Twitter using Twarc. However, Twitter's terms of use do not permit the sharing of the raw JSON files for this dataset. The raw JSON files can be retrieved from Twitter, provided the content is still available, using the 'hydrate' command within Twarc. The researchers retained the source JSON files and may be contacted by other researchers if they wish to access them. The files of tweet ids will be updated over time and this metadata, the files and this readme.txt file will be updated accordingly.</p>\n<p>Raw JSON files were harvested using Twarc's 'timeline' command. The 'timeline' command retrieves the most recent tweets from the specified handle, to a maximum of approximately 3,300 tweets. The data for each handle was collected approximately weekly, starting in January 2021.</p>\n<p>In order not to lose earlier tweets, we concatenated the JSON for each new 'timeline' crawl to the earlier crawls and de-duplicated the combined JSON using Twarc's 'deduplicate' command. We then used Twarc's 'dehydrate' command to extract just the tweet ids from the deduplicate JSON file. Finally, we sorted the tweet ids numerically so that they would appear in ascending date order.</p>\n<p>The basic workflow looks like: twarc timeline --> concatenate JSON files --> deduplicate resulting JSON file --> dehydrate tweet ids --> sort tweet ids.</p>\n<p>The Twitter handles include:\n<ul>\n<li>@ArrudaHoracio: Dr. Horacio Arruda, Directeur national de santé publique et SMA en santé publique MSSS Québec. Tweets in this file start on 2013-03-11.</li>\n<li>@CMOH_Alberta: Dr. Deena Hinshaw, Alberta’s Chief Medical Officer of Health. Tweets in this file start on 2020-03-26.\n<li>@CMOH_NL: Dr. Janice Fitzgerald, Newfoundland and Labrador's Chief Medical Officer of Health. Tweets in this file start on 2020-04-27.</li>\n<li>@GOVofNUNAVUT: Government of Nunavut. Tweets in this file start on 2018-08-20.</li>\n<li>@GlavineLeo: Leo Glavine, MLA Kings West, Nova Scotia, Minister of Health and Wellness, Minister of Seniors. Tweets in this file start on 2017-04-17.</li>\n<li>@HealthNS: Nova Scotia Health. Tweets in this file start on 2019-05-D8.</li>\n<li>@Johnrockdoc: John Haggie, Newfoundland and Labrador's Minister, Health & Community Services. Tweets in this file start on 2020-01-19.</li>\n<li>@IainTRankin: Iain Rankin, Premier of Nova Scotia from 2021-02-23. MLA for Timberlea-Prospect. Tweets in this file start on 2012-08-08.</li>\n<li>@MLAStefanson: Heather Stefanson, Manitoba's Minister of Health and Seniors Care, MLA for Tuxedo Tweets in this file start on 2012-02-11.</li>\n<li>@MerrimanPaul: Paul Merriman. Saskatchewan's Minister of Social Services. Tweets in this file start on 2018-11-18.</li>\n<li>@MinistreMcCann: Danielle McCann. Députée de Sanguinet - Ministre de l'Enseignement supérieur. Tweets in this file start on 2019-03-14.</li>\n<li>@NBHealth: New Brunswick Department of Health. Tweets in this file start on 2013-02-26.</li>\n<li>@NWT_CPHO: Kami Kandola, Northwest Territories Chief Public Officer of Health. Tweets in this file start on 2013-10-16.</li>\n<li>@PFrostOldCrow: Pauline Frost Yukon MLA for Vuntut Gwich'in. Minister of Health and Social Services, Environment and Minister responsible for the Yukon Housing Corporation. Tweets in this file start on 2016-08-05.</li>\n<li>@SaskHealth: Saskatchewan Health Authority official twitter account. Tweets in this file start on 2020-03-15.</li>\n<li>@ShephardDorothy: Dorothy Shephard, Minister of Health for New Brunswick. Tweets in this file start on 2016-04-16.</li>\n<li>@StephenMcNeil: Stephen McNeil, Premier of Nova Scotia from 2013-10-23 to 2021-02-23. MLA for Annapolis. Tweets in this file start on 2017-05-05.</li>\n<li>@adriandix: Adrian Dix, MLA for Vancouver-Kingsway and BC Minister of Health. Tweets in this file start on 2019-09-20.</li>\n<li>@celliottability: Christine Elliott, Deputy Premier of Ontario and Minister of Health, MPP for Newmarket-Aurora. Tweets in this file start on 2018-02-24.</li>\n<li>@epdevilla: Dr. Eileen de Villa, Toronto's Medical Officer of Health. Tweets in this file start on 2013-02-21.</li>\n<li>@jsjaylward: James Aylward, Minister for Transportation & Infrastructure for PEI. MLA for District 6 Stratford-Keppoch. Tweets in this file start on 2015-03-30.</li>\n<li>@juliegreenMLA: Julie Green, NWT Minister of Health and Social Services, Minister Responsible for Persons with Disabilities, Minister Responsible for Seniors, MLA Yellowknife Centre. Tweets in this file start on 2015-12-16.</li>\n<li>@roussin_brent: Dr. Brent Roussin, Manitoba's Chief Provincial Public Health Officer. Tweets in this file start on 2014-09-07.</li>\n<li>@shandro: Tyler Shandro, Alberta's Minister of Health, MLA for Calgary-Acadia. Tweets in this file start on 2020-02-03.</li>\n<li>@yukonhss: Health and Social Services Yukon, official Government of Yukon account. Tweets in this file start on 2011-02-24.</li>\n<li>@zachchurchill: Zach Churchill, Minister of Health and Wellness for Nova Scotia. MLA for Yarmouth. Tweets in this file start on 2013-02-20.</li>\n</ul>\n</p>"
+  ],
+  "dct_identifier_sm": [
+    "150092_150091",
+    "https://doi.org/10.5683/SP2/TOQJFJ"
+  ],
+  "dct_issued_s": "2021-04-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TOQJFJ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences",
+    "Other",
+    "Arts and Humanities"
+  ],
+  "dct_title_s": "Tweets from Canadian provincial & territorial health officials",
+  "gbl_mdModified_dt": "2021-04-12T01:34:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe01bd1f-ebea-509a-8253-113c7dedad2b",
+  "locn_geometry": "ENVELOPE(-142.0, -50.0, 78.2, 41.4)",
+  "pcdm_memberOf_sm": [
+    "Canadian Current Events in Social Media"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

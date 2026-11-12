@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-83.3482, -62.42883, 50.73279, 42.87447)",
+  "dcat_keyword_sm": [
+    "Spectroscopie photoélectronique des rayons X",
+    "Climate",
+    "Utilisation du sol",
+    "Géochimie",
+    "Land use",
+    "Paleolimnology",
+    "Geochemistry",
+    "X-ray spectroscopy"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Baud, Alexandre (McGill University). ORCID: https://orcid.org/0000-0001-6333-1067",
+    "Francus, Pierre (National Institute of Scientific Research, Centre Eau Terre Environnement, Institut National de la Recherche Scientifique, Geotop, INRS, Institut national de la recherche scientifique). ORCID: https://orcid.org/0000-0001-5465-1966",
+    "Gregory-Eaves, Irene (McGill University). ORCID: https://orcid.org/0000-0002-0380-5061",
+    "Antoniades, Dermot (Université Laval, Université Laval Faculté de foresterie de géographie et de géomatique). ORCID: https://orcid.org/0000-0001-6629-4839",
+    "Smol, John Paul (Queen's University). ORCID: https://orcid.org/0000-0002-2499-6696"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: \nDensity:\nmidpoint_depth;Midpoint depth of the measurement interval relative to core top;cm\ndensity;Density expressed in Hounsfield Units from high-resolution CT-scanner;HU\n\nICP-AES:\nmidpoint_depth;Midpoint depth of the discrete sediment interval relative to core top;cm\nicp_aes_al;Aluminium concentration;mg/kg\nicp_aes_as;Arsenic concentration;mg/kg\nicp_aes_ba;Barium concentration;mg/kg\nicp_aes_ca;Calcium concentration;mg/kg\nicp_aes_co;Cobalt concentration;mg/kg\nicp_aes_cr;Chromium concentration;mg/kg\nicp_aes_cu;Copper concentration;mg/kg\nicp_aes_fe;Iron concentration;mg/kg\nicp_aes_k;Potassium concentration;mg/kg\nicp_aes_mg;Magnesium concentration;mg/kg\nicp_aes_mn;Manganese concentration;mg/kg\nicp_aes_na;Sodium concentration;mg/kg\nicp_aes_p;Phosphorus concentration;mg/kg\nicp_aes_pb;Lead concentration;mg/kg\nicp_aes_s;Sulfur concentration;mg/kg\nicp_aes_sr;Strontium concentration;mg/kg\nicp_aes_ti;Titanium concentration;mg/kg\nicp_aes_v;Vanadium concentration;mg/kg\nicp_aes_zn;Zinc concentration;mg/kg\nicp_aes_zr;Zirconium concentration;mg/kg\n\nICP-MS:\nmass;mass sample quantified;g\nmidpoint_depth;Midpoint depth of the discrete sediment interval relative to core top;cm\nicp_ms_cr;Chromium concentration;μg/g\nicp_ms_ni;Nickel concentration;μg/g\nicp_ms_cu;Copper concentration;μg/g\nicp_ms_zn;Zinc concentration;μg/g\nicp_ms_as;Arsenic concentration;μg/g\nicp_ms_cd;Cadmium concentration;μg/g\nicp_ms_pb;Lead concentration;μg/g\n\nXRF:\nmidpoint_depth;Midpoint depth of the measurement interval relative to core top;cm\nitrax_cps;counts per second;cps\nitrax_al;Aluminium;cps\nitrax_ba;Barium;cps\nitrax_ca;Calcium;cps\nitrax_fe;Iron;cps\nitrax_k;Potassium;cps\nitrax_mn;Manganese;cps\nitrax_p;Phosphorus;cps\nitrax_s;Sulfur;cps\nitrax_sr;Strontium;cps\nitrax_ti;Titanium;cps\nitrax_v;Vanadium;cps\nitrax_zr;Zirconium;cps\nitrax_cr;Chromium;cps\nitrax_cu;Copper;cps\nitrax_ni;Nickel;cps\nitrax_zn;Zinc;cps\nitrax_cd;Cadmium;cps\nitrax_pb;Lead;cps\nitrax_ge;Germanium;cps\nitrax_br;Bromine;cps\nitrax_rb;Rubidium;cps\nitrax_mo_inc;Molybdenum Incoherence;cps\nitrax_mo_coh;Molybdenum Coherence;cps\nitrax_inc_coh;Molybdenum Incoherence:Coherence Ratio;ratio",
+    "Measured ITRAX intensities, elemental concentrations obtained via ICP-MS/AES and density profiles obtained via computed-tomography scanner for 37 lakes across Eastern Canada collected by the LakePulse Program in 2017."
+  ],
+  "dct_identifier_sm": [
+    "424901_281357_281358",
+    "https://doi.org/10.5683/SP3/HJDWQV"
+  ],
+  "dct_issued_s": "2022-12-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/HJDWQV\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Measured micro-XRF intensities, elemental concentrations obtained via ICP-MS/AES and density profiles obtained via computed-tomography scanner for 37 Eastern Canadian lakes",
+  "gbl_mdModified_dt": "2023-12-08T14:23:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "76a7340c-0742-5f03-a5ab-7fa9ca8172bd",
+  "locn_geometry": "ENVELOPE(-83.3482, -62.42883, 50.73279, 42.87447)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

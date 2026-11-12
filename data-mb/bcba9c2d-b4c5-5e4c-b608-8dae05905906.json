@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.87781299999995, -94.21477769999996, 58.678250000000055, 49.00000000000004)",
+  "dcat_keyword_sm": [
+    "Angler",
+    "Fish Stocking",
+    "Angling",
+    "Fishing",
+    "River",
+    "Lake",
+    "Canada",
+    "Province of Manitoba",
+    "Fish Species",
+    "Fish",
+    "Stocking",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>Stocking Data is a point layer representing individual stocking events dating back to 1917. Each record contains information such as waterbody name, fish species, fish size and quantities, as well as the fishing division of the waterbody. Stocking data is updated multiple times per year as the Province of Manitoba Hatchery conducts stocking. The stocking data layer, along with related information, can be found at the <a href='https://experience.arcgis.com/experience/2557cda82dcc4a348fbb71304cedcf6d' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Lake Information For Anglers</a> app.</p>\n<p>The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit <a href='https://gov.mb.ca/fish-wildlife/fish/index.html' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Fisheries</a>.</p>\n<p>The dataset includes the following fields (<strong>Alias </strong>(Name): Description)</p>\n<ul>\n<li><strong>Waterbody ID</strong> (WATERBODY_ID): Unique identifier for an individual waterbody.</li>\n<li><strong>Waterbody Name</strong> (WATERBODY_NAME): Name of the waterbody that was stocked.</li>\n<li><strong>Fishing Division</strong> (FISHING_DIVISION): Indicates which fishing division the waterbody is located in and where stocking event took place.</li>\n<li><strong>Year</strong> (YEAR): Year of the stocking event.</li>\n<li><strong>Date </strong>(DATE): Date of the stocking event.</li>\n<li><strong>Species</strong> (SPECIES): Species that was stocked.</li>\n<li><strong>Size</strong> (SIZE): Size of the fish that were stocked.</li>\n<li><strong>Quantity</strong> (QUANTITY): Approximate number of fish stocked.</li>\n<li><strong>Lat (DD)</strong> (LAT_DD): Latitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees.</li>\n<li><strong>Long (DD) </strong>(LONG_DD): Longitudinal coordinates of the stocking event (if recorded, otherwise the representative centroid of the waterbody) in decimal degrees.</li>\n<li><strong>Waterbody Lat</strong> (WATERBODY_LAT): Latitudinal coordinates of the representative centroid of the waterbody in decimal degrees.</li>\n<li><strong>Waterbody Long </strong>(WATERBODY_LONG): Longitudinal coordinates of the representative centroid of the waterbody in decimal degrees.</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "42b7b0930d304ea4a5457cf046507253",
+    "https://www.arcgis.com/home/item.html?id=42b7b0930d304ea4a5457cf046507253"
+  ],
+  "dct_issued_s": "2020-10-02",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-waterbody-stocking-records\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba_Waterbody_Stocking_Records",
+  "gbl_mdModified_dt": "2026-09-04T14:52:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bcba9c2d-b4c5-5e4c-b608-8dae05905906",
+  "locn_geometry": "ENVELOPE(-101.87781299999995, -94.21477769999996, 58.678250000000055, 49.00000000000004)",
+  "schema_provider_s": "Data MB"
+}

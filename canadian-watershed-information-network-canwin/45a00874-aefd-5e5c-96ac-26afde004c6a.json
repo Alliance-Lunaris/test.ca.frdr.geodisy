@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.736734, -27.878552, 46.406174, 22.941725)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The mako shark (Isurus oxyrinchus),  is a species found in Atlantic Canadian waters which is encountered in commercial and recreational fisheries. Pop-up Satellite Archival Tags (PSAT) from Wildlife Computers were applied to mako sharks from 2011 to 2013 to collect data on depth (pressure), temperature and ambient light level (for position estimation). Deployments were conducted in Canada on commercial vessels, typically in summer and fall from July to October. Two types of tag models were deployed: Mk10 (N=28), and MiniPAT (N=9) and 28 of 37 tags reported (one female shark was recaptured). The mako sharks tagged ranged in size from 80 cm to 229 cm Fork Length (curved); 13 were female, 17 were male, and 7 were unknown sex. Time at liberty ranged from 0 – 185 days and 6 tags remained on for the programmed duration. Raw data transmitted from the PSAT’s after release was processed through Wildlife Computers software (GPE3) to get summary files, assuming a maximum swimming speed of 2m/s, NOAA OI SST V2 High Resolution data set for SST reference and ETOPO1-Bedrock dataset for bathymetry reference. The maximum likelihood position estimates are available in .csv and .kmz format and depth and temperature profiles are also in .csv format. Other tag outputs as well as metadata from the deployments can be obtained upon request from: warren.joyce@dfo-mpo.gc.ca or heather.bowlby@dfo-mpo.gc.ca."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ab297ac9-4975-4488-b2db-1045572c0f4a"
+  ],
+  "dct_issued_s": "2025-06-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ab297ac9-4975-4488-b2db-1045572c0f4a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Pelagic Shark Satellite Tag data - Mako Shark",
+  "gbl_mdModified_dt": "2026-08-18T17:30:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "45a00874-aefd-5e5c-96ac-26afde004c6a",
+  "locn_geometry": "ENVELOPE(-75.736734, -27.878552, 46.406174, 22.941725)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -7.7764736)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "For nearly three decades, the SCRIBE system has been used to assist meteorologists in preparing weather reports. The philosophy behind SCRIBE is that a set of weather element matrices are generated for selected stations or sample points and then transmitted to regional weather centers. The matrices are then decoded by SCRIBE and can be modified via the graphical interface by the users. The resulting data is then provided to a text generator, which produces bilingual public forecasts in plain language.  \n  \n  The various rules related to the Scribe matrices hinder scientific innovation, do not exploit the richness of the Numerical Weather Prediction (NWP), reduce the comprehension of meteorological forecasts, and and may require frequent interventions from forecasters.  \n  \n  As part of a larger modernization plan for the Meteorological Service of Canada (MSC), in which the role of the forecaster is evolving, the goal is to replace the Scribe matrices, available on the MSC Datamart, and their limited number of points across Canada with Weather Elements on the Grid (\"WEonG\").  \n  \n  Weather Elements on Grid (WEonG) based on the Regional Deterministic Prediction System (RDPS) is a post-processing system designed to compute the weather elements required by different forecast programs (public, marine, aviation, air quality, etc.). This system amalgamates numerical and post-processed data using various diagnostic approaches. Hourly concepts are produced from different algorithms using outputs from the Regional Deterministic Prediction System (RDPS)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/68d21caf-82f6-4559-ba6f-4200a117a22d"
+  ],
+  "dct_issued_s": "2025-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/68d21caf-82f6-4559-ba6f-4200a117a22d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weather Elements on Grid based on the Regional Deterministic Prediction System [experimental]",
+  "gbl_mdModified_dt": "2025-10-15T12:13:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4aac71c6-f239-5fd8-9b02-77a4f835aa3e",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -7.7764736)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

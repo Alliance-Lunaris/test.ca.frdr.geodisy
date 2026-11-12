@@ -1,0 +1,73 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0912, -122.1317, 48.1177, 54.8551)",
+  "dcat_keyword_sm": [
+    "subsurfacesalinity",
+    "homalco-territory",
+    "commercial-fisheries",
+    "turbidity",
+    "coastal-zone",
+    "nearshore",
+    "temperature-de-surface",
+    "oceans",
+    "johnstone-strait",
+    "juvenile-salmon-program",
+    "water-temperature",
+    "temperature-sous-la-surface",
+    "salish-sea",
+    "photosynthetically-active-radiation",
+    "seasurfacesalinity",
+    "seasurfacetemperature",
+    "oxygen",
+    "calvert-island",
+    "watersheds",
+    "subsurfacetemperature",
+    "courants-sous-marins",
+    "queen-charlotte-sound",
+    "par",
+    "salinity",
+    "oceanography",
+    "quadra-island",
+    "marine-productivity",
+    "phytoplanktonbiomassanddiversity",
+    "fluorescence",
+    "oxygene",
+    "bute-inlet",
+    "transmissometer",
+    "salinite-sous-la-surface",
+    "salinite-de-surface",
+    "subsurfacecurrents",
+    "biomasse-et-diversite-de-phytoplancton",
+    "wirewalker"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Profils verticaux des propriétés de l'eau à partir de moulages embarqués sur des navires et de profileurs autonomes sur la côte de la Colombie-Britannique, au Canada"
+  ],
+  "dct_creator_sm": [
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This collection contains records that describe data (temperature, conductivity, dissolved oxygen, fluorescence, photosynthetic active radiation, turbidity and coloured dissolved organic matter) collected from vertical water property profiles. These data were collected from ship-based casts and autonomous profilers by the Hakai Institute from 2012 to present in waters surrounding Calvert Island, Johnstone Strait, and Quadra Island areas. Users are encouraged to navigate to the individual records holding their data of interest, or request specific data using the Data Access Request Form.\n\nSpecifically, this collection includes CTD datasets made by oceanographic profiler instruments (RBR XR-620, RBR Concerto, RBR Maestro, and Seabird SBE 19plus v2) which have been automatically processed by following respective manufacturer’s guidelines. Both the provisional (no manual QC) and the research-ready dataset are made available. The research-ready dataset provides a subset of the provisional dataset which have been quality controlled by applying a series of tests that are following the QARTOD standards and more tests specific to the Hakai Institute (see Hakai Water Properties Profile Processing and QA/QC Procedure Manual). The research-ready data are judged good for science quality level.\n\nFurther, two versions of a dataset from a C-PROOF (Canadian Pacific Robotic Ocean Observing Facility) Wirewalker are made available. The Wirewalker is a wave-powered profiler moored in Bute Inlet, a fjord on the British Columbia coast. The two versions include provisional data offloaded directly from the instrument, which is the more complete dataset, and real-time data received via a satellite, which is the more current dataset.\n\nData were collected by the Hakai Institute Oceanography Program, the Nearshore Program, and the Juvenile Salmon Program.",
+    "Cette collection contient des dossiers qui décrivent les données (température, conductivité, oxygène dissous, fluorescence, rayonnement photosynthétique actif, turbidité et matière organique dissoute colorée) recueillies à partir de profils verticaux des propriétés de l'eau. Ces données ont été collectées à partir de moulages embarqués et de profileurs autonomes par l'Institut Hakai de 2012 à aujourd'hui dans les eaux entourant les zones de l'île Calvert, du détroit de Johnstone et de l'île Quadra. Les utilisateurs sont invités à accéder aux dossiers individuels contenant les données qui les intéressent ou à demander des données spécifiques à l'aide du formulaire de demande d'accès aux données.\n\nPlus précisément, cette collection comprend des ensembles de données CTD créés par des instruments de profilage océanographique (RBR XR-620, RBR Concerto, RBR Maestro et Seabird SBE 19plus v2) qui ont été traités automatiquement conformément aux directives des fabricants respectifs. L'ensemble de données provisoire (pas de contrôle qualité manuel) et l'ensemble de données prêt pour la recherche sont disponibles. L'ensemble de données prêt pour la recherche fournit un sous-ensemble de l'ensemble de données provisoire dont la qualité a été contrôlée en appliquant une série de tests conformes aux normes QARTOD et d'autres tests spécifiques à l'Institut Hakai (voir Hakai Water Properties Profile Processing and QA/QC Procedure Manual). Les données prêtes pour la recherche sont jugées bonnes pour le niveau de qualité scientifique.\n\nDe plus, deux versions d'un ensemble de données provenant d'un Wirewalker C-PROOF (Centre robotique canadien d'observation des océans du Pacifique) sont disponibles. Le Wirewalker est un profileur houlomoteur amarré à Bute Inlet, un fjord situé sur la côte de la Colombie-Britannique. Les deux versions incluent des données provisoires provenant directement de l'instrument, qui est l'ensemble de données le plus complet, et des données en temps réel reçues via un satellite, qui est l'ensemble de données le plus récent.\n\nLes données ont été recueillies par le programme océanographique de l'Institut Hakai, le programme Nearshore et le programme sur les saumons juvéniles."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/6b8a45c7-9e26-44a3-815a-d34c3e7fb492"
+  ],
+  "dct_issued_s": "2012-06-06",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/6b8a45c7-9e26-44a3-815a-d34c3e7fb492\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_title_s": "Vertical water property profiles from ship-based casts and autonomous profilers in coastal British Columbia, Canada",
+  "gbl_mdModified_dt": "2026-10-10T00:08:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3496b533-dab9-5920-9861-938e6695461d",
+  "locn_geometry": "ENVELOPE(-135.0912, -122.1317, 48.1177, 54.8551)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

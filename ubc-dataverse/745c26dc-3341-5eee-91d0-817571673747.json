@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Sea lice",
+    "Salmon farms",
+    "source-sink dynamic",
+    "marine systems",
+    "next-generation matrix",
+    "metapopulaton"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Harrington, Peter D. (University of British Columbia). ORCID: https://orcid.org/0000-0002-5968-8984",
+    "Cantrell, Danielle L. (California Department of Fish and Wildlife).",
+    "Lewis, Mark A. (University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/fVR3EJbWOZ7SgMUr7R9dSfAXY8C76bCRCk7cnNxF87k</p>\n<p><b>Storage size:</b> 99345939033</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Classifying habitat patches as sources or sinks and determining metapopulation persistence requires coupling connectivity between habitat patches with local demographic rates.  While methods to calculate sources, sinks, and metapopulation persistence exist for discrete-time models, there is no method that is consistent across modelling frameworks. In this paper, we show how next-generation matrices, originally popularized in epidemiology to calculate new infections after one generation, can be used in an ecological context to calculate sources and sinks as well as metapopulation persistence in marine metapopulations. To demonstrate the utility of the method, we construct a next-generation matrix for a network of sea lice populations on salmon farms in the Broughton Archipelago, BC, an intensive salmon farming region on the west coast of Canada where certain salmon farms are currently being removed under an agreement between local First Nations and the provincial government. The column sums of the next-generation matrix can determine if a habitat patch is a source or a sink and the spectral radius of the next-generation matrix can determine the persistence of the metapopulation. With respect to salmon farms in the Broughton Archipelago, we identify the salmon farms which are acting as the largest sources of sea lice and show that in this region, the most productive sea lice populations are also the most connected. The farms which are the largest sources of sea lice have not yet been removed from the Broughton Archipelago, and warming temperatures could lead to increased sea louse growth. Calculating sources, sinks and persistence in marine metapopulations using the next-generation matrix is biologically intuitive, mathematically equivalent to previous methods, and consistent across different modelling frameworks.</p>",
+    "<b>Usage notes</b><br /><p>Sea lice particle tracking data for a simulation of sea lice particles released from 20 farms in the Broughton Archipelago, Canada, from March 4th to July 20th, 2009. The output files are stored in netCDF format and so software that can read netCDF files is required to open the data files (R, MATLAB, and others). The associated R code was used to run the analysis in the manuscript. See README.txt file for details.</p>"
+  ],
+  "dct_identifier_sm": [
+    "465358_150149",
+    "https://doi.org/10.5683/SP3/XOZLIZ"
+  ],
+  "dct_issued_s": "2023-04-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XOZLIZ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Next-generation matrices for marine metapopulations: the case of sea lice and salmon farms",
+  "gbl_mdModified_dt": "2023-04-20T13:19:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "745c26dc-3341-5eee-91d0-817571673747",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

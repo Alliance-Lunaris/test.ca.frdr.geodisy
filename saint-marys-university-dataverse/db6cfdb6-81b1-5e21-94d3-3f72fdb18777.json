@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Spectra, Spectrometer, Retrieval, Atmospheric Sciences, Environmental Sciences, Remote Sensing, Air Pollution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Power, Cameron (St. Mary's University, Saint Mary's University). ORCID: https://orcid.org/0009-0009-4717-5805",
+    "Wiacek, Aldona (Saint Mary's University). ORCID: https://orcid.org/0000-0003-4181-2497"
+  ],
+  "dct_description_sm": [
+    "The creators of this dataset have been supported by the Canadian Space Agency (grant no. 16SUASMPTN), the Canadian National Sciences and Engineering Research Council through the Discovery Grants Programme (grant no. RGPIN-2014-03888, RGPIN-2022-05225), and Saint Mary’s University.",
+    "This dataset contains spectral measurements and retrieval fits from three experiments, 1) Halifax Harbour (2018/08/02 - 2018/10/12) 2) Halifax Harbour (2020/12/04 - 2021/12/04), and Saint Mary's University (2022/11/03 - 2023/07/13). The measurement technique and retrieval approach is described and analyzed in a paper in the journal Atmospheric Measurement Techniques by Cameron Power and Aldona Wiacek (2024 [preprint], https://doi.org/10.5194/amt-2024-97).\n \nThis dataset includes three .zip archive:\n\"2018_Data.zip\"\n\"2021_Data.zip\"\n\"2023_Data.zip\"\n \nWhen unzipped these archives contain directories corresponding to each measurement folder (note that when unzipped the dataset will require ~13.4 GB of space). Each measurement folder name specifies the date and time that measurements began (Ex.\nfile name = \"(2020_12_18_17_33_12_898)...\"  then measurement start date/time = 2020/12/18 17:33:12.898 ADT). Contained in each measurement folder there is a folder containing retrieval information and a .tim file which contains temporal information in seconds elapsed since file start (Ex., if the first row in the .tim file is \"258.423\" and the measurement folder is entitled \"2020_12_18_17_33_12_898)...\", then the first measurement was made at 2020/12/18 17:33:12.898 + 258.423 = 2020/12/18 17:37:31.321). Within each retrieval folder (H2CO_*version) is a folder entitled \"FIT\" which contains the spectral information in plain text (.txt format) of the measured spectrum and fitted gases within the spectral range 2745nm - 2800 wn, one .txt file per spectrum. Each file contains the columns Wavenumber, Measured, Fitted, Residual, H2O, H2CO, N2O, and CH4 with the units of normalized transmittance, apart from Wavelength. Note that the column \"Measured\" is the raw intensity while the remaining columns are outputs from the spectral fitting program used (\"Residual\" is the difference of \"Measured\" and \"Fitted\"), including component gas contributions to \"Fitted\".\n \nAll spectral measurements were recorded using a Bruker Open Path Air Monitoring System, recording over the 650 – 5000 cm-1 with an MCT detector and spectral resolution of 0.5 cm-1. Data acquisition was handled with the OPUS RS gas analysis software from Bruker."
+  ],
+  "dct_identifier_sm": [
+    "937484",
+    "https://doi.org/10.5683/SP3/734MWB"
+  ],
+  "dct_issued_s": "2025-06-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/734MWB\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Spectral Measurements and Formaldehyde Retrievals from Halifax Harbour and Saint Mary's University Atmospheric Observatory (2018, 2021, and 2023)",
+  "gbl_mdModified_dt": "2025-06-03T13:25:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "db6cfdb6-81b1-5e21-94d3-3f72fdb18777",
+  "schema_provider_s": "Saint Mary's University Dataverse"
+}

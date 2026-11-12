@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, -50.0, 90.0, 10.0)",
+  "dcat_keyword_sm": [
+    "ERA5",
+    "Physics—Meteorology. Climatology—Aqueous vapor—Rain and rainfall—Instruments and apparatus",
+    "10-meter wind speed",
+    "Sea Level Pressure",
+    "Température atmosphérique",
+    "Précipitations (Météorologie)--Mesure",
+    "Vents--Vitesse--Mesure",
+    "Stations de recherche",
+    "2-meter Air Temperature",
+    "Integrated Surface Database",
+    "Precipitation",
+    "2-meter Dew Point Temperature",
+    "Point de rosée"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Collet, François (UQAM | Université du Québec à Montréal).",
+    "Di Luca, Alejandro (UQAM | Université du Québec à Montréal, Université du Québec à Montréal. Département des sciences de la terre et de l'atmosphère, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961",
+    "Chen, Ting-Chen (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9254-2314"
+  ],
+  "dct_description_sm": [
+    "The NA-ISD2ERA is a station-based gridded dataset of hourly 10-m wind speed, surface total precipitation, sea-level pressure, and 2-m air and dew point temperature observations interpolated on the regular 0.25° latitude-longitude ERA5 grid over North America for the 1990-2021 period. Station observations are from the Integrated Surface Database (ISD) developed by the National Centers for Environmental Information (NCEI) of the National Oceanic and Atmospheric Administration (NOAA) (Smith et al. 2011). It includes over 35,000 weather stations around the world of hourly to sub-hourly in situ observations for numerous variables such as wind speed, precipitation, sea-level pressure, air and dew point temperature. The NCEI ISD dataset is available at https://www.ncei.noaa.gov. ERA5 is the fifth generation of the European Centre for Medium-Range Weather Forecasts (ECMWF) reanalysis (Hersbach et al., 2020). Quality checks implemented in ISD are used to select reliable observations. For each ERA5 grid cell and at each hour, the data are interpolated by taking the nearest available ISD observation to the grid cell center that is located within the targeted grid cell."
+  ],
+  "dct_identifier_sm": [
+    "373273",
+    "https://doi.org/10.5683/SP3/LWMGRM"
+  ],
+  "dct_issued_s": "2022-09-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LWMGRM\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Amérique du Nord"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "North America ISD to ERA5 (NA-ISD2ERA) Catalogue",
+  "gbl_mdModified_dt": "2024-01-12T13:59:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dd3cfe2e-f5a5-5cc7-a1fc-b15a139678b8",
+  "locn_geometry": "ENVELOPE(-180.0, -50.0, 90.0, 10.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

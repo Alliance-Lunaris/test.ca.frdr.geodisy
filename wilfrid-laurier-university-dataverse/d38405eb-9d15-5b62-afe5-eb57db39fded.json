@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.3716667, -67.76111111, 64.52472222, 43.51138889)",
+  "dcat_keyword_sm": [
+    "size-exclusion chromatography",
+    "Canada ecozones",
+    "dissolved organic matter",
+    "freshwater",
+    "DOM composition",
+    "limnology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Aukes, Pieter (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0003-0759-2187",
+    "Schiff, Sherry (University of Waterloo). ORCID: https://orcid.org/0000-0002-7704-7304",
+    "Venkiteswaran, Jason (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-6574-7071",
+    "Elgood, Richard (University of Waterloo).",
+    "Spoelstra, John (Environment and Climate Change Canada). ORCID: https://orcid.org/0000-0001-9912-6807"
+  ],
+  "dct_description_sm": [
+    "***VERSION HISTORY / CHANGELOG ***<br>\nv1   - 20200717 - Published Dataset <br>\nv2   - 20201209 - Adjustments to Dataset Title, Related Publications. Corrected spelling errors in metadata.  Embedded Data Dictionary directly into readme and metadata<br>\nv2.1 - 20210112 - Adjustment to Dataset Author List<br><br>\n*** DATA DICTIONARY ***<br>\n<p>Variable, with definition and units (when applicable) </p>\n\n<ul>\n<li>Env </li>\n<ul>\n<li>Collection from surface water (SW) or groundwater (GW) </li>\n</ul>\n\n<li>Location </li>\n<ul>\n<li>Name of site location </li>\n</ul>\n\n<li>Ecozone</li>\n<ul>\n<li>Ecozone where ‘Location’ is found </li>\n</ul>\n\n<li>Type </li>\n<ul>\n<li>Hydrological compartment that was sampled </li>\n</ul>\n\n<li>LocType </li>\n<ul>\n<li>Combination of Location and Type </li>\n</ul>\n\n<li>Sample </li>\n<ul>\n<li>Exact name of hydrological body where sample was taken </li>\n</ul>\n\n<li>DOC </li>\n<ul>\n<li>Concentration of dissolved organic matter (mg C / L)</li>\n</ul>\n\n<li>Hpho </li>\n<ul>\n<li>LC-OCD concentration of hydrophobics (mg C / L)</li>\n</ul>\n\n<li>Hpho_perc </li>\n<ul>\n<li>Proportion of hydrophobic based on initial DOC concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>Hphi </li>\n<ul>\n<li>LC-OCD concentration of hydrophilics (sum of all eluted components) (mg C / L)</li>\n</ul>\n\n<li>Hphi_perc </li>\n<ul>\n<li>Proportion of hydrophilics based on initial DOC concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>BP </li>\n<ul>\n<li>LC-OCD concentration of ‘biopolymer’ fraction (mg C / L)</li>\n</ul>\n\n<li>BP_perc </li>\n<ul>\n<li>Proportion of the ‘biopolymer’ fraction based on concentration of BP divided by the Hphi concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>HS </li>\n<ul>\n<li>LC-OCD concentration of ‘humic substances’ fraction (mg C / L)</li>\n</ul>\n\n<li>HS_perc </li>\n<ul>\n<li>Proportion of the ‘humic substances’ fraction based on concentration of HS divided by the Hphi concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>BB </li>\n<ul>\n<li>LC-OCD concentration of ‘building blocks’ fraction (mg C / L)</li>\n</ul>\n\n<li>BB_perc </li>\n<ul>\n<li>Proportion of the ‘building blocks’ fraction based on concentration of BB divided by the Hphi concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>LMWN </li>\n<ul>\n<li>LC-OCD concentration of ‘low molecular weight neutrals’ fraction (mg C / L)</li>\n</ul>\n\n<li>LMWN_perc </li>\n<ul>\n<li>Proportion of the ‘low molecular weight neutrals’ fraction based on concentration of LMWN divided by the Hphi concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>LMWA </li>\n<ul>\n<li>LC-OCD concentration of ‘low molecular weight acids’ fraction (mg C / L)</li>\n</ul>\n\n<li>LMWA_perc </li>\n<ul>\n<li>Proportion of the ‘low molecular weight acids’ fraction based on concentration of LMWA divided by the Hphi concentration (Proportion (0 – 1) )</li>\n</ul>\n\n<li>SUVA </li>\n<ul>\n<li>Specific ultraviolet absorbance at 255nm (SUVA) (L / (mg m) )</li>\n</ul>\n\n</ul>",
+    "Field collection of freshwater surface and groundwater samples from five ecozones across Canada. Concentration and composition (via UV-absorbance and size-exclusion chromatography) of dissolved organic matter were analyzed across all sites and compared across hydrologic compartments to identify similarities in dissolved organic matter (DOM)."
+  ],
+  "dct_identifier_sm": [
+    "106406",
+    "https://doi.org/10.5683/SP2/ZRGXQ5"
+  ],
+  "dct_issued_s": "2020-07-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/ZRGXQ5\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada",
+    "Northwest Territories, Canada",
+    "Yellowknife, Northwest Territories, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "New Brunswick, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data used in 'Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones'",
+  "gbl_mdModified_dt": "2021-01-12T15:22:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d38405eb-9d15-5b62-afe5-eb57db39fded",
+  "locn_geometry": "ENVELOPE(-114.3716667, -67.76111111, 64.52472222, 43.51138889)",
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

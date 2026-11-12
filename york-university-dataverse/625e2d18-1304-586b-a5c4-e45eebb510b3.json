@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "3D model, computer-aided design, geometric deep learning"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Fox-Gieg, Nick (York University)."
+  ],
+  "dct_description_sm": [
+    "License: https://www.onshape.com/legal/terms-of-use#your_content",
+    "ABC-Draco is a GLTF Draco conversion of the NYU ABC-Dataset. \"Each model is a collection of explicitly parametrized curves and surfaces, providing ground truth for differential quantities, patch segmentation, geometric feature detection, and shape reconstruction. Sampling the parametric descriptions of surfaces and curves allows generating data in different formats and resolutions, enabling fair comparisons for a wide range of geometric learning algorithms.\" (Sebastian Koch et al. 2019) The collection contains 751,407 dense point clouds with normals; using lossy Draco compression, the total file size is approximately two orders of magnitude smaller than the original, which makes this version useful in more resource-constrained environments. License terms are identical to the original dataset."
+  ],
+  "dct_identifier_sm": [
+    "717457_717448",
+    "https://doi.org/10.5683/SP3/QGGXYJ"
+  ],
+  "dct_issued_s": "2024-03-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QGGXYJ\"}",
+  "dct_rights_sm": [
+    "License: https://www.onshape.com/legal/terms-of-use#your_content"
+  ],
+  "dct_subject_sm": [
+    "Arts and Humanities",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Data for: ABC-Draco",
+  "gbl_mdModified_dt": "2025-11-06T14:07:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "625e2d18-1304-586b-a5c4-e45eebb510b3",
+  "pcdm_memberOf_sm": [
+    "ABC-Draco"
+  ],
+  "schema_provider_s": "York University Dataverse"
+}

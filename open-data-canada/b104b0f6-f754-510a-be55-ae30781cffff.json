@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Inventaire forestier",
+    "Exposition topographique",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "Chablis",
+    "DIF",
+    "Inventaire écoforestier",
+    "Topographie",
+    "TOPEX",
+    "Vent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des inventaires forestiers."
+  ],
+  "dct_description_sm": [
+    "TOPEX (acronym which means “topographical exposure”) is an index of topographic exposure. It reflects the influence of local topography on the degree of exposure to wind and on its behavior (Ruel et al. 2002). \n\nTOPEX data are presented in the form of a matrix file (raster) whose spatial resolution is 50 m with a projection in Nad 1983 Quebec Lambert. \n\nThis raster covers the entire territory of Quebec located approximately south of 52°40' and west of 61°10' and extends beyond the borders of Quebec by 75 to 125 m (in order to have values on the entire Quebec territory covered).\n\nTOPEX values were calculated using the Digital Terrain Model (DTM) from the NASA Shuttle Radar Topography Mission (SRTM). This MNT is provided in a WGS 84 projection (EPSG: 4326) with a resolution of one arcsecond (+/- 30 m). A mosaic of the SRTM tiles was created to then project the MNT into Lambert and resample it at 50 m.\n\nTOPEX can be used as an input in a windfall vulnerability assessment system. However, it should be borne in mind that this index does not take into account the wind channeling effect that may occur in certain places and that can influence windfall. In addition, other factors must be taken into consideration in order to carry out a complete analysis of the risk of windfall. \n\nRUEL, J.-C., S. J. MITCHELL and M. DORNIER, 2002. A GIS based approach to map wind exposure for windthrow hazard rating. Northern Journal of Applied Forestry, 19 (4): 183-187.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Le TOPEX (sigle qui signifie « topographical exposure ») est un indice d’exposition topographique. Il traduit l’influence de la topographie locale sur le degré d’exposition au vent et sur son comportement (Ruel et al. 2002). \n\nLes données de TOPEX sont présentées sous la forme d’un fichier matriciel (raster) dont la résolution spatiale est de 50 m avec une projection en Nad 1983 Québec Lambert. \n\nCe raster couvre tout le territoire du Québec situé approximativement au sud de 52°40‘ et à l’ouest de 61°10‘ et déborde de 75 à 125 m les frontières du Québec (afin d’avoir des valeurs sur l’ensemble du territoire québécois couvert).\n\nLes valeurs de TOPEX ont été calculées à partir du Modèle numérique de terrain (MNT) de la NASA Shuttle Radar Topography Mission (SRTM). Ce MNT est fourni en projection WGS 84 (EPSG : 4326) d’une résolution d’une seconde d’arc (+/- 30 m). Une mosaïque des tuiles SRTM a été constituée pour ensuite projeter le MNT en Lambert et le ré-échantillonner à 50 m.\n\nLe TOPEX peut servir d’intrant dans un système d’évaluation de la vulnérabilité au chablis. Il faut cependant garder à l’esprit que cet indice ne prend pas en compte l’effet de canalisation du vent qui peut survenir en certains lieux et qui peut influencer le chablis. De plus, d’autres facteurs sont à prendre en considération pour réaliser une analyse complète du risque de chablis. \n\nRUEL, J.-C., S. J. MITCHELL et M. DORNIER, 2002. A GIS based approach to map wind exposure for windthrow hazard rating. Northern Journal of Applied Forestry, 19(4): 183-187."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5b592411-0d27-4d2d-9cba-ce669a767645"
+  ],
+  "dct_issued_s": "2019-09-16",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5b592411-0d27-4d2d-9cba-ce669a767645\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "TOPEX",
+  "gbl_mdModified_dt": "2026-09-30T18:05:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b104b0f6-f754-510a-be55-ae30781cffff",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

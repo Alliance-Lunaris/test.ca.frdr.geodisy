@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Provide Climate Information Products and Services",
+    "Climat",
+    "Livrer aux clients des produits et des services liés au climat",
+    "Climate",
+    "Climate change",
+    "Fournir des services et des produits d'information sur le climat",
+    "Changement climatique",
+    "Deliver Climate Products and Services to Clients",
+    "Wind",
+    "Vent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données homogénéisées sur la vitesse du vent au Canada (CanHomW)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Version 2 of the Canadian homogenized wind speed (CanHomW V2) datasets contain homogenized monthly and daily mean wind speed data series for the period 1953-2023 for 154 long-term stations in Canada. As detailed in Wang et al. (2025), the monthly dataset (CanHomW mlyV2) was produced using a modified version of the comprehensive semi-automatic changepoint detection procedure developed by Wang et al. (2023), which includes homogeneity testing with and without using a reference series. To produce the homogenized daily wind speed dataset (CanHomW dlyV2), daily wind speed data series were tested to find the most probable day of an artificial change detected in the corresponding monthly data series whenever the exact date of change in the daily series is undocumented. The Twentieth Century Reanalysis 20CRv3 ensemble-mean series of monthly wind speeds (Slivinski et al., 2019), 49 monthly mean geostrophic wind speeds derived from surface pressure data, and up to four nearest stations’ data series were used as reference in the homogeneity tests. However, no reference was used to adjust the data series to diminish the detected inhomogeneities. This is because the density of long-term wind observing stations in Canada is too low to find a representative reference series to use for estimating reliable adjustments to homogenize the data series. A modified version of the quantile matching (QM) adjustment method with no reference (Wang et al. 2010) was used to homogenize the data series. The QM method adjusts the whole distribution of the data in one segment to match another, rather than just adjust the mean. The modifications here include an approach to prevent having unphysical negative values in the homogenized wind speed series (see Wang et al. 2025 for more details). Despite the higher uncertainty arising from applying adjustments estimated without using a reference series, compared to when applying adjustments estimated using a representative reference series (if such a reference were available), this is the best (i.e., most usable for trend assessment) Canadian homogenized wind speeds dataset that has been produced to date. For transparency and traceability, the raw (original/unhomogenized) data series along with the station joining information are included in the CanHomW datasets. Trends in the raw and homogenized data are analyzed and discussed in Wang et al. (2025).    \n\nReferences:\nWang, X.L., Y. Feng, V. Isaac, F. W. Zwiers, L. A., Vincent, and M. Hartwell, 2025: Observed Surface Wind Speed Trends Inferred from Homogenized in Situ Data and Reanalysis Datasets. Atmosphere-Ocean iFirst article, 2025, 1-17, https://doi.org/10.1080/07055900.2025.2570920.\nWang, X.L, Y. Feng, V. Y. S. Cheng, H. Xu, 2023: Observed precipitation trends inferred from Canada’s homogenized monthly precipitation dataset, J. Clim., 36, 7957-7971. DOI: 10.1175/JCLI-D-23-0193.1. \nWang, X. L., Chen, H., Wu, Y., Feng, Y., & Pu, Q. (2010). New Techniques for the Detection and Adjustment of Shifts in Daily Precipitation Data Series. Journal of Applied Meteorology and Climatology, 49(12), 2416–2436. https://doi.org/10.1175/2010JAMC2376.1.\nSlivinski, L. and coauthors, 2019: Towards a more reliable historical reanalysis: Improvements for version 3 of the Twentieth Century Reanalysis system. Q. J. R. Meteor. Soc., 2876-2908, https://doi.org/10.1002/qj.3598.",
+    "La version 2 des ensembles de données homogénéisées sur la vitesse du vent au Canada (CanHomW V2) contient des séries de données homogénéisées sur les vitesses du vent moyennes mensuelles et quotidiennes. Ces données ont été recueillies de 1953 à 2023 par 154 stations à long terme au Canada. Comme le décrivent Wang et al. (2025), l’ensemble de données mensuelles (CanHomW mlyV2) a été produit à l’aide d’une version modifiée de la procédure de détection semi-automatisée de points de changement élaborée par Wang et al. (2023), qui comprend des tests d’homogénéité effectués avec et sans séries de référence. Pour produire l’ensemble de données homogénéisées sur la vitesse du vent quotidienne (CanHomW dlyV2), des séries de données sur les vitesses du vent quotidiennes ont été testées pour déterminer le jour le plus probable d’un changement artificiel détecté dans la série mensuelle correspondante, dans les cas où la date exacte du changement dans la série quotidienne n’a pas été consignée. Les séries de moyennes d’ensemble des vitesses du vent mensuelles de la réanalyse du 20e siècle (20Crv3; Slivinski et al., 2019), 49 moyennes mensuelles de vitesse du vent géostrophique dérivées des données sur la pression à la surface et les séries de données des stations les plus proches (jusqu’à 4 stations) ont été utilisées comme références pour les tests d’homogénéité. Cependant, aucune référence n’a été utilisée pour ajuster les séries de données afin de réduire les inhomogénéités détectées. Il n’y avait aucune série de référence représentative pour estimer des ajustements fiables afin d’homogénéiser la série de données parce que la densité des stations de mesure du vent à long terme au Canada est trop faible. Une version modifiée de la méthode d’ajustement par mise en correspondance de quantiles sans recours à une série de référence (Wang et al., 2010) a été utilisée pour homogénéiser les séries de données. Cette méthode consiste à ajuster la distribution des données dans un segment pour assurer la correspondance avec un autre segment, plutôt que de simplement ajuster la moyenne. Les modifications apportées à cette méthode comprennent une approche pour éviter les valeurs négatives non physiques dans les séries de données homogénéisées sur la vitesse du vent. Consulter Wang et al. (2025) pour obtenir de plus amples renseignements sur la méthode utilisée. Par rapport aux ajustements estimés d’après une série de référence représentative (dans le cas où une telle référence est disponible), le degré d’incertitude est plus élevé lorsque l’estimation des ajustements ne repose pas sur une série de référence, mais il s’agit tout de même du meilleur ensemble de données homogénéisées sur la vitesse du vent au Canada produit à ce jour. Pour des raisons de transparence et de traçabilité, les séries de données brutes (originales et non homogénéisées) et l’information sur la fusion des stations sont incluses dans les ensembles de données CanHomW. Les tendances des données brutes et homogénéisées sont abordées et analysées par Wang et al. (2025).    \n\nRéférences\nWang, X.L., Y. Feng, V. Isaac, F.W. Zwiers, L.A. Vincent et M. Hartwell. 2025. Observed Surface Wind Speed Trends Inferred from Homogenized in Situ Data and Reanalysis Datasets. Atmosphere-Ocean iFirst article, 2025, 1-17. https://doi.org/10.1080/07055900.2025.2570920.\nWang, X.L, Y. Feng, V.Y.S. Cheng et H. Xu. 2023. Observed precipitation trends inferred from Canada’s homogenized monthly precipitation dataset. J. Clim., 36, 7957-7971. DOI : 10.1175/JCLI-D-23-0193.1. \nWang, X.L., H. Chen, Y. Wu, Y. Feng et Q. Pu. New Techniques for the Detection and Adjustment of Shifts in Daily Precipitation Data Series. Journal of Applied Meteorology and Climatology, 49 (12), 2416–2436. https://doi.org/10.1175/2010JAMC2376.1.\nSlivinski, L. et al. 2019. Towards a more reliable historical reanalysis: Improvements for version 3 of the Twentieth Century Reanalysis system. Q. J. R. Meteor. Soc., 2876-2908. https://doi.org/10.1002/qj.3598."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/95aa709b-4a2b-4875-a7dd-87030dc65fdc"
+  ],
+  "dct_issued_s": "2026-01-09",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/95aa709b-4a2b-4875-a7dd-87030dc65fdc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canadian Homogenized Wind Speed (CanHomW)",
+  "gbl_mdModified_dt": "2026-08-04T18:31:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ea45279d-a016-532f-96ec-20459cfcaa8a",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

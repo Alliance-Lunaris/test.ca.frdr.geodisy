@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "clouds",
+    "High Arctic",
+    "CANDAC",
+    "lidar",
+    "PEARL"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "McCullough, Emily (Dalhousie University)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains measurements made using the CANDAC Rayleigh-Mie-Raman Lidar in Eureka, Nunavut, Canada, during 2016-2019. \n\nThe Matlab (.mat) data files contain range-scaled 532 nm signal as a function of time and altitude from 0 - 5 km above the lidar. The image (.png) files are the associated plots. Data resolution is 1 minute x 7.5 metres. The spreadsheets (.csv) give the classification for each day according to whether clouds with thin laminations were present, and the ECCC weather conditions reported at ground level for each day.\n\nAdditional details in README files and in data file headers."
+  ],
+  "dct_identifier_sm": [
+    "145098_126604_145097",
+    "https://doi.org/10.5683/SP2/ST9YSB"
+  ],
+  "dct_issued_s": "2021-11-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/ST9YSB\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Eureka, Nunavut, Canada"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Replication Data for: The relationship between clouds containing multiple layers 7.5 - 30 m thick and surface weather conditions",
+  "gbl_mdModified_dt": "2021-11-24T21:19:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1ab43927-1477-52a9-b60a-7dddc57d34e8",
+  "pcdm_memberOf_sm": [
+    "Emily McCullough dataverse // CRL Dataverse"
+  ],
+  "schema_provider_s": "Dalhousie University Dataverse"
+}

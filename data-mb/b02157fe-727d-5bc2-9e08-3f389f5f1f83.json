@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.877, -95.9727, 55.7829, 49.00509999999999)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Canada",
+    "health",
+    "Government",
+    "licensing",
+    "standards review",
+    "Province of Manitoba",
+    "Licensed Personal Care Homes",
+    "health services",
+    "Manitoba Government",
+    "Manitoba",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>This is a feature point layer of the 124 licensed personal care homes (PCHs) in Manitoba. All licensed PCHs in Manitoba are required to comply with minimum standards of care as set out in the&nbsp;<a target='_blank' href='https://web2.gov.mb.ca/laws/regs/current/_pdf-regs.php?reg=30/2005' rel='nofollow ugc noopener noreferrer'>Personal Care Home Standards Regulation</a>&nbsp;under the&nbsp;<a target='_blank' href='https://web2.gov.mb.ca/laws/statutes/ccsm/h035e.php' rel='nofollow ugc noopener noreferrer'>Health Services Insurance Act</a>. The Licensing and Compliance Branch of Manitoba Health Seniors and Active Living monitors compliance through regular review processes. PCH operators are required to take the necessary steps to address concerns identified in the course of reviews within specified time lines and must provide status updates until concerns have been addressed. PCH licences are reviewed and renewed annually and review findings are used to inform decision-making.&nbsp;</p><div>&nbsp;</div><div>The dataset includes the following fields (<strong>Alias </strong>(Name): Description)&nbsp;</div><div>&nbsp;</div><div><strong>Regional Health Authority</strong> (Regional_Health_Authority): The name of the Regional Health Authority in which the facility is located.&nbsp;</div><div><strong>Community </strong>(Community): The name of the community in which the facility is located.&nbsp;</div><div><strong>Facility</strong> (Facility): The name of the licensed personal care home.&nbsp;</div><div><strong>Facility Key</strong> (Facility_Key): Primary key used to query records in the&nbsp;<a target='_blank' href='https://manitoba.maps.arcgis.com/home/item.html?id=7852dd45b15a411c94f865463140c3d8' rel='nofollow ugc noopener noreferrer'>Summary Reviews</a>&nbsp;table.&nbsp;</div><div><strong>Facility Label</strong> (Facility_Label): An abbreviated facility name suitable for use as a label in a map.&nbsp;</div><div><strong>Address </strong>(Address): The street address of the facility.&nbsp;</div><div><strong>Postal Code</strong> (Postal_Code): The postal code for the facility.&nbsp;</div><div><strong>Phone Number</strong> (Phone_Number): The phone number for the facility.&nbsp;</div><div><strong>For Profit </strong>(For_Profit): Yes / No Indicator<strong>&nbsp;</strong></div><div><strong>Not For Profit Board Owned and Operated </strong>(Not_For_Profit_Board_Owned_And_Operated): Yes / No Indicator<strong>&nbsp;</strong></div><div><strong>Not For Profit Regional Owned and Operated </strong>(Not_For_Profit_Regional_Owned_And_Operated): Yes / No Indicator<strong>&nbsp;</strong></div><div><strong>Language</strong> (Language): The designated language of the facility, either <i>English </i>or <i>Bilingual</i>.&nbsp;</div><div><strong>Bed</strong> (Beds): The number of beds in the facility.&nbsp;</div><div><strong>Status of Licence</strong> (Status_of_Licence): The status of the facility’s license. Possible values are <i>Unencumbered</i>, <i>Under Review</i>, or <i>With Conditions</i>.&nbsp;</div><div><strong>Owner/Operator</strong> (Owner_Operator): The individual or company that owns the facility.&nbsp;</div><div><strong>Website </strong>(Website): The URL for the website of the facility.&nbsp;</div><div><strong>Latitude </strong>(Latitude): The latitudinal coordinate in decimal degrees.&nbsp;</div><div><strong>Longitude </strong>(Longitude): The longitudinal coordinate in decimal degrees.</div><div>&nbsp;</div><div>This feature point layer forms part of the data for the <a target='_blank' href='https://manitoba.maps.arcgis.com/home/item.html?id=377738fc4aa44ee38678283d4fa9c9e8' rel='nofollow ugc noopener noreferrer'>Manitoba Personal Care Home Reporting</a> app.</div><div>&nbsp;</div>"
+  ],
+  "dct_identifier_sm": [
+    "c808676f98cf4fc4ad56e9c8c6bbc9d0",
+    "https://www.arcgis.com/home/item.html?id=c808676f98cf4fc4ad56e9c8c6bbc9d0"
+  ],
+  "dct_issued_s": "2020-12-01",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-licence-personal-care-homes\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba  Licence  Personal Care Homes",
+  "gbl_mdModified_dt": "2026-08-25T18:34:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b02157fe-727d-5bc2-9e08-3f389f5f1f83",
+  "locn_geometry": "ENVELOPE(-101.877, -95.9727, 55.7829, 49.00509999999999)",
+  "schema_provider_s": "Data MB"
+}

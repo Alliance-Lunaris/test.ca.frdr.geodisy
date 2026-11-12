@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.756493, -65.495799, 43.672872, 43.07938)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Biophysical",
+    "Benthoscape",
+    "Benthic Habitat",
+    "Banc German",
+    "German Bank",
+    "Habitats benthiques",
+    "Océan",
+    "biophysique",
+    "Benthique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte benthique du banc German"
+  ],
+  "dct_creator_sm": [
+    "Population Ecology Division / Division de l’écologie des population."
+  ],
+  "dct_description_sm": [
+    "The data layer (.shp) presented is the result of an unsupervised classification method for classifying seafloor habitat on German Bank (off South West Nova Scotia, Canada). This method involves separating environmental variables derived from multibeam bathymetry (Slope, Curvature) and backscatter (principal components: Q1, Q2, and Q3) into spatial units (i.e. pixels) and classifying the acoustically separated units into 5 habitat classes (Reef, Glacial Till, Silt, Silt with Bedforms, and Sand with Bedforms) using in situ data (imagery). Benthoscape classes (synonymous to landscape classifications in terrestrial ecology) describe the geomorphology and biology of the seafloor and are derived from elements of the seafloor that were acoustically distinguishable.\n\nUnsupervised classifications (acoustic classifications) optimized at 15 classes using Idrisi CLUSTER method (pixel based)\n\nNumber representing the benthoscape classes (CLASS) derived from in situ imagery and video (See Brown et al., 2012, Figure 3, Table 1).\nBenthoscape classes (See Brown et al., 2012, Figure 3).\n\nReference:\nBrown, C. J., Sameoto, J. A., & Smith, S. J. (2012). Multiple methods, maps, and management applications: Purpose made seafloor maps in support of ocean management. Journal of Sea Research, 72, 1–13. https://doi.org/10.1016/j.seares.2012.04.009\n\nCite this data as: Brown, C. J., Sameoto, J. A., & Smith, S. J. Data of: Benthoscape Map of German Bank. Published: February 2021. Population Ecology Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/b7f81d4a-2cb6-4393-b35b-e536ec63e834",
+    "La couche de données (.shp) présentée est le résultat d’une méthode de classification non supervisée pour la classification des habitats des fonds marins sur le banc German (au large du sud-ouest de la Nouvelle-Écosse, Canada). Cette méthode consiste à séparer les variables environnementales dérivées de la bathymétrie multifaisceaux (pente, courbure) et de la rétrodiffusion (composantes principales : Q1, Q2 et Q3) en unités spatiales (c’est-à-dire en pixels) et à classer les unités acoustiquement séparées en cinq classes d’habitat (récif, till glaciaire, limon, limon avec ondulations du fond, et sable avec ondulations du fond) en utilisant des données in situ (imagerie). Les classes de cartographie benthique (synonyme de classification des paysages en écologie terrestre) décrivent la géomorphologie et la biologie du fond marin et sont établies à partir d’éléments du fond marin pouvant être distingués de manière acoustique.\n\nClassifications non supervisées (classifications acoustiques) optimisées à 15 classes en utilisant la méthode Idrisi CLUSTER (basée sur les pixels).\n\nNombre représentant les classes de cartographie benthique (CLASSE) dérivées de l’imagerie et de la vidéo in situ (voir Brown et al. 2012, figure 3, tableau 1).\n\nRéférence:\nBrown, C. J., Sameoto, J. A., & Smith, S. J. (2012). Multiple methods, maps, and management applications: Purpose made seafloor maps in support of ocean management. Journal of Sea Research, 72, 1–13. https://doi.org/10.1016/j.seares.2012.04.009.\n\nCiter ces données comme suit: Brown, C. J., Sameoto, J. A., & Smith, S. J. Données de: Carte benthique du banc German: Date de publication: Février 2021. Division de l’écologie des population, Pêches et Océans Canada, Dartmouth (Nouvelle-Écosse). https://open.canada.ca/data/fr/dataset/b7f81d4a-2cb6-4393-b35b-e536ec63e834"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b7f81d4a-2cb6-4393-b35b-e536ec63e834"
+  ],
+  "dct_issued_s": "2012-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b7f81d4a-2cb6-4393-b35b-e536ec63e834\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Benthoscape Map of German Bank",
+  "gbl_mdModified_dt": "2026-03-24T08:35:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ffc9814b-c506-53fd-977d-8fbbeedaf0e1",
+  "locn_geometry": "ENVELOPE(-66.756493, -65.495799, 43.672872, 43.07938)",
+  "schema_provider_s": "Open Data Canada"
+}

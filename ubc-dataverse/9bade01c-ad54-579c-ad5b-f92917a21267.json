@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-0.78, -0.325, 6.75, 6.41)",
+  "dcat_keyword_sm": [
+    "aboveground biomass, machine learning, tropical forests, carbon storage, remote sensing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Xiong, Vanessa (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Tropical forests in regions like Kwahu South, Ghana, are vital for mitigating climate change by storing carbon in aboveground biomass (AGB), but deforestation and land use changes, driven by agriculture and mining, threaten their role as carbon sinks. Accurate AGB estimation is crucial for conservation and sustainable land management, yet traditional field methods are costly and impractical for large, remote areas. Remote sensing offers a solution by using satellite imagery to map forest biomass efficiently across vast regions, providing a practical tool for monitoring. This study assessed the effectiveness of Landsat 8 and Sentinel-2 satellite data for AGB estimation in Kwahu South, addressing the gap in understanding which satellite source and modeling approach best suits tropical forest environments. We applied Linear Regression and Random Forest (RF) machine learning models, using spectral bands and vegetation indices (NDVI, EVI, NDMI, SAVI) from both datasets, preprocessed to 30m resolution. The RF model with Landsat 8 data outperformed the Linear Regression model, achieving a 20% lower root mean square error (RMSE = 37.09 t/ha) and explaining 85% of the variance in AGB measurements (R² = 0.85). Spatial analysis revealed higher AGB (up to 475.3 t/ha) in dense forest zones in the southwest and lower values (down to 4.23 t/ha) in sparsely vegetated eastern areas, aligning with ecological patterns. These findings highlight that non-parametric machine learning, paired with Landsat 8 data, provides a reliable and cost-effective method for AGB estimation in tropical settings. This approach enhances carbon stock assessments and informs forest management strategies, offering a practical tool for researchers and policymakers working on climate resilience in regions facing environmental pressures."
+  ],
+  "dct_identifier_sm": [
+    "894530_73894_115983",
+    "https://doi.org/10.5683/SP3/NZWKGX"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NZWKGX\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kwahu South, Ghana"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Estimating Above-Ground Biomass Using Remote Sensing and Machine Learning in Kwahu South, Ghana",
+  "gbl_mdModified_dt": "2025-04-22T16:56:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9bade01c-ad54-579c-ad5b-f92917a21267",
+  "locn_geometry": "ENVELOPE(-0.78, -0.325, 6.75, 6.41)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

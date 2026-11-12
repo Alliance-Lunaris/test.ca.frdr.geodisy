@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.20814425838701, -93.81891480412935, 58.86048197470075, 48.92748133077273)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "HPD",
+    "Highway",
+    "LRM",
+    "Open Data",
+    "Provincial Trunk Highways",
+    "Linear Referencing System",
+    "Manitoba Infrastructure",
+    "Subsections",
+    "HIS",
+    "Highway Planning and Design",
+    "Road Network",
+    "MI",
+    "LRS",
+    "Contracts",
+    "Province of Manitoba",
+    "Tenders",
+    "Construction",
+    "Access Roads",
+    "Linear Referencing Method",
+    "Provincial Roads",
+    "Manitoba Government",
+    "Manitoba",
+    "Inventory",
+    "Control Sections",
+    "Highway Inventory System"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Manitoba Infrastructure, Highway Engineering, Highway Planning and Design (HPD) manages the Highway Inventory System (HIS). This system tracks road structure and construction history of Manitoba's Road Network. Published annually, this layer aids provincial engineers in planning and managing construction projects, both present and future. The department’s linear referencing system (LRS) uses control sections as a linear referencing method (LRM). These control section are further divided into subsections. It is on these subsections that road structure and construction history are tracked in the highway inventory system database.</p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Please note that this feature layer primarily contains only the roads Manitoba Infrastructure is responsible for, i.e. Provincial Trunk Highways, Provincial Roads and Access Roads. It does not include municipal mile or grid roads. However, you may also see Earth Roads (under construction) or Other roads (such as those passing through national parks and are federal responsibility).</p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Fields included (<b>Alias </b>(Field Name): <span style='font-style: italic;'>Field description</span>.)</p><ul><li><b>OBJECTID </b>(OBJECTID): <i>Sequential, unique whole numbers are automatically generated.</i></li>\n<li><b>SHAPE </b>(SHAPE): <i>A field to hold geometry information.</i></li>\n<li><b>ID </b>(ID): <i>Oracle's unique identifier</i></li>\n<li><b>Control Section ID </b>(CS_ID): <i>Non unique identifier linking segment to its respective control section. For example, a control section may have numerous geometry segments and each will have the same CS_ID.</i></li>\n<li><b>Control Section Key </b>(CS_KEY): <i>An information rich key containing Region (two digits), Road Number (three digits), Section number (three digits), the Road Type (one character), and direction of travel (one character).</i></li>\n<li><b>Subsection ID </b>(SS_ID): <i>Control Sections are further divided into Subsections. This is the subsection ID field.</i></li>\n<li><b>MI Region </b>(REGION_NO): <i>The Manitoba Infrastructure region the segment is in Regions 1-5.</i></li>\n<li><b>Road Number </b>(ROAD_NO): <i>The road number. Note co-routes will have the lesser highway number.</i></li>\n<li><b>Section Number </b>(SECTION_NO): <i>The section number from the CS_KEY.</i></li>\n<li><b>Road Type </b>(ROAD_TYPE): <i>H = Highway, E = Earth Road, and O= 'Other&quot; road (such as through a national park because the road is not a responsibility of MI.)</i></li>\n<li><b>Road Direction </b>(ROAD_DIRECTION): <i>A = ahead direction on a divided highway (i.e. following the digitizing direction), B = Back direction on a divided highway (i.e. against the digitizing direction, and U= an undivided highway.</i></li>\n<li><b>Start Kilometre (KM) </b>(START_KM): <i>Start KM, is the start of the sub section within a control Section. This is part of the linear referencing method used for dynamic segmentation.</i></li>\n<li><b>End Kilometre (KM) </b>(END_KM): <i>End KM is the end of the sub section within a Control Section. This is part of the linear referencing method used for dynamic segmentation.</i></li>\n<li><b>Length (KM) </b>(LENGTH_KM): <i>End Kilometre minus the Start Kilometre.</i></li>\n<li><b>Subsection Description </b>(SECTION_DESC): <i>A text description of where the subsection starts and ends.</i></li>\n<li><b>Road Type Description </b>(ROAD_TYPE_DESC): <i>An unabbreviated version of Road Type above.</i></li>\n<li><b>Road Direction Description </b>(ROAD_DIRECTION_DESC): <i>An unabbreviated version of Road Direction above.</i></li>\n<li><b>Functional Class </b>(FUNCTIONAL_CLASS): <i>Functional Class: Expressway, Primary Arterial, Secondary Arterial and Collector</i></li>\n<li><b>Divided Status </b>(DIVIDED_STATUS): <i>Highway is divided or undivided.</i></li>\n<li><b>Number of Lanes </b>(LANES): <i>The number of lanes the road has.</i></li>\n<li><b>Median Type </b>(MEDIAN_TYPE): <i>Type of median: Raised Median, Depressed Median, Flush Median, Barrier and No Median.</i></li>\n<li><b>Median Width (m) </b>(MEDIAN_WIDTH): <i>The width of the median, in metres.</i></li>\n<li><b>Row Width (m) </b>(ROW_WIDTH): <i>The total width of the right-of-way in metres.</i></li>\n<li><b>Subgrade Width (m) </b>(SUBGRADE_WIDTH): <i>The width of the earth embankment in metres.</i></li>\n<li><b>Re-grade Year </b>(REGRADE_YEAR): <i>The year the road was last regraded.</i></li>\n<li><b>Re-grade Description </b>(REGRADE_DESCRIPTION): <i>Description of what re-grading was done.</i></li>\n<li><b>Outside Shoulder Type </b>(OUTSIDE_SHLDR_TYPE): <i>Type of outside shoulder: AST, Curbed, Fully Paved, Gravel, No Shoulders and N/A.</i></li>\n<li><b>Outside Shoulder Width (m) </b>(OUTSIDE_SHLDR_WIDTH): <i>The width of the outside shoulder in metres.</i></li>\n<li><b>Outside Paved Width (m) </b>(OUTSIDE_PAVED_WIDTH): <i>The width of the paved surface of the outside shoulder in metres.</i></li>\n<li><b>Inside Shoulder Type </b>(INSIDE_SHLDR_TYPE): <i>Type of inside shoulder: Curbed, Fully Paved, Gravel, No Shoulders and N/A.</i></li>\n<li><b>Inside Shoulder Width (m) </b>(INSIDE_SHLDR_WIDTH): <i>The width of the inside shoulder in metres.</i></li>\n<li><b>Inside Paved Width (m) </b>(INSIDE_PAVED_WIDTH): <i>The width of the paved surface of the inside shoulder in metres.</i></li>\n<li><b>Surface Type </b>(SURFACE_TYPE): <i>The type of surfacing on the road: A Base, AST, Bituminous (Bpm), Bituminous B, Bituminous C, C Base, Concrete, Granular, Reclaimed Asphalt Pavement and Road Mix</i></li>\n<li><b>Surface Width (m) </b>(SURFACE_WIDTH): <i>The surface width is the width of the driving lanes.</i></li>\n<li><b>Surface Depth (mm) </b>(SURFACE_DEPTH): <i>Thickness of the surface layer (mm).</i></li>\n<li><b>Surface Year </b>(SURFACE_YEAR): <i>The year the surface was constructed.</i></li>\n<li><b>Base Layer 1 </b>(BASE_1): <i>1st subsurface layer. 1 = present, 0 = not present</i></li>\n<li><b>Base Layer 1 Type </b>(BASE_1_TYPE): <i>Material type of 1st subsurface layer of the road structure.</i></li>\n<li><b>Base Layer 1 Depth (mm) </b>(BASE_1_DEPTH): <i>Thickness of 1st subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 1 Year </b>(BASE_1_YEAR): <i>Year materials placed or modified for 1st subsurface layer.</i></li>\n<li><b>Base Layer 2 </b>(BASE_2): <i>2nd subsurface layer. 2 = present, 0 = not present</i></li>\n<li><b>Base Layer 2 Type </b>(BASE_2_TYPE): <i>Material type of 2nd subsurface layer of road structure.</i></li>\n<li><b>Base Layer 2 Depth (mm) </b>(BASE_2_DEPTH): <i>Thickness of 2nd subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 2 Year </b>(BASE_2_YEAR): <i>Year materials placed or modified for 2nd subsurface layer.</i></li>\n<li><b>Base Layer 3 </b>(BASE_3): <i>3rd subsurface layer. 3 = present, 0 = not present</i></li>\n<li><b>Base Layer 3 Type </b>(BASE_3_TYPE): <i>Material type of 3rd subsurface layer of road structure.</i></li>\n<li><b>Base Layer 3 Depth (mm) </b>(BASE_3_DEPTH): <i>Thickness of 3rd subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 3 Year </b>(BASE_3_YEAR): <i>Year materials placed or modified for 3rd subsurface layer.</i></li>\n<li><b>Base Layer 4 </b>(BASE_4): <i>4th subsurface layer. 4 = present, 0 = not present</i></li>\n<li><b>Base Layer 4 Type </b>(BASE_4_TYPE): <i>Material type of 4th subsurface layer of road structure.</i></li>\n<li><b>Base Layer 4 Depth (mm) </b>(BASE_4_DEPTH): <i>Thickness of 4th subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 4 Year </b>(BASE_4_YEAR): <i>Year materials placed or modified for 4th subsurface layer.</i></li>\n<li><b>Base Layer 5 </b>(BASE_5): <i>5th subsurface layer. 5 = present, 0 = not present</i></li>\n<li><b>Base Layer 5 Type </b>(BASE_5_TYPE): <i>Material type of 5th subsurface layer of road structure.</i></li>\n<li><b>Base Layer 5 Depth (mm) </b>(BASE_5_DEPTH): <i>Thickness of 5th subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 5 Year </b>(BASE_5_YEAR): <i>Year materials placed or modified for 5th subsurface layer.</i></li>\n<li><b>Base Layer 6 </b>(BASE_6): <i>6th subsurface layer. 6 = present, 0 = not present</i></li>\n<li><b>Base Layer 6 Type </b>(BASE_6_TYPE): <i>Material type of 6th subsurface layer of road structure.</i></li>\n<li><b>Base Layer 6 Depth (mm) </b>(BASE_6_DEPTH): <i>Thickness of 6th subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 6 Year </b>(BASE_6_YEAR): <i>Year materials placed or modified for 6th subsurface layer.</i></li>\n<li><b>Base Layer 7 </b>(BASE_7): <i>7th subsurface layer. 7 = present, 0 = not present</i></li>\n<li><b>Base Layer 7 Type </b>(BASE_7_TYPE): <i>Material type of 7th subsurface layer of road structure.</i></li>\n<li><b>Base Layer 7 Depth (mm) </b>(BASE_7_DEPTH): <i>Thickness of 7th subsurface layer of road structure in mm.</i></li>\n<li><b>Base Layer 7 Year </b>(BASE_7_YEAR): <i>Year materials placed or modified for 7th subsurface layer.</i></li>\n<li><b>Terrain Type </b>(TERRAIN_TYPE): <i>General terrain conditions: Flat, Rolling and Rugged.</i></li>\n<li><b>Construction Status </b>(CONSTRUCTION_STATUS): <i>Construction completed or carried over.</i></li>\n<li><b>Updated Date </b>(UPDATED_YYYYMMDD): <i>Date the record was updated.</i></li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "1fcd90f35c894712a6924e2d61f290dc",
+    "https://www.arcgis.com/home/item.html?id=1fcd90f35c894712a6924e2d61f290dc"
+  ],
+  "dct_issued_s": "2020-05-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-highway-inventory-2018\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Highway Inventory 2018",
+  "gbl_mdModified_dt": "2022-10-26T16:00:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "50986dc0-7e2c-5e1f-bb0a-2d26cee4813a",
+  "locn_geometry": "ENVELOPE(-102.20814425838701, -93.81891480412935, 58.86048197470075, 48.92748133077273)",
+  "schema_provider_s": "Data MB"
+}

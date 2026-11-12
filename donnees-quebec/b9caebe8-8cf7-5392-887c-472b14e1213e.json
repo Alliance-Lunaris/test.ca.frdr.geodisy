@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Géobase",
+    "SIRR",
+    "Réseau routier",
+    "PoleARTM",
+    "Tronçon",
+    "Historique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "La géobase est la représentation spatiale du réseau routier sous la forme d'un réseau filamentaire composé de lignes nommées tronçons. \r\n\r\nLes opérations de mise à jour sont enregistrées dans un journal avec les identifiants des tronçons, les dates et les types des opérations, les numéros de versions. \r\n\r\nLa géométrie des tronçons affectés par les opérations de mise à jour n'est pas enregistrée dans le journal et en conséquence **_cet ensemble de données ne contient pas de l'information géospatiale_**.\r\n\r\nSeulement les opérations effectuées après le **_25 octobre 2017_**, à partir de la version **_618_**, sont inclues dans l'ensemble de données __Géobase - gestion tronçons__.\r\n\r\nEnsembles de données connexes:\r\n\r\n- [Géobase - réseau routier](http://donnees.montreal.ca/dataset/geobase)\r\n- [Géobase double - côtés de rue du réseau routier](http://donnees.montreal.ca/dataset/geobase-double)\r\n- [Géobase - pôles](http://donnees.montreal.ca/dataset/geobase-pole)\r\n- [Géobase - tronçons détruits](http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\r\n- [Géobase - noeuds](http://donnees.montreal.ca/dataset/geobase-noeud)\r\n\r\n __Avertissements__\r\n\r\n- Les données diffusées (Géobase - gestion tronçons) doivent être utilisées en respectant la politique et la licence en matière de données ouvertes de la Ville de Montréal.\r\n- Les données diffusées (Géobase - gestion tronçons) sont celles qui se trouvent en notre possession et ne sont pas nécessairement à jour sur l'ensemble du territoire.\r\n- Les données diffusées (Géobase - gestion tronçons) sont fournies seulement à titre indicatif et ne devraient pas être utilisées aux fins de conception ou réalisation des travaux, ni aux fins de localisation des actifs.\r\n- La Ville de Montréal et la Division de la géomatique ne pourront pas être tenues responsables des imprécisions ou inexactitudes des données diffusées (Géobase - gestion tronçons)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/72928aba-53aa-4480-98ca-9a430ba331d8"
+  ],
+  "dct_issued_s": "2019-03-29",
+  "dct_publisher_sm": [
+    "Ville de Montréal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/72928aba-53aa-4480-98ca-9a430ba331d8\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Infrastructures"
+  ],
+  "dct_title_s": "Géobase - gestion tronçons",
+  "gbl_mdModified_dt": "2026-09-23T21:09:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b9caebe8-8cf7-5392-887c-472b14e1213e",
+  "schema_provider_s": "Données Québec"
+}

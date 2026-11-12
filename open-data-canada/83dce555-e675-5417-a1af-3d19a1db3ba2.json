@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.0321769, -54.18275874, 83.75300715, 48.15521362)",
+  "dcat_keyword_sm": [
+    "Satellite images",
+    "Remote sensing",
+    "Image satellite",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Albédo de surface MODIS"
+  ],
+  "dct_creator_sm": [
+    "Alexander Trichtchenko."
+  ],
+  "dct_description_sm": [
+    "The MODIS Surface Albedo and Surface Reflectance Dataset (or simply Albedo) includes times series of 10-day composite products derived at 250-m spatial resolution over Canadian territory and neighboring areas produced at the Canada Centre for Remote Sensing (CCRS) since February 2000.The datasets contain spectral and broadband reflectance’s and albedo for MODIS bands B1-B7 designed primarily for land applications. The imagery for all spectral bands was downscaled and re-projected into the Lambert Conformal Conic (LCC) projection at 250-m spatial resolution. The area size is 5,700 km × 4,800 km. The specialized MODIS processing system was developed at CCRS to fully utilize the high quality of MODIS L2 swath imagery over the northern latitudes. As such, the CCRS Albedo product is different from the standard NASA product. The differences are related to temporal and spatial scaling, shape of kernel functions employed to fit data, as well as details of scene identification, atmospheric correction, and data fitting methodology.\n\nThe data is hosted on AWS; users can follow the tutorial (https://github.com/OpsCCRS/AWS-Open-Data-Registry-Preparation/blob/main/CCRSMODISAlbedo/get-to-know-adataset-CCRSMODISAlbedo.ipynb) to access the data or via the URL in Data Resources for each year.",
+    "L'ensemble de données MODIS sur l'albédo et la réflectance de surface (ou simplement l'albédo) comprend des séries chronologiques de produits composites sur 10 jours dérivés à une résolution spatiale de 250 m couvrant le territoire canadien et ses régions voisines. Ces produits sont développés au Centre canadien de télédétection (CCT) depuis février 2000. Les ensembles de données contiennent les réflectances spectrales et à large bande ainsi que l'albédo pour les bandes MODIS B1-B7, conçues principalement pour les applications terrestres. L'imagerie pour toutes les bandes spectrales a été réduite et reprojetée dans la projection Lambert Conforme Conique (LCC) à une résolution spatiale de 250 m. La taille de la zone est de 5 700 km × 4 800 km. Le système de traitement spécialisé MODIS a été développé au CCT pour utiliser pleinement la haute qualité de l'imagerie de fauchée MODIS L2 au-dessus des latitudes nordiques. Par conséquent, le produit CCT Albedo est différent du produit standard de la NASA. Les différences sont liées à la mise à l'échelle temporelle et spatiale, à la forme des fonctions du noyau utilisées pour ajuster les données, ainsi qu'aux détails de l'identification de la scène, de la correction atmosphérique et de la méthodologie d'ajustement des données.\n\nLes données sont hébergées sur AWS ; les utilisateurs peuvent suivre le tutoriel (https://github.com/OpsCCRS/AWS-Open-Data-Registry-Preparation/blob/main/CCRSMODISAlbedo/get-to-know-adataset-CCRSMODISAlbedo.ipynb) pour accéder aux données ou via l'URL dans les ressources de données pour chaque année."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/28b6d950-a92b-427a-8f20-7adc1415c5dd"
+  ],
+  "dct_issued_s": "2023-01-02",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/28b6d950-a92b-427a-8f20-7adc1415c5dd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "MODIS Surface Albedo",
+  "gbl_mdModified_dt": "2026-02-23T15:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83dce555-e675-5417-a1af-3d19a1db3ba2",
+  "locn_geometry": "ENVELOPE(-143.0321769, -54.18275874, 83.75300715, 48.15521362)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The “Gross and Effective Drainage Area Boundaries of the AAFC Watersheds Project - 2013” dataset is a geospatial data layer containing line features representing boundaries associated with the ‘incremental gross drainage areas’ of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project.   \n  \n  The project is subdivided by hydrometric gauging station. The maximum area that could contribute runoff to each station, less that of its upstream neighbour(s) is called its ‘incremental gross drainage area’.   \n  \n  Two types of boundary are provided: ‘gross’ and ‘effective’. ‘Gross’ boundaries separate adjacent incremental gross drainage areas. ‘Effective’ boundaries delimit, within each incremental gross drainage area, the separation between areas that supply runoff, based on average runoff, from those that don’t."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/063ee9b6-b3f2-45ab-9bed-d330880064d5"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/063ee9b6-b3f2-45ab-9bed-d330880064d5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Gross and effective drainage area boundaries of the AAFC Watersheds project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5b265428-b4cf-5bc5-a837-c86511071ef3",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Inland waters",
+    "Bassin hydrologique",
+    "Drainage",
+    "Drainage",
+    "Hydrologie",
+    "Eaux intérieures",
+    "Watersheds",
+    "Hydrology",
+    "Eau",
+    "Water",
+    "Provinces de l'Ouest",
+    "Western provinces"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau de stations hydrométriques du Projet des bassins hydrographiques d’AAC (2013)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The “Hydrometric Gauging Station Network of the AAFC Watersheds Project - 2013” dataset is a geospatial data layer containing network line features representing links between hydrometric gauging stations of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project. Each line connects a gauging station to its downstream neighbour(s), indicating its drainage direction.  \n  \n  This network is a ‘drainage’ network, not a ‘stream’ network. That is, the lines do not in any way portray the actual stream path between stations.  \n  \n  In some instances, a lake, for example, an area may have several gauging stations. In such cases, one of the gauging stations is designated the ‘primary’ gauging station for calculation purposes, and to maintain proper hydraulic relationships between gauging stations, where only the primary stations are connected to the downstream portion of the network.",
+    "Le jeu de données « Réseau de stations hydrométriques du Projet des bassins hydrographiques d’AAC (2013) » est une couche de données géospatiales contenant des entités linéaires de réseau représentant les liens entre les stations hydrométriques du Projet des bassins hydrographiques d’Agriculture et Agroalimentaire Canada; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques ; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Agroclimatique; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques (AAC). Chaque ligne relie une station hydrométrique à une ou plusieurs stations voisines en aval, indiquant la direction de l’écoulement.  \n  \n  Ce réseau est un réseau « hydrographique » et non un réseau « fluvial ». Cela signifie que les lignes ne représentent d’aucune façon la voie d’écoulement entre les stations.  \n  \n  Dans certains cas (pour un lac, par exemple), une zone peut comporter plusieurs stations hydrométriques. Dans de tels cas, une des stations hydrométriques est désignée comme étant la station « principale » à des fins de calcul, et pour maintenir des liens hydrauliques adéquats entre les stations hydrométriques, où seules les stations principales sont reliées à la partie aval du réseau."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c5e9e5c4-aa04-461e-9751-f8b74691f481"
+  ],
+  "dct_issued_s": "2013-04-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c5e9e5c4-aa04-461e-9751-f8b74691f481\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Hydrometric Gauging Station Network of the AAFC Watersheds project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:21:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc16b714-9347-52b8-af76-c4770dbed45f",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

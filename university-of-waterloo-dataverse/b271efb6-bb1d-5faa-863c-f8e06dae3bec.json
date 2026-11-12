@@ -1,0 +1,32 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Park, Ju An (University of Waterloo). ORCID: https://orcid.org/0000-0001-8578-8236"
+  ],
+  "dct_description_sm": [
+    "This dataset is composed of several training and validation datasets used to develop the pedestrian bridge (PED), asphalt (ASH), and building wall (BW) scale estimators described in the paper, \"Learning‐based image scale estimation using surface textures for quantitative visual inspection of regions‐of‐interest\". The texture patch images are stored in indexed subfolders, where each subfolder contains patches corresponding to a distinct texture area. Each subfolders contain patches collected from different scenes of the structure-of-interest, and thus subfolders either minorly or do not share textures taken from the same location. The texture patches are 850X850 pixels and are taken at various standoff distances from the structure, ranging roughly from 0.2m-3m. Note that the images are taken parallel to the surface. A csv file contains the file names of the texture patches and their corresponding image scales."
+  ],
+  "dct_identifier_sm": [
+    "142923",
+    "https://doi.org/10.5683/SP2/YKUZHG"
+  ],
+  "dct_issued_s": "2021-01-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/YKUZHG\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "LISE Image-Scale Labelled Texture Patch Dataset",
+  "gbl_mdModified_dt": "2021-01-26T19:10:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b271efb6-bb1d-5faa-863c-f8e06dae3bec",
+  "schema_provider_s": "University of Waterloo Dataverse"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.261463, -123.227864, 49.272926, 49.243289)",
+  "dcat_keyword_sm": [
+    "climate resilience",
+    "composite vulnerability index",
+    "LiDAR",
+    "shade equity",
+    "land surface temperature",
+    "heat vulnerability"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Thomas, Mathew (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Urban shade is an often overlooked yet effective strategy for reducing surface temperatures and should be considered alongside social vulnerability in campus planning. By integrating LiDAR-derived shade frequency, land surface temperature (LST) from Landsat, and 2021 Statistics Canada census indicators, three indices were constructed across six University of British Columbia (UBC) Vancouver neighbourhoods. The indices developed include an Exposure Index that combines LST and shade frequency, a Social Equity Index (SEI) that captures demographic sensitivity, and Adaptive Capacity (AC) that incorporates water features and socioeconomic indicators. A Composite Vulnerability Index (CVI) was developed by combining these three indices to identify priority neighbourhoods for heat interventions under the Neighbourhood Climate Action Plan (NCAP). East Campus and University Boulevard were identified as having the highest CVI values (0.289 and 0.283, respectively), driven by elevated LST, limited shade, and low AC. Wesbrook Place was noted as the least vulnerable due to its high AC (0.702). A moderate positive correlation between mean shade frequency (proportion of unshaded time) and LST (r = 0.54) was observed, indicating that areas with less shade experienced higher surface temperatures, confirming shade’s cooling role. Limitations include the small neighbourhood sample size, the use of LST as a substitute for air temperature, the use of 30m resolution, and the substitution of blank or incorrect demographic indicator values with an average. Future work should apply geographically weighted regression (GWR) to better quantify the local cooling effects of shade and water across campus. The CVI provides the NCAP with a practical, iterative tool to prioritize shade infrastructure, tree planting, and water features to advance campus climate resilience."
+  ],
+  "dct_identifier_sm": [
+    "1124782_73894_115983",
+    "https://doi.org/10.5683/SP3/7HWSTS"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/7HWSTS\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Shade Equity & Heat Vulnerability Across University of British Columbia (UBC) Neighbourhoods",
+  "gbl_mdModified_dt": "2026-04-28T16:46:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bbb7decc-2579-55f2-b51c-9e169055529d",
+  "locn_geometry": "ENVELOPE(-123.261463, -123.227864, 49.272926, 49.243289)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

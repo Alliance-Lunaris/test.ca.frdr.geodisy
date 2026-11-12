@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.93436097394033, -94.92244453866084, 55.47174915003408, 48.941540001671015)",
+  "dcat_keyword_sm": [
+    "hunting",
+    "game",
+    "Game Hunting Area",
+    "Wildlife Act",
+    "Environment",
+    "Government of Manitoba",
+    "moose closures",
+    "restricted areas",
+    "conservation",
+    "Public",
+    "trapping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<font face='Calibri, sans-serif' size='3'>The purpose of this dataset is to give an accurate representation of the boundaries of lands closed to hunting in Manitoba. These are defined as lands where hunting and trapping are either prohibited, or special restrictions are in place for certain species and areas are defined within the General Hunting Regulation (351/87), Moose Conservation Closure Regulation (122/2011), Hunting Seasons and Bag Limits Regulation (165/91), and Trapping of Wild Animals Regulation (245/90) of The Wildlife Act (C.C.S.M c. W130). Hunting and trapping prohibitions or restrictions are implemented in certain areas to ensure the conservation of species or enhance public safety.</font><div><font face='Calibri, sans-serif' size='3'><br /></font></div><div><div><u>Fields included</u> (<b>Alias </b>(Field Name): Field description)<br /></div><div><ul><li><b>FID </b>(OBJECTID): Sequential unique whole numbers that are automatically generated</li><li><b>Id</b> (Id): The number assigned to each restricted area (not currently being used)</li><li><b>Name </b>(Name): Name given to the restricted area</li><li><b>Restrictions </b>(Restrictions): Description of the restriction applied to the restricted area</li><li><b>Director of Surveys Plan</b> (D_of_S): Director of Surveys Plan number which pertains to the boundary of the restricted area</li><li><b>Regulation</b> (Regulation): The regulation title defined in The Wildlife Act</li><li><b>Shape_Area</b> (Shape_Area): Area of the feature in internal units squared<br /></li><li><b>Shape_Length</b> (Shape_Length): Length of the feature in internal units</li></ul></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "82d31888979c4cf2a41ff1c4bcea1e87",
+    "https://www.arcgis.com/home/item.html?id=82d31888979c4cf2a41ff1c4bcea1e87"
+  ],
+  "dct_issued_s": "2022-11-07",
+  "dct_license_sm": [
+    "https://manitoba.ca/legal/copyright.html"
+  ],
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::moose-conservation-closures-2022\"}",
+  "dct_title_s": "Lands Closed to Hunting in Manitoba",
+  "gbl_mdModified_dt": "2026-08-20T22:11:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9c711c88-6cd6-551c-8be5-650b3ebe4c1c",
+  "locn_geometry": "ENVELOPE(-101.93436097394033, -94.92244453866084, 55.47174915003408, 48.941540001671015)",
+  "schema_provider_s": "Data MB"
+}

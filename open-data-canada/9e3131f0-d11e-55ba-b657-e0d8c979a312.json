@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Dénombrement annuel à haute résolution des terres humides du Canada (1984-2016)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "The wetland year count data included in this product is national in scope (entire forested ecosystem) and represents a wall to wall wetland characterization for 1984-2016 (Wulder et al. 2018). It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). This product was generated using both annual gap free composite reflectance images and annual forest change maps following the Virtual Land Cover Engine (VLCE) process (see Hermosilla et al. 2018), over the 650 million ha forested ecosystems of Canada. Elements of the VLCE classification approach are inclusion of disturbance information in the processes as well as ensuring class transitions over time are logical. Further, a Hidden Markov Model is implemented to assess individual year class likelihoods to reduce variability and possible noise in year-on-year class assignments (for instances when class likelihoods are similar). The values can range from 0 to 33 denoting the number of years between 1984 and 2016 that a pixel was classified as wetland or wetland-treed in the VLCE data cube.\n\nFor an overview on the data, image processing, and time series change detection methods applied, as well as information on independent accuracy assessment of the data, see Hermosilla et al. (2016; http://www.tandfonline.com/doi/full/10.1080/17538947.2016.1187673).  A detailed description of the VLCE process and the subsequently generated land cover product, including an accuracy assessment, please see \nHermosilla et al. (2018). The focused wetland analyses can be found described in Wulder et al (2018).\n\nGeographic extent: \nCanada's forested ecosystems (~ 650 Mha)\nTime period: \n1985–2011",
+    "Les données de dénombrement annuel des terres humides présentées dans ce produit ont une étendue nationale (ensemble de l’écosystème forestier) et constituent une caractérisation entière des terres humides pour la période 1984-2016 (Wulder et coll., 2018). Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. Ce produit a été réalisé à l’aide d’images composites annuelles de la réflectance sans lacunes ainsi que de cartes annuelles des changements forestiers pour les 650 millions d’hectares d’écosystèmes forestiers du Canada, suivant le processus du Virtual Land Cover Engine (VLCE) (voir Hermosilla et coll., 2018). La méthode de classification VLCE consiste notamment à inclure de l’information sur les perturbations dans les processus ainsi qu’à s’assurer que les transitions de classe dans le temps sont logiques. En outre, un automate de Markov à états cachés est utilisé pour évaluer les probabilités de classe pour chaque année afin de réduire la variabilité et le bruit possible dans les attributions de classe d’une année à l’autre (p. ex., lorsque les probabilités de classe sont du même ordre). Les valeurs peuvent varier de 0 à 33, désignant le nombre d’années, entre 1984 et 2016, où un pixel a été classé « terre humide » ou « terre humide arborée » dans le cube de données VLCE.\n\nPour avoir un aperçu des données, du traitement des images et des méthodes appliquées pour détecter des changements, dans les séries chronologiques, ainsi que de l’information sur l’évaluation indépendante de l’exactitude des données, voir Hermosilla et coll. (2016; http://www.tandfonline.com/doi/full/10.1080/17538947.2016.1187673). Hermosilla et coll. (2018) donnent une description détaillée du processus VLCE et du produit de couverture terrestre résultant, y compris l’évaluation de l’exactitude. \nWulder et coll. (2018) décrivent les analyses ciblées des terres humides.\n\nÉtendue géographique : \nÉcosystèmes forestiers du Canada (environ 650 Mha)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/02c992bb-9692-4bff-9517-7a92b09676c7"
+  ],
+  "dct_issued_s": "2018-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/02c992bb-9692-4bff-9517-7a92b09676c7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "High-resolution wetland year count for Canada (1984-2016)",
+  "gbl_mdModified_dt": "2026-03-16T16:04:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9e3131f0-d11e-55ba-b657-e0d8c979a312",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

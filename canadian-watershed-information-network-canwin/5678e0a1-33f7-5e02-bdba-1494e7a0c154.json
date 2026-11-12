@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.3781, -88.1715, 60.0657, 48.7014)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset was created to provide a spatial dataset of the school divisions within the province of Manitoba.  \n  \n  This polygon layer depicts official boundaries of the Manitoba School Divisions as per Director of Surveys (DoS) plans. Each DoS number can be found in the field \"source\". Boundaries are approved by both Manitoba Education and the Director of Surveys of Manitoba. Ward boundaries, schools and the following school divisions are not included in this dataset: Funded Independent,  Non-funded Independent,  First Nations,  Institutional schools, and  The Division Scolaire franco-manitobaine. This  polygon layer is symbolized by the School Division Names in the field SchoolDiv.The dataset includes the following fields:Alias (Field Name): Description of fieldFID (FID): Identification numberOBJECTID (OBJECTID): Object IDShape Length (Shape_Leng): Length of polygonShape Area (Shape_Area): Area of polygon shapeSchool Division Name (School_Div): Division Name.DoS Source Number (SOURCE): Director of Surveys (DoS) plan number.Website (WEBSITE): Division website address (if available)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/77194d03-9315-70f9-d71f-4052c857ce82"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/77194d03-9315-70f9-d71f-4052c857ce82\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba School Divisions",
+  "gbl_mdModified_dt": "2025-02-05T19:08:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5678e0a1-33f7-5e02-bdba-1494e7a0c154",
+  "locn_geometry": "ENVELOPE(-102.3781, -88.1715, 60.0657, 48.7014)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

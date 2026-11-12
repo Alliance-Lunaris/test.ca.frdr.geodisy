@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "trait variation",
+    "polygenic polymorphism",
+    "browsing",
+    "single-locus polymorphism",
+    "Garry oak and maritime meadow ecosystems",
+    "plant–herbivore interactions",
+    "heterogeneous selection",
+    "Plectritis congesta",
+    "seablush"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Skaien, Cora L. (University of British Columbia).",
+    "Arcese, Peter (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/IyiO0k7m5_wQSsYNBDBQo-YSGb9tyjII0OKoSykEjw8</p>\n<p><b>Storage size:</b> 77466</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Climate and herbivory can each drive natural selection on plant traits, but may interact to give rise to different patterns in trait distributions when surveyed across island populations. These different patterns may arise because the occurrence of ungulate herbivores often varies across archipelagos, potentially leading to strong and abrupt spatial heterogeneity in the direction or intensity of natural selection. In contrast, climate tends to vary gradually and thus is more likely to lead to gradual clines in trait values. Population isolation may also affect trait values, given that random genetic drift may fix alleles or traits in the absence of gene flow, or because gene flow between populations with similar or opposing selection pressures may augment or swamp the effects of selection. Here, we estimate the independent and interactive effects of deer, climate and isolation on fruit phenotype and plant height in 285 Plectritis congesta populations at 77 island and 44 mainland sites in western North America. Plectritis congesta is a palatable winter annual with two fruit phenotypes based on a simple Mendelian locus with clear dominance, and heritable variation in height as a polygenic trait. Fruit phenotype and plant height were well-predicted by deer occurrence; plants in populations with resident deer were short (15.0 ± 1.1 cm) and mainly expressed wingless fruits (73.0 ± 4.0 %), whereas plants in populations without deer were 2.6 times taller (38.9 ± 5.3 cm) and only 9.0 ± 1.6 % expressed wingless fruits. Wingless fruits were less common in populations experiencing wetter conditions with more seasonal variability in temperatures, particularly in the absence of deer. In contrast, population isolation was unrelated to fruit phenotype, except in populations rarely exposed to deer, where plants expressed phenotypes more like those in populations without deer as isolation increased. Our results are consistent with the hypothesis that spatial variation in browsing by deer, or other factors correlated with it, contributes to population-level variation in fruit phenotype and plant height in P. congesta, and that climate leads to a modest spatial gradient in plant height.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Skaien and Arcese_P. congesta geographic data_Journal Ecology</h4><div class=\"o-metadata__file-description\">Tab 1 (“Geographic Survey Fruit Frequency”): Data were collected throughout the Georgia Basin from 2005 to 2014 (“Year”) from April to June of each year. Populations that were surveyed more than once were assessed for changes over time, and only the most recent measurement was included in the data set. The study species is seablush, Plectritis congesta. “Area” and “Location” together represent each population. “Isl.Main” represents whether a population was on an island or the mainland (with Vancouver Island considered as part of the mainland). “Deer” represents whether the island had deer present, absent or rarely hosted deer.  UTM coordinates are represented by “N” for Northing and “E” for Easting. The number of wingless fruits in each set of 100 (“value”; from counts of 20 individuals in 5 different areas of the population) is represented by “sum.ww”. Together, “value” and “sum.ww” create the proportion of plants bearing wingless fruits (“Freq.of.ww”). “PC1” and “PC2” represent the values from the Principal Components Analysis (PCA) for climatic variables (see Appendix). The amount of land in a 1 km buffer (“1km_Area_Land”) was transformed into a percentage (“1km_Percent_Land”). From this, we also have the percentage of land area that is water in a 1 km radius of the center of the surveyed population (“1km_Percent_Water”). \r\n\r\nTab 2 (“1 m belt transects”): Data were collected from May to June 2014. “Location” represents the population sampled, accompanied by UTM GPS coordinates (“N” for Northing and “E” for Easting). The average measured heights of 20-40 plants along each transect is represented by “avheight”, with the standard deviation of height represented by “stdevheight”. The average depth of 5 measurements at 20 cm intervals along the 1 m belt transect is represented by “avdepth”, and the standard deviation in depth is represented by “stdevdepth”.  The “Freq.of.ww” represents the proportion of fruits that were wingless from the total count of 100 (“value”). “PC1” represents values from the Principal Components Analysis (PCA) for climatic variables (see Appendix). “1km_Percent_Water” represents the percentage of land cover that was water in a 1 km radius of the center of the surveyed population.</div><div class=\"o-metadata__file-name\">Skaien_P. congesta geographic data_Journal Ecology.xlsx</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153606_1226260_150149",
+    "https://doi.org/10.5683/SP2/TXHRZS"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TXHRZS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Georgia Basin",
+    "western North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Spatial variation in herbivory, climate and isolation predict plant height and fruit phenotype in Plectritis congesta island populations",
+  "gbl_mdModified_dt": "2021-05-19T19:58:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ba4377d9-adca-52ce-b94d-fb99a47222ab",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

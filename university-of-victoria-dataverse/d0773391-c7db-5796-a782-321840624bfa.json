@@ -1,0 +1,70 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.77188, -123.0037, 50.70615, 42.0103)",
+  "dcat_keyword_sm": [
+    "North American Plate",
+    "GNSS (Global Navigation Satellite Systems)",
+    "California",
+    "Subduction zones",
+    "Cascadia Subduction Zone",
+    "Seismometers",
+    "Washington",
+    "Oregon",
+    "Seismic waveforms",
+    "Seismology",
+    "Computer simulation",
+    "FakeQuakes",
+    "miniSEED",
+    "British Columbia",
+    "Earthquake simulation",
+    "Earthquake early warning",
+    "MudPy",
+    "Accelerometers",
+    "Ground shaking",
+    "Juan de Fuca Plate",
+    "Kinematic–models",
+    "Time-series analysis",
+    "Earthquakes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Nye, Tara (University of Oregon). ORCID: https://orcid.org/0000-0003-3210-6013",
+    "Schlesinger, Angela (Ocean Networks Canada). ORCID: https://orcid.org/0000-0002-8195-0221",
+    "Sahakian, Valerie (University of Oregon). ORCID: https://orcid.org/0000-0002-3278-4458",
+    "Melgar, Diego (University of Oregon). ORCID: https://orcid.org/0000-0001-6259-1852",
+    "Mahani, Alireza Babaie (Ocean Networks Canada). ORCID: https://orcid.org/0000-0003-2918-6083",
+    "Williamson, Amy (Berkeley Seismology Lab). ORCID: https://orcid.org/0000-0003-1481-725X",
+    "Ferguson, Eli (Ocean Networks Canada).",
+    "Lux, Angela (Berkeley Seismology Lab). ORCID: https://orcid.org/0000-0002-3767-6018",
+    "Pirenne, Benoît (Ocean Networks Canada). ORCID: https://orcid.org/0000-0001-9208-7622"
+  ],
+  "dct_description_sm": [
+    "This data package includes 112 simulated kinematic earthquake ruptures and associated waveforms for the Cascadia subduction zone (CSZ). The ruptures range in moment magnitude (M) 6.6–9.4. The waveforms were generated for 29 collocated GNSS and seismic stations onshore Vancouver Island, 5 ocean bottom seismometers in a cabled array offshore Vancouver Island, and 157 seismic stations onshore coastal Washington and Oregon. The CSZ stretches from northern California to southern British Columbia and is expected to generate a M9+ event or several M8+ events. Strong shaking from such events would likely be felt several hundred kilometers inland, which includes major cities such as Vancouver, Seattle, and Portland, thus making it a region of high seismic concern. However, this region experiences very little seismicity on a regular basis. This data package was created to supplement the dearth of observed regional earthquakes for use in earthquake early warning testing. The rupture files include information about the distribution and evolution of slip for each earthquake, and the waveforms include displacement and acceleration time series. These data were generated using a 1D semistochastic model, with displacement waveforms sampled at 2 Hz and acceleration waveforms sampled at 100 Hz. Two minutes of padding were prepended to the simulated waveforms prior to the addition of noise. Synthetic GNSS noise was used for the displacement waveforms, and real noise from several stations was used for the acceleration waveforms."
+  ],
+  "dct_identifier_sm": [
+    "661363_72360",
+    "https://doi.org/10.5683/SP3/CZECEG"
+  ],
+  "dct_issued_s": "2026-05-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CZECEG\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Cascadia subduction zone earthquake simulations for earthquake early warning testing",
+  "gbl_mdModified_dt": "2026-07-21T19:07:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d0773391-c7db-5796-a782-321840624bfa",
+  "locn_geometry": "ENVELOPE(-127.77188, -123.0037, 50.70615, 42.0103)",
+  "pcdm_memberOf_sm": [
+    "Ocean Networks Canada"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

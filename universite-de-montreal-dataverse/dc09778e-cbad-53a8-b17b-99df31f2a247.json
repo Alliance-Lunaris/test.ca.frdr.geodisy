@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.095761, -73.882653, 45.996976, 45.848268)",
+  "dcat_keyword_sm": [
+    "Expérience de choix binaire",
+    "Indices chimiques",
+    "Bass tapeworm",
+    "Poissons d'eau douce",
+    "Indices visuels",
+    "Freshwater fishes",
+    "Binary choice experiment",
+    "Maladie des points noirs",
+    "Infection avoidance behaviour",
+    "Chemical cues",
+    "Visual cues",
+    "Black spot disease",
+    "Comportement d'évitement de l'infection",
+    "Ténia du bar"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Côté, Ariane (Université de Montréal). ORCID: https://orcid.org/0009-0008-2735-9394",
+    "Binning, Sandra (Université de Montréal). ORCID: https://orcid.org/0000-0002-2804-9979"
+  ],
+  "dct_description_sm": [
+    "For each fish (ID), 2 trials were done to measure the time spent on each side:\n-Control 1: Uninfected conspecifics VS No fish;\n-Control 2: Infected conspecifics VS No fish;\n-Treatment: Infected conspecifics VS Uninfected conspecific.\n\nMETADATA:\n-ID: Identification of the focal fish; \n-Lake: Origin of the focal fish (Triton or Cromwell);\n-Treatment: Experiment set up (Control 1, Control 2 or Treatment);\n-Tank: Holding tank in lab;\n-Trial: First or second focal fish trial (1 or 2);\n-Temp_exp: Temperature of the arena during trials (Celcius) ;\n-Time_exp: time of the day the test to place (am or pm);\n-Side_Fish: Side of the arena where stimuli fish are (for Control 1 and 2);\n-Side_Uninf: Side of the arena where uninfected stimuli fish are (for Treatment);\n-TL: Total length of focal fish (mm);\n-SL: Standard length of focal fish (mm);\n-Mass = Mass of focal fish (g);\n-a = Constant in the equation Mass = a * SL^b;\n-b = Constant in the equation Mass = a * SL^b;\n-Spleen_mass: Spleen mass of the focal fish (g);\n-Sex: Sex of the focal fish (Male, Female, NA);\n-BS_tot: Total number of blackspot parasites; \n-BT_tot: Total number of bass tapeworm parasites;\n-Other: Total number of yellow grub and nematode parasites; \n-Total_parasites: Total number of parasites;\n-Parasites_density: Total_parasites / Mass; \n-Infected_zone: Time spent with infected conspecifics (s);\n-Uninfected_zone: Time spent with uninfected conspecifics (s); \n-None_zone: Time spent with no fish (Control only) (s);\n-Neutral_zone: Time spent in the center of the arena (Visual cues only) (s);\n-Total_time: Duration of the trial;\n-Shoal: Number of the shoal used as stimulus;\n-Notes: Any notes taken during the experiment or the dissection.",
+    "Data were collected in summer 2022 at the Station de biologie des Laurentides de l’Université de Montréal (Saint-Hippolyte, Quebec, Canada). The experiments were carried out in the laboratory on wild caught pumpkinseed sunfish (Lepomis gibbosus). For each individual, data were recorded on time spent with infected and uninfected conspecifics, lake of origin, total and standard length, body mass, spleen mass, sex, number of cestodes, trematodes and other parasites (yellow grub, white grub, nematodes). The purposes of the data were to assess whether uninfected pumpkinseed sunfish display avoidance behaviour towards infected conspecifics, whether they can detect infection using chemical and/or visual cues and whether the expression of this behaviour is influenced by the level of parasite exposure of focal fish in their natural environment."
+  ],
+  "dct_identifier_sm": [
+    "720153_281357_281358",
+    "https://doi.org/10.5683/SP3/VJOWT2"
+  ],
+  "dct_issued_s": "2024-09-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VJOWT2\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Saint-Hippolyte, Quebec, Canada",
+    "Saint-Hippolyte, Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Infected conspecifics avoidance in Lepomis gibbosus, Laurentides, Quebec [2022]",
+  "gbl_mdModified_dt": "2024-12-23T20:06:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc09778e-cbad-53a8-b17b-99df31f2a247",
+  "locn_geometry": "ENVELOPE(-74.095761, -73.882653, 45.996976, 45.848268)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

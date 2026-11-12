@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.8055386974, -113.2692132144, 50.6794195601, 48.7997090934)",
+  "dcat_keyword_sm": [
+    "Google Earth Engine (GEE)",
+    "Object-Based Image Analysis (GEOBIA)",
+    "Simple Non-Iterative Clustering (SNIC)",
+    "Remote Sensing",
+    "Random Forest",
+    "Landcover Classification"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ma, Xuan (University of British Columbia). ORCID: https://orcid.org/0009-0005-1249-871X"
+  ],
+  "dct_description_sm": [
+    "Grasslands in British Columbia (BC) play a pivotal role in biodiversity, supporting over 30% of the region's endangered species. However, rapid urbanization and forest encroachment threaten these habitats. This study addresses the urgent need for an accurate, automated method for delineating and monitoring BC's grasslands by employing Object-Based Image Analysis (GEOBIA) within the Google Earth Engine platform, utilizing high-resolution Sentinel-2 satellite imagery. The approach innovates by integrating Superpixel Segmentation Based on Simple Non-Iterative Clustering (SNIC) with Random Forest classification, aimed at overcoming the mixed pixel effect prevalent in pixel-based methods. The methodology demonstrates a significant improvement in the accuracy of grassland delineation, achieving an overall classification accuracy of 96%. Specifically, the accuracy for grassland identification increased by 26.6% compared to the previous study, underscoring the effectiveness of GEOBIA for environmental monitoring. This advancement offers a promising tool for the conservation and management of grassland ecosystems in BC, suggesting a scalable model for similar ecological studies worldwide. The findings advocate for the adoption of GEOBIA in remote sensing practices, potentially transforming how grasslands are monitored and conserved, thereby contributing to the preservation of biodiversity."
+  ],
+  "dct_identifier_sm": [
+    "722039_73894_115983",
+    "https://doi.org/10.5683/SP3/ESSHIZ"
+  ],
+  "dct_issued_s": "2024-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ESSHIZ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kootenay, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Delineating Grassland in British Columbia using Object-Based Image Analysis (GEOBIA) through Google Earth Engine",
+  "gbl_mdModified_dt": "2024-04-16T21:05:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "162564dd-a6a1-5b41-81d3-8ff24ca473a7",
+  "locn_geometry": "ENVELOPE(-117.8055386974, -113.2692132144, 50.6794195601, 48.7997090934)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

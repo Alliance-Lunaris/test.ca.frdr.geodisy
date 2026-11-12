@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.12602099999633, -102.96609599999651, 55.046805999998135, 52.76279099999821)",
+  "dcat_keyword_sm": [
+    "sph",
+    "total",
+    "tph",
+    "forestry",
+    "forest inventory",
+    "trees per hectare",
+    "forest",
+    "fri",
+    "forest service",
+    "stems per hectare",
+    "environment",
+    "tot",
+    "ministry of environment",
+    "raster",
+    "government of saskatchewan",
+    "sphtot",
+    "saskatchewan",
+    "canada",
+    "forest resource inventory",
+    "density"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<div>Download: <a href='https://saskatchewan.maps.arcgis.com/home/item.html?id=07e4616d38444a899b019eb0495896be' target='_blank' rel='nofollow ugc noopener noreferrer'>Here</a></div><div><br /></div><div>The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area. <div><br /></div><div>Stems per hectare - total (SPHTOT) is an expression of the number of merchantable trees on a per-hectare basis. SPHTOT is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 20 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing SPHTOT data in the following 500 stems/ha categories.</div></div><div><br /></div><div>Domain: [NULL, 0…100,000].<br /></div><div><br /></div><div><table><tbody><tr><td><p style='margin-top:0px; margin-bottom:0px; font-weight:bold;'>RANGE<br /></p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>LABEL</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>RED</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>GREEN</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>BLUE</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>0 &lt;= SPHTOT &lt; 250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>0</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>250 &lt;= SPHTOT &lt; 750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>63</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>81</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>181</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>750 &lt;= SPHTOT &lt; 1250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>1000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>67</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>112</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>147</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>1250 &lt;= SPHTOT &lt; 1750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>1500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>72</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>144</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>114</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>1750 &lt;= SPHTOT &lt; 2250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>2000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>76</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>175</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>80</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>2250 &lt;= SPHTOT &lt; 2750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>2500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>136</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>195</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>73</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>2750 &lt;= SPHTOT &lt; 3250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>3000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>195</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>215</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>66</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>3250 &lt;= SPHTOT &lt; 3750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>3500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>255</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>235</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>59</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>3750 &lt;= SPHTOT &lt; 4250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>4000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>255</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>207</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>39</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>4250 &lt;= SPHTOT &lt; 4750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>4500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>255</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>180</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>20</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>4750 &lt;= SPHTOT &lt; 5250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>5000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>255</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>152</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>0</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>5250 &lt;= SPHTOT &lt; 5750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>5500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>251</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>124</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>18</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>5750 &lt;= SPHTOT &lt; 6250</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>6000</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>248</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>95</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>36</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>6250 &lt;= SPHTOT  &lt; 6750</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>6500</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>244</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>67</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>54</p></td></tr></tbody></table><br />For more information, see the <a href='https://publications.saskatchewan.ca/#/products/110320' target='_blank' rel='nofollow ugc noopener noreferrer'>Forest Inventory Standard</a> of the Saskatchewan Environmental Code, Forest Inventory Chapter.<br /><br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "07e4616d38444a899b019eb0495896be",
+    "https://www.arcgis.com/home/item.html?id=07e4616d38444a899b019eb0495896be"
+  ],
+  "dct_issued_s": "2021-03-08",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/maps/saskatchewan::fri-stems-per-hectare-total\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data Licence v2.0"
+  ],
+  "dct_title_s": "FRI: Stems per hectare - total",
+  "gbl_mdModified_dt": "2025-12-07T15:42:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "215fe9cd-6236-5b17-a193-1fa8114e396c",
+  "locn_geometry": "ENVELOPE(-108.12602099999633, -102.96609599999651, 55.046805999998135, 52.76279099999821)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

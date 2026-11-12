@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Riviere",
+    "Ville de shawinigan",
+    "Lac",
+    "Quai",
+    "Donnee ouverte",
+    "Bateau",
+    "Descente",
+    "Canot",
+    "Eau",
+    "Rampe de mise a l eau",
+    "Msp",
+    "Acces a l eau"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des rampes de mise à l’eau de la Ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `nom` (`String`) : Nom\n* `photo` (`String`) : Photo\n* `plan_` (`String`) : Plan\n* `quai` (`String`) : Quai\n* `miseeausansinfra` (`String`) : Sans infrastructure\n* `toilette` (`String`) : Toilettes\n* `stationnement` (`String`) : Stationnement\n* `piquenique` (`String`) : Pique-Nique\n* `repos` (`String`) : Repos\n* `centre_location` (`String`) : Centre de location\n* `camping` (`String`) : Camping\n* `plage` (`String`) : Plage\n* `rampe` (`String`) : Rampe\n* `peche` (`String`) : Pêche\n* `essence` (`String`) : Essence\n* `acces` (`String`) : Accès\n* `mobilite_reduite` (`String`) : Mobilité réduite\n* `photo360` (`String`) : Photo 360°\n* `lavage` (`String`) : Lavage\n* `longitude` (`Double`) : \n* `latitude` (`Double`) : \n* `accès` (`String`) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/ea0b531a43dd4ceaaf2db4c4d8653539\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/b10a6f01-320c-4d56-b545-1ee5b70fdaeb"
+  ],
+  "dct_issued_s": "2026-04-01",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/b10a6f01-320c-4d56-b545-1ee5b70fdaeb\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs"
+  ],
+  "dct_title_s": "Rampes de mise à l'eau - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-02T15:31:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7dc7a85e-78aa-5a28-be63-e48c8eef1ba0",
+  "schema_provider_s": "Données Québec"
+}

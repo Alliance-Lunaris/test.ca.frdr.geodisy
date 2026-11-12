@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The HOT2000 software contains monthly and annual climate data for 403 locations in Canada. Boundary lines for HOT2000 climate zones were defined through spatial interpolation of the annual Celsius heating degree-days for each weather station. In a number of instances, the positions of boundary lines may not be representative of the local climate conditions due to lack of appropriate climate data. Each HOT2000 climate zone contains one weather station to be used for all locations within the zone. Climate data represent 20-year averaged data from 1998 to 2017 for locations south of 58° latitude and 13-year averaged data from 2005 to 2017 for locations north of 58° latitude. Note that Whistler, BC uses 13 years of data.  \n  \n  The following information is available in the climate map:  \n  \n  o\tLocation: the name of the weather station.  \n  \n  o\tRegion: the provincial or territorial location of the weather station.  \n  \n  o\tLatitude: measured in degrees north of the equator.  \n  \n  o\tAnnual heating degree-days using a base of 18 °C.  \n  \n  o\tDesign heating dry bulb temperature (°C): the 2.5% January design temperature used to calculate the design heat loss for the house.  \n  \n  o\tDesign cooling dry bulb temperature (°C): the 2.5% July design temperature used to calculate the design cooling load for the house.  \n  \n  o\tDesign cooling wet bulb temperature (°C): the 2.5% July design temperature used to calculate the design cooling load for the house.  \n  \n  The climate map is intended to be used by all users of the HOT2000 software under the EnerGuide Rating System, including energy advisors, service organizations, regulatory agencies, builders, utilities, and all levels of government.  \n  \n  The weather locations and climate data are based on Environment and Climate Change Canada data, specifically the Canadian Weather Energy and Engineering Datasets (CWEEDS)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4672733b-bbb6-4299-a57f-f19ab475ac11"
+  ],
+  "dct_issued_s": "2020-11-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4672733b-bbb6-4299-a57f-f19ab475ac11\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "HOT2000 Climate Map",
+  "gbl_mdModified_dt": "2024-02-15T18:15:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "74a16423-647a-5eae-9eda-95ccd7ddbf83",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.719, -93.3503, 58.6481, 49.0027)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains points showing the locations of the Manitoba Infrastructure's (MI) approved, new, and continuing capital projects for the year 2021/2022. Examples of MI's capital projects are asphalt surface treatment, grading, bituminous rehabilitation, concrete reconstruction, culvert jacking, intersection improvement, structures improvement, traffic signal improvements, and traffic safety improvements.\n\nThis dataset contains points showing the locations of the capital projects such as asphalt surface treatment, grading, bituminous rehabilitation, concrete reconstruction, culvert jacking, intersection improvement, structures improvement, traffic signal improvements, and traffic safety improvements. This dataset was created by digitizing high-resolution imagery of Manitoba road network, bridge sites, and culvert locations. The details of the capital projects are available as attributes of the dataset. Fields included ( Alias (Field Name): Field description.) ObjectID (OBJECTID): Sequential unique whole numbers that are automatically generated Project # (Project__):  A unique ID assigned to a project by MI Capital Project Team. Hwy (Hwy): The highway number where the project is located.  Location Description (Location_Description): A detailed description of the project location. Project Distance in km (km): The physical length of the project Project Type (Project_Type): A particular category assigned to the project based on the nature of work. Total Project Status (Total_Project_Status): Current total status of the project (e.g. new, continue, etc.) Construction Project Status (Construction_Project_Status): Current phase of project (e.g. construction phase, engineering design phase, etc.) Anticipated Construction Start Date (Anticipated_Construction_Start_): The expected construction start date for the project. Anticipated Construction Complete Date (Anticipated_Construction_Comple): The expected construction completion date for the project. Municipality Name (MUNI_NAME): The name of the municipality where the project is located. Department Program (Department_Program): The name of the MI department responsible for the project. This dataset is used in Manitoba Infrastructure Projects an interactive map that shows Manitoba infrastructure's new, approved, and continuing capital project locations."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fce488e7-4233-22e4-f264-997d04547551"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fce488e7-4233-22e4-f264-997d04547551\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Capital Plans Project Status",
+  "gbl_mdModified_dt": "2026-04-22T11:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "14efc5c2-d373-54f8-847c-79ecabfd6be4",
+  "locn_geometry": "ENVELOPE(-101.719, -93.3503, 58.6481, 49.0027)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0, -89.0, 60.0, 49.0)",
+  "dcat_keyword_sm": [
+    "Land Use",
+    "Canada",
+    "Planning",
+    "Government",
+    "Community Planning",
+    "Government of Manitoba",
+    "Province of Manitoba",
+    "basemap",
+    "Parcels",
+    "Municipality",
+    "Parcel",
+    "Survey Parcel",
+    "basemaps",
+    "Manitoba Government",
+    "Manitoba",
+    "Municipalities",
+    "Parcel Mapping",
+    "Survey"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div><p>This vector tile layer provides a province-wide representation of Manitoba's township-range and parish lot framework. At smaller scales, the layer displays generalized township and parish boundaries to provide geographic context. As users zoom in, additional detail becomes visible, including individual quarter section boundaries within townships, parish lot boundaries, and corresponding labels.</p><p>The layer is intended as a cartographic reference for land location, cadastral, and geospatial applications. Scale-dependent symbology and labeling are used to optimize map performance and readability across a wide range of viewing scales.</p><p>Features include:</p><ul><li>Township boundaries and labels</li><li>Parish boundaries and labels</li><li>Section and quarter section boundaries and labels</li><li>Parish lot boundaries and labels</li></ul><p>Intended Use:</p><p>The boundaries depicted in this layer are intended for cartographic reference and visualization purposes only. Boundary locations may not align precisely with surveyed parcel boundaries, legal descriptions, or real-world positions and should not be used to determine property extents, boundary locations, or measurements.</p><p>This layer is not intended for digitizing, editing, or creating authoritative spatial data. Users requiring parcel geometry or legal land boundaries should use the authoritative&nbsp;<span style=\"font-family:Arial;\"> </span><a target=\"_blank\" href=\"https://www.arcgis.com/home/item.html?id=8106acf39b124422a5f03a5c4e55d269#overview\"><span style=\"font-family:Arial;\"><strong>Roll Entry</strong></span></a><span style=\"font-family:Arial;\"><strong> </strong></span>layer maintained by the Province of Manitoba.</p><p>This layer is designed as a reference basemap overlay for locating and identifying Dominion Land Survey townships, sections, and Manitoba parish lots. It is suitable for web maps and geographic reference purposes.</p></div>"
+  ],
+  "dct_identifier_sm": [
+    "dd7654001d204ed4a44158105f127951",
+    "https://www.arcgis.com/home/item.html?id=dd7654001d204ed4a44158105f127951"
+  ],
+  "dct_issued_s": "2026-07-07",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/maps/manitoba::manitoba-original-survey-grid\"}",
+  "dct_rights_sm": [
+    "Use of this dataset is governed by the Manitoba government's copyright terms and the OpenMB Information and Data Use Licence: https://www.gov.mb.ca/legal/copyright.html"
+  ],
+  "dct_title_s": "Manitoba Original Survey Grid",
+  "gbl_mdModified_dt": "2026-09-17T17:01:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "840b2f82-7569-522e-a276-36e366f93772",
+  "locn_geometry": "ENVELOPE(-102.0, -89.0, 60.0, 49.0)",
+  "schema_provider_s": "Data MB"
+}

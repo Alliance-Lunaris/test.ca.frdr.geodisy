@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.9695, -55.3598, 52.043, 46.9072)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "In place since fall 1994, the sentinel fisheries program is the result of a collaboration between Fisheries and Oceans Canada (DFO) and commercial fishermen’s associations in Quebec and Newfoundland. Under this program, contracts are awarded by tender to fishermen’s associations to conduct fishing activities in accordance with scientific protocols developed by DFO. The primary objective of this survey is to collect data used to calculate abundance indices for the northern Gulf of St. Lawrence Atlantic cod stock.\n\nDescription of fixed gears survey\n\nThe fixed gear sentinel fisheries program in the northern Gulf of St. Lawrence is conducted in the Northwest Atlantic Fisheries Organization (NAFO) sub-division 3Pn and the divisions 4R, 4S, using fixed gillnets or longlines. Other fishing gears were also used during the early years of the program. Fishing activities with nets must have a mesh size of 5 ½ inches (140mm), and the number of nets is limited to a maximum of 6 to 20, depending on the region and catch. The target immersion time for gillnets (and other nets) is 19 to 24 hours. Longline fishing must be carried out with traditional J #16 or C #12 hooks. The maximum number of hooks varies from 500 to 1000, depending on the catch. The target immersion time for longlines is 4 to 6 hours. Data are collected by observers at sea or by technicians.\n\nData\n\nFor each fishing activity, the total catch is sorted and weighed by species. For each species other than Atlantic cod, the number of individuals caught is noted. Atlantic cod are then measured at the fork (cm). Other biological data such as weight (total, gonad, liver and stomach), age, sex and maturity are then collected on a subsample of cod.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for fish taxa, a “Carbio” file containing biological and morphometric measurements per individual, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level, use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nThe data collected as part of this program is available below. It is important to note, however, that 1) only traits deemed successful have been retained; 2) historical data may contain inaccuracies; 3) the most recent survey is not available for validation purposes. For more information please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d82e5388-f241-4c27-875a-941a49ab70c8"
+  ],
+  "dct_issued_s": "2020-03-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d82e5388-f241-4c27-875a-941a49ab70c8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Fixed gear sentinel fisheries program - northern Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-18T18:30:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e3fddab8-459e-53fa-a7e5-7c14cde08a75",
+  "locn_geometry": "ENVELOPE(-66.9695, -55.3598, 52.043, 46.9072)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

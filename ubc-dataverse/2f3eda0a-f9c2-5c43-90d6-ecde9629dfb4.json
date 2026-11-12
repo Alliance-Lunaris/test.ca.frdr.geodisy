@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "Solar radiation",
+    "Aspen",
+    "aspen leaf miner",
+    "biophysics",
+    "thermal performance curve",
+    "Populus tremuloides",
+    "growth rate",
+    "feeding rate",
+    "Phyllocnistis populiella",
+    "extended phenotype",
+    "heat budget"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Woods, H. Arthur (University of Montana). ORCID: https://orcid.org/0000-0002-3147-516X",
+    "Legault, Geoffrey (University of British Columbia). ORCID: https://orcid.org/0000-0003-2136-587X",
+    "Kingsolver, Joel (University of North Carolina at Chapel Hill). ORCID: https://orcid.org/0000-0002-9839-0208",
+    "Pincebourde, Sylvain (François Rabelais University). ORCID: https://orcid.org/0000-0001-7964-5861",
+    "Shah, Alisha (Michigan State University).",
+    "Larkin, Beau (MPG Ranch). ORCID: https://orcid.org/0000-0001-8387-7315"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/GGdMUSTpy5o2aSSJyxlRagyrddn9VF-6GeFOm1bGJJs</p>\n<p><b>Storage size:</b> 3637118</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>In tree canopies, incoming solar radiation interacts with leaves and branches to generate temperature differences within and among leaves, presenting thermal opportunities and risks for leaf-dwelling ectotherms. Although leaf biophysics and insect thermal ecology are well understood, few studies have examined them together in single systems.   \tWe examined temperature variability in aspen canopies, Populus tremuloides, and its consequences for a common herbivore, the leaf-mining caterpillar Phyllocnistis populiella. We shaded leaves in the field and measured effects on leaf temperature and larval growth and survival. We also estimated larval thermal performance curves for feeding and growth and measured upper lethal temperatures. Sunlit leaves directly facing the incoming rays reached the highest temperatures, typically 3 – 8 °C above ambient air temperature. Irradiance driven increases in temperatures, however, were transient enough that they did not alter observed growth rates of leaf miners. Incubator and ramping experiments suggested that larval performance peaks between 25 and 32 °C and declines to zero between 35 and 40 °C, depending on duration of temperature exposure. Upper lethal temperatures during one-hour heat shocks were 42 – 43 °C.   \tWhen larvae were active in early spring, temperatures generally were low enough to depress rates of feeding and growth below their maxima, and only rarely did estimated mine temperatures rise beyond optimal temperatures. Observed leaf or mine temperatures never approached larval upper lethal temperatures. At this site during our experiments, larvae thus appeared to have a significant thermal safety margin; the more pressing problem was inadequate heat. Detailed information on mine temperatures and larval performance curves, however, allowed us to leverage long-term data sets on air temperature to estimate potential future shifts in performance and longer-term risks to larvae from lethally high temperatures. This analysis suggests that, in the past 20 years, larval performance has often been limited by cold and that the risk of heat stress has been low. Future warming will raise mean rates of feeding and growth but also the risk of exposure to injuriously or lethally high temperatures.",
+    "<b>Methods</b><br /><p>These data were collected primarily at the MPG North Ranch, as detailed in the associated paper. The data are derived from weather stations, local measurements of leaf temperatures using thermocouples and infrared cameras, measurements of feeding, growth, and survival of larvae of the aspen leaf miner (Phyllocnistis populiella) as functions of temperature. Some growth data were obtained at the University of Montana.</p>",
+    "<b>Usage notes</b><br /><p>Scripts and data files are arranged by the figures in which they occur (Figures 3 - 12 in the main paper). Each R script reads in the necessary data from associated .csv or .txt files. One figure (Figure 3) also requires reading in a set of raw files from data loggers, which are provided in two zip files. The script provides a call to unzip those files locally.</p>"
+  ],
+  "dct_identifier_sm": [
+    "342142_150149",
+    "https://doi.org/10.5683/SP3/QQ7MSD"
+  ],
+  "dct_issued_s": "2022-06-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QQ7MSD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Climate-driven thermal opportunities and risks for leaf miners in aspen canopies",
+  "gbl_mdModified_dt": "2022-06-09T19:31:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2f3eda0a-f9c2-5c43-90d6-ecde9629dfb4",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

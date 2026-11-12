@@ -1,0 +1,101 @@
+{
+  "dcat_keyword_sm": [
+    "ESTs",
+    "transcriptome sequencing",
+    "weeds",
+    "Lactuca serriola",
+    "Taraxacum officinale",
+    "Centaurea stoebe micranthos",
+    "Helianthus ciliaris",
+    "sequence assemblies",
+    "Cirsium arvense",
+    "Centaurea diffusa",
+    "Centaurea solstitialis",
+    "Ambrosia trifida",
+    "Carthamus oxyacanthus",
+    "microarray development",
+    "Ambrosia artemisiifolia",
+    "Helianthus annuus",
+    "invasive plants",
+    "Next Generation Sequencing",
+    "Compositae"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lai, Zhao (Indiana University Bloomington).",
+    "Kane, Nolan C. (University of Colorado Boulder, University of British Columbia).",
+    "Kozik, Alex (University of California, Davis).",
+    "Hodgins, Kathryn A. (University of British Columbia, Monash University).",
+    "Dlugosch, Katrina M. (University of Arizona, University of British Columbia).",
+    "Barker, Michael S. (University of Arizona).",
+    "Matvienko, Marta (University of California, Davis).",
+    "Yu, Qian (Indiana University Bloomington).",
+    "Turner, Kathryn G. (University of British Columbia, Colorado State University).",
+    "Pearl, Stephanie Anne (University of Georgia).",
+    "Bell, Graeme D.M..",
+    "Zou, Yi (Xi’an Jiaotong-Liverpool University, Indiana University Bloomington).",
+    "Grassa, Chris (University of British Columbia).",
+    "Guggisberg, Alessia (University of British Columbia).",
+    "Adams, Keith L. (University of British Columbia).",
+    "Anderson, James V..",
+    "Horvath, David P..",
+    "Kesseli, Richard V. (University of Massachusetts Amherst).",
+    "Burke, John M. (University of Georgia).",
+    "Michelmore, Richard W. (University of California, Davis, University of British Columbia).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Bell, Graeme D. M. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/aer4wwRv7IaeN3Jz3yWSZDYN9RgwWhMzx5cUMSWt_w0</p>\n<p><b>Storage size:</b> 473476571</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>PREMISE OF THE STUDY: Weeds cause considerable environmental and economic damage. However, genomic characterization of weeds has lagged behind that of model plants and crop species. Here we report on the development of genomic tools and resources for 11 weeds from the Compositae family that will serve as a basis for subsequent population and comparative genomic analyses. Because hybridization has been suggested as a stimulus for the evolution of invasiveness, we also analyze these genomic data for evidence of hybridization. METHODS: We generated 22 expressed sequence tag (EST) libraries for the 11 targeted weeds using Sanger, 454, and Illumina sequencing, compared the coverage and quality of sequence assemblies, and developed NimbleGen microarrays for expression analyses in five taxa. Where possible, we also compared the distributions of Ks values between orthologs of congeneric taxa to detect and quantify hybridization and introgression. RESULTS: Gene discovery was enhanced by sequencing from multiple tissues, normalization of cDNA libraries, and especially greater sequencing depth. However, assemblies from short sequence reads sometimes failed to resolve close paralogs. Substantial introgression was detected in Centaurea and Helianthus, but not in Ambrosia and Lactuca. CONCLUSIONS: Transcriptome sequencing using next generation platforms has greatly reduced the cost of genomic studies of non-model organisms, and the ESTs and microarrays reported here will accelerate evolutionary and molecular investigations of Compositae weeds. Our study also shows how ortholog comparisons can be used to quantify the genome-wide extent of introgression and to identify genes that have been exchanged between hybridizing taxa.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SAW-3</h4><div class=\"o-metadata__file-description\">Collection ID: SAW-3 | Taxon: Helianthus annuus L. | Common name: Common sunflower | Collection locality: Port Augusta, Australia (latitude 32.29, longitude 137.47) | Plant tissues employed for EST library development: Seedlings | Library type: Normalized | Sequence type: Illumina</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">280808-2</h4><div class=\"o-metadata__file-description\">Collection ID: 280808-2 | Taxon: Cirsium arvense (L.) Scop. | Common name: Canada thistle | Collection locality: Female plant, Lugoj, Romania (latitude 45.65, longitude 21.95) | Plant tissues employed for EST library development: Leaves | Library type: Standard | Sequence type: Illumina</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">AA8-20</h4><div class=\"o-metadata__file-description\">Collection ID: AA8-20 | Taxon: Ambrosia artemisiifolia | Common name: Common ragweed | Collection locality: Russell, MN, USA (latitude 44.19, longitude -95.57) | Plant tissues employed for EST library development: Leaves | Library type: Normalized, Size-selected | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">AR-13-24</h4><div class=\"o-metadata__file-description\">Collection ID: AR-13-24 | Taxon: Centaurea solstitialis L. | Common name: Yellow starthistle | Collection locality: Santa Rosa, Argentina (latitude -37.39, longitude -64.08) | Plant tissues employed for EST library development: Leaves | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">DK_TR001-1L</h4><div class=\"o-metadata__file-description\">Collection ID: DK_TR001-1L | Taxon: Centaurea diffusa Lam. | Common name: Diffuse knapweed | Collection locality: Kirklarelì, Turkey (latitude 41.45, longitude 27.14) | Plant tissues employed for EST library development: Leaves | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">DK_US022-31E</h4><div class=\"o-metadata__file-description\">Collection ID: DK_US022-31E | Taxon: Centaurea diffusa Lam. | Common name: Diffuse knapweed | Collection locality: Roosevelt, WA, USA (latitude 45.44, longitude -120.12) | Plant tissues employed for EST library development: Leaves | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">GNV8ASA01</h4><div class=\"o-metadata__file-description\">Collection ID: GNV8ASA01 | Taxon: Ambrosia trifida L. | Common name: Giant ragweed | Collection locality: Jilin, Jilin, China (latitude 43.50, longitude 126.32) | Plant tissues employed for EST library development: Roots, Leaves, Flower buds, Mature Flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">GNV8ASA02</h4><div class=\"o-metadata__file-description\">Collection ID: GNV8ASA02 | Taxon: Ambrosia trifida L. | Common name: Giant ragweed | Collection locality: Dengta, Liaoning, China (latitude 41.25, longitude 123. 20) | Plant tissues employed for EST library development: Roots, Leaves, Flower buds, Mature Flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">GNV8ASA03</h4><div class=\"o-metadata__file-description\">Collection ID: GNV8ASA03 | Taxon: Ambrosia trifida L. | Common name: Giant ragweed | Collection locality: Kampsville, IL, USA (latitude 39.16, longitude 90.37) | Plant tissues employed for EST library development: Roots, Leaves, Flower buds, Mature Flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">GNV8ASA04</h4><div class=\"o-metadata__file-description\">Collection ID: GNV8ASA04 | Taxon: Ambrosia trifida L. | Common name: Giant ragweed | Collection locality: Bloomington, IN, USA (latitude 39.92, longitude 86.31) | Plant tissues employed for EST library development: Roots, Leaves, Flower buds, Mature Flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Hann_ISI</h4><div class=\"o-metadata__file-description\">Collection ID: Hann_ISI | Taxon: Helianthus annuus L. | Common name: Common sunflower | Collection locality: Ma'ayan Tzvi, Israel (latitude 32.33, longitude 34.56) | Plant tissues employed for EST library development: Seedlings | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">HU1-11</h4><div class=\"o-metadata__file-description\">Collection ID: HU1-11 | Taxon: Ambrosia artemisiifolia L. | Common name: Common ragweed | Collection locality: Biatorbagy, Hungary (latitude 47.46, longitude 18.81) | Plant tissues employed for EST library development: Leaves | Library type: Normalized, Size-selected | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">KN-ON</h4><div class=\"o-metadata__file-description\">Collection ID: KN-ON | Taxon: Cirsium arvense (L.) Scop. | Common name: Canada thistle | Collection locality: Male plant, Richmond Hill, ON, Canada (latitude 43.95, longitude -79.56) | Plant tissues employed for EST library development: Leaves | Library type: Standard | Sequence type: Illumina</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">NW-22-1-M</h4><div class=\"o-metadata__file-description\">Collection ID: NW-22-1-M | Taxon: Cirsium arvense (L.) Scop. | Common name: Canada thistle | Collection locality: Female plant, Fargo, ND, USA (latitude 46.93, longitude -96.86) | Plant tissues employed for EST library development: Roots, Leaves, Flower buds, Mature flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">PI407602</h4><div class=\"o-metadata__file-description\">Collection ID: PI407602 | Taxon: Carthamus oxyacanthus M. Bieb. | Common name: Jeweled distaff thistle | Collection locality: 38 km north of crossroad just west of Mardin, Turkey | Plant tissues employed for EST library development: Roots, Leaves, Mature Flowers | Library type: Normalized, double-stranded | Sequence type: 454</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152294_150149",
+    "https://doi.org/10.5683/SP2/JTYLIF"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/JTYLIF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Dengta, Liaoning, China",
+    "Biatorbagy, Hungary",
+    "Kampsville, IL, USA",
+    "Mardin, Turkey",
+    "Boston, MA, USA",
+    "Port Augusta, Australia",
+    "Santa Rosa, Argentina",
+    "Jilin, Jilin, China",
+    "Walnut Creek, CA, USA",
+    "Ma'ayan Tzvi, Israel",
+    "Kirklarelì, Turkey",
+    "Roosevelt, WA, USA",
+    "Lugoj, Romania",
+    "Richmond Hill, ON, Canada",
+    "Fargo, ND, USA",
+    "Russell, MN, USA",
+    "Dona Ana County, NM, USA",
+    "Davis, CA, USA",
+    "Heteren, The Netherlands",
+    "Bloomington, IN, USA"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genomics of Compositae weeds: EST libraries, microarrays, and evidence of introgression",
+  "gbl_mdModified_dt": "2021-05-20T00:59:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5185cf24-08eb-5bd1-8cbb-ad9738a8ccab",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.29503979306213, -75.35289710401572, 45.51900774358088, 45.12222854280402)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "accident",
+    "crash",
+    "count",
+    "car",
+    "bicycle",
+    "A city that is more connected with reliable safe and accessible mobility options",
+    "volume"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p>Data includes: intersection volume totals, date of collection and Intersection location name.&nbsp;<br /><br /><strong>Accuracy</strong>: All motorized vehicle data provided is based on either an 8 or 12 hour standard count. The collected raw total is then expanded to a 24 hour volume and factored by Ottawa’s Annual Average Daily Traffic (AADT) values providing a factored 24 hour value. The pedestrian and bicycle totals are raw volumes which were observed over either an 8 or 12 hour period. All data points reported were collected using an automatic traffic recorder with an expected 95% +/- 5% accuracy.&nbsp;<br /><br />The City of Ottawa provides this information in good faith but provides no warranty, nor accepts any liability arising from any incorrect, incomplete or misleading information or its improper use.&nbsp;<br /><br />Annual Average Daily Traffic (AADT) is the average number of motorized vehicles in 24 hours, and provides an estimation of the motorized vehicle volume on any day of the year.&nbsp;<br /><br /><strong>Update Frequency</strong>: Annually – note locations subject to change to reflect ad-hoc nature of intersection volume count program&nbsp;<br /><br /><strong>Attributes</strong>:&nbsp;<br /><br />• All Motorized Vehicles AADT (24 hour volume) represents total factored motorized vehicles volume&nbsp;<br /><br />• % Trucks represents the total percentage of truck volume in the All Motorized Vehicles AADT (24 hour volume) field&nbsp;<br /><br />• Pedestrians Not Factored represents the raw observed pedestrian volume over either an 8 or 12 hour observation&nbsp;<br /><br />• Bicycles Not Factored represents the raw observed bicycle volume over either an 8 or 12 hour observation&nbsp;<br /><br /><strong>Contact</strong>:&nbsp;<a href='mailto:cameron.gorman@ottawa.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>Traffic Services</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "17bd5892d1b74964953076aa3ab25b2b",
+    "https://www.arcgis.com/home/item.html?id=17bd5892d1b74964953076aa3ab25b2b"
+  ],
+  "dct_issued_s": "2019-08-23",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::transportation-intersection-volumes-2018\"}",
+  "dct_title_s": "Transportation Intersection Volumes 2018",
+  "gbl_mdModified_dt": "2026-08-07T18:40:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6a501cc6-6332-538e-98ea-e4a995e6c557",
+  "locn_geometry": "ENVELOPE(-76.29503979306213, -75.35289710401572, 45.51900774358088, 45.12222854280402)",
+  "schema_provider_s": "Open Ottawa"
+}

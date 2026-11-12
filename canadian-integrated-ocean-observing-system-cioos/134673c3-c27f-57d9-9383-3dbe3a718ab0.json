@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.1957321166992, -125.10440826416014, 48.86471476180279, 48.808898428995235)",
+  "dcat_keyword_sm": [
+    "marine",
+    "imagery",
+    "other",
+    "3d",
+    "survey",
+    "oceans",
+    "science",
+    "uav",
+    "mapping",
+    "model",
+    "hakai",
+    "diana",
+    "elevation",
+    "downloadable-data",
+    "grappler",
+    "drone",
+    "autre",
+    "geospatial",
+    "hakai-institute",
+    "bamfield",
+    "2016",
+    "centre",
+    "wizard"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Imagerie UAV de la région Bamfield et données de modèle de surface"
+  ],
+  "dct_creator_sm": [
+    "Hakai Geospatial (Hakai Institute).",
+    "Holmes, Keith (Hakai Institute).",
+    "McInnes, William (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Bamfield UAV Data Capture\nApril 9 & 10th 2016.\nHakai Institute: Iain McKechnie, Will McInnes, and Keith Holmes.\n\nThe Hakai Institute in partnership with the Bamfield Marine Science Centre (BMSC) have conducted UAV (unmanned aerial vehicle) missions in five locations around Bamfield, British Columbia, Canada. The missions took place April 9th and 10th, 2016. The main goal was to collect high spatial resolution imagery and surface models of key research areas for BMSC researchers. All UAV flights and data processing has been completed by the Hakai Institute and the aim is to collaborate research efforts to enhance the spatial knowledge of these key research areas.\n\nThe low tide windows between 8:30 and 11:30 am on April 9th and 10th provided imagery with tides of .5 meters or less and image resolutions of between 3cm and 10cm. Weather was mixed and we had to improvise flights to compensate for low level clouds and fog. In the end we were able to accomplish all our major target areas. Data products that can be generated are the following:\n<ul>\n<li>High resolution imagery mosaics</li>\n<li>Digital surface models</li>\n<li>LAS point cloud data</li>\n<li>3D mesh data</li>\n<li>Raw imagery and video footage</li>\n<li>Georeferencing points and 2 survey markers for Diana Island</li>\n</ul>\nMethodology:\n1) Georeferencing targets were distributed throughout the image capture area. Targets are checkered black and white and 60cm x 60cm.\n\n2) Phantom 3 Pro UAVs were used for all imagery acquisition. Flights were conducted with a grid pattern with greater than 50% overlap in imagery. Small area flights required less images like Wizard with 237 images processed and larger areas like Grappler requiring 504 images. Flights take roughly 15 minutes to conduct and cover up to 1.5 x 1.5 km in a single flight. Full specs for image capture are listed below.\n\n3)  After the flights are conducted the field team inspects the survey coverage using the DJI GO applicaton map. Once they are satisfied a georeferencing mission starts. Georeferencing requires the use of a Topcon DGPS GR5 survey grade GPS system. Targets placed before the flight and opportunistic targets (discussed later) are referenced to within 10 cm horizontal / 15 cm vertical resolution. DGPS soaking is used to enhance accuracy which takes anywhere from 15 seconds to 3 minutes to achieve acceptable levels of variance. Many of the targets achieved well below these numbers. It is essential that the targets are well dispersed. If some areas have not been covered well with targets or there was limited time pre flight to dispense targets opportunistic targets are used. Opportunistic targets are large stationary objects that are close to the ground and can easily be identified in imagery. Often driftwood or geographic features like large rocks or fissures are ideal in the field if no man made structures like cement pads are available.\n\n4) Image processing is conducted using Pix4D software. Images are first inspected for quality (remove high glare or poor contrast images) and then the full data process takes place which includes a flight report, ray cloud / image tie points, triangulated mesh, mosaic and surface model.\n\n5) Image mosaics and digital surface models are then processed in ArcGIS Desktop. Survey DGPS points from the field are used to link up the targets and a sline correction method is used because it assumes we have highly accurate survey data to correct the imagery with. The georeferencing pins are saved and processed again with the accompanying surface model. The final datasets are then exported to our servers for archiving.",
+    "Capture de données UAV Bamfield\n9 et 10 avril 2016.\nInstitut Hakai : Iain McKechnie, Will McInnes et Keith Holmes.\n\nL'Institut Hakai, en partenariat avec le Bamfield Marine Science Centre (BMSC), a mené des missions UAV (véhicule aérien sans pilote) dans cinq endroits autour de Bamfield, en Colombie-Britannique, au Canada. Les missions ont eu lieu les 9 et 10 avril 2016. L'objectif principal était de collecter des images à haute résolution spatiale et des modèles de surface de domaines de recherche clés pour les chercheurs du BMSC. Tous les vols d'UAV et le traitement des données ont été effectués par l'Institut Hakai et l'objectif est de collaborer les efforts de recherche pour améliorer les connaissances spatiales de ces domaines de recherche clés.\n\nLes fenêtres à marée basse entre 8 h 30 et 11 h 30 le 9 et le 10 avril ont fourni des images avec des marées de 0,5 mètre ou moins et des résolutions d'image comprises entre 3 cm et 10 cm. Le temps était mitigé et nous avons dû improviser des vols pour compenser les nuages bas et le brouillard. En fin de compte, nous avons pu atteindre tous nos principaux domaines cibles. Les produits de données pouvant être générés sont les suivants :\n<ul>\n<li>Mosaïques d'imagerie haute résolution</li>\n<li>Modèles de surfaces numériques</li>\n<li>Données de nuage de points LAS</li>\n<li>Données de maillage 3D</li>\n<li>Images brutes et séquences vidéo</li>\n<li>Points de géoréférencement et 2 marqueurs de relevés pour l'île Diana</li>\n</ul>\nMéthodologie :\n1) Les cibles de géoréférencement ont été distribuées dans toute la zone de capture d'image. Les cibles sont à carreaux noir et blanc et 60 cm x 60 cm.\n\n2) Les drones Phantom 3 Pro ont été utilisés pour toutes les acquisitions d'images. Les vols ont été effectués avec un schéma de grille avec un chevauchement d'images supérieur à 50 %. Les vols de petite zone nécessitaient moins d'images comme Wizard avec 237 images traitées et des zones plus grandes comme Grappler nécessitant 504 images. Les vols prennent environ 15 minutes pour effectuer et couvrir jusqu'à 1,5 km sur 1,5 km en un seul vol. Les spécifications complètes de la capture d'images sont répertoriées ci-dessous.\n\n3) Une fois les vols effectués, l'équipe de terrain inspecte la couverture de l'enquête à l'aide de la carte de l'application DJI GO. Une fois satisfaits, une mission de géoréférencement commence. Le géoréférencement nécessite l'utilisation d'un système GPS TopCon DGPS GR5 de grade d'enquête. Les cibles placées avant le vol et les cibles opportunistes (discutées plus loin) sont référencées à une résolution verticale de 10 cm horizontale/15 cm. Le trempage DGPS est utilisé pour améliorer la précision qui prend entre 15 secondes et 3 minutes pour atteindre des niveaux de variance acceptables. Bon nombre des objectifs ont été atteints bien en deçà de ces chiffres. Il est essentiel que les cibles soient bien dispersées. Si certaines zones n'ont pas été bien couvertes par des cibles ou s'il y avait un temps limité avant le vol pour distribuer les cibles, des cibles opportunistes sont utilisées. Les cibles opportunistes sont de grands objets fixes proches du sol et peuvent être facilement identifiés dans l'imagerie. Souvent, le bois flotté ou les caractéristiques géographiques telles que les grosses roches ou les fissures sont idéales sur le terrain si aucune structure fabriquée par l'homme comme les tampons de ciment n'est disponible.\n\n4) Le traitement d'image est effectué à l'aide du logiciel Pix4D. La qualité des images est d'abord inspectée (supprimez les images à fort reflet ou à faible contraste), puis le processus complet des données est effectué, comprenant un rapport de vol, des points d'attache de nuages de rayons/images, un maillage triangulé, une mosaïque et un modèle de surface.\n\n5) Les mosaïques d'images et les modèles de surface numériques sont ensuite traités dans ArcGIS Desktop. Les points DGPS de l'enquête sur le terrain sont utilisés pour relier les cibles et une méthode de correction de la ligne est utilisée car elle suppose que nous disposons de données d'enquête très précises pour corriger les images. Les épingles de géoréférencement sont enregistrées et traitées à nouveau avec le modèle de surface qui l'accompagne. Les jeux de données finaux sont ensuite exportés vers nos serveurs pour archivage."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/abd11340-660f-48b0-8bf0-9ccb142f513d"
+  ],
+  "dct_issued_s": "2016-03-26",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/abd11340-660f-48b0-8bf0-9ccb142f513d\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Bamfield Region UAV Imagery and Surface Model Data",
+  "gbl_mdModified_dt": "2026-09-22T21:23:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "134673c3-c27f-57d9-9383-3dbe3a718ab0",
+  "locn_geometry": "ENVELOPE(-125.1957321166992, -125.10440826416014, 48.86471476180279, 48.808898428995235)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

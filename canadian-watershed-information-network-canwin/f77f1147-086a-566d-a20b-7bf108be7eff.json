@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.41161469, -51.02998924, 60.79070191, 46.27790954)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset was developed to provide a complete record of salmon rivers within the province of Newfoundland and Labrador. It is organized by DFO detachment area and can be used for resource planning and management purposes. It is suitable for general mapping, visualization and query. It is derived from the National Hydro Network (NHN) data.\n\nThe geodatabase contains feature datasets for each of the 8 DFO detachments in Newfoundland and Labrador (Bay Roberts, Clarenville, Goose Bay, Marystown, Rocky Harbour, Springdale, Stephenville, Twillingate). Each of the feature datasets contain 4 feature classes that describe aspects of the salmon rivers within each detachment area. \n\nThe RiverBasins feature class contains polygons outlining the extent of each of the salmon river watersheds that fall within that DFO detachment area. Polygons were delineated using provincial DEMs, National Hydro Network (NHN) river features, the DFO detachment area boundary, and tools contained in the ArcHydro toolset for ArcPro GIS software. \n\nThe SalmonNetwork feature class contains lines which show the flow (undirected) of the river network through each of the salmon river watersheds that fall within that DFO detachment area. The flow is depicted by lines that run through rivers and streams and through waterbodies. The lines were imported from the National Hydro Network (Primary Directed Flow feature class) and then organized by salmon river watershed, to create a dataset with one line feature for each watershed. \n\nThe SalmonRivers feature class contains lines which show salmon rivers within each of the salmon river watersheds that fall within that DFO detachment area. The lines were imported from the National Hydro Network (SLWater feature class) and then organized by salmon river watershed, to create a dataset with one line feature for each watershed. Only \"single-line\" rivers are included. Larger, \"two-sided\" rivers are depicted as polygons in the \"Salmon Waterbodies\" dataset.\n\nThis SalmonWaterbodies feature class contains polygons which show salmon waterbodies within each of the salmon river watersheds that fall within that DFO detachment area. The polygons were imported from the National Hydro Network (Waterbody feature class) and then organized by salmon river watershed, to create a dataset with one polygon feature for each watershed. Larger, \"two-sided\" rivers are also depicted as polygons in the \"Salmon Waterbodies\" dataset.\n\nThe geodatabase contains attribute information on the name, zone and class of each salmon river as reflected in the following documents: (i) Anglers' Guide - Scheduled Salmon Rivers of Newfoundland and Labrador and (ii) Conservation and Protection - Scheduled Salmon Rivers & DFO Detachment Regions Newfoundland and Labrador. It also provides links to online information on current in-season status"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/943d2048-4e75-4a6a-ad43-6ff1d1c56e2d"
+  ],
+  "dct_issued_s": "2025-08-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/943d2048-4e75-4a6a-ad43-6ff1d1c56e2d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Salmon Rivers Geodatabase - by DFO Detachment (NL Region)",
+  "gbl_mdModified_dt": "2026-03-24T08:41:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f77f1147-086a-566d-a20b-7bf108be7eff",
+  "locn_geometry": "ENVELOPE(-68.41161469, -51.02998924, 60.79070191, 46.27790954)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

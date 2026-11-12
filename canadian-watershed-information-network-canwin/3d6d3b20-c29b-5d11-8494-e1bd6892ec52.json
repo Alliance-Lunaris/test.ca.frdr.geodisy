@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.767, -69.592, 48.122, 47.993)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this study was to characterize the kelp bed at Batture-aux-Alouettes, a preferred food source for the green sea urchin (Strongylocentrotus droebachiensis). The green urchin is fished commercially in Quebec and the fishing effort is concentrated on the Batture-aux-Alouettes near Tadoussac, at the mouth of the Saguenay Fjord. The study was conducted in two separate phases in 2018 and 2019. The main objective of this study was to determine the abundance and biomass of the kelp bed at Batture-aux-Alouettes. \n\nThe first phase, using a stratified random sampling design, was conducted from August 21th to August 24th, 2018. Sampling of two 50 x 50 cm quadrats, separated by a distance of approximately 30 m, was conducted at eleven sites during twelve dives in the eastern section of the Batture-aux-Alouettes to collect kelp for biomass estimation and macroalgal species richness assessment. In the second phase, a total of 429 stations were first sampled between July 15 and 18, 2019 with a camera system dropped in two 50 x 50 cm quadrats. The presence or absence of kelp, percent macroalgal cover, and substrate type were assessed for each photo. As a result of this underwater photographic analysis, 129 of these stations were identified as having a presence of kelp and 88 of these stations had a presence of other algal species. To ensure equal representation of the different depth strata, the stations with kelp were divided into three depth categories: shallow (-1.7 m to 0 m), medium (0 m to 2 m) and deep (2 m to 5 m). Dives were conducted from August 13 to 15, 2019, at ten of these stations using a stratified random sampling design, taking care to ensure a balanced spatial distribution as well as an equal distribution of the different depth strata (four in the shallow, three in the medium, and two in the deep). Sampling of the 50 x 50 cm dive quadrat took place at three different distances spaced 5 m apart from a transect, i.e. at the 3 m (_3m), 8 m (_8m) and 13 m (_13m) mark. If there was little or no kelp in the quadrat, the quadrat sampling could be repeated for up to four quadrats per distance for a total area of 1 m².  Two additional quadrats were conducted (_x) at two stations. Biomass assessment was also done via \"cookie cutter\" sampling (_CC). Divers took the same 50 x 50 cm quadrat and placed it on a selected (i.e., non-random) plot with 100% kelp cover.\n\nThe three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic information about the event, such as date and location. The \"additional_information_event_and_occurrence\" file includes sample size, protocol and sampling effort. The \"taxon_occurrence\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. To obtain the abundance and biomass assessment of the kelp bed at Batture-aux-Alouettes, contact Rénald Belley (renald.belley@dfo-mpo.gc.ca).\n\nFor quality control, the organisms were identified in the field fallowing the guide: Chabot, Robert et Anne Rossignol. 2003. Algues et faune du littoral du Saint-Laurent maritime : Guide d'identification. Institut des Sciences de la mer de Rimouski, Rimouski; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages. The taxonomy was checked against the World Register of Marine Species (WoRMS) to match recognized standards and using the R obistools and worrms libraries. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. All sample locations were spatially validated.  \n\nThis project was funded by DFO Coastal Environmental Baseline Program under Canada’s Oceans Protection Plan. This initiative aims to acquire environmental baseline data contributing to the characterization of important coastal areas and to support evidence-based assessments and management decisions for preserving marine ecosystems."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4675a6b4-2c27-4f8e-b813-1df3f8c896e2"
+  ],
+  "dct_issued_s": "2021-11-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4675a6b4-2c27-4f8e-b813-1df3f8c896e2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Characterization of the Batture-aux-Alouettes kelp bed in 2018-2019",
+  "gbl_mdModified_dt": "2026-03-24T08:04:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3d6d3b20-c29b-5d11-8494-e1bd6892ec52",
+  "locn_geometry": "ENVELOPE(-69.767, -69.592, 48.122, 47.993)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "To help address the growing demand for snow information in a changing climate, the Canadian Centre for Climate Services (CCCS) has produced projections of daily water equivalent of snowfall and rainfall. This product is derived from the Multivariate Canadian Downscaled Climate Scenarios for CMIP6 (CanDCS-M6) dataset, produced by the Pacific Climate Impacts Consortium (PCIC). These datasets are available for a multi-model ensemble of 26 CMIP6 GCMs under 4 Shared Socioeconomic Pathways (SSPs): SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5). Additional details on the CanDCS-M6 ensemble and its downscaling methodologies are documented in Sobie et al. (2024).\r\n\r\nSnowfall water equivalent (formally known as the Height of New snowfall Water equivalent, HNW, but is more commonly abbreviated as SWE) is estimated using a solid/liquid precipitation fraction partitioning scheme described in Dai (2008) and Sobie & Murdock (2022). The solid precipitation fraction is first estimated by applying a hyperbolic tangent function to daily mean temperature outputs and then scaled between -10°C and 10°C. The fraction is then applied to total precipitation outputs to obtain snowfall water equivalent values. Subsequent rainfall values are computed as the difference between total precipitation and the snowfall water equivalent.\r\n\r\nA number of climate indices are also derived using each daily variable. For snowfall: total snowfall (prsntot), max 1-day snowfall (snx1day), number of days when snowfall exceeds 2 and 10 mm (sn2mm & sn10mm), first day when snowfall exceeds 1mm, last day when snowfall exceeds 1mm, and the snowfall season length are available. For rainfall, total rainfall and max 1-day rainfall are available. \r\n\r\nThe indices are available across Canada at 10km grid spatial resolution from 1950-2100. They include climate indices for annual, seasonal, and monthly time frequencies. Outputs for individual models, ensemble statistics, and 30-year averages and changes are also available.\r\n\r\nThe CCCS would also like to acknowledge and thank PCIC for independently developing and verifying some of the snowfall water equivalent climate indices, sharing their methodologies, and providing their data for the validation of these indices. \r\n\r\n\r\nReferences:\r\n\r\nDai, A. (2008). Temperature and pressure dependence of the rain-snow phase transition over land and ocean. Geophysical Research Letters 35. https://doi.org/10.1029/2008GL033295\r\n\r\nSobie, S.R. & Murdock, T.Q. (2022). Projections of Snow Water Equivalent Using a Process-Based Energy Balance Snow Model in Southwestern British Columbia. Journal of Applied Meteorology and Climatology 61, 77–95. https://doi.org/10.1175/JAMC-D-20-0260.1\r\n\r\nSobie, S.R., Ouali, D., Curry, C.L. & Zwiers, F.W. (2024). Multivariate Canadian Downscaled Climate Scenarios for CMIP6 (CanDCS-M6). Geoscience Data Journal 11, 806–824. https://doi.org/10.1002/gdj3.257"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f8a8af92-3478-4653-8340-fcc0cd665e10"
+  ],
+  "dct_issued_s": "2025-07-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f8a8af92-3478-4653-8340-fcc0cd665e10\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Snowfall water equivalent projections derived uisng the statistically downscaled climate scenarios from CMIP6 global climate models (CanDCS-M6)",
+  "gbl_mdModified_dt": "2025-07-18T18:50:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "38321ebf-64f6-5005-8986-ad781a750fdb",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

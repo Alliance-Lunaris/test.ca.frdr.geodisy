@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2713, -122.9209, 50.168, 49.3604)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wang, Po-Chun (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "The transportation sector is a major contributor to global greenhouse gas emissions, prompting a growing shift toward electric vehicles (EVs) as a climate mitigation strategy. EVs are known for their efficiency, but how they perform in hilly or mountainous terrain highway still needs closer study. This study investigates the energy consumption and cost efficiency of internal combustion vehicles (ICVs) and EVs along a mountainous corridor to evaluate the operational benefits of EVs in terrain where regenerative braking may offer significant advantages. Focusing on the Sea to Sky Highway between Horseshoe Bay and Whistler, British Columbia, the research compares a Volvo XC40 (ICV) and a Volvo EX40 (EV), two nearly identical vehicle models differing only in powertrain. The study area, known for steep and frequent elevation changes, provides an ideal landscape to assess the energy recovery potential of EVs. The analysis used data from Canada’s 2021 Road Network Census and LiDAR-derived digital elevation models. The road segment was digitized and processed in QGIS to extract elevation and road network attributes. Energy consumption was calculated using the Battery-Electric Vehicle Energy Routing (BEVER) tool, which incorporates the Bellman-Ford algorithm to capture both energy use and regenerative gains. Results showed that the EX40 consumed significantly less energy (under 120 kWh) than the XC40 (over 300 kWh) over the same route. Regenerative braking helped maintain a flatter energy curve. Financial analysis confirmed the EX40’s cost advantage, even when using Level 3 public charging. These findings underscore the operational and economic benefits of EVs in topographically varied landscapes and highlight the importance of charging infrastructure and policy support for accelerating EV adoption."
+  ],
+  "dct_identifier_sm": [
+    "894521_73894_115983",
+    "https://doi.org/10.5683/SP3/ZTA8SG"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZTA8SG\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Mathematical Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Energy Consumption Comparison Between Electric Vehicles and Internal Combustion Vehicles Traveling Between Horseshoe Bay and Whistler with BEVER Tool",
+  "gbl_mdModified_dt": "2025-04-22T16:59:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8177f7ae-3101-5a1f-b204-88c16a2a4b6c",
+  "locn_geometry": "ENVELOPE(-123.2713, -122.9209, 50.168, 49.3604)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

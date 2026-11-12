@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -20.0, 90.0, 40.0)",
+  "dcat_keyword_sm": [
+    "Earth sciences",
+    "levés magnétiques",
+    "Géophysique",
+    "Sciences de la terre",
+    "magnetic surveys",
+    "Geophysics",
+    "levés aériens",
+    "airborne surveys"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Canada - Compilation de données de levés aéromagnétiques"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This data set consists in a compilation of data acquired by aeromagnetic surveys in Canada, gridded at a 200 m and 1 km resolution. Magnetic anomalies show small variations in the magnetic field that are caused largely by variations in the magnetic properties of Earth's crust. The first vertical derivative of magnetic anomalies is calculated from the residual magnetic field and enhances the short wavelength component of the field.  The magnetic character of a rock depends on its ferromagnetic mineral composition, its concentration and its deformational and metamorphic history. To map these variations, the Geological Survey of Canada has been acquiring aeromagnetic data since 1947. Over the years, more than 700 surveys have been carried out, generally with a flight-line spacing of 800 m and an altitude of 305 m above the ground, though since 2000 the majority of surveys have been flown with a line spacing of 400 m or less. These aeromagnetic surveys have been leveled to each other to correct for arbitrary datums, slow variations of Earth's magnetic field over time, and differing survey specifications. The dominant structural trends of geological provinces, truncation of those trends at structural boundaries, and the characteristic patterns of suture zones can be recognized on the magnetic anomaly map. The magnetic signature of Precambrian basement rocks can be seen through the Phanerozoic sedimentary basin cover. Major dyke swarms can be traced over hundreds of kilometers from their radiating linear magnetic pattern. Oceanic crust has a characteristic striped magnetic pattern that is due to changes in the polarity of Earth's magnetic field, which occur over intervals of millions of years.",
+    "Cet ensemble de données est une compilation des données obtenues par levés aéromagnétiques au Canada, interpolée sur des grilles de 200 m et de 1 km. Les anomalies magnétiques illustrent les petites variations du champ magnétique de la Terre qui sont en grande partie attribuables aux variations des propriétés magnétiques de la croûte terrestre. La dérivée première verticale du champ magnétique est calculée à partir de la composante résiduelle du champ magnétique et rehausse la composante de courte longueur d'onde de celui-ci. Le caractère magnétique d'une roche dépend de sa composition minérale ferromagnétique, de sa concentration et de son évolution structurale et métamorphique. Afin d'illustrer graphiquement ces variations, la Commission géologique du Canada recueille des données aéromagnétiques depuis 1947. Avec le temps, plus de 700 levés aéromagnétiques ont été effectués, généralement suivant des lignes de vol espacées de 800 m et à une hauteur de 305 m au-dessus du sol, bien que depuis l'an 2000 la plupart des vols sont effectués suivant des lignes espacées de 400 m ou moins. Tous ces levés aéromagnétiques ont été ramenés à un niveau de référence commun afin de tenir compte des écarts attribuables à des niveaux de référence arbitraires et à des spécifications de levés différentes, ainsi que pour minimiser les effets des lentes variations du champ magnétique terrestre avec le temps. Sur la carte des anomalies magnétiques, il est possible de reconnaître les principales directions structurales des provinces géologiques, la terminaison abrupte des anomalies associées aux limites tectoniques des provinces et les configurations caractéristiques des zones de suture. Il est également possible de distinguer la signature magnétique des roches du socle précambrien qui transparaît au travers des bassins sédimentaires de couverture du Phanérozoïque. De grands essaims de dykes mafiques peuvent être suivis sur des centaines de kilomètres grâce à leur configuration magnétique formée de segments linéaires agencés en un motif radial. La croûte océanique présente une configuration rayée caractéristique reflétant les changements dans la polarité du champ magnétique terrestre qui se produisent à des intervalles de quelques millions d'années."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/752fe3fc-d871-5ae1-9bd9-2b6f65880a8d"
+  ],
+  "dct_issued_s": "2017-05-23",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/752fe3fc-d871-5ae1-9bd9-2b6f65880a8d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canada - Aeromagnetic survey data compilation",
+  "gbl_mdModified_dt": "2020-10-05T02:08:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9bcbbc8-407d-518a-9003-9658e5257a88",
+  "locn_geometry": "ENVELOPE(-141.0, -20.0, 90.0, 40.0)",
+  "schema_provider_s": "Open Data Canada"
+}

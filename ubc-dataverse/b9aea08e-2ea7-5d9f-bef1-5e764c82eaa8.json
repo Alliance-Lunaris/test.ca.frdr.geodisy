@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "space-time perception",
+    "sensorimotor delays",
+    "balance control",
+    "robotics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Belzner, Paul (University of British Columbia). ORCID: https://orcid.org/0009-0007-5649-0837",
+    "Forbes, Patrick A (Erasmus MC). ORCID: https://orcid.org/0000-0002-0230-9971",
+    "Kuo, Calvin (University of British Columbia). ORCID: https://orcid.org/0000-0001-8401-9136",
+    "Blouin, Jean-Sébastien (University of British Columbia, Canada, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Includes data and code to replicate the figures from \"Robotic manipulation of human bipedalism reveals overlapping internal representations of space and time\"\n\nAbstract:\nEffective movement control in bipedal postures relies on sensory inputs from the past, which encode dynamic changes in the spatial properties of our movement over time. To uncover how the spatial and temporal properties of bipedal posture interact in the perception and control of upright stance, we implemented a robotic virtualization of human body dynamics to systematically alter body inertia and viscosity as well as sensorimotor delays in 20 healthy participants. Inertia gains below unity as well as negative viscosity gains led to larger postural oscillations and caused participants to exceed the virtual balance limits, mimicking the disruptive effects of imposing an additional 200 ms sensorimotor delay on balance control. When balancing without delays, participants adjusted their inertia gains to below unity and viscosity gains to negative values to match the perceived effects of balancing with an imposed delay. When delays were present, participants increased inertia gains above unity and used positive viscosity gains to align their perception with baseline balance. Building on these findings, 10 naïve participants exhibited improved balance stability and reduced the number of instances they exceeded the limits when balancing with a 200 ms delay appropriately compensated by inertia gains above unity and positive viscosity gains. These results underscore the importance of innovative robotic virtualizations of standing balance to reveal the interconnected representations of space and time that underlie the stable perception and control of bipedal balance. Robotic manipulation of body physics offers a transformative approach to understand how the nervous system processes spatial information over time and could address clinical sensorimotor deficits associated with delays."
+  ],
+  "dct_identifier_sm": [
+    "989531_80063",
+    "https://doi.org/10.5683/SP3/WOTUZ6"
+  ],
+  "dct_issued_s": "2025-11-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WOTUZ6\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Data and code for \"Robotic manipulation of human bipedalism reveals overlapping internal representations of space and time\"",
+  "gbl_mdModified_dt": "2025-11-26T23:03:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b9aea08e-2ea7-5d9f-bef1-5e764c82eaa8",
+  "pcdm_memberOf_sm": [
+    "UBC Sensorimotor Physiology Lab"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "dcat_keyword_sm": [
+    "economy",
+    "Geographic data",
+    "Données géographiques",
+    "Statistiques",
+    "Socioeconomic data",
+    "income",
+    "Statistics",
+    "economy",
+    "Données socio-économiques",
+    "société",
+    "statistics",
+    "revenu",
+    "ménages",
+    "statistiques",
+    "households",
+    "Recensement",
+    "Census",
+    "society"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Revenu après impôt médian des ménages en 2015 (dollars) par subdivision de recensement, Recensement 2016"
+  ],
+  "dct_creator_sm": [
+    "Statistics Canada | Statistique Canada."
+  ],
+  "dct_description_sm": [
+    "This service shows the median household after-tax income in 2015 for Canada, by 2016 census subdivision. The data is from the Census Profile, Statistics Canada Catalogue no. 98-316-X2016001.  \n  \n  After-tax income - refers to total income less income taxes of the statistical unit during a specified reference period (for additional information refer to Total Income – 2016 Census Dictionary and After-tax Income – 2016 Census Dictionary). The median income of a specified group is the amount that divides the income distribution of that group into two halves.  \n  \n  Census subdivision (CSD) is the general term for municipalities (as determined by provincial/territorial legislation) or areas treated as municipal equivalents for statistical purposes (e.g., Indian reserves, Indian settlements and unorganized territories). Municipal status is defined by laws in effect in each province and territory in Canada.  \n  \n  To have a cartographic representation of the ecumene with this socio-economic indicator, it is recommended to add as the first layer, the “NRCan - 2016 population ecumene by census subdivision” web service, accessible in the data resources section below.  \n  \n  Besides the variable described here, the dataset contains the id, name, type, province, population, land area and the number of private households for each census subdivision.  \n  \n  If a value is null, it could be because it is not available for a specific reference period, it is not applicable, it is too unreliable to be published or it is suppressed to meet confidentiality requirements of the Statistics Act. To find out the exact reason, refer to the source data from Census in the resources below.",
+    "Ce service présente le revenu après impôt médian des ménages au Canada en 2015, par subdivision de recensement de 2016. Les données proviennent du Profil du recensement, no 98-316-X2016001 au catalogue de Statistique Canada.  \n  \n  Revenu après impôt - Le revenu total moins l'impôt sur le revenu de l'unité statistique au cours d'une période de référence donnée (pour information additionnelle, se référer à Revenu total – Dictionnaire du recensement 2016 et Revenu après impôt – Dictionnaire du recensement 2016). Le revenu médian d'un groupe spécifique est le montant qui divise la répartition des revenus de ce groupe en deux moitiés.  \n  \n  Subdivision de recensement (SDR) est un terme générique qui désigne les municipalités (telles que définies par les lois provinciales/territoriales) ou les territoires considérés comme étant des équivalents municipaux à des fins statistiques (p. ex., les réserves indiennes, les établissements indiens et les territoires non organisés). Le statut de municipalité est défini par les lois en vigueur dans chaque province et territoire au Canada.  \n  \n  Pour avoir une représentation cartographique de l'écoumène avec cet indicateur socio-économique, il est recommandé d’ajouter comme première couche, le service web « RNCan - Écoumène de la population 2016 par subdivision de recensement », accessible dans la section des ressources de données plus bas.  \n  \n  Outre la variable décrite ici, le jeu de données contient l'identifiant, le nom, le genre, la province, la population, la superficie et le nombre de ménages privés pour chaque subdivision de recensement.   \n  \n  Si une valeur est nulle, cela peut être à cause qu'elle est indisponible pour une période de référence précise, qu'elle n'a pas lieu de figurer, qu'elle est trop peu fiable pour être publié ou qu'elle est confidentielle en vertu des dispositions de la Loi sur la statistique. Pour connaître la raison exacte, se référer aux données sources du Recensement dans les ressources plus bas."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/88c1689b-9327-406e-860b-3d0e2dd518fa"
+  ],
+  "dct_issued_s": "2018-06-01",
+  "dct_publisher_sm": [
+    "Statistics Canada | Statistique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/88c1689b-9327-406e-860b-3d0e2dd518fa\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "government_and_politics",
+    "society_and_culture"
+  ],
+  "dct_title_s": "Median after-tax income of households in 2015 (dollars) by census subdivision, 2016 Census",
+  "gbl_mdModified_dt": "2024-02-15T19:17:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40694077-cc3b-5e30-a717-4ee101c694aa",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "schema_provider_s": "Open Data Canada"
+}

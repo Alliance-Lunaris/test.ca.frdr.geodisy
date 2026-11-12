@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This publication contains vector data (shapefile) of the post-harvest forest residues in Canada for the bioenergy/bioproducts sector in oven-dry tonnes per year (ODT/yr) over the next 20 years. The maps were produced using different remote sensing products. We used forest attribute data at 250 m MODIS for the years 2001 and 2011 (Beaudoin et al. 2014 and 2018) combined with forest cover changes for the years 1985 to 2015 contained in the CanLaD dataset at 30 m Landsat(Guindon et al. 2017 and 2018). Results of available biomass (in the form of harvest residues) were reported at the 10 km x 10 km scale, while the map of mature forests in Canada was prepared at the forest management unit (FMU) level.   \n  \n  Briefly, our methodology consisted of three steps: 1- create a map of mature forests for the year 2011, based on 2001-2010 average cut volumes within FMUs; 2- develop an annual cut rate from the area harvested within FMUs from 1985 to 2015 and; 3- define the amount of biomass in the form of forest residues available for the bioenergy sector. The biomass of branches and leaves of forest attribute data was used as a proxy to define the biomass of forest residues available.   \n  \n  Nationally, the average biomass of forest residues available after harvest is 26 ± 16 ODT/ha, while the total annual availability for all managed forests in Canada was 21 million ODT/yr.   \n  \n  A scientific article gives additional details on the methodology: Barrette J, Paré D, Manka F, Guindon L, Bernier P, Titus B. 2018. Forecasting the spatial distribution of logging residues across the Canadian managed forest. Can. J. For. Res. 48: http://www.nrcresearchpress.com/doi/10.1139/cjfr-2018-0080   \n  \n  Reference for this dataset: Barrette J, Paré D, Manka F, Guindon L, Bernier P, Titus B. 2018. Maps  forecasting the availability of logging residues in Canada. Natural Resources Canada, Canadian Forest Service, Laurentian Forestry Centre, Quebec, Canada. https://doi.org/10.23687/5072c495-240c-42a3-ad55-c942ab37c32a"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5072c495-240c-42a3-ad55-c942ab37c32a"
+  ],
+  "dct_issued_s": "2018-10-01",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5072c495-240c-42a3-ad55-c942ab37c32a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Maps forecasting the availability of logging residues in Canada",
+  "gbl_mdModified_dt": "2022-02-07T15:30:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4e914b55-fa7c-57c0-9254-b031626e3f66",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

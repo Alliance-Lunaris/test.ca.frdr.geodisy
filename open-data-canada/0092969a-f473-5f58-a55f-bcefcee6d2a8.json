@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-56.745, -56.5211, 51.6391, 51.5179)",
+  "dcat_keyword_sm": [
+    "Golfe du St-Laurent",
+    "Oceans",
+    "Salt water",
+    "ADCP",
+    "Earth sciences",
+    "Courants",
+    "Sciences de la terre",
+    "Observations",
+    "ADCP",
+    "Océanographie",
+    "St. Lawrence Gulf",
+    "Physics",
+    "Strait of Belle Isle",
+    "Oceanography",
+    "Eau salée",
+    "Currents",
+    "Sciences physiques",
+    "Physique",
+    "Océan",
+    "Détroit de Belle Isle",
+    "Observations",
+    "Physical sciences"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de courantomètre ADCP dans le détroit de Belle Isle"
+  ],
+  "dct_creator_sm": [
+    "Peter Galbraith."
+  ],
+  "dct_description_sm": [
+    "The Strait of Belle Isle connects the Labrador Shelf  and Gulf of St. Lawrence. Few observations of currents in the Strait of Belle Isle exist despite its important contribution to the heat, salt, and mass budgets of the Gulf of St. Lawrence. This is because the deployment of instruments is complicated by the Strait’s remote location, its strong currents, and the presence of thick winter sea ice and icebergs. The present data set aims to provide a long-term time series of currents in the Strait of Belle Isle.\n\nData were collected using a moored Teledyne RDI Workhorse 300 KHz acoustic Doppler current profiler (ADCP). The ADCP was mounted on a subsurface buoy anchored 5 m from the sea floor, in water approximately 70 m deep near the north shore of the Strait (56° 37.2 W, 51° 34.7 N). \n\nThis instrument provides three-dimensional current profiles every 30 minutes at a vertical resolution of 4 m. Backscatter intensity is also collected at the same resolution. Raw data were processed using the Magtogoek software (https://github.com/iml-gddaiss/magtogoek), developed by the Department of Fisheries and Oceans Canada. Quality flags have been assigned to the data based on beam sidelobe contamination and required thresholds for extreme velocities, beam correlation and percentage of good four-beam transformations. The ancillary data used to apply this quality control are included in the data set.\n\nReference :\nShaw, J.-L., & Galbraith, P. S. (2023). Climatology of transport in the Strait of Belle Isle. Journal of Geophysical Research: Oceans, 128, e2022JC019084. https://doi.org/10.1029/2022JC019084",
+    "Le Détroit de Belle Isle relie le Plateau du Labrador et le Golfe du Saint-Laurent. Peu d’observations du courant dans le Détroit de Belle Isle existent malgré son importante contribution aux bilans de chaleur, de sel et de masse du Golfe du Saint-Laurent. Ceci est dû à la position éloignée du détroit, aux forts courants de marée et à la présence d’icebergs et de glace de mer épaisse en hiver, qui y compliquent le déploiement d’instruments de mesure. Cet ensemble de données fournit une série temporelle de courants dans le détroit de Belle Isle à long terme.\n\nLes données ont été collectées par un courantomètre acoustique à effet Doppler (ADCP) Teledyne RDI Workhorse 300 KHz. L’ADCP était fixé sur une bouée de sous-surface ancrée à 5 m du fond marin, à près de 70 m de profondeur, près de la rive nord du détroit (56° 37.2 O, 51° 34.7 N).\n\nL’instrument fournit des profils de courants en trois dimensions toutes les 30 minutes et à 4 m de résolution verticale. Les données brutes sont traitées à l’aide du logiciel Magtogoek (https://github.com/iml-gddaiss/magtogoek), développé par le ministère des Pêches et Océans Canada. Des sémaphores de qualité ont été attribués aux données en fonction de la contamination par les lobes latéraux des faisceaux et de seuils requis pour les vitesses extrêmes, la corrélation des faisceaux et le pourcentage de bonnes transformations à quatre faisceaux. Les variables auxiliaires utilisées pour effectuer ce contrôle de qualité sont incluses au jeu de données.\n\nRéférence :\nShaw, J.-L., & Galbraith, P. S. (2023). Climatology of transport in the Strait of Belle Isle. Journal of Geophysical Research: Oceans, 128, e2022JC019084. https://doi.org/10.1029/2022JC019084"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/62e039e1-a637-4b72-abe6-d4d6e30333f3"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/62e039e1-a637-4b72-abe6-d4d6e30333f3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "ADCP current meter data in the Strait of Belle Isle",
+  "gbl_mdModified_dt": "2026-03-24T08:02:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0092969a-f473-5f58-a55f-bcefcee6d2a8",
+  "locn_geometry": "ENVELOPE(-56.745, -56.5211, 51.6391, 51.5179)",
+  "schema_provider_s": "Open Data Canada"
+}

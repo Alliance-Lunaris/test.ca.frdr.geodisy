@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Fishes",
+    "Lakes",
+    "Lacs",
+    "Environmental variables",
+    "Poissons"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Paquette, Cindy (Université du Québec à Montréal, Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-2909-2485",
+    "Huot, Yannick (Université de Sherbrooke, Sherbrooke University).",
+    "Gregory-Eaves, Irene (McGill University). ORCID: https://orcid.org/0000-0002-0380-5061",
+    "Beisner, Beatrix (University of Quebec at Montreal (UQAM), Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-6972-6887"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: \nAgriculture(%); \nCalcium(mg/L); \nChloride(mg/L); \nChlorophyll a – filtration(µg/L); \nChlorophyll a – in vivo fluorescence(µg/L); \nCircularity; \nColor(mg/L Pt); \nConductivity(mS/cm); \nDischarge(m3/sec); \nDissolved inorganic carbon(mg/L); \nDissolved organic carbon(mg/L); \nDissolved oxygen(%; (mg/L)); \nForestry(%); \nGrassland(%); \nLake area(km2); \nLake depth(m); \nMagnesium(mg/L); \nMaximum trophic level; \nMean slope in watershed(°); \nMines(%); \nNatural landscapes(%); \nNitrate-nitrogen(µg/L); \nNitrite-nitrogen(µg/L); \nOrganic and suspended mineral sediments(mg/L); \nPasture(%); \npH; \nPiscivore richness(# species); \nPlanktivore richness(# species); \nPotassium(mg/L); \nResidence time(days); \nSalinity(PSU); \nSecchi(m); \nSlope 100m(°); \nSodium(mg/L); \nSoluble reactive phosphorus(ug/L); \nStratification(Y/N); \nSulfate(mg/L); \nTemperature(°C); \nTotal nitrogen(mg/L); \nTotal phosphorus: Total nitrogen ratio; \nTotal phosphorus(ug/L); \nUrban(%); \nWater pressure(decibar); \nWater(%); \nWatershed area(km2)",
+    "The file “LakePluse_env_624lakes.csv” contains environmental variables from 624 sampled as part of the NSERC Canadian Lake Pulse Network project over three summers (2017-2018-2019). Lake morphometry variables were either measured on site (lake depth), or obtained from HydroLAKES v. 1.0 (Messager et al. 2016). Water quality variables (water physical and chemical properties) were collected or measured at the deepest point of each lake, following the protocols from the NSERC Canadian Lake Pulse Network (2021). Watershed land use fractions were characterized for each lake, as described by Huot et al. (2019). Variables sampling depth and units are described in “metadata_variables.xlsx”.\n\nThe file “fishTL_314lakes.csv\" contains fish data in a subset of 314 lakes. Fish presence-data was collected as part of the FishHab project (fishab.weebly.com). Species trophic position were obtained using FishBase (https://www.fishbase.se/), and the highest trophic level was recorded for each lake (maxTL). Fish species were assigned a trophic position of piscivore (trophic level or TL > 3.5) or planktivore (TL ≤ 3.5) based on FishBase classification of known planktivore and piscivore species (adult stages). The total number of piscivore and planktivore taxa were then recorded for each lake.\n\nLakes IDs with respective locations (longitude and latitude coordinates) and Continental Basin allocations can be found here: https://doi.org/10.5281/zenodo.4701262\n\nReferences\n\nHuot, Y., C. A. Brown, G. Potvin, and others. 2019. The NSERC Canadian Lake Pulse Network: A national assessment of lake health providing science for water management in a changing climate. Sci. Total Environ. 695: 133668. doi:10.1016/j.scitotenv.2019.133668\n\nMessager, M. L., B. Lehner, G. Grill, I. Nedeva, and O. Schmitt. 2016. Estimating the volume and age of water stored in global lakes using a geo-statistical approach. Nat. Commun. 7: 1–11. doi:10.1038/ncomms13603\n\nNSERC Canadian Lake Pulse Network. 2021. NSERC Canadian Lake Pulse Network field manual 2017 - 2018 - 2019 surveys, M.-P. Varin, M.-L. Beaulieu, and Y. Huot [eds.]. Université de Sherbrooke."
+  ],
+  "dct_identifier_sm": [
+    "287660_281357_281358",
+    "https://doi.org/10.5683/SP3/L0TE8W"
+  ],
+  "dct_issued_s": "2022-02-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/L0TE8W\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Environmental variables measured in 624 lakes across Canada [2017-2019]",
+  "gbl_mdModified_dt": "2023-12-08T13:41:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c360ea7-0324-5136-b549-a51fa9c03dc6",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

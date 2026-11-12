@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.006588, -88.999217, 59.998309, 49.00161)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Canada",
+    "Government",
+    "Section",
+    "Original Survey",
+    "Province of Manitoba",
+    "River lot",
+    "Manitoba",
+    "Legal Description"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p><span>This feature layer is comprised of point locations that represent the centre of the bounds of the corresponding legal parcel. The types of legal descriptions include quarter sections (D.L.S.), river lots, parish lots, wood lots, outer two mile lots, and settlement lots.</span></p><p><span>The point may not fall exactly on the centre of the legal parcel of land. This feature layer is meant as a search tool to locate the general location of the given legal description and it may not be exact.</span></p><p><span>The points were initially derived from a variety of sources. Most of the points came from the Southern and Northern Grid of DLS section boundaries created by Sustainable Development. </span></p><p><span>Fields included (</span><span style='font-weight:bold;'>Alias</span><span> (Field Name): Field Description)</span></p><ul><li><p><span style='font-weight:bold;'>OBJECTID</span><span> (OBJECTID_1): Sequential unique whole numbers that area automatically generated</span></p></li><li><p><span style='font-weight:bold;'>Informal Legal Description</span><span> (LEGAL_DESC): The informal legal description (No leading zeros on numbers).</span></p></li><li><p><span style='font-weight:bold;'>Formal Legal Description</span><span> (LEGAL_DESC0): The formal legal description (Leading zeros on numbers).</span></p></li><li><p><span style='font-weight:bold;'>Type</span><span> (TYPE): The type of legal division ('Quarter' = Quarter section, 'RL' = River lot, 'Lot' = Township lot, 'OT' = Outer two mile lot, 'PL' = Parish lot, 'SL' = Settlement lot, 'WL' = Wood lot).</span></p></li><li><p><span style='font-weight:bold;'>Quarter</span><span> (QUARTER): Which DLS quarter section the point is referencing (NE, NW, SE or SW meaning respectfully North-east, North-west, South-east or South-west)</span></p></li><li><p><span style='font-weight:bold;'>Section</span><span> (SECTION): The DLS section the point is referencing (1-36).</span></p></li><li><p><span style='font-weight:bold;'>Township</span><span> (TOWNSHIP): The DLS township the point is referencing.</span></p></li><li><p><span style='font-weight:bold;'>Range</span><span> (RANGE): The DLS range the point is referencing.</span></p></li><li><p><span style='font-weight:bold;'>Lot No.</span><span> (LOT_NO): The lot number of the corresponding river, settlement, township, outer two mile or parish lot.</span></p></li><li><p><span style='font-weight:bold;'>Meridian</span><span> (MERIDIAN): The meridian of the section (East 1, East 2 or West 1).</span></p></li><li><p><span style='font-weight:bold;'>Parish Name</span><span> (PARISH_NAME): The name of the parish that the lot belongs to.</span></p></li><li><p><span style='font-weight:bold;'>Range Addition</span><span> (RANGEADD): The added text for specific range values (if applicable).</span></p></li></ul></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "11fa11f9015b45438d6493dcb3d8071c",
+    "https://www.arcgis.com/home/item.html?id=11fa11f9015b45438d6493dcb3d8071c"
+  ],
+  "dct_issued_s": "2019-10-09",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-original-survey-legal-descriptions\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Original Survey Legal Descriptions",
+  "gbl_mdModified_dt": "2026-09-02T17:33:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "325d6404-060f-5446-863f-26e236a6e2fc",
+  "locn_geometry": "ENVELOPE(-102.006588, -88.999217, 59.998309, 49.00161)",
+  "schema_provider_s": "Data MB"
+}

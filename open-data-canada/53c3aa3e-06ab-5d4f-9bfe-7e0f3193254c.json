@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "GRHQ",
+    "Hydrographie",
+    "UDH",
+    "Information gouvernementale",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l’information géospatiale."
+  ],
+  "dct_description_sm": [
+    "The Geobase of the Quebec Hydrographic Network (GRHQ) is the common frame of reference for hydrography in Quebec. It is a detailed hydrographic network that can support numerous applications in land use planning, the environment and civil security.\n\nThe GRHQ is produced in partnership with the Ministry of the Environment, the Fight against Climate Change, Wildlife and Parks (MELCCFP) and the Ministry of Natural Resources and Forests (MRNF) using the following data:\n\n* The hydrographic classes from the Quebec Topographic Database (BDTQ) at the scale of 1/20,000 of the MERN for the south of the province;\n\n* CanVec's hydrographic classes at the scale of 1/50,000 from Natural Resources Canada for the north;\n\n* The continuity segments of the MELCCFP network;\n\n* The hydrographic division units of the MELCCFP;\n\n* The official toponyms from the TOPOS database of the Toponymy Commission. \n\nThe main components are:\n\n_Geometric network_\n\n* Points\n\n * Point components of the geometric network (hydrographic junctions).\n\n* Lines\n\n * Linear geometric network representing the continuity of flow across all types of hydrographic entities (linear and surface).\n\n_Thematic Information_\n\n* Points\n\n * Class of context entities represented in point form that enrich the thematic content of the various hydrographic components.\n\n* Lines\n\n * Class of context entities represented in linear form that enrich the thematic content of the various hydrographic components.\n\n * Class of linear entities representing the shores of hydrographic surfaces.\n\n* Surfaces\n\n * Class of context entities represented in surface form that enrich the thematic content of the various hydrographic components.\n\n * Class of surface entities representing hydrographic surfaces. \n\n \n\n_Management Units_\n\n* Surfaces\n\n * Class of surface entities representing hydrographic division units (UDHs).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La Géobase du réseau hydrographique du Québec (GRHQ) est le référentiel commun de l’hydrographie au Québec. Il s’agit d’un réseau hydrographique détaillé permettant de supporter de nombreuses applications en aménagement du territoire, en environnement et en sécurité civile.\n\nLa GRHQ est produite en partenariat avec le ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) et le ministère des Ressources naturelles et des Forêts (MRNF) à partir des données suivantes :\n\n* Les classes hydrographiques de la base de données topographiques du Québec (BDTQ) à l'échelle de 1/20 000 du MERN pour le sud de la province;\n\n* Les classes hydrographiques de CanVec à l'échelle de 1/50 000 de Ressources naturelles Canada pour le nord;\n\n* Les segments de continuité du réseau du MELCCFP;\n\n* Les unités de découpage hydrographique du MELCCFP;\n\n* Les toponymes officiels de la banque de données TOPOS de la Commission de toponymie. \n\nLes principales composantes sont :\n\n_Réseau géométrique_\n\n* Points\n\n * Composantes ponctuelles du réseau géométrique (jonctions hydrographiques).\n\n* Lignes\n\n * Réseau géométrique linéaire représentant la continuité de l'écoulement à travers tous les types d'entités hydrographiques (linéaires et surfaciques).\n\n_Information thématique_\n\n* Points\n\n * Classe d'entités de contexte représentées sous forme ponctuelle qui enrichissent le contenu thématique des différentes composantes hydrographiques.\n\n* Lignes\n\n * Classe d'entités de contexte représentées sous forme linéaire qui enrichissent le contenu thématique des différentes composantes hydrographiques.\n\n * Classe d'entités linéaires représentant les rives des surfaces hydrographiques.\n\n* Surfaces\n\n * Classe d'entités de contexte représentées sous forme surfacique qui enrichissent le contenu thématique des différentes composantes hydrographiques.\n\n * Classe d'entités surfaciques représentant les surfaces hydrographiques. \n\n \n\n_Unités de gestion_\n\n* Surfaces\n\n * Classe d'entités surfaciques représentant les unités de découpage hydrographique (UDH)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/bfbdeb1d-8398-444b-ad78-ab81f9d14e60"
+  ],
+  "dct_issued_s": "2019-11-13",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/bfbdeb1d-8398-444b-ad78-ab81f9d14e60\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Géobase du réseau hydrographique du Québec (GRHQ)",
+  "gbl_mdModified_dt": "2026-09-30T17:37:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "53c3aa3e-06ab-5d4f-9bfe-7e0f3193254c",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

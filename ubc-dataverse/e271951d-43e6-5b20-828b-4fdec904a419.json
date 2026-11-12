@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.688054, -123.3744, 53.840532, 53.635545)",
+  "dcat_keyword_sm": [
+    "remote sensing",
+    "regrowth",
+    "spatial patterns",
+    "wildfire",
+    "vegetation indices",
+    "burn severity",
+    "landsat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Murray, Brent (University of British Columbia). ORCID: https://orcid.org/0000-0003-3053-9448"
+  ],
+  "dct_description_sm": [
+    "Understanding how resilient forests are after wildfire events is important to forest management practices. The objective of this study was to use Landsat-8 data to understand how the burn severity of the Little Bobtail Lake wildfire has impacted forest regrowth several years later. This was done by deriving different vegetation indices to see how the changes in vegetation health were impacted by burn severity. Additionally, landscape pattern metrics were used to understand the changes in the spatial patterns of the burn severity and vegetation health over time. The results showed that the higher the burn severity, the greater the impact on vegetation health immediately after the wildfire, as well as a slower return to pre-fire conditions. When compared to the pre-fire values, the post-fire Normalized Difference Vegetation Index and the Tasseled Cap Greenness values showed an initial drop in the R2 value and then a rise in value four years after the wildfire. This differed from the Tasseled Cap Wetness values as the R2 showed a continual drop in value. When looking at the changes in the spatial patterns for vegetation health, the Sparse Vegetation class showed the greatest change for Core Area with a 3.72 hectare increase every year. When looking at burn severity, the High Severity class showed the greatest decrease in core area with a loss of 2.63 hectares every year. These results show that monitoring vegetation regrowth can be done using Landsat-8 derived vegetation health indices as well as with spatial pattern analysis."
+  ],
+  "dct_identifier_sm": [
+    "150975_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/TYN44T"
+  ],
+  "dct_issued_s": "2021-04-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TYN44T\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada",
+    "Prince George, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "The Impacts of Burn Severity on Forest Resiliency in British Columbia",
+  "gbl_mdModified_dt": "2021-04-12T17:23:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e271951d-43e6-5b20-828b-4fdec904a419",
+  "locn_geometry": "ENVELOPE(-123.688054, -123.3744, 53.840532, 53.635545)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

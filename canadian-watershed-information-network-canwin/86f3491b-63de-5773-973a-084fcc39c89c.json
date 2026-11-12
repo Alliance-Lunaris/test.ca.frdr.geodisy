@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -52.0, 84.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "“Automatically Extracted Buildings” is a raw digital product in vector format created by NRCan. The feature classes of this product delineate polygonal building footprints automatically extracted from airborne Lidar data, high-resolution optical imagery or other sources.\n\nThe first feature class, Automatically Extracted Buildings by acquisition source, contains building footprints delivered according to the spatial extent of each source dataset used for extraction. When the spatial extents of acquisition sources overlap, footprints for the same building may therefore be duplicated in this class.\n\nThe second feature class, Optimized Buildings Layer, is an assembled and harmonized layer derived from the buildings by acquisition source. Its objective is to provide a unique representation of each building footprint by removing duplicates and resolving overlaps between sources."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6"
+  ],
+  "dct_issued_s": "2019-02-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Automatically Extracted Buildings",
+  "gbl_mdModified_dt": "2026-09-04T19:31:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "86f3491b-63de-5773-973a-084fcc39c89c",
+  "locn_geometry": "ENVELOPE(-141.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Databank",
+    "COVID-19 Immunity Task Force",
+    "Harmonization Protocol",
+    "CITF",
+    "Serology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "CITF Data Management Team (McGill University)."
+  ],
+  "dct_description_sm": [
+    "<p>This repository contains the protocol and supporting documentation used to harmonize SARS-CoV-2 serology data contributed by studies supported by the COVID-19 Immunity Task Force (CITF). The materials document the standardized variables, terminology, permissible values, assay metadata, harmonization-status classifications, and transformation rules applied in preparing the frozen CITF Databank release v1.0. Individual-level participant data are not included.</p>\n\n<p><strong>Harmonization protocol</strong></p>\n\n<p>The primary document is the CITF SARS-CoV-2 Serology Harmonization Protocol, version 2.8. It describes:</p>\n\n<ul>\n  <li>the scope of the serology harmonization process;</li>\n  <li>the target harmonized variables;</li>\n  <li>the mapping of study-specific variables to CITF Core Data Elements;</li>\n  <li>harmonization-status classifications;</li>\n  <li>the structure of the harmonized serology dataset;</li>\n  <li>data-quality and validation procedures; and</li>\n  <li>governance, access, and versioning requirements.</li>\n</ul>\n\n<p>The repository also includes the CITF serology Core Data Element schema and supporting serological assay metadata. The reporting guide is included as source-data reporting guidance used by contributing studies.</p>\n\n<p><strong>Dataset structure</strong></p>\n\n<p>The harmonized serology dataset is organized at the result level. Each record represents one assay result for one participant. A participant may therefore have multiple records corresponding to different specimens, assays, or time points.</p>\n\n<p>The target schema includes participant, specimen, and assay identifiers; specimen and assay characteristics; specimen-collection and assay dates; units of measurement; quantitative results; standardized binding antibody units where available; qualitative interpretations; assay measurement limits; and result-level quality-control indicators.</p>\n\n<p><strong>Harmonization and quality control</strong></p>\n\n<p>During harmonization, study-specific serology variables are mapped to the standardized CITF schema. Records are linked to standardized assay metadata using the CITF assay identifier. Quality-control procedures include:</p>\n\n<ul>\n  <li>validation of participant, specimen, and assay identifiers;</li>\n  <li>standardization and validation of dates, units, and categorical values;</li>\n  <li>review of assay metadata;</li>\n  <li>assessment of quantitative ranges;</li>\n  <li>duplicate-record detection; and</li>\n  <li>evaluation of internal consistency.</li>\n</ul>\n\n<p>These procedures constitute dataset-level harmonization and quality control. They do not represent laboratory re-testing or independent biological validation of assay performance.</p>\n\n<p><strong>Scope limitations</strong></p>\n\n<p>Cell-mediated immunity data are outside the scope of this protocol and are not included in the harmonized serology dataset for Release v1.0. Neutralizing-antibody variables are also excluded from the harmonized dataset for this release.</p>\n\n<p><strong>Data access</strong></p>\n\n<p>Individual-level serology data are held under controlled access and are not included in this repository. Access to restricted data requires a formal request to the CITF Data Access Office and is subject to applicable institutional approvals, consent conditions, governance requirements, and data-sharing agreements.</p>\n\n<p><strong>Protocol version:</strong> 2.8<br>\n<strong>Databank release:</strong> v1.0<br>\n<strong>Release date:</strong> February 2026</p>"
+  ],
+  "dct_identifier_sm": [
+    "1100758_412093_423675_1100755",
+    "https://doi.org/10.5683/SP3/FMWOG2"
+  ],
+  "dct_issued_s": "2026-09-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FMWOG2\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences"
+  ],
+  "dct_title_s": "CITF SARS-CoV-2 Serology Harmonization Protocol",
+  "gbl_mdModified_dt": "2026-09-23T20:41:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "072f428b-3018-58f8-a730-7235315732fd",
+  "pcdm_memberOf_sm": [
+    "CITF: COVID-19 Immunity Task Force // CITF Controlled Access Databank // Harmonized Dataset Descriptions"
+  ],
+  "schema_provider_s": "McGill University Dataverse"
+}

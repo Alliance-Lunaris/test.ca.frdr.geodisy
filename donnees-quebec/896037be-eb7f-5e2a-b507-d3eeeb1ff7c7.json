@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Territoire",
+    "Ouranos",
+    "Santée Publique",
+    "Tique",
+    "Municipalité",
+    "Changement climatique",
+    "Lyme",
+    "Santé animale"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "INSPQ, direction des risques biologiques - Maladies infectieuses en communauté."
+  ],
+  "dct_description_sm": [
+    "Les municipalités avec des populations établies de tiques _Ixodes scapularis_ (tiques à pattes noires) sont les municipalités où des populations de tiques se reproduisent et survivent d’une année à l’autre. Cet indicateur permet d’identifier les municipalités où leur présence suggère un risque plus élevé de piqûre de tiques et de transmission de maladies, telles que la maladie de Lyme, l’anaplasmose ou la babésiose. Dans les autres municipalités sans population établie, la présence de tiques est possible, car des tiques peuvent y être transportées par des oiseaux ou des mammifères terrestres. Les données utilisées pour construire cet indicateur proviennent de la surveillance acarologique passive et active. Les données de surveillance active et passive ont été cumulées puis agrégées par municipalité et par année. Cela a permis de déterminer si une population de tiques établies est identifiée par l’indicateur au moins 1 année sur la période d’étude.\r\n\r\nLa zone climatique favorable l’établissement des tiques _Ixodes scapularis_ met en évidence les zones où la température estimée serait favorable à l’établissement des populations de tiques au Québec. Une zone où le climat est favorable à l’établissement de populations de tiques est définie par un nombre annuel de degrés-jours au-dessus de 0°C (DJ0). Cet indicateur a été calculé pour les relevés historiques 2009-2017 (répartition actuelle) et pour les horizons 2030, 2050 et 2080 en fonction des scénarios climatiques SSP2-4.5 et SSP3-7.0 (répartition future). Les DJ0 sont calculés en faisant l’écart entre la température moyenne quotidienne et la température de référence de 0 °C utilisée dans cette situation, puis en faisant une interpolation sur une grille de 10km x 10km. La valeur finale des DJ0 utilisée est le 50e percentile.\r\n\r\nPour plus d’informations sur les municipalités avec populations établies de tiques _Ixodes scapularis_ ou les zones climatiques favorables à leur établissement vous pouvez consulter le *[Rapport méthodologique](\r\nhttps://www.inspq.qc.ca/publications/3483)* OU le *[Site Web de l’INSPQ, Cartes de répartition actuelle et future des zoonoses au Québec](https://www.inspq.qc.ca/zoonoses/cartes)*."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/ee83edb0-771e-4e68-9f97-2a2e736d4112"
+  ],
+  "dct_issued_s": "2024-05-03",
+  "dct_publisher_sm": [
+    "Institut national de santé publique du Québec (INSPQ)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/ee83edb0-771e-4e68-9f97-2a2e736d4112\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Santé",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Cartographie de la répartition actuelle et future des tiques Ixodes scapularis au Québec en fonction des changements climatiques",
+  "gbl_mdModified_dt": "2026-07-24T20:22:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "896037be-eb7f-5e2a-b507-d3eeeb1ff7c7",
+  "schema_provider_s": "Données Québec"
+}

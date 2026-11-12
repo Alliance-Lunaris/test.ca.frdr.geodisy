@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.2154, -93.3426, 58.8827, 48.9134)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose is to provide end users with a digital data representing the boundaries of incorporated municipalities in Manitoba. It also enables users of Manitoba spatial data to identify which municipality selected features fall within.  \n  \n  This dataset is comprised of boundary geometry for all of the incorporated municipalities and Northern Affairs Communities within the Province of Manitoba.  The boundaries in this dataset represent the descriptions set forth in the Municipal Status and Boundaries Regulation (567/88R) and subsequent amendments, and regulations under The Northern Affairs Act.  The geospatial referencing of the Municipal Boundaries is based on the best available land parcel data for each municipality and Northern Affairs Community.  Where available, cadastral data based on registered survey plans was used.  Otherwise, the Manitoba Property Assessment Information dataset produced by Manitoba Municipal Relations was used.  The delineation of the boundaries was established according to the regulation establishing or amending the boundary of a municipality or Northern Affairs Community.  Dataset content is subject to:  Ongoing changes in municipal status and boundary and Northern Affairs Community boundary alterations that are generated through annexations, amalgamations, dissolutions or formations, all of which are approved by regulations made under The Municipal Act (for incorporated municipalities) and The Northern Affairs Act (for Northern Affairs Communities).  This dataset content is current to the most recent effective date of any such regulation amendment.   Ongoing development and maintenance of the land parcel datasets.  Improvements to the cadastral data are used to improve the positional accuracy of the municipal boundary polygons.   As of the publication date of this dataset the following known issues remain:  For municipal boundaries and Northern Affairs Communities that include water boundaries, such as in the Lake Winnipeg and Lake Manitoba areas the water boundary portion that best reflects the municipal boundary was used.     In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities.   Please visit the Manitoba Municipal Relations website for more information www.gov.mb.ca/mr/land_use_dev/index.html.   The Manitoba Municipal Boundaries data reflects the status of municipal boundaries and Northern Affairs Communities at the time of export and was uploaded to Manitoba Maps as a feature layer. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated MUNI_NO: Manitoba municipality identifier number MUNI_NAME: Legal name of municipality MUNI_TYPE: Type of municipality MUNI_LIST_NAME: Name of municipality suitable for alphabetical list MUNI_LIST_NAME_WITH_TYPE: Name of municipality suitable for alphabetical list including type"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca91c981-d6ed-edbc-1a03-00808f3d46a7"
+  ],
+  "dct_issued_s": "2024-05-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca91c981-d6ed-edbc-1a03-00808f3d46a7\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "MUNICIPALITY",
+  "gbl_mdModified_dt": "2025-02-05T19:10:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "93d9166f-3fc7-5341-ab4c-4833cadff9d2",
+  "locn_geometry": "ENVELOPE(-102.2154, -93.3426, 58.8827, 48.9134)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

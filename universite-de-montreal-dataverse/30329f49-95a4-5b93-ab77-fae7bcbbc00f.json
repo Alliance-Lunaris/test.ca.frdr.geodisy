@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(11.578, 24.73801, 59.861, 32.720001)",
+  "dcat_keyword_sm": [
+    "Paleoclimate simulation",
+    "Marine Isotope Stage 3"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Vrac, Mathieu (Laboratoire des Sciences du Climat et de l'Environnement  (LSCE-IPSL/CNRS)). ORCID: https://orcid.org/0000-0002-6176-0439"
+  ],
+  "dct_description_sm": [
+    "Initial data produced using the Atmosphere-Ocean General Circulation Model IPSL-CM5A-LR (Dufresne et al., 2013) at ∼1.9° latitude and 3.75° longitude spatial resolution to run two global climate simulations, one representing a typical MIS 3 stadial (cold) and the other a typical MIS 3 interstadial (warm). The boundary conditions are the same for both simulations and are described in Woillez et al. (2014), Le Mézo et al. (2017) and Lézine et al. (2023). Astronomical forcing (precession, obliquity, eccentricity) is set with values for 46 kyr BP. \nData were downscaled using a General Additive Model (Vrac et al., 2007, Latombe et al. 2017) obtaining temperature and precipitation data at a spatial scale of ~15 x 15 km . \nCold model data are identified as M3I46F02 and warm model data are identified as MS3I46K2."
+  ],
+  "dct_identifier_sm": [
+    "757476_751337",
+    "https://doi.org/10.5683/SP3/JBZQKS"
+  ],
+  "dct_issued_s": "2024-07-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/JBZQKS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "IPSL-CM5A-LR GCM downscaled climate simulation for Marine Isotope Stage 3 over Europe.",
+  "gbl_mdModified_dt": "2024-07-16T14:08:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "30329f49-95a4-5b93-ab77-fae7bcbbc00f",
+  "locn_geometry": "ENVELOPE(11.578, 24.73801, 59.861, 32.720001)",
+  "pcdm_memberOf_sm": [
+    "HDRG Research Group"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

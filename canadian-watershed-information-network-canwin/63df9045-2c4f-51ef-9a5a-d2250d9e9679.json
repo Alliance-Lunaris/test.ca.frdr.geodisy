@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Wall-to-wall map of water bodies across Canada's forested ecosystems for the year 2022, derived from the \"water\" class of the annual Virtual Land Cover of Engine (VLCE) product. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). The VLCE maps are based on Landsat image time-series composites and represent annual land cover classifications from 1984 to 2022 at a spatial resolution of 30 m. The classification process integrates forest change information and ancillary topographic and hydrologic variables, applying a regional modeling framework based on a 150x150 km tiling system ( Hermosilla et al., 2022). Training data are drawn from multiple land cover sources and selected proportionally to land cover distributions using a distance-weighted approach. Classifications are refined over time using a Hidden Markov Model to ensure consistency and reduce classification noise between years.\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C. 2022. Land cover classification in an era of big and open data: Optimizing localized implementation and training data selection to improve mapping outcomes. Remote Sensing of Environment. 268, 112780. https://doi.org/10.1016/j.rse.2021.112780. ( Hermosilla et al., 2022)\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W. 2018. Disturbance-Informed Annual Land Cover Classification Maps of Canada's Forested Ecosystems for a 29-Year Landsat Time Series. Canadian Journal of Remote Sensing. 44(1) 67-87. https://doi.org/10.1080/07038992.2018.1437719.( Hermosilla et al., 2018)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0bce352f-6f3f-4a30-9763-c80805fcf272"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0bce352f-6f3f-4a30-9763-c80805fcf272\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Forest Water (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:02:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "63df9045-2c4f-51ef-9a5a-d2250d9e9679",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

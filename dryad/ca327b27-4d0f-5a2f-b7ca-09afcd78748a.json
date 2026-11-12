@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "home range",
+    "polar environments",
+    "GPS",
+    "error quantification",
+    "satellite telemetry",
+    "Argos"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sylvain, Christin (Université du Québec à Rimouski).",
+    "Martin-Hugues, St-Laurent (Université Laval, Center for Northern Studies, Université du Québec à Rimouski).",
+    "Dominique, Berteaux (Center for Northern Studies, Université du Québec à Rimouski)."
+  ],
+  "dct_description_sm": [
+    "Animal tracking through Argos satellite telemetry has enormous potential to test hypotheses in animal behavior, evolutionary ecology, or conservation biology. Yet the applicability of this technique cannot be fully assessed because no clear picture exists as to the conditions influencing the accuracy of Argos locations. Latitude, type of environment, and transmitter movement are among the main candidate factors affecting accuracy. A posteriori data filtering can remove “bad” locations, but again testing is still needed to refine filters. First, we evaluate experimentally the accuracy of Argos locations in a polar terrestrial environment (Nunavut, Canada), with both static and mobile transmitters transported by humans and coupled to GPS transmitters. We report static errors among the lowest published. However, the 68th error percentiles of mobile transmitters were 1.7 to 3.8 times greater than those of static transmitters. Second, we test how different filtering methods influence the quality of Argos location datasets. Accuracy of location datasets was best improved when filtering in locations of the best classes (LC3 and 2), while the Douglas Argos filter and a homemade speed filter yielded similar performance while retaining more locations. All filters effectively reduced the 68th error percentiles. Finally, we assess how location error impacted, at six spatial scales, two common estimators of home-range size (a proxy of animal space use behavior synthetizing movements), the minimum convex polygon and the fixed kernel estimator. Location error led to a sometimes dramatic overestimation of home-range size, especially at very local scales. We conclude that Argos telemetry is appropriate to study medium-size terrestrial animals in polar environments, but recommend that location errors are always measured and evaluated against research hypotheses, and that data are always filtered before analysis. How movement speed of transmitters affects location error needs additional research."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.bt72k",
+    "https://doi.org/10.5061/dryad.bt72k"
+  ],
+  "dct_issued_s": "2016-10-19",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.bt72k\"}",
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "dct_title_s": "Data from: Evaluation of Argos telemetry accuracy in the High-Arctic and implications for the estimation of home-range size",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca327b27-4d0f-5a2f-b7ca-09afcd78748a",
+  "schema_provider_s": "Dryad"
+}

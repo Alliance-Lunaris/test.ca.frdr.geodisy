@@ -1,0 +1,59 @@
+{
+  "dcat_keyword_sm": [
+    "eDNA",
+    "Omble de fontaine",
+    "Zooplancton",
+    "Zooplankton",
+    "cytochrome c oxidase I",
+    "environmental DNA",
+    "brook trout",
+    "COI",
+    "Brook trout",
+    "zooplankton",
+    "macroinvertebrates",
+    "elevation",
+    "exotic species"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Trépanier-Leroux, Daphné (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-0608-276X",
+    "Fraser, Dylan (Concordia). ORCID: https://orcid.org/0000-0002-5686-7338",
+    "Humphries, Shelley (Parks Canada).",
+    "Cristescu, Melania (McGill). ORCID: https://orcid.org/0000-0002-0854-4040",
+    "Derry, Alison (UQAM | Université du Québec à Montréal, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-5768-8027"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: Area (ha), Elevation (m),Depth (m), Temperature (°C), Conductivity (uS/cm), pH, O2 (mg/L), TP (ug/L), TN (mg/L), DOC (mg/L), Chla (ug/L), Brook trout population size, Brook trout density (individuals/ha), brook trout mean mass (g), Brook trout biomass (kg/ha), brook trout allometrically scaled mass, brook trout effective density, Macroinvertebrate density (indiviuals/m2), Zooplankton density (individuals/L), ASV abundance (nb of reads/sample)",
+    "Crustacean zooplankton, macroinvertebrates and eDNA (water filtration) samples were collected from 13 high elevation mountain lakes along a range of elevation and exotic brook trout abundance in the fall of 2018 in the Rocky Mountains, Canada. Traditional enumeration methods were performed on the zooplankton samples to the species level, and macroinvertebrate samples to the family level to obtain community abundance data. eDNA samples were sequenced using cytochrome c oxidase subunit I (COI) mitochondrial gene region. Sequences were assigned to ASVs. ASVs were analysed using sequences aligned to zooplankton, macroinvertebrates and whole community separately. In addition, 15 environmental variables were used to capture abiotic variation between lakes. The data files include the traditional abundance data, the ASV sequences, taxonomic assignments of sequences and site environmental data. We used this data to validate the known community patterns of zooplankton and macroinvertebrate communities known to occur in this system and then examine if eDNA metabarcoding using COI could detect these same patterns. We also evaluated long term impact of brook trout abundance on those communities along an elevation gradient."
+  ],
+  "dct_identifier_sm": [
+    "331339_281357_281358",
+    "https://doi.org/10.5683/SP3/KBPYIX"
+  ],
+  "dct_issued_s": "2022-05-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KBPYIX\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Alberta, Canada",
+    "British-Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Crustacean zooplankton and macroinvertebrate traditional taxonomy abundance data and whole community COI eDNA metabarcoding data from 13 high elevation Rocky Mountain lakes [Canada, 2018]",
+  "gbl_mdModified_dt": "2023-09-20T18:29:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "210a8f83-7030-5dfa-ace1-f3ee078a3950",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

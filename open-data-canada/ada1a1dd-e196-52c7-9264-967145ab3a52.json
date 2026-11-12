@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-148.05, -47.85, 88.95, 30.15)",
+  "dcat_keyword_sm": [
+    "agclimat",
+    "Agriculture",
+    "PMDI",
+    "PDI",
+    "Terre agricole",
+    "Cultures",
+    "Précipitation",
+    "agclimate",
+    "Agriculture",
+    "PMDI",
+    "Crops",
+    "Température",
+    "PDI",
+    "Precipitation",
+    "Temperature",
+    "Farmlands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice modifié de sévérité de sécheresse de Palmer"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The term \"Palmer Drought Index\" has been used collectively to represent multiple indices.  This index is simply a water balance model which analyzes precipitation and temperature, and used as a tool to measure meteorological and hydrological drought across space and time. All versions of the index uses the Versatile Soil Moisture Budget to model the movement of water within the system, and a daily Priestly-Taylor model to estimate evapotranspiration.  \n  \n  The Palmer Drought Index (PDI) uses monthly temperature and precipitation data to calculate a simple soil water balance. The index is a relative measure that typically ranges from -4 (extremely dry) to +4 (extremely wet) and represents how soil moisture availability differs from that expected for a given place and time of year. The PDI includes a \"memory\" component that considers past conditions and persistence of soil moisture surplus or deficit.    \n  \n  The Modified Palmer Drought Index (PMDI) is obtained from the sum of the wet and dry terms weighted by probability values. The PMDI has the same value as the PDI during established dry or wet spells but can be different during transition periods.",
+    "Le terme « indice de sévérité de sécheresse de Palmer » a été utilisé pour représenter un ensemble d’indices. L’indice de sévérité de sécheresse de Palmer est simplement un modèle de bilan hydrique qui analyse les précipitations et la température et qui sert d’outil pour mesurer les sécheresses météorologiques et hydrologiques dans l’espace et dans le temps. Toutes les versions de l’indice utilisent le modèle adaptatif du bilan hydrique des sols pour modéliser le mouvement de l’eau dans le système, et un modèle quotidien Priestley-Taylor pour estimer l’évapotranspiration. L’indice de sévérité de sécheresse de Palmer utilise des données mensuelles sur la température et les précipitations pour calculer un bilan hydrique simple du sol. L’indice est une mesure relative qui varie habituellement de -4 (extrêmement sec) à +4 (extrêmement humide) et représente comment la disponibilité de l’humidité du sol diffère de celle prévue pour un endroit et une période de l’année donnés. L’indice de sévérité de sécheresse de Palmer comprend une composante « mémoire » qui tient compte des conditions passées et de la persistance du surplus ou du déficit d’humidité du sol.  \n  \n  L’indice modifié de sévérité de sécheresse de Palmer est obtenu à partir de la somme des termes secs et humides pondérée par les valeurs de probabilité. L’indice modifié a la même valeur que l’indice de sévérité de sécheresse de Palmer pendant les périodes sèches ou humides établies, mais peut être différent pendant les périodes de transition."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/719add0d-55f0-422f-928c-2092ab10f89b"
+  ],
+  "dct_issued_s": "2017-05-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/719add0d-55f0-422f-928c-2092ab10f89b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Palmer Modified Drought Index",
+  "gbl_mdModified_dt": "2025-07-22T16:10:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ada1a1dd-e196-52c7-9264-967145ab3a52",
+  "locn_geometry": "ENVELOPE(-148.05, -47.85, 88.95, 30.15)",
+  "schema_provider_s": "Open Data Canada"
+}

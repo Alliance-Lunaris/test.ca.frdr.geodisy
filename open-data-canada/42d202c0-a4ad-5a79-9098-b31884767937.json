@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.0253726, -121.6200532, 54.7939613, 47.052102)",
+  "dcat_keyword_sm": [
+    "Marine biology",
+    "invertébrés marins",
+    "Ocean floor",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "pacifique",
+    "Aquatic animals",
+    "Biologie marine",
+    "algues",
+    "Animal aquatique",
+    "Pacific",
+    "Coasts",
+    "British Columbia",
+    "habitat",
+    "Fond marin",
+    "Biological diversity",
+    "Colombie-Britannique",
+    "marine invertebrate",
+    "habitat",
+    "Diversité biologique",
+    "algae",
+    "Littoral"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base de Données Cartographiques des Habitats Benthiques"
+  ],
+  "dct_creator_sm": [
+    "MSEA Data Stewardship Unit."
+  ],
+  "dct_description_sm": [
+    "The purpose of the survey is to document and record habitat types and associated algae and marine invertebrate species in a variety of habitat types. Transect locations are randomly selected throughout the study area, which rotates between the north and south coasts of British Columbia on a biannual basis. Transects are laid perpendicular to the shoreline. A team of two divers swim the transect with data sheets to collect habitat, algae and marine invertebrate data as detailed below in the methods section. Data is keypunched in an MS Access database that can be queried for species observations and environmental information.\nThis dataset includes three tables pulled from the original database containing observations by species, observations by quadrat, and additional header information for each observation. All three tables can be linked by the field HKey. Three lookup tables are included as well, one for algae, one for invertebrates, and one for substrates.",
+    "L’objet de cette enquête est de documenter et enregistrer les catégories d’habitat et leurs espèces d’algues et d’invertébrés marins associés dans de diverses catégories d’habitat. L’emplacement des transects sont sélectionnés au hasard au long de la région d’étude, alternant entre les côtes Nord et Sud de la Colombie-Britannique deux fois par année. Les transects sont posés perpendiculairement à la côte. Une équipe de deux plongeurs nagent le long du transect afin de rassembler des données sur l’habitat, les algues et les invertébrés marins, tel que montré dans la section des méthodes. Les données sont saisies dans une base de données MS Access qui permet d’effectuer des requêtes de données sur les espèces observées et les informations environnementales.\nCet ensemble de données comprend trois tableaux extraits de la base de données originale, contenant des observations par espèces, des observations par échantillonage quadrat et des informations additionelles pour chaque observation. Les tableaux peuvent être reliés par le champ HKey. Trois tableaux de référence sont également inclus, un pour les algues, un pour les invertébrés marins et un pour les substrats."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a931059c-eb49-4dd8-a4fb-7d6eb881e4bd"
+  ],
+  "dct_issued_s": "2025-12-29",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a931059c-eb49-4dd8-a4fb-7d6eb881e4bd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Benthic Habitat Mapping Database",
+  "gbl_mdModified_dt": "2026-03-24T09:07:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "42d202c0-a4ad-5a79-9098-b31884767937",
+  "locn_geometry": "ENVELOPE(-133.0253726, -121.6200532, 54.7939613, 47.052102)",
+  "schema_provider_s": "Open Data Canada"
+}

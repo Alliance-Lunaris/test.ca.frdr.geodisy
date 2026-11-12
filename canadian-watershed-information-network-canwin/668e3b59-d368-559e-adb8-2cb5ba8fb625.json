@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.1204834, -67.66204834, 49.31885614, 48.59205087)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The North Shore of the Lower Estuary (Upper North Shore, Quebec) is a productive coastal system where many commercial species of benthic invertebrates are fished in the infralittoral (10-20 m) and circalittoral (20-50 m) zone. However, little data exist on the biodiversity of non-commercial species and the environmental characteristics of the benthic habitat in this area. Two scientific surveys were conducted in 2018 and 2019 to address this knowledge gap by developing a framework of biodiversity and environmental (water column and seafloor) data taking that will be used to determine the baseline state of the benthic ecosystem in this region.\n\nSurveys were conducted in 2018 (August 11-14) and 2019 (July 30-August 5) in the Upper North Shore region (between the towns of Forestville and Godbout). Surveys followed a fixed sampling design of eight transects perpendicular to bathymetry with stations at 10 m depth intervals in a bathymetry range of 10-50 m for a total of approximately 40 stations per survey. Specimens were collected with a beam trawl with an opening of 2.8 m. The hauls were made at a target speed of 2 knots and a target duration of 7 minutes. Start and end positions were recorded to calculate the distance traveled on each tow using the geosphere library of R. The average tow distance was approximately 425 m. The area covered at each tow was the product of the trawl opening and the distance traveled. \n\nThe three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic event information, including date and location. The \"additional_information_event_and_occurrence\" file includes sample size, sampling protocol and sampling effort, among others. The \"taxon_occurrence\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. For abundance and biomass estimates, contact Virginie Roy (virginie.roy@dfo-mpo.gc.ca). \n\nFor quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. Special cases were noted in \"identificationRemarks\" and selected specimens were confirmed using field photos. Data quality checks were performed using the R obistools and worrms libraries. All sampling locations were spatially validated.\n\nThis project was funded by DFO Coastal Environmental Baseline Program under Canada’s Oceans Protection Plan. This initiative aims to acquire environmental baseline data contributing to the characterization of important coastal areas and to support evidence-based assessments and management decisions for preserving marine ecosystems."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/47f10264-1b59-4034-9679-3cb74f7527c7"
+  ],
+  "dct_issued_s": "2021-12-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/47f10264-1b59-4034-9679-3cb74f7527c7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Coastal biodiversity of the benthic epifauna of the St. Lawrence Estuary (2018-2019)",
+  "gbl_mdModified_dt": "2026-03-24T08:03:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "668e3b59-d368-559e-adb8-2cb5ba8fb625",
+  "locn_geometry": "ENVELOPE(-69.1204834, -67.66204834, 49.31885614, 48.59205087)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

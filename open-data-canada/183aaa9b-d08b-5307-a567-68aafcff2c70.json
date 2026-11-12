@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Forêt",
+    "Foresterie",
+    "Forestry",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Taux de forêts marchandes au Canada 2006"
+  ],
+  "dct_creator_sm": [
+    "Brian Low."
+  ],
+  "dct_description_sm": [
+    "Canada's National Forest Inventory (NFI) sampling program is designed to support reporting on forests at the national scale. On the other hand, continuous maps of forest attributes are required to support strategic analyses of regional policy and management issues. We have therefore produced maps covering 4.03 × 106 km2 of inventoried forest area for the 2001 base year using standardised observations from the NFI photo plots (PP) as reference data. We used the k nearest neighbours (kNN) method with 26 geospatial data layers including MODIS spectral data and climatic and topographic variables to produce maps of 127 forest attributes at a 250 × 250 m resolution. The stand-level attributes include land cover, structure, and tree species relative abundance. In this article, we report only on total live aboveground tree biomass, with all other attributes covered in the supplementary data (http://nrcresearchpress.com/doi/suppl/10.1139/cjfr-2013-0401). In general, deviations in predicted pixel-level values from those in a PP validation set are greater in mountainous regions and in areas with either low biomass or sparse PP sampling. Predicted pixel-level values are overestimated at small observed values and underestimated at large ones. Accuracy measures are improved through the spatial aggregation of pixels to 1 km2 and beyond. Overall, these new products provide unique baseline information for strategic-level analyses of forests (https://nfi.nfis.org)  \n  \n  Collection:  \n  \n  - **[Canada's National Forest Inventory (NFI) 2006](https://open.canada.ca/data/en/dataset/e2fadaeb-3106-4111-9d1c-f9791d83fbf4)**",
+    "L'Inventaire forestier national (IFN) du Canada est un programme d'échantillonnage conçu pour appuyer la production de rapports sur les forêts á l'échelle nationale. D'autre part, les cartes continues d'attributs forestiers sont nécessaires pour appuyer les analyses stratégiques des problématiques régionales de politique et d'aménagement. Nous avons donc produit des cartes couvrant 4,03 × 106 km2 de surface forestiére inventorièe en 2001 à partir d'observations normalisées provenant des placettes photos de l'IFN utilisées comme données de référence. Nous avons utilisé la méthode des k plus proches voisins (kNN) avec 26 couches de données géospatiales, y compris les données spectrales MODIS et les variables climatiques et topographiques, pour produire les cartes de 127 attributs forestiers à une résolution de 250 × 250 m. Les attributs à l'échelle du peuplement comprennent le type de couverture terrestre, la structure et l'abondance relative des espéces ďarbres. Dans cet article, nous rapportons seulement la biomasse totale aérienne et vivante des arbres. Tous les autres attributs abordés sont présentés dans la section matériel supplémentaire (http://nrcresearchpress.com/doi/suppl/10.1139/cjfr-2013-0401). En général, les écarts des valeurs prédites à l'échelle du pixel par rapport à celles des placettes photos de validation, sont plus importants dans les régions montagneuses et dans les zones où, soit la biomasse, soit le taux d'échantillonnage de placettes photos est faible. Les valeurs prédites à l'échelle du pixel sont surestimées lorsque les valeurs observées sont petites et sous-estimées lorsqu'elles sont grandes. Les mesures de précision sont améliorées grâce à l'agrégation spatiale des pixels sur 1 km2 et plus. Dans l'ensemble, ces nouveaux produits fournissent des informations de base uniques pour les analyses stratégiques des forêts (https://nfi.nfis.org).  \n  \n  Collection:  \n  \n  - **[L'Inventaire forestier national (IFN) du Canada de 2006](https://ouvert.canada.ca/data/fr/dataset/e2fadaeb-3106-4111-9d1c-f9791d83fbf4)**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2b3569c6-ff95-40a5-a958-dc68e3aa558b"
+  ],
+  "dct_issued_s": "2016-05-13",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2b3569c6-ff95-40a5-a958-dc68e3aa558b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Merchantable forest volume in Canada 2006",
+  "gbl_mdModified_dt": "2021-06-02T15:41:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "183aaa9b-d08b-5307-a567-68aafcff2c70",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

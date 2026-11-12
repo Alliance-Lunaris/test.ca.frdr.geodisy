@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.156465, -122.85854, 50.182668, 50.020757)",
+  "dcat_keyword_sm": [
+    "Forest Fires",
+    "wildfire",
+    "Wildfire",
+    "NRD",
+    "ladder fuel",
+    "LiDAR",
+    "forest structure",
+    "understory vegetation"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Kwok, Valerie Vivienne (University of British Columbia). ORCID: https://orcid.org/0009-0009-6270-7988"
+  ],
+  "dct_description_sm": [
+    "With increasing wildfire frequency and severity, understanding ladder fuels—vegetation structures facilitating fire propagation from forest floors to canopies—is crucial for effective wildfire management. Active remote sensors, such as light detection and ranging (LiDAR), are able to penetrate the forest canopy and allow for the characterization of understory vegetation structures. This study investigates the use of airborne LiDAR technology for estimating ladder fuels in the Resort Municipality of Whistler, British Columbia, Canada. Normalized relative density (NRD) provides an understory LiDAR density metric by dividing the number of returns in a stratum of \n interest by all returns within and below the stratum of interest. NRD of returns in the 1 – 4 m height stratum was compared between treated (NRD = 0.06 ± 0.09) and control (NRD = 0.31 ± 0.27) plots and was shown to be statistically different between treatments (p = 0.0002). A model was developed using LiDAR-derived metrics—NRD and percentage of returns below the 30th height percentile (ipcumzq30)—to estimate understory stems per hectare (stems/ha) as a proxy for ladder fuel density (Adjusted R2 = 0.37). Despite the model’s relatively low explanatory power, p-values for both input variables were < 0.05, indicating significant contribution of the predictors in explaining variability in understory stem density. Estimating understory stems per hectare allows classifying ladder fuels into categories as described by the BC Wildfire Threat Assessment Guide, facilitating the identification and prioritization of areas for ladder fuel reduction treatments."
+  ],
+  "dct_identifier_sm": [
+    "719052_73894_115983",
+    "https://doi.org/10.5683/SP3/XGMZTD"
+  ],
+  "dct_issued_s": "2025-04-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XGMZTD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Whistler, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Deriving airborne LiDAR metrics to estimate ladder fuel density in Whistler, British Columbia",
+  "gbl_mdModified_dt": "2025-04-08T19:02:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7a1871ab-4dd7-5f11-884a-39acd8fa3f9c",
+  "locn_geometry": "ENVELOPE(-123.156465, -122.85854, 50.182668, 50.020757)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

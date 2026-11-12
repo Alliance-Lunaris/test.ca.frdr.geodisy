@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.32547974866225, -75.28146214130712, 45.556420513408504, 44.98811242244955)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "traffic",
+    "accident",
+    "crash",
+    "intersection",
+    "count",
+    "2023",
+    "AADT",
+    "car",
+    "bicycle",
+    "A city that is more connected with reliable safe and accessible mobility options",
+    "volume"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p><strong>Accuracy</strong>:</p><p>All data points reported were collected using an automatic traffic recorder with an expected 95% +/- 5% accuracy.</p><p>The City of Ottawa provides this information in good faith but provides no warranty, nor accepts any liability arising from any incorrect, incomplete or misleading information or its improper use.</p><p>Annual Average Daily Traffic (AADT) represents the average 24-hour traffic volume at a location, averaged across all days of the year. All motorized vehicle data provided is based on either an 8 or 12 hour standard count. The collected raw total is then expanded to a 24 hour volume and factored by Ottawa’s Annual Average Daily Traffic (AADT) values providing a factored 24 hour value. Non 8 or 12 hour counts do not have AADT values calculated in this data set.<br /><strong>Update Frequency</strong>:</p><p>Annually – note locations subject to change to reflect ad-hoc nature of intersection volume count program<br /><strong>Attributes</strong>:</p><ul><li>GeoID</li><li>X,Y</li><li>Intersection name</li><li>Study date</li><li>Day of the week</li><li>Duration of study</li><li>Total vehicles (not factored)</li><li>Total pedestrians (not factored)</li><li>Total cyclists (not factored)</li><li>Total trucks (not factored)</li><li>Total truck %</li><li>AADT calculated Yes/No</li><li>AADT (total adjusted volume 24 hours)&nbsp;</li></ul><p><strong>Contact</strong>:&nbsp;<a href='mailto:cameron.gorman@ottawa.ca' rel='nofollow ugc'>Transportation Data Collection &amp; Analytics</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "5fa38ff0ae4f4ca3aac68498eb0e9812",
+    "https://www.arcgis.com/home/item.html?id=5fa38ff0ae4f4ca3aac68498eb0e9812"
+  ],
+  "dct_issued_s": "2026-08-14",
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::transportation-intersection-volume-2025\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_title_s": "Transportation Intersection Volume 2025",
+  "gbl_mdModified_dt": "2026-08-17T13:20:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8092811b-952a-542f-896c-97e9a31e3070",
+  "locn_geometry": "ENVELOPE(-76.32547974866225, -75.28146214130712, 45.556420513408504, 44.98811242244955)",
+  "schema_provider_s": "Open Ottawa"
+}

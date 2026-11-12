@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.001541, -110.000644, 60.0, 48.996055)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "CONTOUR-LINE",
+    "DIGITAL-ELEVATION-MODEL",
+    "DEM",
+    "Government information",
+    "DIGITAL-TERRAIN-MODEL",
+    "INDEX-CONTOUR",
+    "-CANADA",
+    "ELEVATION",
+    "HYPSOGRAPHY",
+    "DTM",
+    "INTERMEDIATE-CONTOUR"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset contains all of the 1:20 000 scale contour information converted from the Provincial Digital Base Mapping Project. These contour arcs are a cartographic product and they do not have any elevation values attributed to the spatial features. These contours require the use of elevation text to properly interpret the elevation value of a specific contour. There are two major types of contours, index contours and intermediate contours. Index contours are identified every 5th contour line. For Alberta, the index contour intervals occur every 50 metres in relatively flat terrain and every 100 metres in mountainous terrain. Intermediate contours are contour lines that occur between the index contours. For Alberta, the intermediate contour intervals are every 10 metres in relatively flat terrain and every 20 metres in mountainous terrain. Where elevation change is sudden, intermediate contours may be deleted and only index contours are shown. Currently, no contour information exists for Banff, Jasper and Wood Buffalo National Parks and also for the extreme north east portion of the province. See the Completeness Report in this metadata record for details regarding coverage.",
+    "Cet ensemble de données contient toutes les informations de contour à l'échelle 1:20 000 converties à partir du projet provincial de cartographie de base numérique. Ces arcs de contour sont un produit cartographique et aucune valeur d'altitude n'est attribuée aux caractéristiques spatiales. Ces contours nécessitent l'utilisation d'un texte d'altitude pour interpréter correctement la valeur d'altitude d'un contour spécifique. Il existe deux principaux types de contours, les contours d'indice et les contours intermédiaires. Les contours de l'indice sont identifiés toutes les 5 lignes de contour. Pour l'Alberta, les intervalles de contour de l'indice se produisent tous les 50 mètres en terrain relativement plat et tous les 100 mètres en terrain montagneux. Les contours intermédiaires sont des lignes de contour qui apparaissent entre les contours de l'indice. Pour l'Alberta, les intervalles de contour intermédiaires sont tous les 10 mètres en terrain relativement plat et tous les 20 mètres en terrain montagneux. En cas de changement d'altitude soudain, les contours intermédiaires peuvent être supprimés et seuls les contours d'indice sont affichés. À l'heure actuelle, il n'existe aucune information sur les contours des parcs nationaux Banff, Jasper et Wood Buffalo, ainsi que pour l'extrême nord-est de la province. Consultez le rapport d'exhaustivité dans cet enregistrement de métadonnées pour plus de détails concernant la couverture.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e34abc53-b26d-408c-a43b-87e2eb5d96ad"
+  ],
+  "dct_issued_s": "2000-04-07",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e34abc53-b26d-408c-a43b-87e2eb5d96ad\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Contour",
+  "gbl_mdModified_dt": "2026-03-04T15:40:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "77b06cdc-b0fe-59e6-8935-0cfdafa878d0",
+  "locn_geometry": "ENVELOPE(-120.001541, -110.000644, 60.0, 48.996055)",
+  "schema_provider_s": "Open Data Canada"
+}

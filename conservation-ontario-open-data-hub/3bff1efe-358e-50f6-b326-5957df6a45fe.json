@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.91862496523608, -79.52796523494261, 43.79592626355517, 43.58303042467183)",
+  "dcat_keyword_sm": [
+    "Service Backup: Not Required",
+    "Etobicoke",
+    "ECWP",
+    "Watershed Plan",
+    "Canopy Cover Characterization",
+    "Etobicoke Creek Watershed Plan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Description: Canopy Cover Characterization consists of 3,300 points randomly distributed across Etobicoke Creek watershed and assigned to a land cover class in 2009 (historical period) and 2018 (current). i-Tree Canopy was used to generate random points which were classified by a trained technician based on underlying Google Earth imagery. Each point was assigned to one of the following land cover classes for each time period: Tree/Shrub (only tall shrubs included), Soil/Bare Ground (in agricultural areas), Soil/Bare Ground (outside of agricultural areas), Grass/Herbaceous (in agricultural areas), Grass/Herbaceous (outside of agricultural areas), Impervious Road, Impervious Other, and Impervious Buildings. The Tree/Shrub class indicates the presence of canopy and was used to assess canopy cover percentages at the watershed and subwatershed scales. Fields, F2018_CC and F2009_CC, indicate the presence or absence of canopy cover as a 1 or 0, respectively, in 2018 and 2009. Dif18_09 indicates if there was a change in canopy cover from 2009 to 2018: +1 is an increase from no canopy to canopy, 0 shows no canopy cover change, and -1 indicates a loss of canopy between 2009 and 2018.</span></span></p><p><p style='margin:0 0 0 0;'><span><span>Last Updated: August, 2020</span></span></p><p><p style='margin:0 0 0 0;'><span><span>Data Source: Original dataset based on classifying freely available Google Earth orthoimagery from 2009 and 2018.</span></span></p><p><p><span /></p></div></div></div></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "609a53efdb9a434183aba93fd4620f40",
+    "https://www.arcgis.com/home/item.html?id=609a53efdb9a434183aba93fd4620f40"
+  ],
+  "dct_issued_s": "2022-01-07",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::ecwp-canopy-cover-characterization\"}",
+  "dct_rights_sm": [
+    "TRCA Open Data License"
+  ],
+  "dct_title_s": "ECWP Canopy Cover Characterization",
+  "gbl_mdModified_dt": "2025-08-08T18:54:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3bff1efe-358e-50f6-b326-5957df6a45fe",
+  "locn_geometry": "ENVELOPE(-79.91862496523608, -79.52796523494261, 43.79592626355517, 43.58303042467183)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

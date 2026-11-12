@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.1801, -90.9202, 58.9958, 48.8698)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon dataset represents Community Interest Zones (CIZ) reserved on behalf of 21 Entitlement First Nations as per the Treaty Land Entitlement Framework Agreement and the Notice Area for the Peguis Treaty Entitlement Agreement.  \n  \n  The Community Interest Zone (CIZ) dataset illustrates consultation areas reserved on behalf of 21 Entitlement First Nations represented by the Treaty Land Entitlement Committee as contained within the Treaty Land Entitlement Framework Agreement signed May 29th 1997, and the Peguis Treaty Entitlement Agreement signed April 29, 2008. The CIZ boundary is based on the 1:500,000 Province of Manitoba base map and a 30-km radius drawn from a specific existing reserve boundary. The boundary of the Peguis Notice Area was included in the Peguis Treaty Entitlement Agreement and has been digitized using a heads-up digitizing method. The areas have been squared off to include the whole section where only part of a section is intersected by the 30-km radius. For more information on individual agreements please visit the Manitoba government website: https://www.gov.mb.ca/inr/settlements-and-other-agreements/index.html Fields included [Alias (Field Name): Field description] OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generated ID Number (ID): A unique number identifying the Community Interest Zone First Nation (FIRST_NATION): Name of the First Nation for whom the Community Interest Zone area is reserved Community Interest Zone Name (NAME): Name of Community Interest Zone area"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fd26b01-197a-f65e-0fc8-bfafcbeefd65"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fd26b01-197a-f65e-0fc8-bfafcbeefd65\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Community Interest Zones in Manitoba",
+  "gbl_mdModified_dt": "2025-02-05T19:08:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fcff5e2e-5f47-5892-98ca-122938c29540",
+  "locn_geometry": "ENVELOPE(-102.1801, -90.9202, 58.9958, 48.8698)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

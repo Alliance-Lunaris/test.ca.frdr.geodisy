@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Hydrologiquement cohérent",
+    "Réseau de traçage",
+    "Élévation",
+    "GRHQ",
+    "Hydrographie",
+    "UDH",
+    "Réseau géométrique",
+    "GRHQ-HR",
+    "Hydrocohérent",
+    "Hydrologie",
+    "Réseau hydrographique",
+    "Lidar",
+    "Relief",
+    "Modèles numériques de terrain hydrocohérents",
+    "MNT-HC",
+    "Écoulement",
+    "Cartographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction générale de l'information géospatial."
+  ],
+  "dct_description_sm": [
+    "<span style=\"color:#043D5F\"><strong>Veuillez noter qu’un service web est présentement en développement et sera lancé à l’automne 2026 . Restez à l’affût!</strong></span>\r\n\r\n###Avertissement :###\r\n\r\n####Le diffuseur ne peut garantir l’exactitude, la précision ou l’intégralité des données ni ne peut être tenu responsable des conclusions qui découlent de leur utilisation. Ces données n’ont aucune valeur légale.####\r\n\r\nLa Géobase du réseau hydrographique du Québec à haute résolution (GRHQ-HR) propose une représentation à jour de très grande précision du réseau hydrographique (échelle de 1/2 000). Ce référentiel, produit à partir des données lidar, est offert par unité de découpage hydrographique (UDH). Le déploiement de cette géobase est réalisé progressivement par niveaux de complétude (NC). À terme, elle couvrira le territoire du Québec méridional. Durant la phase de déploiement du référentiel, [la Géobase du réseau hydrographique du Québec (GRHQ)](https://www.donneesquebec.ca/recherche/fr/dataset/grhq), la GRHQ-HR ainsi que [les lits d’écoulement potentiels](https://www.donneesquebec.ca/recherche/dataset/lits-d-ecoulements-potentiels-issus-du-lidar) issus du lidar seront simultanément disponibles sur Données Québec pour cette portion du territoire.\r\n\r\nLa GRHQ-HR comprend un réseau géométrique linéaire 3D, qui représente la continuité et le sens de l’écoulement dans tous les types d’entités aquatiques (cours d’eau, lacs, milieux humides, etc.). Ce réseau est créé par la modélisation des lits d’écoulement potentiels et complété par les lignes centrales d’écoulement (représentation simplifiée des surfaces hydrographiques en lignes centrales). \r\n\r\nCette géobase s’inscrit dans une stratégie de mise à jour cartographique de l’hydrographie du Québec. Elle a été réalisée en partenariat avec le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP). \r\n\r\n \r\n##Caractéristiques des niveaux de complétude des UDH##\r\nChaque niveau de complétude caractérise le niveau de travail d’édition, de validation et de contenu descriptif des jeux de données. Des données thématiques et toponymiques viendront bonifier les jeux de données. \r\n\r\n####NC-1 (réseau géométrique primaire)####\r\n\r\n* Lits d’écoulement potentiels et filamentaires dérivés des surfaces hydrographiques, orientés et topologiques.\r\n* Niveau de priorité défini (permet des analyses de réseau).\r\n* Présence de certains attributs de base (pérennité, connexion réseau, accumulation de flux, ordres de Strahler et Horton, distance de l’amont, distance de l’aval).\r\n* Système de référence linéaire (numéros des routes, coordonnées M des vertex).\r\n* Surfaces hydrographiques de la GRHQ à l’échelle de 1/20 000 (2D).\r\n* Présence de certains toponymes en attribut.\r\n* Modèles numériques de terrain hydrocohérents (GeoTIFF).\r\n* Matrices d’accumulation de flux (GeoTIFF).\r\n* Matrices de direction de flux (GeoTIFF).\r\n\r\n####NC-2 (réseau géométrique bonifié)####\r\n\r\n* Caractéristiques du NC-1.\r\n* Mise à jour des surfaces hydrographiques par photogrammétrie.\r\n* Correction des erreurs de parcours des lits d’écoulement potentiels et mise à jour des filamentaires en aval.\r\n* Ajout partiel de données thématiques hydrographiques (barrages, chutes, écueils, îles, milieux humides, rapides).\r\n* Index de date de levé lidar.\r\n* Imbrication topologique des matrices.\r\n* Mise à jour des modèles numériques de terrain hydrocohérents.\r\n* Mise à jour des matrices de direction de flux.\r\n* Mise à jour des matrices d’accumulation de flux.\r\n\r\n####NC-3 (bonification thématique)####\r\n\r\n* Caractéristiques du NC-2.\r\n* Thématiques hydrographiques complétées (brise-lames, quais).\r\n* Ajout de toponymes.\r\n\r\n####NC-4 (bonification du contenu toponymique)####\r\n\r\n* Caractéristiques du NC-3.\r\n* Continuité des données toponymiques sur les géométries.\r\n* Ajouts des entités nommées."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/ba2c19ec-e7c5-468b-83df-c5879263c925"
+  ],
+  "dct_issued_s": "2025-05-16",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/ba2c19ec-e7c5-468b-83df-c5879263c925\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Géobase du réseau hydrographique du Québec à haute résolution (GRHQ-HR)",
+  "gbl_mdModified_dt": "2026-08-14T11:43:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc529d6b-2e85-5a4a-a574-8f02c7456703",
+  "schema_provider_s": "Données Québec"
+}

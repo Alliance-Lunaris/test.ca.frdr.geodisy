@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -60.0, 60.0, 36.0)",
+  "dcat_keyword_sm": [
+    "Pâturage",
+    "Agriculture",
+    "Cultures fourragères",
+    "Agriculture",
+    "Couverture du sol",
+    "Land cover",
+    "Forage crops",
+    "Grasslands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Couverture terrestre des prairies"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The Grassland Inventory provides a standardized, high-resolution land cover classification for the grassland ecosystems in Canada. Developed using a random forest classification on multi-temporal Sentinel-1 SAR and Sentinel-2 Optical imagery, the series differentiates intact native grasslands from high-disturbance, tame perennial forage systems; two classes that are spectrally and phenologically similar, yet critical to differentiate and quantify accurately for carbon and biodiversity modelling. Each release in the series includes a categorical 10 m land cover raster and a companion continuous likelihood layer representing model confidence in the native grassland class. As new classifications are added (semi-decadal) and geographic extent increased, the series will enable consistent temporal comparisons to track grassland dynamics and land cover change to support operational and research applications within AAFC and stakeholders.",
+    "L’Inventaire des prairies fournit une classification normalisée et à haute résolution de la couverture terrestre pour les écosystèmes des prairies au Canada. Élaborée à l’aide d’une classification par forêt aléatoire appliquée à des images multitemporelles Sentinel 1 (SAR) et Sentinel 2 (optiques), la série d’ensembles de données permet de distinguer les prairies indigènes intactes des systèmes de cultures fourragères pérennes ensemencées soumis à de fortes perturbations; deux classes qui présentent des similarités spectrales et phénologiques, mais dont la différenciation et la quantification précises sont essentielles à la modélisation du carbone et de la biodiversité. Chaque version de la série comprend une matrice catégorielle de couverture terrestre à une résolution de 10 m et une couche continue de vraisemblance associée représentant le degré de confiance du modèle pour la classe des prairies indigènes. À mesure que de nouvelles classifications (semi décennales) sont ajoutées et que l’étendue géographique augmente, la série permettra des comparaisons temporelles cohérentes pour suivre la dynamique des prairies et l’évolution de la couverture terrestre afin d’appuyer les applications opérationnelles et de recherche au sein d’AAC ainsi que chez les intervenants."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/17736d36-ffe3-40fc-ba73-383a90862123"
+  ],
+  "dct_issued_s": "2026-05-04",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/17736d36-ffe3-40fc-ba73-383a90862123\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Prairie Grassland Land Cover",
+  "gbl_mdModified_dt": "2026-05-04T19:30:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "047d5358-5ac9-5067-9c2d-13ca6e363370",
+  "locn_geometry": "ENVELOPE(-132.0, -60.0, 60.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

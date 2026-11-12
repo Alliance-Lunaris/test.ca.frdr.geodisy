@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-93.727583, -93.713115, 49.666602, 49.6589)",
+  "dcat_keyword_sm": [
+    " Stream Chemistry",
+    " Water Quality",
+    "IISD Experimental Lakes Area",
+    " LTER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "International Institute for Sustainable Development Experimental Lakes Area (IISD-ELA)."
+  ],
+  "dct_description_sm": [
+    "The IISD Experimental Lakes Area (IISD-ELA) Stream Chemistry data package provides data for the years 1970-2025, from four streams at Lake 239 in northwestern Ontario: the east inflow, northeast inflow, northwest inflow, and outflow flume. Lake 239 is the non-manipulated reference lake with the longest and most consistent data record.\nThe stream chemistry data include measurements of physical, nutrient, biological, inorganic, and organic parameters. Each row represents a parameter measured at a specific stream on a specific date. The dataset may contain duplicate records for some combinations of parameter, stream, and date; further data cleaning is ongoing.\nThis data package is ongoing—updates will be provided as data are collected from these streams in subsequent years. If data are not present here for a specific IISD-ELA stream that you are interested in, please get in touch with us. \nThe data in this package are also published in parallel through the Environmental Data Initiative (EDI) repository (edi.2443.1) as part of a larger data package that includes hydrological data (lake levels, flows, and stream temperatures) in addition to Lake 239 stream chemistry. A separate DataStream hydrology package (DOI: 10.25976/2f23-gr01) provides the raw, instantaneous 20-minute-resolution versions of the hydrological datasets included in the EDI repository.\nThe EDI and DataStream versions differ in data and metadata formatting and in the additional content provided: the EDI package includes the hydrological datasets, two HTML information sheets (one for hydrology and one for chemistry), and an additional metadata CSV that are not included here. The EDI metadata files provide further details about the datasets, including record counts, dataset background and uses, data dictionaries, diagrams, descriptions of methods, and additional references."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/r3kp-7m22"
+  ],
+  "dct_issued_s": "2019-03-13",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/r3kp-7m22\"}",
+  "dct_title_s": "IISD Experimental Lakes Area: Stream Chemistry",
+  "gbl_mdModified_dt": "2026-09-18T16:36:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "35cb2db6-c460-5aba-9b22-d0d958c0b1f2",
+  "locn_geometry": "ENVELOPE(-93.727583, -93.713115, 49.666602, 49.6589)",
+  "schema_provider_s": "DataStream"
+}

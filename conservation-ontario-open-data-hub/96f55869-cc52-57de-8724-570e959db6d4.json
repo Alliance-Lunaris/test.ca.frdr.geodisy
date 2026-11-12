@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.66524675072446, -79.06381270515143, 44.03096663688561, 43.81784396339997)",
+  "dcat_keyword_sm": [
+    "downgradient",
+    "York",
+    "TRSPA",
+    "Tier 3",
+    "SWP",
+    "WHPA-Q",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='font-weight:bold;margin:0 0 14 0;'><span><span>WHPA-Q Downgradient Line Determination</span></span></p><p style='margin:0 0 14 0;'><span><span>Considerations (in order of priority)</span></span></p><ol><li><p style='margin:0 0 14 0;'><span><span>The “Downgradient Line” cannot cross any of WHPA-A, B, C, D, E, or F. By definition, flow in the aquifer reaches the well(s) in any of these locations. Therefore, recharge in these WHPAs cannot be considered as being downgradient in the absence of updated numerical modelling.</span></span></p></li><li><p style='margin:0 0 14 0;'><span><span>The “Downgradient Line” must take into account the regional groundwater flow directions in the Oak Ridges, Thorncliffe, and Scarborough Aquifers, because all three aquifers are utilized for groundwater supplies.</span></span></p></li><li><p style='margin:0 0 14 0;'><span><span>The downgradient line should avoid sharp bends and curves, since groundwater flow generally does not behave that way.</span></span></p></li><li><p style='margin:0 0 14 0;'><span><span>If the downgradient line is close to a municipal boundary, and can be shifted such that the municipality is excluded, without compromising any of the above considerations, the line should be moved accordingly.</span></span></p></li><li><p style='margin:0 0 14 0;'><span><span>If the downgradient line is close to an approved settlement area, and can be shifted such that the settlement area is excluded, without compromising any of the above considerations, the line should be moved accordingly.</span></span></p></li><li><p style='margin:0 0 14 0;'><span>If the downgradient line bisects a property boundary, and can be shifted such that a property can be excluded without compromising any of the above considerations, the line should be moved accordingly. </span></p></li></ol><p style='margin:0 0 14 0;'><span>*NOTE: this line was revised April, 2021 after amendments that incorporated new technical work at Aurora Well 7 were completed. The new technical work resulted in the WHPA-D zone extending south over the previous WHPA-Q downgradient Line. </span></p><p><span /></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "e3f81751fd914c77b047c9e9aa720997",
+    "https://www.arcgis.com/home/item.html?id=e3f81751fd914c77b047c9e9aa720997"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-whpaq-downgradient-line\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP WHPAQ Downgradient Line",
+  "gbl_mdModified_dt": "2024-01-23T02:27:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "96f55869-cc52-57de-8724-570e959db6d4",
+  "locn_geometry": "ENVELOPE(-79.66524675072446, -79.06381270515143, 44.03096663688561, 43.81784396339997)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

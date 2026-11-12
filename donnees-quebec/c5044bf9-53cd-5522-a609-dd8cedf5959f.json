@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Imagerie aérienne",
+    "Gazon",
+    "Pelouse",
+    "Herbacée",
+    "Arbustres",
+    "Ia",
+    "Intelligence artificielle",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Communauté Métropolitaine de Québec."
+  ],
+  "dct_description_sm": [
+    "Cette donnée a été extraite à l'aide d'un modèle de segmentation sémantique (apprentissage profond) entraîné sur l'imagerie aérienne NIR (Bandes Proche infrarouge, Rouge, Vert) de 2021 et 2024 de la CMQuébec. La résolution d'extraction est de 12 cm. La végétation basse comprend la pelouse, l'herbacée, les arbustes et certains arbres de faible diamètre."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/e00bd5e8-c99c-460a-9a48-1d8e1215fa4f"
+  ],
+  "dct_issued_s": "2024-06-25",
+  "dct_publisher_sm": [
+    "Communauté métropolitaine de Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/e00bd5e8-c99c-460a-9a48-1d8e1215fa4f\"}",
+  "dct_rights_sm": [
+    "Attribution, pas d’utilisation commerciale, partage dans les mêmes conditions (CC-BY-NC-SA 4.0) https://www.donneesquebec.ca/licence/#CC-BY-SA-NC-4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Végétation basse en format matriciel détectée par intelligence artificielle CMQuébec",
+  "gbl_mdModified_dt": "2026-03-17T21:18:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c5044bf9-53cd-5522-a609-dd8cedf5959f",
+  "schema_provider_s": "Données Québec"
+}

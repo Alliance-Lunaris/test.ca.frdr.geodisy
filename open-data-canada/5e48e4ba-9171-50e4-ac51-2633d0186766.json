@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.54544, -122.82036, 55.72368, 48.27283)",
+  "dcat_keyword_sm": [
+    "réponse aux déversements pétroliers",
+    "Marine biology",
+    "planification spatiale marine",
+    "Écologie",
+    "oil spill response",
+    "Biologie marine",
+    "Ecology",
+    "Biological diversity",
+    "marine spatial planning",
+    "Diversité biologique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Définition de biotopes marins côtiers distincts à l'échelle de la côte en Colombie-Britannique, au Canada"
+  ],
+  "dct_creator_sm": [
+    "Ashley Park."
+  ],
+  "dct_description_sm": [
+    "To ensure informed decision-making, management, and conservation of marine ecosystems along the British Columbia (BC) coastline, a comprehensive understanding of marine communities and habitats is necessary. Marine planning initiatives, including environmental incident response planning and the development of a marine protected area network, have long been challenged by significant gaps in our knowledge of the distribution of many nearshore marine species. This lack of critical information can impede our ability to effectively manage and protect vulnerable species and ecosystems.   \n\nWe developed a set of species distribution models (single-SDMs) using data collected from the benthic habitat mapping survey. These models correlate species occurrence data with environmental variables. We used these models to make predictions of the probability of occurrence of each species across the entire BC coast. A cluster analysis of the single-SDM predictions was then used to determine biotopes, which are distinct combinations of physical and chemical water properties and associated biological communities.   \n\nWe defined and mapped the spatial distribution and probability of nine nearshore macrofauna epibenthic biotopes along with three physiotopes based on environmental conditions. The definition of the biotopes includes correlated species, the type of substrate, and range of environmental conditions (slope, depth, current, temperature, salinity, and tidal current) occurring within each biotope. The biotopes defined here are a first, but important, step in quantitative bioregionalization for the Pacific region as the resolution of nearshore marine community information has been lacking in BC and has hindered marine spatial initiatives.  \n\nThis dataset contains 71 of the 72 single-SDMs (which excludes Northern abalone, an endangered species), the spatial distribution of 9 biotopes and 3 physiotopes, and the species richness calculated as the sum of occurrence probabilities across all 72 species.",
+    "Pour assurer la prise de décisions éclairées, la gestion et la conservation des écosystèmes marins le long de la côte de la Colombie-Britannique, une compréhension approfondie des communautés et des habitats marins est nécessaire. Les initiatives de planification marine, y compris la planification des interventions en cas d'incident environnemental et le développement d'un réseau d'aires marines protégées, sont depuis longtemps contestées par d'importantes lacunes dans nos connaissances sur la répartition de nombreuses espèces marines côtières. Ce manque d'information essentielle peut nuire à notre capacité de gérer et de protéger efficacement les espèces et les écosystèmes vulnérables. \n\nNous avons élaboré un ensemble de modèles de répartition des espèces (SMD unique) à partir des données recueillies dans le cadre du relevé cartographique de l'habitat benthique. Ces modèles établissent une corrélation entre les données sur l'occurrence des espèces et les variables environnementales. Nous avons utilisé ces modèles pour prédire la probabilité d'occurrence de chaque espèce sur toute la côte de la Colombie-Britannique. Une analyse en grappes des prédictions mono-SDM a ensuite été utilisée pour déterminer les biotopes, qui sont des combinaisons distinctes de propriétés physiques et chimiques de l'eau et de communautés biologiques associées. \n\nNous avons défini et cartographié la distribution spatiale et la probabilité de neuf biotopes épibenthiques de la macrofaune côtière ainsi que de trois physiotopes en fonction des conditions environnementales. La définition des biotopes comprend les espèces corrélées, le type de substrat et la gamme des conditions environnementales (pente, profondeur, courant, température, salinité et courant de marée) qui se produisent dans chaque biotope. Les biotopes définis ici constituent une première étape, mais importante, de la biorégionalisation quantitative pour la région du Pacifique, car la résolution des données sur les communautés marines littorales fait défaut en Colombie-Britannique et a entravé les initiatives spatiales marines. \n\nCet ensemble de données contient 71 des 72 SMD simples (ce qui exclut l'ormeau nordique, une espèce en voie de disparition), la distribution spatiale de 9 biotopes et de 3 physiotopes, et la richesse en espèces calculée comme la somme des probabilités d'occurrence pour les 72 espèces."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/91adb2a7-eb07-4ed6-ae82-6b8601a61553"
+  ],
+  "dct_issued_s": "2026-04-09",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/91adb2a7-eb07-4ed6-ae82-6b8601a61553\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Defining Distinct Nearshore Marine Biotopes Coastwide in British Columbia Canada",
+  "gbl_mdModified_dt": "2026-06-15T18:31:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5e48e4ba-9171-50e4-ac51-2633d0186766",
+  "locn_geometry": "ENVELOPE(-133.54544, -122.82036, 55.72368, 48.27283)",
+  "schema_provider_s": "Open Data Canada"
+}

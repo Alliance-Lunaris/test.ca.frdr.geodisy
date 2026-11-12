@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "api",
+    "Traffic",
+    "webcam",
+    "image",
+    "red light",
+    "cons",
+    "road",
+    "special event",
+    "A city that is more connected with reliable safe and accessible mobility options",
+    "incident"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<div>For detailed information regarding the Traffic API, see the <a href='https://traffic.ottawa.ca/map/opendata_info' target='_blank'>Interactive Traffic Map website</a> from the Traffic and Parking website.</div><div><br /></div><div><b><u>Traffic WebCam API</u></b><br /></div>Provides images for the City of Ottawa’s traffic web cams. These images are available at sixty second intervals and are approximately 30-50KB in size. To access the images users will be required to have an access key. The application form for access keys can be found on this page: <a href='http://trafficopendata.ottawa.ca/ts/rsadmin/certificate.jsp' target='_blank'>http://trafficopendata.ottawa.ca/ts/rsadmin/certificate.jsp</a> \n<br />\nAfter completing the registration form and receiving a confirmation email with a certificate number you will be able to access the camera images. To access a camera image you can access the URL http://traffic.ottawa.ca/opendata/camera with the following parameters:\n<ul>\n<li>Camera number\n</li><li>Certificate: The certificate string as supplied in the confirmation email.\n</li><li>Id: User Id (optional).\n</li></ul>\nNote: City of Ottawa cameras have camera numbers less than 2000, and MTO cameras have camera numbers  greater than 2000.\n<br />\nNote: The Id is a string value assigned by your user to each user or instance of your application accessing the images. The Id must be alphanumeric characters [a-z, A-Z, 0-9]. A given user id for a given certificate may only access the cameras at intervals of at least 60 seconds.\n<p>\ne.g. To access City Camera 16 (Bank and Hunt Club) --   <i>http://traffic.ottawa.ca/opendata/camera?c=16&amp;certificate=CERT123&amp;id=2</i>\n<br />\ne.g. To access MTO Camera 2002 (St Laurent) --  <i>http://traffic.ottawa.ca/opendata/camera?c=2002&amp;certificate=CERT123&amp;id=1\n</i><br />\nThe images</p><p><b>\nGetting Camera Numbers\n</b><br />\nTo obtain a list of camera numbers you can access a JSON list of the available cameras: <i>http://traffic.ottawa.ca/map/camera_list</i>\n<br />\nMore information about the format of the list can be found in the following document: <i>http://traffic.ottawa.ca/map/opendata_info\n</i><br />\n\n\n</p><strong>Accuracy</strong>: There are no known errors associated with these images.<br /><br />\n<strong>Update Frequency</strong>: N/A - API delivers most up to date information available.<br /><br /><strong>Contact</strong>: <a href='mailto:Motaz.Aladas@ottawa.ca'>Motaz Aladas</a>"
+  ],
+  "dct_identifier_sm": [
+    "7567f27085814487ae6df41170ea2ebf",
+    "https://www.arcgis.com/home/item.html?id=7567f27085814487ae6df41170ea2ebf"
+  ],
+  "dct_issued_s": "2019-08-23",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/documents/ottawa::traffic-services-api-webcam-images-traffic-flow\"}",
+  "dct_title_s": "Traffic Services API (Webcam Images, Traffic Flow)",
+  "gbl_mdModified_dt": "2024-07-08T18:24:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0028ee1f-ae16-5019-b776-3d13fadaa369",
+  "locn_geometry": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "schema_provider_s": "Open Ottawa"
+}

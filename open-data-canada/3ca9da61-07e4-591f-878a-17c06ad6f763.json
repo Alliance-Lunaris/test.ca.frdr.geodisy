@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Forecast",
+    "Weather Models",
+    "Basins",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes prévues dans le bassin (REPS - 72 heures)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer shows the spatial distribution of forecasted accumulated precipitation across watershed sub‑basins using data derived from the Regional Ensemble Prediction System (REPS). In other words, it aggregates precipitation amounts—computed from processed REPS forecast output (converted from GRIB2 files into raster [TIF] format)—over defined watershed boundaries to provide a detailed view of expected rainfall over a typical 72‑hour forecast period. This information supports regional hydrological forecasting, flood risk analysis, and water resource management.\n\nREPS forecast data are first processed to extract the accumulated precipitation field (APCP) and converted into high‑resolution raster images. These “REPS APCP rasters” represent the spatial distribution of forecast precipitation (in millimeters) over the region. Next, using pre‑defined watershed or sub‑basin boundaries, zonal statistics are applied to compute the average precipitation for each sub‑basin. The final layer displays these averaged values as polygon features, highlighting variations in forecasted rainfall across different drainage areas. This approach helps users pinpoint regions that may receive higher or lower rainfall, thereby enhancing hydrological assessments and emergency planning.",
+    "Cette couche polygonale montre la distribution spatiale des précipitations accumulées prévues dans les sous-bassins versants à l'aide de données dérivées du Regional Ensemble Prediction System (REPS). En d'autres termes, il agrège les quantités de précipitations, calculées à partir des prévisions REPS traitées (converties à partir de fichiers GRIB2 au format raster [TIF]), sur les limites définies des bassins versants afin de fournir une vue détaillée des précipitations attendues sur une période de prévision typique de 72 heures. Ces informations soutiennent les prévisions hydrologiques régionales, l'analyse des risques d'inondation et la gestion des ressources en eau.\n\nLes données de prévision REPS sont d'abord traitées pour extraire le champ de précipitations accumulées (APCP) et converties en images matricielles haute résolution. Ces « rasters REPS APCP » représentent la distribution spatiale des précipitations prévues (en millimètres) sur la région. Ensuite, à l'aide de limites prédéfinies de bassin versant ou de sous-bassin, des statistiques zonales sont appliquées pour calculer les précipitations moyennes pour chaque sous-bassin. La dernière couche affiche ces valeurs moyennes sous forme de polygones, mettant en évidence les variations des précipitations prévues dans les différentes zones de drainage. Cette approche aide les utilisateurs à identifier les régions susceptibles de recevoir des précipitations plus ou moins élevées, améliorant ainsi les évaluations hydrologiques et la planification des urgences.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fabc953a-5b67-11ff-7b8e-01cb96875d27"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fabc953a-5b67-11ff-7b8e-01cb96875d27\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (REPS - 72 Hrs)",
+  "gbl_mdModified_dt": "2026-03-18T11:31:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3ca9da61-07e4-591f-878a-17c06ad6f763",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

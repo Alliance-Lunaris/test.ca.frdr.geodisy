@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.534543, -109.678653, 54.862125, 51.545837)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "ENVIRONMENT",
+    "SHORELINE-BUFFER",
+    "LAND-COVER",
+    "Government information",
+    "DOWNLOADABLE-DATA",
+    "LAND-USE",
+    "NORTH-SASKATCHWAN-RIVER-WATERSHED",
+    "RIPARIAN-MANAGEMENT-AREAS",
+    "WALL-TO-WALL-LAND-COVER",
+    "BATTLE-RIVER",
+    "SPOT6",
+    "NORTH-SASKATCHEWAN-RIVER",
+    "SPOT7",
+    "BATTLE-RIVER-WATERSHED",
+    "-CANADA",
+    "INLANDWATERS",
+    "RIPARIAN-INTACTNESS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Résultats des projets pour l'ensemble de données sur la couverture terrestre des bassins versants de la Saskatchewan du Nord et de la rivière Battle"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This 5 class 6 m resolution land cover was created for the NSWA and BRWA in 2020-2021 using SPOT6/7 imagery from 2017 and 2018 provided by the Government of Alberta in order to assess riparian intactness for 25,272 km of shoreline in Alberta. The land cover was developed from 44 separate supervised random forest classifications of 41 different SPOT6 6m imagery tiles from 2017/2018 and was then clipped to a 50 m buffer around waterbodies of interest. The full classification is composed of 41 individual polygon files, each of which corresponds to the original SPOT tile that the classification was performed on. Details on the individual SPOT tiles is available in the accompanying report. Two data products are available from this project: Wall to Wall Land Cover (available in TIFF and FGDB formats) and Shoreline Buffer (available in TIFF format). Please see the Distribution Information to obtain the data products.",
+    "Cette couverture terrestre de classe 5 avec une résolution de 6 m a été créée pour la NSWA et la BRWA en 2020-2021 à l'aide d'images SPOT6/7 de 2017 et 2018 fournies par le gouvernement de l'Alberta afin d'évaluer l'intégrité riveraine de 25 272 km de rivage en Alberta. La couverture terrestre a été développée à partir de 44 classifications forestières aléatoires supervisées distinctes de 41 tuiles d'imagerie SPOT6 de 6 m différentes datant de 2017/2018, puis a été découpée dans une zone tampon de 50 m autour des plans d'eau d'intérêt. La classification complète est composée de 41 fichiers de polygones individuels, chacun correspondant à la tuile SPOT d'origine sur laquelle la classification a été effectuée. Des informations détaillées sur les différentes vignettes SPOT sont disponibles dans le rapport ci-joint. Deux produits de données sont disponibles dans le cadre de ce projet : Wall to Wall Land Cover (disponible en formats TIFF et FGDB) et Shoreline Buffer (disponible en format TIFF). Consultez les informations de distribution pour obtenir les produits de données.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/bb066f85-d864-4bad-b203-56d979312031"
+  ],
+  "dct_issued_s": "2021-05-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/bb066f85-d864-4bad-b203-56d979312031\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Project Returns for North Saskatchewan and Battle River Watersheds Land Cover Dataset",
+  "gbl_mdModified_dt": "2026-03-04T15:03:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f0a79b8c-685c-51fa-9384-f87155043b02",
+  "locn_geometry": "ENVELOPE(-117.534543, -109.678653, 54.862125, 51.545837)",
+  "schema_provider_s": "Open Data Canada"
+}

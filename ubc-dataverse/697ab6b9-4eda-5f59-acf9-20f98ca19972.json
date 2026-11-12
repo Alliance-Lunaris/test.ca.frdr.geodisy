@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.427418, -119.942597, 57.61967, 57.178123)",
+  "dcat_keyword_sm": [
+    "remote sensing",
+    "ecosystems",
+    "mapping",
+    "wetlands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Melser, Ramon (University of British Columbia). ORCID: https://orcid.org/0000-0003-1759-774X"
+  ],
+  "dct_description_sm": [
+    "The purpose of this project was to identify and map the location of wetlands in the Chinchaga Watershed Management Basin within the Fort St. John Timber Supply Area. The Chinchaga study area covers 75,000 hectares (ha), and serves as an ecologically significant unit within the Fort St. John Timber Supply Area, representing the gentle, low relief terrain characteristic to Boreal Plains. The products created in this project are intended to provide input for the amendment of the Fort St. John Land & Resources Management Plan. Input data for this project consisted of Sentinel 2 spectral imagery, the provincial Digital Elevation Model, ClimateBC data, and Predictive Ecosystem Mapping provincial products. Both spectral and topographic indices were created to assist in model performance. A geographically stratified sampling approach was taken in order to generate 1012 points. These training points were attributed to allow for the prediction of three simplified land cover realms, as well as seven identified provincial Eco-Groups across the Chinchaga. Together, the explanatory variables and training points were fed into a Random Forest model, and the classes were predicted across the study area with 84.9% (Three Class) and 78.2% (Seven Class) overall accuracy, respectively. Included in this report are a brief discussion on explanatory variable contribution to model performance, as well as an analysis of sample design and its implications on class accuracies in the 7 Class prediction."
+  ],
+  "dct_identifier_sm": [
+    "153767_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/UJNWDF"
+  ],
+  "dct_issued_s": "2021-09-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/UJNWDF\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Fort St. John, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Predictive Ecosystem Mapping of the Chinchaga Watershed Management Basin, North Eastern British Columbia",
+  "gbl_mdModified_dt": "2021-09-10T19:45:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "697ab6b9-4eda-5f59-acf9-20f98ca19972",
+  "locn_geometry": "ENVELOPE(-120.427418, -119.942597, 57.61967, 57.178123)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

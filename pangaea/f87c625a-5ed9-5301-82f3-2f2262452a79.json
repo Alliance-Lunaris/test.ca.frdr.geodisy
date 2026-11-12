@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Anhaus, Philipp (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0671-8545",
+    "Schiller, Martin (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0506-2759",
+    "Planat, Noémie (McGill University).",
+    "Katlein, Christian (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung). ORCID: https://orcid.org/0000-0003-2422-0414",
+    "Nicolaus, Marcel (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0003-0903-1746"
+  ],
+  "dct_description_sm": [
+    "The distance between a remotely operated vehicle (ROV) and the sea-ice underside was measured by a single-beam upward-looking acoustic sonar altimeter (Tritech PA500) attached to the ROV during the ARTofMELT2023 expedition in May and June 2023. Sea-ice draft was derived by subtracting the distance to the sea-ice underside from the ROV depth, uncorrected for ROV attitude (pitch, roll). An offset between the depth reference (ROV bumper bars) and the altimeter of 0.105 m is accounted for in the presented data.",
+    "Sea-ice draft have not been checked for absolute height. Cross-check with drillings or open water patches before using, significant offsets can be possible."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.962258",
+    "https://doi.org/10.1594/pangaea.962258"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.962258\"}",
+  "dct_subject_sm": [
+    "Sea ice draft",
+    "Remote operated vehicle",
+    "Sea Ice Physics @ AWI (AWI_SeaIce)",
+    "Distance, relative, X",
+    "Survey ID",
+    "ARTofMELT2023",
+    "Digital precision altimeter, Tritech, PA500",
+    "Remotely operated vehicle (ROV)",
+    "Sea ice",
+    "Calculated",
+    "Quality flag, position",
+    "DATE/TIME",
+    "Distance, relative, Y",
+    "Distance to sea ice bottom",
+    "Oden",
+    "DEPTH, water",
+    "Atmospheric rivers and the onset of sea ice melt 2023 (ARTofMELT)",
+    "BEAST",
+    "FRontiers in Arctic marine Monitoring (FRAM)"
+  ],
+  "dct_title_s": "Distance between ROV and sea ice from ROV survey ARTofMELT2023/1_20-3 on 2023-05-20, survey 2",
+  "gbl_mdModified_dt": "2024-10-16T01:03:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f87c625a-5ed9-5301-82f3-2f2262452a79",
+  "locn_geometry": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "schema_provider_s": "PANGAEA"
+}

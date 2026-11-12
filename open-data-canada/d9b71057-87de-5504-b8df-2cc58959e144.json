@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.5, -123.0, 51.0, 49.5)",
+  "dcat_keyword_sm": [
+    "currents",
+    "Modélisation",
+    "Oceans",
+    "Discovery Islands",
+    "Modèle océanique FVCOM",
+    "Colombie britannique",
+    "FVCOM ocean model",
+    "Modelling",
+    "courants",
+    "Température",
+    "British Columbia",
+    "Îles de Discovery",
+    "salinité",
+    "Salinity",
+    "Bute Inlet",
+    "Océan",
+    "Bute Inlet",
+    "Temperature"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modélisation de la circulation et des conditions estivales moyennes dans le bras Bute, en Colombie-Britannique"
+  ],
+  "dct_creator_sm": [
+    "Laura Bianucci."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the outputs for Bute Inlet from two simulations shown in the publication \"Fjord circulation permits persistent subsurface water mass in a long, deep mid-latitude inlet\" by Laura Bianucci et al., DFO Ocean Sciences Division, Pacific Region (published in the journal Ocean Science in 2024). The Finite Volume Community Ocean Model (FVCOM v4.1) was run with two different sets of initial conditions for the Discovery Islands region of British Columbia, Canada, from May 24 to June 27, 2019. The \"Baseline\" simulation used observed initial conditions, while the \"Sensitivity\" simulation removed the observed cold subsurface water mass from the initial profiles. Here in this dataset, we provide 29-day averages of the following variables in a transect along Bute Inlet: potential temperature, density, along-inlet velocity, and Brunt-Väisälä frequency (N^2). The averaging properly removes the tidal effects.",
+    "L’ensemble de données en question contient les données de sortie pour le bras Bute issues de deux simulations présentées dans la publication Fjord circulation permits persistent subsurface water mass in a long, deep mid-latitude inlet (La circulation dans un fjord permet la présence constante d’une masse d’eau sous la surface dans un bras long et profond situé à une latitude moyenne) rédigée par Laura Bianucci et ses collaborateurs de la Division des sciences océaniques de la région du Pacifique de Pêches et Océans Canada, et publiée dans le journal Ocean Science en 2024. Le modèle des volumes finis d’océanologie côtière (FVCOM v4.1) a été exécuté avec deux ensembles différents de conditions initiales pour la région des îles Discovery de la Colombie-Britannique, au Canada, du 24 mai au 27 juin 2019. La simulation de référence a été effectuée au moyen des conditions initiales observées, tandis que pour la simulation de sensibilité, les observations de la masse d’eau froide sous la surface ont été retirées des profils initiaux. Dans cet ensemble de données, nous fournissons les moyennes possibles sur 29 jours des variables suivantes le long d’un transect longeant le bras Bute : température, densité, vitesse le long de bras et fréquence de Brunt-Väisälä (N2). Le calcul de la moyenne élimine correctement les effets des marées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d4ef2982-1701-40c2-89a4-729714270573"
+  ],
+  "dct_issued_s": "2024-06-04",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d4ef2982-1701-40c2-89a4-729714270573\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Modelled Mean Summer Circulation and Conditions in Bute Inlet, British Columbia",
+  "gbl_mdModified_dt": "2026-03-24T09:03:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d9b71057-87de-5504-b8df-2cc58959e144",
+  "locn_geometry": "ENVELOPE(-126.5, -123.0, 51.0, 49.5)",
+  "schema_provider_s": "Open Data Canada"
+}

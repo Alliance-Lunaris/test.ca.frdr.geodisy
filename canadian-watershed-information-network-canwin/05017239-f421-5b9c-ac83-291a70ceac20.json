@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-56.745, -56.5211, 51.6391, 51.5179)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Strait of Belle Isle connects the Labrador Shelf  and Gulf of St. Lawrence. Few observations of currents in the Strait of Belle Isle exist despite its important contribution to the heat, salt, and mass budgets of the Gulf of St. Lawrence. This is because the deployment of instruments is complicated by the Strait’s remote location, its strong currents, and the presence of thick winter sea ice and icebergs. The present data set aims to provide a long-term time series of currents in the Strait of Belle Isle.\n\nData were collected using a moored Teledyne RDI Workhorse 300 KHz acoustic Doppler current profiler (ADCP). The ADCP was mounted on a subsurface buoy anchored 5 m from the sea floor, in water approximately 70 m deep near the north shore of the Strait (56° 37.2 W, 51° 34.7 N). \n\nThis instrument provides three-dimensional current profiles every 30 minutes at a vertical resolution of 4 m. Backscatter intensity is also collected at the same resolution. Raw data were processed using the Magtogoek software (https://github.com/iml-gddaiss/magtogoek), developed by the Department of Fisheries and Oceans Canada. Quality flags have been assigned to the data based on beam sidelobe contamination and required thresholds for extreme velocities, beam correlation and percentage of good four-beam transformations. The ancillary data used to apply this quality control are included in the data set.\n\nReference :\nShaw, J.-L., & Galbraith, P. S. (2023). Climatology of transport in the Strait of Belle Isle. Journal of Geophysical Research: Oceans, 128, e2022JC019084. https://doi.org/10.1029/2022JC019084"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/62e039e1-a637-4b72-abe6-d4d6e30333f3"
+  ],
+  "dct_issued_s": "2023-02-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/62e039e1-a637-4b72-abe6-d4d6e30333f3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "ADCP current meter data in the Strait of Belle Isle",
+  "gbl_mdModified_dt": "2026-03-24T08:02:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "05017239-f421-5b9c-ac83-291a70ceac20",
+  "locn_geometry": "ENVELOPE(-56.745, -56.5211, 51.6391, 51.5179)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

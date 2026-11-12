@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-154.9, -32.7, 70.97, 8.94)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This is a database of modeled two-year (2016-2017) average dry deposition velocities (Vd) for 45 gaseous species and three particle size ranges at a 15 km by 15 km horizontal resolution across North America. The dry deposition schemes of Zhang et al. (2003) and Wu et al. (2021) were used for gaseous species while the scheme of Zhang and He (2014) was used for the three particle size-ranges to calculate hourly Vd, which were then aggregated into annual average Vd.\r\n\r\n\r\nReference:\r\n\r\nWu, Z., Zhang, L., Walker, J.T., Makar, P.A., Perlinger, J.A, Wang, X., 2021. Extension of a gaseous dry deposition algorithm to oxidized volatile organic compounds and hydrogen cyanide for application in chemistry transport models. Geosci. Model Dev. 14, 5093–5105.\r\n\r\nZhang, L., Brook, J., Vet, R., 2003. A revised parameterization for gaseous dry deposition in air-quality models, Atmos. Chem. Phys. 3, 2067-2082.\r\n\r\nZhang, L., He, Z., 2014. Technical Note: An empirical algorithm estimating dry deposition velocity of fine, coarse and giant particles. Atmos. Chem. Phys. 14, 3729-3737."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dcdb9e00-72cd-4398-a804-41b4eb90e140"
+  ],
+  "dct_issued_s": "2022-10-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dcdb9e00-72cd-4398-a804-41b4eb90e140\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": " A database of modeled gridded dry deposition velocities for 45 gaseous species and three particle size ranges across North America",
+  "gbl_mdModified_dt": "2022-10-18T19:03:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae0993b4-4e75-5651-89b0-fbf6f1ca9afa",
+  "locn_geometry": "ENVELOPE(-154.9, -32.7, 70.97, 8.94)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-59.5358, -51.4498, 52.0689, 46.2865)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Department of Fisheries established a survey of demersal juvenile Atlantic cod (*Gadus morhua*) in the nearshore (<10 m deep) in 1959. This survey aimed to characterize the distribution and abundance of juvenile Atlantic cod and was based upon Norway's Flodevigen sampling program which has been conducted continuously since 1919. A 25 m seine was used to sample juvenile Atlantic cod nursery locations on the Avalon Peninsula and Northeast coast of the island of Newfoundland in September and October. The survey continued until 1964 and became known as the Fleming survey, after original initiator Alistair Fleming. The survey was reinstated by Memorial University of Newfoundland from 1992 to 1997. Multiple tows were conducted at a subset of the original 55 Fleming sites located in St. Mary's Bay, Trepassey Bay, the Southern Shore, Conception Bay, Trinity Bay, Bonavista Bay, Gander Bay, New World Island, Fortune Harbour, Badger Bay, Halls Bay and Green Bay.\n\nThis data set includes several different subsets, some of which span both Fleming Survey periods (1959-1964 and 1992-1997):\n\nI. JuvCodCatch60s90s:\nCatches of juvenile Atlantic cod (1959-1964, 1992-1997) from the first two consecutive tows at each site. This is a summary based on JuvCodLengths90s and FlemingSurveyData60s;\n\nII. JuvCodLength90s:\nLengths of all individual juvenile Atlantic cod caught for each site (1992-1997);\n\nIII. SiteEnvData60s90s:\nStation data for Fleming data 1992-1997;\n\nIV. FlemingSurveyData60s:\nFleming survey data from 1959-1964 (note there are three record types pertaining to: station data  \"type 1\";  general species catch data including juvenile Atlantic cod grouped by age class (\"1+\", \"Zeroes\", and \"Total\") \"type 2; and juvenile Atlantic cod (species 223) listed in length bins \"type 3\"; and\n\nV. FlemingBycatch60s92to96:\nBycatch data from 1959-1964 & 1992-1996 from first two tows at each site. This is a summary based partly on the FlemingSurveyData60s set."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5991274e-4364-4aa8-828a-81ac235e0b65"
+  ],
+  "dct_issued_s": "2021-08-12",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5991274e-4364-4aa8-828a-81ac235e0b65\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Fleming Survey of Juvenile Atlantic Cod in Coastal Avalon and Northeast Newfoundland (NAFO Div. 3KL)",
+  "gbl_mdModified_dt": "2026-03-24T09:05:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "41a49ec5-581a-5cdb-9f29-d5fb62b13f95",
+  "locn_geometry": "ENVELOPE(-59.5358, -51.4498, 52.0689, 46.2865)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

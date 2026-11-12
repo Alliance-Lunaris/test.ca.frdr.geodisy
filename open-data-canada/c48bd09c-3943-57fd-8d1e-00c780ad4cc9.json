@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.9, -73.51, 45.7, 45.5)",
+  "dcat_keyword_sm": [
+    "Empreinte",
+    "Information gouvernementale",
+    "Donnée assise",
+    "Immeuble",
+    "Bâtiment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de l’urbanisme."
+  ],
+  "dct_description_sm": [
+    "Footprint of buildings on Laval territory produced by the City of Laval.\n\nTo help understand the data, here are the descriptions of the fields used: ESPG: 32188\n\nField properties\n\nName Description Type References/Comments\n\nID_STRUCTURE Unique identifier of the Long building \n\nTYPE Indicates the type of building Text (50) Primary, secondary, agricultural, station, railway station\n\nBUILDING_NAME When appropriate, specify the name of the building Text (200) \n\nDATE_RELEASE Date of creation or geometric modification of the target entity. In the absence of information, it means that we do not have information available. Date: YYYY-MM-DD\n\nTYPE_RELEVE Defines by what technical means the digitization of the data was obtained. For example, the process could be geoprocessing or manual scanning. In the absence of information, it means that we do not have information available. Text (50) Value field:\n\nGeoprocessing\n\nLidar\n\nManual scanning\n\nPhotointerpretation (2D)\n\nPhotogrammetry (3D)\n\nField survey\n\nRemote Sensing\n\nAutomatic vectorization\n\nUndetermined\n\n\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Empreinte des bâtiments sur le territoire lavallois produit par la Ville de Laval.\n\nPour aider la compréhension des données, voici les descriptions des champs utilisés: ESPG : 32188\n\nPropriétés des champs\n\nNom\tDescription\tType\tRéférences/commentaires\n\nID_STRUCTURE\tIdentifiant unique du bâtiment\tLong\t\n\nTYPE\tIndique le type de bâtiment\tTexte (50)\tPrincipal, secondaire, agricole, gare, station ferroviaire\n\nNOM_BATIMENT\tQuand c’est pertinent, indique le nom du bâtiment\tTexte (200)\t\n\nDATE_RELEVE\tDate de création ou modification géométrique de l'entité visée. En l’absence d’information, cela veut dire que nous n’avons pas d’information de disponible.\tDate\tAAAA-MM-JJ\n\nTYPE_RELEVE\tDéfinit par quel moyen technique la numérisation de la donnée a été obtenue. Le processus peut, par exemple, être un géotraitement ou une numérisation manuelle. En l’absence d’information, cela veut dire que nous n’avons pas d’information de disponible.\tTexte (50)\tDomaine de valeurs :\n\nGéotraitement\n\nLidar\n\nNumérisation manuelle\n\nPhoto-interprétation (2D)\n\nPhotogrammétrie (3D)\n\nRelevé terrain\n\nTélédétection\n\nVectorisation automatique\n\nIndéterminé"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2750835b-95d4-406a-89e5-f2f03504511e"
+  ],
+  "dct_issued_s": "2025-01-21",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2750835b-95d4-406a-89e5-f2f03504511e\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Référentiel de bâtiment – Ville de Laval",
+  "gbl_mdModified_dt": "2026-09-30T17:32:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c48bd09c-3943-57fd-8d1e-00c780ad4cc9",
+  "locn_geometry": "ENVELOPE(-73.9, -73.51, 45.7, 45.5)",
+  "schema_provider_s": "Open Data Canada"
+}

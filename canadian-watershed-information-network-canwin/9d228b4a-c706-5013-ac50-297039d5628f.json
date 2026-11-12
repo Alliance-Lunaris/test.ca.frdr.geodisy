@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer shows sub-basin averages of HRDPS (High Resolution Deterministic Prediction System) precipitation. Ideal for capturing short-range (0–48h) high-resolution precipitation forecasts aggregated at the watershed scale.\n\nThe HRDPS is a 2.5 km resolution model used for short-range, convection-permitting forecasts in Canada. This layer takes HRDPS precipitation totals and aggregates them by each sub-basin polygon, revealing how localized rain or snow could impact individual watersheds. Useful for near-term flood or flash-flood risk, as well as local water management during intense weather."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c21cf3a8-9649-0e01-f470-47cdb0a4746d"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c21cf3a8-9649-0e01-f470-47cdb0a4746d\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (HRDPS - 24 & 48 hrs)",
+  "gbl_mdModified_dt": "2026-04-01T20:02:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9d228b4a-c706-5013-ac50-297039d5628f",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

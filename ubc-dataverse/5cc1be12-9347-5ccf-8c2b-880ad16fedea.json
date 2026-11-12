@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.0, -120.0, 53.6, 50.7)",
+  "dcat_keyword_sm": [
+    "Time series",
+    "Wildfires",
+    "Fuel types",
+    "MODIS",
+    "Land surface temperature (LST)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yang, Shiqi (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfires can disrupt forest ecosystem, leading to a deterioration of the air quality, and loss of resources, property animals and people. Understanding the driving factors and the spatial distribution of wildfire benefits local forest fire management planning and resource allocation for fire suppression. To analyze how the land surface temperature (LST) anomaly is related to fire frequency, a fire dataset including more than 400 fires occurred in Cariboo region and a daily LST anomaly dataset based on historical MODIS observations were gathered and processed. Daily LST anomaly images on the preceding 3 days of different fire dates were extracted and associated with each fire event. Besides, a fuel type dataset was also included for evaluating the effect of fuels to fire danger. It was found that as the fire day approached, the median of LST anomaly would grow and a significant relationship (p-value = 3.22e-15) was shown between the anomaly value before and on the fire events day. Meanwhile, fires were more likely to happen when the temperature was about 1.5 degree hotter than average. The relationship was not obvious between fuel type groups and the degree of change in LST anomaly. The findings of this study can be applied as complementary guidance for fire risk prediction that facilitate preventive measures of wildfire."
+  ],
+  "dct_identifier_sm": [
+    "157559_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/FVQ6VB"
+  ],
+  "dct_issued_s": "2021-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/FVQ6VB\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "The Relationship between Land Surface Temperature Anomalies and Fire Occurrence in Cariboo Region in 2017",
+  "gbl_mdModified_dt": "2021-04-17T23:20:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5cc1be12-9347-5ccf-8c2b-880ad16fedea",
+  "locn_geometry": "ENVELOPE(-126.0, -120.0, 53.6, 50.7)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

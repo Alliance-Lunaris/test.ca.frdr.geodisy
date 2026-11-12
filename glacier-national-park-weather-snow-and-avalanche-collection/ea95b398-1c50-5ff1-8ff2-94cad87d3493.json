@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.70073797, -117.70073797, 51.23628296, 51.23628296)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Imbach, Benjamin (Université du Québec à Rimouski, Université de Sherbrooke). ORCID: https://orcid.org/0009-0009-1002-9900",
+    "Madore, Jean-Benoit (Université de Sherbrooke). ORCID: https://orcid.org/0000-0002-9336-7615",
+    "Jones, Andrew (Parks Canada, University of Michigan-Ann Arbor).",
+    "Brown, Catherine (Parks Canada)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains recordings from the Fidelity weather station, located in Glacier National Park, B.-C., Canada. It is divided into two subdatasets; an hourly dataset, and a 10 minutes based dataset. The weather station is maintained by Parks Canada staff multiple time weekly during the winter. Note that the station is used primarily for winter avalanche forecasting; thus station maintenance is primarily done over the winter. However, the station is also maintained once a week during the summer. For more details, please refer to the “Data & File Overview” section in the README. The name of each file provide insight on if the data is an hourly or 10 minutes recording, and the date provide the first and last recording of each file."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01513"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01513\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "-, British Columbia, Canada",
+    "-, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Mountain weather",
+    "Earth and related environmental sciences",
+    "Météorologie et temps",
+    "Sciences de l'atmosphère",
+    "Meteorology and weather",
+    "avalanche hazard assessment",
+    "climate",
+    "Winter weather station",
+    "Sciences de la Terre et sciences de l'environnement connexes",
+    "precipitation",
+    "Weather Station",
+    "snowfall",
+    "meteorological dataset",
+    "Atmospheric sciences"
+  ],
+  "dct_title_s": "Mount Fidelity historical weather station datasets, Glacier National Park, British Columbia, Canada.",
+  "gbl_mdModified_dt": "2026-09-01T08:28:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ea95b398-1c50-5ff1-8ff2-94cad87d3493",
+  "locn_geometry": "ENVELOPE(-117.70073797, -117.70073797, 51.23628296, 51.23628296)",
+  "schema_provider_s": "Glacier National Park Weather, Snow, and Avalanche Collection, British Columbia, Canada"
+}

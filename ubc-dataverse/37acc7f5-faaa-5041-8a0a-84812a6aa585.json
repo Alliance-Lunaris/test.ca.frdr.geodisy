@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "condensed matter physics",
+    "spectral function",
+    "strongly correlated systems",
+    "polaron"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Shannigrahi, Jeet (University of British Columbia). ORCID: https://orcid.org/0009-0004-2474-2030",
+    "Bonca, Janez (University of Ljubljana). ORCID: https://orcid.org/0000-0001-7539-3353",
+    "Berciu, Mona (University of British Columbia). ORCID: https://orcid.org/0000-0002-6736-1893"
+  ],
+  "dct_description_sm": [
+    "This repository holds the numerical data behind the figures of the manuscript - \"Universal thermal breakdown of polaron coherence in one, two, and three dimensions\" and its supplemental material, generated with the finite-temperature Momentum Average (MA⁽⁰⁾/MA⁽¹⁾) approximation.\n\nIt is intended to be self-contained and FAIR-compliant. Data is in text format + the original pickles + csv and every figure has a readme file for added ease of access.",
+    "How a polaron loses its quasiparticle coherence with increasing temperature is a long-standing open problem. Holstein addressed it in 1959 only in the extreme antiadiabatic, strong-coupling limit, while more recent numerically exact approaches are largely restricted to one dimension. Here we solve this problem on square and simple cubic lattices across the weak-, intermediate-, and strong-coupling regimes. We show that the polaron effective mass $m^*$ and inverse lifetime $1/\\tau$ increase monotonically with temperature until, at $T \\sim 0.5\\,\\Omega$, the quasiparticle peak dissolves into a broad incoherent thermal continuum. The phonon frequency $\\Omega$ therefore defines a universal coherence scale, independent of dimensionality and coupling strength, validating Holstein's prediction far beyond the regime in which it was derived. These results follow from a finite-temperature generalization of the Momentum Average (MA) approximation, yielding a closed-form, diagrammatically derived self-energy that is asymptotically exact in the strong-coupling limit at all temperatures. Benchmark comparisons demonstrate excellent quantitative agreement of the resulting 1D spectral functions with the numerically exact Variational Exact Diagonalization-Finite-Temperature Lanczos Method (VED-FTLM) and finite-$T$ Density Matrix Renormalization Group (DMRG)."
+  ],
+  "dct_identifier_sm": [
+    "1211429_73901",
+    "https://doi.org/10.5683/SP4/LYHBP7"
+  ],
+  "dct_issued_s": "2026-08-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/LYHBP7\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Physics"
+  ],
+  "dct_title_s": "Data for: Universal thermal breakdown of polaron coherence in one, two, and three dimensions",
+  "gbl_mdModified_dt": "2026-08-20T21:19:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37acc7f5-faaa-5041-8a0a-84812a6aa585",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

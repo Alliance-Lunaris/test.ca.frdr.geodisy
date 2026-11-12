@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.3405, -55.4753, 52.1023, 45.825)",
+  "dcat_keyword_sm": [
+    "Marine biology",
+    "Oceans",
+    "Groundfish Shrimp Multidisciplinary survey Needler",
+    "Aquatic ecosystems",
+    "Poisson",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Fisheries management",
+    "Poisson de fond Crevette Relevé multidisciplinaire Needler",
+    "Biologie marine",
+    "Gestion des pêches",
+    "Fish",
+    "Océan",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Relevé annuel multidisciplinaire d'évaluation des poissons de fond et des crevettes dans l'estuaire et le nord du golfe du Saint-Laurent (NGCC Alfred Needler 1990 - 2005)"
+  ],
+  "dct_creator_sm": [
+    "Section Gestion de données - Direction des avis, information et soutien scientifiques / Data Management Section - Scientific Advice, Information and Support Branch."
+  ],
+  "dct_description_sm": [
+    "Fisheries and Oceans Canada (DFO) has conducted an annual summer multidisciplinary scientific bottom trawl survey  in the Estuary and the northern Gulf of St. Lawrence since 1984. Over the years this survey has been conducted on four vessels: the MV Lady Hammond (1984-1990), the CCGS Alfred Needler (1990-2005), the CCGS Teleost (2004-2021) and the CCGS Cabot (2022- on going). It is important to note that the objectives, the methods used and the identification of the species during these surveys have improved over time in response to DFO requests and mandates. The data are therefore not directly comparable between these surveys. The specificities of the missions onboard the CCGS Alfred Needler are described below.\n\nObjectives:\n\n1. Assess groundfish and northern shrimp population abundance and condition\n\n2. Assess environmental conditions\n\n3. Conduct a biodiversity inventory of benthic and demersal megafauna\n\n4. Monitor the pelagic ecosystem\n\n5. Collect samples for various research projects\n\nSurvey description\n\nThe survey covers the divisions 4R, 4S, 3Pn and the northern part of division 4T of the Northwest Atlantic Fisheries Organization (NAFO). This survey follows a stratified random sampling design and the fishing gear used on the CCGS Alfred Needler is a URI shrimp trawl (81'/114'). Standard trawling tows last 25 minutes, starting from the time the trawl touched the sea floor. Towing speed is 3 knots.\n\nData\n\nFor each fishing tow, the catch is sorted and weighed by taxa; individuals are then counted and biological data are collected on a subsample. For fish, crab and squid, size and weight are measured by individual and, for some species, sex, gonad maturity, and the weight of certain organs (stomach, liver, gonads) are also evaluated. The soft rays of the anal fin are counted for redfish, and the otoliths are collected for several species such as witch flounder, Atlantic cod, Greenland halibut and Atlantic halibut. A roughly 2-kg shrimp sample is sorted and weighed by species (and by stage of maturity for northern shrimp). The shrimps are measured individually. The other invertebrates are counted (no individual measurements) and photographed.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for all species caught, a “Carbio” file containing biological and morphometric measurements per individual all species measured except shrimps, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level (for fish and certain invertebrate species), use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nFurther shrimp biological and morphometric data are available but are not presented here in order to simplify data presentation. For access to the complete information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca). \n\nData collection methods and sampling protocols have varied over the years. These changes may affect the comparability of the data across sampling periods. For more information about the protocols used, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nIt's important to note that this is raw data. Only sets considered successful are retained. In each set, all species are kept, with a few exceptions. For more information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).",
+    "Pêches et Océans Canada (MPO) réalise annuellement un relevé scientifique multidisciplinaire avec un chalut de fond dans l’estuaire et le nord du golfe du Saint-Laurent pendant l’été depuis 1984. Au fil des années, ce relevé a été effectué à bord de quatre navires: le NM Lady Hammond (1984-1990), le NGCC Alfred Needler (1990-2005), le NGCC Teleost (2004-2021) et le NGCC Cabot (2022-en cours). Il est important de noter que les objectifs, les méthodes employées et l'identification des espèces lors de ces relevés se sont améliorés au fil du temps en fonction des demandes et des mandats du MPO. Les données ne sont donc pas directement comparables entre ces relevés. Les spécificités des missions réalisées à bord du NGCC Alfred Needler sont décrites ci-dessous.\n\nObjectifs:\n\n1. Évaluer l'abondance et la condition des populations de poissons de fond et de la crevette\n\nnordique\n\n2. Évaluer les conditions environnementales\n\n3. Réaliser un inventaire de la biodiversité de la mégafaune benthique et démersale\n\n4. Monitorer l'écosystème pélagique\n\n5. Récolter des échantillons pour divers projets de recherche\n\nDescription du relevé\n\nLe relevé couvre les divisions 4R, 4S, 3Pn et la partie septentrionale de la division 4T de l’Organisation des Pêches de l’Atlantique Nord-Ouest (OPANO). Ce relevé suit un plan d’échantillonnage aléatoire stratifié et l'engin de pêche utilisé sur le NGCC Alfred Needler est un chalut à crevette URI (81'/114'). La durée de chalutage pour un trait standard de pêche est de 25 minutes, calculée à partir du contact du chalut avec le fond. La vitesse de chalutage est fixée à 3 nœuds.\n\nDonnées\n\nÀ chacun des traits de pêche, la capture est triée et pesée par taxon et les individus sont dénombrés et des données biologiques sont récoltées sur un sous-échantillon. Pour les poissons, les crabes et les encornets, la taille et le poids sont colligés par individu. De plus, pour certaines espèces, le sexe, la maturité des gonades et les poids de certains organes (estomac, foie, gonades) sont aussi évalués. Les rayons mous de la nageoire anale sont dénombrés pour les sébastes et des otolithes sont récoltés chez plusieurs espèces dont la plie grise, le flétan du Groenland, la morue et le flétan atlantique. Un échantillon d’environ 2 kg de crevettes est trié et pesé par espèce et par stade de maturité pour la crevette nordique. Les crevettes sont mesurées individuellement. Les autres invertébrés sont pesés et dénombrés par taxon (pas de mesure individuelle) et photographiés.\n\nLes données biologiques sont divisées en 4 fichiers : Un fichier « Stations » contenant les informations des traits, un fichier « Captures » contenant les prises par trait pour tous les taxons et  un fichier « Carbio » contenant les caractéristiques biologiques et mesures morphométriques par individus mesurés pour toutes les espèces mesurées, à l'exception des crevettes, et un fichier « Fréquences Longueur » pour les fréquences de longueur des poissons. Les colonnes source_info, no_releve, nbpc et no_station sont communs aux quatre jeux de données et permet de les relier. Afin de relier plus précisément les fichiers « Captures » et « Carbio » au niveau de l'individus (pour les poissons et certains types d'invertébrés), utilisez les colonnes source_info, no_releve, nbpc, no_station, nom_scientifique, ainsi que categorie.\n\nDes données supplémentaires sur les captures de crevettes sont disponibles, mais ne sont pas présentées ici afin de simplifier la présentation des données. Pour accéder à l’ensemble des informations, veuillez communiquer avec l’équipe de gestion des données (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nLes méthodes de collecte et les protocoles d'échantillonnage ont varié au cours des années. Ces changements peuvent influencer la comparabilité des données entre les périodes. Pour plus de renseignements sur les protocoles utilisés, veuillez communiquer avec l'équipe de la gestion de données (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nIl est important de noter qu'il s'agit des données brutes. Seuls les traits considéré réussis sont conservés. Dans chacun des traits toutes les espèces sont conservées sauf quelques exceptions. Veuillez contacter l'équipe de la gestion de données pour de plus amples informations (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4eaac443-24a8-4b37-9178-d7cce4eb7c7b"
+  ],
+  "dct_issued_s": "2019-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4eaac443-24a8-4b37-9178-d7cce4eb7c7b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Annual multidisciplinary survey for assessing groundfish and shrimp in the Estuary and northern Gulf of St. Lawrence (CCGS Alfred Needler 1990 - 2005)",
+  "gbl_mdModified_dt": "2026-08-20T16:00:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "149bdb1d-372a-58a8-bf01-097707e87cd7",
+  "locn_geometry": "ENVELOPE(-69.3405, -55.4753, 52.1023, 45.825)",
+  "schema_provider_s": "Open Data Canada"
+}

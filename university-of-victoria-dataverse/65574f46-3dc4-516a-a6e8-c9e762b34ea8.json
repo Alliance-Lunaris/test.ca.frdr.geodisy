@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Vessel traffic",
+    "Human stressor",
+    "Strait of Georgia",
+    "Ship noise",
+    "JASCO",
+    "Salish Sea",
+    "Benthic",
+    "Marine traffic",
+    "Automatic identification system"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chu, Jackson W.F. (Fisheries and Oceans Canada).",
+    "Matthews, Marie-Noël R. (Dalhousie University; JASCO Applied Sciences Ltd).",
+    "Alavizadeh, Zahra (Dalhousie University; JASCO Applied Sciences Ltd).",
+    "MacGillivray, Alexander O. (JASCO Applied Sciences Ltd).",
+    "Therriault, Thomas W. (Fisheries and Oceans Canada).",
+    "Schmill, Alejandro (Hakai Institute, University of Victoria).",
+    "Ban, Natalie C. (University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "Extended notes describing the datasets are outlined in the companion report. The data package modeled continuous noise levels (Leq) at the seafloor of the Salish Sea for estimated vessel traffic density for the months of January and July 2020. Data cover are presented as (1) vector shapefiles in 1 dB contours for both months as well as (2) point data projected onto a 200 x 340 km grid with a cell resolution of 1 x 1 km (NAD83 BC Albers).  The spatial domain generally covers the majority of the Canadian side of the Salish Sea marine waters. AIS data used in the models were developed by exactEarth Ltd. 2017; prepared for the NEMES project (https://nemesproject.com/), led by the CORAL Group (http://coral.geog.uvic.ca/), University of Victoria, and made available to NEMES through the MEOPAR NCE (http://meopar.ca/).",
+    "This repository contains spatial data of modelled underwater noise levels at the benthic boundary layer due to vessel traffic in the Salish Sea. Received equivalent continuous noise levels (Leq) near the seabed were calculated using JASCO’s cumulative vessel noise model (Acoustic Real-Time Exposure Model for In-Motion Sources; ARTEMIS). The model incorporated detailed source-level data and accounts for the influence of speed and class on vessel noise emissions. Vessel traffic information was based on 2015 automatic identification system (AIS) data, scaled to compensate for yearly traffic increases through 2020 and to include non-AIS traffic. Seasonal variability in sound propagation conditions and vessel traffic was assessed by modelling noise levels during representative months in winter and summer (January and July, respectively)."
+  ],
+  "dct_identifier_sm": [
+    "272658_74103",
+    "https://doi.org/10.5683/SP3/QJUNMT"
+  ],
+  "dct_issued_s": "2021-12-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QJUNMT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Baseline Marine Traffic Noise Levels in the Salish Sea: Modelled Noise Levels for Benthic Species",
+  "gbl_mdModified_dt": "2021-12-17T16:36:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "65574f46-3dc4-516a-a6e8-c9e762b34ea8",
+  "pcdm_memberOf_sm": [
+    "CHONe II"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

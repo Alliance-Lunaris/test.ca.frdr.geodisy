@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Fresh water",
+    "Eau de surface",
+    "Eau douce",
+    "Water supply",
+    "Indice de variabilité de l’apport en eau",
+    "Surface water",
+    "Water yield variability index",
+    "Eau",
+    "Water",
+    "Approvisionnement en eau"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice de variabilité de l’apport en eau, certaines régions de drainage, 1971 à 2013"
+  ],
+  "dct_creator_sm": [
+    "François Soulard."
+  ],
+  "dct_description_sm": [
+    "This product provides the variability index for selected drainage regions in Canada. Variability is measured using a coefficient of variation (CV) to compare all months over a 42-year time period and is a measure of the dispersion or variation in the monthly yield values from 1971 to 2013 (and 1971 to 2012 for drainage region 1). It is defined as the ratio of the standard deviation to the mean or the standard deviation divided by the mean, with higher CVs indicating more variability in monthly water yields. The monthly variability was not calculated for drainage regions 5, 7, 8, 16, 17, 18, or the Labrador portion of 25.",
+    "Ce produit montre l'indice de variabilité pour certaines régions de drainage au Canada. La variabilité est mesurée au moyen d’un coefficient de variation (c.v.) qui permet de comparer tous les mois sur une période de 42 ans, et qui permet de mesurer la dispersion ou la variation des valeurs mensuelles d’apport en eau au cours de la période de 1971 à 2013 (et de 1971 à 2012 pour la région de drainage 1). Il s’agit du ratio de l’écart-type à la moyenne ou de l’écart-type divisé par la moyenne, un c.v. élevé signifiant que les données mensuelles affichent une plus grande variabilité. La variabilité mensuelle n’a pas été calculée pour les régions de drainage 5, 7, 8, 16, 17 et 18 et pour la partie de la région de drainage 25 située au Labrador."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f4ba8a8e-f70d-4187-a1e0-11393d280775"
+  ],
+  "dct_issued_s": "2017-03-21",
+  "dct_publisher_sm": [
+    "Statistics Canada | Statistique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f4ba8a8e-f70d-4187-a1e0-11393d280775\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Water yield variability index, selected drainage regions, 1971 to 2013",
+  "gbl_mdModified_dt": "2022-03-22T21:58:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0d0dd8c8-06f6-5435-84c6-1920377a3edb",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-70.0, -43.0, 57.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Modèle répartition des espèces",
+    "Oceans",
+    "Espèce menacée",
+    "Atlantique Nord-Ouest",
+    "Zooplankton",
+    "Species distribution model",
+    "Habitats",
+    "Calanus",
+    "Foraging habitat",
+    "Endangered species",
+    "Right Whale",
+    "Océan",
+    "Distribution spatiale",
+    "Calanus",
+    "Zooplancton",
+    "Habitat d’alimentation",
+    "Habitat",
+    "Baleine noire",
+    "Spatial distribution",
+    "Northwest Atlantic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biomasse mensuelle de Calanus spp. et habitat potentiel de la baleine noire de l’Atlantique Nord"
+  ],
+  "dct_creator_sm": [
+    "DAISS-SAISB."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to describe seasonal and spatial variations in Calanus prey and potential feeding habitats for North Atlantic Right Whales in Canadian and United States waters over the 1999–2024 period, using species distribution models (SDM). \n\nThe SDMs were constructed using zooplankton data from oceanographic monitoring programs in Canada and the United States, covering the Labrador Shelf as far as New England, including the Gulf of St. Lawrence, the Scotian Shelf and the Gulf of Maine. Generalized additive mixed models (GAMM) have been developed separately for each Calanus species (C. finmarchicus, C. hyperboreus, C. glacialis). These models use the abundance (individuals m-2) of copepodites stages IV to VI, as they are similarly sampled between the two programs and have a larger energy potential than stages I to III. The models include temperature in the 0-50 m layer, minimum temperature in the water column, bathymetry and the spatial climatology of salinity as a proxy for seascape connectivity. These indicators are extracted from GLORYS12v1 provided by the EU Copernicus Marine Service Information (https://doi.org/10.48670/moi-00021) on a monthly scale. \n\nThe abundances of the three Calanus species were predicted on a monthly/annual temporal scale using the spatial grid of GLORYS12v1 (0.083 x 0.083 degrees). These predictions are then converted to biomass to account for the size differences between the three species. A bioenergetic Right Whale feeding model was used to calculate the mean energy balance of pregnant females (Enet). The Enet is reported at the depth layer where the Enet was maximized.\n\nThe models were validated for residuals homogeneity. The models were also recalculated 100 times using 70% of the original data and predictions were compared with observations. The monthly/annual averages of regional predictions and observations were compared. The uncertainty in the predicted total abundance of the three Calanus species was estimated using a simulation approach combining parameter uncertainty and the variance of the monthly predictions. Considering the monthly and regional validation scales, the authors strongly suggest interpreting and using the model outputs at this scale.\n\nThis dataset reports January–December monthly dry weight (mg m-2) predictions of the CIV-CVI stages of C. finmarchicus, C. hyperboreus, C. glacialis and their sum (Calanus spp.) for each year from 1999 to 2024. The maximum energy density (kJ/10 m3) of Calanus spp. CIV-CVI and the depth (m) of their energy density in the layer where the Enet is maximized are calculated on 10 m layers. Finally, the energy balance of pregnant female right whales is reported. \n\nThe dataset should be cited as: Plourde, S., Lehoux, C., Roberts, J.J., Johnson, C.L., Record, N., Pepin, P., Orphanides, C., Schick, R.S., Walsh, H.J., Ross, C.H. 2024. Describing the seasonal and spatial distribution of Calanus prey and North Atlantic Right Whale potential foraging habitats in Canadian waters using species distribution models. DFO Can. Sci. Advis. Sec. Res. Doc. 2024/039. v + 71 p.",
+    "L’objectif de ce jeu de données est de décrire les variations saisonnières et spatiales des proies du genre Calanus et des habitats potentiels d’alimentation de la baleine noire de l’Atlantique Nord dans les eaux canadiennes et américaines au cours de la période de 1999–2024 à l’aide de modèles de répartition des espèces (MRE). \n\nLes MRE ont été construits à partir de données de zooplancton provenant des programmes de monitorage océanographique au Canada et aux États-Unis couvrant le plateau continental du Labrador jusqu’à la Nouvelle-Angleterre en incluant le golfe du Saint-Laurent, le plateau néo-écossais et le golfe du Maine. Des modèles mixtes additifs généralisés (GAMM) ont été développés pour chaque espèce de Calanus séparément (C. finmarchicus, C. hyperboreus, C. glacialis). Ces modèles utilisent l’abondance (nombre d’individus m-2) des stades de copepodites IV à VI, car ils sont échantillonnés de manière similaire entre les deux programmes et ont un potentiel énergétique plus grand que les stades I à III. Les modèles incluent la température dans la couche 0-50 m, la température minimale dans la colonne d’eau, la bathymétrie et la climatologie spatiale de la salinité comme proxy de connectivité du paysage marin. Ces indicateurs sont extraits de GLORYS12v1 fourni par le EU Copernicus Marine Service Information (https://doi.org/10.48670/moi-00021) à une échelle mensuelle. \n\nLes abondances des 3 espèces de Calanus ont été prédites à une échelle temporelle mensuelle/annuelle en utilisant la grille spatiale de GLORYS12v1 (0,083 x 0,083 degré). Ces prédictions ont ensuite été converties en biomasse pour tenir compte des différences de taille entre les trois espèces. Un modèle bioénergétique d’alimentation de la baleine noire a été utilisée pour calculer le bilan énergétique moyen des femelles gestantes (Enet). L’Enet est rapporté à la couche de profondeur où l’Enet a été maximisé.\n\nLes modèles ont été validés au niveau de l’homogénéité des résidus. Les modèles ont également été recalculés 100 fois en utilisant 70% des données originales et ses prédictions ont été comparées aux observations. Les moyennes mensuelles/annuelles des prédictions régionales et des observations ont été comparées. L’incertitude de l’abondance totale prédite des 3 espèces de Calanus a été estimée à l’aide d’une approche de simulation combinant l’incertitude relative aux paramètres et la variance des prédictions mensuelles. Considérant l’échelle mensuelle et régionale de la validation, les auteurs suggèrent fortement d’interpréter et d’utiliser les sorties de modèle à cette échelle.\n\nCe jeu de données rapporte les prédictions mensuelles de janvier à décembre du poids sec (mg m-2) des stades CIV-CVI de C. finmarchicus, C. hyperboreus, C. glacialis et leur somme (Calanus spp.) dans l’ensemble de la colonne d’eau pour chaque année de 1999 à 2024. La densité énergétique maximale (kJ/10 m3) de Calanus spp. CIV-CVI et la profondeur (m) de leur densité énergétique dans la couche où l’Enet est maximisé sont calculés sur des couches de 10 m. Finalement, le bilan énergétique des baleines noires femelles et gestantes est rapporté. \n\nIl faut citer le jeu de données comme suit : Plourde, S., Lehoux, C., Roberts, J.J., Johnson, C.L., Record, N., Pepin, P., Orphanides, C., Schick, R.S., Walsh, H.J., Ross, C.H. 2024. Description de la répartition saisonnière et spatiale des proies du genre Calanus et des habitats potentiels d’alimentation de la baleine noire du nord de l’Atlantique dans les eaux canadiennes à l’aide de modèles de répartition des espèces. Secr. can. des avis sci. du MPO. Doc. de rech. 2024/039. v + 75 p."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a3a116b5-ed88-4223-9dbd-97409bb2f5bd"
+  ],
+  "dct_issued_s": "2026-07-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a3a116b5-ed88-4223-9dbd-97409bb2f5bd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Calanus spp. monthly biomass and North Atlantic Right Whale potential habitat",
+  "gbl_mdModified_dt": "2026-09-08T13:31:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dac94941-9546-53bb-bed3-26ffe164cfb5",
+  "locn_geometry": "ENVELOPE(-70.0, -43.0, 57.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

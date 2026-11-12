@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Polygons of evaluation units of the graphic matrix.\n\n**Collection context**\n Update process in collaboration with the evaluation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID` (`integer`): Identifier\n* `ADM01A` (`varchar`): Municipality code\n* `SI0318A` (`smalldatetime`): Registration date\n* `SI0317C` (`varchar`): Registration\n* `SI0528C` (`varchar`): Neighborhood unit\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `X_FIC_JOINT` (`varchar`): Attached file\n* `ID_OLD` (`varchar`): Old id\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2642706c-14a6-4044-be21-e2a6d8d37691"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2642706c-14a6-4044-be21-e2a6d8d37691\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Graphical matrix evaluation units - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T17:44:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "60d929fc-d5f6-5b14-82b4-f8c062b63b73",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

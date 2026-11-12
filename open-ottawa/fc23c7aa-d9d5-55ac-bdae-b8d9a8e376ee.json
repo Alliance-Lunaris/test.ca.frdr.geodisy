@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.956, -75.4402, 45.5124, 45.227)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Traffic",
+    "Screenlines",
+    "Traffic Counts"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p>&nbsp;A screenline (e.g. LN02, LN10) is made up of several stations placed to count east-west or north-south travel, which in total, capture all major travel routes across the imaginary screenline. The screenlines are located along geographical barriers, i.e. rivers, greenbelt – generally where several major transportation facilities are the main flow. To be truly representative of the flow, there is a station at each intersecting road, transit, and bike/walkway path on the screenline.<br />&nbsp;</p><p><strong>Date created: &nbsp;</strong>June 29, 2026&nbsp;&nbsp;&nbsp;&nbsp;<br /><strong>Update frequency: </strong>As required<br /><strong>Accuracy: </strong>Not intended to represent exact location on the ground</p><p><br /><strong>Attributes:</strong></p><ul><li>SL_NUM (Screenline Number)</li><li>SL_TEXT (Screenline Text ID)</li><li>CORDON_EN (Cordon - screenlines or groups of screenlines that describe an area of interest (English text))</li><li>CORDON_FR (Cordon - screenlines or groups of screenlines that describe an area of interest (French text))</li><li>NAME_EN (Screenline name (English text))</li><li>NAME_FR (Screenline name (French text))</li><li>SEASON_EN (Season that the traffic count was captured (English text))</li><li>SEASON_FR (Season that the traffic count was captured (French text))</li><li>COUNTYEAR_EN ((Both = Count Collection during All Years / Even = Count Collection during Even Years / Odd = Count Collection during</li><li>Odd Years) - describes when the count takes place (English text))</li><li>COUNTYEAR_FR (Les deux = Comptage à chaque année / Paires = Comptage pendant les années paires / Impaires = Comptage pendant les années impaires) - describes when the count takes place (French text))</li><li>CHANGE_EN (English text describing a change to a screenline)</li><li>CHANGE_FR (French text describing a change to a screenline)</li><li>YEAR (Year representing the version of the screenline feature)</li><li>STATUS_EN (Latest – English text describing the data as the most recent captured)&nbsp;</li><li>STATUS_FR (Dernier en date – French text describing the data as the most recent captured)</li></ul><p>&nbsp;</p><p><strong>Author: </strong>Transportation Planning<br /><strong>Author email:</strong><a><strong> </strong>mischael.raj@ottawa.ca</a> &nbsp;</p><p><strong>Maintainer Organization:</strong> Geospatial Analytics, Technology and Solutions (GATS), PDBS<br /><br /><br />&nbsp;</p>"
+  ],
+  "dct_identifier_sm": [
+    "03259cf7caf442d3a236e768eada75fc",
+    "https://www.arcgis.com/home/item.html?id=03259cf7caf442d3a236e768eada75fc"
+  ],
+  "dct_issued_s": "2026-06-29",
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::screenlines\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data/about-open-data"
+  ],
+  "dct_title_s": "Screenlines",
+  "gbl_mdModified_dt": "2026-06-29T18:47:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fc23c7aa-d9d5-55ac-bdae-b8d9a8e376ee",
+  "locn_geometry": "ENVELOPE(-75.956, -75.4402, 45.5124, 45.227)",
+  "schema_provider_s": "Open Ottawa"
+}

@@ -1,0 +1,72 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -112.0, 55.0, 50.0)",
+  "dcat_keyword_sm": [
+    "HYDROSTRATIGRAPHY",
+    "PASKAPOO-FORMATION",
+    "ALBERTA-BASIN",
+    "82P",
+    "83B",
+    "LITHOSTRATIGRAPHY",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "GEOSTATISTICS",
+    "82J",
+    "83I",
+    "ALBERTA-FOOTHILLS",
+    "83D",
+    "83E",
+    "BOREHOLES",
+    "82N",
+    "83H",
+    "83J",
+    "83K",
+    "GEOPHYSICAL-LOGS",
+    "83G",
+    "AQUIFERS",
+    "SAND",
+    "82O",
+    "DATA",
+    "83F",
+    "82I",
+    "83A",
+    "83C",
+    "83L",
+    "3D-MODELS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sandiness modélisée de la Formation de Paskapoo, Alberta (données tabulaires, format délimité par des tabulations)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This digital dataset represents the modelled outputs of the three-dimensional distribution of sandiness in the Paskapoo Formation, Alberta, Canada. Sand-abundance values were determined from log analysis of water-well lithologs and petroleum exploration downhole-geophysical logs, specifically gamma-ray logs. We derived the sandiness values by calculating the average sandiness in 25 m thick slices above the base of the Paskapoo Formation in a borehole and by assigning the average value (P50) to the midpoint of each slice interval. Alberta Geological Survey Bulletin 66 provides detailed descriptions of the methodology. We tested the borehole sand-abundance values in a 3-D variogram prior to kriging in a regular block model consisting of cells with dimensions of 1000 m on the x and y planes and 25 m in the z (elevation) direction. Values of modelled sandiness range from 0 (absence of sand) to 1 (100% sand) and are assigned elevations based on two datums: 1) a stratigraphic level corresponding to the height of the midpoint of each respective 25 m thick slice interval above the base of Paskapoo Formation, and 2) the elevation of the midpoint of the slice above sea level. Importing the modelled results of sandiness into model viewing software, such as Voxler, permits the user to generate three-dimensional isovalue plots illustrating the differences in distribution and geometry of aquifers as different cutoff or threshold criteria are applied. The dataset also enables one to delineate the regional lithostratigraphic units nested within stratigraphically complex rock formations.",
+    "Cet ensemble de données numériques représente les résultats modélisés de la distribution tridimensionnelle du sable dans la formation de Paskapoo, en Alberta, au Canada. Les valeurs d'abondance de sable ont été déterminées à partir de l'analyse logarithmique des lithologies des puits d'eau et des journaux géophysiques de fond d'exploration pétrolière, en particulier des journaux de rayons gamma. Nous avons calculé les valeurs de sablage en calculant le caractère sableux moyen de tranches de 25 m d'épaisseur au-dessus de la base de la formation de Paskapoo dans un trou de forage et en attribuant la valeur moyenne (P50) au point médian de chaque intervalle de coupe. Le Bulletin 66 de l'Alberta Geological Survey fournit des descriptions détaillées de la méthodologie. Nous avons testé les valeurs d'abondance de sable des trous de forage dans un variogramme 3D avant le krigeage dans un modèle de bloc régulier composé de cellules de 1000 m sur les plans x et y et de 25 m dans la direction z (élévation). Les valeurs du caractère sableux modélisé vont de 0 (absence de sable) à 1 (100 % de sable) et sont attribuées à des altitudes en fonction de deux données : 1) un niveau stratigraphique correspondant à la hauteur du point médian de chaque intervalle de 25 m d'épaisseur respectif au-dessus de la base de la formation de Paskapoo, et 2) l'altitude du point médian de la tranche au-dessus du niveau de la mer. L'importation des résultats modélisés de l'état de sable dans un logiciel de visualisation de modèles, tel que Voxler, permet à l'utilisateur de générer des diagrammes d'isovaleurs tridimensionnels illustrant les différences de distribution et de géométrie des aquifères lorsque différents critères de coupure ou de seuil sont appliqués. L'ensemble de données permet également de délimiter les unités lithostratigraphiques régionales imbriquées dans des formations rocheuses stratigraphiquement complexes.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/122d5b2e-3ea3-4964-bc69-80e23b9b1b59"
+  ],
+  "dct_issued_s": "2012-09-12",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/122d5b2e-3ea3-4964-bc69-80e23b9b1b59\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Modelled Sandiness of the Paskapoo Formation, Alberta (Tabular data, tab-delimited format)",
+  "gbl_mdModified_dt": "2026-03-04T16:07:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "acc6f299-020a-5456-979f-6cd9f22f86b7",
+  "locn_geometry": "ENVELOPE(-120.0, -112.0, 55.0, 50.0)",
+  "schema_provider_s": "Open Data Canada"
+}

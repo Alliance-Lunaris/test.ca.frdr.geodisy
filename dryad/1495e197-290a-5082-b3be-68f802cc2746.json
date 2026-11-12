@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Location Fingerprinting",
+    "Salmo salar"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Andrew B., Harbicht (Concordia University).",
+    "Theodore, Castro-Santos (United States Geological Survey).",
+    "William R., Ardren (United States Fish and Wildlife Service).",
+    "Dimitry, Gorsky (United States Fish and Wildlife Service).",
+    "Dylan J., Fraser (Concordia University)."
+  ],
+  "dct_description_sm": [
+    "1. Radio-tag signals from fixed-position antennas are most often used to indicate presence/absence of individuals, or to estimate individual activity levels from signal strength variation within an antenna’s detection zone. The potential of such systems to provide more precise information on tag location and movement has not been explored in great detail in an ecological setting.\r\n2. By reversing the roles that transmitters and receivers play in localization methods common to the telecommunications industry, we present a new telemetric tool for accurately estimating the location of tagged individuals from received signal strength values. The methods used to characterize the study area in terms of received signal strength are described, as is the random forest model used for localization. The resulting method is then validated using test data before being applied to true data collected from tagged individuals in the study site.\r\n3. Application of the localization method to test data withheld from the learning dataset indicated a low average error over the entire study area (< 1m) while application of the localization method to real data produced highly probable results consistent with field observations.\r\n4. This telemetric approach provided detailed movement data for tagged fish along a single axis (a migratory path) and is particularly useful for monitoring passage along migratory routes. The new methods applied in this study can also be expanded to include multiple axes (x, y, z) and multiple environments (aquatic and terrestrial) for remotely monitoring wildlife movement."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.5rp65",
+    "https://doi.org/10.5061/dryad.5rp65"
+  ],
+  "dct_issued_s": "2018-01-19",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.5rp65\"}",
+  "dct_spatial_sm": [
+    "New York",
+    "USA",
+    "Willsboro"
+  ],
+  "dct_title_s": "Data from: Novel, continuous monitoring of fine-scale movement using fixed-position radiotelemetry arrays and random forest location fingerprinting",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1495e197-290a-5082-b3be-68f802cc2746",
+  "schema_provider_s": "Dryad"
+}

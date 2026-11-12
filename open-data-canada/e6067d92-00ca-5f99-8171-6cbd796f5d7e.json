@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Climat",
+    "Climate",
+    "Pollution atmosphérique",
+    "Climate change",
+    "Remote sensing",
+    "Changement climatique",
+    "Air pollution",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Observations par télédétection au sol permettant d’estimer les rapports de mélange en colonne totale de dioxyde de carbone, de méthane et de monoxyde de carbone collectées dans la région du Grand Toronto de 2019 à 2024"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Authors: \n\rNicole Jacobs (University of Toronto), Nasrin Mostafavi Pak (Karlsruher Institut für Technologie), Lawson Gillespie (University of Toronto), George Lu (University of Toronto), Sébastien Ars (Environment and Climate Change Canada), Debra Wunch (University of Toronto), and Felix Vogel (Environment and Climate Change Canada) \n\r\n\r\n\rThese data are retrievals of column-average dry-air mole fractions of CO2, CH4, CO, and H2O (referred to as xco2, xch4, xco, xh2o) collected using a Bruker Optics EM27/SUN Fourier Transform Spectrometer (FTS) at four of the five long-term monitoring sites in the Greater Toronto Area. Retrievals from the two EM27/SUN FTS owned by the University of Toronto are published separately: ta (UTSG; doi: 10.5683/SP3/WMQFDC) and tb (UTSC; doi: 10.5683/SP3/80TERS). \n\r\n\rThese observations are ongoing as of the date these are published. The data were processed using GGG2020, which is also used by the Total Carbon Column Observing Network (TCCON). The retrieval algorithm uses a scaling profile retrieval in which a prior estimate of the atmospheric profile of trace gas concentrations is derived from a model. The relative concentrations between atmospheric layers (i.e., the profile shape) in the prior remains fixed and least squares methods are used to calculate a scaling factor for this profile that optimizes the fit to the measured spectra. The resulting scaled profile is then integrated to yield a total column-average dry-air mole fraction (more details in doi: 10.14291/tccon.ggg2014.documentation.R0/1221662). \n\r\n\rQuality filtering and post-processing methods are described by Mostafavi Pak et al., 2023 (doi: 10.5194/amt-16-1239-2023). In post-processing, an airmass dependent bias correction is applied, followed by an additive bias correction to bring all the EM27 instruments into agreement with a standard reference instrument, and finally a scaling factor is applied to correct to the WMO scale based on comparisons to AirCore measurements. \n\r\n\rBecause of their geographic proximity, the retrievals for all Toronto sites, excluding the remote northern site at CARE, used common prior profiles based on model data interpolated to 43.63N, 79.38W. This was done to minimize the impacts of using different priors when analyzing gradients across the city of Toronto, but the CARE site is too far from the other sites for this to be reasonably applied. For the CARE site, prior profiles are based on model data interpolated to the exact site location. \n\r\n\rMeasurements provided here end on the dates before the instruments for each site were modified to use a new fibre optic solar tracking system.\n\rNote that data files for the tg instrument at UTM during 2023-06-02 to 2023-11-30 and 2024-07-08 to 2024-09-02 had a malfunction in the detector that measures xco, but other gases were still retrieved. All the data files are roughly organized by year, but in some cases when data collection only occurred in a small fraction of the year, those data are combined with the previous or following year.\n\r\n\rSupplemental Information\n\r\n\rRevisions: \n\rOn February 6, 2026, the file DOW_td20230116_20231130.experimental.public.qc.nc was updated to correct the latitude and longitude for the DOW site.",
+    "Auteurs: \n\rNicole Jacobs (Université de Toronto), Nasrin Mostafavi Pak (Institut de technologie de Karlsruhe), Lawson Gillespie (Université de Toronto), George Lu (Université de Toronto), Sébastien Ars (Environment et Changement Climatique Canada), Debra Wunch (Université de Toronto), and Felix Vogel (Environment et Changement Climatique Canada) \n\r\n\r\n\rCes données sont des estimations des fractions molaires moyennes en colonne d'air sec de CO₂, CH₄, CO et H₂O (désignées respectivement par xco₂, xch₄, xco, xh₂o), obtenues à l'aide d'un spectromètre à transformée de Fourier (FTS) Bruker Optics EM27/SUN sur quatre des cinq sites de surveillance à long terme dans la région du Grand Toronto. Les estimations provenant des deux FTS EM27/SUN appartenant à l’Université de Toronto sont publiées séparément : ta (UTSG ; doi : 10.5683/SP3/WMQFDC) et tb (UTSC ; doi : 10.5683/SP3/80TERS).\n\r\n\rCes observations sont toujours en cours à la date de publication des présentes données. Le traitement des données a été effectué à l'aide du logiciel GGG2020, également utilisé par le réseau TCCON (Total Carbon Column Observing Network). Cet algorithme repose sur une méthode de mise à l’échelle d’un profil a priori des concentrations atmosphériques des gaz traces dérivé d’un modèle. Les concentrations a priori de chaque couche atmosphérique restent fixes et la méthode des moindres carrés est utilisée pour calculer un facteur de pondération pour ce profil qui permet d'optimiser l’ajustement des spectres modélisés aux observations. Le profil obtenu est ensuite intégré pour obtenir une fraction molaire moyenne en colonne d’air sec (voir détails dans doi : 10.14291/tccon.ggg2014.documentation.R0/1221662).\n\r\n\rLes méthode de contrôle qualité et de post-traitement sont décrites par Mostafavi Pak et al., 2023 (doi : 10.5194/amt-16-1239-2023). Lors du post-traitement, une correction du biais dépendant de la masse d'air est d'abord appliquée, suivie d'une correction additive du biais pour aligner tous les instruments EM27 avec un instrument de référence. Enfin, un facteur d'échelle est appliqué pour ajuster les données à l'échelle OMM (Organisation Météorologique Mondiale) sur la base de comparaisons avec des mesures AirCore.\n\r\n\rEn raison de leur proximité géographique, les estimations de tous les sites du Grand Toronto, à l'exception du site de CARE situé plus au nord, ont utilisé des profils a priori communs basés sur des données de modèle interpolées aux coordonnées 43,63°N, 79,38°W. Cette approche vise à minimiser les biais liés à l'utilisation de profils a priori différents lors de l’analyse des gradients dans la région du Grand Toronto. Cependant, le site de CARE est trop éloigné pour que cette méthode soit applicable de manière raisonnable. Pour le site de CARE, les profils a priori sont donc basés sur les données du modèle interpolées à l’emplacement exact du site. \n\r\n\rLes mesures fournies ici s’arrêtent aux dates précédant la modification des instruments de chaque site pour intégrer un nouveau système de suivi solaire par fibre optique.\n\r\n\rÀ noter : les fichiers de données pour l’instrument tg, situé à UTM entre le 2 juin 2023 et le 30 novembre 2023 ainsi qu’entre le 8 juillet 2024 et le 2 septembre 2024, présentent un dysfonctionnement du détecteur mesurant xco. Cependant, les autres gaz ont pu être extraits normalement. Les fichiers de données sont globalement organisés par année, mais dans certains cas, lorsque la collecte n’a eu lieu que sur une courte période de l’année, les données sont regroupées avec celles de l’année précédente ou suivante.\n\r\n\rRenseignements supplémentaires\n\r\n\rRévisions: \n\rLe 6 février 2026, le fichier DOW_td20230116_20231130.experimental.public.qc.nc a été mis à jour pour corriger les latitude et longitude du site DOW."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f34f7044-0317-4774-a528-c60e84973f91"
+  ],
+  "dct_issued_s": "2025-10-03",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f34f7044-0317-4774-a528-c60e84973f91\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Ground-based remote sensing observations of total column mixing ratios of carbon dioxide, methane and carbon monoxide collected in the Greater Toronto Area from 2019 to 2024",
+  "gbl_mdModified_dt": "2026-02-20T15:13:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e6067d92-00ca-5f99-8171-6cbd796f5d7e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

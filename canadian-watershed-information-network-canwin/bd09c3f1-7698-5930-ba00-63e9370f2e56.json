@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to locate the events related to the spring 2023 floods recorded by the Deputy Directorate General of Operations of the Ministry of Public Security. All data can be viewed on an interactive map and available as WMS and WFS web services.\n\n> To monitor the status of watercourses live, please refer to the [Vigilance - Flood Monitoring] application (https://vigilance.geo.msp.gouv.qc.ca/)\n\n### List of available data:\n\n* **Open water extent polygons derived from satellite data**: extent limits of open waters derived from radar satellite images.\n\n* **Location of flood events since April 14, 2023**: points approximately locating the flood events recorded by the Operations Directorate of the Ministry of Public Security as of April 14, 2023 (derived from the [Civil Security Events] dataset (https://www.donneesquebec.ca/recherche/dataset/evenements-de-securite-civile)).\n\n* **Municipalities affected by flood events since April 14, 2023**: cartographic representation of municipalities affected by flood events since April 14, 2023.\n\n* **Sentinel-2 satellite image**: satellite image covering flooded areas and presented as a colored compound using short band infrared, near infrared, and red wavelengths.\n\n## #Note:\n\nSatellite acquisitions for the RADARSAT Constellation Mission (RCM) are planned in collaboration with Natural Resources Canada. The images obtained are processed by the emergency geomatics services of Natural Resources Canada as soon as possible and then the open water polygons are distributed as open data on Data Canada and on Data Quebec. Other optical or radar acquisitions may have been obtained by the Ministry of Public Security (MSP) from private suppliers. The Sentinel-1 and Sentinel-2 acquisitions released in open data by the European Space Agency (ESA) were processed by the Dromedaire Géo-Innovations firm.\n\n\t\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/94857bac-3013-4f25-8e84-f40e01fccd11"
+  ],
+  "dct_issued_s": "2023-04-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/94857bac-3013-4f25-8e84-f40e01fccd11\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Spring 2023 flood mapping",
+  "gbl_mdModified_dt": "2026-10-07T17:37:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bd09c3f1-7698-5930-ba00-63e9370f2e56",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

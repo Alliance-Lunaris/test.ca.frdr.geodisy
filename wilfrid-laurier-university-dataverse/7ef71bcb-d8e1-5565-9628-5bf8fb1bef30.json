@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "COVID-19",
+    "COVID19",
+    "Coronavirus infections",
+    "Public Health"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Steeleworthy, Michael (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0003-4759-5403"
+  ],
+  "dct_description_sm": [
+    "Version Updates:<br>\r\n1.0 - 20200317 - Initial upload; Data from 2020-02-15 to 2020-03-17<br>\r\n2.0 - 20200318 - New Ingest. Data from 2020-02-15 to 2020-03-18; \"Deceased\" now counted in Status Cases report; refinements to Dataverse metadata<br>\r\n3.0 - 20200319 - New Ingest. Includes data to 2020-03-19 10:30 AM EDT update. <br><br>\r\n\r\nNOTES ON BROWSING:<br>\r\nClick on the \"Tree\" to view the folder hierarchy<br><br>\r\n\r\nNOTES ON DOWNLOADING:<br>\r\nDownload <i>covid19-ontario.tab</i> to get the dataset.<br>Download the file <i>covid19-ontario-archive.zip</i> to get the entire archive in one package.",
+    "Through 2020, the Government of Ontario has been posting near-daily COVID19 status reports at https://www.ontario.ca/page/2019-novel-coronavirus.  These reports are usually updated at 10:30am and 5:30am ET. Unfortunately, the reports as presented are of-the-moment snapshots and provide no historic context for time-based analysis.<br> <br>\r\n\r\nUsing the Internet Archive's Wayback Machine (https://web.archive.org/), this data has been indexed for improved time-based analysis by researchers, journalists, and the public. Reporting begins February 15 and continues to March 19; gaps exist due to the intermittent nature of WBM scraping, especially in February and Early March.   <br><br>\r\n\r\nSummary versioning changes are included in the Notes field below and in the Version tab of the record.  A complete change log is included in the spreadsheet."
+  ],
+  "dct_identifier_sm": [
+    "100946_137",
+    "https://doi.org/10.5683/SP2/AWHPEN"
+  ],
+  "dct_issued_s": "2020-03-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/AWHPEN\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "COVID19 Ontario Case Count Summary File",
+  "gbl_mdModified_dt": "2020-03-19T17:52:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7ef71bcb-d8e1-5565-9628-5bf8fb1bef30",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

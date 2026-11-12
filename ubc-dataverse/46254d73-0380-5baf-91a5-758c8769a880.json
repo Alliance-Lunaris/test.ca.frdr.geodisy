@@ -1,0 +1,58 @@
+{
+  "dcat_keyword_sm": [
+    "SNPs",
+    "34K SNP Illumina Infinium chip genotyping results",
+    "FST outliers",
+    "Populus trichocarpa",
+    "Isolation-by-distance",
+    "red/far-red light",
+    "Populus balsamifera"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Geraldes, Armando J. M. (University of British Columbia).",
+    "Farzaneh, Nima (University of British Columbia).",
+    "Grassa, Christopher J. (University of British Columbia).",
+    "McKown, Athena D. (University of British Columbia).",
+    "Guy, Robert D. (University of British Columbia).",
+    "Mansfied, Shawn D. (University of British Columbia).",
+    "Douglas, Carl J. (University of British Columbia).",
+    "Cronk, Quentin C. B. (University of British Columbia).",
+    "Geraldes, Armando (University of British Columbia).",
+    "Mansfield, Shawn D. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/I2syOQ4it1WUJlYMh7dm_PWx3RpMAdEw0JQb2Rz-eJY</p>\n<p><b>Storage size:</b> 143888864</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Populus trichocarpa is an ecologically important tree across western North America. We used a large population sample of 498 accessions over a wide geographical area genotyped with a 34K Populus SNP array to quantify geographical patterns of genetic variation in this species (landscape genomics). We present evidence that three processes contribute to the observed patterns: (1) introgression from the sister species P. balsamifera (2) isolation-by-distance and (3) natural selection. Introgression was detected only at the margins of the species’ distribution. Isolation-by-distance was significant across the sampled area as a whole, but no evidence of restricted gene flow was detected in a core of drainages from southern British Columbia. We identified a large number of FST outliers. GO analyses revealed that FST outliers are overrepresented in genes involved in circadian rhythm and response to red/far-red light when the entire dataset is considered, while in southern British Columbia heat response genes are overrepresented. We also identified strong correlations between geoclimate variables and allele frequencies at FST outlier loci that provide clues regarding the selective pressures acting at these loci.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">FOR_DRYAD_TandB_fwd_june2013_434</h4><div class=\"o-metadata__file-description\">This file contains genotype data for 499 P. trichocarpa and 10 P. balsamifera accessions genotyped with a 34K SNP chip previously described in Geraldes et al 2013: “A 34K SNP genotyping array for Populus trichocarpa: Design, application to the study of natural populations and transferability to other Populus species.” Molecular Ecology Resources, 13(2):306-23. Details for all accessions genotyped can be found in Supplementary table 1 of “Landscape genomics of Populus trichocarpa: the role of hybridization, limited gene flow and natural selection in shaping patterns of population structure” accepted for publication in Evolution on July 8th 2014. This data file is a matrix with each locus in a row and each accession in a column. Genotypes are given in Illumina’s Forward strand as exported from Illumina’s GenomeStudio software. The numerical value after each genotype is the Genotype Call score. Loci with GenTrain score <0.5 were considered failed assays and were not exported. The file contains data for the remaining 33,070 loci genotyped.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152539_1226260_150149",
+    "https://doi.org/10.5683/SP2/MDHY2I"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/MDHY2I\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Landscape genomics of Populus trichocarpa: the role of hybridization, limited gene flow and natural selection in shaping patterns of population structure",
+  "gbl_mdModified_dt": "2021-05-20T01:35:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "46254d73-0380-5baf-91a5-758c8769a880",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

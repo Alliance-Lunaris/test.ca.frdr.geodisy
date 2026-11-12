@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -55.8984375, 71.015625, 45.70312500000001)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The generation of geospatial thematic information for managing and monitoring Canada's boreal ecosystem is essential for researchers, land managers, and policy makers. Canada's boreal region is a vast mosaic of forests, wetlands, rivers and lakes, but anthropogenic disturbances have impacted these ecosystems resulting in habitat loss, fragmentation and threats to biodiversity. Across Canada various geospatial datasets representing anthropogenic disturbance exist for timber harvesting, hydro-electric activity, settlement and oil &amp; gas activities; however, these products often vary in scale, attributes, time period, and mapping technique. Driven by the need for national data as part of the 2011 boreal caribou science assessment, a standardized methodology was developed and implemented to create a single geospatial dataset representing anthropogenic disturbances across a significant portion of Canada's boreal ecosystem. The boreal ecosystem anthropogenic disturbances  BEAD  data is a vector disturbance dataset of individual linear and polygonal disturbance types that were manually collected through the interpretation of 2008 to 2010 Landsat imagery at a 1:50,000 viewing scale. Summary results identified a total polygonal anthropogenic disturbance footprint of approximately 24 million ha with forest cutblocks accounting for more than 60 % of mapped polygonal disturbance. Linear disturbance features across the boreal total approximately 600,000 km with roads and seismic exploration lines contributing to more than 80 % of the mapped linear disturbances. For distribution and use by the public the data was gridded to a 1km resolution product that can easily be incorporated into a wide variety of applications. Each disturbance type was gridded as the total per km2  km2 / km2 for polygonal disturbances and km / km2 for linear disturbances . This product consists of 19 individual raster layers - 16 representing different disturbance types, along with layers representing the total linear and total polygonal disturbances separately and a binary mask layer defining all cells that contain disturbance values"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c5a9967d-1621-4dae-9f2a-79a55dbcebd0"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c5a9967d-1621-4dae-9f2a-79a55dbcebd0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Anthropogenic disturbances across the Canadian boreal ecosystem collected from 2008 to 2010 Landsat imagery  Gridded to a 1km resolution .",
+  "gbl_mdModified_dt": "2022-02-21T14:59:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c1e06d24-6d95-5e54-b110-667aaa72b1c9",
+  "locn_geometry": "ENVELOPE(-135.0, -55.8984375, 71.015625, 45.70312500000001)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Transports et stationnements",
+    "Municipal",
+    "HackQC22",
+    "Sherbrooke"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Section de la géomatique."
+  ],
+  "dct_description_sm": [
+    "Travaux en cours dans la journée courante sur le territoire de la Ville de Sherbrooke.<div>Attributs :</div><div><ul><li>ID - Identifiant unique</li><li>MUNICIPALITE - Code de la municipalité</li><li>TYPE - Type de travaux</li><li>SOUSTYPE - Sous-type des travaux</li><li>DESCRIPTION - Description des travaux</li><li>REALISATION - Unité de réalisation des travaux</li><li>LOCALISATION - Rue touchée par les travaux</li><li>INTERSECTION - Intersection touchée par les travaux</li><li>NO_CIVIQUE - Numéro civique concerné par les travaux</li><li>VOIE_DE - Voie transversale à partir de laquelle la rue est touchée (voir LOCALISATION)</li><li>VOIE_A - Voie transversale jusqu'à laquelle la rue est touchée (voir LOCALISATION)</li><li>DATE_DEBUT - Date de début des travaux (UTC ou local selon les différents formats offerts)</li><li>DATE_FIN - Date de fin des travaux (UTC ou local selon les différents formats offerts)</li><li>CIRCULATION - Effet sur la circulation</li><li>SIGNALEUR - Présence de signaleurs</li><li>VITESSE - Modification de la limite de vitesse</li><li>POLICE - Présence policière accrue</li><li>COUPUREEAU - Coupure de l'alimentation en eau potable</li><li>PERTEACCES - Perte temporaire d’accès aux entrées véhiculaires</li><li>TRANSPORTCOMMUN - Perturbation possible du transport en commun</li><li>ECOLE - Présence d'une école ou d'un corridor scolaire</li><li>COMMERCE - Présence de commerces</li><li>TRAVAUXSUBSEQUENT - Travaux subséquents prévus</li><li>REMARQUE - Précisions supplémentaires</li><li>DATEDEBUTHE - Date de début des travaux (heure de l'Est) \"AAAA-MM-JJ hh:mm\"</li><li>DATEFINHE - Date de fin des travaux (heure de l'Est) \"AAAA-MM-JJ hh:mm\"</li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/0967bd7a-5115-445e-a2cb-ded5165b5694"
+  ],
+  "dct_issued_s": "2019-01-28",
+  "dct_publisher_sm": [
+    "Ville de Sherbrooke - Données géomatiques"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/0967bd7a-5115-445e-a2cb-ded5165b5694\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Sherbrooke, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Travaux",
+  "gbl_mdModified_dt": "2026-06-01T14:41:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e3946a09-a3d4-5add-affe-38682c727c93",
+  "schema_provider_s": "Données Québec"
+}

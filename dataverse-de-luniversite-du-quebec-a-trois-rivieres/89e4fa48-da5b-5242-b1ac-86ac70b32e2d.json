@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.91, -72.45, 59.78, 45.38)",
+  "dcat_keyword_sm": [
+    "Soil Temperature at 5 cm Depth, Sentinel-1 SAR, Agricultural Weather Stations in Canada, Exponential Freeze-Thaw Algorithm (EFTA), Soil Temperature Data for Manitoba, Alberta, Saskatchewan, and Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Taghipourjavi, Shahabeddin (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-2036-9863",
+    "Kinnard, Christophe (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-4553-5258",
+    "Roy, Alexandre (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-1472-3619"
+  ],
+  "dct_description_sm": [
+    "This section will be completed as the article titled \"Machine Learning-Driven surface Freeze-Thaw Retrieval Across Canadian Agricultural Regions Using Sentinel-1 SAR Data\" is submitted to the \"International Journal of Applied Earth Observation and Geoinformation\".",
+    "This dataset contains soil temperature measurements at a depth of 5 cm from agricultural weather stations across four Canadian provinces: Alberta, Manitoba, Saskatchewan, and Québec. The data spans from October 2016 to June 2023 and is aligned with Sentinel-1 SAR overpasses. The dataset provides comprehensive spatial coverage, with records from 174 weather stations situated in diverse agricultural and climatic conditions. It is primarily intended for research in freeze-thaw detection. \nThe dataset includes the latitude and longitude of each weather station, crop type data from Agriculture and Agri-food Canada annual crop inventory, and soil type data from the Detailed Soil Survey (DSS) of the National Soil Database (NSDB), supplemented by digital soil mapping from the World Soil Information Service (WoSIS). The soil temperature data is available based on the temporal resolution of Sentinel-1 overpasses at each given station. For more information, refer to the ReadMe file."
+  ],
+  "dct_identifier_sm": [
+    "894600_412017",
+    "https://doi.org/10.5683/SP3/ZJ03SX"
+  ],
+  "dct_issued_s": "2025-04-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZJ03SX\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Manitoba, Canada",
+    "Kenaston, Saskatchewan, Canada",
+    "Alberta, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Soil Temperature (5 cm) Records from Agricultural Weather Stations in Canada Aligned with Sentinel-1 Overpasses (October to June, 2016-2023)",
+  "gbl_mdModified_dt": "2025-04-10T14:08:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "89e4fa48-da5b-5242-b1ac-86ac70b32e2d",
+  "locn_geometry": "ENVELOPE(-119.91, -72.45, 59.78, 45.38)",
+  "pcdm_memberOf_sm": [
+    "RIVE"
+  ],
+  "schema_provider_s": "Dataverse de l'Université du Québec à Trois-Rivières"
+}

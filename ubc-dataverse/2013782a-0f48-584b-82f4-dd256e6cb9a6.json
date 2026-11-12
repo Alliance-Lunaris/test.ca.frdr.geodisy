@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Introgression",
+    "Simulation and modeling",
+    "Conservation genetics",
+    "Spatial and landscape ecology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sullivan, Sierra Lynn (University of British Columbia). ORCID: https://orcid.org/0009-0000-6555-0992",
+    "van Poorten, Brett (Simon Fraser University).",
+    "Whitlock, Michael (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 11</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/dataset/doi:10.5061/dryad.djh9w0wcr</p>\n<p><b>Storage size:</b> 767923276</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Extensive translocation and stocking of non-native fish have resulted in widespread patterns of hybridization and genomic introgression. Unfortunately, current methodologies used to survey the disruption of natural patterns of genetic variation often involve sampling from single, accessible sites in a watercourse. This leads to an overestimation of non-native admixture, as modern sampling sites are correlated with historical stocking locations where trail, road, or rail access was available. These strategies can lead to inflated, imprecise estimates of admixture and subsequently, inappropriate conservation measures. Here, we use an individual-based demographic and genetic model to simulate introgression. Then, we use iterative resampling of simulations to determine the relative importance of spatial site arrangement, number of sites, reach length along a watercourse, and number of fish sampled. Results reinforce and demonstrate expectations of statistical theory: that the most representative sampling strategies are those that use systematically distributed sampling locations and multiple sites per watershed. This study provides recommendations about robust sampling design and outlines the risks of poor sampling decisions that can lead to negative conservation outcomes. The dataset is separated into the three watersheds that were simulated. All files required to run the simulations and output datasets are contained within the respective folders. Technical descriptions of the steps and parameterization for the spatial modelling and demographic modelling are included in two separate pdfs. Data and scripts for the final analysis of all watersheds are contained in the Analysis folder. Note that spatial and demographic modelling was built for the sampling strategy analysis and so may not reflect actual hydrological or biological conditions in these watersheds.</p>"
+  ],
+  "dct_identifier_sm": [
+    "1101072_1226260_150149",
+    "https://doi.org/10.5683/SP3/2WIOEK"
+  ],
+  "dct_issued_s": "2026-03-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/2WIOEK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: An assessment of sampling strategies for surveying introgression in watersheds",
+  "gbl_mdModified_dt": "2026-03-12T18:57:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2013782a-0f48-584b-82f4-dd256e6cb9a6",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

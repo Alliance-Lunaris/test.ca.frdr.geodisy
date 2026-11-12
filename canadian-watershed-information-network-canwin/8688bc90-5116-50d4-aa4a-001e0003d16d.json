@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Position of address points.\n\n**Collection context**\n Initial source of the Qc address databases, the urban planning department, the engineering department and the DGE.\nAnalysis and coupling of the various sources to create a comprehensive research layer for the needs of the city's internal users.\nTimely maintenance using the address change reports from the urban planning department and changes to the property records from the assessment department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_ADRCIV` (`integer`): Identifier\n* `NOCIVQ` (`integer`): Civic number\n* `NOCIV_SUFX` (`varchar`): Number suffix\n* `ODO_INDEX_LONG` (`varchar`): Long index odonym\n* `ODO_INDEX_COURT` (`varchar`): Short index odonym\n* `ADQNBUNITE` (`integer`): Number of Qc address units\n* `CODE_POST` (`varchar`): Postal code\n* `MAT10` (`varchar`): Number\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `DATE_ARCHIVE` (`smalldatetime`): Archive date\n* `ODO_LONG_COMPLETE` (`varchar`): Full long odonym\n* `ODO_COURT_COMPLET` (`varchar`): Full short odonym\n* `ODONYM` (`varchar`): Odonym\n* `LOC_X` (`numeric`): x\n* `LOC_Y` (`numeric`): y\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d4357015-d0d9-456d-a249-66841d2413f2"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d4357015-d0d9-456d-a249-66841d2413f2\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Specific civic addresses - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:40:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8688bc90-5116-50d4-aa4a-001e0003d16d",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

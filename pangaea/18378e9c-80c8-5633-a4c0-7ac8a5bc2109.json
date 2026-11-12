@@ -1,0 +1,66 @@
+{
+  "dcat_bbox": "ENVELOPE(-61.976999999999975, -61.252999999999986, 81.194, 80.97)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Girard, Juliette (Rimouski Marine Sciences Institute). ORCID: https://orcid.org/0009-0005-0194-2432",
+    "Reilly, Brendan T (Lamont-Doherty Earth Observatory of Columbia University, New York). ORCID: https://orcid.org/0000-0003-3666-4338",
+    "St-Onge, Guillaume (Rimouski Marine Sciences Institute). ORCID: https://orcid.org/0000-0001-6958-4217",
+    "Lagroix, France (Institut de physique du globe de Paris). ORCID: https://orcid.org/0000-0003-2873-2767",
+    "Montero-Serrano, Jean-Carlos (Université du Québec à Rimouski (UQAR), Rimouski Marine Sciences Institute, Université du Québec à Rimouski). ORCID: https://orcid.org/0000-0001-7896-6284",
+    "Stoner, Joseph S (Oregon State University). ORCID: https://orcid.org/0000-0002-4848-5452",
+    "Jennings, Anne E (University of Colorado, Boulder). ORCID: https://orcid.org/0000-0003-3176-2916"
+  ],
+  "dct_description_sm": [
+    "This paleomagnetic stack was built using cores AMD1902-10GC (data available in PANGAEA, Girard et al., 2024), cores OD1507-04GC, OD1507-41GC, OD1507-40TC (data available in MagIc, Reilly et al., 2019). The stack was calculated as follow: Bin widths of 5 cm CED were used to calculate the Fisher mean of the directions with N the number of cores contributing to the stack for each calculation. The virtual geomagnetic pole (VGP) coordinates were calculated assuming stack declination rotation of 125 degrees +/- 20 degrees."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.971851",
+    "https://doi.org/10.1594/pangaea.971851"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.971851\"}",
+  "dct_subject_sm": [
+    "Virtual geomagnetic pole longitude",
+    "Virtual geomagnetic pole latitude, uncertainty",
+    "AGE",
+    "Inclination, uncertainty",
+    "Marine Sediment Core",
+    "Declination",
+    "Virtual geomagnetic pole longitude, uncertainty",
+    "Declination, uncertainty",
+    "Calculated based on the stacked data",
+    "Relative paleointensity proxy, uncertainty",
+    "AMD19_2",
+    "Median",
+    "Rotated to a mean of 0 to respect the hypothesis of the average dipole",
+    "DEPTH, sediment/rock",
+    "Paleomagnetism",
+    "Holocene",
+    "Inclination",
+    "Kappa",
+    "CCGS Amundsen",
+    "Trigger corer",
+    "Number of cores",
+    "Petermann Fjord",
+    "OD1507",
+    "Gravity corer",
+    "Relative paleointensity proxy",
+    "Oden",
+    "95% cone of confidence",
+    "Virtual geomagnetic pole latitude",
+    "Declination, rotated",
+    "Arctic"
+  ],
+  "dct_title_s": "Updated paleomagnetic Petermann stack (inclination, declination, relative paleointensity, Virtual Geomagnetic Pole) from Petermann Fjord (Nares Strait, Northern Greenland)",
+  "gbl_mdModified_dt": "2026-08-28T03:39:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "18378e9c-80c8-5633-a4c0-7ac8a5bc2109",
+  "locn_geometry": "ENVELOPE(-61.976999999999975, -61.252999999999986, 81.194, 80.97)",
+  "schema_provider_s": "PANGAEA"
+}

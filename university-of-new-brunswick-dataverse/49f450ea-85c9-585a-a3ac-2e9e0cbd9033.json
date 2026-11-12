@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Non-Newtonian flows",
+    "Viscous flows",
+    "Portable magnetic resonance",
+    "Transient flows"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Selby, William (University of New Brunswick). ORCID: https://orcid.org/0009-0006-4764-4761",
+    "Belzile, Vincent (University of New Brunswick).",
+    "Marshall, Julie (University of New Brunswick).",
+    "Mastikhin, Igor (University of New Brunswick). ORCID: https://orcid.org/0000-0002-2899-1809"
+  ],
+  "dct_description_sm": [
+    "This repository contains all raw data files and processing scripts associated with the paper published in Physics of Fluids entitled \"Completely noninvasive viscosity characterization using a portable magnetic resonance sensor\"\n\nAbstract: Fluid viscosity is typically measured by extracting a sample into a separate container and analyzing the response of a moving probe. However, some fluids are hazardous or sensitive to shear, preventing vial opening or probe insertion. Therefore, completely noninvasive, non-contact measurement is desirable. The natural motion sensitivity of magnetic resonance imaging (MRI) has proven to be an effective method for characterizing fluid rheology, but industrial applications of these techniques are often constrained by the size and cost of conventional magnetic resonance scanners. In recent decades, there has been a shift toward compact MRI instruments designed to complement traditional scanners. Among these, constant-gradient portable magnet arrays represent a subset that sacrifices high-resolution imaging in favor of bulk measurements from a localized \"sensitive region.\" The constant magnetic field gradient enhances magnetic resonance sensitivity to motion. Variations in velocity within the sensitive region lead to phase interference, modulating the signal magnitude when integrated across the dimensions of the sensitive region. In this work, we investigate the effects of the spin-up of a rotating fluid cylinder on magnetic resonance signal and its dependence on viscosity. Although the flow becomes inviscid once solid-body rotation is established, viscosity can be inferred from the rate at which the signal approaches an equilibrium following an impulsive change in fluid rotation. We demonstrate this technique by measuring the signal response of glycerol/water solutions at a range of concentrations, speeds, and heights. This technique is entirely noninvasive and does not require opening the sample vessel, which is advantageous for industrial applications."
+  ],
+  "dct_identifier_sm": [
+    "9145_427",
+    "https://doi.org/10.25545/JV022S"
+  ],
+  "dct_issued_s": "2026-01-06",
+  "dct_publisher_sm": [
+    "UNB"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25545/JV022S\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Physics"
+  ],
+  "dct_title_s": "Completely noninvasive viscosity characterization using a portable magnetic resonance sensor",
+  "gbl_mdModified_dt": "2026-01-07T01:22:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "49f450ea-85c9-585a-a3ac-2e9e0cbd9033",
+  "pcdm_memberOf_sm": [
+    "MRI Research Centre"
+  ],
+  "schema_provider_s": "University of New Brunswick Dataverse"
+}

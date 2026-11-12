@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-178.189, -56.119, 72.292, 47.067)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "An exploratory project on the taxonomic and genetic diversity of decapods in three ocean subregions (Northeast Pacific, Canadian Arctic, and Northwest Atlantic), which were sampled in 2022, was undertaken by the Arctic Working Group under the Canada-U.S. Fisheries and Climate Collaboration between Fisheries and Oceans Canada (DFO) and the National Marine Fisheries Service (NMFS) of the National Oceanic and Atmospheric Administration (NOAA). This collaboration framework aims to pool Canadian and U.S. data to explore the impacts of broad-scale climate change on marine biodiversity. In early summer 2022, a sampling protocol with the selection of targeted decapods was provided to DFO and NOAA collaborators. Targeted genera were collected from a total of 10 research programs across three ocean subregions and four marine regions. \n\nThe Northeast Pacific samples were collected in the Bering Sea during the Northern Bering Sea Ecosystem and Surface Trawl Survey, and the Eastern and Northern Bering Sea Continental Shelf Bottom Trawl Survey of Groundfish and Invertebrate Fauna onboard the F/V Northwest Explorer, F/V Alaska Knight and F/V Vesteraalen. In the Western Canadian Arctic (mainly from Beaufort Sea and Amundsen Gulf), specimens were collected during DFO’s Canadian Beaufort Sea – Marine Ecosystem Assessment (CBS-MEA) survey onboard the F/V Frosti. \n\nIn Eastern Canadian Arctic (mainly from Baffin Bay and Davis Strait), specimens were collected during DFO’s Knowledge and Ecosystem-Based Approach in Baffin Bay (KEBABB) survey onboard the CCGS Amundsen and DFO’s North Atlantic Fisheries Organization (NAFO) Subarea 0B survey onboard the R/V Tarajoq. \n\nIn the Estuary and Gulf of St. Lawrence (EGSL), specimens were collected from coastal surveys (scallops, sea cucumber, snow crab, and whelk surveys) onboard the CCGS Leim and offshore during the Ecosystemic Survey onboard the CCGS Teleost. Decapods were collected from various sampling gears (benthic beam trawl, modified Atlantic Western IIA otter trawl, Bacalao trawl, shrimp trawl, Digby scallop dredge, or modified sea cucumber dredge) and identified to the lowest possible taxonomic level and photographed, when possible. All specimens were frozen at sea (n = 995). In the lab, the identifications were validated or refined with the photos and the frozen specimens. DNA was extracted for 87 specimens and a section of COI gene was amplified in order to be sequenced using Sanger method. Sequences were compared with existing data using The Basic Local Alignment Search Tool (BLAST) in the National Center for Bio-technology Information Nucleotide database (NCBI-nt, including the GenBank database) to compare scientific names, where available.\n\nThe present dataset includes 391 decapod species occurrences. DNA was extracted for a subset of 87 specimens (COI gene); sequences are publicly available on BOLD data portal under project code DDAO (see supporting document \"citations_references.csv\" for more information).\n\nThe data are presented in Darwin Core format and are separated in three files:\nThe \"Activité_décapodes_DDAO_decapods_event_en\" file contains information about missions, stations and deployments, which are presented under a hierarchical activity structure.\nThe \"Occurrence_décapodes_DDAO_decapods_en\" file contains the taxonomic occurrences.\nThe \"ADN_décapodes_DDAO_decapods_DNA_en\" file contains the DNA derived data.\n\nFor further details, please refer to the technical report available in the supporting document named \"citations_references.csv\".\n            \n\nUSE LIMITATION:\nTo ensure scientific integrity and appropriate use of the data, we would encourage you to contact the data custodian."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0a7d1158-0b30-11f0-9b16-cdaf3d076dbf"
+  ],
+  "dct_issued_s": "2026-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0a7d1158-0b30-11f0-9b16-cdaf3d076dbf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Taxonomic and Genetic Diversity of Decapods in Northeast Pacific, Canadian Arctic and Northwest Atlantic",
+  "gbl_mdModified_dt": "2026-04-21T11:30:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8b91f427-71c0-56ff-82ec-a314737edf86",
+  "locn_geometry": "ENVELOPE(-178.189, -56.119, 72.292, 47.067)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

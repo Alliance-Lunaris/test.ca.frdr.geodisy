@@ -1,0 +1,73 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.31634, -123.4873, 49.08538, 48.65182)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "sea_water_density",
+    "sea_water_sigma_t",
+    "densité_de_l’eau_de_mer",
+    "Oceans",
+    "Subsurface temperature",
+    "Central Strait of Georgia",
+    "longitude",
+    "Subsurface salinity",
+    "latitude",
+    "pression_de_l’eau_de_mer_due_à_l’eau_de_mer",
+    "volume_fraction_of_oxygen_in_sea_water",
+    "fractional_saturation_of_oxygen_in_sea_water",
+    "sea_water_electrical_conductivity",
+    "sea_water_temperature",
+    "sigma_thêta_de_l’eau_de_mer",
+    "Oxygène",
+    "Strait of Georgia",
+    "conductivité_électrique_de_l’eau_de_mer",
+    "speed_of_sound_in_sea_water",
+    "sigma-t_de_l’eau_de_mer",
+    "vitesse_du_son_dans_l’eau_de_mer",
+    "profondeur",
+    "sea_water_pressure_due_to_sea_water",
+    "sea_water_practical_salinity",
+    "Salinité sous la surface",
+    "altitude",
+    "depth",
+    "température_de_l’eau_de_mer",
+    "latitude",
+    "Oxygen",
+    "fraction_volumique_d’oxygène_dans_l’eau_de_mer",
+    "longitude",
+    "sea_water_sigma_theta",
+    "salinité_pratique_de_l’eau_de_mer",
+    "saturation_fractionnelle_en_oxygène_de_l’eau_de_mer",
+    "Saanich Inlet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Collection de données de profils verticaux recueillis par Ocean Networks Canada dans la région de la mer des Salish lors de l’expédition de maintenance NEPTUNE/VENUS de mars 2023 à bord du NGCC John P. Tully"
+  ],
+  "dct_creator_sm": [
+    "Ocean Networks Canada Society."
+  ],
+  "dct_description_sm": [
+    "This collection contains multiple independent vertical downcast profiles collected during the NEPTUNE/VENUS Maintenance 2023-03 expedition aboard the CCGS John P. Tully, conducted between 2023-03-12 and 2023-03-20 from the Salish Sea area, across multiple stations. The Salish Sea includes a network of channels and coastal waters near Vancouver Island. The Salish Sea includes the Strait of Georgia, Strait of Juan de Fuca, Saanich Inlet and Puget Sound. Each dataset within this collection includes oceanographic data collected at various depths in the water column by a suite of instruments, during a single profiling deployment known as a ‘cast’. A Cast Infrastructure Device Set typically includes a CTD (Conductivity, Temperature, and Depth), and oxygen sensor(s), and occasionally includes additional piggyback devices like fluorometer(s), transmissometer(s), radiometer(s) and a handheld GPS device. Data from this deployment were archived and made available through Ocean Networks Canada's Oceans 3.0 digital infrastructure, with quality assurance and derived data products following established practices.",
+    "Cette collection contient plusieurs profils verticaux indépendants de descente recueillis lors de l’expédition de maintenance NEPTUNE/VENUS de mars 2023 à bord du NGCC John P. Tully, menée du 12 au 20 mars 2023 dans la région de la mer des Salish, à plusieurs stations. La mer des Salish comprend un réseau de chenaux et d’eaux côtières près de l’île de Vancouver. La mer des Salish comprend le détroit de Géorgie, le détroit de Juan de Fuca, Saanich Inlet et Puget Sound. L’océan Pacifique Nord-Est comprend les eaux marines et côtières le long de la côte ouest de l’Amérique du Nord. Chaque ensemble de données de cette collection comprend des données océanographiques recueillies à différentes profondeurs dans la colonne d’eau par une série d’instruments, lors d’un déploiement de profilage unique. Un ensemble de dispositifs d’infrastructure de profilage comprend habituellement un appareil CTP (conductivité, température et profondeur) et des capteurs d’oxygène, et comprend parfois des dispositifs supplémentaires comme des fluorimètres, des transmissomètres, des radiomètres et un dispositif GPS portatif. Les données issues de ce déploiement ont été archivées et rendues accessibles par l’intermédiaire de l’infrastructure numérique Oceans 3.0 d’Ocean Networks Canada, avec des procédures d’assurance de la qualité et des produits de données dérivés conformes aux pratiques établies."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/1458f4e6-ed7e-47da-8f92-de4bd3db14a6"
+  ],
+  "dct_issued_s": "2026-03-24",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/1458f4e6-ed7e-47da-8f92-de4bd3db14a6\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_title_s": "Collection of Down Casts Collected by Ocean Networks Canada from Salish Sea Area During NEPTUNE/VENUS Maintenance 2023-03 Expedition Aboard CCGS John P. Tully",
+  "gbl_mdModified_dt": "2026-09-16T20:18:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0809efb1-b579-56b2-b764-2749bbe09601",
+  "locn_geometry": "ENVELOPE(-123.31634, -123.4873, 49.08538, 48.65182)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

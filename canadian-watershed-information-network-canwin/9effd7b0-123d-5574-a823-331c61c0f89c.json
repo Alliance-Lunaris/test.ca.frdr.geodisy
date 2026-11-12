@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Unverified raw hourly air pollutant monitoring and meteorological data collected by the Ministry of Environment and Climate Change Strategy. These data sets contain **air quality data from 2026 to the most recent hourly readings** and **meteorological data from 2025 to the most recent hourly readings** from air quality monitoring stations across B.C, up to the latest hour in Pacific Standard Time (PST). This does not include data originating from Metro Vancouver and Fraser Valley Regional Districts. For current conditions for Metro Vancouver and Fraser Valley Regional Districts please visit https://gis.metrovancouver.org/maps/air/ This data is not quality-assured. Historical quality-assured air data is available here: https://catalogue.data.gov.bc.ca/dataset/77eeadf4-0c19-48bf-a47a-fa9eef01f409 Please subscribe using the following link if you want to receive the updates on the datasets: https://www2.gov.bc.ca/gov/content/environment/air-land-water/air/air-quality/current-air-quality-data __Please click on VIEW resource to access__ __For data files directing to a FTP site, please copy the FTP link to File Explorer (anonymous login), Finder or equivalent, or use a FTP client such as FileZilla to access the FTP link. If using File Explorer, Finder, or equivalent, copy the files requested from the FTP folder to a local location to download.__ ##### Data files are available for: ##### #### Current Air Quality Data: * Air Quality Health Index (Learn more about this index: http://www.env.gov.bc.ca/epd/bcairquality/readings/aqhi-table.xml) * Carbon monoxide (CO) in parts per million (ppm) * Hydrogen sulfide (H2S) and Total reduced sulfur (TRS) in ppb * Nitric oxide (NO) in parts per billion (ppb) * Nitrogen dioxide (NO2) in ppb * Sulfur dioxide (SO2) in ppb * Ground-level ozone (O3) in ppb * PM2.5 (particulate matter with diameter of 2.5 micrometres or less) in micrograms per cubic metre (ug/m3) * PM10 (particulate matter with diameter of 10 micrometres or less) in ug/m3 * THC (total hydrocarbons) in ppm #### Current Meteorological Data: * Air Temperature (TEMP) in degrees Celsius (°C) * Relative Humidity (HUMIDITY) in percent (%) * Wind Speed (WSPD) in meters per second (m/s) * Wind Direction (WDIR) in degrees from true north/azimuth (°) * Precipitation (PRECIP) in millimeters (mm) * Snow depth (SNOW) in centimeters (cm) * Barometric Pressue (PRESSURE) in kilopascals (kPA) or millibars (mb) * Water Vapor Pressure (VAPOUR) in kilopascals (kPA) or millibars (mb) #### Monitoring Locations * Locations of all current and historical air and meteorological stations including Latitude and Longitude"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/01867404-ba2a-470e-94b7-0604607cfa30"
+  ],
+  "dct_issued_s": "2023-04-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/01867404-ba2a-470e-94b7-0604607cfa30\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Air Quality and Climate Monitoring: Unverified Hourly Air Quality and Meteorological Data",
+  "gbl_mdModified_dt": "2026-08-12T18:30:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9effd7b0-123d-5574-a823-331c61c0f89c",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

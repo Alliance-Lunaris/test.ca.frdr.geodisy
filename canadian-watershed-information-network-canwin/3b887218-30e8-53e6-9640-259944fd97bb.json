@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Linear layer of the bicycle network of the City of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n Scanning from orthophotography\n\n**Attributes**\n\n* `objectid` (`integer`): \n* `type` (`char`): Type\n* `surface` (`char`): Surface\n* `status` (`char`): Status\n* `length` (`double`): Length\n* `st_length (shape) `(`double`): Length\n* `annee_resurfacage` (`char`): Resurfacing year\n* `velobouclemauricie` (`char`): Veloloop Mauricie\n* `greenroute` (`char`): Green road\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f462570a-5c2e-40f7-b713-8335faecf4b7"
+  ],
+  "dct_issued_s": "2024-08-07",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f462570a-5c2e-40f7-b713-8335faecf4b7\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Bicycle network - City of Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T18:07:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3b887218-30e8-53e6-9640-259944fd97bb",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

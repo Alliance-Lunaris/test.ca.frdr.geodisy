@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.0, -101.36, 60.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Ungeneralized land classification in one of eleven types. Available here as a land class raster (GeoTIF) with a 10 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area. Land class - ungeneralized (LC_RAW) describes land areas in one of the eleven types. LC_RAW is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 10 m pixel resolution.  Domain: [1…11]. CLASSIFICATION VALUE RED GREEN BLUE Water (WAT) 1 129 212 250 Upland Forest (FOR) 2 56 142 60 Shrubby Upland (SUL) 3 102 187 106 Treed Wetland (TWL) 4 123 31 162 Shrubby Wetland (SWL) 5 171 71 188 Open Wetland (OWL) 6 206 147 216 Treed Rock (TRK) 7 93 64 55 Rock or Sand (RKS) 8 188 170 164 Grass (GRS) 9 197 225 165 Agricultural Land (ALA) 10 230 238 156 Anthropogenic Unclassified (AUC) 11 189 189 189 Water (WAT): Water that is above the surface of land and in a river, stream, lake, creek, spring, ravine, coulee, canyon, lagoon, swamp, marsh or other watercourse or water body, permanently or intermittently. Upland Forest (FOR): Land that is currently growing, or capable of supporting, a treed upland forest community. Moisture regimes are dry through very moist. Shrubby Upland (SUL): Uplands containing a persistent cover of non-merchantable hardwood tree species and shrubs. This class does not include upland forest types expected to succeed to a treed community following disturbance. This class is distinguished from shrubby wetland on the basis of moisture regime: moisture regimes are dry through very moist. Treed Wetland (TWL): Wetlands containing ≥ 10% tree crown cover, typically greater than two metres tall in absence of recent disturbance. This class includes treed bogs, treed fens, and treed swamps. Moisture regimes are moderately wet to very wet. Shrubby Wetland (SUL): Wetlands and riparian areas containing a persistent cover of non-merchantable hardwood trees and shrubs. This class includes shrub swamps, shrubby bogs and fens. It does not include upland forest types expected to succeed to a treed community following disturbance. Open Wetland (OWL): Wetlands dominated by mosses, grasses, sedges, and small herbaceous plants, often associated with small areas of open water. This class includes marshes and open or graminoid bogs and fens. Moisture regimes are moderately wet to very wet. Treed Rock (TRK): Areas of exposed bedrock interspersed with trees, where tree crown cover ≥ 10% and < 30%. Areas of partially exposed bedrock where crown cover ≥ 30% are classified as upland forest. Areas of exposed bedrock where crown cover <10% are classified as rock or sand. Rock or Sand (RKS): Naturally occurring, barren or exposed, rock, sand, or gravel deposits with <10% of the area occupied by trees. Grass (GRS): Uplands containing a persistent cover of grass and herbs. This class is differentiated from open wetland on the basis of moisture regime. It does not include upland forest types expected to succeed to a treed community following disturbance. Agricultural Land (ALA): A land classification for lands which are cultivated for growing crops, including pasture, orchards and abandoned fields. Lands designated as provincial forests cannot be assigned this classification, however this class of land may be found within or adjacent to the mapped boundaries of provincial forests. Anthropogenic Unclassified (AUC): Areas which are non-forested due to vegetation clearing and/or building. This includes built-up areas, camps, roads, railways, mines, utility corridors, gravel pits, and similar human-caused disturbances. With the exception of permanent roads used to access timber, timber harvests are not included as anthropogenic unclassified. For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dd3278a3-6a97-7134-64d1-223e1d0a0602"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dd3278a3-6a97-7134-64d1-223e1d0a0602\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "FRI: Land class - ungeneralized",
+  "gbl_mdModified_dt": "2025-12-10T13:10:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "364034ba-73e5-5dda-b179-9ea93210d8ac",
+  "locn_geometry": "ENVELOPE(-110.0, -101.36, 60.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

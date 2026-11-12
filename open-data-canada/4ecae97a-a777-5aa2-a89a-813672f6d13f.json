@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Modélisation",
+    "Terrains",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "Classe de pente",
+    "DIF",
+    "Lidar",
+    "Relief"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nThe polygonal layer of lidar slope classes expresses the slope of the terrain. The slopes are generated from a digital terrain model (DTM) with a resolution of 10 meters. The latter is the result of an aggregation by bilinear interpolation of lidar NCDs at 1 m. The minimum area of the resulting polygons is 0.2 hectares. Lidar digital slopes are divided into 7 classes.\n\n+ A - Null by [0 to 3]% \n\n+ B - Low from] 3 to 8]% \n\n+ C - Soft from] 8 to 15]% \n\n+ D - Moderate [from] 15 to 30]% \n\n+ E - Strong from] 30 to 40]% \n\n+ F - Steep from] 40 to ∞ [% \n\n+ S — Summit completely surrounded by F slopes \n\nThis map covers the entire territory of the Southern Quebec Ecoforest Inventory (IEQM) and was developed in order to provide stakeholders with the tools they need when applying for financial assistance from the Forest Management Investment Program (PIAF). __We do not recommend using the information in this layer for detailed analysis. __**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\nLa couche polygonale de classes de pentes lidar exprime l’inclinaison du terrain. Les pentes sont générées à partir d'un modèle numérique de terrain (MNT) d’une résolution de 10 mètres. Ce dernier est issu d’une agrégation par interpolation bilinéaire des MNT lidar à 1m. La superficie minimale des polygones résultants est de 0,2 hectare. Les pentes numériques lidar sont divisées en 7 classes.\n\n+ A - Nulle de [0 à 3] % \n\n+ B - Faible de ]3 à 8] % \n\n+ C - Douce de ]8 à 15] % \n\n+ D - Modérée de ]15 à 30] % \n\n+ E - Forte de ]30 à 40] % \n\n+ F - Abrupte de ]40 à ∞ [% \n\n+ S – Sommet entièrement entouré de pentes F \n\nCette cartographie couvre la totalité du territoire de l’inventaire écoforestier du Québec méridional (IEQM) et a été développée dans l’objectif d’outiller les intervenants lors des demandes d’aide financière au Programme d'investissement pour l'aménagement des forêts (PIAF). __Nous ne recommandons pas d’utiliser l’information de cette couche pour une analyse fine.__"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd"
+  ],
+  "dct_issued_s": "2024-12-09",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Classe de pente polygonale issue du lidar",
+  "gbl_mdModified_dt": "2026-09-23T18:05:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4ecae97a-a777-5aa2-a89a-813672f6d13f",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

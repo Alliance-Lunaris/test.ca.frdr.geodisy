@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.59, -68.9, 46.29, 48.47)",
+  "dcat_keyword_sm": [
+    "océans",
+    "courant marin",
+    "oceans",
+    "courants de surface",
+    "tide",
+    "sea currents",
+    "marée",
+    "surfaceCurrents",
+    "surface currents",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de courants de surface du fleuve et de l'estuaire du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset presents forecasts of the intensity and direction of surface currents in the St. Lawrence Estuary, between Cap de Bon-Désir and Trois-Rivières, an area where tides have a significant and predictable influence on surface water circulation.\n\nThese surface current data for the St. Lawrence River and Estuary were produced using a model by Fisheries and Oceans Canada, using a grid 400 m of resolution. The ocean model integrates bottom topography, average river flows, tide predictions, and average vertical stratification conditions (water layers of different densities).The model excludes the effect of winds, the forecasts should be used with caution in intense or extreme wind conditions.\n\nFor more information: [F.-J. Saucier, J. Chassé, M. Couture, A. D’Astous, R. Dorais, D. Lefaivre et A. Gosselin, 1999. The making of a surface current atlas of the St. Lawrence. Brebbia, C.A., P. Anagnostopoulos (Eds), Transactions on the Built Environment, vol. 43. 1999 WIT Press, www.witpress.com, ISSN 1743-3509, 87-97.](https://www.witpress.com/elibrary/wit-transactions-on-the-built-environment/43/5681)\n\nView the data in the [**NAVIGATION**](https://navigation.ogsl.ca/) app.",
+    "Ce jeu de données présente les prédictions de l'intensité et la direction des courants de surface dans l'estuaire du Saint-Laurent, entre cap de Bon-Désir et Trois-Rivières, une zone où les marées exercent une influence importante et prévisible sur la circulation des eaux de surface.\n\nCes données de courants de surface du fleuve et de l'estuaire du Saint-Laurent ont été produites à partir d'un modèle de Pêches et Océans Canada, utilisant une grille de 400 m de résolution. Le modèle océanique intègre la topographie du fond, les débits moyens des rivières, les prédictions de la marée et les conditions moyennes de stratification verticale (couches d’eau de densités différentes). Le modèle exclut l'effet des vents, les prévisions doivent être utilisées avec réserve dans des conditions de vents intenses ou extrême. \n\n\nPour plus d'informations, consultez la publication: \n[F.-J. Saucier, J. Chassé, M. Couture, A. D’Astous, R. Dorais, D. Lefaivre et A. Gosselin, 1999. The making of a surface current atlas of the St. Lawrence. Brebbia, C.A., P. Anagnostopoulos (Eds), Transactions on the Built Environment, vol. 43. 1999 WIT Press, www.witpress.com, ISSN 1743-3509, 87-97.](https://www.witpress.com/elibrary/wit-transactions-on-the-built-environment/43/5681)\n\nConsultez les données dans l'application [**NAVIGATION**](https://navigation.ogsl.ca/)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/f30b211f-2681-4787-aa62-4963290fcbe3"
+  ],
+  "dct_issued_s": "1994-05-01",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/f30b211f-2681-4787-aa62-4963290fcbe3\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Surface Current Data of the St. Lawrence River and Estuary",
+  "gbl_mdModified_dt": "2026-07-31T16:39:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "081fca6e-8f18-54c0-a253-fb9bd155e59f",
+  "locn_geometry": "ENVELOPE(-72.59, -68.9, 46.29, 48.47)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

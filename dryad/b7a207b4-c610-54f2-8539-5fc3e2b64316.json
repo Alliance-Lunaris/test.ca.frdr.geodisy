@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "McDonald-Kreitman test",
+    "RNAseq",
+    "Helianthus",
+    "Sequence Divergence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sébastien, Renaut (Université Laval, Université de Montréal, University of British Columbia).",
+    "Christopher J., Grassa (University of British Columbia).",
+    "Brook T., Moyers (University of British Columbia).",
+    "Nolan C., Kane (University of British Columbia, University of Colorado Boulder).",
+    "Loren H., Rieseberg (University of British Columbia, Indiana University Bloomington).",
+    "Christopher, Grassa (Harvard University, University of British Columbia).",
+    "Brook, Moyers (University of British Columbia).",
+    "Nolan, Kane (University of British Columbia).",
+    "Loren, Rieseberg (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "Few studies have investigated the causes of evolutionary rate variation among plant nuclear genes, especially in recently diverged species still capable of hybridizing in the wild. The recent advent of Next Generation Sequencing (NGS) permits investigation of genome wide rates of protein evolution and the role of selection in generating and maintaining divergence. Here, we use individual whole-transcriptome sequencing (RNAseq) to refine our understanding of the population genomics of a wild species of sunflowers (Helianthus spp.) and the factors that affect rates of protein evolution. We aligned 35 GB of transcriptome sequencing data and identified 433,257 polymorphic sites (SNPs) in a reference transcriptome comprising 16,312 genes. Using SNP markers, we identified strong population clustering largely corresponding to the three species analyzed here (Helianthus annuus, H. petiolaris, H. debilis), with one distinct early generation hybrid. Then, we calculated the proportions of adaptive substitution fixed by selection (alpha) and identified gene ontology categories with elevated values of alpha. The “response to biotic stimulus” category had the highest mean alpha across the three interspecific comparisons, implying that natural selection imposed by other organisms plays an important role in driving protein evolution in wild sunflowers. Finally, we examined the relationship between protein evolution (dN/dS ratio) and several genomic factors predicted to co-vary with protein evolution (gene expression level, divergence and specificity, genetic divergence [FST], and nucleotide diversity [pi]). We find that variation in rates of protein divergence was correlated with gene expression level and specificity, consistent with results from a broad range of taxa and timescales. This would in turn imply that these factors govern protein evolution both at a microevolutionary and macroevolutionary timescale. Our results contribute to a general understanding of the determinants of rates of protein evolution and the impact of selection on patterns of polymorphism and divergence."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.rs4k0",
+    "https://doi.org/10.5061/dryad.rs4k0"
+  ],
+  "dct_issued_s": "2012-10-29",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.rs4k0\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_title_s": "Data from: The population genomics of sunflowers and genomic determinants of protein evolution revealed by RNAseq",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b7a207b4-c610-54f2-8539-5fc3e2b64316",
+  "schema_provider_s": "Dryad"
+}

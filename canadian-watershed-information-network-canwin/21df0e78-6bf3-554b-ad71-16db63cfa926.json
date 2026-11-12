@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.37, -122.27, 54.48, 48.11)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal climatologies for temperature of the Northeast Pacific Ocean were computed to cover the period 2001 to 2020. Historical observations included all available conductivity-temperature-depth (CTD), bottle and profiling floats in the NODC World Ocean Database, Marine Environmental Data Services (MEDS), Institute of Ocean Sciences Water Properties website and the Canadian Integrated Ocean Observing System (CIOOS Pacific).\n\nMethods:\nInterpolation was carried out in up to fifty-two vertical levels from surface to 5000m. Data-Interpolating Variational Analysis (DIVA) was used for spatial interpolation for all years within each season and estimates projected onto a consistent grid. The average of the grid nodes was calculated to obtain the seasonal climatology. DIVA was used again on the final climatology followed by a median filter and a 5-point smoother. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March. The data available here contain raster layers of seasonal temperature climatologies for the Canadian Pacific Exclusive Economic Zone (EEZ), a subset of seasonal climatologies of the Northeast Pacific Ocean, in high spatial resolution of 1/300 degree.\n\nData Sources:\nNODC, MEDS, IOS and CIOOS Pacific Data.\n\nUncertainties:\nUncertainties are introduced when quality controlled observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7fb93f81-48e2-404b-9ba5-c131a15ec782"
+  ],
+  "dct_issued_s": "2023-03-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7fb93f81-48e2-404b-9ba5-c131a15ec782\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seasonal Temperature Climatology of the British Columbia Exclusive Economic Zone (2001-2020)",
+  "gbl_mdModified_dt": "2026-03-24T08:11:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "21df0e78-6bf3-554b-ad71-16db63cfa926",
+  "locn_geometry": "ENVELOPE(-140.37, -122.27, 54.48, 48.11)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Pékan",
+    "Lynx roux",
+    "Castor du Canada",
+    "Lynx du Canada",
+    "Coyote",
+    "Écureuil",
+    "Belette",
+    "Renard arctique",
+    "Rat musqué",
+    "Raton laveur",
+    "Renard roux",
+    "Vison Amérique",
+    "Loutre de rivière",
+    "Martre Amérique",
+    "Moufette rayée",
+    "SMAFP"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction générale de la gestion de la faune (DGGF)."
+  ],
+  "dct_description_sm": [
+    "Les statistiques historiques de piégeage au Québec contiennent le nombre de fourrures transigées pour chaque espèce d’animaux à fourrure dans chaque unité de gestion des animaux à fourrure ([UGAF](https://www.quebec.ca/tourisme-et-loisirs/activites-sportives-et-de-plein-air/piegeage/cartes-ugaf)) pour chaque année depuis 1917. Les espèces d’animaux à fourrure sont les suivantes : belettes, castor du Canada, coyote, écureuils, loup, loutre de rivière, lynx du Canada, lynx roux, martre d’Amérique, mouffette rayée, pékan, rat musqué, raton laveur, renard arctique, renard roux et vison d’Amérique.\r\n\r\nLes saisons de piégeage s’étendent de l’automne d’une année à l’hiver de l’année suivante (ex. octobre 2015 à mars 2016), ainsi les années sont inscrites de la manière suivante : 2015-2016.\r\n\r\nLes données disponibles entre 1917-1918 et 1983-1984 sont compilées pour l’ensemble de la province uniquement, pas par unité de gestion des animaux à fourrure ([UGAF](https://www.quebec.ca/tourisme-et-loisirs/activites-sportives-et-de-plein-air/piegeage/cartes-ugaf)). À partir de 1984-1985, les données sont présentées par UGAF.\r\n\r\n### Mise en garde\r\n\r\nLes données ne représentent pas la récolte d’animaux à fourrure mais les transactions de fourrures brutes. Il peut arriver que les prises d’une année soient reportées à l’année suivante ou soient absentes si le piégeur conserve ses fourrures pour un usage personnel. De plus, les animaux capturés dans un contexte de contrôle d’animaux importuns (hors saison de piégeage) n’apparaissent pas non plus dans ces statistiques.\r\n\r\nIl est à noter que les données ont été vérifiées et que des modifications ont été apportées pour assurer leur validité. Cependant, des incohérences ou des erreurs pourraient s’y être glissées.\r\n\r\nLes données jugées aberrantes (espèce dont la localisation est clairement en dehors de son aire de répartition connue (UGAF probablement erronée)) ont été déplacées dans l'UGAF indéterminée (UGAF 99).\r\n\r\nUne colonne « données non validées » est incluse dans la base de données. Ici, il n’y a pas de jugement si la donnée est vraie ou fausse, elle n’a juste pas été validée. Ainsi, les utilisateurs ne devraient pas prendre cette information pour une affirmation certaine. Cette indication a été ajoutée lorsqu’on est en présence d’une transaction localisée près de la limite de l’aire de répartition connue de l’espèce.\r\n\r\n### Informations importantes\r\n\r\nL'UGAF 99 n'existe pas concrètement. Les données qui ne sont pas spatialement localisées (UGAF inconnu) y sont versées afin que la compilation des prises totales par année reste juste.\r\n\r\nPlusieurs espèces peuvent être regroupées dans les statistiques de piégeage :\r\n\r\n* Les écureuils regroupent toutes les espèces d’écureuils, notamment l’écureuil roux (*Tamiasciurus hudsonicus*), l’écureuil gris (*Sciurus carolinensis*) et le grand polatouche (*Glaucomys sabrinus*).\r\n* Les belettes regroupent les deux espèces de belettes : pygmée (*Mustela nivalis*) et à longue queue (*Mustela frenata*) ainsi que l’hermine (*Mustela erminea*).\r\n* L’arrivée du coyote (*Canis latrans*) étant relativement récente au Québec, jusqu’en 1982-1983, les loups et les coyotes n’ont pas été différenciés dans les transactions de fourrures. C’est pourquoi, il est inscrit Loup-Coyote dans la colonne « espèce » entre 1944-1945 (date de la première mention de coyote au Québec) et 1982-1983. Ensuite (à partir de 1983-1984), les deux espèces ont été dissociées. Cependant, le loup est considéré absent au sud du fleuve St-Laurent depuis une centaine d’années. Malgré cela, plusieurs transactions attribuées à des loups apparaissent dans la base des données historiques de piégeage. Il peut s’agir d’une erreur de saisie ou d’une erreur d’identification basée sur la manière dont la fourrure a été apprêtée, ou peut-être d’un vrai loup isolé. Considérant le fort taux d’hybridation et la difficulté à les identifier sur la base de critères physiques, toutes les données de loups attribuées au sud du fleuve St-Laurent ont été identifiées \"Loup-Coyote\". Les données sur l’identité des loups et des coyotes doivent être considérées avec prudence.\r\n* Les renards arctiques incluent les différentes formes de coloration : blanc et bleu.\r\n* Les renards roux intègrent les différentes formes de coloration : roux, croisé, argenté.\r\n\r\nDate d’extraction des données : 2025-10-30\r\n\r\nLes données complémentaires des statistiques historiques de chasse du caribou, du cerf de virginie, du dindon sauvage et de l'orignal, ainsi que celles de la chasse et du piégeage de l'ours noir se retrouvent ici : \r\n\r\n[Statistiques historiques de chasse du gros gibier et de chasse/piégeage de l'ours noir au Québec](https://www.donneesquebec.ca/recherche/dataset/statistiques-historiques-de-chasse-et-piegeage-au-quebec)"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/9759b79f-5636-4f0a-b8b2-d47f37e32633"
+  ],
+  "dct_issued_s": "2025-03-04",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/9759b79f-5636-4f0a-b8b2-d47f37e32633\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Statistiques historiques de piégeage des animaux à fourrure au Québec",
+  "gbl_mdModified_dt": "2025-11-04T18:06:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b6f2f80e-cdcf-588a-a5f6-1b75e111bdb9",
+  "schema_provider_s": "Données Québec"
+}

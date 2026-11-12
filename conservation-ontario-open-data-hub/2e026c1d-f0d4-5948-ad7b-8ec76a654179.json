@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.93459550538248, -79.1972563928454, 44.05036971902164, 43.823705734931465)",
+  "dcat_keyword_sm": [
+    "vulnerability",
+    "TRSPA",
+    "groundwater",
+    "SWP",
+    "VSA",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SWP VSA Groundwater</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SWP_VSA_GROUNDWATER_FT</span></span></p><p style='margin:0 0 4 0;'><span>A feature representing a vulnerable scoring area (VSA) that affects Groundwater. A vulnerable score is a number, between 0.1 and 10, representing how easily a well or intake can become polluted with a contaminant. The higher the score, the greater the contamination risk. Both zones and scores are important to determine how the plan treats your proposed activity (i.e., landfill site). Shows how susceptible a drinking water source is to contamination. In general, WHPA and IPZ that score 8 and above are very vulnerable and certain activities will be prohibited or required to be managed more effectively. 0 - 3.9: water sources in this area are least vulnerable to contamination. 4 - 7.9: water sources in this area are less vulnerable to contamination. 8 - 10: water sources in this area are vulnerable to contamination.</span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OGF ID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric provincial identifier assigned to each object.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>VSA WHPA ID</span></span></p><p><span><span>VSA_WHPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>WHPA_ID in the VSA Groundwater class. Foreign key from the Wellhead Protection Area layer.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>4</span></span></p></td><td><p><span><span>Intrinsic Vulnerable Level</span></span></p><p><span><span>INTRINSIC_VULNERABLE_LEVEL</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>VARCHAR2(10)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A broad grouping of vulnerability values into levels of High, Medium, and Low. This will be derived from grouping index values for ISI (Intrinsic Susceptibility Index) and AVI (Aquifer Vulnerability Index) or grouping years from SWAT (Surface to well advection time).</span></span></p><p style='margin:16 0 4 0;'><span><span>VALID VALUES</span></span><span><span>: </span></span></p><p style='margin:3 0 3 0;'><span><span>Low</span></span></p><p style='margin:3 0 3 0;'><span><span>Medium</span></span></p><p style='margin:3 0 3 0;'><span><span>High</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>5</span></span></p></td><td><p><span><span>Vulnerability Score</span></span></p><p><span><span>VULNERABILITY_SCORE</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>Ranges from 2,4,6,8 or10, with 10 being most vulnerable of the 5 values. Technical rules outline how to assign this, typically based on the Time of Travel zone and/or the relative Vulnerability Level.</span></span></p><p style='margin:16 0 4 0;'><span><span>VALID VALUES</span></span><span><span>: </span></span></p><p style='margin:3 0 3 0;'><span><span>2</span></span></p><p style='margin:3 0 3 0;'><span><span>4</span></span></p><p style='margin:3 0 3 0;'><span><span>6</span></span></p><p style='margin:3 0 3 0;'><span><span>8</span></span></p><p style='margin:3 0 3 0;'><span><span>10</span></span></p></td></tr><tr><td><p><span /><span>6</span></p></td><td><p><span>WHPA_SCORE</span></p></td><td><p><span /><span>VARCHAR2(</span><span>2</span><span>)</span></p></td><td><p><span>Yes</span></p></td><td><p><span>The WHPA zone (A, B, C, D) associated with this vulnerability score</span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>7</span></span></p></td><td><p><span>Wellfield</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>VARCHAR2(50)</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>No</span></p></td><td><p style='margin:4 0 4 0;'><span>Local name of water system</span></p></td></tr></tbody></table><table><tbody><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr></tbody></table></div></div></div></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "f496d0ddd70e41d3ba8f73ea89bdf495",
+    "https://www.arcgis.com/home/item.html?id=f496d0ddd70e41d3ba8f73ea89bdf495"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-groundwater-vulnerable-scoring-areas\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Groundwater Vulnerable Scoring Areas",
+  "gbl_mdModified_dt": "2024-04-11T22:38:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2e026c1d-f0d4-5948-ad7b-8ec76a654179",
+  "locn_geometry": "ENVELOPE(-79.93459550538248, -79.1972563928454, 44.05036971902164, 43.823705734931465)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

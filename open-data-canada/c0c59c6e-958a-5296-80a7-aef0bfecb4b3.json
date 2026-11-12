@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.0863, -49.3855, 49.8781, 33.0886)",
+  "dcat_keyword_sm": [
+    "Marine biology",
+    "Oceans",
+    "Environnement",
+    "Mouvements saisonniers Sites d'alimentation",
+    "Biologie marine",
+    "Environment",
+    "Seasonal Movements Feeding Areas",
+    "Océan",
+    "Rorqual bleu",
+    "Blue Whale"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Rorqual bleu - Trajectoires et localisation des aires restreintes de recherche"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada."
+  ],
+  "dct_description_sm": [
+    "The blue whale (Balaenopterus musculus) is a wide-ranging cetacean that can be found in all oceans, inhabiting coastal and oceanic habitats. In the North Atlantic, little is known about blue whale distribution and genetic structure, and if whether animals found in Icelandic waters, the Azores, or Northwest Africa are part of the same population as those from the Northwest Atlantic. In the Northwest Atlantic, seasonal movements of blue whales and habitat use, including the location of breeding and wintering areas, are poorly understood.\n\nThe behaviour of remotely-monitored animals can be inferred from a time series of location data. This is because animals tend to demonstrate stochasticity in their movement paths as a result of spatial variation in environmental characteristics, such as topography or prey density (Curio 1976; Gardner et al. 1989; Turchin 1991; Wiens et al. 1993). Predators are expected to decrease travel speed and/or increase turning frequency and turning angle when a suitable resource, e.g., food patch, is encountered (Turchin 1991), otherwise known as area-restricted search (ARS). In contrast, animals in transit or travelling tend to move at faster and more regular speeds, with infrequent and smaller turning angles (Kareiva and Odell 1987; Turchin 1998).\n\nBased on satellite telemetry to track the seasonal movements of 24 blue whales from eastern Canada in 2002 and from 2010 to 2015, it was possible to estimate trajectories and locations where ARS behaviour of blue whales was inferred at a 4h time interval.\n\nTo assess blue whale movements and behavior, a Bayesian switching statespace model (SSSM) was applied to Argos-derived telemetry data (Jonsen et al. 2005; Jonsen et al. 2013). An SSSM essentially estimates animal location at fixed time intervals, movement parameters and behavioral patterns.\n\nTwo important sources of uncertainty can be measured separately: estimation error resulting from inaccurate observations (Argos location error) and process variability linked to the stochasticity of the movement process (behavior mode estimation) (Jonsen et al. 2003; Patterson et al. 2008).\n\nThe points visible on land are the result of errors in the Argos geographic position calculation. They have been deliberately left unchanged to assess the performance of the model, which was able to clean up some positions, but not all.\n\nLesage, V., Gavrilchuk, K., Andrews, R.D., and Sears, R. 2016. Wintering areas, fall movements and foraging sites of blue whales satellite-tracked in the Western North Atlantic. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/078. v + 38 p.",
+    "Le rorqual bleu (Balaenopterus musculus) est un cétacé qui se déplace sur de grandes distances et qui se retrouve dans tous les océans du monde, occupant des habitats côtiers autant que hauturiers. Dans l’Atlantique Nord, nous en savons peu sur la distribution et la structure génétique du rorqual bleu, et l’appartenance des animaux trouvés dans les eaux de l’Islande, des Açores, du nord-ouest de l’Afrique et du Nord-Ouest Atlantique à une seule et même population demeure incertaine. Dans le nord-ouest Atlantique, les mouvements saisonniers des rorquals bleus et leur utilisation de l’habitat, incluant l’emplacement des aires d’hivernage et de reproduction sont peu connus.\n\nLe comportement des animaux surveillés à distance peut être déduit d'une série chronologique de données de localisation. En effet, les animaux ont tendance à démontrer une stochasticité dans leurs trajectoires de déplacement en raison de la variation spatiale des caractéristiques environnementales, telles que la topographie ou la densité des proies (Curio 1976; Gardner et al.1989; Turchin 1991; Wiens et al.1993). On s'attend à ce que les prédateurs réduisent la vitesse de déplacement et / ou augmentent la fréquence de virage et l'angle de braquage lorsqu'une ressource appropriée, par exemple, une parcelle de nourriture, est rencontrée (Turchin 1991), également connue sous le nom d'aire restreinte de recherche (ARS). En revanche, les animaux en transit ou en déplacement ont tendance à se déplacer à des vitesses plus rapides et plus régulières, avec des angles de braquage peu fréquents et plus petits (Kareiva et Odell 1987; Turchin 1998).\n\nEn se basant sur la télémétrie satellite afin de suivre les déplacements saisonniers de rorquals bleus de l'est du Canada en 2002 et de 2010 à 2015, il a été possible d'estimer les trajectoires  et les endroits où un comportement d'ARS de rorqual bleu a été déduit sur des intervalles de quatre heures.\n\nPour évaluer les mouvements et le comportement des rorquals bleues, un modèle d'espace d'état de commutation bayésien (switching statespace model - SSSM) a été appliqué aux données télémétriques dérivées d'Argos (Jonsen et al. 2005 ; Jonsen et al. 2013). Un SSSM estime essentiellement la localisation des animaux à des intervalles de temps fixes, les paramètres de mouvement et les modes de comportement.\n\nDeux sources importantes d'incertitude peuvent être mesurées séparément : l'erreur d'estimation résultant d'observations inexactes (erreur de localisation Argos) et la variabilité du processus liée à la stochasticité du processus de mouvement (estimation du mode de comportement) (Jonsen et al. 2003 ; Patterson et al. 2008).\n\nLes points visibles sur la terre proviennent des erreurs dans le calcul de la position géographique par Argos. Ils ont volontairement été laissés tels quels pour évaluer la performance du modèle qui a été en mesure de nettoyer quelques positions, mais pas l’ensemble.\n\nLesage, V., Gavrilchuk, K., Andrews, R.D., and Sears, R. 2016. Wintering areas, fall movements and foraging sites of blue whales satellite-tracked in the Western North Atlantic. Secr. can. de consult. sci. du MPO. Doc. de rech. 2016/078. v + 38 p. [Disponible en anglais seulement]"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c9ce635c-a6e6-430b-95da-62241d03ceba"
+  ],
+  "dct_issued_s": "2016-09-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c9ce635c-a6e6-430b-95da-62241d03ceba\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Blue whale - Trajectories and locations of Area-Restricted Search",
+  "gbl_mdModified_dt": "2026-03-24T08:03:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c0c59c6e-958a-5296-80a7-aef0bfecb4b3",
+  "locn_geometry": "ENVELOPE(-76.0863, -49.3855, 49.8781, 33.0886)",
+  "schema_provider_s": "Open Data Canada"
+}

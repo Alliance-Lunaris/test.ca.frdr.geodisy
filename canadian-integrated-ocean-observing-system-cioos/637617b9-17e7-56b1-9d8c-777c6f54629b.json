@@ -1,0 +1,81 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.203872, -66.203872, 44.308806, 44.308806)",
+  "dcat_keyword_sm": [
+    "airpressure",
+    "batterytempc",
+    "wave-spread",
+    "hail-intensity",
+    "seasurfacewindwavedirectionalspread",
+    "battery-level---volts",
+    "temperature",
+    "etat-de-la-mer",
+    "wind-speed",
+    "vents",
+    "seawatertemperature",
+    "oceans",
+    "seasurfacewavesignificantheight",
+    "sample-quality",
+    "windfromdirection",
+    "pressure",
+    "seasurfacewavemaximumheight",
+    "niveau-de-leau",
+    "water-temperature",
+    "temperature-sous-la-surface",
+    "seasurfaceheight",
+    "air-pressure",
+    "temperature-de-leau",
+    "pression",
+    "subsurfacetemperature",
+    "wind",
+    "timestamp",
+    "seastate",
+    "seasurfacewavefromdirection",
+    "waves",
+    "wind-from",
+    "airtemperature",
+    "air-temperature",
+    "wind-direction",
+    "relativehumidity",
+    "peak-wave-period",
+    "humidity-percent",
+    "pression-atmospherique",
+    "stratiformrainfallrate",
+    "significant-wave-height",
+    "vagues",
+    "seasurfacewavemaximumperiod",
+    "atmospheric-pressure",
+    "compass-direction",
+    "windspeed",
+    "wave-direction",
+    "rain-intensity",
+    "maximum-wave-height"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Marine Applied Research (CMAR)."
+  ],
+  "dct_description_sm": [
+    "This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in St. Mary's Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia's coastal resources.",
+    "Cet ensemble de données est recueilli au moyen d'une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie St. Mary's, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l'aide d'un capteur Brizo fabriqué par Xeos, température de la mer à l'aide d'un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l'air, humidité, température de l'air, Intensité de pluie et intensité de grêle) à l'aide de capteurs Vaisala. Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l'avancement des ressources côtières de la Nouvelle-Écosse."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b6aeb0ce-cea6-4b33-bb19-3c39c9046711"
+  ],
+  "dct_issued_s": "2020-07-16",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b6aeb0ce-cea6-4b33-bb19-3c39c9046711\"}",
+  "dct_rights_sm": [
+    "government-open-license-nova-scotia"
+  ],
+  "dct_title_s": "CMAR - St. Mary's Bay",
+  "gbl_mdModified_dt": "2026-09-04T17:29:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "637617b9-17e7-56b1-9d8c-777c6f54629b",
+  "locn_geometry": "ENVELOPE(-66.203872, -66.203872, 44.308806, 44.308806)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,73 @@
+{
+  "dcat_keyword_sm": [
+    "weight",
+    "Oncorhynchus nerka",
+    "survivorship",
+    "delta method",
+    "variance",
+    "capture history",
+    "CJS model",
+    "RMark",
+    "length",
+    "metadata",
+    "variance covariance matrix",
+    "cumulative survival",
+    "Conservation Biology",
+    "survival estimation",
+    "sockeye salmon",
+    "data summary",
+    "Program MARK",
+    "Transcriptomics",
+    "survival estimates"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jeffries, Ken M. (University of Manitoba, University of British Columbia).",
+    "Hinch, Scott G. (University of British Columbia).",
+    "Gale, Marika Kirsten (Fisheries and Oceans Canada).",
+    "Clark, Timothy D. (Australian Institute of Marine Science).",
+    "Lotto, Andrew G. (University of British Columbia).",
+    "Casselman, Matthew T. (University of British Columbia).",
+    "Li, Shaorong (Fisheries and Oceans Canada).",
+    "Rechisky, Erin L. (Kintama Research Services Ltd; Nanaimo BC V9S 3B3 Canada).",
+    "Porter, Aswea D. (Fisheries and Oceans Canada).",
+    "Welch, David W. (Kintama (Canada), Kintama Research Services Ltd; Nanaimo BC V9S 3B3 Canada).",
+    "Miller, Kristina M. (Fisheries and Oceans Canada).",
+    "Gale, Marika Kirstin (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/qo8sy3T1HR2z2L4ISHhViwUKPztkyZgh4rCUodP3CNA</p>\n<p><b>Storage size:</b> 194456</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>We present the first data to link physiological responses and pathogen presence with subsequent fate during migration of wild salmonid smolts. We tagged and non-lethally sampled gill tissue from sockeye salmon (Oncorhynchus nerka) smolts as they left their nursery lake (Chilko Lake, BC, Canada) to compare gene expression profiles and freshwater pathogen loads with migration success over the first ~1150 km of their migration to the North Pacific Ocean using acoustic telemetry. Fifteen percent of smolts were never detected again after release and these fish had gene expression profiles consistent with an immune response to one or more viral pathogens compared with fish that survived their freshwater migration. Among the significantly up-regulated genes of the fish that were never detected post-release were MX (Interferon-induced GTP-binding Protein Mx) and STAT1 (Signal transducer and activator of transcription 1-alpha/beta), which are characteristic of a type I interferon response to viral pathogens. The most commonly detected pathogen in the smolts leaving the nursery lake was infectious hematopoietic necrosis virus (IHNV). Collectively, these data show that some of the fish assumed to have died after leaving the nursery lake appeared to be responding to one or more viral pathogens and had elevated stress levels that could have contributed to some of the mortality shortly after release. We present the first evidence that changes in gene expression may be predictive of some of the fresh water migration mortality in wild salmonid smolts.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">RMark Survival Estimation for Chilko 2012</h4><div class=\"o-metadata__file-description\">This file contains the R script used to estimate survival of Chilko Lake sockeye smolts with a Cormack-Jolly-Seber model using Program MARK via RMark.</div><div class=\"o-metadata__file-name\">Survival_Estimation_for_Chilko2012_compare_clip_status.r</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">CH_RMark Chilko sockeye survival</h4><div class=\"o-metadata__file-description\">This file contains the capture histories (CH), or technically the detection histories, for acoustic tagged Chilko Lake sockeye. This file is called by the accompanying R script to produce survival and detection probabilities.</div><div class=\"o-metadata__file-name\">CH_RMark2013-08-13_V7_NO_FAR_or_MISS.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Delta_Method_for_Chilko2012</h4><div class=\"o-metadata__file-description\">This file contains the R script used to estimate the variance on the Chilko sockeye cumulative survival estimates using the delta method.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Chilko Lake sockeye survival estimates</h4><div class=\"o-metadata__file-description\">This file contains the Chilko Lake sockeye CJS survival estimates which are used to calculate cumulative survival. This file is called by the accompanying delta method R script.</div><div class=\"o-metadata__file-name\">Estimates_V7_p67.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">VCV matrix</h4><div class=\"o-metadata__file-description\">This file contains the Chilko Lake sockeye CJS variance-covariance estimates which are used to calculate the variance on cumulative survival estimates. This file is called by the accompanying delta method R script.</div><div class=\"o-metadata__file-name\">realVCmatrix_V7_p67.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Jeffries et al. Chilko Lake Sockeye Salmon Smolt data summary</h4><div class=\"o-metadata__file-description\">This file summarizes data collected on acoustic tagged Chilko Lake sockeye salmon smolts including tag ID, length, weight, fish IDs for qPRC analysis, survival group and detection history.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Jeffries et al. Data from laboratory gill sampling validation study</h4><div class=\"o-metadata__file-description\">This file contains the data from a preliminary study on smolt-sized sockeye salmon to validate that gill sampling and tagging fish would have minimal effect on survival.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Jeffries et al. qPCR results for Pathogen screening</h4><div class=\"o-metadata__file-description\">This file contains the qPCR results from the pathogen screening conducted on gill samples from 2012 2 year old Chilko Lake sockeye salmon smolts, and archived gill samples of fish from the same cohort, a co-migrating cohort, or the parent generation.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Jeffries et al. qPCR results for 2012 2 yr old smolt gene expression assays</h4><div class=\"o-metadata__file-description\">This file contains the qPCR results from the 50 genes that were assayed in gill tissue collected from 2 year old Chilko Lake sockeye salmon smolts in 2012.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152446_1226260_150149",
+    "https://doi.org/10.5683/SP2/0BF8EV"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/0BF8EV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Immune response genes and pathogen presence predict migration survival in wild salmon smolts",
+  "gbl_mdModified_dt": "2021-05-20T01:19:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "25302c58-23f2-5f02-bbc9-c1c4b80a9ce9",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

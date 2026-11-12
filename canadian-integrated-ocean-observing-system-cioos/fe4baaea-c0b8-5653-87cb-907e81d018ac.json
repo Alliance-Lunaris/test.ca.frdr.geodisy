@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.5, -60.0, 81.45, 74.45)",
+  "dcat_keyword_sm": [
+    "multibeam",
+    "backscatter",
+    "other",
+    "acoustic",
+    "bathymetry",
+    "greenland",
+    "oceans",
+    "arcticnet",
+    "hydrography",
+    "autre",
+    "arctic-ocean",
+    "maps",
+    "greenland-economic-exclusive-zone",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de sonar multifaisceaux du CCGS Amundsen pour la zone économique exclusive du Groenland"
+  ],
+  "dct_creator_sm": [
+    "Clarke, John Hughes.",
+    "Ian, Church.",
+    "James, Muggah."
+  ],
+  "dct_description_sm": [
+    "Datasets were collected and processed by the Ocean Mapping Group, University of New Brunswick. Accoustic data was generated from the multibeam Kongsberg Simrad EM302 multibeam sonar system onboard the CCGS Amundsen during ArcticNet Cruises. This bathymetric data subset covers the Greenland Economic Exclusive Zone (EEZ), i.e. outside of the 12 nm territorial sea extent and within the 200 nm EZZ, from 2005 to 2011 and 2013. The datasets consist of high-resolution bathymetry and acoustic backscatter imagery collected 24 hours a day, whenever the ship was in transit or had dedicated survey time. Standard collection settings used dual-ping, FM pulse, auto depth mode, angular coverage of +/- 60 degrees and high-density equidistant beamforming. SIS was used to collect the data, while near realtime cleaning of data outliers was done using the Ocean Mapping Group's Swathed toolkit after conversion to OMG binary format. IMU data was parsed by the SIS software from a POSMv 320 v.4. RTG GPS data from the CNav GPS was used to correct and improve the position output from the POSMv. Soundspeed information was either from CTD Rosette casts, MVP300 data or simulated from the World Ocean Atlas 2001 database. Data were gridded at a resolution of 10 metres. Grid files available are in ESRI grid format (.flt and .hdr files zipped for each mapsheet for the data from 2005 to 2011, and .asc files for the data of 2013). Futher information on data processing and on the Ocean Mapping Group activities are online at http://www.omg.unb.ca/Projects/Arctic/",
+    "Les ensembles de données ont été collectés et traités par l'Ocean Mapping Group de l'Université du Nouveau-Brunswick. Les données acoustiques ont été générées par le système de sonar multifaisceaux Kongsberg Simrad EM302 à bord du CCGS Amundsen lors des croisières ArcticNet. Ce sous-ensemble de données bathymétriques couvre la zone économique exclusive (ZEE) du Groenland, c'est-à-dire en dehors de l'étendue de la mer territoriale de 12 nm et à l'intérieur de la ZZE de 200 nm, de 2005 à 2011 et 2013. Les ensembles de données se composent d'images bathymétriques à haute résolution et de rétrodiffusion acoustique collectées 24 heures sur 24, chaque fois que le navire était en transit ou bénéficiait d'une période d'étude dédiée. Les paramètres de collecte standard utilisaient le double ping, l'impulsion FM, le mode de profondeur automatique, une couverture angulaire de +/- 60 degrés et une formation de faisceaux équidistante à haute densité. Le SIS a été utilisé pour collecter les données, tandis que le nettoyage en temps quasi réel des valeurs aberrantes a été effectué à l'aide de la boîte à outils Swathed de l'Ocean Mapping Group après conversion au format binaire OMG. Les données IMU ont été analysées par le logiciel SIS à partir d'un POSmv 320 v.4. Les données GPS RTG du GPS cNav ont été utilisées pour corriger et améliorer la sortie de position du PoSMV. Les informations sur la vitesse du son provenaient soit des moulages CTD Rosette, soit des données MVP300, soit simulées à partir de la base de données de l'Atlas océanique mondial 2001. Les données ont été quadrillées à une résolution de 10 mètres. Les fichiers de grille disponibles sont au format de grille ESRI (fichiers .flt et .hdr compressés pour chaque feuille de carte pour les données de 2005 à 2011, et fichiers .asc pour les données de 2013). De plus amples informations sur le traitement des données et sur les activités du Ocean Mapping Group sont disponibles en ligne à l'adresse http://www.omg.unb.ca/Projects/Arctic/"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/9687998b-2815-49d4-811e-16c78a05041b"
+  ],
+  "dct_issued_s": "2016-04-06",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/9687998b-2815-49d4-811e-16c78a05041b\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Multibeam Sonar Data from the CCGS Amundsen for the Greenland Exclusive Economic zone",
+  "gbl_mdModified_dt": "2026-07-31T16:46:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe4baaea-c0b8-5653-87cb-907e81d018ac",
+  "locn_geometry": "ENVELOPE(-75.5, -60.0, 81.45, 74.45)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

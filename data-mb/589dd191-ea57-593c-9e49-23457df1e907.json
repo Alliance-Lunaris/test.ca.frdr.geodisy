@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.88466402224435, -93.68317513926459, 58.79356669488149, 48.998928158579176)",
+  "dcat_keyword_sm": [
+    "Office of the Fire Commissioner",
+    "Canada",
+    "Government",
+    "OFC",
+    "Province of Manitoba",
+    "restriction",
+    "burn",
+    "municipal",
+    "fire",
+    "mutual aid district",
+    "Manitoba Government",
+    "Manitoba",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div>This feature layer shows the current municipal burning restrictions in Manitoba.<br /></div><div><br /></div><div><u>Fields included</u><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'> (</span><b>Alias</b><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'> (Field Name): Field description.)</span><br /></div><div><div><p style='margin-top:0px; margin-bottom:0px;'></p><ul><li><b>OBJECTID</b> (OBJECTID): Sequential unique whole numbers that are automatically generated.</li><li><b>Municipality </b>(Municipality): Legal name of the municipality</li><li><b>Mutual Aid District</b> (Mutual_Aid_District): Name of the mutual aid district.  The Mutual Aid System is a no-charge, reciprocal system of emergency response and assistance that towns, villages and municipalities in southern Manitoba can access through their local fire departments.  For more information about mutual aid districts, please refer to the <a href='http://www.firecomm.gov.mb.ca/support_mutualaid.html' rel='nofollow ugc' target='_blank'>Office of the Fire Commissioner website</a>.</li><li><b>Telephone </b>(Telephone): Phone number for the municipal office.</li><li><b>Email </b>(Email): Email address for the municipal office.</li><li><b>Restrictions Flag</b> (Restrictions_Flag): Number indicating the presence or absence of municipal burning restrictions where 1 = &quot;Burning Restrictions&quot; and 0 = &quot;No Restrictions&quot;.</li><li><b>Current Restrictions</b> (Current _Restrictions): Description of the burning restriction notice.</li></ul></div><div><div>The Office of the Fire Commissioner (OFC) asks all municipalities to inform the OFC immediately at <a href='mailto:firecomm@gov.mb.ca' rel='nofollow ugc' target='_blank'>firecomm@gov.mb.ca</a> when implementing or changing the status of municipal burning restrictions during times of high fire danger conditions.<br /></div><div><br /></div><div><div>Contact the OFC if you have questions about the municipal burning restrictions:<br /></div><div><div><ul><li>by email at <a href='mailto:firecomm@gov.mb.ca' rel='nofollow ugc' target='_blank'>firecomm@gov.mb.ca</a></li><li>by phone at 204-945-3322 (toll free 1-800-282-8069)</li></ul>Contact the appropriate municipal office if you have questions about restrictions in specific municipalities.</div></div></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "1f308d1b5fa24df1aef424f3b7dfdd5f",
+    "https://www.arcgis.com/home/item.html?id=1f308d1b5fa24df1aef424f3b7dfdd5f"
+  ],
+  "dct_issued_s": "2019-11-28",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-current-municipal-burning-restrictions-layer\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Current Municipal Burning Restrictions Layer",
+  "gbl_mdModified_dt": "2022-10-26T15:58:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "589dd191-ea57-593c-9e49-23457df1e907",
+  "locn_geometry": "ENVELOPE(-101.88466402224435, -93.68317513926459, 58.79356669488149, 48.998928158579176)",
+  "schema_provider_s": "Data MB"
+}

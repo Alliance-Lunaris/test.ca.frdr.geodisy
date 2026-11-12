@@ -1,0 +1,74 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_keyword_sm": [
+    "Snow",
+    "Fournir des services et des produits d'information sur les conditions météorologiques",
+    "Température de l'air",
+    "Non Classifié",
+    "Weather and Climate",
+    "Internationale",
+    "Précipitation",
+    "Humidité",
+    "Neige",
+    "International",
+    "Weather and Environmental Operations",
+    "Prévisions météorologiques",
+    "Prévisions probabilistes",
+    "Deliver Weather Products and Services to Clients",
+    "Air temperature",
+    "Livrer des produits et des services météorologiques aux clients",
+    "Service météorologique du Canada",
+    "Meteorological data",
+    "Ensemble",
+    "Ensemble",
+    "Temps et climat",
+    "Unclassified",
+    "Données météorologiques",
+    "Opérations météorologiques et environnementales",
+    "Precipitation",
+    "Wind",
+    "Global",
+    "Global",
+    "Vent",
+    "Humidity",
+    "Provide Weather Information Products and Services",
+    "Probabilistic predictions",
+    "Weather forecasts",
+    "Meteorological Service of Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Système global de prévision d'ensemble"
+  ],
+  "dct_creator_sm": [
+    "National Inquiry Response Team / Équipe nationale de réponse des demandes du public."
+  ],
+  "dct_description_sm": [
+    "The Global Ensemble Prediction System (GEPS) carries out physics calculations to arrive at probabilistic predictions of atmospheric elements from the current day out to 16 days into the future (up to 39 days twice a week on Mondays and Thursdays at 00UTC for calculating forecast anomalies). The GEPS produces different outlooks (scenarios) to estimate the forecast uncertainties due to the nonlinear (chaotic) behavior of the atmosphere. The probabilistic predictions are based on an ensemble of 20 scenarios that differ in their initial conditions, their physics parameters which are randomly perturbed by a Stochastic Parameter Perturbation (SPP) method, and the stochastic perturbations (kinetic energy). A control member that is not perturbed is also available. Weather elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage is global. Data is available on some fifteen vertical levels on a global latitude-longitude uniform grid with 0.5 degree horizontal resolution (about 39km). Predictions are performed twice a day.",
+    "Le Système global de prévision d'ensemble (SGPE) procède à des calculs physiques afin de produire des prévisions probabilistes d'éléments de l'atmosphère du jour présent jusqu'à 16 jours dans le futur (jusqu'à 39 jours les lundis et jeudis à 00 UTC pour le calcul des anomalies de prévision). Le SGPE génère différentes prévisions (scénarios) pour estimer les incertitudes des prévisions causées par le comportement non-linéaire (chaotique) de l'atmosphère. Les prévisions probabilistes sont basées sur un ensemble de 20 scénarios qui diffèrent par leurs conditions initiales, leurs paramètres physiques qui sont aléatoirement perturbés par la méthode de Perturbation des Paramètres Stochastiques (SPP) ainsi que des perturbations stochastiques (énergie cinétique). Un membre de contrôle qui n'est pas perturbé est également disponible. Les éléments de l'atmosphère incluent notamment la température, les précipitations, le couvert nuageux, la vitesse et direction des vents, l'humidité et autres. Ce produit contient les résultats numériques bruts de ces calculs. La couverture géographique est globale. Les données sont disponibles sur une quinzaine de niveaux verticaux sur une grille latitude-longitude uniforme globale avec une résolution horizontale de 0.5 degré (environ 39km). Les prévisions sont exécutées deux fois par jour."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6d9dd2f8-202e-58cb-a110-e2168832aacb"
+  ],
+  "dct_issued_s": "2022-05-02",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6d9dd2f8-202e-58cb-a110-e2168832aacb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Global Ensemble Prediction System",
+  "gbl_mdModified_dt": "2025-10-15T19:43:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eaa3af3a-3e82-5e3f-b407-7b9bab94a250",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Open Data Canada"
+}

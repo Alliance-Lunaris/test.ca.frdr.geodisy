@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Atmosphère",
+    "EALCO",
+    "Base de données",
+    "Eau de surface",
+    "Lac",
+    "Climat",
+    "Climate",
+    "Databases",
+    "Lakes",
+    "Surface water",
+    "Hydrologie",
+    "Atmosphere",
+    "Hydrology",
+    "Eau",
+    "Observation de la terre",
+    "Earth Observation",
+    "Water",
+    "AEOCT"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Évaporation de surface de l'eau sur la masse continentale du Canada"
+  ],
+  "dct_creator_sm": [
+    "Wang, Shusen."
+  ],
+  "dct_description_sm": [
+    "The datasets contain water surface evaporation (PET, in mm of H2O) over Canada's landmass at a spatial resolution of 10-km and temporal intervals of a month and a year over a 24-year period of 2000-2023. The PET was produced by the Land Surface Model EALCO (Ecological Assimilation of Land and Climate Observations) developed at Natural Resources Canada. The PET algorithm in EALCO integrates the dynamic surface evolutions of liquid water, ice, and snow-on-ice for a waterbody into the Penman Equation. The PET was simulated at a daily time step. The monthly (or annual) PET in the datasets is the sum of the daily PET values in a month (or a year). Dew and frost formations simulated by EALCO are included in the PET as negative values, so the PET represents the net water flux between water surface and the atmosphere. Details of the dataset and the EALCO PET modelling algorithms can be found in Li, Wang, and Li (2020, Spatial variations and long‑term trends of potential evaporation in Canada. Scientific Reports, 10: 22089, doi.org/10.1038/s41598-020-78994-9).",
+    "Les ensembles de données contiennent des données sur l’évaporation à la surface de l’eau (évapotranspiration potentielle [ETP], en mm de H2O) au-dessus de la masse terrestre du Canada à une résolution spatiale de 10 km et à des intervalles temporels d’un mois et d’un an sur une période de 24 ans allant de 2000 à 2023. L’ETP a été produite par le modèle de surface terrestre EALCO (Ecological Assimilation of Land and Climate Observations) mis au point par Ressources naturelles Canada. L’algorithme d’ETP d’EALCO intègre dans l’équation de Penman l’évolution dynamique de la surface de l’eau liquide, de la glace et de la neige sur la glace d’un plan d’eau. L’ETP a été simulée au pas de temps quotidien. L’ETP mensuelle (ou annuelle) dans les ensembles de données correspond à la somme des valeurs de l’ETP quotidienne dans un mois (ou une année). Les formations de rosée et de givre simulées par EALCO sont incluses dans l’ETP sous forme de valeurs négatives, de sorte que l’ETP représente le flux d’eau net entre la surface de l’eau et l’atmosphère. Les détails de l’ensemble de données et des algorithmes de modélisation de l’ETP par l’EALCO se trouvent dans Li, Wang et Li (2020, Spatial variations and long term trends of potential evaporation in Canada. Scientific Reports, 10:22089, doi.org/10.1038/s41598-020-78994-9)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7a600d2a-ea0f-4dd5-bb4c-71fffe17b9ca"
+  ],
+  "dct_issued_s": "2024-08-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7a600d2a-ea0f-4dd5-bb4c-71fffe17b9ca\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Water Surface Evaporation over Canada's Landmass",
+  "gbl_mdModified_dt": "2024-10-29T14:40:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9526fc0f-b02d-598d-b68e-bfdb69ace763",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

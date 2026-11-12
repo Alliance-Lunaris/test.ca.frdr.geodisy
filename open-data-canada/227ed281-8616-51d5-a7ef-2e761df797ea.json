@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Géoréférencement",
+    "Adresses géolocalisées",
+    "Base de donnees adresses",
+    "Localisation des adresses",
+    "Fichier adresses",
+    "Adresses municipales",
+    "Adresses municipales Québec",
+    "Adresses",
+    "Information gouvernementale",
+    "Référentiel adresses",
+    "Géolocalisation",
+    "Adresses civique Québec",
+    "Adresses civiques",
+    "Points adresse",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l’information géospatiale."
+  ],
+  "dct_description_sm": [
+    "Please note that a web service is currently under development and will be launched in summer 2026. To be informed as soon as it is posted online and to stay up to date with geospatial news, subscribe to our newsletter [ActuGéo.] (https://mrnf.gouv.qc.ca/ministere/cartes-information-geographique/repertoire-services-web-donnees-geographiques/actugeo/)\n\nThe Quebec Address Repository (RQA) includes all municipal addresses in Quebec as well as several attributes associated with them, including the following main components:\n\n* The municipal number\n\n* The suffix\n\n* The unit (apartment/office/premises)\n\n* The name of the street (odonym)\n\n* The name and code of the municipality\n\n* The MO postal code\n\n* The main use (category)\n\n* The date of creation, modification and withdrawal\n\n* Latitude and longitude\n\n* Etc.\n\nThis repository of geolocated addresses is updated monthly, and is available in a single file format (*flat file*).\n\nA [CSV file] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/Odonymes_Renvois/CSV/Odonymes_renvois.csv) containing all the odonyms as well as the references is also available in the data section below. Referrals allow you to track changes in street names. \n\nThe RQA is the result of the integration of data in collaboration with the municipal sector and production partners: Élections Québec, the Ministry of Municipal Affairs and Housing, and the Ministry of Transport and Sustainable Mobility. \n\nThe RQA can be used in addition to the [Quebec Road Network Framework (RQRR)] (https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-du-reseau-routier).\n\n* “Postal Code” is an official trademark of Canada Post Corporation***This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Veuillez noter qu’un service Web est présentement en développement et sera lancé à l'été 2026 . Pour être informé dès sa mise en ligne et rester à l’affût des nouveautés géospatiales, abonnez-vous à notre infolettre [ActuGÉO.](https://mrnf.gouv.qc.ca/ministere/cartes-information-geographique/repertoire-services-web-donnees-geographiques/actugeo/)\n\nLe Référentiel québécois des adresses (RQA) regroupe l’ensemble des adresses municipales du territoire québécois ainsi que plusieurs attributs qui y sont associés, notamment les composantes principales suivantes :\n\n* Le numéro municipal\n\n* Le suffixe\n\n* L’unité (appartement/bureau/locaux)\n\n* Le nom de la rue (odonyme)\n\n* Le nom et le code de la municipalité\n\n* Le code postal MO\n\n* L’usage principal (catégorie)\n\n* La date de création, de modification et de retrait\n\n* La latitude et la longitude\n\n* Etc.\n\nCe référentiel d’adresses géolocalisées est mis à jour mensuellement, et il est offert dans un format de type fichier unique (*flat file*).\n\nUn [fichier CSV](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/Odonymes_Renvois/CSV/Odonymes_renvois.csv) contenant l’ensemble des odonymes ainsi que les renvois est également disponible dans la section données ci-dessous. Les renvois permettent d’effectuer le suivi des modifications apportées aux noms de rues. \n\nLe RQA est issu de l’intégration de données en collaboration avec le milieu municipal et les partenaires de production : Élections Québec, le ministère des Affaires municipales et de l’Habitation, et le ministère des Transports et de la Mobilité durable. \n\nLe RQA peut être utilisé en complément du [Référentiel québécois du réseau routier (RQRR)](https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-du-reseau-routier).\n\n*« Code postal » est une marque officielle de la Société canadienne des postes*"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/36e34a64-52dc-4fa1-9fb8-15cde1f2448f"
+  ],
+  "dct_issued_s": "2025-10-01",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/36e34a64-52dc-4fa1-9fb8-15cde1f2448f\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Référentiel québécois des adresses",
+  "gbl_mdModified_dt": "2026-09-30T17:40:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "227ed281-8616-51d5-a7ef-2e761df797ea",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

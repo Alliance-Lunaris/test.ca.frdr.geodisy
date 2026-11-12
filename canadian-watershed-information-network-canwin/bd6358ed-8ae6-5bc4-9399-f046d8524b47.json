@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Background:\n\nMore than 80% of the heat produced in the Earth's crust comes from granitoid rocks. When granitoid rocks form they naturally concentrate radioactive elements such as U, Th, and K, and the radiogenic decay of these elements is an exothermic reaction. The radioactive decay of these elements within a granitoid body may generate local heat anomalies and elevated geothermal gradient at relatively shallow crustal levels. In combination with other local rock properties (e.g, porosity, permeability, thermal conductivity), radiogenic heat has the potential to generate a geothermal resource. The decay of radioactive elements converts mass into radiation energy, which in turn gets converted to heat. While all naturally radioactive isotopes generate some heat, significant heat generation only occurs from the decay of 238 U ,235 U ,232 Th and 40 K. Therefore, potential heat production is governed by the concentrations of U ,Th and K in the rock. In igneous rocks, radiogenic heat production is dependent on the bulk chemistry of the rock and decreases from acidic (e.g. granite) through basic to ultra basic rock types. Therefore, granites with anomalously high concentrations of U ,Th and K are targets for calculating potential radiogenic heat production. Potential radiogenic heat production (A)from plutonic rocks can be calculated using this equation:\n\nA (\\u03BCW/m 3 )=10 -5 \\u1D29 (9.52c u +2.56c K +3.48c Th )\n\nwhere \"c\" is the concentration of radioactive elements \"U\" and \"Th\" in ppm, and \"K\" in %; and \"\\u1D29\" is the rock density. Heat production constants of the natural radio-elements U, Th, K are 9.525x10 -5 , 2.561x10 -5 and 3.477x10 -9 W/kg, respectively.\n\nData and Methods:\n\nGeochemical data from \\~1760 samples of plutonic rocks from Yukon are used to calculate potential heat production. The calculated values for radiogenic heat production (A) are plotted over the mapped distribution of Paleozoic and younger plutonic rocks and major crustal faults are also shown for reference."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d2b3ce9c-2e7b-4ee6-8130-47f7346a7454"
+  ],
+  "dct_issued_s": "2025-09-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d2b3ce9c-2e7b-4ee6-8130-47f7346a7454\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Geothermal Radiogenic Heat Production",
+  "gbl_mdModified_dt": "2026-10-07T16:03:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bd6358ed-8ae6-5bc4-9399-f046d8524b47",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

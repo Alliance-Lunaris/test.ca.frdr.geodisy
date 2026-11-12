@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Full-sib families",
+    "Genomic selection",
+    "Exome Capture",
+    "Douglas-fir",
+    "Predictive model",
+    "Pseudotsuga menziesii Mirb. (Franco)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Thistlethwaite, Frances R. (University of British Columbia).",
+    "Ratcliffe, Blaise (University of British Columbia).",
+    "Klápště, Jaroslav (University of British Columbia, Czech University of Life Sciences Prague).",
+    "Porth, Ilga (University of British Columbia, Université Laval).",
+    "Chen, Charles (Oklahoma State University).",
+    "Stoehr, Michael U. (Ministry of Forests Lands and Natural Resource Operations).",
+    "El-Kassaby, Yousry A. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/6OQq0hyh7-k44E_nlNYDSk5ABVhlpOOnTiUKg_hR36k</p>\n<p><b>Storage size:</b> 286403025</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Background\r\nGenomic selection (GS) can offer unprecedented gains, in terms of cost efficiency and generation turnover, to forest tree selective breeding; especially for late expressing and low heritability traits. Here, we used: 1) exome capture as a genotyping platform for 1372 Douglas-fir trees representing 37 full-sib families growing on three sites in British Columbia, Canada and 2) height growth and wood density (EBVs), and deregressed estimated breeding values (DEBVs) as phenotypes. Representing models with (EBVs) and without (DEBVs) pedigree structure. Ridge regression best linear unbiased predictor (RR-BLUP) and generalized ridge regression (GRR) were used to assess their predictive accuracies over space (within site, cross-sites, multi-site, and multi-site to single site) and time (age-age/ trait-trait).\r\nResults\r\nThe RR-BLUP and GRR models produced similar predictive accuracies across the studied traits. Within-site GS prediction accuracies with models trained on EBVs were high (RR-BLUP: 0.79–0.91 and GRR: 0.80–0.91), and were generally similar to the multi-site (RR-BLUP: 0.83–0.91, GRR: 0.83–0.91) and multi-site to single-site predictive accuracies (RR-BLUP: 0.79–0.92, GRR: 0.79–0.92). Cross-site predictions were surprisingly high, with predictive accuracies within a similar range (RR-BLUP: 0.79–0.92, GRR: 0.78–0.91). Height at 12 years was deemed the earliest acceptable age at which accurate predictions can be made concerning future height (age-age) and wood density (trait-trait). Using DEBVs reduced the accuracies of all cross-validation procedures dramatically, indicating that the models were tracking pedigree (family means), rather than marker-QTL LD.\r\nConclusions\r\nWhile GS models’ prediction accuracies were high, the main driving force was the pedigree tracking rather than LD. It is likely that many more markers are needed to increase the chance of capturing the LD between causal genes and markers.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Douglas-fir exomic SNP file</h4><div class=\"o-metadata__file-description\">Exomic genotype file for Douglas-fir produced by RAPiD Genomics© , containing 74199 biallelic SNPs with less than 40% missing data and minQ=10.</div><div class=\"o-metadata__file-name\">FiltStep1_minQ10_Gen.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Douglas-fir phenotypes</h4><div class=\"o-metadata__file-description\">Phenotypic measurements from Douglas-fir trial over 3 sites in British Columbia, Canada. Courtesy of Forests, Lands and Natural Resource Operations, BC, Canada.</div><div class=\"o-metadata__file-name\">DF_phenotypes_dryad.txt</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152286_1226260_150149",
+    "https://doi.org/10.5683/SP2/QM7OSK"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/QM7OSK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genomic prediction accuracies in space and time for height and wood density of Douglas-fir using exome capture as the genotyping platform",
+  "gbl_mdModified_dt": "2021-05-20T00:56:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3a4d9697-bbb5-5ff3-bd73-f094fa9f38d5",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

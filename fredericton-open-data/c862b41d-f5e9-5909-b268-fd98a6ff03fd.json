@@ -1,0 +1,33 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.7534, -66.613, 45.9827, 45.9334)",
+  "dcat_keyword_sm": [
+    "Fredericton",
+    "sensors",
+    "IoT"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Fredericton."
+  ],
+  "dct_description_sm": [
+    "<div>This web map gives access to all published data from the City of \nFredericton IoT sensors. The features represent static locations for \neach of the sensors from different manufacturers. There are parking \nsensors (named Parking) and climate sensors (named Elsys, Decent Labs, \nand Sensus). With the IoT Sensors - All Data layer, selecting a feature shows basic attributes of the sensor \nand there is also the ability to show related records to gain access to \nthe historical sensor information.</div><div><br /></div><div>Several \nviews have been created off of this layer called IoT to &lt;sensor&gt;. The 5 views are 1-M relationships for each \nsensor manufacturer and show the most recent information for each \nsensor. Each 1-M relationship has been run through the Join Features \ntool to create a 1-1 view stored as a separate feature layer.</div><div><br /></div>The sensor data is updated via a \nscript in real-time."
+  ],
+  "dct_identifier_sm": [
+    "a87a713bc6884a8dacb46474b0545767",
+    "https://www.arcgis.com/home/item.html?id=a87a713bc6884a8dacb46474b0545767"
+  ],
+  "dct_issued_s": "2019-11-22",
+  "dct_publisher_sm": [
+    "City of Fredericton"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data-fredericton.opendata.arcgis.com/maps/Fredericton::iot-sensors-and-payload-data\"}",
+  "dct_title_s": "IoT Sensors and Payload Data",
+  "gbl_mdModified_dt": "2021-07-08T00:01:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c862b41d-f5e9-5909-b268-fd98a6ff03fd",
+  "locn_geometry": "ENVELOPE(-66.7534, -66.613, 45.9827, 45.9334)",
+  "schema_provider_s": "Fredericton Open Data"
+}

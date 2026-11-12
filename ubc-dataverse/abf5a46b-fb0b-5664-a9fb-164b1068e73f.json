@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "lungs",
+    "microbiome",
+    "LPS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sze, Marc A. (University of British Columbia).",
+    "Tsuruta, Masashi (University of British Columbia).",
+    "Yang, Shun-Wei Julia (University of British Columbia).",
+    "Oh, Yeni (University of British Columbia).",
+    "Man, S. F. Paul (University of British Columbia).",
+    "Hogg, James C. (University of British Columbia).",
+    "Sin, Don D. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sequence_data</h4><div class=\"o-metadata__file-description\">454 sequencing files after shhh.flows and trim,seqs commands have been implemented. No chimera removal has been done yet on these files.  Their are also group files and name files associated with each respective fasta file.</div><div class=\"o-metadata__file-name\"></div></div>",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/gtHeE5784lsNqs6J7m1suo5wdPKEBqQGxcuvYJyQ9FQ</p>\n<p><b>Storage size:</b> 20509513</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Introduction: Previous reports have shown that the gastrointestinal (GI) bacterial microbiota can have profound effects on the lungs, which has been described as the “gut-lung axis”. However, whether a “lung-gut” axis exists wherein acute lung inflammation perturbs the gut and blood microbiota is unknown. Methods: Adult C57/Bl6 mice were exposed to one dose of LPS or PBS instillation (n = 3 for each group) directly into lungs. Bacterial microbiota of the bronchoalveolar lavage fluid, blood, and cecum were determined using 454 pyrotag sequencing and quantitative polymerase chain reaction (qPCR) at 4 through 168 hours post-instillation. We then investigated the effects of oral neomycin and streptomycin (n = 8) on the microbiota at 4 and 24 hours post LPS instillation versus control treatment (n = 5 at baseline and 4 hours, n = 7 at 24 hours). Results: At 24 hours post LPS instillation, the total bacterial count was significantly increased in the cecum (P<0.05); whereas the total bacterial count in blood was increased at 4, 48, and 72 hours (P<0.05). Antibiotic treatment reduced the total bacteria in blood but not in the cecum. The increase in total bacteria in the blood correlated with Phyllobacteriaceae OTU 40 and was significantly reduced in the blood for both antibiotic groups (P<0.05). Conclusion: LPS instillation in lungs leads to acute changes in the bacterial microbiota in the blood and cecum, which can be modulated with antibiotics."
+  ],
+  "dct_identifier_sm": [
+    "151427_150149",
+    "https://doi.org/10.5683/SP2/XEIVGT"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/XEIVGT\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Changes in the bacterial microbiota in gut, blood, and lungs following acute LPS instillation into mice lungs",
+  "gbl_mdModified_dt": "2021-05-20T01:54:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "abf5a46b-fb0b-5664-a9fb-164b1068e73f",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

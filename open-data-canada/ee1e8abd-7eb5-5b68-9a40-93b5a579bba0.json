@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-60.73143589, -54.34859864, 48.27243455, 44.24005841)",
+  "dcat_keyword_sm": [
+    "Écosystème pélagique",
+    "Sebastes",
+    "Environnement",
+    "Pelagic ecosystem",
+    "Groundfish",
+    "Sébaste",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Invertébrés",
+    "Fisheries management",
+    "Épithète démersal",
+    "Environment",
+    "Biodiversity",
+    "Gestion des pêches",
+    "Environnemental conditions",
+    "Conditions environnementales",
+    "Biodiversité",
+    "Redfish",
+    "Invertebrates",
+    "Sebastes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Relevé pour l'évaluation des sebastes de l'unité 2 (GCCS John Cabot)"
+  ],
+  "dct_creator_sm": [
+    "Caroline Senay."
+  ],
+  "dct_description_sm": [
+    "Monitoring of Unit 2 redfish by Fisheries and Oceans Canada (DFO) ceased in 2002. Since then, the Atlantic Groundfish Council (AGC, formerly the Groundfish Enterprise Allocation Council [GEAC]) has funded surveys approximately every two years in the area, in collaboration with DFO. Over the years, various vessels and gear types have been used. \n\nIn 2024, a comparative survey was conducted using the CCGS John Cabot and a fishing industry vessel (the Léry Charles) to develop conversion factors that allow data from the 2020, 2022, and 2024 Unit 2 redfish surveys to be standardized to CCGS John Cabot equivalents. The survey covered the waters off southwestern Newfoundland and eastern Cape Breton, corresponding to redfish management Unit 2, which includes NAFO subdivisions 3Pn, 3Ps, 4Vn, 4Vs, and 4W. Here, data collected aboard the CCGS John Cabot are presented. \n\nObjectives\n•\tAssess the abundance and condition of groundfish and invertebrates\n•\tAssess environmental conditions\n•\tInventory the biodiversity of benthic and demersal megafauna\n•\tMonitor the pelagic ecosystem\n•\tCollect samples for various research projects\n\nData \nThe CCGS John Cabot employed a four-sided modified Campelen 1800 shrimp trawl, fitted with a Rockhopper (\"bicycle\") footgear. The trawl extension and codend were lined with 12.7 mm knotless nylon mesh. Standard trawl tows were 15 minutes in duration, timed from bottom contact, with a target towing speed of 3 knots.\n\nFor each fishing tow, the catch is sorted and weighed by taxa; individuals are then counted and biological data are collected on a subsample. For fish, crab and squid, size and weight are measured by individual and, for some species, sex, gonad maturity, and the weight of certain organs (stomach, liver, gonads) are also evaluated. The soft rays of the anal fin are counted for redfish, and the otoliths are sampled for several species such as Atlantic cod, Atlantic halibut, and Greenland halibut. Roughly 2-kg of shrimp are sorted and weighed by species. The other invertebrates are counted (no individual measurements) and photographed.\n\nThe biological data are divided into 3 files: a “Stations” file containing set information, a “Catches” file containing catches per set for all species caught and a “Carbio” file containing biological and morphometric measurements per individual all species measured except shrimps. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the three datasets. To further link the “Captures” and the “Carbio” files to the species level (for fish and certain invertebrate species), use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nFurther shrimp biological and morphometric data are available but are not presented here in order to simplify data presentation. For access to the complete information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca). \n\nThe latest published data is preliminary and will be updated at the end of January of the following year.\n\nIt is important to note that this is raw data. Only sets considered successful are retained. In each set, all species are kept, with a few exceptions. Data is available from 1997-2022 but please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca) for access and further details. For any other information please also contact the data management team.",
+    "La surveillance du sébaste de l’Unité 2 par Pêches et Océans Canada (MPO) a cessé en 2002. Depuis, l’Atlantic Groundfish Council (AGC, anciennement le Groundfish Enterprise Allocation Council  [GEAC]) finance, en collaboration avec le MPO, des relevés effectués environ tous les deux ans dans la région. Au cours des années, différents navires et types d’engins ont été utilisés.\n\nEn 2024, un relevé comparatif a été mené à l’aide du NGCC John Cabot et d’un navire de pêche de l’industrie (le Léry Charles) afin d’élaborer des facteurs de conversion permettant d’uniformiser les données des relevés de sébaste de l’Unité 2 réalisés en 2020, 2022 et 2024 à des équivalents du NGCC John Cabot. Le relevé a couvert les eaux au large du sud-ouest de Terre-Neuve et de l’est du Cap-Breton, correspondant à l’Unité 2 de gestion du sébaste, qui comprend les subdivisions 3Pn, 3Ps, 4Vn, 4Vs et 4W de l’OPANO. Les données présentées ici ont été recueillies à bord du NGCC John Cabot.\n\nObjectifs:\n•\tÉvaluer l'abondance et la condition des populations de poissons de fond et des invertébrés\n•\tÉvaluer les conditions environnementales\n•\tRéaliser un inventaire de la biodiversité de la mégafaune benthique et démersale\n•\tMonitorer l'écosystème pélagique\n•\tRécolter des échantillons pour divers projets de recherche\n\nDescription du relevé\nLe NGCC John Cabot utilisait un chalut à crevettes (4 faces) Campelen modifié 1800 muni d’un faux-bourrelet (« bicycle ») de type Rockhopper. La rallonge et le cul du chalut sont munis d’une doublure de nylon sans nœud dont l’ouverture de maille est de 12,7 mm. Les traits de chalut standard duraient 15 minutes, calculée à partir du contact avec le fond, avec une vitesse de chalutage cible de 3 nœuds.\n\nPour chaque trait de pêche, la capture est triée et pesée par taxon et les individus sont dénombrés puis des données biologiques sont récoltées sur un sous-échantillon. Pour les poissons, les crabes et les encornets, la taille et le poids sont colligés par individu. De plus, pour certaines espèces, le sexe, la maturité des gonades et le poids de certains organes (estomac, foie, gonades) sont aussi évalués. Les rayons mous de la nageoire anale sont dénombrés pour les sébastes et des otolithes sont récoltés chez plusieurs espèces dont la morue, le flétan de l’Atlantique et le flétan du Groenland. Environ 2 kg de crevettes sont triées et pesées par espèce. Les autres invertébrés sont comptés (sans mesures individuelles) et photographiés.\n\nLes données biologiques sont divisées en 3 fichiers : Un fichier « Stations » contenant les informations des traits, un fichier « Captures » contenant les prises par trait pour tous les taxons et  un fichier « Carbio » contenant les caractéristiques biologiques et mesures morphométriques par individus mesurés pour toutes les espèces mesurées, à l'exception des crevettes. Les colonnes source_info, no_releve, nbpc et no_station sont communs aux quatre jeux de données et permet de les relier. Afin de relier plus précisément les fichiers « Captures » et « Carbio » au niveau de l'individus (pour les poissons et certains types d'invertébrés), utilisez les colonnes source_info, no_releve, nbpc, no_station, nom_scientifique, ainsi que categorie.\n\nDes données supplémentaires sur les captures de crevettes sont disponibles, mais ne sont pas présentées ici afin de simplifier la présentation des données. Pour accéder à l’ensemble des informations, veuillez communiquer avec l’équipe de gestion des données (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nLes dernières données publiées sont préliminaires et seront mises à jour à la fin du mois de janvier de l'année suivante.\n\nIl est important de noter qu'il s'agit des données brutes. Seuls les traits considéré réussis sont conservés. Dans chacun des traits toutes les espèces sont conservées sauf quelques exceptions. Les données sont disponibles pour la période de 1997 à 2022, mais veuillez contacter l’équipe de gestion des données (gddaiss-dmsaisb@dfo-mpo.gc.ca) pour y avoir accès et obtenir plus de détails. Pour toute autre information, veuillez également communiquer avec l’équipe de gestion des données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d79741f7-5b02-443e-859a-7b1350ea2bff"
+  ],
+  "dct_issued_s": "2025-08-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d79741f7-5b02-443e-859a-7b1350ea2bff\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Survey for the assessment of Unit 2 Redfish (CCGS John Cabot)",
+  "gbl_mdModified_dt": "2026-06-05T17:31:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ee1e8abd-7eb5-5b68-9a40-93b5a579bba0",
+  "locn_geometry": "ENVELOPE(-60.73143589, -54.34859864, 48.27243455, 44.24005841)",
+  "schema_provider_s": "Open Data Canada"
+}

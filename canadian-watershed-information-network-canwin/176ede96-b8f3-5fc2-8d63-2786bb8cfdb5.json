@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.12, -56.88, 51.4, 46.05)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the surface temperature and salinity data of the enlarged coastal thermograph network of the St. Lawrence river, estuary and gulf system. It includes data from the Canadian Hydrographic Service water level network (SINECO), the Department of Fisheries and Oceans (DFO) - Quebec long-termed thermograph monitoring program network and the oceanographic buoy network.\n\nEach station is linked with a .png file showing the temperature and salinity time series and with a .csv file containing the surface temperature and salinity data themselves (columns : Station, Latitude, Longitude, Date(UTC), Depth/Profondeur(m), Temperature/Température(ºC), Salinity/Salinité(psu)).\n\n\nSupplemental Information\n\nA detailed description of the networks (SINECO, oceanographic buoys and the DFO-Quebec thermograph monitoring program) is available at the St. Lawrence Global Observatory (SLGO) portal :\n\nSINECO : https://ogsl.ca/en/tide-gauges-dfo-chs/\n\nOceanographic buoys : https://ogsl.ca/en/marine-conditions-buoys-dfo/\n\nThermographs: https://ogsl.ca/en/marine-conditions-thermographs-dfo/\n\nTechnical Reports related to the Thermograph Network (the last one is also available at the same hypertext link mentionned above) :\n\nPettigrew, B., Gilbert, D. and Desmarais R. 2016. Thermograph network in the Gulf of St. Lawrence. Can. Tech. Rep. Hydrogr. Ocean Sci. 311: vi + 77 p.\n\nPettigrew, B., Gilbert, D. and Desmarais R. 2017. Thermograph network in the Gulf of St. Lawrence: 2014-2016 update. Can. Tech. Rep. Hydrogr. Ocean Sci. 317: vii + 54 p."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/848e943b-1a98-43b8-acb3-ac89af17ea41"
+  ],
+  "dct_issued_s": "2019-01-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/848e943b-1a98-43b8-acb3-ac89af17ea41\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Coastal thermograph network",
+  "gbl_mdModified_dt": "2026-08-19T15:01:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "176ede96-b8f3-5fc2-8d63-2786bb8cfdb5",
+  "locn_geometry": "ENVELOPE(-73.12, -56.88, 51.4, 46.05)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

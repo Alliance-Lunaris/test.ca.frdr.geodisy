@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.92539252688609, -122.55824029548195, 54.06296341622225, 53.79928382863227)",
+  "dcat_keyword_sm": [
+    "imagery",
+    "orthophoto",
+    "lidar",
+    "tile",
+    "tile index",
+    "grid",
+    "750m"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Data Prince George."
+  ],
+  "dct_description_sm": [
+    "Orthophoto and LiDAR tile index created at 750m intervals.  The index number is derived from the first 4 digits of the X of the centroid concatenated with the first 5 digits of the Y of the centroid."
+  ],
+  "dct_identifier_sm": [
+    "4948eb5d9e664500b478a46ef279a270",
+    "https://www.arcgis.com/home/item.html?id=4948eb5d9e664500b478a46ef279a270"
+  ],
+  "dct_issued_s": "2022-11-10",
+  "dct_publisher_sm": [
+    "Open Data Prince George"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data-cityofpg.opendata.arcgis.com/datasets/CityofPG::cpg-tile-index-750m\"}",
+  "dct_rights_sm": [
+    "Open Government License – City of Prince George"
+  ],
+  "dct_title_s": "CPG Tile Index 750m",
+  "gbl_mdModified_dt": "2024-05-02T20:06:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d20f7be5-9d23-5e5c-80f0-420879378deb",
+  "locn_geometry": "ENVELOPE(-122.92539252688609, -122.55824029548195, 54.06296341622225, 53.79928382863227)",
+  "schema_provider_s": "Open Data Prince George"
+}

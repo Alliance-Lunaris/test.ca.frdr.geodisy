@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Postes de pesée",
+    "Thermométrie",
+    "Turbulence--Méthodes de simulation",
+    "Dynamique des fluides numérique",
+    "Constructions--Étanchéité à l'air--Essais"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Tohidi, Mohammadreza (Université Laval). ORCID: https://orcid.org/0009-0008-3538-0089",
+    "Rouleau, Jean (Université Laval). ORCID: https://orcid.org/0009-0004-0592-8091",
+    "Gosselin, Louis (Université Laval). ORCID: https://orcid.org/0000-0002-5210-7083"
+  ],
+  "dct_description_sm": [
+    "Weighing stations of the road network consist of a pit, where the weighing equipment is located, and slabs at ground level on which the trucks are driven during the weighing process. Snow and ice accumulation on slab surfaces, as well as the freezing of the weighing equipment, could be detrimental to operations. Therefore, the pit of weighing stations needs to be heated during winter, which contributes to snow melting and the protection of weighing equipment. This results in significant energy consumption.\n\nThis dataset contains:\na) A readme file explaining the available data and how to use it;\nb) For 11 different cases, CFD (Computational Fluid Dynamics) models developed on ANSYS FLUENT R2 2023 (*.cas.h5 files). The 11 cases include a reference case, a validation case, and 9 other cases with alternative designs. The cases are described in the readme file and correspond to different designs of the system in terms of heater configuration and position, and gap size (airtightness);\nc) For the same 11 cases, simulation results reporting 3D profiles of temperature, velocity, pressure, turbulence quantities in the pit (*.dat.h5 files)."
+  ],
+  "dct_identifier_sm": [
+    "937818_714626",
+    "https://doi.org/10.5683/SP3/E7DCNF"
+  ],
+  "dct_issued_s": "2025-06-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/E7DCNF\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Computational Fluid Dynamics (CFD) model and simulation results for the airflow and temperature profiles inside a weighing station of the road network for eleven different design scenarios",
+  "gbl_mdModified_dt": "2025-06-20T19:01:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a91c231-ea4e-54a8-be0c-d732301dc8a1",
+  "pcdm_memberOf_sm": [
+    "Louis Gosselin 7083"
+  ],
+  "schema_provider_s": "Dataverse de l'Université Laval"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.6577, -100.8579, 54.273, 48.5545)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Land cover imagery for the moist mixed grassland ecoregion of Saskatchewan with a resolution of 10m. Classification was based on machine learning analysis and remote sensing data of Sentinel-1 and Sentinel-2 imagery in Google Earth Engine platform. The goal of this land cover was to distinguish native from tame grasslands, and is classified into several classes: native grassland, tame grassland, mixed grassland, cropland, woody plants, water, and urban area.  \n  \n  Download: Here The Prairie Landscape Inventory (PLI) working team of Habitat Unit in the Fish and Wildlife Branch, Ministry of Environment aims to develop improved methods of assessing land cover and land use for conservation. Native grassland, in particular, has been one of the most hard to map at risk ecosystems because of difficulty for imagery classification methods to distinguish native from tame grasslands. Improved classification methods will provide valuable information for habitat suitability, identifying high biodiversity potential and invasion risk potential.  The classification map has seven (7) classes:  1.  Cropland This class represents all cultivated areas with crop commodities: corn, pulse, soybeans, canola, grains, summer-fallow. 2. Native grassland This class represents the native grassland areas of the Moist Mixed Grassland ecoregion, which are composed of at least 75% native grass species, such as the needle grasses, wheatgrasses along with June grass and blue grama grass. Also includes additional sedge species, forbs, and some non-vascular species. Unbroken grassland that is invaded by species like Kentucky bluegrass, crested wheatgrass or smooth brome, such that native cover is less than 75%, is not considered native for the purpose of this project.  3. Mixed grassland This class represent a heterogenic grassland with a mix of less than 75% native grass species or less than 75% tame species.  4. Tame grassland This class represents the tame grassland areas of the Moist Mixed Grassland ecoregion, which are composed of at least 75% seeded or planted species with introduced grasses and forb species such as crested wheatgrass, smooth brome, alfalfa, sweet clover. 5. Water This class represents permanent water locations such as lakes and rivers. 8. Woody plants This class represents the sites dominated by woody vegetation including shrubs and trees with typically more than 20% canopy cover. 9. Urban area This class was masked using urban/developed area class of the Annual Crop Inventory 2020 (Agriculture Agri-Food Canada), and limited within the urban municipality polygons. Colour Classes: Value Label Red Green Blue 1 Cropland 255 255 190 2 Native grassland 168 168 0 3 Mixed grassland 199 215 158 4 Tame grassland 245 202 122 5 Water 190 232 255 8 Woody plants 137 205 102 9 Urban area 128 128 128 Accuracy metrics This model has an overall accuracy of 70.3 per cent. The table below summarizes the user’s accuracy, producer’s accuracy, and F1-score of the model on the validation dataset. Class User’s accuracy (%) Producer’s accuracy (%) F1-score Cropland 74.7 87.1 0.81 Native grassland 61.7 78.3 0.69 Mixed grassland 57.7 26.1 0.36 Tame grassland 66.9 69.8 0.68 Water 96.3 84.4 0.90 Woody plants 81.1 73.2 0.77"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0717c96e-4810-0ac9-2b63-9873720e2e9e"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0717c96e-4810-0ac9-2b63-9873720e2e9e\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Prairie Landscape Inventory (PLI) - Moist Mixed Grassland Classification",
+  "gbl_mdModified_dt": "2025-02-26T13:10:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c1092e01-bdfb-5d78-9bb6-91828c9a702a",
+  "locn_geometry": "ENVELOPE(-110.6577, -100.8579, 54.273, 48.5545)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

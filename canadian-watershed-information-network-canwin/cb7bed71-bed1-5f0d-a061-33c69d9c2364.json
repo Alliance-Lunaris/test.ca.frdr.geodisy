@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The d4PDF-WaveHs dataset represents the first single model initial-condition large ensemble (SMILE, 100-member) of historical significant ocean wave height (Hs) at a global scale. It was produced using an advanced statistical model with predictors derived from Japan's database for policy decision-making for future climate change (d4PDF) ensemble of historical simulations of sea level pressure. d4PDF-WaveHs provides 100 realizations of Hs for the period 1951-2010 (hence 6,000 years of data) on a 1° x 1° latitude-longitude grid. In addition, this dataset contains 14 statistics (including extreme indices) calculated on monthly, seasonal, and annual scales.\n\r\n\rd4PDF-WaveHs provides unique data to understand better the poorly known role of internal climate variability in ocean wave climate. For example, it can better distinguish climate variability from trend signals. It also provides a better sampling of the entire probability distribution, including the tails where extreme events occur. This is crucial to properly assess wave-driven impacts, such as extreme sea levels on low-lying (and densely) populated coastal areas. This dataset may interest a variety of researchers, engineers, and stakeholders, including those in the fields of climate science, oceanography, coastal management, offshore engineering, and energy resource development."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4c679315-b6c4-4465-90c7-07a7f8196cf0"
+  ],
+  "dct_issued_s": "2022-11-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4c679315-b6c4-4465-90c7-07a7f8196cf0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "d4PDF-WaveHs: the first SMILE-based ensemble of global historical wave height",
+  "gbl_mdModified_dt": "2024-06-09T12:40:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cb7bed71-bed1-5f0d-a061-33c69d9c2364",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

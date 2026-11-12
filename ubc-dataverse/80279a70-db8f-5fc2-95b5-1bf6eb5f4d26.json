@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(71.71977, 71.79638, 36.70391, 36.65834)",
+  "dcat_keyword_sm": [
+    "classification",
+    "Keyhole imagery",
+    "texture metrics",
+    "panchromatic",
+    "PlanetScope",
+    "land cover change"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Turin, Darcy (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Land cover change analysis using satellite imagery is constrained by the availability and range of historical data, with programs like Landsat offering data only from the 1980s onward. Furthermore, the 30-meter resolution of these datasets makes it challenging to distinguish fine-scale land cover variability in heterogeneous landscapes. This study addressed these limitations by utilizing panchromatic imagery that was captured by the United States’ intelligence agencies during the Cold War. The study applies declassified Hexagon (KH-9) imagery from 1979 to assess long-term forest extent and cover change in Tajikistan’s Pamir Mountains. A hybrid classification approach was developed, integrating image segmentation and masking based on per-segment mean pixel values to exclude some areas that are not forested and therefore create a more balanced dataset. Texture-based analysis was applied to the panchromatic imagery, testing different texture metric window sizes (3×3, 7×7, and 11×11) to optimize classification accuracy. A supervised Random Forest classifier was used to classify multispectral modern PlanetScope imagery from 2024 for comparison to the 1979 land cover classification. Results show that the masking process has a significant impact on reducing false positives and that classification accuracy increases with texture window size. There was a significant increase in forest cover over the study period. The study demonstrates the feasibility of classifying historic panchromatic imagery for long-term environmental monitoring and provides a scalable methodology for assessing land cover change in data-scarce regions."
+  ],
+  "dct_identifier_sm": [
+    "894537_73894_115983",
+    "https://doi.org/10.5683/SP3/DNJZX6"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/DNJZX6\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Gorno-Badakhshan, Tajikistan"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Applying Declassified Cold War Intelligence Imagery for Long-Term Forest Cover Change Analysis",
+  "gbl_mdModified_dt": "2025-05-10T01:31:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "80279a70-db8f-5fc2-95b5-1bf6eb5f4d26",
+  "locn_geometry": "ENVELOPE(71.71977, 71.79638, 36.70391, 36.65834)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

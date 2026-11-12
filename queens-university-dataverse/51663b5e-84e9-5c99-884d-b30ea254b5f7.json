@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "3D laser imaging",
+    "Three-dimensional laser imaging",
+    "Joint orientation",
+    "Rock mass characterization",
+    "Surface roughness"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mah, Jason (Carleton University. Faculty of Science, Department of Earth Sciences).",
+    "Samson, Claire (Carleton University. Faculty of Science, Department of Earth Sciences).",
+    "McKinnon, Steve (Queen's University. The Robert M. Buchan Department of Mining, Queen's University. Faculty of Engineering, The Robert M. Buchan Department of Mining)."
+  ],
+  "dct_description_sm": [
+    "Type: Note Notes: <p>Please review the following information should you choose to use this dataset:</p><ul>  <li>Each image consists of a text file which can be opened using Matlab or an open source 3D point cloud such as Meshlab.</li>  <li>Each text file contains a measurement along the X-axis (column 1), Y-axis (column 2), and Z-axis (column 3). These measurements are in mm. A light intensity measurement is also included (column 4). The light intensity measurement is 8bit, with 256 values.</li>  <li>Each image\r\nis geo-referenced (strike, dip). This information is included in a text file.\r\n</li>  <li>Photographs of the test site are provided for reference.</li>  <li>The above information can also be found in a text file within the data set.</li></ul>;",
+    "<p>Three-dimensional (3D) laser imaging has recently emerged as a tool for rock mass characterization. Each image is a digital representation of the rock face and is composed of millions of 3D points. An individual data point is composed of a measurement along the X-, Y-, and Z-axes.</p> <p>This data set was acquired as part of a PhD thesis entitled, Three-Dimensional Laser Imaging for Rock Mass Characterization. The image data was acquired in 3 field trials over the course of the thesis. Specif\r\nically, the image data is from (1) a road cut at Ivy Lea, Ontario, (2) an underground mine in Sudbury, Ontario, and (3) an underground mine in Thompson, Manitoba.\r\n</p> <p>Each image contains information that can be used for rock mass characterization. In the PhD thesis, the images were analyzed to (1) measure joint orientation and (2) surface roughness from 3D data. A third objective was to (3) remove the obstructive wire mesh from 3D data.</p>"
+  ],
+  "dct_identifier_sm": [
+    "594",
+    "https://doi.org/10.5683/SP3/OE6X43"
+  ],
+  "dct_issued_s": "2015-01-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/OE6X43\"}",
+  "dct_rights_sm": [
+    "This dataset is made available with limited information on how it can be used. You may wish to communicate with the Contact(s) specified before use."
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Ivy Lea, Ontario (data set 1); Sudbury, Ontairo (data set 2); Thompson, Manitoba (data set 3)"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "3D Laser Images of a road cut at Ivy Lea, Ontario (2007), underground in Sudbury, Ontario (2007), underground in Thompson, Manitoba (2009)",
+  "gbl_mdModified_dt": "2018-03-02T16:10:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "51663b5e-84e9-5c99-884d-b30ea254b5f7",
+  "schema_provider_s": "Queen's University Dataverse"
+}

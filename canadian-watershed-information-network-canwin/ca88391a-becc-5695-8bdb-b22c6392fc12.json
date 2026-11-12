@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.874, -101.0083, 53.7617, 48.8358)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Landcover dataset created for the agricultural portion of Saskatchewan.  \n  \n  Download: here A satellite imagery classification of Southern Saskatchewan based mainly on 1994 Landsat5 imagery. Developed by the Saskatchewan Research Council after 1997. Background: A group of Provincial and Federal Agencies formed a partnership in March of 1997 to share the cost of obtaining satellite imagery and interpreting this imagery to create a landcover dataset for the agricultural portion of Saskatchewan. The partnership included Saskatchewan Research Council (SRC), Saskatchewan Agriculture and Food (SAF), Saskatchewan Crop Insurance (SCI), Saskatchewan Property Management Corporation (SPMC), Environment Canada, the Prairie Farm Rehabilitation Administration (PFRA) and Saskatchewan Environment Resource Management (SERM). The University of Regina was also involved as an 'in kind' partner providing research services in the area of land cover classifications, accuracy assessment and data conversions. The Partnership Agreement required SRC (partner doing the bulk of data processing) to provide digital files for each of 328 1:50,000 NTS map sheets. The digital files included not only raw imagery, but also one file for each map sheet where the imagery was classified into 24 landcover types. The accuracy of this classification was to be demonstrated by SRC to be at least 90 per cent correct. In addition to the data processing done by SRC, SPMC provided the necessary positional control data (road intersection coordinates) and verified the positional accuracy of the final product. The other partners provided feedback to SRC on classification errors, which improved the overall accuracy of the final product. Classification Value No Data 0 Crop Land 1 Hay Crops (Forage) 2 Native Dominant Grass Lands 3 Tall Shrubs 4 Pasture (Seeded Grass Lands) 5 Hardwoods (Open Canopy) 6 Hardwoods (Closed Canopy) 7 Jack Pine (Closed Canopy) 8 Jack Pine (Open Canopy) 9 Spruce (Close Canopy) 10 Treed Rock 13 Recent Burns 14 Revegetating Burns 15 Cutovers 16 Water Bodies 17 Marsh 18 Herbaceous Fen 19 Mud/Sand/Saline 20 Shrub Fen (Treed Swamp) 21 Treed Bog 22 Open Bog 23 Slopes 25 Slopes 26 0. No Data 1. Crop Land - All lands dedicated to the production of annual cereal, oil seed and other specialty crops, and typically cultivated on an annual basis.  2. Hay Crops (Forage) - Alfalfa and alfalfa/tame grass mixtures.  3. Native Dominant Grass Lands - Native dominant grasslands/may contain tame grasses and herbs.  4. Tall Shrubs - Communities containing both low and tall shrub, snowberry, saskatoon, chokecherry, buffaloberry, and willow.  5. Pasture (Seeded Grass Lands) - Grassland dominated by tame grass species.  6. Hardwoods (Open Canopy) - Corresponds to Provincial Forest Inventory: over 75% hardwoods; 10-30% crown closure.  7. Hardwoods (Closed Canopy) - Corresponds to Provincial Forest Inventory: over 75% hardwoods; 30-100% crown closure.  8. Jack Pine (Closed Canopy) - Similar to Provincial Forest Inventory: 75% or greater Jack Pine; 30-100% crown closure.  9. Jack Pine (Open Canopy) - Similar to Provincial Forest Inventory: 75% or greater Jack Pine; 10-30% crown closure.  10. Spruce (Close Canopy) - Similar to Provincial Forest Inventory: 75% or greater Black and White Spruce; 10-30% crown closure. 11. Spruce: Open Canopy - Similar to Provincial Forest Inventory: 75% or greater Black and White Spruce; 10-30% crown closure. 12. Mixed Woods - All softwood/hardwood mixtures.  13. Treed Rock - Areas of exposed bedrock with generally less then 10% tree cover. Dominant species are Jack Pine and Black Spruce.  14. Recent Burns - All areas that have been recently burned over by wildfires.  15. Revegetating Burns - Burns with a regrowth of commercial timber generally 1-5 metres in height.  16. Cutovers - Areas where commercial timber has been completely or partially removed by logging operations.  17. Water Bodies - Consists of all open water - lakes, rivers, streams, ponds, and lagoons.  18. Marsh - Dominated by sedge and wetland grasses.  19. Herbaceous Fen - Fens dominated by herbaceous species.  20. Mud/Sand/Saline  21. Shrub Fen (Treed Swamp) - Fens dominated by shrubby species.  22. Treed Bog - Peat-covered or peat-filled depressions with a high water table and a surface carpet of moss, chiefly sphagnum. The bogs have 25% or more canopy by trees greater than one metre tall. The primary species is black spruce.  23. Open Bog - Peat-covered or peat-filled depressions with a high water table and a surface carpet of moss, chiefly sphagnum. 24. Farmstead - Farmstead types, towns, cities, Exposed areas with little or no vegetation or Cloud coverage.  25. Slopes - Steep Valley slopes or hill slopes where aspect and slope prohibit classification. 26. Slopes - Steep Valley slopes or hill slopes where aspect and slope prohibit classification."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/005c6b86-bd92-0d6c-47be-d4232f2a5415"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/005c6b86-bd92-0d6c-47be-d4232f2a5415\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Southern Digital Landcover",
+  "gbl_mdModified_dt": "2025-02-05T19:09:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca88391a-becc-5695-8bdb-b22c6392fc12",
+  "locn_geometry": "ENVELOPE(-110.874, -101.0083, 53.7617, 48.8358)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

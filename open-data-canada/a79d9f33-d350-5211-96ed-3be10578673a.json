@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "HRDPS",
+    "Government information",
+    "Forecast",
+    "Weather Models",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes prévues dans le bassin (HRDPS - 24 et 48 heures)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer shows sub-basin averages of HRDPS (High Resolution Deterministic Prediction System) precipitation. Ideal for capturing short-range (0–48h) high-resolution precipitation forecasts aggregated at the watershed scale.\n\nThe HRDPS is a 2.5 km resolution model used for short-range, convection-permitting forecasts in Canada. This layer takes HRDPS precipitation totals and aggregates them by each sub-basin polygon, revealing how localized rain or snow could impact individual watersheds. Useful for near-term flood or flash-flood risk, as well as local water management during intense weather.",
+    "Cette couche polygonale montre les moyennes des précipitations HRDPS (High Resolution Deterministic Prediction System) par sous-bassin. Idéal pour capturer des prévisions de précipitations à haute résolution à court terme (0 à 48 h) agrégées à l'échelle du bassin versant.\n\nLe HRDPS est un modèle de résolution de 2,5 km utilisé pour les prévisions à court terme permettant la convection au Canada. Cette couche prend les totaux de précipitations HRDPS et les regroupe par polygone de chaque sous-bassin, révélant ainsi l'impact de la pluie ou de la neige localisées sur les différents bassins versants. Utile pour les risques d'inondations ou de crues soudaines à court terme, ainsi que pour la gestion locale de l'eau en cas de conditions météorologiques intenses.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c21cf3a8-9649-0e01-f470-47cdb0a4746d"
+  ],
+  "dct_issued_s": "2025-05-01",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c21cf3a8-9649-0e01-f470-47cdb0a4746d\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (HRDPS - 24 & 48 hrs)",
+  "gbl_mdModified_dt": "2026-04-01T20:02:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a79d9f33-d350-5211-96ed-3be10578673a",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

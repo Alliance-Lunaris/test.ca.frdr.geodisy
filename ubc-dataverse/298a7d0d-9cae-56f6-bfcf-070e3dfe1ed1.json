@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.06, -114.03, 60.0, 48.3)",
+  "dcat_keyword_sm": [
+    "Grassland Loss",
+    "Grassland",
+    "Random forest classification",
+    "Forest Encroachment",
+    "Landcover classification",
+    "Sentinel 2"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhang, Peiyao (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "As a province dominated by forests and mountains, British Columbia (BC) has relatively sparse grasslands accounting for less than one percent of the province area. The BC grasslands have disappeared in large numbers since European settled, and forest encroachment is one of the main reasons for the loss of grasslands. This project aims to study the amount of BC grassland that disappeared due to forest encroachment from 2015 based on the latest data of BC grassland in 2020. Sentinel-2 for southern BC was used for random forest classification to determine the extent of forests and grasslands. The obtained grassland extents were combined with grassland-related data from the BC data catalog to create the most recent grassland map of 2020. Finally, the amount of grassland lost due to forest encroachment in the southern interior of BC was confirmed by comparing with the 2015 grassland extent data. The results show that 1,565.5 hectares of grassland were lost in B.C. compared to 2015, with 829.7 hectares lost to forest encroachment in the southern interior. This study can help the BC government and the Grassland Conservation Council of British Columbia (GCC) update and understand the current range of BC grasslands, and provide the location and quantification of grassland loss, and the BC government can carry out grassland protection actions based on this."
+  ],
+  "dct_identifier_sm": [
+    "157525_73894_115983",
+    "https://doi.org/10.5683/SP2/TLB8JY"
+  ],
+  "dct_issued_s": "2021-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TLB8JY\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Grassland Loss Caused by Forest Encroachment in British Columbia from 2015 to 2020",
+  "gbl_mdModified_dt": "2021-04-17T18:03:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "298a7d0d-9cae-56f6-bfcf-070e3dfe1ed1",
+  "locn_geometry": "ENVELOPE(-139.06, -114.03, 60.0, 48.3)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

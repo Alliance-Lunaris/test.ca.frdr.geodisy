@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.38507263921201, -123.02302362397313, 49.31412189267576, 49.19909041374922)",
+  "dcat_keyword_sm": [
+    "311",
+    "3-1-1",
+    "case",
+    "service request",
+    "center",
+    "call",
+    "contact centre",
+    "volume"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>Customer initiated service requests received by 3-1-1 Contact Centre from 2022. Service requests refer only to those call types that generate a requ​​es​​t to a City of Vancouver department to provide service.</p><p>This dataset contains location information such as address or intersection where service was requested and the local area corresponding to the case (incident) location. ​<br></p><p>Due to the volume of records, we segmented the service requests data into multiple datasets. See <a href=\"https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests-2009-2021/information/\">3-1-1 service requests 2009-2021</a> dataset for records from 2009 to 2021.​<br></p>\n</div> <h3>Note</h3><div><p>​The 3-1-1 case management system started collecting case service requests data on June 1, 2009. The system was upgraded on August 17, 2022. </p><p>Department, Division or Call Types beginning with ZZ – OLD refers to obsolete types used in the past. Generally, another call type within the same division, or another division within the same department replaced the obsolete type. </p><p>When reviewing case location data spatially, consideration should be given to the City’s urban attributes such as vegetation density, population density, age of infrastructure asset, area specific bylaws, etc. Some case types are associated with city locations.​<br></p></div> <h3>Data currency</h3><div><p>​Records on or after August 17, 2022 are refreshed daily. Records prior to this date are static.​<br></p></div> <h3>Data accuracy</h3><div><p>Data are electronically extracted from the 3-1-1 case management system.</p><p>Address data of some selected service request types is not disclosed to provide privacy protection.</p><p>There may be addresses that do not return coordinates in the gecoding process. These records will appear in the Table view but not on the Map.​​<br></p></div> <h3>Websites for further information</h3><div><ul style=\"box-sizing:border-box;font-size:16px;font-family:montserrat, helvetica, arial, sans-serif;background-color:#f8f8f8;\"><li style=\"box-sizing:border-box;font-family:inherit;max-width:620px;\"><a href=\"http://vancouver.ca/your-government/contact-the-city-of-vancouver.aspx\" style=\"box-sizing:border-box;background-color:transparent;text-decoration-line:underline;color:#0279b1;\">Contact the City of Vancouver</a>​<br></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "3-1-1-service-requests",
+    "https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests"
+  ],
+  "dct_issued_s": "2026-09-14",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Government and finance"
+  ],
+  "dct_title_s": "3-1-1 service requests",
+  "gbl_mdModified_dt": "2026-09-14T14:11:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9ad0cb48-22e8-5c66-ac7a-068d630439ac",
+  "locn_geometry": "ENVELOPE(-123.38507263921201, -123.02302362397313, 49.31412189267576, 49.19909041374922)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

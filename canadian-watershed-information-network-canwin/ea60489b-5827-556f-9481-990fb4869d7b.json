@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-156.14535, -38.69435, 73.7233886, 31.5413886)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canadian Lightning Detection Network (CLDN) provides lightning monitoring across most of Canada. The data distributed here represents a spatio-temporal aggregation of the observations of this network available with an accuracy of a few hundred meters. More precisely, every 10 minutes, the reported observations are processed in the following way: The location of observed lightning (cloud-to-ground and intra-cloud) in the last 10 minutes is extracted. Using a regular horizontal grid of about 2.5km by 2.5km, the number of observed lightning flashes within each grid cell is calculated. These grid data are normalized by the exact area of each cell (in km2) and by the accumulation period (10min) to obtain an observed flash density expressed in km-2 and min-1. A mask is applied to remove data located more than 250km from Canadian land or sea borders."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/75dfb8cb-9efc-4c15-bcb5-7562f89517ce"
+  ],
+  "dct_issued_s": "2023-05-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/75dfb8cb-9efc-4c15-bcb5-7562f89517ce\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Lightning Density Data",
+  "gbl_mdModified_dt": "2025-10-15T15:07:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ea60489b-5827-556f-9481-990fb4869d7b",
+  "locn_geometry": "ENVELOPE(-156.14535, -38.69435, 73.7233886, 31.5413886)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

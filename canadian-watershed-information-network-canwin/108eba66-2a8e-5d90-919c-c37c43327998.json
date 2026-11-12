@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Third Generation of Homogenized Temperature dataset was prepared for use in climate trend analysis in Canada. In this version, the list of stations was revised to include observations from a larger number of surface monitoring stations, in particular those collected at Reference Climate Stations and at some Canadian Aviation Weather Services stations, which were used to extend past climate observations into recent times. The data were quality controlled. The daily minimum temperature was adjusted from 1961 to recent years, for the change in observing time in 1961 at principal stations (Vincent et al. 2009). Parallel daily data were used to detect non-climatic shifts when observations from nearby sites were merged into a single record to create long-term series (Vincent et al. 2018a). Series of annual and seasonal mean temperatures were tested for homogeneity (Wang et al. 2007; Vincent et al. 2002; Vincent et al. 1998). Daily temperatures were adjusted using a Quantile-Matching procedure to remove inhomogeneities if needed (Wang et al. 2010).\n\nHomogenized temperature datasets have been used in the analysis of climate trends (Vincent et al. 2015) and trends in climate indices in Canada (Vincent et al. 2018b). The procedures used to produce the Third Generation are described in Vincent et al. (2020)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fc09beda-744f-48df-ab7c-0949152e961f"
+  ],
+  "dct_issued_s": "2018-09-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fc09beda-744f-48df-ab7c-0949152e961f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Homogenized Surface Air Temperature (AHCCD)",
+  "gbl_mdModified_dt": "2026-08-04T18:31:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "108eba66-2a8e-5d90-919c-c37c43327998",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

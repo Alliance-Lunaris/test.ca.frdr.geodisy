@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 49.0)",
+  "dcat_keyword_sm": [
+    "Ecosystem Functions",
+    "Ecological Dynamics",
+    "Primary Production",
+    "Respiration Rate",
+    "Biosphere",
+    "Biogeochemical Cycles"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Farina, M.K. (Montana State University).",
+    "Watts, Jennifer D. (Woodwell Climate Research Center). ORCID: https://orcid.org/0000-0001-7207-8999"
+  ],
+  "dct_description_sm": [
+    "This dataset is in final data producer review and should be considered provisional.",
+    "This record is for the dataset “ Gridded CO2 and CH4 Flux Estimates for pan-Arctic and Boreal Regions, 2003-2015” at <a href=\" https://doi.org/10.3334/ORNLDAAC/1367\"> https://doi.org/10.3334/ORNLDAAC/1367</a>\n<p><p> \n\nThis dataset provides gridded estimates of gross primary productivity (GPP), ecosystem respiration (Reco), net ecosystem CO2 exchange (NEE; GPP - Reco), and methane (CH4) emissions from tundra and boreal wetland soils, across the pan-Arctic and Boreal zone (>49 degrees north) at 1-km spatial resolution. The data were produced through simulations of the Arctic terrestrial carbon flux model (TCFM-Arctic) and are provided at the daily time step for the years 2003-2015. TCFM-Arctic uses a light-use efficiency approach driven by satellite estimates of FPAR (fraction of absorbed photosynthetically active radiation) to estimate GPP, and autotrophic respiration (Ra) is estimated as a fraction of GPP. Heterotrophic respiration (Rh) is estimated using decomposition rates with environmental constraints applied to three near-surface soil organic carbon (SOC) pools, and Reco is determined as the sum of Ra and Rh. Methane production is estimated using optimal CH4 production rates with environmental constraints applied to the labile carbon pool, and transfer of CH4 from the soil to the atmosphere is modeled through vegetation, soil diffusion, and water ebullition pathways. The data were calibrated and evaluated using >60 tower eddy covariance (EC) sites. Baseline carbon pools were initialized by continuously cycling (spinning-up) the model for 1,000 model years using recent climatology from 1985 to 2002 to reach a dynamic steady-state between estimated net primary productivity (NPP = GPP - autotrophic respiration) and surface SOC stocks. The TCFM-Arctic simulations were extended to the full Arctic-boreal domain at a 1-km spatial resolution using land cover maps representing high latitude vegetation communities. The data are provided in NetCDF and comma-separated values (CSV) formats. <p>\nThis dataset can be downloaded at <a href=\" https://doi.org/10.3334/ORNLDAAC/1367\"> https://doi.org/10.3334/ORNLDAAC/1367</a>"
+  ],
+  "dct_identifier_sm": [
+    "717548_137_716466",
+    "https://doi.org/10.5683/SP3/YIDWJ6"
+  ],
+  "dct_issued_s": "2024-12-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YIDWJ6\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Alaska, United States"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Gridded CO2 and CH4 Flux Estimates for pan-Arctic and Boreal Regions, 2003-2015",
+  "gbl_mdModified_dt": "2024-12-11T19:04:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5810e5c9-d305-5984-9b41-27c7041e7417",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 49.0)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // LaurierGWFO"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

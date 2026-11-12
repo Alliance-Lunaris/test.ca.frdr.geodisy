@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "forecast skill",
+    "habitat suitability",
+    "Holocene",
+    "Macrocystis pyrifera",
+    "Nereocystis luetkeana"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gregr, Edward J. (University of British Columbia).",
+    "Palacios, Daniel M. (Oregon State University).",
+    "Thompson, Allison (University of British Columbia).",
+    "Chan, Kai M.A. (University of British Columbia).",
+    "Chan, Kai M. A. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/UbflnNkzzTDuInhS8AnWRAatCx82xWddJy-QFwQKW24</p>\n<p><b>Storage size:</b> 3773327</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Understanding how species are distributed in the environment is increasingly important for natural resource management, particularly for keystone and habitat forming species, and those of conservation concern. Habitat suitability models are fundamental to developing this understanding; however their use in management continues to be limited due to often-vague model objectives and inadequate evaluation methods. Along the Northeast Pacific coast, canopy kelps (Macrocystis pyrifera and Nereocystis luetkeana) provide biogenic habitat and considerable primary production to nearshore ecosystems. We investigated the distribution of these species by examining a series of increasingly complex habitat suitability models ranging from process-based models based on species' ecology to complex Generalised Additive Models applied to purpose-collected survey data. Seeking limits on model complexity, we explored the relationship between model complexity and forecast skill, measured using both cross-validation and independent data evaluation. Our analysis confirmed the importance of predictors used in models of coastal kelp distributions developed elsewhere (i.e., depth, bottom type, bottom slope, and exposure); it also identified additional important factors including salinity, and interactions between exposure and salinity, and slope and tidal energy. Comparative results showed that cross-validation can lead to over-fitting, while independent data evaluation clearly identified the appropriate model complexity for generating habitat forecasts. Our results also illustrate that, depending on the evaluation data, predictions from simpler models can out-perform those from more complex models. Collectively, the insights from evaluating multiple models with multiple data sets contribute to the holistic assessment of model forecast skill. The continued development of methods and metrics for evaluating model forecasts with independent data, and the explicit consideration of model objectives and assumptions, promise to increase the utility of model forecasts to decision makers.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">dataGregrEcography_2018</h4><div class=\"o-metadata__file-description\">Includes: 1) Kelp survey and remote sensing data as csv files; 2) various processed results in RData format.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">scriptsGregrEcography_2018</h4><div class=\"o-metadata__file-description\">R scripts for processing and analysing the data.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "154027_150149",
+    "https://doi.org/10.5683/SP2/GASVCT"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/GASVCT\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Pacific coast",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Why less complexity produces better forecasts: an independent data evaluation of kelp habitat models",
+  "gbl_mdModified_dt": "2021-05-19T21:10:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c74b5fef-099b-57e3-85ec-8392ebe60618",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,35 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.04448405427114, -75.34076977724666, 45.524199738990674, 45.12702645509616)",
+  "dcat_keyword_sm": [
+    "OC Transpo",
+    "transports"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ottawa Ouverte."
+  ],
+  "dct_description_sm": [
+    "<p><strong>Exactitude</strong>:</p><p>Bien qu’OC Transpo s’efforce de communiquer des renseignements exacts sur l’emplacement et l’infrastructure des arrêts d’autobus, il est possible que certains emplacements d’arrêt d’autobus ne soient pas exacts ou soient désuets en raison de changements opérationnels apportés aux arrêts d’autobus dans les rues. De même, l’information sur l’infrastructure des arrêts d’autobus est aussi précise que possible, mais peut ne pas représenter l’état actuel d’un arrêt d’autobus. Dans l’ensemble, ces données ne doivent pas être utilisées à des fins de planification et sont fournies à titre de référence uniquement.<br /><br /><strong>Fréquence des mises à jour</strong>:</p><p>Ces données seront mises à jour au moins une fois par année, au besoin, mais elles pourraient l’être jusqu’à quatre fois par année, en fonction des quatre périodes de service annuelles d’OC Transpo.<br /><br /><strong>Attributs</strong>:</p><p>IDENTIFIANT DE L’ÉLÉMENT (FID) : il s’agit d’un identifiant d’arrêt d’autobus attribué dans le logiciel de cartographie, mais ce n’est pas le numéro d’identification réel de l’arrêt d’autobus<br />FORME (SHAPE) : tous les arrêts d’autobus sont identifiés comme couches de points&nbsp;<br />560 : il s’agit du « numéro 560 » à quatre chiffres, associé à l’arrêt d’autobus, et du code d’identification de l’arrêt d’autobus qu’utilisent les clients<br />EMPLACEMENT (LOCATION) : il s’agit du nom de l’arrêt d’autobus, qui est exprimé en fonction de l’emplacement de l’arrêt d’autobus<br />LATITUDE : il s’agit de la coordonnée de latitude pour l’emplacement de l’arrêt d’autobus<br />LONGITUDE : il s’agit de la coordonnée de longitude pour l’emplacement de l’arrêt d’autobus<br />ABRIBUS (SHELTER) : un « Oui » (« Y » pour Yes) figurera dans ce champ lorsque l’arrêt d’autobus comprend un abribus<br />BANC (BENCH) : un « Oui » (« Y » pour Yes) figurera dans ce champ lorsque l’arrêt d’autobus est doté d’un banc<br /><br /><strong>Courriel de l'auteur</strong>: <a href='mailto:michael.tracey@ottawa.ca' rel='nofollow ugc'>OC Transpo</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "20bc98c6093c4ab68851be3dd356ca0d",
+    "https://www.arcgis.com/home/item.html?id=20bc98c6093c4ab68851be3dd356ca0d"
+  ],
+  "dct_issued_s": "2025-07-21",
+  "dct_publisher_sm": [
+    "Ottawa Ouverte"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://ouverte.ottawa.ca/datasets/ottawa::arrêts-dautobus-doc-transpo\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/fr/hotel-de-ville/administration-ouverte-et-transparente-et-qui-rend-compte-de-ses-actes/donnees-ouvertes"
+  ],
+  "dct_title_s": "Arrêts d’autobus d’OC Transpo",
+  "gbl_mdModified_dt": "2025-07-29T14:53:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "344e9801-14a3-5474-b889-7e903efea52a",
+  "locn_geometry": "ENVELOPE(-76.04448405427114, -75.34076977724666, 45.524199738990674, 45.12702645509616)",
+  "schema_provider_s": "Ottawa Ouverte"
+}

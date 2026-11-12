@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Layer of points representing the intersections of the road network in the city of Saint-Hyacinthe.\n\n**Collection context**\n Associated with the layer of street sections of the city's road network.\nTopological intersection points associated with the intersections of segments of street sections.\n\n**Collection method**\n Computer-aided design with topological rules between the road network and the intersection nodes.\n\n**Attributes**\n\n* `ASSET_ID` (`integer`): Identifier\n* `TYPE_REF` (`varchar`): Type reference\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `LOC_SYMBOL` (`varchar`): Symbol\n* `LOC_ROTATION` (`numeric`): Rotation angle\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/70697aae-2bc9-47a0-951d-4d272ce5b657"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/70697aae-2bc9-47a0-951d-4d272ce5b657\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Road intersection points - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cc7108ab-d405-56c9-a4cd-c4f5e75301db",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

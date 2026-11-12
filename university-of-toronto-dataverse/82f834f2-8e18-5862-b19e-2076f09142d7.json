@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "census tract",
+    "boundary",
+    "census",
+    "1996",
+    "canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Allen, Jeff (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "This dataset is a spatially corrected version of the 1996 Canadian Census Tract Digital Boundary File (DBF). The original boundary file from Statistics Canada contained substantial spatial mismatch error compared to boundaries of other census years. We corrected this mismatch error via a conflation procedure which is further described here: https://github.com/jamaps/census_canada_conflation \r\n"
+  ],
+  "dct_identifier_sm": [
+    "55297_55290_55291",
+    "https://doi.org/10.5683/SP/A8WKPM"
+  ],
+  "dct_issued_s": "2017-05-07",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP/A8WKPM\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "Spatially Corrected Digital Boundary File - 1996 Census Tracts",
+  "gbl_mdModified_dt": "2017-05-18T14:40:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "82f834f2-8e18-5862-b19e-2076f09142d7",
+  "pcdm_memberOf_sm": [
+    "Jeff Allen Dataverse // Corrected Census Boundaries for 1991 and 1996 Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

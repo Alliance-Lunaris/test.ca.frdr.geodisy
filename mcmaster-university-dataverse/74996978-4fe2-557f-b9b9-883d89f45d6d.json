@@ -1,0 +1,35 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Uwalaka, Lucia (McMaster University).",
+    "Yao, Qi (McMaster University).",
+    "Duque, Josimar (McMaster University).",
+    "Kollmeyer, Phil (McMaster University). ORCID: https://orcid.org/0000-0003-3576-672X"
+  ],
+  "dct_description_sm": [
+    "An LG E66 pouch cell and a battery module containing twelve E66 cells (6p2s) were tested.  Both the cell and module were taken from a Porsche Taycan EV from a low mileage vehicle.  Characterization tests, including numerous drive cycles, constant current discharge rates, and an OCV and HPPC test, were performed at -20, -10, 0, 10, 25, and 40degC.  These tests are useful for creating battery terminal voltage models and for creating SOC estimation algorithms using machine learning and filter based techniques.  The battery module was opened and instrumented with a battery management system to measure cell voltages and perform cell balancing.  The module was also instrumented with numerous temperature sensors, including across the face of the cells so that temperature distribution throughout the module could be measured.  The module was placed on a liquid cooling plate, like that in the vehicle, and tested for fast charging rates of 0.5, 1, 1.5, and 2C, as well as with the profile used in the Porsche Taycan vehicle."
+  ],
+  "dct_identifier_sm": [
+    "720052",
+    "https://doi.org/10.5683/SP3/7JP3NM"
+  ],
+  "dct_issued_s": "2024-10-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/7JP3NM\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Fast Charging and Characterization Dataset for Porsche Taycan LG E66 Battery Cell and Module",
+  "gbl_mdModified_dt": "2024-10-10T16:03:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "74996978-4fe2-557f-b9b9-883d89f45d6d",
+  "schema_provider_s": "McMaster University Dataverse"
+}

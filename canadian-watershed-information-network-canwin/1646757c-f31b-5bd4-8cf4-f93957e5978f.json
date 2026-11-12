@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.88, -99.52, 55.74, 48.88)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This table contains data on food processing facilities in the province.\n\nThis table, created by the Food Safety and Inspection Branch-Manitoba Agriculture, contains data on food processing facilities in the province. Fields included ( Alias (Field Name): Field description.) Site Address (Site_Address): Address of the facility. Facility Number (Facility_Number): Number assigned to the facility. Facility Name (Facility_Name): Registered name of the facility. Facility Type (Facility Type): Facilities’ permits issued are specific to the type of product manufactured.  Facility Category: The different permit categories include: Processed Products – Facilities with permits in this category include food operations that produce processed food products (ex: condiments, candy, snack food, other prepared food). Food Warehousing, Distribution and Repackaging – Facilities with permits in this category include operations that store and distribute food products and may conduct basic repackaging ex: bulk dry goods into smaller retail packages. Meat Processing – Facilities with permits in this category include operations that make various meat products ranging from raw meat cuts to products such as sausage and jerky. Also in this category are facilities that make products like smoked fish. Their permits only allow the products to be sold within Manitoba. Bottling – Facilities with permits in this category include water bottling plants, soft drink manufacturers, breweries, wineries, distilleries, juice manufacturers, ice making plants and other similar plants. Grain/Oil Seed Processing – Facilities with permits in this category include grain and seed cleaning and packaging facilities, flourmills, oil processors, etc. Abattoirs – Facilities with permits in this category are abattoirs that slaughter animals under the oversight of a government inspector to produce meat for sale within the province. Dairy Products Processing – Facilities with permits in this category process dairy products (ex: raw milk cheese). Program Area (Program_Area): Program area. Work Area (Work_Area): Work area. Community (Community): Community where the facility is located Area (Area): Area of the city where the facility is located.  Zone (Zone): Zone of the city where the facility is located. Region (Region): Name of the region where the facility is located. Legal Name (Legal_Name): Legal name of the facility. Lot (Lot): Lot where the facility is located. Block (Block): Block where the facility is located. Plot (Plot): Plot where the facility is located. Quadrant (Quadrant): Quadrant where the facility is located. Section (Section): Section where the facility is located. Township (Township): Township where the facility is located. Meridian (Meridian): Meridian where the facility is located. Site Unit Number (Site_Unit_Number): number of the unit where the facility is located. Site Street Number (Site_Street_Number): Street number where the facility is located. Site City (Site_City): City where the facility is located. Site Province (Site_Province): Province where the facility is located. Site Country (Site_Country): Country where the facility is located. Site Postal Code (Site_Postal_Code) : Postal code of the facility. Latitude (Latitude): north-south coordinates of the facility. Longitude (Longitude): east-west coordinates of the facility. Species Harvested (Species_Harvested): species being processed in each abattoir."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b239971d-9f8a-c899-2257-8aaea65d986b"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b239971d-9f8a-c899-2257-8aaea65d986b\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Abattoirs Processing Facilities",
+  "gbl_mdModified_dt": "2026-08-26T11:01:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1646757c-f31b-5bd4-8cf4-f93957e5978f",
+  "locn_geometry": "ENVELOPE(-101.88, -99.52, 55.74, 48.88)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

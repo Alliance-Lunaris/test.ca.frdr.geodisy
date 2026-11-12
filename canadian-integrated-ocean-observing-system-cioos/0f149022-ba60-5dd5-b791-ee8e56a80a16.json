@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-172.58, -50.75, 81.48, 46.37)",
+  "dcat_keyword_sm": [
+    "cases",
+    "other",
+    "brea",
+    "ipy-geotraces",
+    "oceans",
+    "ipy-cfl",
+    "brea",
+    "canadian-arctic-archipelago",
+    "beaufort-sea",
+    "gps",
+    "labrador-sea---abavx-beaufort-sea---kaala",
+    "arcticnet",
+    "baffin-bay---oabmi-arctic-canadian-seas",
+    "baffin-bay",
+    "autre",
+    "ipy-cfl",
+    "ipy-geotraces",
+    "arcticnet",
+    "cases",
+    "nares-strait"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de navigation (NAV) du NGCC Amundsen enregistrées lors des expéditions scientifiques annuelles dans l'Arctique canadien"
+  ],
+  "dct_creator_sm": [
+    "Lévesque, Keith.",
+    "Morisset, Simon.",
+    "Linkowski, Thomas.",
+    "Zier, Juergen."
+  ],
+  "dct_description_sm": [
+    "The navigation data of the Amundsen scientific expeditions between 2003 and 2023 were recorded with the Position and Orientation Systems for Marine Vessels (POS-MV) and C-Nav Differential Global Navigation Satellite System (DGNSS) Precise Point Positioning systems. Two sets of controlled data are provided for each year of expedition. The first set is at time intervals of seconds for every day of the cruise and the second set is at 15 minute intervals. The data consist of Latitude, Longitude, Heading, Roll, Pitch, Heave, Track, Speed and Global Positioning System (GPS) sources at the second time intervals. The vessel's tracks in *.kml (Google Earth format) were derived from the 15 minute time intervals dataset and are also provided. Data before 2020 are presented in INT format; an internal text based format adopted by ArcticNet since the 2003. For the year 2020 and afterward, Amundsen Science has adopted CSV (Comma Separated Value) format to support its new policy on Open Data and Open Science. The corresponding ship tracks are presented in *.gpkg (Geopackage format: https://www.geopackage.org/) after 2020. Research programs participating in the Amundsen expeditions between 2003 and 2017 were CASES, ArcticNet, IPY-CFL, Solas, Geotraces, Malina, IOL and BP, Jamstec, Netcare, Weston, BREA, iBO and GreenEdge.",
+    "Les données de navigation des expéditions scientifiques d'Amundsen entre 2003 et 2023 ont été enregistrées à l'aide des systèmes de positionnement et d'orientation des navires (POS-MV) et des systèmes de positionnement par points précis du système mondial de navigation par satellite différentiel C-Nav (DGNSS). Deux ensembles de données contrôlées sont fournis pour chaque année d'expédition. La première série se déroule à des intervalles de quelques secondes pour chaque jour de croisière et la seconde à des intervalles de 15 minutes. Les données comprennent la latitude, la longitude, le cap, le roulis, le tangage, le soulèvement, la trajectoire, la vitesse et les sources du système de positionnement global (GPS) aux deuxièmes intervalles de temps. Les traces du navire en *.kml (format Google Earth) ont été dérivées de l'ensemble de données des intervalles de 15 minutes et sont également fournies. Les données antérieures à 2020 sont présentées au format INT, un format de texte interne adopté par ArcticNet depuis 2003. Pour l'année 2020 et les années suivantes, Amundsen Science a adopté le format CSV (Comma Separated Value) pour soutenir sa nouvelle politique en matière de données ouvertes et de science ouverte. Les traces des navires correspondantes sont présentées en *.gpkg (format Geopackage : https://www.geopackage.org/) après 2020. Les programmes de recherche participant aux expéditions Amundsen entre 2003 et 2017 étaient CASES, ArcticNet, IPY-CFL, Solas, Geotraces, Malina, IOL et BP, Jamstec, Netcare, Weston, BREA, iBO et GreenEdge."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/99e4ddd4-2623-467e-944c-ed37a239ec6d"
+  ],
+  "dct_issued_s": "2024-07-15",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/99e4ddd4-2623-467e-944c-ed37a239ec6d\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "CCGS Amundsen Navigation (NAV) data recorded during the annual science expeditions in the Canadian Arctic",
+  "gbl_mdModified_dt": "2026-07-31T16:46:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0f149022-ba60-5dd5-b791-ee8e56a80a16",
+  "locn_geometry": "ENVELOPE(-172.58, -50.75, 81.48, 46.37)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

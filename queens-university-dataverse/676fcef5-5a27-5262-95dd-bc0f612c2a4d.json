@@ -1,0 +1,79 @@
+{
+  "dcat_keyword_sm": [
+    "Limnology, water chemistry, environmental data, aquatic ecology",
+    "Limnology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Shelley Arnott (Queen's University. Department of Biology, Queen's University). ORCID: https://orcid.org/0000-0002-3834-703X",
+    "James Rusak (Dorset Environmental Science Centre, Dorset Environmental Science Centre (DESC)). ORCID: https://orcid.org/0000-0002-4939-6478"
+  ],
+  "dct_description_sm": [
+    "VARIABLES\r\nID: Unique identifier for each row in the dataset (Not associated to the data collection or processing)\r\nLAB_SAMPLE_NUM: Laboratory sample number\r\nSTATION: Alphanumeric Identifier - Often associated to the latitude and longitude of the sampling site (NAD83-UTM Zone17N). Contact database manager at DESC for further information (currently Johnny Su: johnny.su@ontario.ca).\r\nSDATE: Refers to the date of sampling in the format of mm/dd/yyyy \r\nSPECIAL_STUDY_ID: Numeric Identifier(integer) - Project ID assigned by Database Manager or sample submission clerk at the DESC (johnny.su@ontario.ca)\r\nSAMPLE_GEAR_TYPE: Numeric (integer or decimal) – Gear Identifier\r\n    4     tube composite (lake)\r\n    5     composite bottle (lake)\r\nSTYPE: Numeric (integer) - Sample Type and Collection method. Origin of Water\r\n    11    grab sample (single depth) lakes, streams\r\n    12    depth composite lakes\r\nLDESC: Location description. A short or abbreviated description of where the sample originated 34 lakes\r\nLAKE_LAT: Latitude in decimal degrees (NAD83-UTM Zone17N)\r\nLAKE_LON: Longitude in decimal degrees (NAD83-UTM Zone17N)\r\nLDEPTH: Lake depth\r\nSECCHI: The Secchi disk measures water transparency or turbidity in bodies of water. The disc is mounted on a pole or line and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the transparency of the water. This measure is known as the Secchi depth and is related to water turbidity. Secchi depth in this case is measured in meters - must be present when WLAYER = 5, which is the identifier for Lake Layer sampled, where 5 = euphotic zone (surface to 2 x Secchi).\r\nTEST_NAME: oracle name of the test performed\r\n    AGUT = Silver measured in µg/L\r\n    ALKT = Total Alkalinity measured in mg/L\r\n    ALKTI = Gran Alkalinity measured in mg/L\r\n    ALUT = Aluminium measured in µg/L\r\n    ANIONS = negatively charged molecules or ions, with more electrons than protons (computed as the sum of all anions measure in meq/L\r\n    ASUT = Arsenic measured in µg/L\r\n    BAUT = Barium measured in µg/L\r\n    BBUT = Boron measured in µg/L \r\n    BEUT = Beryllium measured in µg/L\r\n    CAUT = Calcium measured in mg/L\r\n    CDUT = Cadmium measured in µg/L\r\n    CLIDUR = Chloride measured in mg/L\r\n    COLTR = True colour units TCU\r\n    COND25 = Conductivity at 25 degrees Celsius\r\n    CONDTY = Conductivity estimated measured in µS/cm\r\n    COUT = Cobalt measured in µg/L\r\n    CRUT Chromium measured in µg/L\r\n    CUUT = Copper measured in µg/L\r\n    DIC = Dissolved inorganic carbon measured in mg/L\r\n    DOC = Dissolved Organic Carbon measured in mg/L\r\n    FEUT = Iron measured in µg/L\r\n    IBCCAT = cations, a positively charged ion, with fewer electrons than protons computed as the sum of all cations that were measured (meq/L)\r\n    IONCAL = Ion balance calculation measured in percentage. Used as a check to make sure all the concentrations of all the ions balance out\r\n    KKUT = Potassium measured in mg/L\r\n    LANGI = Langeliers index calculation (no units). It is an approximate indicator of the degree of saturation of calcium carbonate in water. It is calculated using the pH, alkalinity, calcium concentration, total dissolved solids, and water temperature of a water sample collected at the tap. If the; Langelier Index is negative, then the water is under saturated with calcium carbonate and will tend to be corrosive in the distribution system. If the Langelier Index is positive, then the water is over saturated with calcium carbonate and will tend to deposit calcium carbonate forming scales in the distribution system. If Langelier Index is close to zero, then the water is just saturated with calcium carbonate and will neither be strongly corrosive or scale forming.\r\n    MGUT = Magnesium measured in mg/L\r\n    MNUT = Manganese measured in µg/L\r\n    MOUT = Molybdenum measured in µg/L\r\n    NAUT = Sodium measured in mg/L\r\n    NIUT = Nickel measured in µg/L\r\n    NNHTUR = Ammonia (+Ammonium) measured in µg/L\r\n    NNOTUR = Nitrate + Nitrite µg/L\r\n    NNTKUR = Notrogen total KJELDAHL in µg/L\r\n    NTOT = Total Nitrogen measured in mg/L\r\n    PBUT = Lead measured in µg/L\r\n    PH = pH\r\n    PHSEST = Saturation PH estimated (no units)\r\n    PPUT1 = Total Phosphorous measured in µg/L\r\n    PPUT2 = Total Phosphorous measured in µg/L\r\n    PPUT3 = Total Phosphorous measured in µg/L PPUT1 - 3 are just replicates.  Most of the time, two replicate samples are taken for phosphorus, but sometimes people submit 3.\r\n    RSFEST = Dissolved solids estimated as mg/L\r\n    SBUT = Antimony measured in µg/L \r\n    SEUT = Selenium measured in µg/L\r\n    SIO3UR = Silicates measured in mg/L\r\n    SRUT = Strontium measured in µg/L\r\n    SSO4UR = sulphate measured in mg/L\r\n    TIUT = Titanium measured in µg/L\r\n    TLUT = Thallium measured in µg/L\r\n    UUUT = measured in µg/L\r\n    VVUT = vanadium measured in µg/L\r\n    ZNUT = Zinc measured in µg/L\r\nNAME: common name of the tests above\r\n    ALKALINITY; GRAN\r\n    ALKALINITY; TOTAL FIXED ENDPT\r\n    ALUMINUM\r\n    ANIONS\r\n    ANTIMONY\r\n    ARSENIC\r\n    BARIUM\r\n    BERYLLIUM\r\n    BORON\r\n    CADMIUM\r\n    CALCIUM\r\n    CARBON; DISSOLVED INORGANIC\r\n    CARBON; DISSOLVED ORGANIC\r\n    CATIONS\r\n    CHLORIDE\r\n    CHROMIUM\r\n    COBALT\r\n    COLOUR; TRUE\r\n    CONDUCTIVITY\r\n    CONDUCTIVITY ESTIMATED\r\n    COPPER\r\n    ION BALANCE CALCULATION\r\n    IRON\r\n    LANGELIERS INDEX CALCULATION\r\n    LEAD\r\n    MAGNESIUM\r\n    MANGANESE\r\n    MOLYBDENUM\r\n    NICKEL\r\n    NITROGEN; AMMONIA+AMMONIUM\r\n    NITROGEN; NITRATE+NITRITE\r\n    NITROGEN; TOTAL\r\n    NITROGEN; TOTAL KJELDAHL\r\n    PH\r\n    PHOSPHORUS; TOTAL\r\n    POTASSIUM\r\n    SATURATION PH ESTIMATED\r\n    SELENIUM\r\n    SILICON; REACTIVE SILICATE\r\n    SILVER\r\n    SODIUM\r\n    SOLIDS; DISSOLVED ESTIMATED\r\n    STRONTIUM\r\n    SULPHATE\r\n    THALLIUM\r\n    TITANIUM\r\n    URANIUM\r\n    VANADIUM\r\n    ZINC\r\nVALUE: This is just the measured value of the variable \r\nUNITS: Unit related to the value of the result obtained from TEST_NAME. The levels found are: %, meq/L, mg/L, mg/L CaCO3, TCU, ug/L, uS/cm\r\nREMARK: information about the sample and their ability to measure it. Chemistry database retrievals should include the laboratory remarks codes in order that the missing or invalid data may be identified and examined for editing. The following list includes only the most common codes reported in association with DESC sample submissions.\r\n    <=W: < or equal to the min. repeated value, no measurable response (zero): < reported value\r\n    <W no measurable response (zero): < reported value\r\n    <T: a measurable trace amount (interpret with caution)\r\n    DP: duplicate\r\n    NDNR no data: sample not received\r\n    NDBT: no data: container broken in transit\r\n    NDID: no data: insufficient data to perform calculations\r\n    +/-: Result obtained is +/- value indicated\r\n    NA: Not applicable, data was not provided\r\nVALQUALIFIER: Descriptor for additional information pertinent to the concentration value reported for a particular sample analysis.\r\nSDESC: Character - sample description. Information about the sample that may help people reviewing the data interpret the results (e.g., pollen in sample). It also indicates if a sample has been already fixed prior to arrival at the DESC laboratory. \r\nWLAYER: Numeric (integer) – identifier for Lake Layer sampled\r\n    2     epilimnion\r\n    9     general layer (0-5 m composite etc.)\r\nSDEPTH: Numeric (integer) - sample depth (in m) or top of composite for depth composite (SAMPLE TYPE = 12) samples\r\nBGDEPTH: Bottom depth (in m) of composite samples (SAMPLE TYPE = 12)\r\nWDEPTH: Numeric (integer or decimal) – depth (in m) of water at sample location",
+    "This file contains a compilation of lake water chemistry data collected by Dr. Shelley Arnott's laboratory and processed at the Dorset Environmental Science Centre http://desc.ca/ \r\nThe data spans the following years: 2006, 2012, 2014, 2015 and 2016.\r\nFor information about sample collection and processing, please consult: http://desc.ca/sites/default/files/DESCSubmissionUserManual.pdf\r\nThe methods have been described in the report by Girard R. E. et al. (2007), history of chemical, physical, and biological methods, sample locations and lake morphometry for the Dorset Environmental Science Centre (1973-2006).\r\nThis report describes the chemical, physical and biological sample collection methods used in the investigations of lakes and watersheds by staff of the Dorset Environmental Science Centre (DESC, formerly the Dorset Research Centre) for the period 1973 to 2006."
+  ],
+  "dct_identifier_sm": [
+    "107924_87",
+    "https://doi.org/10.5683/SP2/H6KDZK"
+  ],
+  "dct_issued_s": "2020-07-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/H6KDZK\"}",
+  "dct_rights_sm": [
+    "This dataset is made available with limited information on how it can be used. You may wish to communicate with the Contact(s) specified before use."
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Canada",
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Chemistry",
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Water chemistry composition for 34 lakes in Ontario (2006, 2012, 2014-2016)",
+  "gbl_mdModified_dt": "2020-07-02T03:51:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "676fcef5-5a27-5262-95dd-bc0f612c2a4d",
+  "pcdm_memberOf_sm": [
+    "Queen's University Biological Station Data Archive Dataverse"
+  ],
+  "schema_provider_s": "Queen's University Dataverse"
+}

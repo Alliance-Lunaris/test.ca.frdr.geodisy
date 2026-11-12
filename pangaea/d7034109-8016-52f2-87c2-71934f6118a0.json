@@ -1,0 +1,76 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.156954, -125.156944, 48.813611, 48.813601)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Soor, Deep (University of Toronto).",
+    "Tigert, Liam R (University of Toronto). ORCID: https://orcid.org/0000-0002-1402-5079",
+    "Khodikian, Elissa (University of Toronto Scarborough, University of Toronto). ORCID: https://orcid.org/0000-0002-0018-1767",
+    "Bozai, Arsheen (University of Toronto).",
+    "Yoon, Gwangseok R (University of Toronto, University of Toronto Scarborough, University of New England). ORCID: https://orcid.org/0000-0001-5557-8692",
+    "Porteus, Cosima S (University of Toronto Scarborough, University of Toronto). ORCID: https://orcid.org/0000-0003-4730-4960"
+  ],
+  "dct_description_sm": [
+    "In this study, the neuroepithelial cells (NECs) of marine threespine sticklebacks (Gasterosteus aculeatus) were characterized using immunohistochemistry. We then determined if there were changes in NEC size and density, and in gill morphology in response to either mild (10 kPa) or moderate (6.8 kPa) hypoxia and two levels of elevated CO2 (1,500 and 3,000 µatm).This dataset is included in the OA-ICC data compilation maintained in the framework of the IAEA Ocean Acidification International Coordination Centre (see https://oa-icc.ipsl.fr). Original data were provided by the author of the related paper (see Related to) to the OA-ICC data curator. In order to allow full comparability with other ocean acidification data sets, the R package seacarb (Gattuso et al, 2024) was used to compute a complete and consistent set of carbonate system variables, as described by Nisumaa et al. (2010). In this dataset the original values were archived in addition with the recalculated parameters (see related PI). The date of carbonate chemistry calculation by seacarb is 2024-10-28."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.973195",
+    "https://doi.org/10.1594/pangaea.973195"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.973195\"}",
+  "dct_subject_sm": [
+    "Gasterosteus aculeatus",
+    "pH, total scale",
+    "Number of cells",
+    "Single species",
+    "North Pacific",
+    "Species, unique identification",
+    "Coast and continental shelf",
+    "Carbon dioxide",
+    "Treatment",
+    "Animalia",
+    "Partial pressure of carbon dioxide (water) at sea surface temperature (wet air)",
+    "Treatment: partial pressure of carbon dioxide",
+    "Laboratory experiment",
+    "Calculated using CO2SYS",
+    "Width",
+    "Oxygen, partial pressure",
+    "Year of experiment",
+    "Fugacity of carbon dioxide (water) at sea surface temperature (wet air)",
+    "pH, NBS scale",
+    "Calcite saturation state",
+    "Aragonite saturation state",
+    "Salinity",
+    "Other studied parameter or process",
+    "Pelagos",
+    "Carbonate ion",
+    "Alkalinity, total",
+    "Surface area",
+    "Calculated using seacarb after Nisumaa et al. (2010)",
+    "Ocean acidification",
+    "Type of study",
+    "Length",
+    "Temperature, water",
+    "Bicarbonate ion",
+    "Ocean Acidification International Coordination Centre (OA-ICC)",
+    "Carbon, inorganic, dissolved",
+    "Temperate",
+    "Nekton",
+    "Area",
+    "Chordata",
+    "Containers and aquaria (20-1000 L or &lt; 1 m**2)",
+    "Carbonate system computation flag"
+  ],
+  "dct_title_s": "Seawater carbonate chemistry and changes in gill neuroepithelial cells and morphology of threespine stickleback (Gasterosteus aculeatus)",
+  "gbl_mdModified_dt": "2026-05-20T01:19:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d7034109-8016-52f2-87c2-71934f6118a0",
+  "locn_geometry": "ENVELOPE(-125.156954, -125.156944, 48.813611, 48.813601)",
+  "schema_provider_s": "PANGAEA"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8065, -94.7177, 54.8786, 49.0027)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This point layer dataset contains information on Manitoba waterbody access points including boat launches, overland routes and tunnels.  \n  \n  Waterbody Entry Points contains point data primarily of boat launches in Manitoba, but it also includes overland routes and tunnel access to some waterbodies. Each data point has a description of the type of access as well as photos that detail signage and condition of the entry point. The waterbody entry points layer, along with related information, can be found at the Manitoba Lake Information For Anglers app. The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit Manitoba Fisheries. The dataset includes the following fields (Alias (Name): Description) Waterbody ID (WATERBODY_ID): Unique identifier for an individual waterbody. Waterbody Name (WATERBODY_NAME): Name of the waterbody that the entry point belongs to. Entry Type (ENTRY_TYPE): Indicates the type of entry point (e.g. boat launch, tunnel). Photo 1 (PHOTO_1): Link to a photo of the launch/entry point. Photo 2 (PHOTO_2): Link to a photo of the launch/entry point. Photo 3 (PHOTO_3): Link to a photo of the launch/entry point. Long (DD) (LONG_DD): Longitudinal coordinates of the feature in decimal degrees. Lat (DD) (LAT_DD): Latitudinal coordinates of the feature in decimal degrees."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/11e2c771-c9a6-1e24-78a9-a5c0241ed37f"
+  ],
+  "dct_issued_s": "2024-09-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/11e2c771-c9a6-1e24-78a9-a5c0241ed37f\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Waterbody Entry Points",
+  "gbl_mdModified_dt": "2025-02-05T19:12:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f723b59c-6a0b-5374-98a1-908c2f847bea",
+  "locn_geometry": "ENVELOPE(-101.8065, -94.7177, 54.8786, 49.0027)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

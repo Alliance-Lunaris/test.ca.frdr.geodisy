@@ -1,0 +1,61 @@
+{
+  "dcat_keyword_sm": [
+    "Helianthus argophyllus",
+    "ultraviolet floral patterning",
+    "Sunflower",
+    "Nectar guide",
+    "bash",
+    "filtering",
+    "candidate genes",
+    "tassel",
+    "UNEAK",
+    "blastp",
+    "UV bullseye",
+    "paired-end sequence files",
+    "HapMap",
+    "SNP calling",
+    "Helianthus",
+    "QTL mapping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Moyers, Brook T. (University of British Columbia).",
+    "Owens, Gregory L. (University of British Columbia).",
+    "Baute, Gregory J. (University of British Columbia).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/VhQQSCDgU5Ki4Soaxxu5hHbM6SMa7UP3ZumkaNt-V0k</p>\n<p><b>Storage size:</b> 680729166</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Background and Aims: The patterning of floral ultraviolet (UV) pigmentation varies both intra- and interspecifically in sunflowers and many other plant species, impacts pollinator attraction, and can be critical to reproductive success and crop yields. However, the genetic basis for variation in UV patterning is largely unknown. This study examines the genetic architecture for proportional and absolute size of the UV bullseye in Helianthus argophyllus, a close relative of the domesticated sunflower.  Methods: A camera modified to capture UV light (320–380 nm) was used to phenotype floral UV patterning in an F2 mapping population, then quantitative trait loci (QTL) were identified using genotyping-by-sequencing and linkage mapping. The ability of these QTL to predict the UV patterning of natural population individuals was also assessed.  Key Results: Proportional UV pigmentation is additively controlled by six moderate effect QTL that are predictive of this phenotype in natural populations. In contrast, UV bullseye size is controlled by a single large effect QTL that also controls flowerhead size and co-localizes with a major flowering time QTL in Helianthus.  Conclusions: The co-localization of the UV bullseye size QTL, flowerhead size QTL and a previously known flowering time QTL may indicate a single highly pleiotropic locus or several closely linked loci, which could inhibit UV bullseye size from responding to selection without change in correlated characters. The genetic architecture of proportional UV pigmentation is relatively simple and different from that of UV bullseye size, and so should be able to respond to natural or artificial selection independently.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Flowerheads photographed in UV</h4><div class=\"o-metadata__file-description\">Zipped directory containing JPG files of Helianthus argophyllus flowerheads photographed with a Nikon D70s digital camera fitted with a Noflexar 35mm lens and a reverse-mounted 2 inch Baader U-Filter (restricting the transmission of light to 320–380 nm). Files are named according to the plant's location in the field and the photograph number (e.g. 'b1-11DSC_1586' is the plant from row 1, space 11, photograph 1586; exceptions are the F1 individuals which are labeled X3A-# or X3B-# instead of by field location). The archived data file with phenotypic measurements contains the key to translate field location to plant genotype.</div><div class=\"o-metadata__file-name\">UVphotos.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Custom Perl script for formatting paired-end GBS data for uneak pipeline</h4><div class=\"o-metadata__file-description\">This script translates paired-end fastq sequencing files into two independent sets of individually barcoded reads with a custom Perl script, to be used in the uneak pipeline (which is built only for single-end reads, from TASSEL 3; Lu et al., 2013). usage: perl GBS_Fastq_BarcodeAdder.pl uneak_key_file.txt library_1.fq library_2.fq combined_library_out.fq</div><div class=\"o-metadata__file-name\">GBS_Fastq_BarcodeAdder_2Enzyme.pl</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Bash commands used to filter for final SNP matrix</h4><div class=\"o-metadata__file-description\">This file contains the series of bash commands used to filter uneak output to call genotypes using more stringent filters. Starting with the HapMapCount file (for each individual at each tag pair: minimum of 10 tags, heterozygote if the ratio of the two tags < 10, homozygote if the ratio of the two tags > 50, otherwise N), filter the resulting file for sites with alternate homozygous genotypes in the two parent individuals (7,875 sites), filter those sites for a minimum coverage of 50% across all individuals and observed heterozygousity of 0.3–0.7, and then format these genotypes for import into R/qtl.</div><div class=\"o-metadata__file-name\">uneak_bash_filters.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Phenotype and genotype matrix for QTL mapping</h4><div class=\"o-metadata__file-description\">Data matrix formatted for R/qtl, for QTL mapping in F2 population of Helianthus argophyllus. Column headers are: GBS_name (sample identifier in sequence files), name (field location, e.g. R1-11 is row 1, space 11), id (numeric identifier unique to individual), fam (F2 family), row (row location), , place (place within row location), mom (identity of F1 maternal parent), uvR (proportional UV pigmentation), uvD (absolute UV bullseye diameter, cm), total.d.cm (total flowerhead diameter, cm), disc.d (disc diameter, cm), petal.d.cm (mean ligule length, cm), FHage (binned maturity score of flowerhead). The following columns are marker genotypes, with the map location of those markers on rows 2 (linkage group) and 3 (centiMorgan).</div><div class=\"o-metadata__file-name\">map3all_dryad_phenoUV_FHage.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Phenotypic data for all individuals</h4><div class=\"o-metadata__file-description\">Includes phenotypes for all USDA accession, F1, and F2 individuals measured in this study. Column headers are: Dataset (Main = F2, others as indicated), name (plant location in field, e.g. R1-11 is row 1, space 11), filename (file name of flowerhead photograph), FHage (binned maturity of sampled flowerhead), clip (length in pixels of standard object in photo), pixels_cm (number of pixels per cm for this photo), clip_size (which standard object was included in photo), class (population to which individual belonged, e.g. F2), cytoplasm (whether F2 individual had ARG-1805 as maternal grandmother, A, or ARG-1834, B), F1pop (F1 family for F2 individuals), session (photography session), picN (photo number), h.disc (width of flowerhead disc in pixels), v.disc (height of flowerhead disc in pixels), 1f (total length of first measured ligule in pixels),1p (UV pigmented length of first measured ligule in pixels), 2f (total length of second measured ligule in pixels), 2p (UV pigmented length of second measured ligule in pixels), 3f (total length of third measured ligule in pixels), 3p (UV pigmented length of second measured ligule in pixels), r1 (1p/1f) , r2 (2p/2f), r3 (3p/3f), mean.r (mean of r1, r2, r3, or proportional UV pigmentation), uv.d (mean of h.disc and v.disc plus 2 x mean of 1p, 2p, 3p), uv.d.cm (uv.d divided by pixels_cm, or absolute UV bullseye diameter in cm), total.d.cm (total flowerhead diameter in cm), disc.d (mean of h.disc and v.disc divided by pixels_cm, or disc diameter in cm), petal.d.cm (mean of 1f, 2f, 3f divided by pixels_cm, or ligule length in cm).</div><div class=\"o-metadata__file-name\">UVdata_class_dryad.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Candidate genes for UV floral patterning</h4><div class=\"o-metadata__file-description\">List of candidate genes under the four proportional UV pigmentation QTL matched against the Arabidopsis thaliana TAIR10 protein database using blastp (e < e-20; Lamesch et al., 2011). Filtered specifically for proteins with WD or bHLH functional domains or part of the MYB or UDP-glycotransferase families. Column headers: which (filtered functional category), HaName (id of Helianthus annuus mRNA), AtName (best Arabidopsis thaliana hit), evalue (match value), chr (Helianthus annuus chromosome number), program (maker for this analysis), type (all genes in this analysis), start (start of gene in basepairs), end (end of gene in basepairs), score (NA), strand (+ or -), phase (NA), ID (internal id), Name (internal name), followed by functional annotation of that protein.</div><div class=\"o-metadata__file-name\">all4_UVqtl_blastsUniq.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">All genes under proportional UV pigmentation QTL</h4><div class=\"o-metadata__file-description\">List of all genes under the proportional UV pigmentation QTL. Column headers: chr (chromosome in Helianthus annuus genome), start (first basepair location of gene on chromosome), end (last basepair location of gene on chromosome), and HaName (gene name). More information about these genes is available at https://sunflowergenome.org/</div><div class=\"o-metadata__file-name\">all_QTL_genes.txt</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153766_1226260_150149",
+    "https://doi.org/10.5683/SP2/PQDE0O"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/PQDE0O\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The genetic architecture of UV floral patterning in sunflower",
+  "gbl_mdModified_dt": "2021-05-19T20:27:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a7462b22-aaa8-5abc-82fa-0660b71c9b0a",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

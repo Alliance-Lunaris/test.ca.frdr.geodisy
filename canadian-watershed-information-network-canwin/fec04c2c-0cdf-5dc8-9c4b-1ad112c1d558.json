@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-70.5, -56.34, 51.5, 46.22)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This layer represents areas where primary production is considered to be high. Primary production includes microscopic algal blooms, named phytoplankton, a food resource at the base of the food web of marine ecosystems. The knowledge of these zones can serve as a proxy to identify areas of the St. Lawrence where productivity is higher at different times of the year. Impacting his component may influence the rest of the life cycle in the affected area. Data were generated from the Gulf of St. Lawrence Biogeochemical Model (GSBM) developed by Dr. Diane Lavoie. This model makes it possible to calculate, using 10 variables, the primary production in each cell of the grid of the model. This calculation was done at a monthly resolution and a threshold was then applied to the data to keep only those cells where the estimated concentrations exceeded 20 mg C / m-2. This level of primary production is considered high.\n\nAdditional Information\n\nMonthly mean primary production (mg C m-2) in the first 50 meters of the simulated surface with the three-dimensional CANOPA-GSBM numerical model over a period of 13 years (1998-2010).\n\nThe Gulf of St. Lawrence Biogeochemical Model (GSBM) simulates biogeochemical cycles of oxygen, carbon and nitrogen, and the biological components that determine the dynamics of the planktonic ecosystem. The model has 10 state variables. The NPZD (nutrients, primary production, zooplankton, detritus) model includes both simplified herbivorous and microbial food chains typical of bloom and post-bloom conditions. The export of biogenic matter at depth is mediated by the herbivorous food web (nitrate, large phytoplankton (diatoms), mesozooplankton, particulate organic matter), while the microbial food web (ammonium, small phytoplankton, microzooplankton, dissolved organic matter) is mainly responsible for nutrient recycling in the euphotic zone. Nitrate is also supplied by rivers. The tight coupling between small phytoplankton growth and microzooplankton grazing, autochtonous nitrogen release and (dissolved organic nitrogen) DON remineralization to ammonium (NH4+) is used to represent the dynamic of the microbial food chain. Biological transfer functions are derived from bulk formulations using mean parameters found in the literature. Biological variables are calculated in nitrogen units and algal biomass and production converted to Chl a and carbon units using fixed stoichiometric ratios. Detrital particulate organic nitrogen (PON) gets fragmented to dissolved organic nitrogen (DON) as it sinks toward the bottom. The phytoplankton growth rate is a function of light and nutrient availability. The available light for phytoplankton growth is a function of sea-ice cover, Chl a and colored dissolved organic matter (CDOM). \n\nThe GSBM biogeochemical model, coupled with the CANOPA regional circulation model, was used to produce the Chl a layer. The grid of the model is 1/12° horizontally (about 6 x 8 km), 46 layers vertical and covers the Gulf of St. Lawrence, Scotian Shelf and Gulf of Maine regions. The vertical resolution is variable (between 6 m close to the surface to 90 m at depths of about 500 m). This model includes tidal forcing and the freshwater supply of the St. Lawrence River and the many rivers in the region, as well as atmospheric forcing (temperature, wind, etc.) produced by an independent model (National Center for Environmental Prediction (NCEP) Climate Forecast System Version 2). In addition, the circulation model is coupled with a model of sea ice that reproduces the seasonality of the ice cover in the region. \n\nThe temperature and salinity fields are produced freely by the model and only constrained by monthly climatologies of these conditions at the boundaries of the model domain. The simulation was carried out over a part of the period covering the Zonal Monitoring Program (AZMP) from 1998 to 2010."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/47a95c17-f92e-446b-8928-ccf14a39e117"
+  ],
+  "dct_issued_s": "2019-04-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/47a95c17-f92e-446b-8928-ccf14a39e117\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "High primary production areas in the Estuary and the Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-03-24T08:07:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fec04c2c-0cdf-5dc8-9c4b-1ad112c1d558",
+  "locn_geometry": "ENVELOPE(-70.5, -56.34, 51.5, 46.22)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

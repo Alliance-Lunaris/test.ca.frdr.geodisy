@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "Empreinte",
+    "Donnée assise",
+    "Immeuble",
+    "Bâtiment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de l’urbanisme."
+  ],
+  "dct_description_sm": [
+    "Empreinte des bâtiments sur le territoire lavallois produit par la Ville de Laval.\r\nPour aider la compréhension des données, voici les descriptions des champs utilisés:  ESPG : 32188\r\nPropriétés des champs\r\nNom\tDescription\tType\tRéférences/commentaires\r\nID_STRUCTURE\tIdentifiant unique du bâtiment\tLong\t\r\nTYPE\tIndique le type de bâtiment\tTexte (50)\tPrincipal, secondaire, agricole, gare, station ferroviaire\r\nNOM_BATIMENT\tQuand c’est pertinent, indique le nom du bâtiment\tTexte (200)\t\r\nDATE_RELEVE\tDate de création ou modification géométrique de l'entité visée. En l’absence d’information, cela veut dire que nous n’avons pas d’information de disponible.\tDate\tAAAA-MM-JJ\r\nTYPE_RELEVE\tDéfinit par quel moyen technique la numérisation de la donnée a été obtenue. Le processus peut, par exemple, être un géotraitement ou une numérisation manuelle. En l’absence d’information, cela veut dire que nous n’avons pas d’information de disponible.\tTexte (50)\tDomaine de valeurs :\r\nGéotraitement\r\nLidar\r\nNumérisation manuelle\r\nPhoto-interprétation (2D)\r\nPhotogrammétrie (3D)\r\nRelevé terrain\r\nTélédétection\r\nVectorisation automatique\r\nIndéterminé"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/2750835b-95d4-406a-89e5-f2f03504511e"
+  ],
+  "dct_issued_s": "2025-01-21",
+  "dct_publisher_sm": [
+    "Ville de Laval"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/2750835b-95d4-406a-89e5-f2f03504511e\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Laval, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Gouvernement et finances"
+  ],
+  "dct_title_s": "Référentiel de bâtiment – Ville de Laval",
+  "gbl_mdModified_dt": "2025-11-25T16:09:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4cfc507f-8bf4-5a0e-b36a-ee82c73ff581",
+  "schema_provider_s": "Données Québec"
+}

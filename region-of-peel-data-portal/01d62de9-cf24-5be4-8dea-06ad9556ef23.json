@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-0.0001, 0.0, 0.0001, 0.0)",
+  "dcat_keyword_sm": [
+    "business",
+    "industry",
+    "Open Data",
+    "NAICS",
+    "historic",
+    "employment",
+    "Business Register",
+    "Economic Activity",
+    "Statistics Canada",
+    "Canadian Business Counts",
+    "trends"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<p>This table contains data from the December release of Canadian Business Counts for 2007 until the latest complete year. </p><p>The data includes the year, 2-digit North American Industry Classification System (NAICS) code, and a count of the number of businesses by number of employees. The table data shows the number of businesses categorized by the number of employees they have.  <b>Please ensure you read the notes provided below, as there is very important information on classification and comparability.</b></p>\n<b>Notes</b><p><strong>Statistics Canada advises users not to use these data as a time series. </strong></p><p><strong>Further, the counts may reflect some of the business openings and closures caused by the COVID-19 pandemic, although they will not be fully represented as the evolving resumption or permanent closure of businesses may not yet be fully processed and confirmed by Statistics Canada's Business Register </strong>(<a href='https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww150.statcan.gc.ca%2Fn1%2Fdaily-quotidien%2F220210%2Fdq220210g-eng.htm&amp;data=04%7C01%7Candrea.dort%40peelregion.ca%7C7f7f5cc2a27d41387cf608d9f4f0a32a%7C356f99f39d8647a182033b41b1cb0c68%7C0%7C0%7C637810136655109463%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=Knda%2FTDA7LurY%2BO72AKwNu8JEUTAHgzezdeGN%2FF8YXE%3D&amp;reserved=0' rel='nofollow ugc'>The\nDaily — Canadian business counts, December 2021 (statcan.gc.ca)</a>).</p><p>Changes in methodology or in business industrial classification strategies used by Statistics Canada's Business Register can create increases or decreases in the number of active businesses reported in the data on Canadian business patterns. As a result, these data do not represent changes in the business population over time. Statistics Canada recommends users not to use these data as a time series.<br /></p>\n<p>Beginning in December 2014, there were several important changes that were made:</p>\n<ul>\n<li>The data appear in two separate series, one covering locations with employees, the other covering locations without employees. The second series corresponds to locations previously coded to the employment category called &quot;indeterminate.&quot;</li>\n<li>A new North American Industrial Classification System (NAICS) category has been added to include locations that have not yet received a NAICS code: unclassified. It represents an additional 78,718 locations with employees and 313,107 locations without employees.</li>\n<li>The second series, locations without employees, also includes locations that were not previously included in tables but that meet the criteria used to define the Business Register coverage. The impact of the change will be the inclusion of approximately 600,000 additional locations.</li>\n</ul>\n<p>Before 2014, the following notes apply:</p>\n<ul>\n<li>The establishments in the &quot;Indeterminate&quot; category do not maintain an employee payroll, but may have a workforce which consists of contracted workers, family members or business owners. However, the Business Register does not have this information available, and has therefore assigned the establishments to an &quot;Indeterminate&quot; category. This category also includes employers who did not have employees in the last 12 months.</li>\n<li>Please note that the employment size ranges are based on data derived from payroll remittances. As such, it should be viewed solely as a business stratification variable. Its primary purpose is to improve the efficiency of samples selected to conduct statistical surveys. It should not be used in any manner to compile industry employment estimates. Employment, grouped in employment size ranges, is more often than not an estimation of the annual maximum number of employees. For example, a measure of &quot;10 employees&quot; could represent &quot;10 full-time employees&quot;, &quot;20 part-time employees&quot; or any other combination.</li></ul><div>For more information refer to Statistics Canada's <a href='https://www.statcan.gc.ca/en/statistical-programs/document/1105_D16_T9_V1' target='_blank' rel='nofollow ugc noopener noreferrer'>Definitions and Concepts used in Business Register</a>.</div>"
+  ],
+  "dct_identifier_sm": [
+    "f37a1036ccb64baf85d68fc0746901af",
+    "https://www.arcgis.com/home/item.html?id=f37a1036ccb64baf85d68fc0746901af"
+  ],
+  "dct_issued_s": "2019-11-26",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::business-establishments\"}",
+  "dct_rights_sm": [
+    "Statistics Canada Open License"
+  ],
+  "dct_title_s": "Business Establishments",
+  "gbl_mdModified_dt": "2026-04-03T04:39:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "01d62de9-cf24-5be4-8dea-06ad9556ef23",
+  "locn_geometry": "ENVELOPE(-0.0001, 0.0, 0.0001, 0.0)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "gene annotation",
+    "Culicoides",
+    "mapping",
+    "genome assembly",
+    "mitochondrial genome",
+    "mitogenome sequencing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Milián-García, Yoamel (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0001-6596-5063",
+    "Hempel, Christopher A. (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0002-2324-3115",
+    "Janke, Lauren A.A. (Institute of Forestry & Conservation. John H. Daniels Faculty of Architecture, Landscape, and Design. University of Toronto.).",
+    "Young, Robert G. (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0002-6731-2506",
+    "Furukawa-Stoffer, Tara (Canadian Food Inspection Agency).",
+    "Ambagala, Aruna (Canadian Food Inspection Agency. Government of Canada, Mammalian Diseases Unit. National Centre for Foreign Animal Diseases. Canadian Food Inspection Agency.). ORCID: https://orcid.org/0000-0003-1783-2105",
+    "Steinke, Dirk (Centre for Biodiversity Genomics. University of Guelph., Department of Integrative Biology. College of Biological Science. University of Guelph., University of Guelph). ORCID: https://orcid.org/0000-0002-8992-575X",
+    "Hanner, Robert H. (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0003-0703-1646"
+  ],
+  "dct_description_sm": [
+    "Background: Mitochondrial genomes are the most sequenced genomes after bacterial and fungal genomic DNA. However, little information on mitogenomes is available for multiple metazoan taxa, such as Culicoides, a globally distributed, megadiverse genus containing 1,347 species.\nAim: Generating novel mitogenomic information from single Culicoides sonorensis and C. biguttatus specimens, comparing available mitogenome mapping and de novo assembly tools, and identifying the best performing strategy and tools for Culicoides species. \nResults: We present two novel and fully annotated mitochondrial haplotypes for two Culicoides species, C. sonorensis and C. biguttatus. We also annotated or re-annotated the only available reference mitogenome for C. sonorensis and C. arakawae. All species present a high similarity in mitogenome organization. The general gene arrangement for all Culicoides species was identical to the ancestral insect mitochondrial genome. Only short spacers were found in C. sonorensis (up to 30 bp), contrary to C. biguttatus (up to 114 bp). The mitochondrial genes ATP8, NAD2, NAD6, and LSU rRNA exhibited the highest nucleotide diversity and pairwise interspecific p genetic distance, suggesting that these genes might be suitable and complementary molecular barcodes for Culicoides identification in addition to the commonly utilized COI gene. \nWe observed performance differences between the compared mitogenome generation strategies. The mapping strategy outperformed the de novo assembly strategy, but mapping results were partially biased in the absence of species-specific reference mitogenome. Among the utilized tools, BWA performed best for C. sonorensis while SPAdes, MEGAHIT, and MitoZ were among the best for C. biguttatus. The best-performing mitogenome annotator was MITOS2. Additionally, we were able to recover exogenous mitochondrial DNA from Bos taurus (biting midges host) from a C. biguttatus blood meal sample. \nConclusions: Two novel annotated mitogenome haplotypes for C. sonorensis and C. biguttatus using High-Throughput Sequencing are presented. Current results are useful as the baseline for mitogenome reconstruction of the remaining Culicoides species from single specimens to HTS and genome annotation. Mapping to a species-specific reference mitogenome generated better results for Culicoides mitochondrial genome reconstruction than de novo assembly, while de novo assembly resulted better in the absence of a closely related reference mitogenome. These results have direct implications for molecular-based identification of these vectors of human and zoonotic diseases, setting the basis for using the whole mitochondrial genome as a marker in Culicoides identification."
+  ],
+  "dct_identifier_sm": [
+    "234834_76_41151_41152",
+    "https://doi.org/10.5683/SP3/UQIIXN"
+  ],
+  "dct_issued_s": "2022-06-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/UQIIXN\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Guelph, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Mitochondrial genome sequencing, mapping, and assembly benchmarking for Culicoides spp. (Diptera: Ceratopogonidae).",
+  "gbl_mdModified_dt": "2024-10-29T20:03:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e81b7924-91f8-5ca8-9d44-7d44bb43b0b2",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // College of Biological Science // Department of Integrative Biology"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

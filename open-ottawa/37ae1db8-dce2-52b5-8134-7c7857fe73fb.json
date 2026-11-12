@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "recorded road incidents",
+    "road closures",
+    "infrastructure",
+    "emergency road closures"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "Archived location and details of all recorded emergency road and/or lane closures or other impacts on roadways in and around the City of Ottawa.  In 2018, the earliest archived event logs are from March 2018.\n<br /><br />\n<strong>Accuracy</strong>: Information is based on incidents that were recorded by staff in the Traffic Operations Center.  It is not comprehensive of all road closures and traffic incidents.\n<br /><br />\n1)\tThe entered and ended times indicate the time an event was displayed and removed from the Interactive Traffic Map. It is generally an accurate representation of the actual duration of the event, but actual event duration may vary from these times.\n<br /><br />\n2)\tSome events may have impacts that change over time. The event snapshots in the reports may not capture changes that occur over the duration of the event. \n<br /><br />\n3)\tFor a major event with multiple impacts, the street1/street2/street3 fields may contain the name of the event (e.g. Canada Day Downtown) or a description of the area (e.g. Multiple closures in downtown core). More details may be provided in the message field.\n<br /><br />\n<strong>Update Frequency</strong>: Quarterly\n<br /><br />\n<strong>Attributes</strong>: \n<br /><br />\nstreet1, street2, street3: Street names with street type information removed. Any event will have from 1 to 3 street names. Street1 is the primary street affected, and street2 and street3 provide context.  e.g. Street1 closed at Street2  e.g. Street1 closed from Street2 to Street3\n<br /><br />\nevent_id: A numerical id for the event. The IDs are unique for a given event type, but not across events types.\n<br /><br />\nevent_type: The type of event (incident, construction, or special_event)\n<br /><br />\nreason: Cause of the traffic impact\n<br /><br />\nimpact: The effect of the traffic impact, e.g. total closure, lane reductions, etc.\n<br /><br />\nduration: Anticipated duration of the traffic impacts\n<br /><br />\ndetour: Detour information\n<br /><br />\ndirection: Direction of the closures or lane reductions\n<br /><br />\nnote: Additional information regarding the event and traffic impacts\n<br /><br />\nmessage: The complete message as it was displayed on the Interactive Traffic Map. The message is generally a combination of the Street1/2/3, Reason, Impact, Detour, Duration, Direction, and Note fields.\n<br /><br />\nentered: The time the event was active on the Interactive Traffic Map. Times are Ottawa local time (EST/EDT).\n<br /><br />\nended: The time the event was cleared from the Interactive Traffic Map. Times are Ottawa local time (EST/EDT).\n<br /><br />\nlatitude,longitude: Location of the information marker on the Interactive Traffic Map\n<br /><br />\n<strong>Contact</strong>: <a href='mailto:robert.kane@ottawa.ca' rel='nofollow ugc'>Robert Kane, Transportation Services Department, Traffic Services</a><br /><br /><div><p><strong>Download note:</strong> <em>If you are having problems downloading using Microsoft Edge as your web browser, try disabling the “Open Office files in the browser” option in Settings.</em></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "f3e34cf69eec4c0896de022bbc5b5e99",
+    "https://www.arcgis.com/home/item.html?id=f3e34cf69eec4c0896de022bbc5b5e99"
+  ],
+  "dct_issued_s": "2019-10-15",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/documents/ottawa::historical-emergency-road-closure-locations-2018\"}",
+  "dct_title_s": "Historical Emergency Road Closure Locations - 2018",
+  "gbl_mdModified_dt": "2026-08-10T20:26:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37ae1db8-dce2-52b5-8134-7c7857fe73fb",
+  "locn_geometry": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "schema_provider_s": "Open Ottawa"
+}

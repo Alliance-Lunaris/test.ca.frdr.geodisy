@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Rtcs",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "Arret de bus",
+    "Carte interactive",
+    "Bus",
+    "Msp",
+    "Transport en commun",
+    "Autobus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Point layer of bus stops of the Régie de transport en public de Shawinigan (RTCS) on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n! [RTCS logo] (https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Collection context**\n Update Google Maps as well\n\n**Collection method**\n Location at the corresponding address\n\n**Attributes**\n\n* _objectid_ (_OID_): \n* _direction_ (_String_): Direction\n* _shuttle_ (_String_): Shuttle\n* _hcar_a_ (_String_): Express A\n* _hcar_b_ (_String_): Express B\n* _hcar_n_ (_String_): Shuttle 1\n* _h_nw_ (_String_): Shuttle 2\n* _address_ (_String_): Address\n* _sequence_a_ (_Integr_): Stop ID\n* _Shelter_ (_String_): Bus shelter\n* _mob_reduit_ (_String_): Access to reduced mobility\n* _latitude_ (_Double_): Latitude\n* _longitude_ (_Double_): Longitude\n* _notes_ (_String_): Notes\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelle des arrêts d'autobus de la régie de transport en commun de Shawinigan (RTCS) sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n![Logo du RTCS](https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Contexte de collecte**\n MAJ Google Maps également\n\n**Méthode de collecte**\n Localisation à l’adresse correspondante\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _direction_ (_String_) : Direction\n* _navette_ (_String_) : Navette\n* _hvoiture_a_ (_String_) : Express A\n* _hvoiture_b_ (_String_) : Express B\n* _hvoiture_n_ (_String_) : Navette 1\n* _hvoitur_nw_ (_String_) : Navette 2\n* _adresse_ (_String_) : Adresse\n* _sequence_a_ (_Integer_) : ID Stop\n* _abri_ (_String_) : Abri-bus\n* _mob_reduit_ (_String_) : Accès à mobilité réduite\n* _latitude_ (_Double_) : Latitude\n* _longitude_ (_Double_) : Longitude\n* _notes_ (_String_) : Notes\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9cf0150c-4869-498c-ae64-2779542b0243"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9cf0150c-4869-498c-ae64-2779542b0243\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Arrets d'autobus (RTCS) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-29T18:34:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fc5afa31-8533-5346-8d08-4e3c93f46b46",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

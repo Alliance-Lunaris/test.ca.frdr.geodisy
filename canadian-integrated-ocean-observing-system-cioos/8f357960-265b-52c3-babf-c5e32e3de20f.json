@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.60227432, -127.47434441, 52.07117353, 51.39074678)",
+  "dcat_keyword_sm": [
+    "100-islands",
+    "island-biogeography",
+    "other",
+    "birds",
+    "oceans",
+    "avian",
+    "abondance-et-distribution-de-tortues-marines-oiseaux-et-mammiferes",
+    "marine-nutrients",
+    "spatial-subsidies",
+    "marineturtlesbirdsmammalsabundanceanddistribution",
+    "islands",
+    "autre",
+    "biodiversity",
+    "geospatial",
+    "bird"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur la végétation aviaire et appariée provenant du projet 100 îles (côte centrale de la Colombie-Britannique) Institut Hakai - 2015-2017"
+  ],
+  "dct_creator_sm": [
+    "Obrist, Debora (Simon Fraser University, Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Data were collected to test the theory that marine-derived nutrients can affect insular species richness, population density, and community composition of terrestrial breeding birds.\n\nThis dataset contains spreadsheets of (1) avian point count surveys, (2) vegetation surveys, (3) cleaned data used in Obrist et al. (2020), and (4) a sub-folder of data used in a community-level analysis by Obrist et al. (2022). This sub-folder contains data required to run a Hierarchical Modelling of Species Communities (HMSC)  joint species distribution model. Each datafile has an associated metadata file.\n\nBird point count survey data include: - 10 minute point count surveys from 99 islands from 2015, 2016 and 2017 survey periods - During each point count survey detections of individual birds were identified to species with distance to observer. Date, UTM coordinates, weather conditions, and detection type (e.g. visual, song, call, etc) information were recorded.\n\nVegetation data include: - 1x1 m vegetation plots in the immediate vicinity of each point count location and - 5x5 m vegetation plots (3 per point count – 1 at the survey location, and 1 in either direction along the most obvious vegetation gradient around the point count.)\n1x1 m vegetation surveys include: - Herbaceous plant percent cover by species in 3 layers: Ground (50 cm)\n\n5x5 m vegetation surveys include: - Shrub percent cover by species in 3 layers: 200 cm - Canopy percent cover by species in 3 heights: subcanopy, canopy, and supercanopy. Heights are defined separately for each plot (in general plot description) - A general plot description including % litter, % coarse woody debris, UTM coordinates - Tree circumferences\n\nCleaned data for Obrist et al. 2020 (https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0108) is executable with subsidized-avian-island-biogeography. R script from https://github.com/debobrist/avian-sib.\nCleaned code for Obrist et al. 2022 is in the HMSC sub-folder, which includes: A site-by-species matrix derived from the bird point count survey data, a matrix of environmental covariates, a list of coordinates, and a list of bird species traits. These data can be run directly with code available at https://github.com/debobrist/subsidized_isl_bird_communities.\n\nContact: Debora S. Obrist, Simon Fraser University, dobrist@sfu.ca",
+    "Des données ont été recueillies pour vérifier la théorie selon laquelle les nutriments d'origine marine peuvent affecter la richesse des espèces insulaires, la densité de population et la composition des communautés d'oiseaux nicheurs terrestres.\n\nCet ensemble de données contient des feuilles de calcul contenant (1) des enquêtes par dénombrement ponctuel sur les oiseaux, (2) des études sur la végétation, (3) des données nettoyées utilisées dans Obrist et al. (2020) et (4) un sous-dossier de données utilisées dans une analyse au niveau communautaire par Obrist et al. (2022). Ce sous-dossier contient les données requises pour exécuter un modèle de distribution conjointe des espèces par modélisation hiérarchique des communautés d'espèces (HMSC). Chaque fichier de données est associé à un fichier de métadonnées.\n\nLes données des relevés ponctuels d'oiseaux incluent : - des relevés ponctuels de 10 minutes dans 99 îles entre 2015, 2016 et 2017 - Au cours de chaque enquête de dénombrement ponctuel, des oiseaux individuels ont été identifiés par des espèces situées à une distance de l'observateur. La date, les coordonnées UTM, les conditions météorologiques et les informations sur le type de détection (par exemple, visuelle, chanson, appel, etc.) ont été enregistrées.\n\nLes données sur la végétation incluent : - des parcelles de végétation de 1 m à proximité immédiate de chaque site de dénombrement ponctuel et - des parcelles de végétation de 5 x 5 m (3 par dénombrement de points, une sur le site de l'enquête et une dans l'une ou l'autre direction le long du gradient de végétation le plus évident autour du point de dénombrement).\nLes enquêtes sur la végétation sur 1 m comprennent : - Pourcentage de couverture végétale herbacée par espèce en 3 couches : sol (50 cm)\n\nLes études de végétation de 5 x 5 m comprennent : - Pourcentage de couverture arbustive par espèce en 3 couches : 200 cm - Pourcentage de couverture du couvert végétal par espèce à 3 hauteurs : sous-canopée, canopée et supercanopée. Les hauteurs sont définies séparément pour chaque parcelle (dans la description générale de la parcelle) - Une description générale de la parcelle comprenant le pourcentage de litière, le % de débris ligneux grossiers, les coordonnées UTM - La circonférence des arbres\n\nLes données nettoyées pour Obrist et al. 2020 (https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0108) sont exécutables avec une biogéographie subventionnée sur les îles aviaires. Script R à partir de https://github.com/debobrist/avian-sib.\nLe code nettoyé pour Obrist et al. 2022 se trouve dans le sous-dossier HMSC, qui comprend : une matrice site par espèce dérivée des données du relevé de points sur les oiseaux, une matrice de covariables environnementales, une liste de coordonnées et une liste de caractéristiques des espèces d'oiseaux. Ces données peuvent être exécutées directement à l'aide du code disponible sur https://github.com/debobrist/subsidized_isl_bird_communities.\n\nPersonne-ressource : Debora S. Obrist, Université Simon Fraser, dobrist@sfu.ca"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/79ace68f-f5a9-4224-8615-20fa255cb6d4"
+  ],
+  "dct_issued_s": "2017-09-01",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/79ace68f-f5a9-4224-8615-20fa255cb6d4\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017",
+  "gbl_mdModified_dt": "2026-09-16T20:29:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8f357960-265b-52c3-babf-c5e32e3de20f",
+  "locn_geometry": "ENVELOPE(-128.60227432, -127.47434441, 52.07117353, 51.39074678)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,35 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "dcat_keyword_sm": [
+    "Transport",
+    "Une ville offrant plus d’options de mobilité fiables sécuritaires et accessibles"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ottawa Ouverte."
+  ],
+  "dct_description_sm": [
+    "Données archivées (lieux et détails) concernant toutes les urgences ayant occasionné des fermetures de rues ou de voies ou d’autres répercussions sur la circulation à Ottawa et dans les environs.  En 2018, les premières données archivées remontent à mars 2018.\n<br /><br />\n<strong>Exactitude</strong>: L’information repose sur les incidents consignés par le personnel du Centre de contrôle de la circulation routière. Elle n’englobe pas la totalité des fermetures de rue et des incidents de la circulation.\n<br /><br />\n1)\tLes heures de création (Entered) et de suppression (Ended) de l’événement indiquent les heures auxquelles l’événement a été affiché dans la Carte de circulation interactive puis supprimé de cette même carte. Ces heures reflètent généralement la durée réelle de l’événement, mais il y a des exceptions.\n<br /><br />\n2)\tLes répercussions de certains événements peuvent évoluer dans le temps. L’aperçu de l’événement fourni dans les rapports peut ne pas refléter les changements survenus tout au long de l’événement.\n<br /><br />\n3)\tDans le cas d’un événement majeur ayant de multiples répercussions, les champs des rues (rues 1/2/3) peuvent contenir le nom de l’événement (p. ex. fête du Canada au centre-ville) ou une description de la zone (p. ex. fermetures multiples au centre-ville). Plus de détails peuvent être fournis dans le champ Message. \n<br /><br />\n<strong>Fréquence des mises à jour</strong>: Chaque trimestre\n<br /><br />\n<strong>Paramètres</strong>:\n<br /><br />\nstreet1 (rue 1), street2 (rue 2), street3 (rue 3) : Noms de rues (n’incluant pas le type de rue). Tout événement sera associé à un, à deux ou à trois noms de rue. La rue 1 est la principale rue touchée; la rue 2 et la rue 3 fournissent le contexte.\nEx. : la rue 1 est fermée à l’angle de la rue 2.  Ex. : la rue 1 est fermée entre la rue 2 et la rue 3.\n<br /><br />\nevent_id (numéro d’événement) : Numéro d’identification de l’événement. Ce numéro est unique à un type d’événement donné; il ne s’applique pas à différents types d’événements.\n<br /><br />\nevent_type (type d’événement) : Type d’événement (incident, construction ou événement spécial).\n<br /><br />\nreason (motif) : Cause des répercussions sur la circulation.\n<br /><br />\nimpact (répercussions) : Répercussions sur la circulation (fermeture complète d’une rue, réduction du nombre de voies, etc.).\n<br /><br />\nduration (durée) : Durée prévue des répercussions sur la circulation.\n<br /><br />\ndetour (déviation) : Renseignements sur la déviation.\n<br /><br />\ndirection : Sens de la circulation pour les fermetures de rues ou les réductions du nombre de voies.\n<br /><br />\nnotes : Autres renseignements sur l’événement et répercussions sur la circulation.\n<br /><br />\nmessage : Message complet apparaissant sur la Carte de circulation interactive. Le message combine généralement les renseignements suivants : rues touchées (rues 1, 2 et 3), motif, répercussions, déviation, durée, direction et notes.\n<br /><br />\nentered (créé) : Heure à laquelle l’événement a été créé sur la Carte de circulation interactive : heure locale d’Ottawa (heure de l’Est/heure avancée de l’Est).\n<br /><br />\nended (supprimé) : Heure à laquelle l’événement a été supprimé de la Carte de circulation interactive : heure locale d’Ottawa (heure de l’Est/heure avancée de l’Est).\n<br /><br />\nlatitude, longitude : Emplacement du marqueur sur la Carte de circulation interactive.\n<br /><br />\n<strong>Courriel de l'auteur</strong>: <a href='mailto:robert.kane@ottawa.caa' rel='nofollow ugc'>Robert Kane, Direction générale des transports – Services de la circulation</a><br /><br /><div><p><strong>Avis de téléchargement :</strong> <em>Si vous éprouvez des difficultés à télécharger le fichier avec Microsoft Edge, essayez de désactiver l'option « Ouvrir les fichiers Office dans le navigateur » dans les paramètres.</em></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "40aca9bbe68a454081b7fe7e81985355",
+    "https://www.arcgis.com/home/item.html?id=40aca9bbe68a454081b7fe7e81985355"
+  ],
+  "dct_issued_s": "2019-10-15",
+  "dct_license_sm": [
+    "https://ottawa.ca/fr/hotel-de-ville/decouvrir-votre-ville/donnees-ouvertes"
+  ],
+  "dct_publisher_sm": [
+    "Ottawa Ouverte"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://ouverte.ottawa.ca/documents/ottawa::lieux-où-des-urgences-ont-occasionné-des-fermetures-de-rues-2018\"}",
+  "dct_title_s": "Lieux où des urgences ont occasionné des fermetures de rues – 2018",
+  "gbl_mdModified_dt": "2026-08-10T20:31:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc33d597-f57b-5d75-a0be-93e6144b9d92",
+  "locn_geometry": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "schema_provider_s": "Ottawa Ouverte"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.35, -55.4183, 52.245, 45.5317)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "In place since fall 1994, the sentinel fisheries program is the result of a collaboration between Fisheries and Oceans Canada (DFO) and Quebec and Newfoundland commercial fishermen's associations. Under this program, contracts are awarded by tender to fishermen’s associations to conduct fishing activities in accordance with scientific protocols developed by DFO. The primary objective of this survey is to collect data used to calculate abundance indices for various fish stocks, including cod, Greenland halibut, Atlantic halibut and rockfish.\n\nDescription of mobile survey\n\nThe mobile gear sentinel fisheries program began in 1999. It takes place in the northern Gulf of St. Lawrence and is conducted in the sub-division 3Pn and the divisions 4R, 4S and the northern part of the division 4T of the Northwest Atlantic Fisheries Organization (NAFO). This program follows a stratified random survey design based on depth strata, NAFO divisions and bottom substrate type. A standard tow is 30 minutes long and conducted at a speed of 2.5 knots. The fishing gear consists of a 300 Star Balloon trawl mounted on a Rock Hopper footgear. The trawl has a mesh size of 145 mm, with a 40 mm liner in the codend. Unless sea conditions compromise fishing safety, a retaining cable must be used to standardize the horizontal opening of nets between vessels and the various depths fished. Data are collected by observers at sea or by technicians.\n\nThe data contained in this program are divided into 4 different projects.\n\n-The summer series, carried out during the month of July (1999 -ongoing)\n\n-The fall series, which covers the period from 1999 to 2002\n\n-The winter series, to study the mixing between the different stocks, which covers the period of 2002-2006\n\n-The CRP (Cod reproductive potential) series, which targets the reproductive potential of cod and typically takes place during the month of May (2002-ongoing)\n\nData\n\nFor each fishing tow, the total catch is sorted and weighed for each species. The number of individuals caught for each unmeasured fish species is noted. Biological data such as length, weight (sampled, per individual, gonad, liver and stomach), age, sex and maturity can then be collected from a subsample of multiple species such as Atlantic halibut, Greenland halibut, lumpfish and Atlantic cod, according to various protocols.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for fish taxa, a “Carbio” file containing biological and morphometric measurements per individual, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level, use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\n\nThe data collected as part of this program is available below. It is important to note, however, that 1) only traits deemed successful have been retained; 2) historical data may contain inaccuracies; 3) the most recent survey is not available for validation purposes. For more information please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/929fe07f-ab8e-4b3c-8ee3-1aa7a9ea0b1a"
+  ],
+  "dct_issued_s": "2020-03-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/929fe07f-ab8e-4b3c-8ee3-1aa7a9ea0b1a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Mobile gear sentinel fisheries program - northern Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-10T19:00:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fea08ace-561a-5dc0-a17a-208e72769497",
+  "locn_geometry": "ENVELOPE(-67.35, -55.4183, 52.245, 45.5317)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

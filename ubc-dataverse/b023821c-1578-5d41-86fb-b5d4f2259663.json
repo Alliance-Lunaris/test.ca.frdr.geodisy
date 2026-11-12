@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "spatial statistics",
+    "genome scans",
+    "sampling design"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lotterhos, Katie E. (Northeastern University, University of British Columbia).",
+    "Whitlock, Michael C. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/Xlgu9VQ7wLqBtTSREHkQANMa4kUgHRxuyO_qD5V6w1s</p>\n<p><b>Storage size:</b> 982634037</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Although genome scans have become a popular approach towards understanding the genetic basis of local adaptation, the field still does not have a firm grasp on how sampling design and demographic history affect the performance of genome scans on complex landscapes. To explore these issues, we compared 20 different sampling designs in equilibrium (i.e. island model and isolation by distance) and nonequilibrium (i.e. range expansion from one or two refugia) demographic histories in spatially heterogeneous environments. We simulated spatially complex landscapes, which allowed us to exploit local maxima and minima in the environment in ‘pair’ and ‘transect’ sampling strategies. We compared FST outlier and genetic–environment association (GEA) methods for each of two approaches that control for population structure: with a covariance matrix or with latent factors. We show that while the relative power of two methods in the same category (FST or GEA) depended largely on the number of individuals sampled, overall GEA tests had higher power in the island model and FST had higher power under isolation by distance. In the refugia models, however, these methods varied in their power to detect local adaptation at weakly selected loci. At weakly selected loci, paired sampling designs had equal or higher power than transect or random designs to detect local adaptation. Our results can inform sampling designs for studies of local adaptation and have important implications for the interpretation of genome scans based on landscape data.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Zip file containing datasets and results</h4><div class=\"o-metadata__file-description\">See the README file.</div><div class=\"o-metadata__file-name\">dryad.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153828_1226260_150149",
+    "https://doi.org/10.5683/SP2/VSDXVK"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/VSDXVK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The relative power of genome scans to detect local adaptation depends on sampling design and statistical method",
+  "gbl_mdModified_dt": "2021-05-19T20:40:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b023821c-1578-5d41-86fb-b5d4f2259663",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

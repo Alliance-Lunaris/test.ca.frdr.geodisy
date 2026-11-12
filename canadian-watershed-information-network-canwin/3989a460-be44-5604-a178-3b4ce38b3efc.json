@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The number of days in the forecast period with a minimum temperature below the frost temperature, -5°C for herbaceous crops over the non-growing season (ifd_herb_nogrow).   \n  \n  Week 1 and week 2 forecasted index is available daily from November 1 to March 31.  \n  \n  Week 3 and week 4 forecasted index is available weekly (Thursday) from November 1 to March 31.  \n  \n  Over-wintering crops are biennial and perennial field crops such as herbaceous plants (strawberry, alfalfa, timothy, and many other forage crops) and woody fruit trees (apple, pear, peach, cherry, plum, apricot, chestnut, pecan, grape, etc.). These crops normally grow and develop in the growing season and become dormant in the non-growing season. However, extreme weather and climate events such as cold waves in the growing season and ice freezing events during the winter are a major constraint for their success of production and survival in Canada. The winter survival of these plants depends largely on agrometeorological conditions from late autumn to early spring, especially ice-freezing damage during the winter season. The optimum temperature for such crops is 25°C.  \n  \n  Agriculture and Agri-Food Canada (AAFC) and Environment and Climate Change Canada (ECCC) have together developed a suite of extreme agrometeorological indices based on four main categories of weather factors: temperature, precipitation, heat, and wind.  The extreme weather indices are intended as short-term prediction tools and generated using ECCC’s medium range forecasts to create a weekly index product on a daily basis."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/21d9b53d-bf5b-4913-b1f7-8ba5211d6f81"
+  ],
+  "dct_issued_s": "2018-12-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/21d9b53d-bf5b-4913-b1f7-8ba5211d6f81\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Ice freeze days (herbaceous crops) during non-growing season (<-5°C)",
+  "gbl_mdModified_dt": "2023-02-23T14:23:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3989a460-be44-5604-a178-3b4ce38b3efc",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

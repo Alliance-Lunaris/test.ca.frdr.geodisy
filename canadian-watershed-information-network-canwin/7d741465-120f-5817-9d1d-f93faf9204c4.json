@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.2429, -30.3211, 70.2001, 38.1348)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Dataset of species/gear type commercial fisheries from 2014 to 2023 in the Eastern Canada Regions. Only fish harvested from the NL, Maritimes, Gulf, Quebec and Eastern Arctic regions are included (Species Sought).\n\nThe data was obtained from Statistical Services, Fisheries and Oceans Canada (DFO) and consists of commercial species/gear type landings data from 2014 to 2023 taken from Northwest Atlantic Fisheries Organization (NAFO) Subareas 0, 2, 3, 4 and 5 and fished in the NL, Maritimes, Gulf, Quebec and Eastern Arctic regions. The layer was created by overlaying a 2 minute hexagonal grid (approx. 10km2 cell) on species/gear type commercial fisheries point data and summing the total landings by weight reported for each cell over the ten year period. Therefore, the value of each grid cell is equal to the total species/gear type landings in kg from 2014 to 2023 for the area, and may represent many fishing events from several vessels over the ten year period. All landings are from Canadian vessels and does not include information pertaining to international fishing vessels (i.e., St. Pierre). Individuals should exercise caution when interpreting this data. Data has not been altered and is mapped from the original logbook entry for each record prior to amalgamation. Data may contain errors such as inaccurate or nonviable coordinates, landed weights and/or species identification. For example, cases of fishing events reported in a NAFO Division with corresponding coordinates falling outside that particular NAFO Division or fishing events which appear to be located on a land mass due to rounding errors in the original entries. Such cases were excluded from the dataset. Only one location is given for each fishing event; therefore, a fishing activity that would normally cover a large area (i.e., trawling) is only shown in a single location. Some species may not include all records or locations where activity is taking place due to regional differences in permissions for mapping, or because the fishery is only partially georeferenced (e.g. Lobster). The locations/areas shown should only be used as an estimation of fishing intensity and a general guide of where particular species/gear type fishing occurs. This dataset has been privacy screened to comply with the Government of Canada's privacy policy. Privacy assessments were conducted to identify NAFO unit areas containing data with less than five vessel IDs, license IDs and fisher IDs. If this threshold was not met, catch weight locations have been withheld from these statistical areas to protect the identity or activity of individual vessels or companies. In some instances, permissions were obtained to map species or gears with a limited number of vessels, licenses, or fisher ids. The withheld areas are indicated by the unit area that has been removed and given a weight of -9999."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/502da2ef-bffa-4d9b-9e9c-a7425ff3c594"
+  ],
+  "dct_issued_s": "2021-10-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/502da2ef-bffa-4d9b-9e9c-a7425ff3c594\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Eastern Canada Commercial Fishing",
+  "gbl_mdModified_dt": "2026-03-24T08:10:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d741465-120f-5817-9d1d-f93faf9204c4",
+  "locn_geometry": "ENVELOPE(-80.2429, -30.3211, 70.2001, 38.1348)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

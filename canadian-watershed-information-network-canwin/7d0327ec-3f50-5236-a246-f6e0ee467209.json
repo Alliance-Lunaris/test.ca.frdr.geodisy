@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.98, -67.735, 49.334, 48.794)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This inventory, conducted from September 26th to October 3th, 2019, aimed to describe the community structure of macroalgae and benthic macroinvertebrates of five small estuaries of the Upper North Shore of Quebec, namely Barthélemy Bay and the Colombier, Mistassini, Franquelin and Saint-Nicolas rivers. \n\nThis inventory is part of a doctoral study of Valentine Loiseau on the global changes in the St. Lawrence system, mainly the study of marine benthic communities in response to changes of salinity, to ensure proper management of the environment in the face of future changes. The main objective is to describe the structure and the levels of specific diversities of mediolittoral communities of benthic macroinvertebrates and macroalgae along a salinity gradient. \n\nThese five small estuaries were selected because of their similar size, hard substrates and easy access. Three levels of hypoosmotic stress (low, medium, high) and one control level (seawater) were used for each of the selected estuaries, with eight quadrats per stress level. Quadrat positions were randomly selected but had to meet two criteria: (1) regular height in the foreshore to control the influence of other stresses (temperature, exposure); and (2) presence of at least one macroalga to maintain homogeneity. A percentage cover by macroalgal and macroinvertebrate species was estimated, and then all organisms were weighed by species and size group. The salinity of the nearest water point was measured at mid-tide with a portable refractometer and a Castaway-type CTD (Conductivity-Temperature-Density) probe. The inventory was done using a stratified random sampling design and the sampling unit was a quadrat measuring 25 x 25 cm. \n\nThe three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes the generic information of the quadrat, including date and location. The \"additional_information_event_and_occurrence\" file includes salinity and substrate type of the quadrat, as well as the total weight of all individuals of the same species caught in the quadrat extrapolated to one square metre of surface. For nudibranchs and barnacles, weight was estimated from the size of the individuals so that they were not removed from the environment. The \"taxon_occurrence\" file includes the taxonomic inventory of macroalgal and benthic macroinvertebrate species observed in the quadrat, identified to the lowest possible species or taxonomic level and biomass by identified species.\n\nFor quality control, organisms were identified on the field using the following guide: Chabot, Robert et Anne Rossignol. 2003. Algues et faune du littoral du Saint-Laurent maritime : Guide d'identification. Institut des Sciences de la mer de Rimouski, Rimouski ; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages. The taxonomy was checked against the World Register of Marine Species (WoRMS) to match recognized standards and using the R obistools and worrms libraries. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. All sample locations were spatially validated. \n\nThis project was funded by DFO Coastal Environmental Baseline Program under Canada’s Oceans Protection Plan. This initiative aims to acquire environmental baseline data contributing to the characterization of important coastal areas and to support evidence-based assessments and management decisions for preserving marine ecosystems."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c96d46e-f45d-450d-9189-7e31b10fcde9"
+  ],
+  "dct_issued_s": "2021-12-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c96d46e-f45d-450d-9189-7e31b10fcde9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Inventory of macroalgae and benthic macroinvertebrates on the north shore of the Saint-Lawrence Estuary (2019)",
+  "gbl_mdModified_dt": "2026-03-24T08:42:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d0327ec-3f50-5236-a246-f6e0ee467209",
+  "locn_geometry": "ENVELOPE(-68.98, -67.735, 49.334, 48.794)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

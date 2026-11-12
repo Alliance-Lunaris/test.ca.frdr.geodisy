@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.2997, -123.0472, 54.8029, 47.9921)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nThis dataset contains layers of predicted occurrence for 65 groundfish species as well as overall species richness (i.e., the total number of species present) in Canadian Pacific waters, and the median standard error per grid cell across all species. They cover all seafloor habitat depths between 10 and 1400 m that have a mean summer salinity above 28 PSU. Two layers are provided for each species: 1) predicted species occurrence (prob_occur) and 2) the probability that a grid cell is an occurrence hotspot for that species (hotspot_prob; defined as being in the lower of: 1) 0.8, or 2) the 80th percentile of the predicted probability of occurrence values across all grid cells that had a probability of occurrence greater than 0.05.). The first measure provides an overall prediction of the distribution of the species while the second metric identifies areas where that species is most likely to be found, accounting for uncertainty within our model. All layers are provided at a 1 km resolution.\n\nMethods:\nThese layers were developed using a species distribution model described in Thompson et al. 2023. This model integrates data from three fisheries-independent surveys: the Fisheries and Oceans Canada (DFO) Groundfish Synoptic Bottom Trawl Surveys (Sinclair et al. 2003; Anderson et al. 2019), the DFO Groundfish Hard Bottom Longline Surveys (Lochead and Yamanaka 2006, 2007; Doherty et al. 2019), and the International Pacific Halibut Commission Fisheries Independent Setline Survey (IPHC 2021). Further details on the methods are found in the metadata PDF available with the dataset.\n\nAbstract from Thompson et al. 2023:\nPredictions of the distribution of groundfish species are needed to support ongoing marine spatial planning initiatives in Canadian Pacific waters. Data to inform species distribution models are available from several fisheries-independent surveys. However, no single survey covers the entire region and different gear types are required to survey the range of habitats that are occupied by groundfish. Bottom trawl gear is used to sample soft bottom habitat, predominantly on the continental shelf and slope, whereas longline gear often focuses on nearshore and hardbottom habitats where trawling is not possible. Because data from these two gear types are not directly comparable, previous species distribution models in this region have been limited to using data from one survey at a time, restricting their spatial extent and usefulness at a regional scale. Here we demonstrate a method for integrating presence-absence data across surveys and gear types that allows us to predict the coastwide distributions of 66 groundfish species in British Columbia. Our model leverages the use of available data from multiple surveys to estimate how species respond to environmental gradients while accounting for differences in catchability by the different surveys. Overall, we find that this integrated method has two main benefits: 1) it increases the accuracy of predictions in data-limited surveys and regions while having negligible impacts on the accuracy when data are already sufficient to make predictions, 2) it reduces uncertainty, resulting in tighter confidence intervals on predicted species occurrences. These benefits are particularly relevant in areas of our coast where our understanding of habitat suitability is limited due to a lack of spatially comprehensive long-term groundfish research surveys.\n\nData Sources:\nResearch data was provided by Pacific Science’s Groundfish Data Unit for research surveys from the GFBio database between 2003 and 2020 for all species which had at least 150 observations, across all gear type and survey datasets available.\n\nUncertainties:\nThese are modeled results based on species observations at sea and their related environmental covariate predictions that may not always accurately reflect real-world groundfish distributions though methods that integrate different data types/sources have been demonstrated to improve model inference by increasing the accuracy of the predictions and reducing uncertainty."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/51c60d88-c6ac-4e1c-9724-83b6048aeccd"
+  ],
+  "dct_issued_s": "2023-02-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/51c60d88-c6ac-4e1c-9724-83b6048aeccd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Predicted distributions of 65 groundfish species in Canadian Pacific waters",
+  "gbl_mdModified_dt": "2026-03-24T08:09:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "da38ca43-ce78-5de5-bc59-724206993e3b",
+  "locn_geometry": "ENVELOPE(-134.2997, -123.0472, 54.8029, 47.9921)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

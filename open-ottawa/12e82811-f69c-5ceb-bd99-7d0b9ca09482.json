@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.33375001, -75.26158311, 45.524922489999994, 44.98368802)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Community",
+    "Bike",
+    "Traffic",
+    "Walk",
+    "Health and Safety",
+    "Data",
+    "Pedestrian",
+    "Collisions",
+    "Car",
+    "A city that is more connected with reliable safe and accessible mobility options"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<div><div><b>Date created:</b><span style='font-weight:bold;'>\t</span>January 28, 2022</div><div><b>Update frequency: </b>Annually</div></div><div><b><br /></b></div><div><b>Attributes:</b></div><div><ul><li>X and Y coordinate format is projected in MTM Zone 9, NAD83 (CSRS)</li><li>KML and CSV/XLS formats are projected in latitude, longitude (WGS84)</li><li>Date</li><li>Time</li><li>Location description (RD1 @ RD2 or RD from RD 1 to RD 2)</li><li>Classification of collision (non-fatal, fatal, property damage only)</li><li>Collision location (Intersection, non-intersection, at/near private driveway)</li><li>Road surface condition (Ice, wet, dry snow...)</li><li>Environment (Clear, rain, snow…)</li><li>Light (daylight, dawn, dusk…)</li><li>Initial impact type (Angle, turning movement, rear-end…)</li><li>Traffic control (stop, traffic signal, no control…)</li><li>No. of Bicycles</li><li>No. of Motorcycles </li><li>Max Injury (Highest injury level in the collisions)</li><li>No. of Injuries           </li><li>No. of Minimal (Person did not go to hospital when leaving the scene of the collision)          </li><li>No. of Minor (Person went to hospital and was treated in the emergency room, but not admitted)  </li><li>No. of Major (Person admitted to hospital.  Includes person admitted for observation.  This could be either life threatening or non-life threatening)</li><li>No. of Fatal (Person killed immediately or within 30 days of the motor vehicle collision)</li><li>Latitude and longitude</li></ul></div><div><b>Author:</b> Transportation Data Collection &amp; Analytics<br /></div><div><b>Author email:</b> <a href='mailto:zac.brydges@ottawa.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>zac.brydges@ottawa.ca</a></div><div><b>Maintainer Organization:</b> Transportation Data Collection &amp; Analytics</div><div><br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "bf701649829642d28fa2e400a7136bdd",
+    "https://www.arcgis.com/home/item.html?id=bf701649829642d28fa2e400a7136bdd"
+  ],
+  "dct_issued_s": "2022-02-15",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::2020-tabular-transportation-collision-data\"}",
+  "dct_title_s": "2020 Tabular Transportation Collision Data",
+  "gbl_mdModified_dt": "2024-07-08T18:02:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "12e82811-f69c-5ceb-bd99-7d0b9ca09482",
+  "locn_geometry": "ENVELOPE(-76.33375001, -75.26158311, 45.524922489999994, 44.98368802)",
+  "schema_provider_s": "Open Ottawa"
+}

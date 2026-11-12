@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.1645339665845, -79.52329825624344, 44.00243965314509, 43.4730825807269)",
+  "dcat_keyword_sm": [
+    "contour",
+    "Open Data",
+    "Peel",
+    "height",
+    "Environment",
+    "elevation",
+    "topography",
+    "Earth Sciences",
+    "Resources"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "Contour lines covering Peel Region and a 1 kilometre buffer outside of the Region's boundary.\n\nContour information is a valuable tool for both map display (cartographic) and scientific and resource management applications. Some applications may include hydrologic modelling, resource monitoring and landscape visualization, and change measurement.\n\n<h4>Specifications</h4>\n<ul>\n<li>Capture year: Spring 2021</li>\n<li>Horizontal projection (original dataset): NAD 1983 UTM Zone 17N (EPSG: 26917). Note: ArcGIS Online provides download files in the Web Mercator projection.</li>\n<li>Vertical projection: CGVD 1928 (EPSG: 5713)</li>\n<li>Horizontal accuracy: ±50 centimetres</li>\n<li>Vertical accuracy: ±50 centimetres</li>\n<li>Method of creation: photogrammetric</li>\n</ul>\n\n<h4>Other notes</h4>\n\nThis is a large dataset in both file size and number of features. Please be patient with downloading and filtering the data.\n\nThe contour dataset is updated yearly and is released to Open Data approximately one year after orthoimagery photo flights take place. The data is created and updated through photogrammetry by the vendor based on the latest imagery capture."
+  ],
+  "dct_identifier_sm": [
+    "6e7c10f5977644e286cde550addab89d",
+    "https://www.arcgis.com/home/item.html?id=6e7c10f5977644e286cde550addab89d"
+  ],
+  "dct_issued_s": "2021-11-02",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::peel-contours\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Peel Contours",
+  "gbl_mdModified_dt": "2024-01-13T15:56:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1b375e7f-e3c8-55c5-a80c-50a1c59e4dfa",
+  "locn_geometry": "ENVELOPE(-80.1645339665845, -79.52329825624344, 44.00243965314509, 43.4730825807269)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "deep learning",
+    "modelling",
+    "vehicle density",
+    "air quality management",
+    "air pollution concentration",
+    "air monitoring station",
+    "unmanned aerial system",
+    "machine learning",
+    "vehicle fleet composition"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Freeman, Brian (School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0002-9760-063X"
+  ],
+  "dct_description_sm": [
+    "Drone traffic study data corresponds to Chapter Five and Air study data corresponds to Chapter Six in Freeman, Brian. (2018). Air quality management for coastal urban centres using stochastic and machine learning techniques. PhD. University of Guelph.",
+    "<p>This research addressed specific air management issues faced by regulatory agencies to allow better oversight given constrained budgets and technical staff. Data sets were collected from air monitoring stations in Kuwait to allow development, testing, and validation of stochastic and machine learning techniques.</p>\n<p>Drone traffic study: A method to determine vehicle fleet composition and vehicle density on a road was developed that employed an unmanned aerial system to capture images of cars stacked at a signalized intersection. The images were processed using photogrammetry software to create a digital elevation model that allowed measurement of distances and fleet composition.</p>\n<p>Air quality study: Predicting future air pollution concentrations was accomplished using a deep learning technique consisting of a recurrent neural network with long short term memory. Datasets from a single air monitoring station were used to train and test the model. The resulting model was able to predict 8 hr averaged ozone out to 72 hours with a Mean Absolute Error of less than 2 ppb, outperforming traditional methods.</p>"
+  ],
+  "dct_identifier_sm": [
+    "72018_76_950557",
+    "https://doi.org/10.5683/SP2/XXTAU9"
+  ],
+  "dct_issued_s": "2018-10-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/XXTAU9\"}",
+  "dct_rights_sm": [
+    "Users agree to use this dataset in accordance with the special permissions, citation requirements and conditions outlined within the dataset terms."
+  ],
+  "dct_spatial_sm": [
+    "Kuwait"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Supplemental data for \"Air quality management for coastal urban centres using stochastic and machine learning techniques\"",
+  "gbl_mdModified_dt": "2025-01-07T15:58:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5e5c6a22-9096-5a0c-862b-6eeca01a3c9e",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // College of Engineering"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

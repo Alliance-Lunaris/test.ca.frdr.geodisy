@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.5, -123.2, 48.28, 54.75)",
+  "dcat_keyword_sm": [
+    "landsat-5",
+    "remote-sensing",
+    "nearshore",
+    "macroalgalcanopycoverandcomposition",
+    "oceans",
+    "composition-et-couverture-de-la-canopee-de-macroalgues",
+    "canopy-kelp",
+    "satellite",
+    "british-columbia",
+    "populations",
+    "landsat-8",
+    "geospatial",
+    "landsat-7",
+    "landsat-9"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries chronologiques de l'étendue trimestrielle de la canopée de varech à partir de Landsat 5, 7, 8 et 9 depuis 1985"
+  ],
+  "dct_creator_sm": [
+    "Reshitnyk, Luba (Hakai Institute).",
+    "Aguilar, Ashland (Woods Hole Oceanographic Institution).",
+    "Houskeeper, Henry (Woods Hole Oceanographic Institution).",
+    "Man, Lauren (Swire Institute of Marine Science and Area of Ecology and Biodiversity, School of Biological Sciences, The University of Hong Kong, Department of Geography, University of Victoria).",
+    "Bell, Tom (Woods Hole Oceanographic Institution).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "These data files represents a time series of surface kelp canopy area of giant kelp, Macrocystis pyrifera, and bull kelp, Nereocystis luetkeana, derived from atmospherically corrected Landsat imagery: Landsat 5 Thematic Mapper (TM), Landsat 7 Enhanced Thematic Mapper Plus (ETM+), Landsat 8 Operational Land Imager (OLI), and Landsat 9 Operational Land Imager 2 satellite imagery. Observations are made on a 16 day repeat cycle, for each instrument, but the temporal coverage is irregular because of cloud cover, instrument failure, and the mission length of each sensor (TM: 1984 – 2011, ETM+: 1999 – present, OLI: 2013 – present). \n\nThe kelp canopy is composed of the portions of fronds and stipes floating on the surface of the water. Nearshore (within one Landsat pixel, ~30m) and low tide areas (both nearshore and offshore rocks) are masked during this process, therefore kelp canopy area within those areas are excluded in this dataset. See Bell et al. 2020 and 2023 for more details on methods. \n\nData are organized into geotif files and contain the quarterly percent detections for each Landsat pixel across the four sensors. For example, if there were 5 clear passes of a pixel, and it was classified as kelp in 4 of them, then the pixel value is 80. Kelp presence data are given for individual 30 x 30 meter pixels for coastal areas the Central Coast of British Columbia, Canada. \n\nThese data are suitable for investigating kelp dynamics at large spatial scales and consideration should be made in their use for any given analysis. Local-scale analyses where species level data are needed, or where kelp is fringing and sparse should use higher spatial resolution imagery for mapping (e.g. fixed-wing surveys or drone surveys). \n\nDataset currently updated through 2023 and is under review. Dataset point of contact: Luba Reshitnyk, Henry Houskeeper and Tom Bell.\n\nFor detailed method refer to these articles:\n\nBell TW, Cavanaugh KC, Saccomanno VR, Cavanaugh KC, Houskeeper HF, Eddy N, et al. (2023) Kelpwatch: A new visualization and analysis tool to explore kelp canopy dynamics reveals variable response to and recovery from marine heatwaves. PLoS ONE 18(3): e0271477. https://doi.org/10.1371/journal.pone.0271477\n\nBell, T.W., Allen, J.G., Cavanaugh, K.C., & Siegel, D.A. (2020). Three decades of variability in California's giant kelp forests from the Landsat satellites. Remote Sensing of Environment, 238, 110811.",
+    "Ces fichiers de données représentent une série chronologique de la superficie du couvert végétal de varech géant, Macrocystis pyrifera, et de varech taureau, Nereocystis luetkeana, dérivée d'images Landsat corrigées sur le plan atmosphérique : Landsat 5 Thematic Mapper (TM), Landsat 7 Enhanced Thematic Mapper Plus (ETM+), Landsat 8 Operational Land Imager (OLI) et imagerie satellite Landsat 9 Operational Land Imager 2. Les observations sont effectuées sur un cycle de répétition de 16 jours, pour chaque instrument, mais la couverture temporelle est irrégulière en raison de la couverture nuageuse, de la défaillance de l'instrument et de la durée de la mission de chaque capteur (TM : 1984 — 2011, ETM+ : 1999 — présent, OLI : 2013 — présent). \n\nLa canopée de varech est composée de portions de frondes et de stipes flottant à la surface de l'eau. Les zones littorales (à moins d'un pixel Landsat, ~30 m) et les zones à marée basse (roches situées à proximité du rivage et au large) sont masquées au cours de ce processus. Par conséquent, la zone de canopée de varech dans ces zones est exclue de cet ensemble de données. Voir Bell et al. 2020 et 2023 pour plus de détails sur les méthodes. \n\nLes données sont organisées dans des fichiers géotif et contiennent les pourcentages trimestriels de détections pour chaque pixel Landsat sur les quatre capteurs. Par exemple, s'il y a 5 passes claires d'un pixel et que celui-ci a été classé comme varech dans 4 d'entre elles, la valeur du pixel est de 80. Les données de présence de varech sont fournies pour des pixels individuels de 30 x 30 mètres pour les zones côtières de la côte centrale de la Colombie-Britannique, au Canada. \n\nCes données sont appropriées pour étudier la dynamique du varech à de grandes échelles spatiales et il convient de tenir compte de leur utilisation pour toute analyse donnée. Les analyses à l'échelle locale pour lesquelles des données relatives à l'espèce sont nécessaires, ou lorsque le varech est frisonnant et clairsemé, devraient utiliser des images à plus haute résolution spatiale pour la cartographie (par exemple, relevés à voilure fixe ou relevés par drone). \n\nL'ensemble de données est actuellement mis à jour jusqu'en 2023 et est en cours de révision. Point de contact du jeu de données : Luba Reshitnyk, Henry Houskeeper et Tom Bell.\n\nPour une méthode détaillée, consultez ces articles :\n\nBell TW, Cavanaugh KC, Saccomanno VR, Cavanaugh KC, Houskeeper HF, Eddy N, et al. (2023) Kelpwatch : un nouvel outil de visualisation et d'analyse pour explorer la dynamique de la canopée de varech révèle une réponse et un rétablissement variables aux vagues de chaleur marines. PLoS ONE 18 (3) : e0271477. https://doi.org/10.1371/journal.pone.0271477\n\nBell, T. W., Allen, J. G., Cavanaugh, K. C. et Siegel, DA (2020). Trois décennies de variabilité dans les forêts de varech géantes de Californie à partir des satellites Landsat. Télédétection de l'environnement, 238, 110811."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a48161da-c603-43d6-9dc6-44b861984b49"
+  ],
+  "dct_issued_s": "2026-01-27",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a48161da-c603-43d6-9dc6-44b861984b49\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985",
+  "gbl_mdModified_dt": "2026-09-16T20:33:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4e15e889-5694-5aa8-886e-a3d8f4608d01",
+  "locn_geometry": "ENVELOPE(-133.5, -123.2, 48.28, 54.75)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

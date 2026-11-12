@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "dcat_keyword_sm": [
+    "Development Plan",
+    "Government information",
+    "Planning",
+    "Government",
+    "Province of Manitoba",
+    "canada",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Désignations relatives au plan de développement du Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "The purpose of this layer is to provide end users with a spatial representation of the Designated Areas in adopted Development Plans and their consolidated amendments in Manitoba. It also allows users of the data to undertake a variety of land use planning analyses based on Development Plan Designations. This layer is intended to be a source of data delivery as well as usage in situ.  \n  \n  This dataset is comprised of boundary geometry representing the Development Plan Designations for all of the Development Plan bylaws (as defined in The Planning Act) in force and effect within the Province of Manitoba. Spatial referencing of the designations is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each designation. Dataset content is subject to: Ongoing changes in designated areas which are determined by amendments to adopted Development Plans or the adoption of new Development Plans. Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the Development Plan designation polygons. As of the publication date of this dataset, the following known issues remain: For designation boundaries that include water boundaries, the water boundary that best reflects the intended designation boundary was used. In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities. Please visit the Manitoba Municipal Relations website for more information at www.gov.mb.ca/mr. The Development Plan Designations data reflects the most current designations at the time of export and was uploaded to Manitoba Maps as a feature layer. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated DP_BYLAW: Number assigned by planning authority to identify a specific bylaw DPA_BYLAW: Number assigned to a bylaw that amends an existing development plan bylaw PLANNINGDISTRICT: Name of the Planning District establishing the bylaws PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office ACRES: Area of each polygon expressed in acres DES_NAME: Name of Designation as stated in the Development Plan bylaw DES_CATEGORY: Designation category as interpreted by Municipal Relations RES_MIN_ACRES_PER_LOT: Minimum acreage for a residential lot as defined by the Development Plan bylaw RES_MAX_ACRES_PER_LOT: Maximum acreage for a residential lot as defined by the Development Plan bylaw MUNI_NO: Manitoba municipality identifier number MUNI_NAME: Name of municipality AU_LIMIT: Animal Unit limit as set by the Development Plan Policy",
+    "Le but de cette couche est de fournir aux utilisateurs finaux une représentation spatiale des zones désignées dans les plans de développement adoptés et leurs modifications consolidées au Manitoba. Il permet également aux utilisateurs des données d'effectuer diverses analyses d'aménagement du territoire sur la base des désignations des plans de développement. Cette couche est destinée à être une source de fourniture et d'utilisation de données in situ.  \n  \n  Cet ensemble de données comprend la géométrie des limites représentant les désignations des plans de développement pour tous les règlements relatifs au plan de développement (tels que définis dans la Loi sur l'aménagement du territoire) en vigueur et en vigueur dans la province du Manitoba. Le référencement spatial des désignations est basé sur les meilleures données parcellaires disponibles pour chaque commune. Dans la mesure du possible, des données sur les parcelles basées sur des plans d'arpentage enregistrés et des coordonnées de contrôle au sol ont été utilisées. Sinon, la grille de référence maintenue par Développement durable du Manitoba a été utilisée. La délimitation des limites est fixée par le règlement établissant ou modifiant les limites de chaque désignation. Le contenu de l'ensemble de données est soumis à : Des changements continus dans des domaines désignés qui sont déterminés par des modifications apportées aux plans de développement adoptés ou par l'adoption de nouveaux plans de développement. Développement et maintenance continus des ensembles de données sur les parcelles de terrain. Les améliorations apportées aux données sur les parcelles de terrain sont utilisées pour améliorer la précision de la position des polygones de désignation du plan de développement. À la date de publication de cet ensemble de données, les problèmes connus suivants persistent : Pour les limites de désignation qui incluent des limites d'eau, la limite d'eau qui reflète le mieux la limite de désignation prévue a été utilisée. Dans certains cas, les concessions routières situées à la limite d'une municipalité sont incluses dans les deux municipalités adjacentes. Veuillez consulter le site Web des relations municipales du Manitoba pour plus d'informations à l'adresse www.gov.mb.ca/mr. Les données sur les désignations du plan de développement reflètent les désignations les plus récentes au moment de l'exportation et ont été téléchargées sur Manitoba Maps sous forme de couche d'entités. Champs inclus : OBJECTID : Nombres entiers uniques séquentiels générés automatiquement DP_BYLAW : Numéro attribué par l'autorité de planification pour identifier un règlement spécifique DPA_BYLAW : Numéro attribué à un règlement modifiant un règlement de plan de développement existant DISTRICT DE PLANIFICATION : Nom du district de planification établissant les règlements RÉGION DE PLANIFICATION : Zone de responsabilité d'une Direction de la planification communautaire et régionale (au sein du ministère des Relations municipales) bureau ACRES : Superficie de chaque polygone exprimé en acres DES_NAME : Nom de la désignation tel qu'indiqué dans le plan de développement règlement DES_CATEGORY : Catégorie de désignation telle qu'interprétée par les Relations municipales RES_MIN_ACRES_PER_LOT : Superficie minimale d'un lot résidentiel telle que définie par le règlement du plan de développement RES_MAX_ACRES_PER_LOT : Superficie maximale d'un lot résidentiel telle que définie par le règlement du plan de développement MUNI_NO : numéro d'identification de la municipalité du Manitoba MUNI_NAME : Nom de la municipalité AU_LIMIT : Limite d'unités animales telle que définie par le plan de développement Politique  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/918e505e-7e1a-be87-7dd8-a6f48206e4db"
+  ],
+  "dct_issued_s": "2017-07-19",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/918e505e-7e1a-be87-7dd8-a6f48206e4db\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Manitoba Development Plan Designations",
+  "gbl_mdModified_dt": "2025-02-05T19:08:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "78c0604e-cf42-578c-adde-251642b42dea",
+  "locn_geometry": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "schema_provider_s": "Open Data Canada"
+}

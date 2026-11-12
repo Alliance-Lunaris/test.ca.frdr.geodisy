@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.0, -58.0, 51.0, 46.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A research survey on American lobster (Homarus americanus) and rock crab (Cancer irroratus) has been carried out annually on the Magdalen Islands since 1995 to assess the abundance and structure of populations in this area. The survey is carried out during the first two weeks of September and covers the southern part of the Magdalen Islands, from \"Baie de Plaisance\" to \"Grande-Entrée\", extending slightly eastwards between \"Havre-aux-Maisons\" and \"Grande-Entrée\". The survey lasts 8 to 15 days, depending of the weather conditions, and covers a maximum of 48 stations. Approximately half of the stations are surveyed in duplicate (two tows per station). The tows always cover 500 meters, with a slightly variable trawl opening (as explained above), averaging around 10 meters.\n\nThe gear used is a Nephrops trawl, a benthic trawl originally developed for langoustine fishing in Brittany, but slightly modified to target lobster. The trawl is deployed from the CCGS Leim and the harvested organisms are hauled aboard and sorted. Cephalothorax length, sex and shell stage are recorded for all lobsters. This is supplemented by information on reproductive conditions for certain size classes, and dissections of 25 males and 25 females per mission. Rock crabs are also included in the survey and are counted with additional measurements of shell width, sex and shell condition that are recorded on predetermined stations. For other stations individuals data are collected depending on the time available between trawl hauls.\n\nThe publication contains 4 files; the \"Information_stations\" file which contains the data of the stations, the \"Data_homard_lobster_survey\" file which contains the measurements of each lobster, the \"Nombre_crabe_crab_number\" file which contains the count of rock crabs, the \"Mesure_crabe_crab_measurement\" file contains the characteristics measured for each crab. Each of the files can be linked by the \"date\", \"st\", \"tr\" columns. The “bat” column notes the boat code, because the gear is not deployed in the same way on each boat.\n\n*This record consist of raw data and quality has not been verified\n\nAssociated species are identified and semi-quantitatively counted directly on the sorting table, and the results are presented in the following publication: https://open.canada.ca/data/en/dataset/99cb7034-f3d5-4da4-a5bc-e81315cfb8eb"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4b595b87-ad3f-438c-8310-c3d545be1aee"
+  ],
+  "dct_issued_s": "2024-08-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4b595b87-ad3f-438c-8310-c3d545be1aee\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Scientific trawl surveys of American lobster (Homarus americanus) and rock crab (Cancer irroratus) in the Magdalen Islands",
+  "gbl_mdModified_dt": "2026-09-09T19:30:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c87edf85-4782-565c-8d57-726f583cb7e7",
+  "locn_geometry": "ENVELOPE(-65.0, -58.0, 51.0, 46.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

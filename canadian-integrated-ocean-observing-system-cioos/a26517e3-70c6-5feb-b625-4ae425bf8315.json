@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-100.0, -46.0, 64.0, 41.05)",
+  "dcat_keyword_sm": [
+    "other",
+    "meteorology",
+    "Autre",
+    "météorologie",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sous-ensemble de données provenant du produits du système à haute résolution de prévision déterministe (SHRPD)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada (Government of Canada).",
+    "Meteorological Service of Canada."
+  ],
+  "dct_description_sm": [
+    "**Extract of the [Meteorological Service of Canada Datamart](https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_en/):** *The High Resolution Deterministic Prediction System (HRDPS) carries out physics calculations to arrive at deterministic predictions of atmospheric elements from the current day out to 48 hours into the future. Atmospheric elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage of the system is most of Canada. Data is available over specific areas in the [MSC Datamart](https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps-datamart_en/) and the whole coverage is available in the [MSC GeoMet web services](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/). Data is available at a horizontal resolution of about 2.5 km up to 31 vertical levels. Predictions are performed up to four times a day.*\n\nThe subset of data availables on the SLGO catalogue provides the **wind direction**, **wind speed** and **gust wind speed** at 10m, as well as the **air temperature** at 2m. The dataset provide hourly data for the last three days and include 48-hours forecasts derived from the latest model run. Spatially, the SLGO subset covers the Québec and Ontario provinces (Canada), the Hudson Bay, and a localized portion of the Northwest Atlantic.  \n\nAn interactive visualization of this dataset is available via the SLGO's **[Nautilo app](https://nautilo.ca/)**",
+    "**Extrait du [datamart du Service météorologique du Canada](https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_fr/) :** *Le Système à haute résolution de prévision déterministe (SHRPD) procède à des calculs physiques afin de produire des prévisions déterministes d'éléments de l'atmosphère du jour présent jusqu'à 48 heures dans le futur. Les éléments de l'atmosphère incluent notamment la température, les précipitations, la couverture nuageuse, la vitesse et direction des vents et l'humidité. Ce produit contient les résultats numériques bruts de ces calculs. La couverture géographique inclut la majeure partie du Canada. La résolution spatiale horizontale des données est d'environ 2.5 km distribuées sur au plus 31 niveaux verticaux. Les prévisions sont exécutées quatre fois par jour.*\n\nLe sous-ensemble de données présent sur le catalogue de l'OGSL présentent la **direction du vent**, la **vitesse du vent**, et la **vitesse des rafales** à 10m d'altitude, ainsi que la **température de l'air** à 2m d'altitude. La période couverte concerne les 2 derniers jours et inclue des prévisions pour les 48h suivant le dernier fonctionnement du modèle avec une résolution horaire. L'étendu du jeu de données concerne les provinces du Québec et de l'Ontario (Canada), la Baie d'Hudson, ainsi qu'une partie localisée de l'Atlantique Nord-Ouest.\n\nUne visualisation interactive du jeu de données est disponible au travers de **l'[application Nautilo](https://nautilo.ca/)** de l'OGSL"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/fc69d8cd-e003-4f70-bcb0-617d2a98db7b"
+  ],
+  "dct_issued_s": "2026-03-30",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/fc69d8cd-e003-4f70-bcb0-617d2a98db7b\"}",
+  "dct_rights_sm": [
+    "Environment and Climate Change Canada Data Servers End-use Licence https://eccc-msc.github.io/open-data/licence/readme_en/"
+  ],
+  "dct_title_s": "Subset of Data from the High Resolution Deterministic Prediction System (HRDPS)",
+  "gbl_mdModified_dt": "2026-07-31T16:39:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a26517e3-70c6-5feb-b625-4ae425bf8315",
+  "locn_geometry": "ENVELOPE(-100.0, -46.0, 64.0, 41.05)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

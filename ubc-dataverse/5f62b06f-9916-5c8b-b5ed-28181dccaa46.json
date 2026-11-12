@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Wildlife Management",
+    "Mallotus villosus",
+    "Clupea pallasii",
+    "Diet Analysis",
+    "Scomber japonicus",
+    "Phoca vitulina"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Thomas, Austen C. (University of British Columbia).",
+    "Jarman, Simon N. (University of British Columbia, Australian Antarctic Division).",
+    "Haman, Katherine H. (University of British Columbia).",
+    "Trites, Andrew W. (University of British Columbia).",
+    "Deagle, Bruce E. (Australian Antarctic Division, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/TTtoG5cugaQqn_Mlwzck1oFet-QH9HtXcTdeuOEHOlI</p>\n<p><b>Storage size:</b> 15223766</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Ecologists are increasingly interested in quantifying consumer diets based on food DNA in dietary samples and high-throughput sequencing of marker genes. It is tempting to assume that food DNA sequence proportions recovered from diet samples are representative of consumer's diet proportions, despite the fact that captive feeding studies do not support that assumption. Here, we examine the idea of sequencing control materials of known composition along with dietary samples in order to correct for technical biases introduced during amplicon sequencing and biological biases such as variable gene copy number. Using the Ion Torrent PGM©, we sequenced prey DNA amplified from scats of captive harbour seals (Phoca vitulina) fed a constant diet including three fish species in known proportions. Alongside, we sequenced a prey tissue mix matching the seals’ diet to generate tissue correction factors (TCFs). TCFs improved the diet estimates (based on sequence proportions) for all species and reduced the average estimate error from 28 ± 15% (uncorrected) to 14 ± 9% (TCF-corrected). The experimental design also allowed us to infer the magnitude of prey-specific digestion biases and calculate digestion correction factors (DCFs). The DCFs were compared with possible proxies for differential digestion (e.g. fish protein%, fish lipid%) revealing a strong relationship between the DCFs and percent lipid of the fish prey, suggesting prey-specific corrections based on lipid content would produce accurate diet estimates in this study system. These findings demonstrate the value of parallel sequencing of food tissue mixtures in diet studies and offer new directions for future research in quantitative DNA diet analysis.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Tissue mix DNA amplicon pool (.fastq)</h4><div class=\"o-metadata__file-description\">This file contains the DNA sequences and quality scores that resulted from Ion Torrent amplicon sequencing of a fish tissue mixture that matched the seal diet in the study. See manuscript text for details.</div><div class=\"o-metadata__file-name\">PDZA_mix.fastq</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Seal scat DNA amplicon pool (.fastq)</h4><div class=\"o-metadata__file-description\">This file contains the DNA sequences and quality scores that resulted from Ion Torrent amplicon sequencing of 48 individually amplified seal scats from the feeding trial. The harbour seals were fed: capelin (Mallotus villosus) (40%), Pacific herring (Clupea pallasii) (30%), chub mackerel (Scomber japonicus) (15%), and market squid (Loligo opalescens) (15%). See text for details.</div><div class=\"o-metadata__file-name\">PDZA_scats.fastq</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure_Data</h4><div class=\"o-metadata__file-description\">Data used to create figures 2-5. See Readme file for details</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152457_150149",
+    "https://doi.org/10.5683/SP2/5KLUPH"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/5KLUPH\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Salish Sea"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Improving accuracy of DNA diet estimates using food tissue control materials and an evaluation of proxies for digestion bias",
+  "gbl_mdModified_dt": "2021-05-20T01:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5f62b06f-9916-5c8b-b5ed-28181dccaa46",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

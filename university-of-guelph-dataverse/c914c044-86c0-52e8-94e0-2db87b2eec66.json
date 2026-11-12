@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "deep learning",
+    "artificial intelligence",
+    "Great Lakes",
+    "machine learning",
+    "semantic segmentation",
+    "computer vision",
+    "limnology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Galloway, Angus (School of Engineering. College of Engineering and Physical Sciences. University of Guelph and Vector Institute for Artificial Intelligence., School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0003-0343-9951",
+    "Brunet, Dominique (Environment and Climate Change Canada, Science and Technology Branch). ORCID: https://orcid.org/0000-0002-5725-0866",
+    "Valipour, Reza (Environment and Climate Change Canada, Science and Technology Branch).",
+    "McCusker, Megan (Environment and Climate Change Canada, Science and Technology Branch).",
+    "Biberhofer, Johann (Environment and Climate Change Canada, Science and Technology Branch).",
+    "Sobol, Magdalena K. (School of Engineering, College of Engineering and Physical Sciences, University of Guelph). ORCID: https://orcid.org/0000-0002-2331-6388",
+    "Moussa, Medhat (School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0002-5394-043X",
+    "Taylor, Graham W. (School of Engineering. College of Engineering and Physical Sciences. University of Guelph and Vector Institute for Artificial Intelligence and Canadian Institute for Advanced Research., School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0001-5867-3652"
+  ],
+  "dct_description_sm": [
+    "<p><b>Notes on browsing:</b></p><p>Click on the \"Tree\" view to identify folder structure and related files.</p>",
+    "The dataset contains colour images of lakebed sites sampled in Lake Erie and Lake Ontario from a top down view. A pixel-wise segmentation label is provided for each image to indicate the presence of Dreissenid mussels. The data are organized into three sets: for training, validating, and testing machine learning models."
+  ],
+  "dct_identifier_sm": [
+    "236517_76_950557",
+    "https://doi.org/10.5683/SP3/MZEBOJ"
+  ],
+  "dct_issued_s": "2021-12-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MZEBOJ\"}",
+  "dct_rights_sm": [
+    "The JPEG images and numerical data tables are licensed under an Open Government License - Canada. Use of these materials must comply with the conditions of the Open Government License. The PNG image labels and readme file are licensed under a Creative Commons Attribution 4.0 International License. Users of these data must acknowledge their use of this dataset \"Galloway et al., 2021, \"Dataset for: Predicting Dreissenid Mussel Abundance in Nearshore Waters using Underwater Imagery and Deep Learning\", doi:10.5683/SP3/MZEBOJ, Borealis\", as well as the Environment and Climate Change Canada (ECCC) Open Data Great Lakes Water Quality Monitoring and Aquatic Ecosystem Health Data site."
+  ],
+  "dct_spatial_sm": [
+    "Lake Erie",
+    "Lake Ontario"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Dataset for: Predicting Dreissenid Mussel Abundance in Nearshore Waters using Underwater Imagery and Deep Learning",
+  "gbl_mdModified_dt": "2024-12-16T15:19:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c914c044-86c0-52e8-94e0-2db87b2eec66",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // College of Engineering"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

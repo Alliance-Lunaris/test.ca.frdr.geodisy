@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Peatlands cover approximately 12% of the Canadian landscape and play an important role in the carbon cycle through their centennial to millennial-scale storage of carbon under waterlogged and anoxic conditions. In recognizing the potential of these ecosystems as natural climate solutions and therefore the need to include them in national greenhouse gas inventories, the Canadian Model for Peatlands module (CaMP v. 2.0) was developed by the Canadian Forest Service. Model parameterization included compiling peat profiles across Canada to calibrate peat decomposition rates from different peatland types, to define typical bulk density profiles, and to describe the hydrological (i.e., water table) response of peatlands to climatic changes. A total of 1,217 sites were included in the dataset from published and unpublished sources. The CORESITES table contains site location and summary data for each profile, as well as an estimate of total carbon mass per unit area (megagrams C ha-1). Total carbon mass per unit area at each location was calculated using bulk density and carbon content through each profile. The PROFILES table contains data for depth (cm), bulk density (g cm-3), ash and carbon content (%), and material descriptions for contiguous samples through each peat profile. Data gaps for bulk density and C content were filled using interpolation, regression trees, and assigned values based on material description and/or soil classification to allow for the estimation of total carbon mass per unit area. A subset of the sites (N = 374) also have pH and pore water trace-elemental geochemistry data and are found in the WATER table. The REFERENCES table contains the full citation of each source of the data and is linked to each core location through the SOURCEDATA table. The LOOKUP table defines codes in the database that required more space than what was sufficient in the metadata tables. The data will be useful for future work on carbon stock mapping and ecosystem modelling."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e287b0dd-8b07-435b-8a76-0c7ec84ac228"
+  ],
+  "dct_issued_s": "2024-05-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e287b0dd-8b07-435b-8a76-0c7ec84ac228\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Peat Profile Database",
+  "gbl_mdModified_dt": "2026-01-20T18:00:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "78e1e79f-9758-5aed-a8a3-43904087348d",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

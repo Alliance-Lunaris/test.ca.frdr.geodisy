@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Covariance d'altitude forestière (2022)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "This dataset provides wall-to-wall maps of forest structure across Canada's 650 million hectare forested ecosystems for the year 2022, generated at a spatial resolution of 30 m.It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Structure estimates include key attributes such as canopy height, canopy cover, and aboveground biomass, derived using a combination of airborne lidar and Landsat-based spectral composites. Structure models were trained using the - lidar-plot framework - (Wulder et al. 2012), which integrates co-located airborne lidar data and ground plot measurements with Landsat time-series composites (Hermosilla et al. 2016). A Nearest Neighbour imputation approach was applied to estimate structural attributes across the full extent of Canada's forested area. These nationally consistent products are intended to support strategic-level forest monitoring and assessment and are not designed for operational forest management.\nFor further details on the methods, accuracy assessment, and source data, see Matasci et al. (2018).\nMatasci, G., Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., Bolton, D.K., Tompalski, P., Bater, C.W., 2018. Three decades of forest structural dynamics over Canada's forested ecosystems using Landsat time-series and lidar plots. Remote Sensing of Environment, 216, 697-714. https://doi.org/10.1016/j.rse.2018.07.024 (Matasci et al. 2018)",
+    "Ce jeu de données fournit des cartes continues de la structure des forêts à travers les 650 millions d'hectares d'écosystèmes forestiers du Canada pour l'année 2022, générées à une résolution spatiale de 30 m. Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. Les estimations de structure incluent des attributs clés tels que la hauteur du couvert forestier, la densité du couvert et la biomasse aérienne, dérivés à partir d'une combinaison de données lidar aéroportées et de composites spectraux issus de Landsat. Les modèles de structure ont été entraînés à l'aide du cadre « lidar-plot » (Wulder et al. 2012), qui intègre des données lidar aéroportées et des mesures de terrain co-localisées avec des composites de séries temporelles Landsat (Hermosilla et al. 2016). Une approche d'imputation par plus proche voisin a été appliquée pour estimer les attributs structurels sur l'ensemble du territoire forestier canadien. Ces produits, cohérents à l'échelle nationale, sont conçus pour appuyer la surveillance stratégique des forêts et les évaluations à grande échelle, mais ne sont pas destinés à la gestion opérationnelle des forêts. Pour plus de détails sur les méthodes, l'évaluation de l'exactitude et les sources de données, voir Matasci et al. (2018).\nMatasci, G., Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., Bolton, D.K., Tompalski, P., Bater, C.W., 2018. Three decades of forest structural dynamics over Canada's forested ecosystems using Landsat time-series and lidar plots. Remote Sensing of Environment, 216, 697-714. https://doi.org/10.1016/j.rse.2018.07.024 ( Matasci et al. 2018)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f5db38ba-7b58-4d25-8b5f-e9dbd87609e4"
+  ],
+  "dct_issued_s": "2023-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f5db38ba-7b58-4d25-8b5f-e9dbd87609e4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Forest Elevation Covariance (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:02:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a5eb8ed1-fed7-598a-9389-d1279811583c",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

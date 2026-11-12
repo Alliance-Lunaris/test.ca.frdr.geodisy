@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.87, -79.63, 46.03, 45.94)",
+  "dcat_keyword_sm": [
+    "Individual tree segmentation",
+    "Petawawa research forest",
+    "LiDAR",
+    "Multitemporal data",
+    "Canopy height model",
+    "Airborne laser scanning"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Arattu, Pritty Regi (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Airborne Laser Scanning (ALS) has become a key tool for forest monitoring, enabling detailed assessment of forest structure and dynamics. With the increasing availability of multi-temporal ALS data, there is a growing interest in tracking individual trees over time. Although, consistent individual tree detection (ITD) across multiple time periods still remains a challenge due to segmentation errors and the complexity of forests. This study evaluates the performance of three tree segmentation algorithms; Dalponte2016, Li2012 and Watershed, using multitemporal ALS dataset acquired in 2012, 2018 and 2022 within the Petawawa research forest, Ontario, Canada. Canopy heigh models (CHM) were generated from normalized point cloud data, and segmentation accuracy assessment using recall, precision and F1-score based on field measured stem data within the 14.1 m radius plots. Results show that Dalponte2016 was the most consistent and balanced across plots and time periods. Watershed method tend to over-segment crowns leading to higher detection counts but lower precision. While Li2012 produced fewer detections, resulting in lower recall. Segmentation accuracy was strongly influenced by the vertical layers in canopy and variations with LiDAR acquisition characteristics across different years. Overall, the findings highlight the challenges of achieving temporally consistent tree segmentation and the importance of algorithm and parameters selection in a complex forest structure."
+  ],
+  "dct_identifier_sm": [
+    "1147245_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/YTT0LI"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YTT0LI\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Greater Muskoka Area, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Individual Tree Segmentation Using multitemporal Airborne Laser Scanning (ALS) Data",
+  "gbl_mdModified_dt": "2026-04-28T16:31:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ba0ea858-a422-590c-b8ac-7fceae144f79",
+  "locn_geometry": "ENVELOPE(-79.87, -79.63, 46.03, 45.94)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

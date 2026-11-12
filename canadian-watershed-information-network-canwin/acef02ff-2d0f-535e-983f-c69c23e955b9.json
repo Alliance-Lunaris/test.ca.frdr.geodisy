@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Terrestrial Ecosystem Information (TEI) Detailed Polygons (STE_TEI_ATTRIBUTE_POLYS_SP) contains TEI inventory polygons with key and amalgamated (concatenated) attributes derived from the Resource Inventory Standards Committee (RISC) standard attributes. These describe the physical and biological characteristics of ecosystems at a landscape level. TEI Detailed Polygons should be used in conjunction with [TEI Project Boundaries](https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) which contain boundaries (study areas) and attributes describing each project (project level metadata), plus links to the locations of other data associated with the project (e.g., reports, polygon datasets, plotfiles, legends). TEI currently includes six broad project types: Terrestrial Ecosystem Mapping (TEM), Predictive Ecosystem Mapping (PEM), Terrain Mapping (TER), Sensitive Ecosystem Inventory (SEI), Soil Mapping (SL), and Wildlife Mapping (WLD). Mapping methods include manual air photo interpretation and modeling supported by limited field checking. TEI inventory polygons with full Resources Information Standards Committee (RISC) attributes can be accessed through the [Terrestrial Ecosystem Information (TEI) Data Distribution Packages](https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). **Current version**: v12 (2026-06-22)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad"
+  ],
+  "dct_issued_s": "2020-04-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Terrestrial Ecosystem Information (TEI) Detailed Polygons with Short Table Attribute Table",
+  "gbl_mdModified_dt": "2026-10-07T18:31:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "acef02ff-2d0f-535e-983f-c69c23e955b9",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

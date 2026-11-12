@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Température, humidité relative, vitesse du vent, direction du vent, pression atmosphérique, radiation photosynthétiquement active, pluie | Temperature, relative humidity, wind speed, wind direction, atmospheric pressure, photosynthetically active radiation, rainfall."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Station de Biologie des Laurentides (Université de Montréal)."
+  ],
+  "dct_description_sm": [
+    "Glossaire des Abréviations Météorologiques :\tVent : Vitesse du vent en mètres par seconde (m/s)\n-\tVent_ : Direction du vent en degrés (°) (0-360°, mesuré par rapport au nord)\n-\tTemp_ : Température de l’air en degrés Celsius (°C)\n-\tHumRel : Humidité relative en pourcentage (%)\n-\tP_kPa : Pression atmosphérique en kilopascals (kPa)\n-\tPAR (Photosyn. Active Radiation) : Rayonnement photosynthétiquement actif en µE/m²/s\n-\tUVB : Intensité du rayonnement UVB en watts par mètre carré (W/m²)\n-\tUVtemp_K : Température du capteur UV en kelvins (K)\n-\tTemp_ sol : Température de la sonde à 15 cm dans le sol (°C)\n-\tPluitmp : Quantité de précipitations en millimètres (mm)\n| Glossary of Meteorological Abbreviations : Vent : Wind speed in meters per second (m/s)\n-\tVent_ : Wind direction in degrees (°) (0-360°, measured relative to north)\n-\tTemp_ : Air temperature in degrees Celsius (°C)\n-\tHumRel : Relative humidity in percentage (%)\n-\tP_kPa : Atmospheric pressure in kilopascals (kPa)\n-\tPAR (Photosyn. Active Radiation) : Photosynthetically Active Radiation in µE/m²/s\n-\tUVB : UVB radiation intensity in watts per square meter (W/m²)\n-\tUVtemp_K : Temperature of the UV sensor in kelvins (K)\n-\tTemp_ sol : Temperature of the sensor at 15 cm depth in the soil (°C)\n-\tPluitmp : Amount of precipitation in millimeters (mm)",
+    "Ce jeu de données regroupe les observations météorologiques collectées à la Station de Biologie des Laurentides (SBL) entre 2011 et 2018. Les mesures, effectuées à l'aide de la station météorologique de Saint-Hippolyte sur le site, couvrent plusieurs paramètres climatiques, notamment la vitesse et la direction du vent, la température, l’humidité relative, la pression atmosphérique, la radiation photosynthétiquement active et la pluie.",
+    "This dataset compiles meteorological observations collected at the Station de Biologie des Laurentides (SBL) between 2011 and 2018. The measurements, taken using the Saint-Hippolyte meteorological station on-site, cover various climatic parameters, including wind speed and direction, temperature, relative humidity, atmospheric pressure, photosynthetically active radiation, and rainfall."
+  ],
+  "dct_identifier_sm": [
+    "873709_859423_859424",
+    "https://doi.org/10.5683/SP3/Z1T2JX"
+  ],
+  "dct_issued_s": "2025-09-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Z1T2JX\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Données météorologiques (2011-2018) | Meteorological data (2011-2018)",
+  "gbl_mdModified_dt": "2025-09-29T20:00:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "91bc6c91-5132-5016-827e-c6d286cf81c3",
+  "pcdm_memberOf_sm": [
+    "Colin Favret Dataverse // Station de Biologie des Laurentides"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

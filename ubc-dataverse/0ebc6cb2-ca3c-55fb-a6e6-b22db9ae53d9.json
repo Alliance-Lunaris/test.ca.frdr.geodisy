@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Sampling distributions",
+    "insect pests",
+    "maximum likelihood estimation",
+    "ecological modeling",
+    "Larval development",
+    "insect larvae"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Legault, Geoffrey (University of British Columbia). ORCID: https://orcid.org/0000-0003-2136-587X",
+    "Kingsolver, Joel (University of North Carolina)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/N2G5Y2ClsOyv4oe4QcIy01Ku4YaeRK52TGhwZiPkUeI</p>\n<p><b>Storage size:</b> 55583</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Variation in age and mass at maturity is commonly observed in populations, even among individuals with the same genetic and environmental backgrounds. Accounting for such individual variation with a stochastic model is important for estimating optimal evolutionary strategies and for understanding potential trade-offs among life history traits. However, most studies employ stochastic models that are either phenomenological or account for variation in only one life history trait. We propose a model based on the developmental biology of the moth <em>Manduca sexta</em> that accounts for stochasticity in two key life history traits, age and mass at maturity. The model is mechanistic, describing feeding behavior and common insect developmental processes including the degradation of juvenile hormone prior to molting. We derive a joint probability density function for the model and explore how the distribution of age and mass at maturity is affected by different parameter values. We find that the joint distribution is generally non-normal and highly sensitive to parameter values. In addition, our model predicts previously observed effects of temperature change and nutritional quality on the expected values of insect age and mass. Our results highlight the importance of integrating multiple sources of stochasticity into life history models.</p>",
+    "<b>Usage notes</b><br /><p>This ZIP archive contains R files for simulating the stochastic maturation and growth model, and for evaluating the joint probability density function.</p>"
+  ],
+  "dct_identifier_sm": [
+    "151219_150149",
+    "https://doi.org/10.5683/SP2/LX4MVP"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/LX4MVP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: A stochastic model for predicting age and mass at maturity of insects",
+  "gbl_mdModified_dt": "2021-05-19T22:33:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0ebc6cb2-ca3c-55fb-a6e6-b22db9ae53d9",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

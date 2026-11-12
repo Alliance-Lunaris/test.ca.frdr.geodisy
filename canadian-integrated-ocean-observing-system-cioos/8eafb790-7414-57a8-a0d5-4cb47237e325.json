@@ -1,0 +1,65 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.81789453, -122.96096027, 49.05595865, 48.48393505)",
+  "dcat_keyword_sm": [
+    "alismatales",
+    "zostera",
+    "zosteraceae",
+    "ginpr",
+    "seagrass",
+    "other",
+    "liliopsida",
+    "nearshore",
+    "oceans",
+    "liliopsida",
+    "tracheophyta",
+    "salish-sea",
+    "plantae",
+    "zostera",
+    "zostera-marina",
+    "rpas",
+    "zostera-marina",
+    "alismatales",
+    "plantae",
+    "zosteraceae",
+    "eelgrass",
+    "autre",
+    "geospatial",
+    "tracheophyta",
+    "gulf-islands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Étendue de la zostère marine (Z. marina) sur les sites de surveillance de la zostère marine de la réserve de parc national des Îles-Gulf (2017, 2018)"
+  ],
+  "dct_creator_sm": [
+    "Reshitnyk, Luba (Hakai Institute).",
+    "Rockwell, Lisa (Gulf Islands National Park Reserve).",
+    "Collyer, M. J. P. (Pacific Rim National Park Reserve).",
+    "Helms, Sibylla (Gulf Islands National Park Reserve).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This data package contains the datasets and reports pertaining to mapping the spatial extent of Zostera marina at several monitoring sites within the Gulf Islands National Park Reserve, British Columbia, Canada. This work was a collaborative project between the Hakai Institute and the Gulf Islands National Park Reserve (GINPR).  \n\nMonitoring sites were mapped using small Remotely Piloted Aerial Systems (RPAS) (DJI Phantom Pro 3) during summer low tides (0.3-0.8 m) in 2017 and 2018. Orthomosaics of each site were created using a Structure from Motion Multi-View Stereo (SfM-MVS) workflow within Pix4Dmapper software (Version 2.1.61, Pix4D) in Windows 10 and georeferenced using group control points collected concurrently during the surveys. The extent of eelgrass at each site was delineated using object-based image analysis (OBIA) with eCognition Developer software (eCognition Developer 9, 2014) and manual delineation (where necessary). Georeferenced towed underwater video (SplashCam Pro) data were collected at eelgrass monitoring sites during high tide to provide ground-truth data for the aerial analysis and delineation of eelgrass. \n\nThe data package includes:\n\n-   The reports (.pdf) which describe project, data collection and processing methods and results for both 2017 and 2018 surveys. \n-    Polygon shapefiles (.shp) of the extent of eelgrass (Z. marina) at each monitoring site.\n-    Point shapefiles (.shp) of classified towed underwater video transects*. \n-    A data dictionary (.csv) which describes the attributes of the shapefiles. \n\n*The towed underwater video footage is not provided as a part of this data package but is available upon request.  \n\nThis data package is a component of the Hakai Institute’s Habitat Mapping program. The overarching objective of the Hakai Habitat Mapping program is to generate spatial inventories of coastal habitats, investigate how these habitats are changing through time and the drivers of that change. These data were collected as a part of the Coastal BC Nearshore Habitat Mapping Project (a collaboration between Parks Canada and the Hakai Institute). \n\nPermission to use this dataset must be granted by the Hakai Institute and Gulf Islands National Park Reserve to the individual who makes the data request. Data can only be used for the permitted purpose and are not to be shared or repurposed. Please refer to the README.txt file included in this data package.",
+    "Ce paquet de données contient les ensembles de données et les rapports relatifs à la cartographie de l'étendue spatiale de la marina de Zostera à plusieurs sites de surveillance dans la réserve de parc national des Îles-Gulf, en Colombie-Britannique, au Canada. Ce travail était un projet de collaboration entre le Hakai Institute et la réserve de parc national des îles Gulf (GINPR). \n\nLes sites de surveillance ont été cartographiés à l'aide de petits systèmes aériens pilotés à distance (RPAS) (DJI Phantom Pro 3) pendant les marées basses d'été (0,3 à 0,8 m) en 2017 et 2018. Les orthomosaïques de chaque site ont été créées à l'aide d'un flux de travail Structure from Motion Multi-View Stereo (SFM-MVS) dans le logiciel Pix4Dmapper (version 2.1.61, Pix4D) sous Windows 10 et géoréférencées à l'aide de points de contrôle de groupe collectés simultanément pendant les levés. L'étendue de la zostère sur chaque site a été délimitée à l'aide d'une analyse d'image basée sur des objets (OBIA) avec le logiciel eCognition Developer (eCognition Developer 9, 2014) et d'une délimitation manuelle (si nécessaire). Des données vidéo sous-marines remorquées géoréférencées (SplashCam Pro) ont été collectées sur les sites de surveillance de la zostère à marée haute afin de fournir des données de véracité au sol pour l'analyse aérienne et la délimitation de la zostère. \n\nLe package de données comprend :\n\n- Les rapports (.pdf) qui décrivent les méthodes de projet, de collecte et de traitement des données et les résultats des enquêtes 2017 et 2018. \n- Fichiers de formes polygonales (.shp) de l'étendue de la zostère zostère (Z. marina) à chaque site de surveillance.\n- Fichiers de formes de points (.shp) de transects vidéo sous-marins remorqués classifiés *. \n- Un dictionnaire de données (.csv) qui décrit les attributs des fichiers de formes. \n\n*La séquence vidéo sous-marine remorquée n'est pas fournie dans le cadre de ce paquet de données, mais elle est disponible sur demande. \n\nCe paquet de données fait partie du programme de cartographie de l'habitat du Hakai Institute. L'objectif principal du programme de cartographie de l'habitat de Hakai est de générer des inventaires spatiaux des habitats côtiers, d'étudier comment ces habitats évoluent au fil du temps et les moteurs de ce changement. Ces données ont été recueillies dans le cadre du Coastal BC Nearshore Habitat Mapping Project (une collaboration entre Parcs Canada et le Hakai Institute). \n\nL'autorisation d'utiliser cet ensemble de données doit être accordée par le Hakai Institute and Gulf Islands National Park Reserve à la personne qui fait la demande de données. Les données ne peuvent être utilisées que dans le but autorisé et ne doivent pas être partagées ou réutilisées. Reportez-vous au fichier README.txt inclus dans ce package de données."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/4becb6c2-ebdb-43f2-8f15-dee50aaa19d8"
+  ],
+  "dct_issued_s": "2021-01-12",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/4becb6c2-ebdb-43f2-8f15-dee50aaa19d8\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018)",
+  "gbl_mdModified_dt": "2026-09-22T21:19:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8eafb790-7414-57a8-a0d5-4cb47237e325",
+  "locn_geometry": "ENVELOPE(-123.81789453, -122.96096027, 49.05595865, 48.48393505)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

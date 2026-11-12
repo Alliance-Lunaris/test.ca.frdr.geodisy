@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The canopy is defined by the projection on the ground of the tops (crown) of trees (including leaves, branches, and trunks), which is visible from the sky. Any vegetation with a height greater than 2 m was taken into account. \n\nThe mapping of the canopy was carried out using deep learning methods, based on variables (resolution of 1 m) calculated from raw airborne lidar data from 2010 to 2020. It covers the six census metropolitan areas (CMAs) of Quebec: Gatineau, Montreal, Quebec, Saguenay, Sherbrooke and Trois-Rivières.\n\nFor more details on the creation of the map as well as the benefits, limitations, and potential uses, consult the * [Technote] (https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/3d6ed9d1-5760-43f8-95ed-b391b98a30bd) * (simplified version) and/or the * [methodological report] (https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/09155478-3b52-4865-bda4-3ad4189fe0a5) * (full version).\n\nThe production of these data was coordinated by the National Institute of Public Health of Quebec (INSPQ) and carried out by the forest remote sensing laboratory of the Sainte-Foy Forestry Education and Research Center (CERFO).\n\nNOTE: The canopy height per pixel is available in the raster files that you can download (see the data download guide in the “Documentation” section).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b90d077d-5df7-47b1-90c7-00c323ac25a4"
+  ],
+  "dct_issued_s": "2022-03-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b90d077d-5df7-47b1-90c7-00c323ac25a4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Canopy of the six RMRs of Quebec 2022",
+  "gbl_mdModified_dt": "2026-10-07T17:33:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3ca0f20e-38cb-59cf-b685-7c5df5d679fa",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

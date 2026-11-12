@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-150.92378, -83.076233, 72.495193, 46.0938)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "UW GWF  Data Manager."
+  ],
+  "dct_description_sm": [
+    "The Weather Research Forecasting model can simulate weather systems with spatial scales ranging from a few metres to thousands of kilo-metres and is suitable for both operational forecasting and atmospheric research. To assess the hydroclimatic risks posed by climate change in western Canada, a retrospective simulation (CTL) and a pseudo-global warming (PGW) dynamical downscaling of future warming projection under RCP8.5 from an ensemble of CMIP5 climate model projections using a convection-permitting 4-km WRF model. The convection-permitting resolution of the model avoids the error-prone convection parameterization by explicitly resolving cumulus plumes. The PGW-WRF-WCA dataset contains the pseudo global warming simulation of the period 2000-2015 with climate change scenario of RCP8.5 corresponding to 2071-2100. This data set will be used support atmospheric research objectives within the Global Water Futures Program funded by Canada First Research Excellence Fund."
+  ],
+  "dct_identifier_sm": [
+    "13099",
+    "https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=13099"
+  ],
+  "dct_issued_s": "2019-07-15",
+  "dct_license_sm": [
+    "https://www.polardata.ca/pdcinput/public/termsofuse"
+  ],
+  "dct_publisher_sm": [
+    "Polar Data Catalogue"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=13099\"}",
+  "dct_subject_sm": [
+    "Natural sciences -> Pressure",
+    "Natural sciences -> Meteorology",
+    "Natural sciences -> Radiation",
+    "Natural sciences -> Temperature",
+    "Natural sciences -> Precipitation"
+  ],
+  "dct_title_s": "Pseudo Global Warming Scenario (pgw-wrf-wca): Weather Research and Forecast (WRF) model simulations over Western Canada from 2000-2015",
+  "gbl_mdModified_dt": "2019-11-21T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "58280219-c997-5b5e-84ab-9f32e13a3903",
+  "locn_geometry": "ENVELOPE(-150.92378, -83.076233, 72.495193, 46.0938)",
+  "schema_provider_s": "Polar Data Catalogue"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Smart Lighting",
+    "Daylight Signals"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Y. Aussat.",
+    "Costin Ograda-Bratu.",
+    "S. Huo.",
+    "S. Keshav."
+  ],
+  "dct_description_sm": [
+    "<p><b>Data Owner</b>: Y. Aussat, S. Keshav</p>\n\n<p><b>Data File</b>: 32.8 MB zip file containing the data files and description</p>\n\n<p><b>Data Description</b>: This dataset contains daylight signals collected over approximately 200 days in four unoccupied offices in the Davis Center building at the University of Waterloo. Thus, these measure the available daylight in the room. Light levels were measured using custom-built light sensing modules based on the Omega Onion microcomputer with a light sensor. An example of the module is shown in the file sensing-module.png in this directory.</p>\n\n<p>Each sensing module is named using four hex digits. We started all modules on August 30, 2018, which corresponds to minute 0 in the dataset. However, the modules were not deployed immediately. Below are the times when we started collecting the light data in each office and corresponding sensing module names.</p>\n\n<p><b>Office number</b> &nbsp;&nbsp;&nbsp; <b>Devices</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Start time</b></p>\n\n<p>DC3526 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; af65, b02d &nbsp;&nbsp;&nbsp; September 6, 2018, 11:00 am</p>\n\n<p>DC2518 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; afa7\t        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 6, 2018, 11:00 am</p>\n\n<p>DC2319 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; af67, f073\t&nbsp;&nbsp;&nbsp;&nbsp; September 21, 2018, 11:00 am</p>\n\n<p>DC3502 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; afa5, b969\t&nbsp;&nbsp;&nbsp; September 21, 2018, 11:00 am</p>\n\n<p>Moreover, due to some technical problems, the initial 6 days for offices 1 and 2 and initial 21 days for offices 3 and 4 are dummy data and should be ignored.</p>\n\n<p>Finally, there were two known outages in DC during the data collection process: </p>\n\n<ul>\n<li>from 00:00 AM to 4:00 AM on September 17, 2018 </li>\n<li>from 11:00pm on 10/9/2018 until 7:45am on October 10, 2018 </li>\n</ul>\n\n<p>We stopped collecting the data around 2:45 pm on May 16, 2019. Therefore, we have 217 uninterrupted days of clean collected data from October 11, 2018 to May 15, 2019. </p>\n\n<p>To take care of these problems, we have provided a python script process-lighting-data.ipynb that extracts clean data from the raw data. Both raw and processed data are provided as described next.</p>\n\n<p><b>Raw data</b>: Raw data folder names correspond to the device names. The light sensing modules log (minute_count, visible_light, IR_light) every minute to a file. Here, minute 0 corresponds to August 30, 2018. Every 1440 minutes (i.e., 1 day) we saved the current file, created a new one, and started writing to it.  The filename format is {device_name}_{starting_minute}. For example Omega-AF65_28800.csv is data collected by Omega-AF65, starting at minute 28800. A metadata file can also be found in each folder with the details of the log file structure. </p>\n\n<p><b>Processed data</b>: The folder named ‘processed_data’ contains the processed data, which results from running the python script. Each file in this directory is named after the device ID, for example af65.csv stores the processed data of the device Omega-AF65.  The columns in this file are: </p>\n\n<ul>\n<li><b>Minutes</b>: Consecutive minute of the experiment </li>\n<li><b>Illum</b>: Illumination level (lux)</li>\n<li><b>Min_from_midnight</b>: Minutes from midnight of the current day</li>\n<li><b>Day_of_exp</b>: Count of the day number starting from October 11, 2018</li>\n<li><b>Day_of_year</b>: Day of the year</li>\n</ul>\n\n<p><b>Funding</b>: The Natural Sciences and Engineering Research Council of Canada (NSERC) </p>"
+  ],
+  "dct_identifier_sm": [
+    "130569",
+    "https://doi.org/10.5683/SP2/3BCADM"
+  ],
+  "dct_issued_s": "2020-11-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/3BCADM\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Office Light Level",
+  "gbl_mdModified_dt": "2020-12-07T19:36:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5ca69747-ad0d-517b-9f53-33ec519f94a8",
+  "schema_provider_s": "University of Waterloo Dataverse"
+}

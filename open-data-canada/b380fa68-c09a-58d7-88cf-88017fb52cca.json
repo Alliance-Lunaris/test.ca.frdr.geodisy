@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-60.29, -59.59, 44.18, 43.73)",
+  "dcat_keyword_sm": [
+    "AQHI",
+    "atmosphere",
+    "Qualité de l'air",
+    "Air - Quality",
+    "O3",
+    "Environnement",
+    "SO2",
+    "NOx",
+    "O3",
+    "PM",
+    "PM2.5",
+    "Climatology",
+    "Environment",
+    "NOx",
+    "meteorology",
+    "PM",
+    "Climatologie",
+    "PM2.5",
+    "Air - qualité",
+    "Air quality",
+    "SO2",
+    "météorologie",
+    "CAS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Concentrations horaires des constituants de la CAS, autres gaz à l’état de traces sélectionnés, PM1 et PM10 – île de Sable, Nouvelle-Écosse (2017 – aujourd’hui)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Hourly values of AQHI (Air Quality Health Index) constituents (O3, NO2, PM2.5), other selected trace gases (SO2, H2S), and PM1 and PM10  mass concentrations collected at the Sable Island Upper Air Station, Sable Island, Nova Scotia, Canada.  Data is available from January 2017, and is updated at least annually.\r\n\r\nSupplemental Information\r\n\r\nLower Detection Limits (LDL) 0.4 ppbv for NOx, SO2, H2S, 1 ppbv for O3, 0.1 ugm-3 for PM (particulate matter).\r\n\r\nError estimates:\r\n\r\n+/- 10% and +/- 0.2 ppbv for NOx, SO2, H2S (except +/-20% NOx January 2017);\r\n\r\n+/- 10% and +/- 1.0 ppbv for O3;\r\n\r\n+/- 3% for PM2.5 (from manufacturer).\r\n\r\nWeak negative gas concentration values (-0.4 ppbv and above) set to zero, below invalidated, except NO2; NO2 is a calculated value.\r\n\r\n12 hours invalidated after instrument work, audits and calibrations, major power failures (>= 8hrs), 2 hours after minor power failures (<8 hrs).\r\n\r\nZero and span drift corrected by linear addition over period between calibrations, but only if drift was in excess of criteria listed next, otherwise accounted for in error estimate.\r\n\r\nInstrument re-zeroed/re-calibrated if drift in excess of zero +/-|LDL|, or span +/-5% span\r\n\r\nInstruments may be re-zeroed/re-calibrated if drift less than above.\r\n\r\nInstrumentation: T-API T100(SO2), T101(H2S), T200(NOx), TEI 49i(O3), Grimm Aerosol 180B(PM2.5) and 180MC(PM1, 2.5, 10).\r\n\r\nCalibration: T-API T700 Calibrator (with calibrated ozone generator, T-API 701H Zero Air source, NOx, CO span gas from NAPS (National Atmospheric Pollution Surveillance network, ECCC), NIST traceable 10 ppm standards for SO2 and H2S, Grimms calibrated by Grimm Aerosol Canada.",
+    "Valeurs horaires des constituants (O3, NO2, PM2.5) de la CAS (Cote air santé), autres gaz à l’état de traces sélectionnés (SO2, H2S), concentrations massiques des PM1 et PM10 mesurées à la station d’observation aérologique de l’île de Sable, Nouvelle-Écosse, Canada. Les données sont disponibles depuis janvier 2017 et sont mises à jour au moins une fois par année. CO ajouté en 2018.\r\n\r\nRenseignements supplémentaires\r\n\r\nLimites inférieures de détection (LID) : 0,4 ppbv pour le NOx, le SO2 et le H2S; 1 ppbv pour l’O3; 0,1 ugm-3 pour les PM (matières particulaires).\r\n\r\nEstimations des erreurs :\r\n\r\n+/- 10 % et +/- 0,4 ppbv pour le NOx, le SO2 et le H2S (mais +/- 20 % NOx janvier 2017)\r\n\r\n+/- 10 % et +/- 1,0 ppbv O3\r\n\r\n+/- 3 % pour les PM2.5 (selon le fabricant)\r\n\r\nFaibles valeurs négatives de concentrations de gaz (-0,4 ppbv et au-dessus) réglées à zéro, invalidées en dessous, sauf pour le NO2; le NO2 est une valeur calculée.\r\n\r\n12 heures invalidées après travail sur les instruments, vérifications et étalonnages, importantes pannes de courant (>= 8 h), 2 heures après de petites pannes de courant (<8 h).\r\n\r\nDérives du zéro et de l’échelle corrigées par addition linéaire pendant les périodes entre les étalonnages, mais seulement si la dérive dépassait les critères indiqués plus loin; autrement, prise en compte dans l’estimation de l’erreur.\r\n\r\nInstruments remis à zéro/réétalonnés si dérive dépassant zéro +/-|LID| ou échelle +/- 5 % échelle\r\n\r\nLes instruments peuvent être remis à zéro/réétalonnés si la dérive est inférieure à ce qui précède.\r\n\r\nInstruments : T-API T100 (SO2), T101 (H2S), T200 (NOx), TEI 49i (O3), 180MC (PM1, 2.5, 10) et 180B (PM2.5) de Grimm Aerosol.\r\n\r\nÉtalonnage : étalonneur T-API T700 (avec ozoneur étalonné), source de vide d’air T-API 701H, NOx, gaz de réglage CO du RNSPA (Réseau national de surveillance de la pollution atmosphérique, ECCC), étalons traçables de 10 ppm du NIST pour le SO2 et le H2S, Grimms (étalonnage par Grimm Aerosol Canada)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/cc7c255e-0a76-4aca-97ea-c14ce3ba2dd0"
+  ],
+  "dct_issued_s": "2018-06-28",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/cc7c255e-0a76-4aca-97ea-c14ce3ba2dd0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Hourly Concentrations of AQHI Constituents, Other Selected Trace Gases, and PM1 and PM10 - Sable Island Nova Scotia (2017 - Present)",
+  "gbl_mdModified_dt": "2019-11-08T16:11:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b380fa68-c09a-58d7-88cf-88017fb52cca",
+  "locn_geometry": "ENVELOPE(-60.29, -59.59, 44.18, 43.73)",
+  "schema_provider_s": "Open Data Canada"
+}

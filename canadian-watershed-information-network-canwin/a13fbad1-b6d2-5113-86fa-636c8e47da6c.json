@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nThe polygonal layer of lidar slope classes expresses the slope of the terrain. The slopes are generated from a digital terrain model (DTM) with a resolution of 10 meters. The latter is the result of an aggregation by bilinear interpolation of lidar NCDs at 1 m. The minimum area of the resulting polygons is 0.2 hectares. Lidar digital slopes are divided into 7 classes.\n\n+ A - Null by [0 to 3]% \n\n+ B - Low from] 3 to 8]% \n\n+ C - Soft from] 8 to 15]% \n\n+ D - Moderate [from] 15 to 30]% \n\n+ E - Strong from] 30 to 40]% \n\n+ F - Steep from] 40 to ∞ [% \n\n+ S — Summit completely surrounded by F slopes \n\nThis map covers the entire territory of the Southern Quebec Ecoforest Inventory (IEQM) and was developed in order to provide stakeholders with the tools they need when applying for financial assistance from the Forest Management Investment Program (PIAF). __We do not recommend using the information in this layer for detailed analysis. __**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd"
+  ],
+  "dct_issued_s": "2025-01-08",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Polygonal slope class from lidar",
+  "gbl_mdModified_dt": "2026-10-07T17:39:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a13fbad1-b6d2-5113-86fa-636c8e47da6c",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Modélisation",
+    "Terrains",
+    "Direction inventaires forestiers",
+    "Classe de pente",
+    "DIF",
+    "Lidar",
+    "Relief"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "<span style=\"border: 2px solid #206b82;\r\n            padding: 2px 8px;\r\n            border-radius: 16px;\r\n            white-space: pre-wrap;\r\n            display: block;\">__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\r\n</span>\r\n\r\nLa couche polygonale de classes de pentes lidar exprime l’inclinaison du terrain. Les pentes sont générées à partir d'un modèle numérique de terrain (MNT) d’une résolution de 10 mètres. Ce dernier est issu d’une agrégation par interpolation bilinéaire des MNT lidar à 1m. La superficie minimale des polygones résultants est de 0,2 hectare. Les pentes numériques lidar sont divisées en 7 classes.\r\n\r\n+ A - Nulle de [0 à 3] %  \r\n+ B - Faible de ]3 à 8] %  \r\n+ C - Douce de ]8 à 15] %  \r\n+ D - Modérée de ]15 à 30] %  \r\n+ E - Forte de ]30 à 40] %  \r\n+ F - Abrupte de ]40 à ∞ [%  \r\n+ S – Sommet entièrement entouré de pentes F \r\n\r\nCette cartographie couvre la totalité du territoire de l’inventaire écoforestier du Québec méridional (IEQM) et a été développée dans l’objectif d’outiller les intervenants lors des demandes d’aide financière au Programme d'investissement pour l'aménagement des forêts (PIAF). __Nous ne recommandons pas d’utiliser l’information de cette couche pour une analyse fine.__"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd"
+  ],
+  "dct_issued_s": "2024-12-09",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/0fc7ef5e-8696-4502-adb4-5c59931496dd\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Classe de pente polygonale issue du lidar",
+  "gbl_mdModified_dt": "2025-07-25T14:01:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2ebe647d-510a-5c6c-b44d-4d181a42f82d",
+  "schema_provider_s": "Données Québec"
+}

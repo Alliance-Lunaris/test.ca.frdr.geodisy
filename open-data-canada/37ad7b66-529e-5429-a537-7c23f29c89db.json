@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.001541, -110.000762, 60.0, 48.996056)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "CONTOUR-LINE",
+    "DIGITAL-ELEVATION-MODEL",
+    "DEM",
+    "Government information",
+    "DIGITAL-TERRAIN-MODEL",
+    "INDEX-CONTOUR",
+    "-CANADA",
+    "ELEVATION",
+    "HYPSOGRAPHY",
+    "DTM"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Contour de l'indice"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset contain all of the 1:20 000 scale index contour information converted from the Provincial Digital Base Mapping Project. These contour arcs are a cartographic product and they do not have any elevation values attributed to the spatial features. These contours require the use of elevation text to properly interpret the elevation value of a specific contour. Index contours are identified every 5th contour line. For Alberta, the index contour intervals occur every 50 metres in relatively flat terrain and every 100 metres in mountainous terrain. Currently, no contour information exists for Banff, Jasper and Wood Buffalo National Parks and also for the Extreme north east portion of the province.",
+    "Cet ensemble de données contient toutes les informations de contour de l'indice à l'échelle 1:20 000 converties à partir du projet provincial de cartographie de base numérique. Ces arcs de contour sont un produit cartographique et aucune valeur d'altitude n'est attribuée aux caractéristiques spatiales. Ces contours nécessitent l'utilisation d'un texte d'altitude pour interpréter correctement la valeur d'altitude d'un contour spécifique. Les contours de l'indice sont identifiés toutes les 5 lignes de contour. Pour l'Alberta, les intervalles de contour de l'indice se produisent tous les 50 mètres en terrain relativement plat et tous les 100 mètres en terrain montagneux. À l'heure actuelle, il n'existe aucune information sur les contours des parcs nationaux Banff, Jasper et Wood Buffalo, ainsi que pour la partie de l'extrême nord-est de la province.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/27483c7c-8668-484a-a5cf-30e9c7ca2cb1"
+  ],
+  "dct_issued_s": "2000-04-07",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/27483c7c-8668-484a-a5cf-30e9c7ca2cb1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Index Contour",
+  "gbl_mdModified_dt": "2026-03-04T15:10:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37ad7b66-529e-5429-a537-7c23f29c89db",
+  "locn_geometry": "ENVELOPE(-120.001541, -110.000762, 60.0, 48.996056)",
+  "schema_provider_s": "Open Data Canada"
+}

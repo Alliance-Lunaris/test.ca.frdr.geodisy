@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data layer comes from information recorded to the Operations Directorate of the Ministry of Public Security (MSP) during winter heat or spring flooding. The compilation was carried out using digital documents, papers, event reports or situation reports.\n\nThe database also contains field observations made by municipal stakeholders grouped into river monitoring committees. These committees are set up and coordinated by the regional directorates of the MSP.\n\nField observation is the collection of qualitative or quantitative data on the state of the river at a specific time. The level of the river can, when the situation applies, be measured using a limnimetric scale or evaluated using a geographic coordinate system as well as its trend (increasing, stable, or decreasing). General information characterizing the ice cover may also be recorded by the observer.\n\nThe information in the database is consistent with the Canadian Common Alert Protocol Profile (PC-PAC). The PC-PAC is a set of rules and controlled values that support the translation and composition of a message to facilitate its sending by different means and from different sources.\n\nThe PC-PAC formats used are as follows:\n\nSEVERITY LEVEL\n\nThe severity level of the event based on the harm to life of persons or damage to property. The severity of observations on past events can therefore be estimated from the consequences recorded at the time of the events. For field observations by river committees, the degree of severity is generally estimated directly by the observer.\n\nThe definitions are as follows:\n\nExtreme: Extraordinary threat to life or property.\n\nSignificant: a significant threat to life or property.\n\nModerate: possible threat to life or property.\n\nMinor: low threat to life or property.\n\nNormal: there is no threat to life or property.\n\nUnknown: severity unknown.\n\nEMERGENCY\n\nThe emergency level is determined based on the reactive measures that need to be taken in response to the current situation.\n\nThe definitions are as follows:\n\nImmediate: reactive action must be taken immediately.\n\nExpected: Reactive action should be taken soon (within the next hour).\n\nFuture: reactive action needs to be taken in the near future.\n\nPast: reactive action is no longer necessary.\n\nUnknown: emergency unknown.\n\nSTATE\n\nThe state refers to the context of the observation, real or simulated.\n\nCurrent: information about a real event or situation.\n\nPurpose: To obtain an overall picture of the situation concerning ice jam flooding problems in order to estimate the risk of flooding along river sections subject to this problem.\n\nGeographically locate the ice jams listed on Quebec waterways.\n\nCharacterize each case listed according to the severity level as defined in the PC-CAP common alert protocol.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/16b5e6bf-3fb6-4d4d-a87d-c79b7bfe8d9d"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/16b5e6bf-3fb6-4d4d-a87d-c79b7bfe8d9d\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "History (public) of ice jams listed at the MSP",
+  "gbl_mdModified_dt": "2026-10-07T17:39:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "75a9ab0b-6731-54ff-8540-ca73b693188f",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

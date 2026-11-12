@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.6559, -121.5809, 54.3062, 48.1938)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal climatologies (temperature, salinity, and sigma-t) of the Northeast Pacific Ocean were computed from historical observations including all available conductivity-temperature-depth (CTD), bottle, expendable bathy-thermograph (XBT), and Argo data in NOAA (http://www.argo.ucsd.edu/), Marine Environmental Data Service (MEDS), and Institute of Ocean Sciences archives over 1980 to 2010 period in spatial resolution ranging from approximately 100m to 70km.\n\nMethods:\nCalculations, including smooth and interpolation, were carried out in sixty-five subregions and up to fifty-two vertical levels from surface to 5000m. Seasonal averages were computed as the median of yearly seasonal values. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March.\n\nUncertainties:\nUncertainties are introduced when quality controlled observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b2992072-0dca-452a-ac3e-b62176362bf4"
+  ],
+  "dct_issued_s": "2020-12-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b2992072-0dca-452a-ac3e-b62176362bf4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seasonal Climatologies of the Northeast Pacific Ocean (1980-2010)",
+  "gbl_mdModified_dt": "2026-03-24T08:11:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "08f281b1-322e-597a-9e88-f9a5a29cdf78",
+  "locn_geometry": "ENVELOPE(-139.6559, -121.5809, 54.3062, 48.1938)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

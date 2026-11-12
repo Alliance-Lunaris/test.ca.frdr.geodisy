@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Disease Biology",
+    "Rana temporaria",
+    "Holocene",
+    "Various"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lewis J., Campbell (Zoological Society of London).",
+    "Stewart A., Hammond (Canada's Michael Smith Genome Sciences Centre).",
+    "Stephen J., Price (Zoological Society of London).",
+    "Manmohan D., Sharma (University of Exeter).",
+    "Trenton W.J., Garner (University of Exeter).",
+    "Inanc, Birol (Genome Sciences Centre, British Columbia Cancer Agency, 100‐570 West 7th Ave, Vancouver, BC V5Z 4S6, Canada, Canada's Michael Smith Genome Sciences Centre).",
+    "Caren C., Helbing (University of Victoria).",
+    "Lena, Wilfert (University of Exeter).",
+    "Amber G.F., Griffiths (Then Try This).",
+    "Trenton W. J., Garner (Zoological Society of London)."
+  ],
+  "dct_description_sm": [
+    "Ranaviruses are responsible for a lethal, emerging infectious disease in amphibians and threaten their populations throughout the world. Despite this, little is known about how amphibian populations respond to ranaviral infection. In the United Kingdom, ranaviruses impact the common frog (Rana temporaria). Extensive public engagement in the study of ranaviruses in the UK has led to the formation of a unique system of field sites containing frog populations of known ranaviral disease history. Within this unique natural field system, we used RNA sequencing (RNA-Seq) to compare the gene expression profiles of R. temporaria populations with a history of ranaviral disease and those without. We have applied a RNA read filtering protocol that incorporates Bloom filters, previously used in clinical settings, to limit the potential for contamination that comes with the use of RNA-Seq in non-laboratory systems. We have identified a suite of 407 transcripts that are differentially expressed between populations of different ranaviral disease history. This suite contains genes with functions related to immunity, development, protein transport and olfactory reception amongst others. A large proportion of potential non-coding RNA transcripts present in our differentially expressed set provides first evidence of a possible role for long non-coding RNA (lncRNA) in amphibian response to viruses. Our read-filtering approach also removed significantly more bacterial reads from libraries generated from postitive disease history populations. Subsequent analysis revealed these bacterial read sets to represent distinct communities of bacterial species, which is suggestive of an interaction between ranavirus and the host microbiome in the wild."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.q4g75",
+    "https://doi.org/10.5061/dryad.q4g75"
+  ],
+  "dct_issued_s": "2018-02-07",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.q4g75\"}",
+  "dct_spatial_sm": [
+    "Palmer's Green",
+    "UK",
+    "London",
+    "Various"
+  ],
+  "dct_title_s": "Data from: A novel approach to wildlife transcriptomics provides evidence of disease-mediated differential expression and changes to the microbiome of amphibian populations",
+  "gbl_mdModified_dt": "2020-06-30T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d36a0f9a-0435-55be-8db4-981d64a2a9ad",
+  "schema_provider_s": "Dryad"
+}

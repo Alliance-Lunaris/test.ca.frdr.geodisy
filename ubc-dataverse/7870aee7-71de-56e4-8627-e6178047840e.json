@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.9543, -109.8157, 63.0797, 45.4589)",
+  "dcat_keyword_sm": [
+    "temperature",
+    "Daymet",
+    "meteorological forcings",
+    "precipitation",
+    "potential evapotranspiration",
+    "catchment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kovacek, Daniel (University of British Columbia). ORCID: https://orcid.org/0000-0001-7882-8586"
+  ],
+  "dct_description_sm": [
+    "Replication code is provided at <a href=\"https://github.com/dankovacek/process_metforcings\">https://github.com/dankovacek/process_metforcings.</a>",
+    "This dataset provides catchment-averaged daily meteorological time series for selected watersheds in British Columbia\nand adjacent regions. Meteorological variables are derived from the Daymet gridded climate dataset (Version 4 R1)\nat a 1-km spatial resolution and include:\n• Precipitation (prcp)\n• Maximum and minimum temperature (tmax, tmin)\n• Shortwave radiation (srad)\n• Vapor pressure (vp)\n• Snow water equivalent (swe)\n• Day length (dayl)\n• Potential evapotranspiration (PET), computed using the Penman-Monteith method via the PyDaymet package"
+  ],
+  "dct_identifier_sm": [
+    "951921_73901",
+    "https://doi.org/10.5683/SP3/65FXAS"
+  ],
+  "dct_issued_s": "2025-07-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/65FXAS\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Processed Catchment-Averaged Meteorological Forcings from Daymet for Streamflow Monitored Catchments in British Columbia and Transboundary Basins",
+  "gbl_mdModified_dt": "2025-12-02T22:36:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7870aee7-71de-56e4-8627-e6178047840e",
+  "locn_geometry": "ENVELOPE(-144.9543, -109.8157, 63.0797, 45.4589)",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

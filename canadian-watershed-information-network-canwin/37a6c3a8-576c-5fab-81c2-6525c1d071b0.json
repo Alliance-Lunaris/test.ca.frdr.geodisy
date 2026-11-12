@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Please note that a web service is currently under development and will be launched in the fall of 2026. Stay on the lookout!\n\n## #Avertissement :###\n\n### #Le broadcaster cannot guarantee the accuracy, precision, or completeness of the data nor can it be held responsible for the conclusions that arise from their use. This data has no legal value. ####\n\nThe Geobase of the Quebec Hydrographic Network at High Resolution (GRHQ-HR) offers an up-to-date representation of the hydrographic network with very high precision (scale of 1/2,000). This repository, produced from lidar data, is offered by hydrographic division unit (UDH). The deployment of this geobase is carried out progressively by levels of completeness (NC). Ultimately, it will cover the territory of southern Quebec. During the deployment phase of the repository, [the Quebec Hydrographic Network Geobase (GRHQ)] (https://www.donneesquebec.ca/recherche/fr/dataset/grhq), the GRHQ-HR as well as [potential flow beds] (https://www.donneesquebec.ca/recherche/dataset/lits-d-ecoulements-potentiels-issus-du-lidar) from the lidar will be simultaneously available on Data Quebec for this portion of the territory.\n\nThe GRHQ-HR includes a 3D linear geometric network, which represents the continuity and direction of flow in all types of aquatic entities (streams, lakes, wetlands, etc.). This network is created by modeling potential flow beds and completed by central flow lines (simplified representation of hydrographic surfaces in central lines). \n\nThis geobase is part of a strategy to update the cartographic map of Quebec's hydrography. It was carried out in partnership with the Ministry of the Environment, the Fight against Climate Change, Wildlife and Parks (MELCCFP). \n\n \n\n# #Caractéristiques UDH completion levels##\n\nEach level of completeness characterizes the level of work, editing, validation, and descriptive content of the datasets. Thematic and toponymic data will enhance the datasets. \n\n### #NC -1 (primary geometric network) ####\n\n* Potential and filamentary flow beds derived from hydrographic, oriented, and topological surfaces.\n\n* Priority level defined (allows network analyses).\n\n* Presence of certain basic attributes (sustainability, network connection, accumulation of flows, Strahler and Horton orders, distance from upstream, distance from downstream).\n\n* Linear reference system (road numbers, vertex M coordinates).\n\n* Hydrographic surfaces of the GRHQ on a scale of 1/20,000 (2D).\n\n* Presence of some toponyms as an attribute.\n\n* Hydrocoherent digital terrain models (GeoTIFF).\n\n* Flow accumulation matrices (GeoTIFF).\n\n* Flow direction matrices (GeoTIFF).\n\n### #NC -2 (enhanced geometric network) ####\n\n* NC-1 features.\n\n* Update of hydrographic surfaces by photogrammetry.\n\n* Correction of errors in the path of potential flow beds and update of downstream filamentaries.\n\n* Partial addition of thematic hydrographic data (dams, falls, reefs, islands, wetlands, rapids).\n\n* Lidar survey date index.\n\n* Topological nesting of matrices.\n\n* Update of hydrocoherent numerical terrain models.\n\n* Update of flow direction matrices.\n\n* Update of flow accumulation matrices.\n\n### #NC -3 (thematic bonus) ####\n\n* Characteristics of the NC-2.\n\n* Hydrographic themes completed (breakwaters, quays).\n\n* Addition of toponyms.\n\n### #NC -4 (improvement of toponymic content) ####\n\n* NC-3 features.\n\n* Continuity of toponymic data on geometries.\n\n* Addition of named entities.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ba2c19ec-e7c5-468b-83df-c5879263c925"
+  ],
+  "dct_issued_s": "2025-08-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ba2c19ec-e7c5-468b-83df-c5879263c925\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Geobase of the Quebec hydrographic network at high resolution (GRHQ-HR)",
+  "gbl_mdModified_dt": "2026-10-07T17:35:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37a6c3a8-576c-5fab-81c2-6525c1d071b0",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

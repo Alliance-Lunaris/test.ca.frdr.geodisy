@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-81.6292680407665, -56.16399078242737, 54.88719344625286, 44.44677159372617)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "**Note that topographic maps at a scale of 1/100,000 are no longer updated. For the latest update date, see the [metadata] (ftp://transfert.mern.gouv.qc.ca/public/diffusion/RGQ/Documentation/BDAT/Metadonnees_BDAT100k_NordSud.xls). The reference cartographic data is now constituted according to a continuous information layer approach: **\n\n* [AQNetwork+] (https://www.donneesquebec.ca/recherche/fr/dataset/adresses-quebec)\n\n* [Quebec Hydrographic Network Geobase (GRHQ)] (https://www.donneesquebec.ca/recherche/dataset/grhq)\n\n* [Administrative divisions on a scale of 1/20,000 (SDA)] (https://www.donneesquebec.ca/recherche/fr/dataset/decoupages-administratifs)\n\n* [Regional Coherent Hydro Digital Terrain Models (RTM)] (https://www.donneesquebec.ca/recherche/fr/dataset/modeles-numerique-de-terrain-hydro-coherents-a-l-echelle-regionale)\n\n ___\n\nTopographic maps at a scale of 1/100,000 offer an overview of the occupation of Quebec territory at a scale of 1/100,000. A series in the south (266 sheets) and a series in the north (151 sheets) of the 53rd parallel cover the majority of Quebec.\n\nThe data is less than 10 meters accurate and each file covers an area of approximately 4,000 km2, equivalent to 16 sheets at [a scale of 1/20,000] (https://www.donneesquebec.ca/recherche/fr/dataset/cartes-topographiques-a-l-echelle-de-1-20-000 “Topographic maps at a scale of 1/20,000”).\n\nMain components:\n\n* Hydrography (lakes of more than three hectares, permanent watercourses, swamps, etc.).\n\n* Vegetation (wooded areas and peatlands of more than 13 hectares).\n\n* The constructions of man:\n\n * transport infrastructures (passable roads, bridges, airports, etc.);\n\n * buildings larger than 12,500 m2;\n\n * equipment and designated areas.\n\n* The relief (level curves at an equidistance of 20 meters and elevation points).\n\n##### Special features of the series south of the 53rd parallel\n\n* The data is obtained by generalizing cartographic data at a scale of 1/20,000. Between the 51st and 53rd parallel, they are extracted from SPOT satellite imagery at 10 meters of resolution.\n\n* The data formats available for this series are:\n\n * ArcInfo cover (vector);\n\n * GeoTIFF, CCL projection (matrix);\n\n * GeoTIFF, MTM projection (matrix);\n\n * PDF (matrix).\n\n##### Special features of the series north of the 53rd parallel\n\n* The data is obtained by generalizing cartographic data from Natural Resources Canada (CanVec product) at a scale of 1:50,000. Multi-source data, namely data from Adresses Québec, data on airports and hydrobases from the Ministère des Transports du Québec, and data on reservoirs from Hydro-Québec, increase the quality of this cartographic product on a scale of 1/100,000.\n\n* The data format available for this series is:\n\n * FGDB (vector).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d3812df2-6988-409d-a626-ccbc58a59431"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d3812df2-6988-409d-a626-ccbc58a59431\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Topographic maps on a scale of 1/100,000",
+  "gbl_mdModified_dt": "2026-10-07T17:34:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4b1e4f73-219c-51fa-a3ff-c8e347a45a1a",
+  "locn_geometry": "ENVELOPE(-81.6292680407665, -56.16399078242737, 54.88719344625286, 44.44677159372617)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

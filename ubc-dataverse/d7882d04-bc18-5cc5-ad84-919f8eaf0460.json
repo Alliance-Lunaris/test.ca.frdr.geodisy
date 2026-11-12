@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.5089767, -123.508876, 48.816762000000004, 48.8166617)",
+  "dcat_keyword_sm": [
+    "Habitat Connectivity, Landscape Connectivity, Network Connectivity, Brown Creeper Bird, Red Squirrel, Red-Legged Squirrel, Salt Spring Island, Biodiversity Conservation, Conefor, PC Index Metrics, Probability of Connectivity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Haché, Andrée-Anne (University of British Columbia). ORCID: https://orcid.org/0009-0008-9995-6964"
+  ],
+  "dct_description_sm": [
+    "Habitat connectivity is fundamental for animal species dispersal and gene flow. However, habitats are becoming increasingly fragmented due to anthropogenic activities. In this study, I analyzed habitat connectivity on Salt Spring Island, British Columbia, from the perspective of the brown creeper bird, the red squirrel, and the red-legged frog. These umbrella species were selected since their survival is at risk with global warming that is altering their fragile habitat. The research objectives were: assessing network connectivity; identifying the most important habitat patches; and identifying the most important disturbed areas for restoration. The methods included: creating habitat patches and links based on specific habitat requirements using the Landsat landcover classes and Light Detection and Ranging data; assigning a quality to each landuse category to calculate the area-weighted quality of each patch; and performing the connectivity analysis in Conefor 2.6 using the Probability of Connectivity index and its associated metrics (sum dPC and dNC) as they were proven to perform the best for modeling habitat connectivity. A Probability of Connectivity value of 0.0000344 was computed for frog compared to 0.1081950 and 0.1175361 for the bird and the squirrel, respectively. These low values suggest that all habitats may require restoration, but efforts may be focus on the frog since it is significantly less connected. In total, 304 patches covering 6.7 km2 were identified as areas of very high functional connectivity that may require protection. Additionally, 31.3% of this total area was found to be disturbed by agriculture, urban area, high soil erosion, and/or major road(s), which may indicate an important need for rehabilitation. The best way to enhance the species survival and dispersal rate may be to buffer existing patches with woodland, and develop corridors and hub patches that are large and rich in resources to provide both more connectivity and more habitat."
+  ],
+  "dct_identifier_sm": [
+    "462928_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/8QTI6S"
+  ],
+  "dct_issued_s": "2023-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/8QTI6S\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Habitat Connectivity Using Conefor 2.6 For Salt Spring Island, British Columbia",
+  "gbl_mdModified_dt": "2023-04-28T18:14:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d7882d04-bc18-5cc5-ad84-919f8eaf0460",
+  "locn_geometry": "ENVELOPE(-123.5089767, -123.508876, 48.816762000000004, 48.8166617)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

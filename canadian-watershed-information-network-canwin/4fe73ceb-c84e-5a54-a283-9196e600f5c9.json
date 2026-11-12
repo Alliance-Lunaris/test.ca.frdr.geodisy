@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -52.0, 83.0, 43.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This collection is a legacy product that is no longer supported. It may not meet current government standards.  \n  \n  Land Cover information is the result of vectorization of raster thematic data originating from classified Landsat 5 and Landsat 7 ortho-images, for agricultural and forest areas of Canada, and for Northern Territories. The forest cover was produced by the Earth Observation for Sustainable Development (EOSD) project, an initiative of the Canadian Forest Service (CFS) with the collaboration of the Canadian Space Agency (CSA) and in partnership with the provincial and territorial governments. The agricultural coverage is produced by the National Land and Water Information Service (NLWIS) of Agriculture and Agri-Food Canada (AAFC). Northern Territories land cover was realized by the Canadian Centre of Remote Sensing (CCRS).  Land Cover data are classified according to a harmonized legend build from the partner's legends. This legend is principally based on the legend described in following publication: EOSD publication: EOSD Land Cover Classification Legend Report, on which CFS and AAFC collaborated. Some classes related to Northern environments where added in order to meet the interpretation of the Northern land cover classification experts. Initially, Land Cover vector data are closest as possible to the source (original raster data). Slight differences can occur because the raster data goes through a data portrayal before being vectorized in order to enhance visual representation such as minimum size, smoothness of polygons and geometry."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/97126362-5a85-4fe0-9dc2-915464cfdbb7"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/97126362-5a85-4fe0-9dc2-915464cfdbb7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Land Cover, Circa 2000 (Vector) - GeoBase Series, 1996-2005",
+  "gbl_mdModified_dt": "2021-09-08T20:01:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4fe73ceb-c84e-5a54-a283-9196e600f5c9",
+  "locn_geometry": "ENVELOPE(-141.0, -52.0, 83.0, 43.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

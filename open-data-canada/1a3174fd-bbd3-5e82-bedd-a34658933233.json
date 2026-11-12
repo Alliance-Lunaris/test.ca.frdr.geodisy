@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -52.62, 69.0, 41.68)",
+  "dcat_keyword_sm": [
+    "SPOT",
+    "Earth sciences",
+    "Satellite",
+    "Satellites",
+    "Sciences de la terre",
+    "SPOT",
+    "Imagery",
+    "Imagerie",
+    "Land cover",
+    "Land use",
+    "Utilization des terres",
+    "Basemaps",
+    "Couverture terrestre",
+    "Inland water resources",
+    "Ressources en eaux intérieures",
+    "Carte de base"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Couverture terrestre du Canada (2005–2010) à moyenne résolution au sud de la limite des arbres, produite à partir d’images SPOT 4/5 à une résolution de 20 m"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The Government of Canada acquired a national image coverage from the Systeme Pour l'Observation de la Terre (SPOT 4 - 5) satellites that includes four multispectral bands in the visible to shortwave infrared region at 20m spatial resolution. Five years from 2005 - 2010 were necessary to image all of Canada under clear-sky conditions, while acquisition anniversary dates were less important provided the data were imaged during the snow-free period. These data were downloaded from the GeoBase Orthoimage 2005 - 2010 dataset (http://www.geobase.ca/geobase/en/data/imagery/imr/description.html) and used to map 2005 - 2010 land cover south of treeline. Northern Canada has not currently been remapped since circa 2000 due to technical challenges associated with land cover variability and image acquisition dates relative to short summers. This land cover product includes 16 generic classes based on plant functional and a minimum mapping unit of 20m. Radiometric normalization was applied to balance images acquired near mid-summer during the 'peak-of-season' temporal window. The combined Enhancement and Classification by Progressive Generalization methods were used to classify large-area balanced mosaics over twenty mapping zones. Image interpretation was guided using high resolution imagery and other content in Google Earth. Knowledge of land cover spectral signatures, field experience and published reports were also used to assist interpretation in many regions. Remaining images acquired outside the peak-of-season window in early spring or late fall were subsequently classified using decision trees trained on data from overlapping classified peak-of-season images. Accuracy was assessed using ground truth data acquired during several field campaigns conducted with other government departments such as Parks Canada and the Geological Survey. This sample was enhanced using points interpreted in Google Earth as described above to provide a more even spatial coverage of Canada. Overall accuracy assessed at 71% using 1566 reference points, more than half of which were acquired in the field. When assessed using only land cover that was homogeneous within 3 by 3 pixels to account for potential geolocation errors, accuracy increased to 85% for 349 points that were biased towards easily classified classes such as water.",
+    "Le gouvernement du Canada a acquis une couverture nationale d’images provenant des satellites 4 et 5 du Système pour l’observation de la Terre (SPOT) à une résolution de 20 m. Ces images comprennent quatre bandes multispectrales dans les régions du visible et de l’infrarouge à ondes courtes. Une période de cinq ans, de 2005 à 2010, a été nécessaire pour couvrir l’ensemble du Canada dans des conditions de ciel dégagé. La date précise de l’observation est moins importante que la nécessité de capter les images pendant la période sans neige au sol. Ces données, téléchargées à partir du jeu de données d’orthoimages 2005–2010 de Geobase (http://www.geobase.ca/geobase/fr/data/imagery/imr/description.html), ont servi à produire la carte de la couverture terrestre au sud de la limite forestière, entre 2005 et 2010. Le Nord du Canada n’a pas été recartographié depuis 2000 environ, à cause des difficultés techniques découlant de la variabilité de la couverture terrestre et des dates d’acquisition des images par rapport à la courte durée de l’été. Sur ce produit, seize classes génériques de couverture terrestre fondées sur les fonctions des plantes sont utilisées, avec une unité minimale de cartographie de 20 m. On a appliqué une normalisation radiométrique pour rééquilibrer les images captées au milieu de l’été pendant la fenêtre temporelle du « pic de la saison Les méthodes combinées d’amélioration et de classification par généralisation progressive ont été utilisées pour classifier de grandes mosaïques équilibrées couvrant vingt zones de cartographie. L’interprétation des images a été guidée par des images à haute résolution et d’autres informations disponibles dans Google Earth. Pour plusieurs régions, on a aussi tiré parti des signatures spectrales de la couverture terrestre, de l’expérience sur le terrain et des rapports publiés pour assister l’interprétation. Les images restantes, acquises au début du printemps ou à la fin de l’automne, en dehors de la fenêtre du pic de la saison, ont ensuite été classifiées à l’aide d’arbres de décision entraînés à partir de données provenant d’images classifiées du pic de la saison couvrant les mêmes secteurs. On a évalué l’exactitude à partir de données de référence acquises sur le terrain au cours de plusieurs campagnes réalisées avec d’autres organismes gouvernementaux, comme Parcs Canada ou la Commission géologique. Tel que décrit plus haut, cet échantillon a été complété par des points interprétés dans Google Earth afin d’obtenir une couverture spatiale plus uniforme du Canada. L’exactitude globale a été évaluée à 71 % à partir de 1 566 points de référence, dont plus de la moitié ont été acquis sur le terrain. Si on évalue l’exactitude en se limitant à la couverture terrestre homogène sur 3 × 3 pixels, afin de tenir compte des erreurs potentielles de géolocalisation, elle augmente à 85 % pour 349 points qui étaient biaisés vers des classes faciles à classifier, comme l’eau."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d1fc6010-e2e7-401a-8dc1-544cd2ac0b03"
+  ],
+  "dct_issued_s": "2018-02-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d1fc6010-e2e7-401a-8dc1-544cd2ac0b03\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "2005–2010 Medium-Resolution Land Cover of Canada South of the Treeline derived from 20 m SPOT 4/5 Imagery",
+  "gbl_mdModified_dt": "2026-09-29T19:01:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1a3174fd-bbd3-5e82-bedd-a34658933233",
+  "locn_geometry": "ENVELOPE(-141.0, -52.62, 69.0, 41.68)",
+  "schema_provider_s": "Open Data Canada"
+}

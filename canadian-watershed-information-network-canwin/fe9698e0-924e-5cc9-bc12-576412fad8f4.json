@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of parks and green spaces maintained by the municipality.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n Vectorization of cadastral boundaries\n\nFleet name given by the Communications Department\n\n**Attributes**\n\n* _name_ (_String_): Name\n* _address_ (_String_): Civic address\n* _sector_ (_String_): Sector\n* _pdf_ (_String_): \n* _no_parc_ (_String_): Unique identifier\n* _area_ (_Integrate_): Area\n* _park_type_ (_String_): Park type\n* _st_area (shape) _ (_Double_): Surface\n* _st_length (shape) _ (_Double_): Perimeter\n* _objectid_ (_OID_): \n* _old_name_ (_String_): \n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/08123b30-f795-432b-8b4a-13a3925f72f4"
+  ],
+  "dct_issued_s": "2024-03-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/08123b30-f795-432b-8b4a-13a3925f72f4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Parks and green spaces - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-29T17:43:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe9698e0-924e-5cc9-bc12-576412fad8f4",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

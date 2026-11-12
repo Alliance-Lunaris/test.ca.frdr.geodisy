@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "sampling design",
+    "genomics",
+    "Chelonoidis",
+    "single nucleotide polymorphism",
+    "conservation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gaughran, Stephen J. (Yale University).",
+    "Quinzin, Maud C. (Yale University, Massachusetts Institute of Technology).",
+    "Miller, Joshua M. (Yale University, MacEwan University).",
+    "Garrick, Ryan C. (Yale University, University of Mississippi).",
+    "Edwards, Danielle L. (Yale University, University of British Columbia).",
+    "Russello, Michael A. (University of British Columbia).",
+    "Poulakakis, Nikos (University of Crete).",
+    "Ciofi, Claudio (University of Florence).",
+    "Beheregaray, Luciano B. (Flinders University).",
+    "Caccone, Aldalgisa (University of British Columbia, Yale University).",
+    "Caccone, Adalgisa (Yale University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/a6_XcXBHSTTwTzdlwlXyUhdWdqw-x67Du_oV1zyidzE</p>\n<p><b>Storage size:</b> 3402370</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Hgh-throughput DNA sequencing allows efficient discovery of thousands of single nucleotide polymorphisms (SNPs) in non-model species. Population genetic theory predicts that this large number of independent markers should provide detailed insights into population structure, even when only a few individuals are sampled. Still, sampling design can have a strong impact on such inferences. Here, we use simulations and empirical SNP data to investigate the impacts of sampling design on estimating genetic differentiation among populations that represent three species of Galápagos giant tortoises (Chelonoidis spp.). Though microsatellite and mitochondrial DNA analyses have supported the distinctiveness of these species, a recent study called into question how well these markers matched with data from genomic SNPs, thereby questioning decades of studies in non-model organisms. Using >20,000 genome-wide SNPs from 30 individuals from three Galápagos giant tortoise species, we find distinct structure that matches the relationships described by the traditional genetic markers. Furthermore, we confirm that accurate estimates of genetic differentiation in highly structured natural populations can be obtained using thousands of SNPs and 2-5 individuals, or hundreds of SNPs and 10 individuals, but only if the units of analysis are delineated in a way that is consistent with evolutionary history. We show that the lack of structure in the recent SNP-based study was likely due to unnatural grouping of individuals and erroneous genotype filtering. Our study demonstrates that genomic data enable patterns of genetic differentiation among populations to be elucidated even with few samples per population, and underscores the importance of sampling design. These results have specific implications for studies of population structure in endangered species and subsequent management decisions.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">polymorphic_snps_pbl_cru_va</h4><div class=\"o-metadata__file-description\">VCF file of the polymorphic loci among 30 individuals from three Galápagos giant tortoise species. Data are derived from ddRAD sequencing. PBL corresponds to Chelonoidis becki, CRU corresponds to C. porteri, and VA corresponds to C. vandenburghi.</div><div class=\"o-metadata__file-name\">nomiss3.vcf</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153847_1226260_150149",
+    "https://doi.org/10.5683/SP2/7NG4IN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/7NG4IN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Galápagos Islands"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Theory, practice, and conservation in the age of genomics: the Galápagos giant tortoise as a case study",
+  "gbl_mdModified_dt": "2021-05-19T20:43:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "872682ce-3658-5147-ad1a-17d489813830",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

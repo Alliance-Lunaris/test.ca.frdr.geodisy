@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "corporate watershed base",
+    "CWB",
+    "freshwater atlas"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Atlas des eaux douces - Îles"
+  ],
+  "dct_creator_sm": [
+    "GeoBC Inquiries."
+  ],
+  "dct_description_sm": [
+    "All island polygons. Islands may overlap as there are islands within islands (e.g., a lake on an island contains an island). GNIS_NAME_1 contains the most atomic name for the island. For example, there are 3797 \"Haida Gwaii\" islands. If the island has not been named as part of a more specific group or with an individual name, \"Haida Gwaii\" is the GNIS_NAME_1 value. GNIS_NAME_2 and GNIS_NAME_3 values are null. If the island has a more specific name, \"Haida Gwaii\" moves to GNIS_NAME_2, and the more atomic name, such as \"Moresby Island\" is the GNIS_NAME_1. If the island has an individual name, belongs to a group, and is part of Haida Gwaii, the same logic of naming from most to least specific applies. For example, GNIS_NAME_1 = \"George Island\", GNIS_NAME_2 = \"Copper Islands\", GNIS_NAME_3 = \"Haida Gwaii\".",
+    "Tous les polygones des îles. Les îles peuvent se chevaucher car il y a des îles dans les îles (par exemple, un lac sur une île contient une île). GNIS_NAME_1 contient le nom le plus atomique de l'île. Par exemple, il existe 3 797 îles « Haida Gwaii ». Si l'île n'a pas été nommée dans le cadre d'un groupe plus spécifique ou avec un nom individuel, « Haida Gwaii » est la valeur GNIS_NAME_1. Les valeurs GNIS_NAME_2 et GNIS_NAME_3 sont nulles. Si l'île a un nom plus spécifique, « Haida Gwaii » est déplacé vers GNIS_NAME_2, et le nom plus atomique, tel que « île Moresby », est le nom GNIS_NAME_1. Si l'île a un nom individuel, appartient à un groupe et fait partie de Haida Gwaii, la même logique de dénomination du plus spécifique au moins spécifique s'applique. Par exemple, GNIS_NAME_1 = « George Island », GNIS_NAME_2 = « Copper Islands », GNIS_NAME_3 = « Haida Gwaii ».\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4483aeea-df26-4b83-a565-934c769e74de"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4483aeea-df26-4b83-a565-934c769e74de\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Freshwater Atlas - Islands",
+  "gbl_mdModified_dt": "2026-07-29T18:31:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cc01db87-a473-5788-b93e-2e9521cb608d",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

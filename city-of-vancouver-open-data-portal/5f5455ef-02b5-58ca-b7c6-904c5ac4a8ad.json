@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.23712643235922, -123.02376173436642, 49.31410387158394, 49.200125159695745)",
+  "dcat_keyword_sm": [
+    "package",
+    "polygon",
+    "point",
+    "park"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>This data set provides information on the names and locations of City parks.  The data may be displayed as point features (a single point representing the location of the park; this is unlikely to be the geometric centroid of the park) or polygon features (a polygon or area coloured green to show the extent of the park boundaries).</p></div> <h3>Data currency</h3><div><p>Data taken from Park Board site in July 2009. The data on this site is updated weekly.</p></div> <h3>Data accuracy</h3><div><p>This data is as accurate as the data on the  Parks and Recreation site. Latitude and  longitude are for a point in the park.</p></div> "
+  ],
+  "dct_identifier_sm": [
+    "parks-polygon-representation",
+    "https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation"
+  ],
+  "dct_issued_s": "2026-09-21",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Parks, recreation, and pets"
+  ],
+  "dct_title_s": "Parks - polygon representation",
+  "gbl_mdModified_dt": "2026-09-21T13:31:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5f5455ef-02b5-58ca-b7c6-904c5ac4a8ad",
+  "locn_geometry": "ENVELOPE(-123.23712643235922, -123.02376173436642, 49.31410387158394, 49.200125159695745)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

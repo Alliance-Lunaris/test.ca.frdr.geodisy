@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Critères",
+    "269",
+    "HackQC22",
+    "Soustraction",
+    "HackQC18",
+    "Eaux Pluviales",
+    "LQE"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des eaux usées, Direction générale des politiques de l'eau."
+  ],
+  "dct_description_sm": [
+    "Cette thématique présente les résultats d’une analyse de l’occupation du territoire réalisée pour vérifier le respect de la condition de soustraction b) applicable aux travaux d’installation ou de prolongement de réseaux d’égout pluvial existants prévue au paragraphe 2° du premier alinéa de l’article 269 de la Loi modifiant la Loi sur la qualité de l’environnement (LQE) sanctionnée le 23 mars 2017.\n\nDes points d’analyse ont été établis à tous les 25 m ou 50 m pour chacun des cours d’eau cartographiés du Québec. Pour chacun de ces points, la superficie du bassin versant, le pourcentage de ce bassin versant recouvert par de la forêt, de même que le pourcentage du bassin versant situé à l’intérieur des périmètres d’urbanisation ont été déterminés. À partir de ces données, le respect ou non de la condition b) mentionnée au paragraphe 2° du premier alinéa de l'article 269 de la Loi modifiant la LQE a été évalué.\n\n#VERSION DE LA COUCHE D'INFORMATION\nCS269-V201704\n\n#MÉTHODE DE RÉCUPÉRATION DES DONNÉES\n\nLe territoire québécois a été décomposé en sous-régions hydrographiques ayant un identifiant unique. La couche \"Index de récupération des fichiers\", téléchargeable en format Shapefile, permet de localiser et d'identifier les sous-régions hydrographiques. Un hyperlien vers un fichier CSV est associé à chacune des sous-régions. Ce fichier CSV contient les résultats d’analyse pour chacun des points situés dans la sous-région hydrographique. Voir la section « Description de la structure fichier CSV » ci-après pour davantage de détails. Un logiciel spécialisé doit être utilisé pour afficher le fichier Shapefile et les fichiers CSV. Une symbologie basée sur le champ \"Condition b) du paragraphe 2° (article 269)\" est recommandée, de même que l'usage d'un fond de carte (cartes topographiques, photos aériennes, etc.).\n\n#MISE EN GARDE\n\n* Les résultats d’analyse présentés dans cette thématique s’appuient sur des tracés automatisés de bassin versant basés sur un modèle numérique de terrain ayant une résolution de 25 m, ce qui constitue une limite à la précision de l’analyse.\n* Les données sources qui ont permis de produire cette couche d’information font l’objet de mises à jour périodiques. La version de cette couche doit donc être mentionnée lorsqu’elle est utilisée ou diffusée.\n\n#DESCRIPTION DE LA STRUCTURE DU FICHIER CSV\n\n* Longitude (DD): Coordonnées géographiques en degrés décimaux, NAD83\n* Latitude (DD): Coordonnées géographiques en degrés décimaux, NAD83\n* Condition b) du paragraphe 2 (article 269): Évaluation de la condition de soustraction b) prévue au paragraphe 2° du premier alinéa de l’article 269 de la Loi modifiant la LQE (voir la section « Explication des valeurs » ci-après). \n* Superficie du bassin (km²) : Superficie du bassin versant en kilomètres carrés.\n* Couvert forestier du bassin (%) : Pourcentage du bassin versant occupé par de la forêt.\n* Superficie du bassin en périmètre urbain (%) : Pourcentage du bassin versant situé à l’intérieur des périmètres d’urbanisation.\n* Superficie terrestre du bassin (km²) : Superficie terrestre (excluant le territoire occupé par les plans d’eau) du bassin versant en kilomètres carrés.\n* Fraction terrestre du bassin en milieu forestier : Pourcentage de la fraction terrestre du bassin versant occupée par de la forêt.\n* Fraction terrestre du bassin en périmètre urbain : Pourcentage de la fraction terrestre du bassin versant située à l’intérieur des périmètres d’urbanisation. \n\n#EXPLICATION DES VALEURS - CONDITION B) DU PARAGRAPHE 2° (ARTICLE 269)\n\n* Satisfaite:  Si le couvert forestier est > 70 % ET si les périmètres d’urbanisation sont < 8 %.\n* Non satisfaite: Si le couvert forestier est < 60 % ET si les périmètres d’urbanisation sont > 12 %.\n* Incertaine: Une vérification manuelle est requise car l’une des valeurs est trop près du seuil. C’est le cas lorsque le couvert forestier est entre 60 % et 70 % inclusivement OU que les périmètres d’urbanisation sont entre 8 % et 12 % inclusivement."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/d8054cdc-d09c-448b-82fa-092928f0b66e"
+  ],
+  "dct_issued_s": "2017-05-10",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/d8054cdc-d09c-448b-82fa-092928f0b66e\"}",
+  "dct_rights_sm": [
+    "Attribution, pas d’oeuvre dérivée (CC-BY-ND 4.0) https://www.donneesquebec.ca/licence/#cc-by-nd"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Évaluation de la condition b) du paragraphe 2° du premier alinéa de l'article 269 de la Loi modifiant la Loi sur la qualité de l'environnement",
+  "gbl_mdModified_dt": "2023-12-04T12:53:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e44200f5-cc3f-5df9-8ba6-56aee0a0a0d3",
+  "schema_provider_s": "Données Québec"
+}

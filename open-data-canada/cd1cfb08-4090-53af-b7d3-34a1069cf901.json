@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "agclimat",
+    "Agriculture",
+    "SPI",
+    "Terre agricole",
+    "Cultures",
+    "Précipitation",
+    "agclimate",
+    "Agriculture",
+    "Crops",
+    "SPI",
+    "Température",
+    "Precipitation",
+    "Temperature",
+    "Farmlands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice normalisé des précipitations (INP)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The Standardized Precipitation Index (SPI) has been recognized as the most accessible index for quantifying and reporting meteorological drought. On short timescales, the SPI is closely related to soil moisture, while at longer timescales, the SPI can be related to groundwater and reservoir storage. The model uses observed historical precipitation amounts to compute probability distributions which are then normalized using an incomplete gamma function over a range of timescales. The values can be interpreted as the number of standard deviations by which the observed anomaly deviates from the long-term mean. where positive values (greater than zero) result from above average conditions.",
+    "L’indice normalisé des précipitations (INP) a été reconnu comme étant l’indice le plus accessible pour quantifier et signaler les sécheresses météorologiques. Sur de courtes échelles de temps, l’INP est étroitement lié à l’humidité du sol, tandis que sur des échelles de temps plus longues, l’INP peut être lié au stockage des eaux souterraines et des réservoirs. Le modèle utilise les quantités de précipitations historiques observées pour calculer les distributions de probabilité qui sont ensuite normalisées à l’aide d’une fonction gamma incomplète sur une plage d’échelles de temps. Les valeurs peuvent être interprétées comme le nombre d’écarts-types par lequel l’anomalie observée s’écarte de la moyenne à long terme, lorsque les valeurs positives (supérieures à zéro) résultent de conditions supérieures à la moyenne."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4ae5b0d1-b811-4238-9aed-ce97363f51eb"
+  ],
+  "dct_issued_s": "2017-05-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4ae5b0d1-b811-4238-9aed-ce97363f51eb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Standardized Precipitation Index (SPI)",
+  "gbl_mdModified_dt": "2026-04-29T18:44:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cd1cfb08-4090-53af-b7d3-34a1069cf901",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

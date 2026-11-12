@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-175.61965438, 177.45892975, 86.51123095, 29.88902495)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The daily water temperature (°C) dataset is reconstructed using the air2stream model (Toffolon and Piccolroaz 2015) with i) air temperature from ~10 km resolution 1980-2018 Regional Deterministic Reforecast System, version 2.1 (Gasset et al. 2021) and ii) streamflow data from the Water Survey of Canada (WSC) hydrometric stations used as the primary inputs. The reconstructed dataset was calibrated/validated with observed water temperature records from various sources. A detailed description of the methodology, sources of observed water temperature, air temperature, and streamflow datasets used in the model setup are available in Shrestha and Pesklevits (2023a and 2023b).\n\r\n\rGasset, N., and Coauthors, 2021: A 10 km North American precipitation and land-surface reanalysis based on the GEM atmospheric model. Hydrology and Earth System Sciences, 25, 4917–4945, https://doi.org/10.5194/hess-25-4917-2021.\n\r\n\rShrestha, R. R., and J. C. Pesklevits, 2023a: Modelling spatial and temporal variability of water temperature across six rivers in Western Canada. River Research and Applications, 1–14, https://doi.org/10.1002/rra.4072.\n\rShrestha, R.R., J. Pesklevits. 2023b. Reconstructed river water temperature data for western Canada 1980-2018, Data 8, 48 doi.org/10.3390/data8030048.\n\r\n\rToffolon, M., and S. Piccolroaz, 2015: A hybrid model for river water temperature as a function of air temperature and discharge. Environ. Res. Lett., 10, 114011, https://doi.org/10.1088/1748-9326/10/11/114011."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2d188a08-99d7-4ecc-8d02-aa4c88a59138"
+  ],
+  "dct_issued_s": "2023-02-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2d188a08-99d7-4ecc-8d02-aa4c88a59138\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Reconstructed river water temperature dataset over Canada 1980-2018.",
+  "gbl_mdModified_dt": "2023-12-08T14:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "793bb894-529c-56e9-91c5-de7a19d97ed2",
+  "locn_geometry": "ENVELOPE(-175.61965438, 177.45892975, 86.51123095, 29.88902495)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

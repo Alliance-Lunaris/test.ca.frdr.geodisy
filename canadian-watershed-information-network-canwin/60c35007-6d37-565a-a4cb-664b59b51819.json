@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer depicts sub-basin average observed precipitation from the High Resolution Deterministic Precipitation Analysis (HRDPA). Offers insight into how much rain/snow actually fell across each watershed in the past observation period. Observation periods we are interested are for past 1 day, 3 days and 7 days.\n\nHRDPA is ECCC’s high-resolution precipitation analysis, merging gauge, radar, and HRDPS model data. This layer aggregates the final (or preliminary) HRDPA accumulations to sub-basin polygons. Each record indicates the average precipitation that truly occurred over each watershed, vital for verifying model forecasts, calibrating hydrological models, and conducting post-event analyses of flood or drought severity."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d9e70be9-d6d1-06f0-c2f3-dbe131622fa9"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d9e70be9-d6d1-06f0-c2f3-dbe131622fa9\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Observed Basin-Average Accumulated Precipitation (HRDPA - Past 1 day, 3 days & 7 days)",
+  "gbl_mdModified_dt": "2026-07-29T11:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "60c35007-6d37-565a-a4cb-664b59b51819",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

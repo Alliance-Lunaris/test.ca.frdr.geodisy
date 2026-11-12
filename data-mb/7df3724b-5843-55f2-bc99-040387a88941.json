@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "dcat_keyword_sm": [
+    "GDPS",
+    "Forecast",
+    "Province of Manitoba",
+    "Weather Models",
+    "SubBasins",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin-bottom:1.5rem;margin-top:0px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Developed by <strong>Environment and Climate Change Canada (ECCC)</strong>, the <strong>GDPS</strong> is a <strong>global numerical weather prediction</strong> model running at approximately <strong>15km resolution</strong>, updated twice daily (00Z and 12Z). This layer integrates <strong>168-hour (7‑day)</strong> and <strong>240-hour (10‑day)</strong> precipitation forecasts into <strong>sub-basin polygons</strong>, offering a comprehensive view of expected cumulative precipitation. By focusing on watershed boundaries, decision-makers can quickly gauge <strong>regional vulnerabilities</strong> to prolonged rainfall or snowfall events.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(76, 76, 76);font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin-bottom:1.5rem;margin-top:0px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Key highlights:</p><ul><li><strong>Global Model Insight</strong>: Captures large-scale, multi-day weather systems (e.g., atmospheric rivers, persistent low-pressure systems).</li><li><strong>Sub-Basin Aggregation</strong>: Delivers <strong>averaged precip values</strong> per basin, simplifying hydrological analysis for flood or drought outlooks.</li><li><strong>Extended Outlook</strong>: Spanning from day 0 to day 10, covers both medium- and longer-term forecast horizons, essential for strategic planning and mitigation efforts.</li><li><strong>Typical Uses</strong>:<ul><li><strong>Flood Forecasting</strong> – Identifying basins prone to heavy or prolonged precipitation.</li><li><strong>Water Resource Management</strong> – Adjusting reservoir release schedules or irrigation planning based on expected accumulations.</li><li><strong>Emergency Preparedness</strong> – Deploying resources or issuing advisories in vulnerable watersheds.</li></ul></li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "24b11a375afa475d9925d705fdb14e11",
+    "https://www.arcgis.com/home/item.html?id=24b11a375afa475d9925d705fdb14e11"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-gdps-168-hrs-240-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (GDPS - 168 hrs / 240 hrs)",
+  "gbl_mdModified_dt": "2026-09-14T05:02:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7df3724b-5843-55f2-bc99-040387a88941",
+  "locn_geometry": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "schema_provider_s": "Data MB"
+}

@@ -1,0 +1,37 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Stationnement",
+    "Donnee ouverte",
+    "Msp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des stationnements publics sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n  Localisation à l’adresse correspondante\n\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _numero_ (_String_) : Numéro\n* _nom_ (_String_) : Nom\n* _localisation_ (_String_) : Localisation\n* _nb_place_24_hrs_ (_Integer_) : Nombre de places 24h\n* _handicape_ (_String_) : Handicapé\n* _vignette_ (_String_) : Vignette\n* _reglement_ (_String_) : Réglement\n* _borne_electrique_ (_String_) : Borne électrique\n* _nb_place_2_hrs_ (_Integer_) : Nombre de places 2h\n* _recommande_velo_ (_String_) : Halte vélo\n* _type_stationnnement_ (_String_) : Type de stationnement\n* _nb_place_totale_ (_String_) : Nb de place totales\n* _reglementinterne_ (_String_) : Reglement interne\n* _deneige_ (_String_) : Déneigé\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/5aa6014420564b81b9d4cae1d1d9a945\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/6761de2c-4741-449c-a974-25acd4b5dd54"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/6761de2c-4741-449c-a974-25acd4b5dd54\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_title_s": "Stationnements publics (ponctuels) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "24855a69-8e8a-589a-95b6-72fffeea9844",
+  "schema_provider_s": "Données Québec"
+}

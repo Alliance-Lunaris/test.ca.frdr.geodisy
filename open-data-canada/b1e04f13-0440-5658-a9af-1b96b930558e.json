@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Driving and roads",
+    "Infrastructure and Transportation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Liste des références linéaires et composites – Autoroutes de l’Ontario"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "This data, also known as the Linear Highway Referencing System (LHRS), is used to locate events along the highway network. Three separate files make up the LHRS dataset: LHRS route is a spatial (GIS) representation of the highway network; LHRS Base Points divide the highway network into base sections with known driven distances; LHRS features points (composite listing) are additional described locations along the highway network. The location of events can be identified by a driven distance, along the LHRS route from a given LHRS Base point or feature point. *[GIS]: Geographic Information System *[LHRS]: Linear Highway Referencing System",
+    "Ces donnees, aussi appelees systeme de reference lineaire des autoroutes (LHRS), sont utilisees pour localiser des evenements sur le reseau autoroutier. L'ensemble de donnees LHRS comprend trois fichiers distincts : le module LHRS Route est une representation spatiale (SIG) du reseau autoroutier; le module LHRS Base Points scinde le reseau d'autoroutes en sections de base comportant des distances de parcours en automobile connues; le module LHRS Features Points (liste composite) comprend des emplacements decrits supplementaires le long du reseau autoroutier. La localisation des evenements peut etre determinee par une distance de parcours en automobile dans le module LHRS Route a partir d'un element du module LHRS Base Points ou d'un element du module LHRS Feature Points. *[SIG]: système d'information géographique *[LHRS]: Linear Highway Referencing System** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/16a8d195-087b-461e-b6b2-69506dd7feaa"
+  ],
+  "dct_issued_s": "2020-01-11",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/16a8d195-087b-461e-b6b2-69506dd7feaa\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Linear referencing and composite listing - Ontario highways",
+  "gbl_mdModified_dt": "2026-03-25T13:36:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b1e04f13-0440-5658-a9af-1b96b930558e",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Helianthus argophyllus",
+    "Sunflower",
+    "Quaternary Period",
+    "Breeding",
+    "genomics",
+    "Helianthus petiolaris",
+    "Helianthus annuus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Baute, Gregory J. (University of British Columbia).",
+    "Kane, Nolan C. (University of Colorado Boulder, University of British Columbia).",
+    "Grassa, Christopher J. (University of British Columbia).",
+    "Lai, Zhao (Indiana University Bloomington).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/tgAxs7ZMW3HrZ8xkMk2ueSIBs5grZEte6qXNG2-hqdo</p>\n<p><b>Storage size:</b> 186399877</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>•\tThe development of modern crops typically involves both selection and hybridization, but to date most studies have focused on the former.  In the present study we explore how both processes, and their interactions, have molded the genome of the cultivated sunflower, a globally important oilseed. \r\n•\tTo identify genes targeted by selection during the domestication and improvement of sunflower, and to detect post-domestication hybridization with wild species, we analyzed transcriptome sequences of 80 genotypes, including wild, landrace, and modern lines of Helianthus annuus, as well as two cross-compatible wild relatives, H. argophyllus and H. petiolaris. \r\n•\tOutlier analyses identified 122 and 15 candidate genes associated with domestication and improvement, respectively.  As in several previous studies, genes putatively involved in oil biosynthesis were the most extreme outliers.  Additionally, several promising associations were observed with previously mapped QTLs, such as branching. Admixture analyses revealed that all of the modern cultivar genomes we examined contained one or more introgressions from wild populations, with every chromosome having evidence of introgression in at least one modern line. \r\n•\tCumulatively, introgressions cover approximately 10% of the cultivated sunflower genome.  Surprisingly, introgressions do not avoid candidate domestication genes likely because of the re-introduction of branching.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.sort</h4><div class=\"o-metadata__file-description\">Alignment of manuscript reference transcriptome sequence to \r\nreference genome with genetic map positions.\r\n\r\nbwa mem -t 6 -a -M \\\r\n    HA412.v0.2.cabog.20111122.RHA280xRHA801.g\r\n    Map2.fasta \\\r\n    TranscriptomeRef_mar30.fa \\\r\n| samtools view -Sub - \\\r\n| samtools sort -@ 2 -m 2G -l 9 - \\\r\n    TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.\r\n    RHA280xRHA801.gMap2.sort</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.scaffolds.fasta</h4><div class=\"o-metadata__file-description\">HA412 v0.2 scaffolds matching manuscript reference transcriptome.\r\n\r\nsamtools view \\\r\n    TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.sort.bam \\\r\n| cut -f 3 \\\r\n| sort \\\r\n| uniq \\\r\n>TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.scaffolds.list\r\n\r\ngrepFasta \\\r\n    TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.scaffolds.list \\\r\n< HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.fasta \\\r\n>TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.scaffolds.fasta</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152214_150149",
+    "https://doi.org/10.5683/SP2/D98JYA"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/D98JYA\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genome scans reveal candidate domestication and improvement genes in cultivated sunflower, as well as post-domestication introgression with wild relatives.",
+  "gbl_mdModified_dt": "2021-05-20T00:48:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fbfee0bd-e88d-5e24-944c-b0b6a5bf343b",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

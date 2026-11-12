@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Driving and roads",
+    "Infrastructure and Transportation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Flux de véhicules commerciaux par réseau routier"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "Data collected between 2005 to 2007, 3% of sample collected in 2005, 51% in 2006 and 46% in 2007. This dataset contains a compilation of data collected from different sources. **VOG 06/** **VOG** **08 (Value of Goods)** : The data is derived from the information collected in the 2006 Ontario Commercial Vehicle Survey. This survey is a roadside intercept survey of truck drivers, which collects information about the trip, commodity and the vehicle. The survey primarily captures intercity trucking activity and under-represents truck flows in urban areas. The value of goods provided in this table is derived from the Commercial Vehicle Survey, but factored up to represent the overall trucking activity on the network segment for 2006 and 2008. **AADTT 2006 and ****AADTT** **2008:** The data is derived from the Ministry of Transportation's (MTO) inventory of annual traffic data for the Provincial Highways. The commercial volumes are first calculated using the AADT and the Commercial Percentage values for each traffic segment. These values are then adjusted to remove variations between segments caused by fluctuations in AADT. The volume given for each direction is one-half of the total value. MTO does not maintain volume by direction. For freeway segments with core/collector configuration, the total volume is divided into four equal portions and assigned to each stream. **Hourly Truck Volumes ( WD00-23 and WN00-23): ** These fields contain estimates of average hourly volumes for a typical weekday and weekend day. The estimates are based on observed hourly distribution at more than 100 directional Commercial Vehicle Survey sites across the province, **AADTT** and other information. **RD _NAME:** Name of the road **VOG** **06:** 2006 average daily value of goods assigned to road network link by directions. **VOG** **08:** 2008 average daily value of goods assigned to road network link by directions. **AADTT** **2006:** 2006 Annual Average Daily Truck Traffic; it is the truck volume assigned to road network link by directions. **AADTT** **2008:** 2008 Annual Average Daily Truck Traffic; it is the truck volume assigned to road network link by directions. **WD** **00-23:** 2008 Weekday ( **WD** ) hourly truck volume; 00 - 23 represents starting hour of the day (e.g. 12 represents 12 P.M. - 1 P.M.). **WN** **00-23:** 2008 Weekend ( **WN** ) hourly truck volume; 00 - 23 represents starting hour of the day (e.g. 12 represents 12 P.M. - 1 P.M.). *[ WD]: Week day *[VOG]: Value of Goods *[AADTT]: Annual Average Daily Truck Traffic *[WN]: Week end *[RD]: Road *[WD]: Week day *[MTO]: Ministry of Transportation *[AADT]: Annual Average Daily Traffic",
+    "Donnees recueillies de 2005 a 2007, 3 % de l'echantillon recueilli en 2005, 51 % en 2006 et 46 % en 2007. Cet ensemble de donnees contient une compilation de donnees recueillies aupres de differentes sources. **VOG 06/** **VOG** **08 (Valeur des marchandises)  :** Les donnees sont issues des renseignements recueillis lors de l'enquete de 2006 sur les vehicules commerciaux de l'Ontario. Cette enquete consiste a interroger au passage des conducteurs de camion et a recueillir des renseignements sur l'itineraire, les marchandises et le vehicule. Elle porte surtout sur le camionnage interurbain, et le debit de circulation des camions dans les zones urbaines y est sous-represente. La valeur des marchandises indiquee au tableau est issue de l'enquete sur les vehicules commerciaux, mais elle a ete ponderee de maniere a representer le camionnage global sur le tronçon du reseau pour 2006 et 2008. **AADTT** **2006 et** **AADTT** **2008  : ** Les donnees sont issues de l'inventaire du ministere des Transports (MTO) des donnees annuelles sur la circulation sur les routes provinciales. Les volumes commerciaux sont d'abord calcules en utilisant le DJMA (debit journalier moyen annuel) et les valeurs de pourcentage commercial pour chaque tronçon de circulation. Puis, ces valeurs sont rajustees afin d'enlever les variations entre les tronçons causees par les fluctuations du DJMA. Le volume obtenu pour chaque direction correspond a la moitie de la valeur totale. Le MTO ne maintient pas le volume par direction. Dans le cas des tronçons d'autoroute a voies principales et a voies collectrices, le volume total est divise en quatre parties egales et est reparti a chaque voie. **Volumes horaires de camions ( WD00-23 et WN00-23) : ** Ces champs contiennent des estimations des volumes horaires de camions pour un jour de semaine et de fin de semaine type. Les estimations sont basees sur la repartition horaire observee a plus de 100 sites directionnels de l'enquete sur les vehicules commerciaux partout dans la province, le DJMCA et d'autres renseignements. **RD_NAME  :** Nom de la route **VOG** **06  :** Valeur moyenne quotidienne des biens en 2006 attribuee aux liaisons du reseau routier selon les directions. **VOG** **08  :** Valeur moyenne quotidienne des biens en 2008 attribuee aux liaisons du reseau routier selon les directions. **AADTT 2006 :** Debit journalier moyen de camions d'une annee en 2006; volume de camions attribue aux liaisons du reseau routier selon les directions. **AADTT** **2008  :** Debit journalier moyen de camions d'une annee en 2008; volume de camions attribue aux liaisons du reseau routier selon les directions. **WD 00-23 :** Volume horaire de camions les jours de semaine (WD) en 2008; 00 a 23 represente l'heure de debut de la journee (p. ex., 12 = 12 a 13 h). **WN 00-23 :** Volume horaire de camions la fin de semaine en 2008 (WN); 00 a 23 represente l'heure de debut de la journee (p. ex., 12 = 12 a 13 h). *[ WD]: jours de semaine *[VOG]: Valeur des marchandises *[AADTT]: Débit journalier moyen de camions d'une année *[WN]: fin de semaine *[RD_NAME]: Nom de la route *[WD]: jours de semaine *[MTO]: ministère des Transports *[DJMA]: débit journalier moyen annuel *[DJMCA]: débit journalier moyen commercial annuel** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/44e4631f-152a-4042-a8fd-78965c1a59cf"
+  ],
+  "dct_issued_s": "2020-01-11",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/44e4631f-152a-4042-a8fd-78965c1a59cf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Commercial vehicle flows by road network",
+  "gbl_mdModified_dt": "2026-06-12T13:24:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9b23094f-91ca-566d-b4d4-19519eb752ab",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

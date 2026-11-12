@@ -1,0 +1,75 @@
+{
+  "dcat_bbox": "ENVELOPE(-97.10474362, -72.61007828, 61.09930506, 50.13126991)",
+  "dcat_keyword_sm": [
+    "basses terres de la baie d'Hudson",
+    "masques d'eau",
+    "imagery",
+    "Environnement",
+    "remote sensing",
+    "Ontario",
+    "Eau de surface",
+    "Carte géographique",
+    "Manitoba",
+    "Inland waters",
+    "Surface water",
+    "Climate change",
+    "data",
+    "Remote sensing",
+    "Habitats",
+    "Environment",
+    "Eaux intérieures",
+    "mapping",
+    "Ontario",
+    "cartographie",
+    "eau",
+    "baie James",
+    "imagerie",
+    "water",
+    "Changement climatique",
+    "Geographical maps",
+    "James Bay",
+    "télédétection",
+    "données",
+    "Landsat",
+    "Habitat",
+    "Landsat",
+    "Hudson Bay Lowlands",
+    "water masks",
+    "Manitoba",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartes annuelles sous-pixel des eaux de surface Landsat des basses terres de la baie d'Hudson de 1985 à 2021"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The Hudson Bay Lowlands (HBL) is the wettest ecozone in Canada with 80% of its area covered by wetlands. It forms the third largest wetland in the world and is composed almost entirely of permafrost and non-frozen subarctic peatlands that store more carbon in the first 2 m of soil than the total carbon stored in any other ecozone in Canada. The HBL is also home to large mammals including polar bears, caribou, moose, and provides important breeding habitat for migratory birds. Surface water dynamics in the HBL are both a consequence and a driver of climate change, impacting evapotranspiration, permafrost thaw and carbon budgets under wetting / drying conditions as well as wildlife habitat.\n\r\n\rPreviously, dynamic surface water products were generated from historical Landsat data to inform surface water trends in the HBL based on binary classifications of land versus water at 30 m spatial resolution (Olthof and Rainville, 2022). However, the HBL contains many water features smaller than 30 m, including streams and patterned fens that require a sub-pixel mapping approach to depict these small features as the percent water fraction within each pixel footprint.\n\r\n\rThe annual surface water products in this dataset were created by leveraging an existing binary dynamic surface water product (Olthof and Rainville, 2022) to implement adaptive physical linear spectral unmixing models. The result is a spatially and temporally comprehensive Landsat sub-30m surface water time-series over the HBL from 1985 to 2021 that can be used to help researchers and policymakers address issues around climate change and wildlife.\n\r\n\rFollowing the Government of Canada Open Data initiative, these original dynamic surface water maps are available to the public. More information on the creation of this dataset can be found in the associated research paper at https://www.sciencedirect.com/science/article/pii/S0034425723004467?ref=pdf_download&fr=RR-2&rr=84402791cff87154.",
+    "Les basses terres de la baie d'Hudson (HBL) constituent l'écozone la plus humide du Canada, 80 % de sa superficie étant couverte par des zones humides. Elles forment la troisième plus grande zone humide du monde et sont presque entièrement composées de pergélisol et de tourbières subarctiques non gelées qui stockent plus de carbone dans les deux premiers mètres du sol que la totalité du carbone stocké dans toute autre écozone du Canada. Les HBL abritent également de grands mammifères, notamment des ours polaires, des caribous et des élans, et constituent un habitat de reproduction important pour les oiseaux migrateurs. La dynamique des eaux de surface dans le HBL est à la fois une conséquence et un moteur du changement climatique, ayant un impact sur l'évapotranspiration, le dégel du pergélisol et les bilans de carbone dans des conditions d'humidification et d'assèchement, ainsi que sur l'habitat de la faune.\n\r\n\rAuparavant, des produits dynamiques sur les eaux de surface ont été générés à partir de données Landsat historiques afin d'informer sur les tendances des eaux de surface dans les HBL, sur la base de classifications binaires entre terre et eau à une résolution spatiale de 30 m (Olthof et Rainville, 2022). Cependant, la région HBL contient de nombreuses caractéristiques hydrologiques inférieures à 30 m, notamment des cours d'eau et des marais structurés, qui nécessitent une approche de cartographie sous-pixel pour représenter ces petites caractéristiques sous forme de pourcentage de fraction d'eau à l'intérieur de chaque empreinte de pixel.\n\r\n\rLes produits annuels sur les eaux de surface de ce jeu de données ont été créés en tirant parti d'un produit dynamique binaire existant sur les eaux de surface (Olthof et Rainville, 2022) pour mettre en œuvre des modèles physiques linéaires adaptatifs de démélange spectral. Le résultat est une série de données Landsat sub-30m sur l'eau de surface dans les HBL de 1985 à 2021 qui peut être utilisée pour aider les chercheurs et les décideurs politiques à aborder les questions relatives au changement climatique et à la faune.\n\r\n\rDans le cadre de l'initiative \"Open Data\" du gouvernement du Canada, ces cartes dynamiques originales des eaux de surface sont mises à la disposition du public. De plus amples informations sur la création de ce jeu de données sont disponibles dans le document de recherche associé à l'adresse suivante : https://www.sciencedirect.com/science/article/pii/S0034425723004467?ref=pdf_download&fr=RR-2&rr=84402791cff87154."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/297c1de9-5bd0-4ac3-a3e3-217a660c811f"
+  ],
+  "dct_issued_s": "2023-11-01",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/297c1de9-5bd0-4ac3-a3e3-217a660c811f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Annual sub-pixel Landsat surface water maps of the Hudson Bay Lowlands from 1985-2021",
+  "gbl_mdModified_dt": "2024-04-11T17:31:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe0ab41e-8c68-5110-a37b-5f818aca1bfc",
+  "locn_geometry": "ENVELOPE(-97.10474362, -72.61007828, 61.09930506, 50.13126991)",
+  "schema_provider_s": "Open Data Canada"
+}

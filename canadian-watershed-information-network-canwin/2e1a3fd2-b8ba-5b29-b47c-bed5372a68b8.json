@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.49729919, -113.57032776, 51.24372413, 50.76846005)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Temporal analysis of changes in Calgary, Alberta, based on GeoAI features automatically extracted from satellite images acquired in 2011 and 2021. Simple geospatial analysis intersecting Statistics Canada's Open Database of Buildings, version 3 (ODB v3) with GeoAI multidate building features enables the detection of buildings observed in 2021 that were not detected in 2011. The addition of new buildings is a good indicator of urban development and/or sprawl. Using the same approach, GeoAI multidate roads enable the detection of Statistics Canada's National Roads Network (NRN) segments present in 2021 and/or in 2011. The development of new roads is also indicator of urban development and/or sprawl. Complementarily, an analysis of changes in the forest coverage from the GeoAI datasets is done. This analysis reflects the gains and losses between both dates..\n\n‌\n\nGeoAI enables temporal coverage of various areas in Canada, thus providing a useful tool for change detection and trend analysis at high resolution. While the series is still fairly new, and such examples are limited for the time being, NRCan strives to gradually increase its GeoAI data offering for both spatial and temporal coverage.\n\nFor more information about the GeoAI - GeoBase Series, please visit the following link: https://open.canada.ca/data/en/dataset/74738ff5-5367-5958-9aee-98fffdcd1876"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/bd07b597-5166-4b62-ae9c-245b3c62ea03"
+  ],
+  "dct_issued_s": "2026-06-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/bd07b597-5166-4b62-ae9c-245b3c62ea03\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "GeoAI - Change detection use case - Calgary",
+  "gbl_mdModified_dt": "2026-07-06T19:29:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2e1a3fd2-b8ba-5b29-b47c-bed5372a68b8",
+  "locn_geometry": "ENVELOPE(-114.49729919, -113.57032776, 51.24372413, 50.76846005)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

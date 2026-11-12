@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.452252941, -123.262597883, 48.539340641, 48.401999117)",
+  "dcat_keyword_sm": [
+    "Orthophotography",
+    "Species classification",
+    "Urban forest",
+    "Random forest",
+    "Airborne laser scanning",
+    "Garry oak"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wu, Jiaju (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "In southern British Columbia, Garry oak ecosystems (GOEs) are present with their rare and highly fragmented status, which is important for biodiversity conservation. Individual Garry oak trees are difficult to monitor, especially in urban areas that have many other planted and natural tree species mixed together. This study examined how accurately Garry oak crowns could be detected in the urban forests of Victoria and Saanich using high-density (45 points/m²) airborne laser scanning data versus a fused approach that combined airborne laser scanning with high-resolution (10cm) four-band orthophotography. Individual tree crowns were first segmented from a canopy height model, and crown-level structural and spectral features were then extracted for classification. Two random forest models were compared: a LiDAR-only model with structural variables only and a fusion model that added spectral variables. \nThe fusion approach produced more solid classification results than the LiDAR-only model. Under the confusion matrix, overall accuracy increased from 77.5% to 86.2%. Producer’s accuracy for Garry oak increased from 61.2% to 74.3%, and user’s accuracy increased from 6.8% to 12.7%. The fusion model also reduced false positives and created a more realistic spatial distribution of Garry oak crowns that aligned better with the inventoried Garry oak locations. Variable-importance results showed that LiDAR metric dominated the LiDAR-only model, while spectral variability and near-infrared information became most influential in the fused model. This study showed that combining crown structure with crown reflectance improved Garry oak detection in urban environments."
+  ],
+  "dct_identifier_sm": [
+    "1144510_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/KISYI2"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KISYI2\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Remote Sensing for Species Detection of Garry Oak Trees in the Urban Forests of Greater Victoria, British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:38:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bf3e7c63-23d4-5f2b-91cf-db53181ba89a",
+  "locn_geometry": "ENVELOPE(-123.452252941, -123.262597883, 48.539340641, 48.401999117)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

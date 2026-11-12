@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Labour Force Distribution (LFD) maps are derived from the CanEcumene 2.0 Geodatabase using custom tabulations of census-based labour force data.  These LFD maps were calculated for each of the five major natural resource sectors in Canada: Forestry, Fisheries, Agriculture, Minerals, and Petroleum and Coal.  The measure used is the labour force of each sector as a proportion of the goods-producing sectors in the economy.  Labour force proportions were first calculated at the individual community level, and then interpolated on a regional level using GIS (see Eddy et. al. 2020 for more detail).  In effect, these maps show the strong importance of Canada’s natural resource sectors in various regions of the country.  The darker the tone in each map indicates a region’s higher degree of dependency on a given sector for their economic livelihood."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ac2096a6-7b4a-464e-9e08-eca7873dd88c"
+  ],
+  "dct_issued_s": "2021-10-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ac2096a6-7b4a-464e-9e08-eca7873dd88c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Labour Force Distribution (LFD) for Natural Resource Sectors in Canada",
+  "gbl_mdModified_dt": "2026-01-20T18:00:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d67cf9b9-f325-5c95-9646-dd5743f5f98b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

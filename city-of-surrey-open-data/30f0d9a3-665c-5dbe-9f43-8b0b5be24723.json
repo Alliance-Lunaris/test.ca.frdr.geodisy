@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-0.0001, 0.0, 0.0001, 0.0)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "loop",
+    "traffic",
+    "intersection",
+    "count",
+    "volume",
+    "density"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Surrey Open Data."
+  ],
+  "dct_description_sm": [
+    "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 10px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><strong>Traffic Loop Counts</strong> web service provides the counts for each traffic loop in 15 minute intervals. While the data is broken down by 15 minute intervals it is currently only updated once per day. We are currently working on increasing the frequency of updates in order to allow for real time traffic applications. The LOOP_ID and DATETIME combinations are unique in the output.</p><ul><li><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 10px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>LANE_DIRECTION indicates the heading of the traffic (NB, SB, EB, WB).</p></li><li><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 10px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>INTERSECTION_ID corresponds to the INTID field in the intersections dataset which can be found on the Surrey Open Data site.</p></li><li><p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 10px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'>ROAD_FACILITYID indicates which road segment the loop is located on. This corresponds to the FACILITYID in the Road Centrelines dataset on the City of Surrey Open Data site.</p></li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "f937d272925048f0aec85e835301d44e",
+    "https://www.arcgis.com/home/item.html?id=f937d272925048f0aec85e835301d44e"
+  ],
+  "dct_issued_s": "2026-01-27",
+  "dct_publisher_sm": [
+    "City of Surrey Open Data"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata-surrey.hub.arcgis.com/pages/surrey::traffic-loop-count-api-1\"}",
+  "dct_title_s": "Traffic Loop Count API",
+  "gbl_mdModified_dt": "2026-02-04T18:19:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "30f0d9a3-665c-5dbe-9f43-8b0b5be24723",
+  "locn_geometry": "ENVELOPE(-0.0001, 0.0, 0.0001, 0.0)",
+  "schema_provider_s": "City of Surrey Open Data"
+}

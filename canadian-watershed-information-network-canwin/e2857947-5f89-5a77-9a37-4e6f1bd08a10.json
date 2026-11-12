@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-115.8, -115.3, 50.1, 50.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "GeoGratis distributes a wide variety of geospatial data, data based on location, for geographic areas across Canada. The data is available free of charge, subject to copyright restrictions and disclaimer. The following metadata text describes the sample mosaics and other images currently available through the GeoGratis web site under the Earth Observation Imagery section. The AVHRR composite of Canada is in JPEG format and contains 3 channels with 5700 pixels by 4800 lines. Research has been conducted at CCRS by the Environmental Monitoring Section to study the use of the NOAA image for various projects such as: estimating Net Primary Productivity, measuring the albedo at the top of the atmosphere, and detecting forest fires. This mosaic of Vancouver Island is composed of 16 ERS-1 images. It is 4321 pixels by 3601 lines and contains 1 band of data. The images were acquired between February 28, 1993 and April 23, 1993. The geographic bounds are: Latitude 48° - 51° N and Longitude 123° - 129° W, with sampling intervals of 3 minutes (latitude) and 5 minutes (longitude). A digital elevation model of the same area is also available. This mosaic of the British Columbia mainland is composed of 53 ERS-1 images. It is 7201 pixels by 2401 lines and contains 1 band of data. The images were acquired between April 17, 1993 to August 15, 1993. The geographic bounds are: Latitude 49° - 51° N and Longitude 114° - 124° W, with sampling intervals of 3 minutes (latitude) and 5 minutes (longitude). The file canal_flats.rs.bsq is an AVIRIS hyperspectral radiance cube. It is a flat raster, band sequential file, with 200 columns, 200 rows, and 223 bands. The data itself is 16 bit, unsigned integer. Other LANDSAT images of areas within Canada are available for downloading. The image *.hdr files provide geographic referencing data to locate the image as well as the image size. The images contain four bands of data. The files are zipped and are in a flat raster format."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8c5377ad-cb60-5c2c-9938-9a87ebf8ad48"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8c5377ad-cb60-5c2c-9938-9a87ebf8ad48\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Earth Observation Imagery - AVIRIS hyperspectral radiance cube - Canal Flats, British Columbia",
+  "gbl_mdModified_dt": "2022-02-22T21:31:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e2857947-5f89-5a77-9a37-4e6f1bd08a10",
+  "locn_geometry": "ENVELOPE(-115.8, -115.3, 50.1, 50.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

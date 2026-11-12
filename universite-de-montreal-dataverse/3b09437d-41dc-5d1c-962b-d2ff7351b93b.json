@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "dissolved organic carbon",
+    "PARAFAC",
+    "long-term trends",
+    "Gaz carbonique",
+    "Eau--Couleur",
+    "Carbone organique dissous",
+    "Carbon dioxide",
+    "Water--Color"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rodriguez-Cardona, Bianca (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-4792-7351",
+    "Houle, Daniel (Environment and climate change Canada).",
+    "Couture, Suzanne (Environment and climate change Canada).",
+    "Lapierre, Jean-François (Groupe de recherche interuniversitaire en limnologie, Université de Montréal). ORCID: https://orcid.org/0000-0001-5862-7955",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: All concentrations in mg/L, pCO2 in ppmV, color (hazen units), conductivity (us/cm), temperature (C), precipitation (mm), elevation (m), CDOM (per meter), DOC Sen slope (mg/l per yr), CDOM Sen slope (per meter per year), pCO2 Sen Slope (ppmV per year), tau values are unitless, MI is unitless, lake area (ha), lake perimeter (m), lake depth (m), water retention time (years), basin slope (degrees). \n\nRelated publicaiton will be added in when manuscript accepted.",
+    "Annual averages of lake chemistry concentrations (DOC, DIC, TN, TP, major dissolved ions, alkalinity, pH, color, conductivity, pCO2), lake characteristics (depth, water retention time, elevation, perimeter, area), climate variables (precipitation, temperature, surface runoff) bases on data from May to September, as these were consistently available across all lakes and years and generally the ice-free period. Data covers 92 lakes across Québec (QC),Newfoundland (NF), and Nova Scotia (NS) in Canada. Lakes in QC and NS were sampled by helicopter and collected at the center of the lake while lakes in NF were sampled from the edge. All samples were kept cool and sent to Environment and Climate Change Canada (ECCC) laboratories within 24-36h. pCO2 data is reconstructed based on pH and DIC.\n\nAnnual averages were used to calculate long-term trends in DOC, color, and pCO2  using the seasonal Mann-Kendall trend test to obtain Sen slopes and tau values. The look up table shows the time frame used for each lake to calculate long-term trends. Lake clustering was based on DOC, CDOM, and pCO2 tau values by k-means partitioning method.\n\nRegional long-term surface runoff for lakes in QC, N, and NF were obtained from the ERA5 model53 from the European Center for Medium-Range Weather Forecasts. Trends in surface runoff were obtained as described above.\n\nFluorescent DOM (FDOM) was measured for a subset of 78 lakes with a Cary Eclipse Fluorescence spectrofluorometer (Agilent Technologies) in 1cm quartz cuvettes across excitation and emission wavelengths of 230 to 450 (5nm increments) and 240 to 600 (2nm increments). FDOM emission and excitation matrices (EEMs) were corrected (inner filter effect, conversion to Raman Unit, removal of scattering) and were then analyzed using the parallel factor analysis (PARAFAC) and we obtained a 4-component model."
+  ],
+  "dct_identifier_sm": [
+    "625125_281357_281358",
+    "https://doi.org/10.5683/SP3/GAZNGK"
+  ],
+  "dct_issued_s": "2023-08-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GAZNGK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada",
+    "Newfoundland, Canada",
+    "Nova Scotia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Lake chemistry data from Quebec, Nova Scotia and Newfoundland [1983-2019]",
+  "gbl_mdModified_dt": "2023-12-08T15:01:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3b09437d-41dc-5d1c-962b-d2ff7351b93b",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

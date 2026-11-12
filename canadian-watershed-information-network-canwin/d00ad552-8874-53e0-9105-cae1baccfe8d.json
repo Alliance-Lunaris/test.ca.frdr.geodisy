@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    ">Warning: as of June 2020, this dataset is no longer updated and has been replaced. Please see https://www.donneesquebec.ca/recherche/fr/dataset/evenements-de-securite-civile for data on civil security events since June 2020. \n\nThis database brings together in a structured way information related to past claims that have been systematically grouped and centralized by the Ministry of Public Security (MSP). The consequences and evolution of the events are documented and they have been categorized according to their level of impact on the safety of citizens, goods and services to the population based on criteria defined in the Canadian profile of the Common Alert Protocol. It is updated continuously by the MSP Operations Department (DO). This database will allow analyses to be carried out at regional and local levels and can be used by municipalities in the implementation of their emergency measures plans.\n\nThe event history archives come from event reports and status reports that were produced by the Government Operations Center (COG) and by the regional directorates of the MSP. Among other things, we find: \n\n1- Observations entered directly into the Geoportal by the civil security advisers of the regional directorates; \n\n2- A compilation of information recorded in COG event reports and DO status reports distributed to MSP partners since 1996; \n\n3- A compilation of the information contained in the files of the regional directorates. This can be information on paper, event reports or field visits, paper or digital maps, etc. \n\nThe information in this database is consistent with the Canadian Common Alert Protocol Profile (PC-PAC). The PC-PAC is a set of rules and controlled values that support the translation and composition of a message to make it possible to send it by different means and from different sources. \n\nThe severity level is an attribute defined in the PC-PAC. It is used to characterize the severity level of the event based on the harm to the lives of people or damage to property. This severity level is defined by the following characteristics: \n\nExtreme: an extraordinary threat to life or property; \n\nSignificant: significant threat to life or property; \n\nModerate: possible threat to life or property; \n\nMinor: a low or non-existent threat to life or property; \n\nUnknown: unknown severity, used for example during tests and exercises. \n\nThe emergency level is determined based on the reactive measures that need to be taken in response to the current situation. It is defined by the following characteristics:\n\nImmediate: reactive action must be taken immediately;\n\nExpected: reactive action should be taken soon (within the next hour);\n\nFuture: reactive action should be taken in the near future;\n\nPast: a reactive measure is no longer necessary;\n\nUnknown: Unknown emergency, to be used during tests and exercises.\n\nThe state relates to the context of the event, real or simulated. It is defined by the following characteristics:\n\nCurrent: information on a real event or situation;\n\nExercise: fictional or real information produced as part of a civil security exercise;\n\nTest: technical tests only; to be ignored by all. \n\nConfidence is defined by the following characteristics:\n\nObserved: would have happened or is currently taking place;\n\nProbable: probability of the event happening > 50%;\n\nPossible: probability of the event happening < 50%;\n\nUnlikely: probability of the event happening around 0%;\n\nUnknown: certainty unknown.\n\nWhen an event date was not known, the year 1900-01-01 was recorded.\n\nDESCRIPTION OF ATTRIBUTES:\n\nObservation date: date of the event or observation; \n\nType: name of the hazard;\n\nName: name of the municipality;\n\nMunicipality code: municipal code;\n\nState and certainty: as these are real events, the state is generally “current” and the certainty is generally “observed”;\n\nUrgency: the term “past” has generally been used for events that occurred before compilation work was carried out;\n\nImprecision: imprecision in data (the date of the event, its location, the source of the data or no inaccuracy noted).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/112cc734-a6e7-4dbf-81bf-f26876741744"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/112cc734-a6e7-4dbf-81bf-f26876741744\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "History of civil security events - Archives",
+  "gbl_mdModified_dt": "2026-10-07T17:33:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d00ad552-8874-53e0-9105-cae1baccfe8d",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

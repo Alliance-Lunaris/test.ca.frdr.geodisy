@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Equality",
+    "Data Visualization",
+    "Intermittent Water Supply Systems",
+    "Service Quality",
+    "Performance Indicators",
+    "Benchmarking"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Meyer, David (University of Toronto). ORCID: https://orcid.org/0000-0003-0979-118X"
+  ],
+  "dct_description_sm": [
+    "Intermittent Schedule Vizualization\nDavid Meyer\n2022-10-24\n\nThe repository contains the data, code, and figures associated with the\npaper Meyer et al. 2023. Over a billion people get water from water supply networks\nthat regularly interrupt their service. Unfortunately, the intermittent\noperations induce inequalities within the network. In our work, we\ncreated the tools needed to use Water Supply Schedules to quantify and\ncompare the inequality of water supply schedules between and within\ncities. We apply these tools to the largest and most complicated\nintermittent water systems ever described in peer-reviewed papers: Delhi\nand Bangalore; they supply water to 25 million people according to 3278\nschedules.\n\nUniquely, we propose to use publicly posted water supply schedules to\nestimate service quality and service equality within intermittent\nsystems at a novel scale: the supply schedule scale. While we\ndemonstrate and visualize the use of supply schedules in Delhi and\nBangalore, the implications of our work are much broader: we showcase a\nnew scale at which intermittent systems could and should be researched\nand regulated and we provide the methods required to do so.\n\nResearch into intermittent water supplies is often limited by data\navailability. Against this trend, we openly share our digitized versions\nof each city’s water supply schedules and the code required to process\nthem in this repository. In doing so, we hope to enable other\nresearchers to explore and model the operations of intermittent systems\nin ways that reflect the complexity and inequalities of intermittent\nsupply.\n\nIn this repository, you’ll find the:\n\n1.  original schedule data from both cities\n2.  manually transcribed schedule data\n3.  processed schedules in long and wide formats\n4.  code to process the transcribed schedules\n5.  visual summaries of the schedules\n6.  code to generate these visual summaries\n\nWe extended our analysis by intersecting schedule census data using GIS.\nWe include:\n\n7.  Census data\n8.  Our intersected data\n9.  Code to generate visual summaries of the equity data\n\nRelevant files are contained in Data, Code, and Figure subfolders."
+  ],
+  "dct_identifier_sm": [
+    "411473_74814_74824",
+    "https://doi.org/10.5683/SP3/QA0YQM"
+  ],
+  "dct_issued_s": "2023-05-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QA0YQM\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Replication Data for: Learning from Intermittent Water Supply Schedules: Visualizing Equality, Equity and Hydraulic Capacity in Bengaluru and Delhi, India",
+  "gbl_mdModified_dt": "2023-05-26T21:21:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "195ace7c-5032-53b1-a83c-91921bd7441f",
+  "pcdm_memberOf_sm": [
+    "David Meyer's Research Data // Understanding Intermittent Water Supplies"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

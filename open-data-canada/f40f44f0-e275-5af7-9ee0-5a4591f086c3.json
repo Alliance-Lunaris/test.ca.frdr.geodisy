@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "dcat_keyword_sm": [
+    "Office of the Fire Commissioner",
+    "Government information",
+    "Government",
+    "OFC",
+    "Province of Manitoba",
+    "restriction",
+    "burn",
+    "municipal",
+    "fire",
+    "mutual aid district",
+    "canada",
+    "Manitoba Government",
+    "Manitoba",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Niveau municipal actuel de restrictions en matière de brûlage au Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "Feature layer showing current municipal burning restrictions in Manitoba.  \n  \n  This feature layer shows the current municipal burning restrictions in Manitoba. Fields included ( Alias (Field Name): Field description.) OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generated. Municipality (Municipality): Legal name of the municipality Mutual Aid District (Mutual_Aid_District): Name of the mutual aid district.  The Mutual Aid System is a no-charge, reciprocal system of emergency response and assistance that towns, villages and municipalities in southern Manitoba can access through their local fire departments.  For more information about mutual aid districts, please refer to the Office of the Fire Commissioner website. Telephone (Telephone): Phone number for the municipal office. Email (Email): Email address for the municipal office. Restrictions Flag (Restrictions_Flag): Number indicating the presence or absence of municipal burning restrictions where 1 = \"Burning Restrictions\" and 0 = \"No Restrictions\". Current Restrictions (Current _Restrictions): Description of the burning restriction notice. The Office of the Fire Commissioner (OFC) asks all municipalities to inform the OFC immediately at firecomm@gov.mb.ca when implementing or changing the status of municipal burning restrictions during times of high fire danger conditions. Contact the OFC if you have questions about the municipal burning restrictions: by email at firecomm@gov.mb.ca by phone at 204-945-3322 (toll free 1-800-282-8069)Contact the appropriate municipal office if you have questions about restrictions in specific municipalities.",
+    "Couche d'entités illustrant les restrictions municipales actuelles en matière de brûlage au Manitoba.  \n  \n  Cette couche d'entités montre les restrictions municipales actuelles en matière de brûlage au Manitoba. Champs inclus (Alias (nom du champ) : description du champ.) OBJECTID (OBJECTID) : nombres entiers uniques séquentiels générés automatiquement. Municipalité (Municipalité) : Nom légal de la municipalité District d'entraide (Mutual_Aid_District) : Nom du district d'entraide. Le système d'aide mutuelle est un système réciproque et gratuit d'intervention et d'assistance en cas d'urgence auquel les villes, les villages et les municipalités du sud du Manitoba peuvent accéder par l'intermédiaire de leurs services d'incendie locaux. Pour plus d'informations sur les districts d'aide mutuelle, veuillez consulter le site Web du Bureau du commissaire aux incendies. Téléphone (téléphone) : numéro de téléphone du bureau municipal. Email (Email) : Adresse e-mail du bureau municipal. Drapeau de restrictions (Restrictions_Flag) : numéro indiquant la présence ou l'absence de restrictions municipales en matière de brûlage, où 1 = « Restrictions de brûlage » et 0 = « Aucune restriction ». Restrictions actuelles (_Restrictions actuelles) : description de l'avis de restriction de gravure. Le Bureau du commissaire aux incendies (OFC) demande à toutes les municipalités d'informer immédiatement l'OFC à l'adresse firecomm@gov.mb.ca lorsqu'elles mettent en œuvre ou modifient le statut des restrictions municipales en matière de brûlage en période de risque d'incendie élevé. Contactez l'OFC si vous avez des questions concernant les restrictions municipales en matière de brûlage : par courriel à firecomm@gov.mb.ca ou par téléphone au 204-945-3322 (sans frais 1-800-282-8069) Contactez le bureau municipal approprié si vous avez des questions concernant les restrictions dans des municipalités spécifiques.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1c18c748-8704-1180-c91e-434a5627f09c"
+  ],
+  "dct_issued_s": "2019-11-28",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1c18c748-8704-1180-c91e-434a5627f09c\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Manitoba Current Municipal Burning Restrictions Layer",
+  "gbl_mdModified_dt": "2025-05-07T12:10:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f40f44f0-e275-5af7-9ee0-5a4591f086c3",
+  "locn_geometry": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "schema_provider_s": "Open Data Canada"
+}

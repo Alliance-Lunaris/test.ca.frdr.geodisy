@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.62451465641126, -78.95565101059303, 43.92728609229689, 43.54222481057442)",
+  "dcat_keyword_sm": [
+    "Zone 2",
+    "Zone 3",
+    "intake",
+    "IPZ-3",
+    "intake protection zones",
+    "TRSPA",
+    "Zone 1",
+    "IPZ-1",
+    "Source Water Protection",
+    "surface water",
+    "IPZ-2",
+    "IPZs"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SWP Intake Protection Zone</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SWP_INTAKE_PROTECTION_ZONE_FT</span></span></p><p style='margin:0 0 4 0;'><span>The area around an intake pipe in a lake or river that draws in the surface water used to supply the municipal drinking water system. Three zones, from the closest to the farthest from the intake, rate the vulnerability threat. IPZ-1: FIRST ZONE around intake, very vulnerable to contamination. Direct and immediate impacts are possible as there is no time to take mitigating action.IPZ-2: SECOND ZONE around the intake where direct impacts are possible because contaminants may reach intake within 2 hours. IPZ-3: THIRD ZONE and the largest zone around the intake where activities can impact the source water, but there is time to take action to ensure the intake and municipal water is not impacted.</span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OGF ID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric provincial identifier assigned to each object.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>IPZ Identifier</span></span></p><p><span><span>IPZ_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>Unique number associated with each intake protection zone.</span></span></p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p style='text-align:Center;'><span>4</span></p></td><td><p><span><span>IPZ Type</span></span></p><p><span><span>IPZ_TYPE</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(1)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The type of IPZ (1, 2, 3)</span></span></p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr></tbody></table><p><span /></p></div></div></div></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "1df5c1f658824fd584ccb6193553ffa0",
+    "https://www.arcgis.com/home/item.html?id=1df5c1f658824fd584ccb6193553ffa0"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-intake-protection-zones\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Intake Protection Zones",
+  "gbl_mdModified_dt": "2025-03-21T20:53:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "94e5bdab-49ea-5d5d-a568-222abcca73ac",
+  "locn_geometry": "ENVELOPE(-79.62451465641126, -78.95565101059303, 43.92728609229689, 43.54222481057442)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

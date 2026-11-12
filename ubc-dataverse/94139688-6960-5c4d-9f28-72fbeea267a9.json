@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "Niche Modelling",
+    "Picea glauca",
+    "Picea engelmannii",
+    "genome-wide",
+    "Holocene",
+    "Ecological Genetics",
+    "single nucleotide polymorphisms"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "De La Torre, Amanda R. (University of British Columbia).",
+    "Roberts, David R. (University of Alberta).",
+    "Aitken, Sally N. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/Y87XGHcQCCOdrPWfZukJaBWh3vidK4LmJ8EYS8jW0M0</p>\n<p><b>Storage size:</b> 1261038</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>1.The maintenance of species boundaries despite interspecific gene flow has been a continuous source of interest in evolutionary biology. Many hybridizing species have porous genomes with regions impermeable to introgression, conferring reproductive barriers between species. 2.We used ecological niche modeling to study the glacial and postglacial recolonization patterns between the widely hybridizing spruce species Picea glauca and P. engelmannii in western North America. 3.Genome-wide estimates of admixture based on a panel of 311 candidate gene single nucleotide polymorphisms (SNP) from 290 genes were used to assess levels of admixture and introgression, and to identify loci putatively involved in adaptive differences or reproductive barriers between species. 4.Our paleoclimatic modeling suggests these two closely related species have a long history of hybridization and introgression, dating to at least 21,000 years ago, yet species integrity is maintained by a combination of strong environmental selection and reduced current interspecific gene flow. 5.20 loci showed evidence of divergent selection, including six loci that were both Fst outliers and associated with climatic gradients, and fourteen loci that were either outliers or showed associations with climate. These included genes responsible for carbohydrate metabolism, signal transduction, and transcription factors.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Genome-wide admixture in the Picea glauca x P. engelmannii hybrid zone_311SNPs</h4><div class=\"o-metadata__file-description\">This file contains Illumina genomic data for 311 candidate gene single nucleotide polymorphisms (SNPs) tested in 700 individuals of P.glauca, P.engelmannii and their hybrids in British Columbia (Canada). The file has a format similar to the \"Structure\" (Pritchard et al.2000) program, in which the first column is the genotype ID, second column is the population ID and all other columns are the SNP IDs. Please note that each SNP is described by two columns, each containing one allele. Missing values are denoted by \"-9\", according to the Structure format requirements.</div><div class=\"o-metadata__file-name\">SNPs_311.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Genome-wide admixture in the Picea glauca x P. engelmannii hybrid zone_Small data set</h4><div class=\"o-metadata__file-name\">SNPs_86.txt</br></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Climate_data</h4><div class=\"o-metadata__file-description\">This file contains the location (latitude, longitude and elevation) of the 771 sampled individuals (white spruce, Engelmann spruce and their hybrids). It also contains the climatic variables used in the environmental association analysis. 21 different climatic variables are included for each of the sampled individuals.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152224_150149",
+    "https://doi.org/10.5683/SP2/N0EJUF"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/N0EJUF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Rocky Mountains",
+    "Wyoming",
+    "Colorado",
+    "British Columbia",
+    "Idaho"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genome-wide admixture and ecological niche modeling reveal the maintenance of species boundaries despite long history of interspecific gene flow",
+  "gbl_mdModified_dt": "2021-05-20T02:33:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "94139688-6960-5c4d-9f28-72fbeea267a9",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

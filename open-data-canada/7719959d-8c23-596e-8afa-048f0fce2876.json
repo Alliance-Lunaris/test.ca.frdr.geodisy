@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.3782, -88.1702, 60.066, 48.7013)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Government information",
+    "Forest Sections",
+    "Environment",
+    "Forestry",
+    "Province of Manitoba",
+    "Forest Management Units",
+    "Manitoba Government",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Unités de gestion forestière du Manitoba — Version 4"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This feature class represents Manitoba's Forest Management Unit (FMU) boundaries.  \n  \n  Forest Management Units (FMU's) define a forested area with common forest conditions that are managed in a similar manner. Forest Sections are comprised of FMU's. Forest inventories within Forest Management Units are analysed to determine allowable harvest limits of softwood and hardwood tree species within each Forest Management Unit. Version 3: The southern portion of FMU 67 within the Highrock Forest Section has been adjusted to align with base features captured in 2009. Additionally, an 11 hectare portion of the Saskatchewan River Forest Section (FMU 59) has been added to the Highrock Forest Section. Version 4: The northern portion of FMU 68 along the Rail Haul within the Highrock Forest Section has been adjust so that the boundary falls within water only. Additionally, version 4 splits the 'White Zone' forest section (FMU 76) by ecozones, creating FMU 76 (Taiga Shield), FMU 77 (Southern Arctic), FMU 78 (Hudson Plain) and FMU 79 (Boreal Shield). Version 4 is dated February 8, 2013. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated . MANAGEMENT_UNIT_NUMBER : Management Unit (MU) number . S ECTION : Forest section number . SECTION_NAME : Forest section name .",
+    "Cette classe d'entités représente les limites des unités de gestion forestière (FMU) du Manitoba.  \n  \n  Les unités de gestion forestière (UMF) définissent une zone boisée présentant des conditions forestières communes qui sont gérées de manière similaire. Les sections forestières sont composées de FMU. Les inventaires forestiers au sein des unités de gestion forestière sont analysés afin de déterminer les limites de récolte autorisées pour les espèces d'arbres résineux et feuillus au sein de chaque unité de gestion forestière. Version 3 : La partie sud de la FMU 67 dans la section forestière de Highrock a été ajustée pour s'aligner sur les caractéristiques de base capturées en 2009. De plus, une partie de 11 hectares de la section forestière de la rivière Saskatchewan (FMU 59) a été ajoutée à la section forestière de Highrock. Version 4 : La partie nord de la FMU 68 le long du chemin de fer dans la section forestière de Highrock a été ajustée de sorte que la limite se trouve uniquement dans l'eau. De plus, la version 4 divise la section forestière de la « zone blanche » (FMU 76) en écozones, créant ainsi la FMU 76 (Bouclier de la taïga), la FMU 77 (Arctique austral), la FMU 78 (Plaine d'Hudson) et la FMU 79 (Bouclier boréal). La version 4 est datée du 8 février 2013. Champs inclus : OBJECTID : nombres entiers uniques séquentiels générés automatiquement. MANAGEMENT_UNIT_NUMBER : numéro de l'unité de gestion (MU). SECTION S : Numéro de section forestière. SECTION_NAME : nom de la section forestière.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d8a68a6d-e529-322d-b7fa-98603f3647a7"
+  ],
+  "dct_issued_s": "2018-09-21",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d8a68a6d-e529-322d-b7fa-98603f3647a7\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Manitoba Forest Management Units – Version 4",
+  "gbl_mdModified_dt": "2025-02-05T19:04:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7719959d-8c23-596e-8afa-048f0fce2876",
+  "locn_geometry": "ENVELOPE(-102.3782, -88.1702, 60.066, 48.7013)",
+  "schema_provider_s": "Open Data Canada"
+}

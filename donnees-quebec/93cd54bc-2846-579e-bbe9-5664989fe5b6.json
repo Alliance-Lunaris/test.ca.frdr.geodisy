@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Parc",
+    "Ville de shawinigan",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polygonale des parcs et espaces verts entretenus par la municipalité.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Vectorisation des limites cadastrales\n\nNom de parc donné par le service des Communications\n\n**Attributs**\n\n* _nom_ (_String_) : Nom\n* _adresse_ (_String_) : Adresse civique\n* _secteur_ (_String_) : Secteur\n* _pdf_ (_String_) : \n* _no_parc_ (_String_) : Identifiant unique\n* _superficie_ (_Integer_) : Superficie\n* _type_parc_ (_String_) : Type de parc\n* _st_area(shape)_ (_Double_) : Surface\n* _st_length(shape)_ (_Double_) : Périmètre\n* _objectid_ (_OID_) : \n* _ancien_nom_ (_String_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/5f4c528366de4b2287ee9e00de81411a\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/08123b30-f795-432b-8b4a-13a3925f72f4"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/08123b30-f795-432b-8b4a-13a3925f72f4\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs"
+  ],
+  "dct_title_s": "Parcs et espaces verts - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:43:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "93cd54bc-2846-579e-bbe9-5664989fe5b6",
+  "schema_provider_s": "Données Québec"
+}

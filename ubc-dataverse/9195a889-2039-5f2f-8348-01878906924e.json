@@ -1,0 +1,63 @@
+{
+  "dcat_bbox": "ENVELOPE(-131.262, -124.941, 55.9466, 50.199)",
+  "dcat_keyword_sm": [
+    "forest operations",
+    "Great Bear Rainforest",
+    "forestry",
+    "modelling",
+    "stewardship",
+    "Open",
+    "landscape level planning",
+    "Woodstock",
+    "forest estate modelling",
+    "forest management",
+    "modeling",
+    "timber supply",
+    "Natural Resources Management",
+    "Ecology",
+    "FPS-Atlas",
+    "sustainable forest management",
+    "landscape level management",
+    "ecosystem services"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Griess, Verena Christiane (University of British Columbia, University of British Columbia, Faculty of Forestry, Vancouver, BC, Canada).",
+    "Man, Cosmin (University of British Columbia, Forsite Consultants Ltd, Salmon Arm, BC, Canada).",
+    "Leclerc, Marie-Eve (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "http://hdl.handle.net/11272/10390\r\n\r\nNote Type: Info; Subject: Misc; Text: Projection: NAD83 / BC Albers (EPSG:3005)",
+    "This dataset was developed to analyze various forest management alternatives for the area under the 2016 Great Bear Rainforest order (GBR order). It was developed for the use with common forest management planning software, such as WOODSTOCK (Remsoft) or Forest Planning Studio Atlas (FPS-Atlas).\r\n\r\nThe area under the GBR order objectives includes 5 timber supply areas (TSA): Kingcome, Mid Coast, North Coast, Strathcona, and small sections of the Pacific.\r\nGeographical data were collected from the BC government's open data program in Canada (DataBC), and the BC government’s website on Strategic Land and Resource Planning for the GBR. The geographical databases accessed from public sources included:\r\n(1) administrative boundaries (e.g., GBR boundary, tree farm licenses, Indian reserves, etc.),\r\n(2) forest inventory (e.g., BC vegetation resource inventory, depletions to year 2015, environmentally sensitive areas, roads), and\r\n(3) management guidance (e.g., reserves, wildlife habitat areas, ungulate winter range, recreation inventory, sensitive watersheds, streams, rivers, lakes, wetlands). Some of the geographical datasets were not publicly available (e.g., logging operability) and are therefore not part of this dataset.\r\n\r\nThe productive forest land base (PFLB) was established after excluding the Provincial and National Parks, reserves, various timber licences (tree farm licences, woodlots, other leases), and non-forested land. Coniferous tree-leading stands dominate the PFLB, with the most common species being western and mountain hemlock (Tsuga heterophylla and Tsuga mertensiana) (46.8%), western redcedar (Thuja plicata) (32.6%) and yellow cedar (Chamaecyparis nootkatensis) (8.9%).\r\n\r\nThe yield curves associated with each stand type, and spatially with each polygon, were imported from the latest Timber Supply Review (TSR) documents for the Kingcome and Mid Coast TSAs. For the North Coast and Strathcona TSAs, the stand type information in the latest TSR documents was used to develop yield curves using the Variable Density Yield Projection (VDYP) (Forest Analysis and Inventory Branch, 2009) and Table Interpolation Program for Stand Yields (TIPSY) (BC MFLNRO, 2016d) software tools. The Pacific TSA does not have a published TSR document, yet the small sections of the Pacific TSA that fall under the GBR (0.7%) are spatially adjacent to the Kingcome TSA. It was assumed that Pacific TSA had similar yields and stand types to the Kingcome TSA\r\n\r\nThe dataset represents the status quo at data preparation in the area."
+  ],
+  "dct_identifier_sm": [
+    "74265_73894",
+    "https://doi.org/10.5683/SP2/GY2QJH"
+  ],
+  "dct_issued_s": "2019-02-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/GY2QJH\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Great Bear Rainforest - landscape level planning data",
+  "gbl_mdModified_dt": "2019-02-21T01:22:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9195a889-2039-5f2f-8348-01878906924e",
+  "locn_geometry": "ENVELOPE(-131.262, -124.941, 55.9466, 50.199)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

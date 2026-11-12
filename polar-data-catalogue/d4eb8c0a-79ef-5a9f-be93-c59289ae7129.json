@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -52.0, 84.0, 41.5)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Cryospheric Information Network."
+  ],
+  "dct_description_sm": [
+    "Most of this Basemap Series comes from the electronic soundings by the CCGS Amundsen (and other platforms) as it traveled off the beaten path to further ArcticNet investigations. The maps show a colour-coded line crossing a rectangle of seabed that covers 15 minutes of latitude and 30 minutes of longitude. A scale allows conversion to kilometres or nautical miles. The crucial bit of information is the colour code for depth, which runs from 200 metres to less than 50.   The data collected by the CCGS Amundsen (and other platforms) is presented in the form of basemaps. Data are gridded at a resolution of 10 metres. For perusal via the web portal, images are created in which depths are colour coded (based on the range of depths in the mapsheets) and the terrain is sun-illuminated. Grid files are available for download in ESRI grid format (.flt and .hdr files for each mapsheet, downloaded as a zipped .tgz archive file)."
+  ],
+  "dct_identifier_sm": [
+    "1038",
+    "https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=1038"
+  ],
+  "dct_issued_s": "2008-05-08",
+  "dct_license_sm": [
+    "https://www.polardata.ca/pdcinput/public/termsofuse"
+  ],
+  "dct_publisher_sm": [
+    "Polar Data Catalogue"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=1038\"}",
+  "dct_subject_sm": [
+    "Natural sciences -> Geospatial data",
+    "Natural sciences -> Map layers",
+    "Natural sciences -> Oceanography",
+    "Natural sciences -> Maps",
+    "Natural sciences -> Seabed",
+    "Geographic locations -> Arctic"
+  ],
+  "dct_title_s": "ArcticNet Basemaps",
+  "gbl_mdModified_dt": "2018-03-15T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d4eb8c0a-79ef-5a9f-be93-c59289ae7129",
+  "locn_geometry": "ENVELOPE(-141.0, -52.0, 84.0, 41.5)",
+  "schema_provider_s": "Polar Data Catalogue"
+}

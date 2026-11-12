@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 0.0)",
+  "dcat_keyword_sm": [
+    "Modeling",
+    "climate change",
+    "Climate model",
+    "sea ice",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "The seasonal timing of when sea ice thickness falls below (\"retreat day\") or rises above (\"advance day\") 10 cm throughout the Northern Hemisphere, based on daily sea ice thickness (\"sithick\") data from models participating in CMIP6, using the historical and SSP585 experiments. Regional averages are provided as CSV files for each model. Additionally, two types of multi-model mean are provided: a bias-corrected mean of 20 simulations (1 from each of 20 models), and a weighted multi-model mean using 49 simulations (up to 7 from each of 20 models)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/66847fce-c9ca-429f-979b-effc44202997"
+  ],
+  "dct_issued_s": "2023-09-21",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/66847fce-c9ca-429f-979b-effc44202997\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Cryosphere"
+  ],
+  "dct_title_s": "CMIP6 Hudson Bay Sea Ice Thickness Phenology",
+  "gbl_mdModified_dt": "2026-02-24T00:03:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e79b2840-1b46-56ee-9438-801d96742e29",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 0.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

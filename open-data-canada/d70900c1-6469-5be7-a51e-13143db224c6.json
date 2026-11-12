@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Modis",
+    "Modis",
+    "Couverture du sol",
+    "Land cover",
+    "Image",
+    "Image"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "MODIS — Séries temporelles annuelles de la couverture terrestre du Canada (19 classes)"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Data include a collection of annual land cover maps derived from MODIS 250 m spatial resolution remotely sensed imagery for the period 2000 to 2011. Processing of the time series was designed to reduce the occurrence of false change between maps. The method was based on change updating as described in Pouliot et al. (2011, 2013). Change detection accounted for both abrupt changes such as forest harvesting and more gradual changes such as recurrent insect defoliation. To determine the new label for a pixel identified as change, an evidential reasoning approach was used to combine spectral and contextual information. The 2005 MODIS land cover of Canada at 250 m spatial resolution described in Latifovic et al. (2012) was used as the base map. It contains 39 land cover classes, which for time series development was considered too detailed and was reduced to 25 and 19 class versions. The 19 class version corresponds to the North America Land Change Monitoring System (NALCMS) Level 2 legend as described in Latifovic et al. (2012). Accuracy assessment of time series is difficult due to the need to assess many maps. For areas of change in the time series accuracy was found to be 70% based on the 19 class thematic legend.\n\nThis time series captures the spatial distribution of dominant land cover transitions. It is intended for use in modeling, development of remote sensing products such as leaf area index or land cover based albedo retrievals, and other exploratory analysis. It is not appropriate for use in any rigorous reporting or inventory assessments due to the accuracy of the land cover classification and uncertainty as to the capture of all relevant changes for an application.",
+    "Les données représentent une collection de cartes de la couverture terrestre annuelle, produites à partir d’images acquises par le capteur MODIS à une résolution spatiale de 250 m, de 2000 à 2011. Le traitement des séries chronologiques a été conçu pour réduire l’occurrence de changements erronés entre les cartes. Il repose sur la méthode d’actualisation des changements décrite par Pouliot et coll. (2011, 2013). La détection des changements tient compte autant des changements brusques, comme les coupes forestières, que des changements plus graduels, comme les défoliations récurrentes causées par les insectes. Pour déterminer la nouvelle classe attribuée à un pixel pour lequel un changement a été constaté, nous avons utilisé une approche de raisonnement fondé sur les preuves pour combiner les informations spectrales et contextuelles. La carte de base est la couverture terrestre du Canada en 2005 produite à partir des données MODIS à une résolution spatiale de 250 m et décrite par Latifovic et coll. (2012). Elle comporte 39 classes de couverture terrestre, ce qui est trop détaillé pour l’élaboration des séries chronologiques; celles-ci ont donc été réduites en deux versions à 25 et à 19 classes. La version à 19 classes correspond à la légende de niveau 2 du Système nord-américain de surveillance des changements dans la couverture terrestre (NALCMS) décrite par Latifovic et coll. (2012). L’évaluation de l’exactitude des séries chronologiques est difficile en raison de la nécessité d’évaluer de nombreuses cartes. Pour les régions ayant subi un changement dans les séries chronologiques, une exactitude de 70 % a été obtenue selon la légende thématique à 19 classes. Ces séries chronologiques représentent la distribution spatiale des principales transitions de la couverture terrestre. Elles sont destinées à être utilisées pour la modélisation, le développement de produits de télédétection, comme la récupération de l’indice de surface foliaire ou de l’albédo fondée sur la couverture terrestre, et pour d’autres analyses exploratoires. Elles ne conviennent pas à la production de rapports ou à l’évaluation rigoureuses d’inventaires, en raison de la précision de la classification de la couverture terrestre et de l’incertitude relative à la détection de tous les changements pertinents pour une application donnée."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ce05e6ef-cd61-74a2-a65b-bb98a5301287"
+  ],
+  "dct_issued_s": "2018-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ce05e6ef-cd61-74a2-a65b-bb98a5301287\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "MODIS annual landcover time series of Canada (19 classes)",
+  "gbl_mdModified_dt": "2026-09-29T16:01:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d70900c1-6469-5be7-a51e-13143db224c6",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

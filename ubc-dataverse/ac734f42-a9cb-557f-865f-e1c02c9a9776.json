@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.337154, -123.291149, 57.012141, 56.980537)",
+  "dcat_keyword_sm": [
+    "remote sensing",
+    "land cover",
+    "landscape configuration",
+    "burning",
+    "muskwa kechika management area",
+    "aerial photographs"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mangwanda, Blessing (University of British Columbia). ORCID: https://orcid.org/0000-0002-0744-3926"
+  ],
+  "dct_description_sm": [
+    "Landscape configuration and composition change are common in rangeland management areas where burning is used to maintain grasslands on slopes. However, little is known about the spatial character of patches within landscapes. The spatial character of landscape patches can be used to link landcover patterns to fire occurrences. We conducted a study to examine the composition and configuration of landscape as a link between landcover types and fires in the Halfway Region – Muskwa Kechika Management Area (M-KMA) in British Columbia. We used historical aerial photos to characterize historical landcover changes and patterns. Historical aerial images from two time periods (1963 and1999) were segmented into homogenous landcover patches and classified into six landcover classes (water, bare land, grassland, shrubs, deciduous, coniferous) using the support vector machine algorithm. Class level landscape metrics as the number of patches (NP), percentage landscape (PLAND), mean patch size (AERA_MN) were computed to quantify landscape configuration and composition. Coniferous land cover increased from ~8% to ~30% from 1963 to 1999, replacing deciduous as the dominant land. Deciduous had a 27% negative change in the land cover area, with ~85% attributed to burning. Homogenous patches were observed for shrublands with an increase in PLAND while its number of patches decreased. Grasslands and bare land PLAND decreased in size over time, whereas their mean patch size increased. Despite the challenges in geoprocessing historical aerial photos due to differences in tone and texture properties, aerial photos contain information dating many years back, making them valuable in quantifying landscape landcover patterns.\n\naerial photographs, landscape configuration, land cover, burning, muskwa kechika management area, remote sensing"
+  ],
+  "dct_identifier_sm": [
+    "157584_73894_115983",
+    "https://doi.org/10.5683/SP2/1UYFDT"
+  ],
+  "dct_issued_s": "2021-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/1UYFDT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Burning In The Muskwa-Kechika Management Area – Halfway Region: Quantifying Landscape Structure Using Historical Aerial Photographs",
+  "gbl_mdModified_dt": "2021-04-19T13:42:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ac734f42-a9cb-557f-865f-e1c02c9a9776",
+  "locn_geometry": "ENVELOPE(-123.337154, -123.291149, 57.012141, 56.980537)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

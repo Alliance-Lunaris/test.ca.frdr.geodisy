@@ -1,0 +1,36 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Soleimani Vostikolaei, Faezeh (University of New Brunswick).",
+    "Shabnam, Jabari."
+  ],
+  "dct_description_sm": [
+    "This dataset contains <em>1,498 rooftop samples</em> from the city of Fredericton, New Brunswick, Canada. It is designed to support research in roof segmentation, roof geometry extraction, and 3D building reconstruction. The dataset includes: \n<br><br>\n<ul>\n<li>Orthophoto (7.2 cm resolution): High-resolution RGB aerial imagery.</li>\n<li>Normalized Digital Surface Model (nDSM) of rooftops: Derived from LiDAR point clouds (6 p/m2) and resampled to match the resolution of the Orthophoto.</li>\n<li>Roof geometrical component masks: single-channel mask images where pixel values represent different roof geometrical components:\n<ul>\n<li>Pixel values 1–59 represent individual roof planes (each instance has a unique ID).</li>\n<li>Pixel value of 70 indicates inlines (e.g., ridges, valleys).</li>\n<li>Pixel value of 71 indicates outlines (edges of roof structures).</li>\n</ul>\n</ul>\nThis dataset is provided under the Open Government License - New Brunswick (http://www.snb.ca/e/2000/data-E.html)."
+  ],
+  "dct_identifier_sm": [
+    "7708_25",
+    "https://doi.org/10.25545/O8U6RN"
+  ],
+  "dct_issued_s": "2025-05-20",
+  "dct_publisher_sm": [
+    "UNB"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25545/O8U6RN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Rooftop Fredericton NB Sample",
+  "gbl_mdModified_dt": "2025-05-20T16:36:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "020bfa59-45a8-5202-9f33-939d4e050260",
+  "pcdm_memberOf_sm": [
+    "UNB Research Data"
+  ],
+  "schema_provider_s": "University of New Brunswick Dataverse"
+}

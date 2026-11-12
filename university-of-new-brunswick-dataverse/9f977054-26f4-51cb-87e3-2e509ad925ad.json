@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Deep Learning",
+    "High-energy mechanical alloying",
+    "Scanning Electron Microscopy",
+    "DenseNet121",
+    "High-entropy alloys"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Palanchu, Keshav (University of New Brunswick).",
+    "Saha, Gobinda (University of New Brunswick).",
+    "De Baerdemacker, Stijn (University of New Brunswick). ORCID: https://orcid.org/0000-0001-7933-3227"
+  ],
+  "dct_description_sm": [
+    "This dataset comprises raw and manually curated scanning electron microscopy (SEM) images and corresponding energy-dispersive X-ray spectroscopy (EDS) composition data of mechanically alloyed AlCoCrFeNi high-entropy alloy (HEA) powders. The powders were produced via high-energy ball milling and imaged using backscattered electron (BSE) mode to capture atomic number contrast arising from compositional heterogeneity within and across particles.\n\nSEM images were acquired from multiple regions of interest (ROIs) within mounted powder samples to ensure spatially diverse sampling while maintaining a consistent processing history. Elemental compositions were extracted using area-based EDS analysis for selected particle or sub-particle regions using the AZtec software. Carbon and oxygen contributions were excluded to focus on the metallic constituents of the alloy system.\n\nThe dataset includes unprocessed SEM images, manually segmented particle regions, and associated normalized elemental composition vectors. No image enhancement, denoising, or algorithmic labeling was applied at the data acquisition stage, ensuring that the dataset represents the raw experimental observations.\n\nThis dataset was developed to support data-driven analysis of alloying quality and compositional uniformity in mechanically alloyed HEA powders and serves as the foundational input for morphology-guided statistical analysis and machine learning workflows. It may be used for particle-level classification, regression, clustering, or benchmarking of image-based characterization approaches in powder metallurgy and high-entropy alloy research."
+  ],
+  "dct_identifier_sm": [
+    "9320_343",
+    "https://doi.org/10.25545/GLO18C"
+  ],
+  "dct_issued_s": "2026-02-13",
+  "dct_publisher_sm": [
+    "UNB"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25545/GLO18C\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Chemistry",
+    "Engineering"
+  ],
+  "dct_title_s": "Particle-Resolved Scanning Electron Microscopy and Energy-Dispersive X-Ray Spectroscopy Dataset of Mechanically Alloyed AlCoCrFeNi High-Entropy Alloy Powders",
+  "gbl_mdModified_dt": "2026-02-13T02:12:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9f977054-26f4-51cb-87e3-2e509ad925ad",
+  "pcdm_memberOf_sm": [
+    "QuNB Quantum Chemistry Lab"
+  ],
+  "schema_provider_s": "University of New Brunswick Dataverse"
+}

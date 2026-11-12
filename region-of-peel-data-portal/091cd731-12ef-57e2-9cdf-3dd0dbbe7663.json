@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.8077885222123, -79.54895236634653, 43.76578808046031, 43.48897106630683)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "transformer",
+    "power station",
+    "hydroelectricity",
+    "Facilities",
+    "power generation",
+    "Facilities and Structure",
+    "structure",
+    "substation",
+    "Environment",
+    "major distribution system",
+    "electricity",
+    "hydro",
+    "transmission"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "This dataset consists of three feature classes providing an overview of major hydro transmission infrastructure in Peel Region:<div><ol><li>Hydroelectric Line - Includes transmission lines that are generally 230 kilovolts and 500 kilovolts, but some minor above ground lines are included if they share a corridor with high voltage lines.</li><li>Hydroelectric Station - Major transmission/transformer stations and power stations (power plants). Delineates the pad containing the utility components, not the parcel or fence line of the station. Power stations (power plants or generating stations) are delineated by the building where the generators are located.</li><li>Hydroelectric Structure - Alignment of hydro transmission towers and poles.  They are to be used with Hydroelectric Line.</li></ol><div>Please note that a majority of the transmission lines and structures are maintained by HydroOne and not the Cities, Town, or Region.</div></div>"
+  ],
+  "dct_identifier_sm": [
+    "0798201ef8694e4397e6a5e12ce50864",
+    "https://www.arcgis.com/home/item.html?id=0798201ef8694e4397e6a5e12ce50864"
+  ],
+  "dct_issued_s": "2019-11-29",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::hydroelectric-structure\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Hydroelectric System",
+  "gbl_mdModified_dt": "2024-01-13T15:35:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "091cd731-12ef-57e2-9cdf-3dd0dbbe7663",
+  "locn_geometry": "ENVELOPE(-79.8077885222123, -79.54895236634653, 43.76578808046031, 43.48897106630683)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

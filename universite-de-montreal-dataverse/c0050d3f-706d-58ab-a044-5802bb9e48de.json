@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Nitrogen",
+    "season",
+    "Azote",
+    "dissolved organic matter",
+    "Utilisation du sol",
+    "Land use",
+    "Phosphore",
+    "Phosphorus",
+    "Carbone",
+    "Cours d'eau",
+    "Carbon",
+    "Rivers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Shousha, Stéphanie (Université de Montréal). ORCID: https://orcid.org/0000-0003-1904-1198",
+    "Maranger, Roxane (Université de Montréal, Groupe de Recherche Interuniversitaire en Limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2509-4678",
+    "Lapierre, Jean-François (Groupe de recherche interuniversitaire en limnologie, Université de Montréal). ORCID: https://orcid.org/0000-0001-5862-7955"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: \nSite as River Kilometer, Latitude, Longitude, Year, Month, Day, Season, TN (ug/L), TDN (ug/L), NO3- (ug/L), NH4+ (ug/L), DON (ug/L), TP (ug/L), TDP (ug/L), TPP (ug/L), TOC (mg/L), DOC (mg/L), POC (mg/L), C1-C5 (Raman units), Total fluorescence (RU), SUVA254 (m^-1), CDOM (L mg C^-1 m^-1), Fluorescence index, Freshness index, Humification index.",
+    "The Rivière du Nord was sampled at 13 sites along its mainstem once per season from summer 2017 to winter 2020. Sites are numbered by river kilometer (RKm) with the outlet being RKm 0. The dataset includes concentrations (ug/L or mg/L as noted) of total organic carbon, dissolved organic carbon, particulate organic carbon, total nitrogen, total dissolved nitrogen, nitrate, ammonium, dissolved organic nitrogen, total phosphorus, total dissolved phosphorus and particulate phosphorus. It also includes fluorescence metrics derived from PARAFAC EEMs: fluorescence intensities (in Raman units) of 5 dissolved organic matter components (C1-C5), and 5 indices (SUVA-254, CDOM, FI, b:a, HIX). We sampled an additional 12 sites to act as endmembers (5 mainly forested sites, 5 mainly agricultural sites, and 2 wastewater treatment plant measures). \n\nData were used to calculate C:N:P stoichiometry in the paper \"Different forms of carbon, nitrogen, and phosphorus influence ecosystem stoichiometry in a north temperate river across seasons and land uses\" (https://doi.org/10.1002/lno.11960).\n\nData were used to quantify changes in organic matter composition in the paper \"Contrasting seasons and land uses alter riverine dissolved organic matter composition\" (https://doi.org/10.1007/s10533-022-00979-9)."
+  ],
+  "dct_identifier_sm": [
+    "410692_281357_281358",
+    "https://doi.org/10.5683/SP3/CKH7WH"
+  ],
+  "dct_issued_s": "2022-10-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CKH7WH\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data on carbon, nitrogen, and phosphorus forms in a north temperate river, Rivière du Nord [Québec, Canada, 2017-2019]",
+  "gbl_mdModified_dt": "2023-12-08T14:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c0050d3f-706d-58ab-a044-5802bb9e48de",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

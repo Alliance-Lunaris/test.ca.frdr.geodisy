@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.091, -69.012, 48.678, 48.6016)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A research survey on Stimpson's surfclam (Mactromeris polynyma) was conducted from June 15 to June 26 2017 in the Estuary of the St. Lawrence River on the Forestville deposit (Fishing Area 1A). The primary objective of this survey was to investigate the spatial distribution of pre-commercial (< 80 mm) and commercial (≥ 80 mm) sizes of Stimpson's surfclams as well as to assess the abundance and diversity of benthic species associated with the sandy habitat of the Stimpson's surfclam. Only benthic species data associated with Stimpson's surfclam habitat are presented in this dataset.  \n  \n  Data were collected according to a systematic sampling design consisting of 77 stations, between 7 and 45 m depth. Stations were spaced 200 m apart and dispersed along a total of 18 transects perpendicular to the bathymetry. Transects were parallel and spaced 500 m apart. Specimens were collected using a hydraulic dredge of the \"New England\" type with a total length of 2.29 meters and a total width of 1.68 meters, of which 1.35 meters was knife width. The dredge was lined with a 19 millimeter mesh Vexar™ to harvest small individuals. The hauls were made at a speed of 0.2-0.3 knots for a duration of 2 to 3 minutes. Start and end positions were recorded to calculate the distance traveled at each tow using the geosphere library in R. The average tow distance was approximately 25 m. The area covered at each stroke was the product of the width of the dredge blade and the distance.  \n  \n  The three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic event information, including date and location. The \"additional_information_event_and_occurrence\" file includes sample size, sampling protocol and sampling effort, among others. The \"taxon_occurrence\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. For abundance and biomass estimates, contact Virginie Roy (virginie.roy@dfo-mpo.gc.ca).  \n  \n  For quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. Special cases were noted in \"identificationRemarks\" and selected specimens were confirmed using field photos. Data quality checks were performed using the R obistools and worrms libraries. All sampling locations were spatially validated."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/01ec2dc5-dde1-4626-8c1f-b8aad1579c60"
+  ],
+  "dct_issued_s": "2021-11-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/01ec2dc5-dde1-4626-8c1f-b8aad1579c60\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Biodiversity of the Stimpson's surfclam hydraulic dredge survey in the St. Lawrence Estuary (2017)",
+  "gbl_mdModified_dt": "2025-02-17T19:52:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "113b2a6c-cde7-59e7-bbdf-8636b4ed5431",
+  "locn_geometry": "ENVELOPE(-69.091, -69.012, 48.678, 48.6016)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

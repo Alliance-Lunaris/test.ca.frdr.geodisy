@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.09375, -78.628906, 60.8673, 41.201341)",
+  "dcat_keyword_sm": [
+    "Forecast",
+    "Province of Manitoba",
+    "RDPS",
+    "Weather Models",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<ul><li><strong>Short-Range Forecasts</strong>: RDPS runs multiple times per day, offering precipitation outlooks for days 0–3.5 with updates every six hours.</li><li><strong>High Resolution</strong>: At ~10 km, RDPS captures critical mesoscale phenomena like localized downpours, lake-effect snow, and terrain-driven precipitation.</li><li><strong>Hydrological Utility</strong>: Especially valuable for sub-basin-level flood risk assessment and water resource management in near-term scenarios.</li><li><strong>Technical Basis</strong>: The RDPS is a limited-area configuration of the GEM model, using initial/boundary conditions from ECCC’s Global Deterministic Prediction System (GDPS).</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "f06087b70fe34b44bcb44a164d8c4ccc",
+    "https://www.arcgis.com/home/item.html?id=f06087b70fe34b44bcb44a164d8c4ccc"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::rdps-forecasted-accumulated-precipitation-84-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "RDPS Forecasted Accumulated Precipitation - 84 hrs",
+  "gbl_mdModified_dt": "2026-09-25T03:21:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "94cf423c-9de3-5f48-82e7-5b02493fc8bf",
+  "locn_geometry": "ENVELOPE(-123.09375, -78.628906, 60.8673, 41.201341)",
+  "schema_provider_s": "Data MB"
+}

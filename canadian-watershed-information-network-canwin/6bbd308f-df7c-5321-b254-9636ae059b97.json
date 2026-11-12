@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.0, 83.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This collection is a legacy product that is no longer supported. It may not meet current government standards.  \n  \n  This inventory presents chronologically the satellite images acquired, orthorectified and published over time by Natural Resources Canada. It is composed of imagery from the Landsat7 (1999-2003) and RADARSAT-1 (2001-2002) satellites, as well as the CanImage by-product and the control points used to process the images.  \n  \n  Landsat7 Orthorectified Imagery: The orthoimage dataset is a complete set of cloud-free (less than 10%) orthoimages covering the Canadian landmass and created with the most accurate control data available at the time of creation.  \n  \n  RADARSAT-1 Orthorectified Imagery: The 5 RADARSAT-1 images (processed and distributed by RADARSAT International (RSI) complete the landsat 7 orthoimagery coverage. They are stored as raster data produced from SAR Standard 7 (S7) beam mode with a pixel size of 15 m. They have been produced in accordance with NAD83 (North American Datum of 1983) using the Universal Transverse Mercator (UTM) projection. RADARSAT-1 orthoimagery were produced with the 1:250 000 Canadian Digital Elevation Data (CDED) and photogrammetric control points generated from the Aerial Survey Data Base (ASDB).  \n  \n  CanImage -Landsat7 Orthoimages of Canada,1:50 000:  CanImage is a raster image containing information from Landsat7 orthoimages that have been resampled and based on the National Topographic System (NTS) at the 1:50 000 scale in the UTM projection. The product is distributed in datasets in GeoTIFF format. The resolution of this product is 15 metres.  \n  \n  Landsat7 Imagery Control Points: the control points were used for the geometric correction of Landsat7 satellite imagery. They can also be used to correct vector data and for simultaneously displaying data from several sources prepared at different scales or resolutions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/560351c7-061f-442f-9539-e38bb453ccbf"
+  ],
+  "dct_issued_s": "2017-06-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/560351c7-061f-442f-9539-e38bb453ccbf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Orthoimages of Canada, 1999-2003",
+  "gbl_mdModified_dt": "2021-08-11T03:36:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6bbd308f-df7c-5321-b254-9636ae059b97",
+  "locn_geometry": "ENVELOPE(-141.003, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

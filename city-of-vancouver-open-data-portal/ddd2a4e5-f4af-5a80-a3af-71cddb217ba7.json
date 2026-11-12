@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.22394605726004, -123.02294307388365, 49.31253750342876, 49.2003227211535)",
+  "dcat_keyword_sm": [
+    "street"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>Pavement Condition data collected in 2020, is used to report the overall pavement condition (PCI) at the network level and expresses the overall condition of a pavement segment by considering surface and structural distresses. </p><p>Data was collected using a semi-automated process by an external contractor hired by the City. The data was collected from 1 lane for local roads and 1 lane in each direction for arterial roads. This PCI is averaged to reflect the overall condition for the entire width and length of the road segment. </p><p>The pavement distresses and condition ratings follow the American Society of Testing Materials (ASTM) D6433 standard. </p><p><b>Limitations: </b></p><p>1. Major road network (MRN) roads are not included because they are collected by Translink. For MRN pavement condition use <a href=\"https://opendata.vancouver.ca/explore/dataset/pavement-condition-rating-major-road-network/information/?disjunctive.road_name&amp;disjunctive.pci_rating&amp;disjunctive.year\" target=\"_blank\">Pavement Condition Rating - Major Road Network</a>. </p><p>2. Data is only collected from 1-2 vehicular travel lanes, the asset condition on every lane for the entire road width was not collected. The pavement condition rating shown may not represent the full pavement width.<br></p></div><span></span><br> <h3>Note</h3><p><b>PCI Rating Descriptions: </b></p><p>Very Good: The asset is fit for the future. It is well maintained, in good condition, new or recently rehabilitated. </p><p>Good: The asset is adequate. It is acceptable and generally within the mid-stage of its expected service life. </p><p>Fair: The asset requires attention. The asset shows signs of deterioration and some elements exhibit deficiencies. </p><p>Poor: There is an increasing potential for its condition to affect the service it provides. The asset is approaching the end of its service life and a large portion of the system exhibits significant deterioration.  </p><p>Very Poor: The asset is unfit for sustained service. It is near or beyond its expected service life and shows widespread signs of advanced deterioration. </p><p></p><h3>Data currency</h3><p>Pavement condition data is collected every 3-4 years. <br> </p><h3>Data accuracy</h3><div><p>The dataset is complete for lanes where data was collected and extrapolated to represent the entire network.</p></div><p></p><p></p>"
+  ],
+  "dct_identifier_sm": [
+    "pavement-condition-rating",
+    "https://opendata.vancouver.ca/explore/dataset/pavement-condition-rating"
+  ],
+  "dct_issued_s": "2026-09-15",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/pavement-condition-rating\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Streets and transportation"
+  ],
+  "dct_title_s": "Pavement condition rating 2020",
+  "gbl_mdModified_dt": "2026-09-15T13:50:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ddd2a4e5-f4af-5a80-a3af-71cddb217ba7",
+  "locn_geometry": "ENVELOPE(-123.22394605726004, -123.02294307388365, 49.31253750342876, 49.2003227211535)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

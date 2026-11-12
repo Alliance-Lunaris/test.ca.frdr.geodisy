@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "soil capability",
+    "BCSIS",
+    "soil pits",
+    "soil",
+    "Government information",
+    "soil horizon",
+    "Soil pit descriptions",
+    "soil sites",
+    "soil name",
+    "soil mapping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Paquets de données cartographiques des sols"
+  ],
+  "dct_creator_sm": [
+    "Terrestrial Ecosystem Information (TEI) Mailbox."
+  ],
+  "dct_description_sm": [
+    "These Soil Mapping Data Packages include 1. a Soil Map dataset which includes the equivalents to [Soil Project Boundaries](https://catalogue.data.gov.bc.ca/dataset/soil-mapping-soil-project-boundaries), [Soil Survey Spatial View](https://catalogue.data.gov.bc.ca/dataset/soil-survey-spatial-view) mapping polygons with attributes from the [Soil Name and Layer Files](https://catalogue.data.gov.bc.ca/dataset/soil-name-and-layer-files), plus + A Soil Site dataset which includes soil pit site information and detailed soil pit descriptions and any associated lab analyses, and + The Soil Data Dictionary which documents the fields and allowable codes within the data. The Soil Map geodatabase contains the 'best available' data ranging from 1:20,000 scale to 1:250,000 scale with overlapping data removed. The choice of the datasets that remain is based on connectivity to the soil attributes (soil name and layer files), map scale and survey date. (Note: the BC Soil Landscapes of Canada (BCSLC) 1:1,000,000 data has not been included in the Soil_Map or SIFT, but is available from: [CANSIS](http://sis.agr.gc.ca/cansis/nsdb/slc/index.html). (A complete soils data package with overlapping soil survey mapping and BCSLC is available on [request](mailto:TEI_Mail@gov.bc.ca). Note that the soil survey data with attributes can also be viewed interactively in the [Soil Information Finder Tool](The Soil Map dataset is also available for interactive map viewing or as KMZs from the [Soil Information Finder Tool website](https://www2.gov.bc.ca/gov/content/environment/air-land-water/land/soil-information-finder).",
+    "Ces ensembles de données cartographiques des sols comprennent 1. un ensemble de données cartographiques des sols qui comprend les équivalents à [Soil Project Boundaries] (https://catalogue.data.gov.bc.ca/dataset/soil-mapping-soil-project-boundaries), [Soil Survey Spatial View] (https://catalogue.data.gov.bc.ca/dataset/soil-survey-spatial-view) cartographiant des polygones avec des attributs provenant des [fichiers de nom et de couche du sol] (https://catalogue.data.gov.bc.ca/dataset/soil-name-and-layer-files), plus + un jeu de données de sites de sol qui comprend des informations sur le site des fosses de sol et des descriptions détaillées des fosses de sol et toutes les analyses de laboratoire associées , et + Le dictionnaire des données sur les sols qui documente les champs et les codes autorisés dans les données. La géodatabase Soil Map contient les « meilleures données disponibles » allant d'une échelle de 1:20 000 à une échelle de 1:250 000, les données qui se chevauchent étant supprimées. Le choix des ensembles de données restants est basé sur la connectivité aux attributs du sol (nom du sol et fichiers de couches), à l'échelle de la carte et à la date du relevé. (Remarque : les données des paysages des sols de la Colombie-Britannique du Canada (BCSLC) 1:1 000 000 n'ont pas été incluses dans le Soil_Map ou le SIFT, mais sont disponibles auprès de : [CANSIS] (http://sis.agr.gc.ca/cansis/nsdb/slc/index.html). (Un ensemble complet de données sur les sols comprenant des cartes d'étude des sols qui se chevauchent et le BCSLC est disponible sur [demande] (mailto : TEI_Mail@gov.bc.ca). Notez que les données d'étude des sols avec attributs peuvent également être consultées de manière interactive dans [l'outil de recherche d'informations sur les sols] (Le jeu de données Soil Map est également disponible pour une visualisation interactive de la carte ou sous forme de KMZ sur le [site Web de l'outil de recherche d'informations sur les sols] (https://www2.gov.bc.ca/gov/content/environment/air-land-water/land/soil-information-finder).\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4e205b8d-f259-44a2-89ab-4d02d287136f"
+  ],
+  "dct_issued_s": "2018-02-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4e205b8d-f259-44a2-89ab-4d02d287136f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "agriculture",
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Soil Mapping Data Packages",
+  "gbl_mdModified_dt": "2026-09-09T18:30:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "022aa8d4-3266-5d40-85e7-7f0efdf3c183",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

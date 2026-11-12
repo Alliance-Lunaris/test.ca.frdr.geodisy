@@ -1,0 +1,88 @@
+{
+  "dcat_bbox": "ENVELOPE(13.94417, 13.96356, 40.74667, 40.73139)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Turner, Lucy M (University of Plymouth). ORCID: https://orcid.org/0000-0002-9052-9498",
+    "Madeira, Diana (University of Aveiro, Universidade de Aveiro). ORCID: https://orcid.org/0000-0002-2435-9283",
+    "Ricevuto, Elena.",
+    "Massa Gallucci, Alexia.",
+    "Sommer, Ulf (University of Birmingham).",
+    "Viant, Mark R (University of Birmingham). ORCID: https://orcid.org/0000-0001-5898-4119",
+    "Dineshram, Ramadoss (University of Hong Kong).",
+    "Gambi, Maria Cristina (National Institute of Oceanography and Applied Geophysics). ORCID: https://orcid.org/0000-0002-0168-776X",
+    "Calosi, Piero (University of Plymouth, Université du Québec à Rimouski). ORCID: https://orcid.org/0000-0003-3378-2603"
+  ],
+  "dct_description_sm": [
+    "Platynereis spp. were collected via snorkelling or scuba from either inside (40°43′53″N, 13°57′47″E) (stations A1-A3) or outside (40°43'33.33N, 13°57'36.38E and 40°44′48″N, 13°56′39″E) (stations C1-C3) the carbon dioxide (CO2) vent on the island of Ischia (Italy) and used in a reciprocal transplant experiment between 04/09/2013 and 16/09/2013. The effect of exposure to high or low partial pressures of CO2 (pCO2) conditions on the proteome and metabolome (metabolome, and lipidome) of worms from different pCO2 regimes was investigated to understand the effect of exposure to different pCO2 conditions on the cellular physiological response. Before and during the transplant experiment water samples were taken to characterise the physio-chemical parameters of sea water used when exposing the worms to: (i) low pCO2 conditions ('control' stations C1, C2 and C3) and (ii) high pCO2 conditions ('acidified' stations A1, A2, A3). Salinity, temperature, pH NBS (Mettler-Toledo pH meter, Beaumont Leys, UK), total alkalinity (TA) (AS-ALK2, Apollo SciTech, Bogart, USA), dissolved inorganic carbon (DIC), carbon dioxide partial pressure (pCO2), bicarbonate and carbonate ion concentration ([HCO3–] and [CO32–), calcite and aragonite saturation state (Ωcal and Ωara) are provided.This dataset is included in the OA-ICC data compilation maintained in the framework of the IAEA Ocean Acidification International Coordination Centre (see https://oa-icc.ipsl.fr). Original data were downloaded from the PANGAEA dataset (see Source). In order to allow full comparability with other ocean acidification data sets, the R package seacarb (Gattuso et al, 2024) was used to compute a complete and consistent set of carbonate system variables, as described by Nisumaa et al. (2010). In this dataset the original values were archived in addition with the recalculated parameters (see related PI). The date of carbonate chemistry calculation by seacarb is 2025-11-03."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.987145",
+    "https://doi.org/10.1594/pangaea.987145"
+  ],
+  "dct_issued_s": "2025-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.987145\"}",
+  "dct_spatial_sm": [
+    "Castello Aragonese",
+    "Punta San Pietro"
+  ],
+  "dct_subject_sm": [
+    "pH, total scale",
+    "Method comment",
+    "Experiment",
+    "Single species",
+    "Coast and continental shelf",
+    "Carbon dioxide",
+    "Potentiometric titration",
+    "Animalia",
+    "Partial pressure of carbon dioxide (water) at sea surface temperature (wet air)",
+    "Calculated using CO2SYS",
+    "Platynereis sp.",
+    "Species",
+    "Station label",
+    "Field experiment",
+    "Fugacity of carbon dioxide (water) at sea surface temperature (wet air)",
+    "pH, NBS scale",
+    "Calcite saturation state",
+    "Aragonite saturation state",
+    "Salinity",
+    "Other studied parameter or process",
+    "Carbonate ion",
+    "Alkalinity, total",
+    "Genus, unique identification (Semantic URI)",
+    "Benthos",
+    "CO2 vent",
+    "Location",
+    "Mediterranean Sea",
+    "Calculated using seacarb after Nisumaa et al. (2010)",
+    "Ocean acidification",
+    "Type of study",
+    "Genus, unique identification (URI)",
+    "Potentiometric",
+    "Temperature, water",
+    "DATE/TIME",
+    "Bicarbonate ion",
+    "Ocean Acidification International Coordination Centre (OA-ICC)",
+    "Carbon, inorganic, dissolved",
+    "Annelida",
+    "Temperate",
+    "Genus, unique identification",
+    "Benthic animals",
+    "DEPTH, water",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label",
+    "Carbonate system computation flag"
+  ],
+  "dct_title_s": "Seawater carbonate chemistry inside and outside the CO2 vent (Ischia, Italy) before and during a reciprocal transplant experiment with Platynereis spp. in September 2013",
+  "gbl_mdModified_dt": "2026-05-20T01:16:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0adc148d-0e65-58ca-ab3a-1aebeb5f88a6",
+  "locn_geometry": "ENVELOPE(13.94417, 13.96356, 40.74667, 40.73139)",
+  "schema_provider_s": "PANGAEA"
+}

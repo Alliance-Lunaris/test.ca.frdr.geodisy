@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset identifies potential low head hydropower development sites across Canada, based on a comprehensive review of existing studies and resource databases. Low head hydropower refers to sites where the vertical drop (head) is 15 meters or less. Sites included in this dataset also have an estimated generation capacity of 50 megawatts (MW) or less.  \n  \n  The original database was developed by Hatch Ltd. for Natural Resources Canada (NRCan) as part of a national low head hydropower market assessment. It integrates data from multiple sources, including provincial inventories, prior Hatch studies, and legacy fieldwork records. To enhance data completeness, NRCan subsequently revised the database by supplementing missing site names, river names, and geographic coordinates where possible.  \n  \n  The finalized dataset comprises 2,629 potential low head hydropower sites distributed across Canada. It is provided in the form of provincial and territorial shapefiles, each containing detailed site-level attributes. Attributes include site name, river name, site ID, source of information, local map number, geographic coordinates (X and Y), site region, presence of a dam, grid connection status, Indigenous affiliation, catchment area, mean annual flow, rated discharge, gross head, penstock length and diameter, estimated installed capacity, dedicated transmission line length, site comments, and Indigenous reserve name.  \n  \n  Disclaimer:  \n  \n  This dataset was developed to support preliminary assessments of low head hydropower potential in Canada and is subject to the following limitations:  \n  \n  • The original database was compiled from various secondary sources, including data provided by third-party contributors and Hatch Ltd.’s own records. Some of these sources date back several decades. The data provided has not necessarily undergone independent verification for its accuracy, completeness, or validity.  \n  \n  • NRCan undertook a data revision process involving manual review and geolocation using publicly available mapping tools (e.g., Google Maps) to address missing information. Where geographic coordinates could not be reliably determined, this is explicitly indicated in the dataset.  \n  \n  • Site conditions may have changed over time due to natural processes or human activities. NRCan does not accept responsibility for any impact such changes may have on the accuracy or validity of the dataset’s observations, conclusions, or recommendations.  \n  \n  • The inclusion of a site in this dataset does not imply technical, economic, or environmental feasibility. Any potential development would require further investigation, including detailed field studies, environmental assessments, and comprehensive technical and financial evaluations.  \n  \n  This dataset is provided for informational purposes only and is not intended to serve as the sole basis for investment, planning, or development decisions. Users are strongly advised to undertake independent due diligence, including site-specific assessments and technical evaluations, prior to making any decisions based on the dataset.  \n  \n  By accessing or using this dataset, users acknowledge and accept these terms and limitations. The dataset providers expressly disclaim any responsibility or liability for consequences resulting from the use, interpretation, or reliance on the information contained herein. Use of this dataset is entirely at the user’s own risk, and users assume full responsibility for any actions or decisions made based on its contents.  \n  \n  This disclaimer is provided in accordance with applicable laws and regulations. By utilizing the dataset, users agree to release the dataset providers from any legal claims, damages, or liabilities that may arise from such use."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1f961450-eab8-4bb3-abde-6c1554efbaed"
+  ],
+  "dct_issued_s": "2025-12-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1f961450-eab8-4bb3-abde-6c1554efbaed\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada’s Low-Head Hydropower Resource Database: Sites with Head Under 15 m and Capacity Below 50 MW",
+  "gbl_mdModified_dt": "2025-12-16T18:00:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ed385cd6-3f8a-5b1a-a280-d486236aae09",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

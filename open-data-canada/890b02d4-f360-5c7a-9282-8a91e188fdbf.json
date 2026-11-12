@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Agriculture"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Étendue agricole canadienne générée par le radiomètre perfectionné à très haute résolution AVHRR (Advanced Very High Resolution Radiometer)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset is no longer maintained by Agriculture and Agri-Food Canada and should be considered as an archived product. For current estimates of the agricultural extent in Canada please refer to the Agricultural Ecumeme produced by Statistics Canada.  https://www150.statcan.gc.ca/n1/en/catalogue/92-639-X  \n  \n  The Agriculture Extent of Canada derived from the AVHRR (Advanced Very High Resolution Radiometer) was obtained from the GeoGratis web site (www.geogratis.ca). All polygons with an area less than 50 Km sq were eliminated by GeoGratis before we received the data. This product allows the user to see the significant areas of cropland and rangeland across Canada.  \n  \n  The Agriculture Extent of Canada derived from the AVHRR (Advanced Very High Resolution Radiometer) was obtained from the GeoGratis web site (www.geogratis.ca). All polygons with an area less than 50 Km sq were eliminated by GeoGratis before we received the data. This product allows the user to see the significant areas of cropland and rangeland across Canada.",
+    "Ce jeu de données n’est plus maintenu par Agriculture et agroalimentaire Canada et devrait être considéré comme produit archivé. Pour les estimations actuelles de l’étendu agricole au Canada veuillez référer à l’écoumène agricole produit par Statistique Canada. https://www150.statcan.gc.ca/n1/fr/catalogue/92-639-X  \n  \n  L'étendue agricole canadienne générée par le radiomètre perfectionné à très haute résolution AVHRR (Advanced Very High Resolution Radiometer) provient du site web GéoGratis (www.geogratis.ca). Lorsque nous avons reçu les données, GéoGratis en avait déjà supprimé tous les polygones ayant une superficie inférieure à 50 km carrés. Ce produit permet à l'usager de voir les régions significatives de terres cultivées et de pâturages sur l'ensemble du Canada.  \n  \n  Le présent jeu de données est une de quatre interprétations de l'étendue agricole sur l'ensemble du Canada. Ce produit a été créé aux fins d'analyse, pour permettre à l'usager de voir les régions significatives où les terres cultivées et les pâturages sont situés au Canada, d'après le radiomètre perfectionné à très haute résolution AVHRR.  \n  \n  L’ensemble des données sur la couverture végétale et la couverture des terres a été classé en douze catégories. Pour obtenir de l’information sur la classification de la couverture végétale et de la couverture des terres, sur la conversion du format matriciel au format vectoriel ainsi que sur la généralisation pour des présentations cartographiques, on peut consulter le document « The Canada Vegetation and Land Cover: A Raster and Vector Data Set for GIS Applications - Uses in Agriculture » disponible à l’adresse : http://geogratis.cgdi.gc.ca/download/landcover/scale/gis95ppr.pdf.  \n  \n  Une évaluation de la qualité du sol, incluse dans le document cité plus haut, a été réalisée en mettant en correspondance les données de l’AVHRR et celles du Recensement de l’agriculture ainsi que les données biophysiques des Pédo-paysages du Canada.  \n  \n  La représentation des données de l’AVHRR sur la couverture des terres a été réalisée initialement pour Agriculture Canada, à une échelle approximative de 1/2 000 000. La projection utilisée est la projection conique conforme de Lambert (CCL) 49/77, dont l’origine se trouve par 49 °N.  95 °O.\""
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c72355b0-cbe9-4058-9c08-0c02a3aeca4a"
+  ],
+  "dct_issued_s": "2008-01-22",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c72355b0-cbe9-4058-9c08-0c02a3aeca4a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Canadian Agricultural Extents derived from Advanced Very High Resolution Radiometer (AVHRR)",
+  "gbl_mdModified_dt": "2023-02-23T14:25:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "890b02d4-f360-5c7a-9282-8a91e188fdbf",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

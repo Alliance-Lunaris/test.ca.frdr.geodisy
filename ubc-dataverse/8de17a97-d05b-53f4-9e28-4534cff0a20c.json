@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.8173, -123.7563, 49.1373, 49.1117)",
+  "dcat_keyword_sm": [
+    "Ecosystem Resilience",
+    "Coastal Douglas-fir",
+    "Random Forest Classification",
+    "Land Cover Change",
+    "Sentinel-2",
+    "Southern Gulf Islands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "MPAYIMANA, Joselyne (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Coastal island forest ecosystems in British Columbia face increasing\npressure from climate-driven stressors, yet the impact of residential\nfragmentation on their functional resilience remains poorly understood.\nThis study compared land-use history and ecosystem health on Mudge\nIsland and Link Island in the Southern Gulf Islands of British Columbia\nusing a nine-year time series of Sentinel-2 multispectral satellite\nimagery (2017–2025). A supervised Random Forest classification was\napplied to quantify land cover composition and change, achieving an\noverall accuracy of 77.7% (Kappa = 0.68). The Normalized Difference\nVegetation Index (NDVI) was calculated annually for both islands and\ncompared using a Welch's two-sample t-test. Results showed no\nstatistically significant difference in mean vegetation greenness\nbetween the two islands (t(15.9) = −0.35, p = 0.733), with a mean\nNDVI of 0.320 for Mudge Island and 0.303 for Link Island across the\nstudy period. Forest cover on Mudge Island declined by 11.2 ha between\n2018 and 2025, while Non-Forest Vegetation expanded by 25.7 ha. Link\nIsland remained stable across all land cover classes. Neither island\nshowed a measurable decline in vegetation productivity during the 2021\nPacific Northwest Heat Dome, indicating high ecological resistance to\nshort-term drought stress. These findings suggest that residential\nfragmentation on Mudge Island has not yet reached a threshold that\ncompromises core ecosystem function. Multi-temporal satellite monitoring\nprovides a practical framework for tracking island forest stability\nover time, with results offering baseline data for land managers working\nto balance human land use with the preservation of resilient Coastal\nDouglas-fir forests."
+  ],
+  "dct_identifier_sm": [
+    "1153559_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/EGOKIT"
+  ],
+  "dct_issued_s": "2026-05-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EGOKIT\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada",
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Forest Resilience Under Residential Pressure: A Nine-Year Satellite Study of the Southern Gulf Islands, British Columbia.",
+  "gbl_mdModified_dt": "2026-05-22T18:54:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8de17a97-d05b-53f4-9e28-4534cff0a20c",
+  "locn_geometry": "ENVELOPE(-123.8173, -123.7563, 49.1373, 49.1117)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

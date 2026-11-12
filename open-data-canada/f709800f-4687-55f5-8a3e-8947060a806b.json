@@ -1,0 +1,80 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "terrestrial ecosystem mapping",
+    "ecosystem mapping",
+    "ecosystem management",
+    "terrain and ecosystems",
+    "STE",
+    "TEM",
+    "BGC",
+    "TSM",
+    "slope stability",
+    "predictive ecosystem mapping",
+    "soil",
+    "ecology",
+    "Okanagan",
+    "Canada",
+    "Gulf Islands",
+    "Government information",
+    "DTEIF",
+    "bioterrain",
+    "erosion",
+    "at risk species",
+    "Drainage",
+    "terrain stability mapping",
+    "sensitive ecosystem",
+    "PEM",
+    "Vancouver Island",
+    "threatened ecosystems",
+    "WHR",
+    "biogeoclimatic",
+    "wildlife habitat rating",
+    "Sunshine Coast",
+    "terrain mapping",
+    "SEI",
+    "landslide",
+    "conservation",
+    "terrain stability",
+    "sensitive ecosystems inventory",
+    "sedimentation",
+    "at risk ecosystem",
+    "ecosystem",
+    "TER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Limites du projet d'inventaire des écosystèmes sensibles (SEI)"
+  ],
+  "dct_creator_sm": [
+    "Terrestrial Ecosystem Information (TEI) Mailbox."
+  ],
+  "dct_description_sm": [
+    "Sensitive Ecosystems Inventory (SEI) Project Boundaries (STE_SEI_PROJECT_BOUNDARIES_SVW) contain boundaries (study areas) and attributes describing each SEI project (project level metadata), and includes links to the locations of other data associated with the project (e.g. reports, polygon datasets, plot files). This layer is derived from the [STE_TEI_PROJECT_BOUNDARIES_SP](https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) layer by filtering on the PROJECT_TYPE attribute. Project types include: SEI, TEMSEI, TEMSET, SEIWHR and NEMSEI. SEI project boundaries should be used in conjunction with SEI detailed inventory polygons which identify and map rare and fragile terrestrial ecosystems in a given area for the purpose of encouraging land-use decisions that will ensure the continued integrity of these ecosystems. SEI inventory polygons with full Resources Information Standards Committee (RISC) attributes can be accessed through the [Terrestrial Ecosystem Information (TEI) Data Distribution Packages](https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). SEI inventory polygons with simplified and amalgamated (concatenated) RISC attributes can be accessed through the [Sensitive Ecosystems Inventory (SEI) Detailed Polygons with Short Attribute Table Spatial View](https://catalogue.data.gov.bc.ca/dataset/b00fd09f-ebe1-4b52-9717-6ef9c243d52e). **Current version**: v12 (2026-06-22)",
+    "Les limites du projet d'inventaire des écosystèmes sensibles (SEI) (STE_SEI_PROJECT_BOUNDARIES_SVW) contiennent des limites (zones d'étude) et des attributs décrivant chaque projet SEI (métadonnées au niveau du projet), et incluent des liens vers les emplacements d'autres données associées au projet (par exemple, des rapports, des ensembles de données polygonaux, des fichiers de graphiques). Cette couche est dérivée de la couche [STE_TEI_PROJECT_BOUNDARIES_SP] (https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) en filtrant sur l'attribut PROJECT_TYPE. Les types de projets incluent : SEI, TEMSEI, TEMSET, SEIWHR et NEMSEI. Les limites du projet SEI devraient être utilisées conjointement avec les polygones d'inventaire détaillé du SEI qui identifient et cartographient les écosystèmes terrestres rares et fragiles dans une zone donnée dans le but d'encourager les décisions d'utilisation des terres qui garantiront l'intégrité continue de ces écosystèmes. Les polygones d'inventaire SEI dotés des attributs complets du Resources Information Standards Committee (RISC) sont accessibles via les [packages de distribution de données d'information sur les écosystèmes terrestres (TEI)] (https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). Les polygones d'inventaire SEI dotés d'attributs RISC simplifiés et fusionnés (concaténés) sont accessibles via [Polygones détaillés de l'inventaire des écosystèmes sensibles (SEI) avec vue spatiale de table attributaire courte] (https://catalogue.data.gov.bc.ca/dataset/b00fd09f-ebe1-4b52-9717-6ef9c243d52e). **Version actuelle** : v12 (2026-06-22)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5a5680fa-29e0-4ad2-b2ce-ff0dabc1f666"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5a5680fa-29e0-4ad2-b2ce-ff0dabc1f666\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Sensitive Ecosystems Inventory (SEI) Project Boundaries",
+  "gbl_mdModified_dt": "2026-07-29T18:31:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f709800f-4687-55f5-8a3e-8947060a806b",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

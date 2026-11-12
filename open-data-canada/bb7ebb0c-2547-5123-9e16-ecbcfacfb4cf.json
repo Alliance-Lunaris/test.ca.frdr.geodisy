@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "MNT",
+    "Inventaire aérien",
+    "Élévation",
+    "Terrain",
+    "Forêt",
+    "Imagerie",
+    "Information gouvernementale",
+    "MHC",
+    "Direction inventaires forestiers",
+    "Hauteur",
+    "Laser",
+    "DIF",
+    "Lidar",
+    "Relief",
+    "Canopée",
+    "Pente",
+    "Courbe de niveau",
+    "Télédétection",
+    "Cartographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nProducts derived from lidar (Light Detection and Ranging) are generated as part of the provincial lidar sensor data acquisition project. It is therefore to facilitate the use of raw lidar data and optimize its benefits that the Ministry of Natural Resources and Forests (MRNF) generated and made available products derived from lidar in a user-friendly format. \n\nLidar technology makes it possible to accurately provide information such as ground altitude, forest cover height (canopy), slopes, and contour lines.\n\nHere is the list of the five derivatives: \n\n+ Digital terrain model (spatial resolution: 1 m)\n\n+ Digital terrain model in shaded relief (spatial resolution: 2 m)\n\n+ Canopy height model (spatial resolution: 1 m)\n\n+ Slopes (spatial resolution: 2 m)\n\n+ Level curve (range: 1 m)\n\nThis data covers almost all of the southern part of the province. This map is distributed by map sheets at a scale of ** 1:20,000**.\n\n⚡ If you want to download **lidar point clouds**, please consult the Quebec Lidar Data page.\n\n__ ⚠️ 1) Note that__ the resolution of the following products (digital terrain model, digital terrain model in shaded relief, canopy height model and slopes) **has been slightly degraded** when viewed in the interactive map to ensure efficient display.\n\n__ ⚠️ 2) Note that__ **the planimetric and altimeter accuracy of the curves is variable**, but inevitably lower than that of the lidar surveys used to generate them. Moreover, it is recommended to use these level curves only for visual representations, and not for quantitative analyses.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\nLes produits dérivés du lidar (Light Detection and Ranging) sont générés dans le cadre du projet d’acquisition de données par le capteur lidar à l'échelle provinciale. C’est donc pour faciliter l’utilisation des données brutes du lidar et en optimiser les retombées que le ministère des Ressources naturelles et des Forêts (MRNF) a généré et rendu disponibles des produits dérivés du lidar dans un format convivial. \n\nLa technologie lidar permet de fournir avec précision des informations telles que l'altitude du sol, la hauteur du couvert forestier (canopée), les pentes et les courbes de niveau.\n\nVoici la liste des cinq produits dérivés : \n\n+ Modèle numérique de terrain (résolution spatiale : 1 m)\n\n+ Modèle numérique de terrain en relief ombré (résolution spatiale : 2 m)\n\n+ Modèle de hauteur de canopée (résolution spatiale : 1 m)\n\n+ Pentes (résolution spatiale : 2 m)\n\n+ Courbe de niveau (intervalle de : 1 m)\n\nCes données couvrent la quasi-totalité du sud de la province. Cette cartographie est diffusée par feuillets cartographiques à l’échelle de **1:20 000**.\n\n⚡ Si vous souhaitez télécharger **les nuages de points lidar**, veuillez consulter la page Données lidar du Québec.\n\n__⚠️ 1) Notez que__ la résolution des produits suivants (modèle numérique de terrain, modèle numérique de terrain en relief ombré, modèle de hauteur de canopée et pentes) **a été légèrement dégradée** en visualisation dans la carte interactive pour en assurer un affichage performant.\n\n__⚠️ 2) Notez que__ **la précision planimétrique et altimétrique des courbes est variable**, mais inévitablement inférieure à celle des relevés lidar utilisés pour les générer. Il est d’ailleurs recommandé d’utiliser ces courbes de niveau uniquement pour des représentations visuelles, et non pour des analyses quantitatives."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5e5d2750-d129-4952-b9fc-f824c5e480b4"
+  ],
+  "dct_issued_s": "2016-06-01",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5e5d2750-d129-4952-b9fc-f824c5e480b4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Lidar - Modèles numériques (terrain, canopée, pente, courbe de niveau)",
+  "gbl_mdModified_dt": "2026-09-30T18:03:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bb7ebb0c-2547-5123-9e16-ecbcfacfb4cf",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "centrohelids",
+    "tree of life",
+    "eukaryotes",
+    "Amastigomonas sp",
+    "plastid evolution",
+    "Raphidiophrys heterophryoidea",
+    "Choanocystis sp",
+    "Acanthocystis sp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Burki, Fabien (University of British Columbia).",
+    "Kaplan, Maia (University of British Columbia).",
+    "Tikhonekov, Denis V. (Russian Academy of Sciences).",
+    "Zlatogursky, Vasily (University of British Columbia).",
+    "Minh, Bui Quang (University of Vienna).",
+    "Radaykina, Liudmila V. (Russian Academy of Sciences).",
+    "Smirnov, Alexey (Saint Petersburg State University).",
+    "Mylnikov, Alexander P. (Russian Academy of Sciences).",
+    "Keeling, Patrick J. (University of British Columbia).",
+    "Tikhonenkov, Denis V. (University of British Columbia, Russian Academy of Sciences)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/6K39Xsr7oVuH9nZwC3hfL9o8lGzjc074sYfSb4_L7Fw</p>\n<p><b>Storage size:</b> 52602197</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Assembling the global eukaryotic tree of life has long been a major effort of Biology. In recent years, pushed by the new availability of genome-scale data for microbial eukaryotes, it has become possible to revisit many evolutionary enigmas. However, some of the most ancient nodes, which are essential for inferring a stable tree, have remained highly controversial. Among other reasons, the lack of adequate genomic datasets for key taxa has prevented the robust reconstruction of early diversification events. In this context, the centrohelid heliozoans are particularly relevant for reconstructing the tree of eukaryotes because they represent one of the last substantial groups that was missing large and diverse genomic data. Here, we filled this gap by sequencing high-quality transcriptomes for four centrohelid lineages, each corresponding to a different family. Combining these new data with a broad eukaryotic sampling, we produced a gene-rich taxon-rich phylogenomic dataset that enabled us to refine the structure of the tree. Specifically, we show that (i) centrohelids relate to haptophytes, confirming Haptista; (ii) Haptista relates to SAR; (iii) Cryptista share strong affinity with Archaeplastida; and (iv) Haptista + SAR is sister to Cryptista + Archaeplastida. The implications of this topology are discussed in the broader context of plastid evolution.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptome assembly of Amastigomonas sp</h4><div class=\"o-metadata__file-description\">RNA-seq assembly of Amastigomonas sp. from Genbank SRA accession #SRR2170627. Read quality was assessed with FastQC before and after quality trimming and SMART adaptors removal, which was performed with FastqMcf. Cleaned reads were assembled into contigs with Trinity r20140717 using default parameters.</div><div class=\"o-metadata__file-name\">Amastigomonas_sp_transcriptome.fasta.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptome assembly of Raineriophrys erinaceoides</h4><div class=\"o-metadata__file-description\">RNA-seq assembly of Raineriophrys erinaceoides from Genbank SRA accession #SRR2170634. Read quality was assessed with FastQC before and after quality trimming and SMART adaptors removal, which was performed with FastqMcf. Cleaned reads were assembled into contigs with Trinity r20140717 using default parameters.</div><div class=\"o-metadata__file-name\">Raineriophrys_erinaceoides_transcriptome.fasta.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptome assembly of Choanocystis sp</h4><div class=\"o-metadata__file-description\">RNA-seq assembly of Choanocystis sp. from Genbank SRA accession #SRR2170626. Read quality was assessed with FastQC before and after quality trimming and SMART adaptors removal, which was performed with FastqMcf. Cleaned reads were assembled into contigs with Trinity r20140717 using default parameters</div><div class=\"o-metadata__file-name\">Choanocystis_sp_transcriptome.fasta.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptome assembly of Acanthocystis sp</h4><div class=\"o-metadata__file-description\">RNA-seq assembly of Acanthocystis sp. from Genbank SRA accession #SRR2170625. Read quality was assessed with FastQC before and after quality trimming and SMART adaptors removal, which was performed with FastqMcf. Cleaned reads were assembled into contigs with Trinity r20140717 using default parameters</div><div class=\"o-metadata__file-name\">Acanthocystis_sp_transcriptome.fasta.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptome assembly of Raphidiophrys heterophryoidea</h4><div class=\"o-metadata__file-description\">RNA-seq assembly of Raphidiophrys heterophryoidea from Genbank SRA accession #SRR2170621. Read quality was assessed with FastQC before and after quality trimming and SMART adaptors removal, which was performed with FastqMcf. Cleaned reads were assembled into contigs with Trinity r20140717 using default parameters</div><div class=\"o-metadata__file-name\">Raphidiophrys_heterophryoidea_transcriptome.fasta.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Trimmed alignment</h4><div class=\"o-metadata__file-description\">Trimmed alignment of all 250 genes. BMGE was used for trimming, following MAFFT-LINSI for automatic alignment.</div><div class=\"o-metadata__file-name\">fasta_trimmed.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Untrimmed sequences</h4><div class=\"o-metadata__file-description\">Fasta files of all 250 genes containing untrimmed sequences.</div><div class=\"o-metadata__file-name\">fasta_untrimmed.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Single-gene phylogenetic trees</h4><div class=\"o-metadata__file-description\">RAxML phylogenetic trees of all 250 genes.</div><div class=\"o-metadata__file-name\">trees.zip</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153934_1226260_150149",
+    "https://doi.org/10.5683/SP2/WBKEAB"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/WBKEAB\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Untangling the early diversification of eukaryotes: a phylogenomic study of the evolutionary origins of Centrohelida, Haptophyta, and Cryptista",
+  "gbl_mdModified_dt": "2021-05-19T20:55:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0d530e5a-f41d-52ef-a2fe-01ac13397284",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

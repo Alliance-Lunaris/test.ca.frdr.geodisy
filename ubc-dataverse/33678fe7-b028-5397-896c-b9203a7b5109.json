@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.624731, -119.80186, 50.976972, 51.065098)",
+  "dcat_keyword_sm": [
+    "wildfire management, fuel type, map accuracy, rate of spread, burn probability, fire intensity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Montgomery, Mackenna (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "For fire managers and industry professionals, monitoring and leading wildfire prevention efforts as well as reactionary efforts require accurate and operable fuel type maps to achieve effective management. Fuel type map classification accuracy has been seen to have varying values across industries and applications (> 10 %), and the consequences of these misclassifications in fuel type mapping has yet to be determined. The objective of this research was to explore the effects of mapping error on fire behavior metrics, burn probability, fire intensity, and rate of spread in the southern interior forest region of British Columbia which experiences dry weather and extreme fire conditions. Utilizing a fuel type map with 250 m resolution produced through an artificial neural network as a base case that has assumed 100% accuracy; induced error at varying levels of intensity (10%, 20%, 30%) was applied by selecting C-7 (conifer plantation/Ponderosa pine-Douglas-fir) pixels, and reassigning them to fuel types C-2 (Boreal Spruce) and M-1/2 (Boreal mixedwood) which have been commonly misrepresented in classification. With three levels of error and a base case for comparison, simulations were conducted through a spatial fire simulation software, Burn-P3, to determine effects. Clear trends were found to show that there was not a noticeable change in fire behavior metrics between the base case and 10 % error but that a relative inflection point was found between 10 percent and 20 percent. It was found that fire behavior metrics increased in intensity and spatial reach when fuel type mapping error increased. Recommendations for future research such as a complete evaluation of all error classes between 0% and 100%, as well as the implementation of map accuracy assessments are given to aid wildfire management efforts."
+  ],
+  "dct_identifier_sm": [
+    "325544_73894_115983",
+    "https://doi.org/10.5683/SP3/RBTSWV"
+  ],
+  "dct_issued_s": "2022-07-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RBTSWV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kamloops, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "The Effects of Fuel Type Map Accuracy on Fire Behaviour Metrics",
+  "gbl_mdModified_dt": "2022-07-28T18:07:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33678fe7-b028-5397-896c-b9203a7b5109",
+  "locn_geometry": "ENVELOPE(-120.624731, -119.80186, 50.976972, 51.065098)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

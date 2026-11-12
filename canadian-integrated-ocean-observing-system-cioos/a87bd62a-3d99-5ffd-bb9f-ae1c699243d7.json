@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-151.549, -126.2413, 45.0185, 57.9954)",
+  "dcat_keyword_sm": [
+    "abondance-et-distribution-de-poissons",
+    "international-year-of-the-salmon",
+    "specimen",
+    "north-pacific-ocean",
+    "trawl",
+    "oceans",
+    "oncorhynchus",
+    "salmonidae",
+    "fishabundanceanddistribution",
+    "animalia",
+    "chordata",
+    "salmoniformes",
+    "animalia",
+    "salmonidae",
+    "chordata",
+    "oncorhynchus",
+    "salmoniformes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de chalut du Bell M. Shimada de la NOAA pendant l'expédition hivernale en haute mer 2022 de l'Année internationale du saumon dans le Pacifique"
+  ],
+  "dct_creator_sm": [
+    "Weitkamp, Laurie (National Oceanic and Atmospheric Administration, National Oceanic & Atmospheric Administration).",
+    "Farley, Ed (National Oceanic and Atmospheric Administration).",
+    "Howard, Katherine (Alaska Department of Fish and Game).",
+    "Garcia, Sabrina (Alaska Department of Fish and Game).",
+    "Murphy, Jim (National Oceanic and Atmospheric Administration).",
+    "Moss, Jamal (National Oceanic and Atmospheric Administration).",
+    "North Pacific Anadromous Fish Commission."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the trawl and specimen data collected aboard the R/V Bell M. Shimada for the IYS survey in 2022 in the North Pacific Ocean. This package contains three components; event, catch, and specimen data. The event data contains all of the sampling event information, including time, location, and duration. All dates and times are in UTC. The catch data contains all of the catch records, as counts, weights, and lengths, for each species/taxa at each station. The sampling method for every catch weight should be total weight, and all weights are in kilograms. The specimen data contains individual lengths (in cm) and weights for sampled individuals from each station.",
+    "Cet ensemble de données contient les données de chalut et de spécimen collectées à bord du R/V Bell M. Shimada pour le relevé IYS en 2022 dans l'océan Pacifique Nord. Ce package contient trois éléments : données sur les événements, les captures et les spécimens. Les données d'événement contiennent toutes les informations d'événement d'échantillonnage, y compris l'heure, le lieu et la durée. Toutes les dates et heures sont exprimées en UTC. Les données de capture contiennent tous les enregistrements de capture, sous forme de dénombrements, de poids et de longueurs, pour chaque espèce/taxon à chaque station. La méthode d'échantillonnage pour chaque poids de prise doit être le poids total, et tous les poids sont exprimés en kilogrammes. Les données des échantillons contiennent les longueurs individuelles (en cm) et les poids des individus échantillonnés de chaque station."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/8a3c3689-9f29-4494-baeb-13063eb776ff"
+  ],
+  "dct_issued_s": "2022-07-06",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/8a3c3689-9f29-4494-baeb-13063eb776ff\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Trawl Data from the NOAA Bell M. Shimada during the 2022 International Year of the Salmon Pan-Pacific Winter High Seas Expedition",
+  "gbl_mdModified_dt": "2026-09-16T20:30:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a87bd62a-3d99-5ffd-bb9f-ae1c699243d7",
+  "locn_geometry": "ENVELOPE(-151.549, -126.2413, 45.0185, 57.9954)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

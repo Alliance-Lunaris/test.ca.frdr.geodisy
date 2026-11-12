@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.3449, -95.908, 52.1063, 49.1335)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Feature point layer showing locations of community kitchens available for rent in Manitoba\n\nThis feature point layer shows locations of community kitchens available for rent in Manitoba. Each kitchen has a Food Service Establishment permit issued by Manitoba Health, and is a suitable facility to produce value-added food products for sale. For more information, visit Manitoba Agriculture. This layer is used in the Manitoba Commercial Community Kitchens map and the Commercial Community Kitchens in Manitoba application. Fields included [Alias (Field Name): Field description] UID (UID): Unique identifier for the kitchen Operating (Operating): Indicates whether or not the kitchen is currently in operation Facility Name (Facility_Name): Name of the kitchen Region (Region): Economic region in which the kitchen is located Address (Address): Physical address of the kitchen City or Town (City_or_Town): City or town in which the kitchen is located Phone (Phone): Phone number for the kitchen Website (Website): Website link for the kitchen Equipment (Equipment): List of available equipment in the kitchen Contact (Contact): Contact person for the kitchen Contact Email (Contact_Email): Email address of contact person for the kitchen Contact Phone (Contact_Phone): Phone number of contact person for the kitchen Secondary Contact (Secondary_Contact): Secondary contact person for the kitchen Secondary Contact Email (Secondary_Contact_Email): Email address of secondary contact person for the kitchen Secondary Contact Phone (Secondary_Contact_Phone): Phone number of secondary contact person for the kitchen Latitude (Latitude): Latitudinal coordinates of the representative centre of the feature in decimal degrees Longitude (Longitude): Longitudinal coordinates of the representative centre of the feature in decimal degrees"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a8ddf735-ce94-a53c-86d6-9ae8144422ea"
+  ],
+  "dct_issued_s": "2026-03-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a8ddf735-ce94-a53c-86d6-9ae8144422ea\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Commercial Community Kitchens",
+  "gbl_mdModified_dt": "2026-03-18T11:31:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "943c3320-76ba-519c-a306-28c6dc5b616b",
+  "locn_geometry": "ENVELOPE(-101.3449, -95.908, 52.1063, 49.1335)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

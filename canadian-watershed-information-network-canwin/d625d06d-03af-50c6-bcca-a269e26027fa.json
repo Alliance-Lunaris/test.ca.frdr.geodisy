@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Geolocated data and maps illustrating the delimitation of industrial-port areas. The industrial-port zone is a delimited space used for industrial purposes and located near port services as well as road and rail infrastructures. \n\nThis proximity represents a considerable comparative advantage for businesses, especially for those in the processing sector, since it allows easy access to inputs and an adequate distribution of the goods produced to North American and international markets.\n\nFor more information: (source: https://www.economie.gouv.qc.ca/bibliotheques/strategies/avantage-saint-laurent-la-nouvelle-vision-maritime-du-quebec/zones-industrialo-portuaires)\n\nNote that this database is constantly evolving according to the pace of formalization of the zones.\n\nThe structure includes the following fields:\n\n- Name of the zone, for example Québec-Lévis\n\n- Date of formalization of the zone, for example 2017-07-06\n\n- Description of the sector: Anse-au-Foulon (this name is given by the committee)\n\n- Geometry of the sector\n\n- Name of the municipality where the sector is located, for example Quebec\n\n- Geographic code of the municipality where the sector is located (unique 5-digit code), for example 23027 (for Quebec)\n\n- Area in km² of the sector, for example 0.421755**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Delimitation of industrial-port areas",
+  "gbl_mdModified_dt": "2026-10-07T17:34:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d625d06d-03af-50c6-bcca-a269e26027fa",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

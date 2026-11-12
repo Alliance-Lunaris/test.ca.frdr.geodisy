@@ -1,0 +1,38 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Stevens, Courtney (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "As anthropogenic climate change continues to disrupt forests and species’ ecological niches, there is increasing urgency to create plans surrounding adaptation and mitigation for especially vulnerable species. The University of British Columbia’s Botanical Garden (UBCBG) wants to understand species responses to climate change and whether species within their collection will be able to survive in the Garden, given the effects of climate change. One especially important collection UBCBG curates is maple (Acer) trees, currently leading the global consortium of Acer and housing over 50 different species. This study examined the survival probability of four Acer species UBCBG curates including: five-fingered Maple (Acer pentaphyllum Diels), considered critically endangered; paperbark/bloodbark Maple (Acer griseum (Franch.) Pax), considered endangered; bigleaf maple (Acer macrophyllum Pursh), not endangered; and vine maple (Acer circinatum Pursh), not endangered. Maxent, a popular machine-learning algorithm, was used with open-source WorldClim’s 19 bioclimatic variables and provided presence-only occurrence data to conduct species distribution models for each tree species. Each model was evaluated using area under the curve (AUC). AUC scores were considered ‘good’ for each model; A. griseum - 0.95; A. pentaphyllum - 0.877; A. macrophyllum - 0.986; A. circinatum - 0.976. However, future distribution maps contain questionable results due to insufficient field data to inform the model, such as in-field temperature, moisture, elevation, and surrounding vegetation data. Though results can be interpreted as binary regarding whether or not UBCBG will be suitable for each species, they should be taken as preliminary ideas where management plans for mitigation and adaptation can be developed. This study concludes by detailing the importance of field data collection and provides future directions for research that UBCBG may consider when conducting similar analysis."
+  ],
+  "dct_identifier_sm": [
+    "328440_73894_115983",
+    "https://doi.org/10.5683/SP3/ZVCU0N"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZVCU0N\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Climate adaptation scenarios for a resilient future at University of British Columbia Botanical Garden: Modeling 4 Species of Acer (Maple)",
+  "gbl_mdModified_dt": "2025-05-14T18:28:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "def51b3d-7d38-5bd4-8bbe-12dfd5a1e5fb",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

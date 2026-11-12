@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -110.0, 76.0, 67.5)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This record contains two-weekly minimum sea ice concentration images of the Canadian Beaufort Sea at 1.1 km resolution. The dataset originated from the Canadian Ice Service (CIS) Digital Archive weekly regional charts for the western Arctic (See “additional credit” for a link to these data), created by synthesis of remotely-sensed, ship and airborne observations (Fequet, 2005). These vector ice charts were gridded at 1.1 km resolution and aggregated into two-week composites by calculating the minimum sea-ice concentration at each grid cell over each two-week interval in each year. Week numbers were defined using the ISO 8601 convention, and sea-ice concentration isrepresented in tenths (with 0/10 corresponding to an ice-free pixel, ranging to 10/10 corresponding to 100% pixel coverage with sea-ice). The result is 12 composite images per year in 1998 through 2020 (23 years), corresponding to https://open.canada.ca/data/en/dataset/ee27e86f-7b18-4e3f-8444-0c5efb6110a4. \n\nFor further details, see Galley et al., 2022."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/35f6a2c8-cf52-4bea-9da7-610ed3aca326"
+  ],
+  "dct_issued_s": "2022-07-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/35f6a2c8-cf52-4bea-9da7-610ed3aca326\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Minimum Two-weekly Sea Ice Concentration in the Canadian Beaufort Sea (1998-2020)",
+  "gbl_mdModified_dt": "2026-05-08T08:01:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "820bc3df-a5e9-5e82-8f57-48b5c13445d0",
+  "locn_geometry": "ENVELOPE(-142.0, -110.0, 76.0, 67.5)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

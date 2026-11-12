@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 64.5, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Wastewater Systems Effluent Regulations (WSER), developed under the Fisheries Act, came into force in 2012 to manage wastewater releases by systems that collect an average daily influent volume of 100 cubic metres or more. The WSER also does not apply to any wastewater system located in the Northwest Territories, Nunavut and north of the 54th parallel in the provinces of Quebec and Newfoundland and Labrador. The WSER set national baseline effluent quality standards that are achievable through secondary wastewater treatment.   \n  \n  The WSER require owners or operators of wastewater systems with combined sewers to submit an annual report on the total volume and the number of days wastewater is discharged per month via combined sewer overflow (CSO) points as a result of precipitation.  \n  \n  The map below shows the volume of effluent (in cubic metres) discharged in a year from all CSO points situated within the collection area of a wastewater system.  For the most part, the volumes provided to ECCC are estimates.  \n  \n  Please note, a value of “999999999” in the dataset indicates that the volume data is unavailable and it does not mean that a volume of 999,999,999 m3 was released within the collection area of a wastewater system.  \n  \n  The map is available in both ESRI REST (to use with ARC GIS) and WMS (open source) formats. For more information about the individual reporting wastewater systems, datasets are available in either CSV or XLS formats.  \n  \n  Data from Quebec  \n  \n  As of 2018, no combined sewer overflow volumes from Quebec municipalities are available since an equivalency agreement is now in effect.  \n  \n  More information on the wastewater sector including the regulations, agreements, contacts and resource documents is available at: https://www.canada.ca/wastewater"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f182f1f8-9c9b-49e5-8702-9dd37093a768"
+  ],
+  "dct_issued_s": "2022-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f182f1f8-9c9b-49e5-8702-9dd37093a768\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Combined Sewer Overflow volumes from wastewater systems subject to the Wastewater Systems Effluent Regulations",
+  "gbl_mdModified_dt": "2024-02-15T19:11:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b8c74d15-4f44-542c-9ef9-f0f1fe4600dd",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 64.5, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

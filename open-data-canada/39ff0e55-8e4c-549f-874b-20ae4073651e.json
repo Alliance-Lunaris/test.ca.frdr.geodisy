@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-111.4504, -100.3016, 59.6806, 48.892)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "road network",
+    "Transportation",
+    "Highway",
+    "Infrastructure",
+    "Government information",
+    "infrastructure",
+    "Road Network",
+    "highway"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "RESPONSABLE DE L'AUTOROUTE"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "HIGHWAY_OFFICIAL provides the LRS based geospatial information of Provincial and National Highways System in Saskatchewan. It is one of the base layer used to create \"Roadseg\" layer for Saskatchewan Upgraded Road Network (SURN) and National Road Network (NRN). This data layer has been created for mainly MHI data users, that require relatively up-to-date and accurate description of all Highways in the Province of Saskatchewan.  \n  \n  HIGHWAY_OFFICIAL consists of provincial and national highways system in Saskatchewan maintained by the Saskatchewan Ministry of Highways and Infrastructure (MHI). This data layer is based on the Linear Reference System (LRS) concepts. KM_FROM and KM_TO fields store the start point and the end point at Kilometer information of the line segment. Unique Identifiers (RoadName & NID) are associated with each line segment. The \"RoadName\" field carry the unique highway name for each line segment in a control section. \"NID\" National Identifier is used to manage the updates between data producer and data users. HIGHWAY_OFFICIAL data layer serves as a foundation for SURN, NRN, SASK911, CAR, SGI-iHaul and other applications.",
+    "HIGHWAY_OFFICIAL fournit des informations géospatiales basées sur le LRS sur le réseau routier provincial et national de la Saskatchewan. Il s'agit de l'une des couches de base utilisées pour créer la couche « Roadseg » pour le réseau routier amélioré de la Saskatchewan (SURN) et le réseau routier national (NRN). Cette couche de données a été créée principalement pour les utilisateurs de données MHI, qui ont besoin d'une description relativement à jour et précise de toutes les autoroutes de la province de la Saskatchewan.  \n  \n  HIGHWAY_OFFICIAL comprend le réseau routier provincial et national de la Saskatchewan entretenu par le ministère des Autoroutes et des Infrastructures de la Saskatchewan (MHI). Cette couche de données est basée sur les concepts du système de référence linéaire (LRS). Les champs KM_FROM et KM_TO stockent le point de départ et le point final des informations kilométriques du segment de ligne. Des identificateurs uniques (RoadName et NID) sont associés à chaque segment de ligne. Le champ « RoadName » contient le nom d'autoroute unique pour chaque segment de ligne d'une section de contrôle. L'identifiant national « NID » est utilisé pour gérer les mises à jour entre le producteur de données et les utilisateurs des données. La couche de données HIGHWAY_OFFICIAL sert de base aux applications SURN, NRN, SASK911, CAR, SGI-iHaul et autres.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/988a8b95-fa49-adc8-bbe7-6e69bb26099c"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/988a8b95-fa49-adc8-bbe7-6e69bb26099c\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "transport"
+  ],
+  "dct_title_s": "HIGHWAY OFFICIAL",
+  "gbl_mdModified_dt": "2025-10-15T12:17:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "39ff0e55-8e4c-549f-874b-20ae4073651e",
+  "locn_geometry": "ENVELOPE(-111.4504, -100.3016, 59.6806, 48.892)",
+  "schema_provider_s": "Open Data Canada"
+}

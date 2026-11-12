@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "Federal Housing Needs Assessment Template",
+    "Housing Needs Assessment",
+    "Housing, Infrastructure and Communities Canada",
+    "HNA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Housing Assessment Resource Tools (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p>\n<em>Note:</em> April 22, 2025: Updates to \"CHN by income and HH size_v3\".\n</p>\n---------------------------------------------------------------------------------------------------------------------------------\n\n<p>\n<em>Note:</em> April 16, 2025: Updates to the following files have been made on April 9th and 16th:  \"CHN by income and HH size_v2\",  \"cd_hh_projections_v2\", \"csd_hh_projections_v2\", and \"CMAs_all data_v3\".\n</p>\n---------------------------------------------------------------------------------------------------------------------------------\n\n<p>\n<em>Note:</em> March 31, 2025 files \"Data_Element_1a\" & \"...1b\" updated to v3 to include additional geographies (CDs and PTs) in the calculation of households close to rail transit.\n</p>\n---------------------------------------------------------------------------------------------------------------------------------\n<p>\n<em>Note:</em> This dataset as of March 31st, 2025 now contains data on all 12 data elements, including core housing need among \"gender diverse\" households (formerly called \"2SLGBTQ+\" households) in table \"Data_Element_ 3\". </p>\n\n<p> That table (i.e. Data_Element_3) now also includes core housing need data on those priority populations reported in HART's HNA Tool. Two other outputs were migrated from that HNA Tool into this Federal HNA Template dataset: </br>\n<ul>\n<li>Income Categories and Affordable Shelter Costs, Percentage of Households in Core Housing Need by Income Category and Household Size, and 2021 Affordable Housing Deficit. (HICC Section 3.6), and </li>\n<li>Projected Households by Household Size and Income Category (HICC Section 6.1.1)</li>\n</ul>\n</p>\n<p>\nThis Borealis dataset has been updated accordingly to include that data:\n<ul> \n<li>\"AMHI.csv\" (2021 AMHI and dollar ranges of income and shelter cost categories)</li>\n<li>\"cd_hh_projections.csv\" (Projected households in 2031 for CDs)</li>\n<li>\"csd_hh_projections.csv\" (Projected households in 2031 for CSDs)</li>\n<li>\"CHN by income and HH size.csv\" (2021 core housing need by income and household size)</li>\n</ul>\n\n<p>\nThe geographical scope of the dataset has also been expanded. Before March 31st, only CSDs were included. As of March 31st, data on CDs, provinces/territories, the country of Canada, and CMA/CAs has been added. Not all data is available for all geographies: </br>\n<ul>\n<li>Data from CMHC's Rental Market Survey and Starts and Completions Survey are reported at the CSD level within CMAs/CAs. Results for provinces/territories/Canada are reported, but data for CDs is not. Since these surveys may not include all CSDs within a given CD, we have not attempted to aggregate this CSD data into CDs. </li>\n<li>Data from any custom census order by HART does not include CMA/CAs. We are able to aggregate the data by CSD into CMA/CAs, but all income and shelter cost data had been categorized based on the AMHI of the CSD as part of the original order (i.e. whether a household is \"Very Low\" income or \"Low\" income depends on the median household income of the CSD that the household lives in). This will lead to some inaccuracy and ambiguity of interpretation for the income or shelter cost data reported for CMAs. </li>\n<li>Data on \"gender diverse\" households is only available from Statistics Canada for geographies with a population count greater than 50,000 as of the 2021 census. This represents a total of 239 geographies (incl. Canada and the provinces/territories). Due to the low number of CSDs with this data, we have not attempted to aggregated this to the CMA/CA level. </li>\n</ul>\n</p>\n<p>\nData for CMAs/CAs will be added to the tool by mid-April 2025, but the source data has been summarized and included in this dataset: </br>\n<ul>\n<li>\"CMAs_all data.csv\" (All available data for CMAs and CAs)</li>\n</ul>\n</p>\n---------------------------------------------------------------------------------------------------------------------------------\n\n<p>\n<em>Update (March 14, 2025):</em> Tables \"Data_Element_1a\" and \"...1b\" have been updated to exclude some non-rail rapid transit stops that were erroneous included, notably in Winnipeg.\n</p>\n\n---------------------------------------------------------------------------------------------------------------------------------\n\n<p> For more information, please visit HART.ubc.ca. </p>\n\n<p>\n<h3>Housing Assessment Resource Tools (HART)</h3>\n</p>\n\n<p>\nThis database was created to accompany the dashboard on HART's website called the \"Federal Housing Needs Assessment Template.\" URL: https://hart.ubc.ca/federal-hna-template/.\n</p>\n\n<p>\nThis dashboard presents housing-related data to help communities complete the Housing Needs Assessment template requested by the Government of Canada as a requirement for certain funding applications. For more information on that template, please visit the Government of Canada's website (https://housing-infrastructure.canada.ca/housing-logement/hna-ebml/template-modele-eng.html).\n</p>\n\n<p>\nThis dataset represents the underlying data used to populate HART's dashboard. The data contains some public and custom data from Canada's Census of Population (author: Statistics Canada), public data from the Canada Mortgage and Housing Corporation (CMHC) regarding it's Rental Market Survey as well as it's Starts and Completions Survey, private data from the Co-operative Housing Federation of Canada, and data created by Licker Geospatial Consulting Co. specifically for this dashboard. Due to the variety of sources, the dataset is not complete for every CSD.\n</p>\n\n<p>\nThe full list of data elements, their sources, and any methodological considerations can be found in the attached file \"Federal-HNA-Template-Methodology.pdf\".\n</p>\n\n<p>\nThe other attached files have been named to correspond with the Data Elements listed in the methodology document on page 2. Each file contains data on all available geographies. Some files will have a letter after he number (i.e. \"1a\" and \"1b\") if there was more than one data table associated with a given data element. Some data will not be available until March 14, 2025, namely elements 3, 5, and 11. \n</p>\n\n<p>\nData Elements:\n</p>\n<ol>\n<li>Counts and percentages of households within 800m and 200m of rail/light-rail transit station (applies only to municipalities with 2021 population of 30,000+, excluding BC and Quebec) (HICC Section 3.1.1)</li>\n<li>Changes to headship rates 2016-2021 & Household Suppression by age of Primary household maintainer following the Province of British Columbia’s HNR methodology (HICC Section 3.3)</li>\n<li><em>(Part 2, March 14)</em> Provide priority groups by core housing need status (Youth age 18-29, 2SLGBTQ+, People dealing with mental health and addictions issues, Veterans) (HICC Section 4.1)</li>\n<li>Number of secondary rental units (HICC Section 5.2.1)</li>\n<li><em>(Part 2, March 14)</em> The number of affordable units for low and very low-income households built, and the number lost (HICC Section 5.3)</li>\n<li>Change in Average rents (HICC Section 5.4)</li>\n<li>Change in Vacancy rates (HICC Section 5.5)</li>\n<li>Changes in core housing need over time in both tenant and owner-occupied households (HICC Section 5.6)</li>\n<li>Number of housing units that are subsidized (HICC Section 5.7.1)</li>\n<li>Number of housing units that are below market rent in the private market (HICC Section 5.7.1)</li>\n<li><em>(Part 2, March 14th)</em> Number of co-operative housing units (HICC Section 5.7.1)</li>\n<li>Housing starts by structural type and tenure (HICC Section 5.9.2)</li>\n</ol>\n\n<p>\nEach \"Data_Element_#\" file has the geography indicated as a geocode of a certain length. Provinces and territories have 2 digits (e.g. 10), census divisions have 4 digits (e.g. 1011), census subdivisions have 7 digits (e.g. 1011001), and census metropolitan areas and census agglomerations have a 3 digit geocode (e.g. 001). This geocode is drawn from the latest edition of Statistics Canada's Standard Geographical Classification (SCG) which provides standard names and codes for the geographical regions of Canada. \n</p>\n\n<p>\nEach geocode may have multiple rows of data associated with it. For example, in the file <em>Data_Element_6</em> each geography has three rows:\n\n<ol>\n<li>% Change in Avg Rent, </li>\n<li>Avg Monthly Rent, and </li>\n<li>Change in Avg Rent. </li>\n</ol>\n</p>\n\n<p>\n(2025)\n</p>"
+  ],
+  "dct_identifier_sm": [
+    "878627_73885",
+    "https://doi.org/10.5683/SP3/NFGVT5"
+  ],
+  "dct_issued_s": "2025-02-14",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NFGVT5\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Newfoundland and Labrador, Canada",
+    "Prince Edward Island, Canada",
+    "Nova Scotia, Canada",
+    "New Brunswick, Canada",
+    "Quebec, Canada",
+    "Ontario, Canada",
+    "Manitoba, Canada",
+    "Saskatchewan, Canada",
+    "Alberta, Canada",
+    "British Columbia, Canada",
+    "Yukon, Canada",
+    "Northwest Territories, Canada",
+    "Nunavut, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "HART - Federal Housing Needs Assessment Template Database - Canada, all provinces and territories, at the Census Subdivision (CSD), Census Division (CD), and Census Metropolitan Area/Census Agglomeration (CMA/CA) level",
+  "gbl_mdModified_dt": "2025-04-22T19:13:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9b6fb368-4745-5bac-a197-b7f9d1a8109c",
+  "pcdm_memberOf_sm": [
+    "Housing Research Collaborative"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to make it possible to locate civil security events recorded by the Operations Directorate of the Ministry of Homeland Security. It brings together in a structured way operational information related to completed claims that have had an impact on citizens, goods or services to the population since June 2020. Ongoing events are not shown.\n\nIt contains information concerning the date of reporting, the hazard, the municipality and the severity of the event.\n\nAttention:\n\nThe wording of the hazards was changed in 2026 (see list in the additional information).\n\nThe severity level changed in meaning in January 2026:\n\n* __Overview__ (formerly Unknown):\n\nNegligible or Surveillance, no disturbances. The minimum severity “On surveillance” isolates events under surveillance or in forecasting (as opposed to events with real impacts, i.e. where interventions and consequences materialize).\n\nThese events are separated into a layer called __Potential civil security events__. \n\nThe __Civil Security Events__ layer, on the other hand, excludes “On Watch” severity events. \n\n* __Minor__: Normal functioning of the community despite some minor disturbances, not requiring or \n\nrequiring limited mobilization of local resources, localized impacts, rapid recovery.\n\n* __Moderate__: Disruptions in community functioning requiring significant mobilization of local resources or existing agreements. Degradation or partial interruption of certain services and sectors of activity, specific media issue, several sectors affected.\n\n* __Significant__: Significant and long-lasting disruption to community functioning. Mobilization of external resources required for certain issues. Interruption or significant deterioration of the majority of services.\n\n* __Extreme__: Situation in which the community cannot function without significant external resource support, massive evacuation, considerable losses.\n\nFor points BEFORE 2026: the severity used is defined according to the Canadian Common Alert Protocol Profile (PC-PAC). It is used to characterize the severity level of an event based on the harm to the lives of people or damage to property. For more information on the PC-PAC, consult the Public Safety Canada website.\n\n* Extreme: extraordinary threat to life or property;\n\n \n\n* Important: significant threat to life or property; \n\n* Moderate: possible threat to life or property; \n\n* Minor: low or non-existent threat to life or property; \n\n* On monitoring/Unknown: severity unknown.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae"
+  ],
+  "dct_issued_s": "2020-11-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Civil security events",
+  "gbl_mdModified_dt": "2026-10-07T17:32:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f7c19d80-e5b9-54e9-b458-843fda039bc7",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

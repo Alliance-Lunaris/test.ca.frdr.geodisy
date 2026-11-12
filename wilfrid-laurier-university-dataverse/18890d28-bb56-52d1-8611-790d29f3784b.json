@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.459, -119.247, 69.72005, 59.46174)",
+  "dcat_keyword_sm": [
+    "Climate change",
+    "Remote Sensing",
+    "Browning",
+    "Greening",
+    "Active layer",
+    "Arctic-Boreal",
+    "Permafrost",
+    "Landsat",
+    "Normalized difference vegetation index (NDVI)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ogden, Emily (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-4151-1742",
+    "Cumming, Steven G. (Université Laval, Laval University). ORCID: https://orcid.org/0000-0002-7862-2913",
+    "Smith, Sharon L. (Geological Survey of Canada).",
+    "Turetsky, Merritt (University of Colorado Boulder). ORCID: https://orcid.org/0000-0003-0155-8666",
+    "Baltzer, Jennifer L. (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0001-7476-5928"
+  ],
+  "dct_description_sm": [
+    "This dataset contains active layer thickness and normalized difference vegetation index (NDVI) data for 135 permafrost monitoring sites located across a 10° latitudinal transect of the Northwest Territories, Canada. Included are two .csv files that contain the yearly active layer thickness and NDVI values for each site and the rate of change through time for both of those variables at each site. The rates of change were divided into early and late time periods (Early, 1984 to 2000; Late, 2001 to 2019). Additional site characteristics and climatic variables are included in the data files. Active layer thickness data was derived from ground thermal and thaw tube data that was collected by the Geological Survey of Canada across the network of permafrost monitoring sites. An R script outlining the statistical analyses for the publication “Permafrost thaw induces short term increase in vegetation productivity in the northwestern Arctic-Boreal” is included, as well as a text file which includes the code used to calculate NDVI from a collection of Landsat images processed in Google Earth Engine."
+  ],
+  "dct_identifier_sm": [
+    "419846_137",
+    "https://doi.org/10.5683/SP3/NCC40W"
+  ],
+  "dct_issued_s": "2023-06-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NCC40W\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada",
+    "Alberta, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: Permafrost thaw induces short term increase in vegetation productivity in northwestern Canada",
+  "gbl_mdModified_dt": "2023-06-20T18:35:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "18890d28-bb56-52d1-8611-790d29f3784b",
+  "locn_geometry": "ENVELOPE(-134.459, -119.247, 69.72005, 59.46174)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

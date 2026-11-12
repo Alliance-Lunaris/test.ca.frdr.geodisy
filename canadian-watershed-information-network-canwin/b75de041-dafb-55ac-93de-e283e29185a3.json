@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-129.371584, -99.691072, 60.105552, 48.350446)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Alberta Satellite Land Cover (ASLC) raster is produced for Government of Alberta and is available to the general public. The ASLC Mosaic is a land cover dataset for the province of Alberta. It is a set of individual projects completed in the last decade for wildfire historical burns and various areas. As the remote sensing technology and related information extraction approaches have made significant advancements during last 20 years the process naturally evolved from classification schema targeting Landsat 5 to one integrating various sources of remote sensing data, information extraction procedures, different open and commercial toolboxes for processing and more automation. Integration of multiple data types includes various optical and radar data free of charge as well as GOA's purchased LiDAR data swaths. Since raster values in products from individual projects are identical with values of initial Alberta Ground Cover Classification product, it was possible to merge all those into new ASLC raster."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c0511ea4-bee5-40f6-ab4d-59de37bbbe66"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c0511ea4-bee5-40f6-ab4d-59de37bbbe66\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Alberta Satellite Land Cover",
+  "gbl_mdModified_dt": "2026-03-04T16:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b75de041-dafb-55ac-93de-e283e29185a3",
+  "locn_geometry": "ENVELOPE(-129.371584, -99.691072, 60.105552, 48.350446)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

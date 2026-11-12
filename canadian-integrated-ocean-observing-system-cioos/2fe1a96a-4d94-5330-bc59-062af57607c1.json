@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.4705, -68.4704, 48.5181, 48.518)",
+  "dcat_keyword_sm": [
+    "inorganicCarbon",
+    "Oceans",
+    "physical-chemical",
+    "pH",
+    "Mesure haute fréquence",
+    "seaSurfaceHeight",
+    "Aragonite",
+    "zone côtière",
+    "Carbone inorganique",
+    "seaSurfaceTemperature",
+    "pH",
+    "Salinité de surface",
+    "seaSurfaceSalinity",
+    "coastal zone",
+    "Température de surface",
+    "physico-chimie",
+    "Carbonate system parameters",
+    "Niveau de l'eau",
+    "High frequency measurement",
+    "Paramètres du système des carbonates",
+    "Aragonite"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Paramètres physico-chimiques et chimie des carbonates dans la zone côtière peu profonde de Pointe-au-Père (Estuaire du Saint-Laurent)"
+  ],
+  "dct_creator_sm": [
+    "Vega-Sequeda, Johanna (Rimouski Marine Sciences Institute).",
+    "Chaillou, Gwenaelle (ISMER, Rimouski Marine Sciences Institute, Université du Québec à Rimouski, Institut des sciences de la mer).",
+    "Noisette, Fanny (Université du Québec à Rimouski, Rimouski Marine Sciences Institute, ISMER, Institut des sciences de la mer)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains all physico-chemical parameters measured during the ice-free months in 2023 and 2024 in the shallow coastal waters of Pointe-au-Père, located in the Lower St. Lawrence Estuary. During these periods, high-frequency measurements were taken every 15 minutes using autonomous data loggers (HOBO) attached to a mooring to monitor pH and other physicochemical parameters. This structure was deployed in the subtidal zone, near rocks covered by crustose coralline algae and kelp, located less than 50 m from the shore, with up to 6 m of water column depending on the tide. \n\nTo mitigate biofouling, divers cleaned all sensors every 1-2 weeks by gently brushing them underwater. Note that in 2024, there is a gap from May 15th to 21st, following a partial burial after an important sediment resuspension event. In addition to continuous monitoring, discrete water samples were collected just above the mooring, every 1-2 weeks to measure total alkalinity, dissolved inorganic carbon and pH. Calibration and processing of certain data measured by the HOBO sensors were performed:  \n\n- Voltage (*mV*) measurements from the pH HOBO were converted to total scale (pHT) using a multi-step calibration with TRIS buffer solutions. \n- Light data from the HOBO sensor (*lux*) were converted to Photosynthetic Active Radiation (PAR; *μmol photons m⁻² s⁻¹*) using a linear calibration against a miniPAR sensor. \n- Water level was calculated from the absolute pressure (*kPa*) of the HOBO and corrected for the atmospheric pressure of the Pointe-au-Père meteorological station.\n\nThe data are divided into two databases. The first contains all **high-frequency measurements**, taken every 15 minutes:  \n\n- pH (*mV*)\n- pH (total scale)\n- Temperature (*°C*)\n- Practical salinity\n- Light (*lux*)\n- Light (PAR; *μmol photons m⁻² s⁻¹*)\n- Absolute pressure (*kPa*)\n- Water level (*m*)\n- Aragonite saturation state (omega aragonite; calculated)\n- Omega calcite (calculated)\n\nThe second database contains the data of the **discrete samples**:  \n\n- pH (total scale) measured by spectrophotometer at 25°C.\n- Total alkalinity (*µmol/kg*) measured by potentiometric titration.\n- Dissolved inorganic carbon (*µmol/kg*) measured by a DIC analyzer.",
+    "Cet ensemble de données contient tous les paramètres physico-chimiques mesurés pendant les mois sans glace en 2023 et 2024 dans les eaux côtières peu profondes de Pointe-au-Père, située dans l’estuaire maritime du Saint-Laurent. Durant ces périodes, des mesures à haute fréquence ont été prises toutes les 15 minutes à l’aide d’enregistreurs de données autonomes (HOBO) fixés à un mouillage pour surveiller le pH et d'autres paramètres physicochimiques. Cette structure a été déployée dans la zone subtidale, près de rochers recouverts d'algues corallines encroûtantes et de laminaires, situés à moins de 50 m du rivage, jusqu'à 6 m de profondeur selon la marée.\n \nPour atténuer le biofouling, des plongeurs ont nettoyé tous les capteurs toutes les 1 à 2 semaines en les brossant délicatement sous l'eau. Notez qu'en 2024, les données sont incomplètes du 15 au 21 mai, suite à un enfouissement partiel après un événement important de remise en suspension des sédiments. En plus de la surveillance continue, des échantillons d'eau discrets ont été prélevés juste au-dessus du mouillage, toutes les 1 à 2 semaines, pour mesurer l'alcalinité totale, le carbone inorganique dissous et le pH. L'étalonnage et le traitement de certaines données mesurées par les capteurs Hobo ont été effectués :  \n\n- Les mesures de tension (*mV*) du pH HOBO ont été converties en échelle totale (pHT) à l'aide d'un étalonnage en plusieurs étapes, en utilisant des solutions tampons TRIS. \n- Les données de luminosité du capteur HOBO (*lux*) ont été converties en rayonnement photosynthétiquement actif (PAR; *μmol photons m⁻² s⁻¹*) à l'aide d'un étalonnage linéaire par rapport à un capteur miniPAR.\n- Le niveau de l'eau a été calculé à partir de la pression absolue (*kPa*) du HOBO et corrigé de la pression atmosphérique de la station météorologique de Pointe-au-Père.\n\nLes données sont divisées en deux bases de données. La première contient toutes les **mesures à haute fréquence**, prises toutes les 15 minutes :  \n\n- pH (*mV*)\n- pH (échelle totale)\n- Température (*°C*)\n- Salinité pratique\n- Lumière (*lux*)\n- Lumière (PAR; *μmol photons m⁻² s⁻¹*)\n- Pression absolue (*kPa*)\n- Niveau de l'eau (*m*)\n- État de saturation de l’aragonite (oméga aragonite, calculé)\n- Oméga calcite (calculé)\n\nLa deuxième contient les données des **mesures discrètes** :  \n\n- pH (échelle totale) mesuré par spectrophotomètre à 25 °C.\n- Alcalinité totale (*µmol/Kg*) mesurée par titrage potentiométrique.\n- Carbone inorganique dissous (*µmol/Kg*) mesuré par un analyseur DIC."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/353700fe-962d-4684-9be4-2de9c565d25f"
+  ],
+  "dct_issued_s": "2023-07-03",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/353700fe-962d-4684-9be4-2de9c565d25f\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Physico-Chemical and Carbonate Chemistry Parameters in the Shallow Coastal Zone of Pointe-au-Père (St. Lawrence Estuary)",
+  "gbl_mdModified_dt": "2026-07-31T16:34:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2fe1a96a-4d94-5330-bc59-062af57607c1",
+  "locn_geometry": "ENVELOPE(-68.4705, -68.4704, 48.5181, 48.518)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

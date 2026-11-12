@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "dcat_keyword_sm": [
+    "Ensemble Forecast",
+    "Government information",
+    "Province of Manitoba",
+    "Weather Models",
+    "GEPS",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées prévues par le GEPS - 384 heures"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays ensemble-based, medium-range precipitation forecasts from the Global Ensemble Prediction System (GEPS), offering a probabilistic view of future rainfall or snowfall over a 16‑day horizon. It aids in uncertainty analysis, risk assessment, and strategic resource planning.  \n  \n  Ensemble Approach: GEPS runs multiple perturbed members of ECCC’s GEM model, capturing a range of atmospheric evolutions and yielding probability distributions for precipitation. Global Domain: Similar coverage to the GDPS but focuses on ensemble mean, spreads, and probabilities rather than a single deterministic outcome. Longer-Range Outlook: Extends up to 16 days, supporting risk-based planning for potential floods, extended rainfall events, or dryness. Data Utility: Allows decision-makers to weigh confidence levels in precipitation scenarios, vital for water management, agriculture, and emergency contingency strategies.",
+    "Cette couche polygonale affiche des prévisions de précipitations à moyen terme basées sur un ensemble provenant du Global Ensemble Prediction System (GEPS), offrant une vue probabiliste des précipitations ou des chutes de neige futures sur un horizon de 16 jours. Il facilite l'analyse des incertitudes, l'évaluation des risques et la planification stratégique des ressources.  \n  \n  Approche d'ensemble : Le GEPS utilise plusieurs membres perturbés du modèle GEM d'ECCC, capturant une gamme d'évolutions atmosphériques et produisant des distributions de probabilité pour les précipitations. Domaine mondial : couverture similaire à celle du PIB, mais se concentre sur la moyenne d'ensemble, les écarts et les probabilités plutôt que sur un seul résultat déterministe. Perspectives à plus long terme : s'étend jusqu'à 16 jours, ce qui permet de planifier en fonction des risques en cas d'inondations potentielles, de périodes de pluie prolongées ou de sécheresse. Utilité des données : permet aux décideurs d'évaluer les niveaux de confiance dans les scénarios de précipitations, essentiels pour la gestion de l'eau, l'agriculture et les stratégies d'urgence.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/548e5050-8818-d98a-4415-4a8af270399f"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/548e5050-8818-d98a-4415-4a8af270399f\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "GEPS Forecasted Accumulated Precipitation - 384 hrs",
+  "gbl_mdModified_dt": "2025-10-15T12:17:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "05ad8361-4d99-5055-918e-7eddc6dde3db",
+  "locn_geometry": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

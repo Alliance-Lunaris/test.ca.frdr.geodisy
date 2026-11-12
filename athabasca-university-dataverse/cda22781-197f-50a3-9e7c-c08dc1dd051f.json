@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Open Educational Resources",
+    "Environmental and sustainability education",
+    "British Columbia",
+    "K-12 curriculum",
+    "Document analysis",
+    "Climate Education",
+    "Environmental literacy"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Grady, Emily (Athabasca University)."
+  ],
+  "dct_description_sm": [
+    "Gemini Gem was used as a artificial intelligence (AI) research assistant to run targeted; one-by-one queries of website and PDF information for each data point (OER). The initial analysis using AI determined subject, main topic(s), grade level(s), resource type (lesson or unit plan) and alignment within the four areas of BC curriculum (Core Competencies, Learning Standards, Big Ideas, and First Peoples Principles of Knowing). The outputs for the four areas of BC Curriculum were 96% accurate based on manual verification of 13% of the data. Data was manually entered for OER: Title, persistent identifier_URL, Lesson Plan hyperlink, creator, repository, license type, license URL, and date created/updated.",
+    "The purpose of this dataset is to evaluate and map alignment of various environmental education Open Educational Resources (OER) to the British Columbia (BC) provincial curriculum framework, specifically targeting Grades 5 through 7. Resources identified in this dataset have been uploaded to the <a href=\"https://oercommons.org/curated-collections/1953\">OER Commons: Climate Hub (BC Collection)</a> to serve as a curated list of resources for educators, curriculum developers, and researchers. <br><br>\n\nThe dataset consists of structured, tabular data (provided in csv format) detailing curriculum analysis of 166 distinct educational resources, including lesson and unit plans. For each resource, the dataset captures:\n<ul>\n<li>OER title, subject area, main topics, grade level suitability, resource type, license type, and access URLs.</li>\n<li>yes/no evaluations mapping the resource to the four pillars of BC curriculum: Core/Sub-Core Competencies, Big Ideas, Learning Standards, and First People Principles of Learning.</li>\n</ul>\nThe OERs analyzed to create the tabular data are included in a zipped folder."
+  ],
+  "dct_identifier_sm": [
+    "1156045",
+    "https://doi.org/10.5683/SP3/DJPEAC"
+  ],
+  "dct_issued_s": "2026-05-07",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/DJPEAC\"}",
+  "dct_rights_sm": [
+    "This dataset contains items with different licenses. CC BY 4.0 applies to the files: OER_README OER_data_raw OER_data_processed Data_Dictionary_2026-02-09 BC_Curriculum_Alignment_Checklist OER _Suitability_Criteria OER_for_Environmental_and_Sustainability_Education_Search_Parameters_and_Filters Gemini_Gem_Prompt_and_Workflow Different licences apply to the items contained within the folder: OER_PDFs_for_Analysis_OER The folder contains copies of open educational resources that each have their own licence as applied by their creators. The original licenses apply to each item within that folder. Each item is recorded in the spreadsheet OER_data_processed. The spreadsheet lists the licence applied to each item in the column License_type."
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Open Educational Resources for Grade 5 to 7 Environmental and Sustainability Education",
+  "gbl_mdModified_dt": "2026-05-07T21:20:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cda22781-197f-50a3-9e7c-c08dc1dd051f",
+  "schema_provider_s": "Athabasca University Dataverse"
+}

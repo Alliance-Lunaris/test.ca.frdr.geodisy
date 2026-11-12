@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-111.5558, -100.2259, 60.0945, 48.8909)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Wildlife Management Zone polygons are a representation of the zones as described in legislation. They are used for the management of wildlife in Saskatchewan.  \n  \n  Wildlife Management Zones (WMZ) are used for the management of wildlife, mainly game species, in the Province of Saskatchewan. Hunting activities are governed and wildlife populations (inventories) are monitored using these zones. These assigned zone boundaries help address the wildlife management issues of the day and are subject to change as wildlife populations and management practices evolve. The last revision to the WMZ boundaries was March 27, 2014. This revision moves some boundaries to readily identifiable landmarks such as numbered highways, municipal roads or water bodies for ease of public use. Descriptions are written in a manner that better allows boundaries to follow highway or provincial forest boundary updates without ammending the regulation. These boundaries are described legally in the Wildlife Management Zones and Special Areas Boundaries Regulations, 1990 (shortened to WMZSABR for dataset naming). These regulations are in force under The Wildlife Act, 1998. Copies of these documents can be found at www.qp.gov.sk.ca. This spatial feature class is the polygon representation of the zones as described in the regulation. Although these digitized boundaries are intended to be as accurate as possible, the regulations supersede this data should discrepancies occur. The polygons you see here are constructed from the lines contained in the WMZ framework feature class, which is a clause by clause representation of the legal regulation. Regulation changes to the zones, when they occur, should be digitized in the framework first, and then constructed into polygons for this feature class. This maintains consistency, accuracy and serves as a quality control process for these legally designated areas."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d24a2deb-2996-bc64-facb-d210b181df23"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d24a2deb-2996-bc64-facb-d210b181df23\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Wildlife Management Zones",
+  "gbl_mdModified_dt": "2025-05-14T12:10:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "df66b4db-ef06-5ea6-9126-5d1b725a6c37",
+  "locn_geometry": "ENVELOPE(-111.5558, -100.2259, 60.0945, 48.8909)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

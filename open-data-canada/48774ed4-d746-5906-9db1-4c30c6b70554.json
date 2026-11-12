@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.0, 21.0, 71.0, 43.0)",
+  "dcat_keyword_sm": [
+    "International cooperation Ocean floor Oceans Scientific research Surveys",
+    "Oceans",
+    "Ocean floor",
+    "Scientific research",
+    "Surveying",
+    "Coopération internationale",
+    "Arpentage",
+    "Recherche scientifique",
+    "Fond marin",
+    "Océan",
+    "Coopération internationale Fond marin Océans Recherche scientifique Levés",
+    "International cooperation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "SHC_LSSL_Galway2015 Atlantique_Nord_HFX_Tromso"
+  ],
+  "dct_creator_sm": [
+    "Serge Lévesque."
+  ],
+  "dct_description_sm": [
+    "Geographic bathymetric grid data at 100 m x 100 m pixel resolution.\n\nDatum: WGS84\n\nCollaboration of Canada, the United States of America and the European Union as part of the Atlantic Ocean Research Alliance's second project under the Galway Statement. Project mapped the North Atlantic seafloor along a transect from Halifax, Canada to Tromsø, Norway to further the understanding of marine habitats, conservation and navigation. \n\nChief Scientist / Primary Investigator name: Paola Travaglini \n\nPlatform: CCGS Louis S. St- Laurent (Canadian heavy icebreaker)\nDevice 1 type: Multibeam echo-sounder (sonar)\nDevice 1 manufacturer: Kongsberg \nDevice 1 model: EM122, hull installed behind ice protection window \n\nData and Data format:\n100 m resolution grid of bathymetry\nBAG format: Bathymetric Attributed Grid Object\n\nNavigation and positioning:\n   Trimble GNSS receiver + antennas\n   Applanix POS/MV v5 inertial measuring system\n   Horizontal Datum: WGS84 (G1762) \n\nTidal correction:\nZero tide applied: tides are not well known for the major part of the data and tides over very deep water are generally negligible. \n\nSound Velocity Profile measurements:\nIn-situ sound velocity profiles were applied.\n\nNote on accuracy/S-44 survey standards:\nConsidering the intended output from this survey (IHO Order 1a - Areas shallower than 100 metres where under-keel clearance is less critical but features of concern to surface shipping may exist.) and using an average depth of 2000m as ‘d’ in the IHO Standard Equation - the allowable Total Vertical Uncertainty (TVU) must be < 26m which indeed the data has achieved (by comparison with overlapping datasets from other surveys/agency data).\n\nIHO Order 1a\nHorizontal positioning accuracy: 5.0 m + 5% of depth (95% Confidence level)(~105 m at a mean depth of 2000 m)\nVertical positioning accuracy: 2.5 m < 26 m  = Sqrt((0.5 m)^2+(0.013 x 2000 m)^2)",
+    "Données sous forme de grille matricielle bathymétrique géographique à une résolution de 100 m x 100 m par pixel.\n\nRéférentiel géodésique: WGS84\n\nCollaboration entre le Canada,les États Unis d'Amérique et l'Union européenne en tant que participation au cinquième projet de l'Alliance pour la recherche de l'océan Atlantique en conformité avec la déclaration de Galway. Le projet a cartographié le fond marin de l'Atlantique nord le long d'un transect allant de Halifax, Canada à Tromsø, Norvège pour approfondir la compréhension des habitats marins, de leur conservation et de la navigation. \n\nNom de l'experte scientifique en chef/ Investigatrice principale: Paola Travaglini \n\nPlateforme: NGCC Louis S. St- Laurent (brise-glace lourd canadien)\nInstrument 1 type: Echo-sondeur à multi-faisceaux (sonar)\nInstrument 1 fabricant: Kongsberg \nInstrument 1 modèle: EM122, installé dans la coque derrière une fenêtre protégeant contre la glace\n   \n\nDonnées et format des données:\nGrille matricielle de la bathymétrie avec une résolution de 100 m\nFormat BAG: Objet sous forme de grille bathymétrique matricielle avec attributs \n\nNavigation et positionnement:\n   Récepteur Trimble GNSS + antennes\n   Système de mesures inertielles Applanix POS/MV v5\n   Référentiel horizontal: WGS84 (G1762)\n\nCorrection des marées:\nMarée zéro appliquée: les donnéees de marée ne sont pas bien connues pour la partie principale des levés et les marées en eaux très profondes sont généralement négligeables. \n\n\nMesure de profils de célérité:\nLes profils de célérité du son mesurés in-situ furent appliqués. \n\nNote sur l'exactitude/normes de levés S-44:\nEn considérant que les résultats envisagés pour ces levés (Ordre OHI 1a - Les régions à une profondeur de moins de 100 metres où la profondeur d'eau sous la quille est moins critique mais où des objets inquiétants pour la marine marchande peuvent exister.) et utilisant une profondeur moyenne de 2000 m identifié comme ‘d’ dans l'équation standard de l'OHI - l'incertitude verticale totale (IVT) permissible doit être &lt; 26 m ce qui a bien été atteint (en comparaison avec les ensembles de données chevauchantes provenant d'autres levés/agences).\n\nOrdre OHI 1a\nExactitude du positionnement horizontal: 5.0 m + 5% de la profondeur (intervalle de confiance à 95%)(~105 m à une profondeur moyenne de 2000 m)\nExactitude du positionnement vertical  : 2.5 m &lt; 26 m  = Sqrt((0.5 m)^2+(0.013 x 2000 m)^2)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/981a18a3-6f0d-4109-b3d2-019589fad7c6"
+  ],
+  "dct_issued_s": "2017-06-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/981a18a3-6f0d-4109-b3d2-019589fad7c6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "CHS_LSSL_Galway2015 North_Atlantic_HFX_Tromso",
+  "gbl_mdModified_dt": "2026-03-24T08:34:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "48774ed4-d746-5906-9db1-4c30c6b70554",
+  "locn_geometry": "ENVELOPE(-64.0, 21.0, 71.0, 43.0)",
+  "schema_provider_s": "Open Data Canada"
+}

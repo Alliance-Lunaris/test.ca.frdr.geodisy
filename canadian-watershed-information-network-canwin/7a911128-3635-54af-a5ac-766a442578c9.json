@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The AHCCD collection includes two types of climate datasets: homogenized and adjusted. \nThe homogenized datasets include monthly or daily surface air temperature, precipitation, and wind speed data for hundreds of climatological locations across Canada. These datasets incorporate a homogenization process, which typically uses statistical methods to detect and remove discontinuities in observed climate records caused by non-climatic influences, such as changes in measurement instruments or monitoring station relocations. In some cases, non-statistical adjustment methods are also applied to correct measured values for known biases caused by instruments or observation techniques (for example, under-catch by certain rain gauges or wind effects). Sometimes, data from multiple nearest stations are combined to extend the length of the record. Together, these methods produce consistent and more reliable Canadian homogenized station data series suitable for detecting and analyzing climate trends and variability. \nThe adjusted datasets are available for precipitation variables only (i.e., rainfall, snowfall, and total precipitation). These datasets do not undergo a homogenization process; instead, they apply corrections for known measurement biases.  \nAHCCD datasets are updated as new adjustment or homogenization methods are developed and/or to include the most recent observations. The homogenized datasets are also used to develop Canadian gridded homogenized datasets (https://catalogue.ec.gc.ca/geonetwork/srv/eng/catalog.search#/metadata/10ff2865-ff61-4f35-af71-3902da51f23a) to provide more continuous spatial representations of climate variables, including in areas where direct observations are unavailable.\nWhile homogenized data are the most suitable for studying long-term climate trends, both homogenization and adjustment procedures can introduce their own uncertainties or biases, and the results may change as methods are updated based on new research. It is important for users to carefully read the dataset documentation and understand how the data were processed to ensure their suitability for their research needs and other applications."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c4ebc00-3ea4-4fe0-8bf2-66cfe1cddd1d"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c4ebc00-3ea4-4fe0-8bf2-66cfe1cddd1d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Adjusted and Homogenized Canadian Climate Data (AHCCD)",
+  "gbl_mdModified_dt": "2026-08-04T17:31:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7a911128-3635-54af-a5ac-766a442578c9",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

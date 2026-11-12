@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -120.0, 55.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Fishing event (e.g., day, time, location, catch effort), and associated biological data from the Standardized Inlet Survey component of the annual Sablefish Research and Assessment Survey on the British Columbia coast.\n\nIntroduction\n\nDFO and the Canadian Sablefish Association undertake a collaborative fishery-independent annual research survey under a joint agreement.  The survey employs longline trap gear to obtain catch rate data, gather biological samples, capture oceanographic measurements, and collect tag release and recapture data.\n\nData summaries are provided here for standardized sets conducted at fixed stations within mainland inlets.  The design of the sablefish survey has developed over time by incorporating and discontinuing components, including individual experimental studies (not available on OpenData). This Standardized Inlet Survey component differs in methodology from the other two survey components: \n\n(1)\t Offshore stratified random survey (2003 – present; available on OpenData using link below), and\n\n(2)\t Standardized trap survey – offshore indexing and offshore tagging (1990 – 2010; not yet available on OpenData).  \n\nFor the Standardized Inlet Survey, sets are allocated to five specific polygons in each of the following four inlet areas: Portland Inlet, Gil Island, Finlayson Channel, and Dean/Burke Channel.  All four inlets were surveyed consistently between 2003 and 2019.  No inlets were surveyed in 2020, and a single inlet was surveyed each year since 2021.  Survey procedures are standardized and documented in Canadian Technical Reports of Fisheries and Aquatic sciences.\n\nData tables provided for the Standardized Inlet Survey include (i) Effort, (ii) Catch, and (iii) Biological Information.\n\nInlet Effort\n\nThis table contains information about annual survey trips and fishing events (sets).  Trip-level information includes the year the survey took place, a unique trip identifier, the vessel that conducted the survey and the trip start and end dates (the dates the vessel was away from the dock conducting the survey).  Set-level information includes the inlet name, date, time, location and depth that fishing took place, soak time, and number of traps deployed.  All successful fishing events are included, where successful sets are those that met survey design specifications.\n\nInlet Catch\n\nThis table contains the catch information from successful fishing events.  Catch is identified to species or to the lowest taxonomic level possible.  Catch is recorded as fish counts and / or weight. The unique trip identifier and set number are included so that catches can be related to the fishing event information (including capture location) for each set.\n\nInlet Biological Information\n\nThis table contains the biological data for sampled catches.  Data may include any or all of length, weight, sex, maturity and age.  Most of the sampled catch is Sablefish; however, some biological information has been collected for other species.  Age structures are collected and are archived until required for analyses; therefore, all existing structures have not been aged.  Tissue samples (usually a fin clip) may be collected for genetic (DNA) analysis for specific species.  Tissue samples may be archived until required for analysis; for more information please see the data contacts.  The unique trip identifier and set number are included so that samples can be related to the fishing event and catch information."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/016035c7-dbcd-4559-bf54-d2658d00f4c2"
+  ],
+  "dct_issued_s": "2024-03-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/016035c7-dbcd-4559-bf54-d2658d00f4c2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Sablefish Standardized Trap Survey – Mainland Inlets",
+  "gbl_mdModified_dt": "2026-08-25T13:00:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cb3d2694-da35-513a-815f-60eee47403ae",
+  "locn_geometry": "ENVELOPE(-135.0, -120.0, 55.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

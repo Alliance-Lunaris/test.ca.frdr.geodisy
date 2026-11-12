@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Muller's Ratchet",
+    "Sex",
+    "population genetics",
+    "Hill-Robertson effects",
+    "Models/Simulations"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hartfield, Matthew (University of Edinburgh, French National Centre for Scientific Research).",
+    "Otto, Sarah P. (Department of Zoology, 6270 University Blvd,, University of British Columbia).",
+    "Keightley, Peter David (University of Edinburgh)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/2z-HsIRFrCU55o8XISiU1r1DWtflD92W2I7VSq6PD0s</p>\n<p><b>Storage size:</b> 535397</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Although there is no known general explanation as to why sexual populations resist asexual invasion, previous work has shown that sexuals can outcompete asexuals in structured populations. However, it is currently unknown whether costly sex can be maintained with the weak structure that is commonly observed in nature. We investigate the conditions under which obligate sexuals resist asexual invasion in structured populations subject to recurrent mutation. We determine the level of population structure needed to disfavour asexuals, as calculated using the average Fst between all pairs of demes. We show that the critical Fst needed to maintain sex decreases as the population size increases, and approaches modest levels as observed in many natural populations. Sex is maintained with lower Fst if there are both advantageous and deleterious mutation, if mutation rates are sufficiently high, and if deleterious mutants have intermediate selective strengths, which maximises the effect of Muller's Ratchet. Additionally, the critical Fst needed to maintain sex is lower when there are a large number of subpopulations. Lower Fst values are needed to maintain sex when demes vary substantially in their pairwise distances (e.g., when arrayed along one dimension), although this effect is often modest, especially if some long-distance dispersal is present.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Simulation files as used in paper</h4><div class=\"o-metadata__file-description\">README.TXT FOR SIMULATION FILES: These files are the source code for the one-dimensional and two-dimensional population simulations used in the Hartfield et al 2012 paper \"The maintenance of obligate sex in finite, structured populations subject to recurrent beneficial and deleterious mutation\". Simulations are written in C and need to be compiled prior to execution. See blurb at start of each program for description and how to execute. Please also note that simulations use routines that are part of the GNU Scientific Library (GSL). Since GSL is distributed under the GNU General Public License(http://www.gnu.org/copyleft/gpl.html), you must download it separately from these files. Note that we have also uploaded a Mathematica file, outlining the study into obtaining confidence intervals, as described in the manuscript. Comments should be sent to Matthew Hartfield (matthew.hartfield@ird.fr)</div><div class=\"o-metadata__file-name\">Hartfield_etal_2012_sims.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153790_1226260_150149",
+    "https://doi.org/10.5683/SP2/TMQF89"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TMQF89\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The maintenance of obligate sex in finite, structured populations subject to recurrent beneficial and deleterious mutation",
+  "gbl_mdModified_dt": "2021-05-19T20:31:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5b57f0e9-2a0c-5067-ac1c-831be12f9636",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

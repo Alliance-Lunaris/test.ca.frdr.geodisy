@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The annual Landsat mosaics offer a unique portrait of the whole of Quebec. They make it possible to analyze environmental and territorial changes over more than 40 years, in particular the evolution of natural environments, urban sprawl, agricultural and forestry activities, the transformations of protected areas as well as the modifications of water networks, such as reservoirs and dams.\n\n## #Principales characteristics of mosaics###\n\n* 30m resolution\n\n* GeoTIFF format\n\n* Images acquired between July and August \n\n* Time series covering 1984 to the present \n\n* Production based on the selection of the best optical quality pixel\n\n* Designed to provide a consistent representation from year to year\n\nThese mosaics are produced in collaboration with the Laurentian Forestry Center of the Canadian Forest Service (CFS). The SCF produces the mosaics and the Directorate-General for Geospatial Information of the Ministry of Natural Resources and Forests prepares them for dissemination.\n\nThe main components are as follows:\n\n### #Images GeoTIFF by spectral bands####\n\n* Unenhanced mosaics available by spectral bands in 16-bit GeoTIFF format \n\n(ex.: SR_L5789_HARM_BP_2013_B1_gapfill_mrnf_masked.tif). Each mosaic includes bands 1 (Blue), 2 (green), 2 (green), 3 (red), 3 (red), 4 (near infrared), 5 (medium infrared) and 7 (medium infrared);\n\n* Matrix showing the year of the images where the highest quality pixels were extracted \n\n(ex.: SR_L5789_HARM_BP_2013_year_gapfill_mrnf_masked.tif);\n\n* Matrix showing the Julian days of the highest quality pixels extracted. Julian days start on January 1, 1970, hence the JJ70 label (e.g.: SR_L5789_HARM_BP_2013_JJ70_gapfill_mrnf_masked.tif). They make it possible to find the exact date when the pixels were captured in each mosaic;\n\n* Matrix showing which Landsat satellite corresponds to each higher-quality pixel extracted \n\n(ex.: SR_L5789_HARM_BP_2013_sensor_gapfill_mrnf_masked.tif).\n\n### #Images enhanced mosaics####\n\nGeoTIFF mosaics bringing together the six spectral bands enhanced by Contrast Limited Adaptive Histogram Equalization (CLAHE) for each year (e.g.: Mosaique_Landsat_2013_CLAHE.tif).\n\n \n\nNotes to the user: \n\n1. Some artifacts may be present where no Landsat images acquired during the same year were free of clouds, airveils, or shadows. \n\n2. Mosaics from 1984 to 1989 include certain areas where there is no data due to limited acquisition capacity. The number of Landsat satellites in orbit at that time was not sufficient to ensure complete imaging coverage during the months of July and August.\n\n3. Use of images: This is not a requirement, but the following source citation may be used in publications or presentation materials to recognize the United States Geological Survey. \n\nLandsat Collection 2 Surface Reflectance (SR) courtesy of the U.S. Geological Survey.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/84540326-ac97-4ce7-83e2-3ec0eb753693"
+  ],
+  "dct_issued_s": "2026-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/84540326-ac97-4ce7-83e2-3ec0eb753693\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Quebec Landsat annual mosaics",
+  "gbl_mdModified_dt": "2026-10-07T17:37:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "18f5f0eb-a3e7-5514-a915-c3d5c14bf03f",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

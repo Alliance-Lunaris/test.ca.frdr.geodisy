@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.762002, -94.893898, 53.911484, 48.940626)",
+  "dcat_keyword_sm": [
+    "Canada",
+    "Planning",
+    "Government",
+    "Zoning",
+    "Province of Manitoba",
+    "Municipality",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>This dataset is comprised of boundary geometry representing the zones in the Zoning bylaws (as defined in <em>The Planning Act</em>) in force and effect within the Province of Manitoba.</p> <p>Spatial referencing of the zones is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each zone. Dataset content is subject to:</p> <ol> <li>Ongoing changes in zone boundaries which are determined by amendments to adopted Zoning bylaws or the adoption of new Zoning bylaws.</li> <li>Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the zone polygons.</li> </ol> <p>As of the publication date of this dataset, the following known issues remain:</p> <ol> <li>For zone boundaries that include water boundaries, the water boundary that best reflects the intended zone boundary was used.</li> <li>In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities.</li> </ol> <p>Please visit the Manitoba Municipal Relations website for more information at <a href='http://www.gov.mb.ca/mr'>www.gov.mb.ca/mr</a>.</p> <p>The Zoning bylaw data reflects the most current zones at the time of export and was uploaded to Manitoba Maps as a feature layer.</p><br /> <p><u>Fields Included: </u></p> <p>OBJECTID: Sequential unique whole numbers that are automatically generated <br /> ZBL: Number assigned by municipality to identify a specific bylaw<br /> ZBL_A: Number assigned to a bylaw that amends an existing zoning bylaw<br /> MUNI_NO: Manitoba municipality identifier number<br /> MUNI_NAME: Name of municipality<br /> ZONE: Letter code that corresponds with Zone Name as stating in the zoning bylaw<br /> ZONE_NAME: Name of Zone as stated in bylaw<br /> ZONE_CATEGORY: Zone category as interpreted by Municipal Relations<br /> AREA: Area of each polygon expressed in acres<br /> PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office<br /> PLANNINGDISTRICT: Name of the Planning District to which the municipality belongs if applicable<br /> MUNI_NAME_2014: Name of municipality before 2015 Amalgamations<br /> MUNI_NO_2014: Manitoba municipality identifier number before 2015 Amalgamations<br /> AMENDMENT_DESCRIPTION: Summary of change by the amending bylaw stating the zone before and after an amendment (e.g. RR to MG)</p>"
+  ],
+  "dct_identifier_sm": [
+    "86e5bc6fd550410381a23dba8149d87e",
+    "https://www.arcgis.com/home/item.html?id=86e5bc6fd550410381a23dba8149d87e"
+  ],
+  "dct_issued_s": "2017-07-19",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-zoning-by-laws\"}",
+  "dct_rights_sm": [
+    "DISCLAIMER: For data delivered on-line or by physical media by the Manitoba Government: Although extensive effort has been made to produce error free and complete data, all geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. These data may be subject to periodic change without prior notification. No Warranty: These data are provided as is, without any warranty, including but not limited to any guarantee as to their performance, merchantability, or fitness for any particular purpose. Liability: The entire risk as to the results of the use of these data is assumed by the user. The Manitoba Government is not responsible for any interpretation or conclusions based on these data made by those who acquire or use it. The Manitoba Government shall not be liable for any direct, indirect, special, incidental, compensatory or consequential damages or third party claims resulting from the use of these data, even if the Manitoba Government has been advised of the possibility of such potential loss or damage."
+  ],
+  "dct_title_s": "Manitoba Zoning By Laws",
+  "gbl_mdModified_dt": "2026-09-23T13:50:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e64aa821-1d56-5fc3-9492-1a6ad28a9b73",
+  "locn_geometry": "ENVELOPE(-101.762002, -94.893898, 53.911484, 48.940626)",
+  "schema_provider_s": "Data MB"
+}

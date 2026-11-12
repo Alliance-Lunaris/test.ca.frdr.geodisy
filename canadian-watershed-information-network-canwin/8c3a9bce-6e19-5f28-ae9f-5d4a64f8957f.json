@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -112.0, 55.0, 50.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This digital dataset represents the modelled outputs of the three-dimensional distribution of sandiness in the Paskapoo Formation, Alberta, Canada. Sand-abundance values were determined from log analysis of water-well lithologs and petroleum exploration downhole-geophysical logs, specifically gamma-ray logs. We derived the sandiness values by calculating the average sandiness in 25 m thick slices above the base of the Paskapoo Formation in a borehole and by assigning the average value (P50) to the midpoint of each slice interval. Alberta Geological Survey Bulletin 66 provides detailed descriptions of the methodology. We tested the borehole sand-abundance values in a 3-D variogram prior to kriging in a regular block model consisting of cells with dimensions of 1000 m on the x and y planes and 25 m in the z (elevation) direction. Values of modelled sandiness range from 0 (absence of sand) to 1 (100% sand) and are assigned elevations based on two datums: 1) a stratigraphic level corresponding to the height of the midpoint of each respective 25 m thick slice interval above the base of Paskapoo Formation, and 2) the elevation of the midpoint of the slice above sea level. Importing the modelled results of sandiness into model viewing software, such as Voxler, permits the user to generate three-dimensional isovalue plots illustrating the differences in distribution and geometry of aquifers as different cutoff or threshold criteria are applied. The dataset also enables one to delineate the regional lithostratigraphic units nested within stratigraphically complex rock formations."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/122d5b2e-3ea3-4964-bc69-80e23b9b1b59"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/122d5b2e-3ea3-4964-bc69-80e23b9b1b59\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Modelled Sandiness of the Paskapoo Formation, Alberta (Tabular data, tab-delimited format)",
+  "gbl_mdModified_dt": "2026-03-04T16:07:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8c3a9bce-6e19-5f28-ae9f-5d4a64f8957f",
+  "locn_geometry": "ENVELOPE(-120.0, -112.0, 55.0, 50.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

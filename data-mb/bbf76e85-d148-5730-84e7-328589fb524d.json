@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.999999999999176)",
+  "dcat_keyword_sm": [
+    "Government",
+    "Province of Manitoba",
+    "Manitoba Government"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>This table contains data on whole and partial condemnation and slaughtering from 2015 to 2022. The data is also classified by its Slaughter Class: Cattle, Swine, Chiken,  Spent layer hens, Ducks, Geese, Rabbits, Spent Breeder hens, 5 kg and under, Bison, Elk, Goats, Horses, Lambs, Llama/Alpaca, Mature turkey, over 11 kg, over 5 but no more than 7 kg, over 7 but no more than 9 kg, over 9 but no more than 11 kg, Sheep, and Wild boars.</span><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Field Names (Field Alias): Field description.<br /></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><ul><li>SlaughterFigureID (SlaughterFigureID): unique indexed number assigned to each record in the database.</li><li>BodyPart (BodyPart): code for the different body parts affected in partial condemnations.</li><li><span style='font-size:14px;'>CondemnationReasonCode (</span>CondemnationReasonCode): code for all the different reasons for condemnation.<br /></li><li><font style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'>CondemnationType (CondemnationType): This identifies whether the condemnations are either Whole or Partial.</span></font></li><li><span style='font-size:14px;'>SlaughterYear (SlaughterYear): Year when the slaughter occurred.<br /></span></li><li><span style='font-size:14px;'>NumberSlaughtered (NumberSlaughtered): Total number of animals slaughtered during the indicated period of time.<br /></span></li><li><span style='font-size:14px;'>NumberCondemned (NumberCondemned): Total number of animals condemned (whole) or total  number of parts of animals condemned (partial) during the indicated period of time.<br /></span></li><li><span style='font-size:14px;'>SlaughterClass (SlaughterClass): Species or class of the animal or part of the animal condemned.</span></li><li><span style='font-size:14px;'>Quarter (Quarter): Number of the quarter.</span></li></ul>                   - <span style='font-size:14px;'>January to March – 1</span><br /><div style='font-family:inherit;'><font style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'>                     - April to June – 2</span></font></div><div style='font-family:inherit;'><font style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'>                     - July to September – 3</span></font></div><div style='font-family:inherit;'><font style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'>                     - October to December - 4</span></font></div><ul><li><font style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'>QuarterYear (Quarter/Year): Corresponding quarter and year.</span></font></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "1478d0a3f1ad45ae9c29e559f2ff7416",
+    "https://www.arcgis.com/home/item.html?id=1478d0a3f1ad45ae9c29e559f2ff7416"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-condemnation-rates\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Condemnation Rates",
+  "gbl_mdModified_dt": "2026-08-13T19:59:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bbf76e85-d148-5730-84e7-328589fb524d",
+  "locn_geometry": "ENVELOPE(-101.99999999999828, -88.9999999999985, 59.99999999999899, 48.999999999999176)",
+  "schema_provider_s": "Data MB"
+}

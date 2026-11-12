@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Inland waters",
+    "Bassin hydrologique",
+    "Drainage",
+    "Drainage",
+    "Hydrologie",
+    "Eaux intérieures",
+    "Watersheds",
+    "Hydrology",
+    "Eau",
+    "Water",
+    "Provinces de l'Ouest",
+    "Western provinces"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Superficies des bassins à contribution nulle à l’intérieur des superficies brutes totales des bassins hydrographiques du Projet des bassins hydrographiques d’AAC (2013)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The \"Areas of Non-Contributing Drainage within Total Gross Drainage Areas of the AAFC Watersheds Project - 2013\" dataset is a geospatial data layer containing polygon features representing the areas within the “total gross drainage areas” of each gauging station of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project that DO NOT contribute to average runoff.   \n  \n  A “total gross drainage area” is the maximum area that could contribute runoff for a single gauging station – the “areas of non-contributing drainage” are those parts of that “total gross drainage area” that DO NOT contribute to average runoff. For each “total gross drainage area” there can be none to several unconnected “areas of non-contributing drainage”.  \n  \n  These polygons may overlap with those from other gauging stations’ “total gross drainage area”, as upstream land surfaces form part of multiple downstream gauging stations’ “total gross drainage areas”.",
+    "Le jeu de données « superficies des bassins à contribution nulle à l’intérieur des superficies brutes totales des bassins hydrographiques du Projet des bassins hydrographiques d’AAC (2013) » est une couche de données géospatiales contenant des entités polygonales représentant les superficies à l’intérieur des « superficies brutes totales des bassins hydrographiques » de chaque station hydrométrique du Projet des bassins hydrographiques d’Agriculture et Agroalimentaire Canada; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques ; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Agroclimatique; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques (AAC) qui NE contribuent PAS au ruissellement moyen.  \n  \n  La « superficie brute totale d’un bassin hydrographique » est la superficie maximale qui contribuerait au ruissellement pour une seule station hydrométrique. Les « superficies des bassins à contribution nulle » correspondent à la « superficie brute totale d’un bassin hydrographique » qui NE contribue PAS au ruissellement moyen. Pour chaque « superficie brute totale d’un bassin hydrographique », il peut y avoir aucune ou plusieurs « superficies des bassins à contribution nulle » non reliées.  \n  \n  Ces polygones peuvent chevaucher les polygones de la « superficie brute totale d’un bassin hydrographique » d’autres stations hydrométriques, car les surfaces terrestres en amont font partie intégrante de multiples « superficies brutes totales de bassins hydrographiques » de stations hydrométriques en aval."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/adb2e613-f193-42e2-987e-2cc9d90d2b7a"
+  ],
+  "dct_issued_s": "2013-04-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/adb2e613-f193-42e2-987e-2cc9d90d2b7a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Areas of Non-Contributing Drainage within Total Gross Drainage Areas of the AAFC Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ba183dec-43e1-5f75-b4c1-586aa97fac9a",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

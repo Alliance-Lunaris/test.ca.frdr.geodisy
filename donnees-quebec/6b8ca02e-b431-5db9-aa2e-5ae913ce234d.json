@@ -1,0 +1,62 @@
+{
+  "dcat_keyword_sm": [
+    "Landsat-8",
+    "Fraîcheur",
+    "Urbain",
+    "Environnement",
+    "Santé",
+    "Imagerie satellitaire",
+    "Schéma",
+    "Forêt",
+    "Chaleur",
+    "Ilot",
+    "Arbre",
+    "Intelligence artificielle",
+    "Température",
+    "Publique",
+    "ICU",
+    "ICFU",
+    "Changements climatiques",
+    "Analyse de changement",
+    "Géomatique",
+    "Aménagement",
+    "Télédétection",
+    "Cartographie",
+    "Développement"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "DSETT, Territoire, évaluation des impacts et adaptation au climat."
+  ],
+  "dct_description_sm": [
+    "Cartographies de l’analyse de changement entre la *[cartographie des îlots de chaleur/fraîcheur 2020-2022](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2020-2022)* et la *[cartographie des îlots de chaleur/fraîcheur utilisant les données de 2013-2014](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2013-2014)* sur l’ensemble des grands centres urbains par deux méthodes, soient\r\n\r\n-\tLa carte de la __Différence entre les écarts de températures en °C (*[2020-2022](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2020-2022)* moins *[2013-2014](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2013-2014)*)__, qui est calculée au niveau du pixel et produite à l’échelle de l’écoumène du Québec (recensement de 2016, 167 764 km<sup>2</sup>). L’écart de température est la différence de température en ville par rapport à un boisé à proximité. Une valeur positive de la différence des écarts de température représente une augmentation de l’écart de température en 2020-2022 par rapport à 2013-2014, une valeur négative représente une diminution de l’écart de température en 2020-2022 par rapport à 2013-2014.\r\n\r\n-\tLa carte de __Variation de l’indice SUHII entre 2020-2022 et 2013-2014 (%)__, qui représente le pourcentage du changement de l’indice *Surface Urban Heat Island Intensity* (SUHII) entre les deux années. Cette carte couvre l’étendue des *[centres de population du recensement de 2021](https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/pop/pop-fra.htm)* (CTRPOP) ayant au moins 1 000 habitants et une densité d’au moins 400 habitants par km<sup>2</sup> auxquels est ajoutée une zone tampon de 2 km et les valeurs sont calculées à l’échelle de l’*[îlot de diffusion](https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/db-id/db-id-fra.htm)* de Statistique Canada. L’indice SUHII met en évidence les zones avec une intensité plus élevée des îlots de chaleur, par calcul d’une moyenne pondérée à partir des classes des écarts de température, accordant plus de poids aux classes les plus chaudes. Les valeurs de variation de l’indice en dessous de 100 % représentent une diminution de l’intensité des ICU en 2020-2022 par rapport à 2013-2014. Les valeurs supérieures à 100 % représentent une augmentation de l’intensité des ICU entre 2013-2014 et 2020-2022. Les valeurs autour de 100 % correspondent à une absence de changement. Les classes d’écarts de température ont été produites par l’algorithme k-means, qui prend en compte la distribution des valeurs d’écart de température dans un centre de population dans une année donnée. Les limites de classes d’écarts de température peuvent donc différer entre les deux années, ce qui va influencer la valeur de variation de l’indice SUHII.\r\n\r\nPour plus de détails sur la création des différentes cartes ainsi que sur leurs avantages, limites et utilisations potentielles, consultez la *[Technote](https://www.donneesquebec.ca/recherche/dataset/analyse-de-changement-ilots-chaleur-fraicheur-et-indice-intensite-ilots-chaleur-urbains/resource/021c5399-a7b3-4b02-a753-39dda706ab27)* (version vulgarisée) et/ou le *[rapport méthodologique](https://www.donneesquebec.ca/recherche/dataset/analyse-de-changement-ilots-chaleur-fraicheur-et-indice-intensite-ilots-chaleur-urbains/resource/ef7e3450-9347-4051-b3bb-bedcba3c0d92)* (version complète).\r\n\r\nLa production de ces données a été coordonnée par l’Institut national de santé publique du Québec (INSPQ) et réalisée par le laboratoire de télédétection forestière du Centre d’Enseignement et de Recherche en Foresterie (CERFO), financé dans le cadre du *[Plan d’action 2013-2020 sur les changements climatiques](https://www.environnement.gouv.qc.ca/changementsclimatiques/plan-action.asp)* du gouvernement du Québec intitulé Le Québec en action vert 2020."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/5644a516-92f7-4d06-aff7-3dfc606f70f0"
+  ],
+  "dct_issued_s": "2023-03-06",
+  "dct_publisher_sm": [
+    "Institut national de santé publique du Québec (INSPQ)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/5644a516-92f7-4d06-aff7-3dfc606f70f0\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Éducation et recherche",
+    "Santé",
+    "Infrastructures",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Analyse de changement entre la cartographie des îlots de chaleur/fraîcheur 2013-2014 et 2020-2022",
+  "gbl_mdModified_dt": "2026-07-24T18:43:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6b8ca02e-b431-5db9-aa2e-5ae913ce234d",
+  "schema_provider_s": "Données Québec"
+}

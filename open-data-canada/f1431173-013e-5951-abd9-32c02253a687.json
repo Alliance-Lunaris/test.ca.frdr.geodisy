@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Rtcs",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "Ticket",
+    "Points de vente",
+    "Bus",
+    "Transport en commun",
+    "Autobus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Point layer of points of sale of transport tickets of the Régie de transport en public de Shawinigan (RTCS) on the territory of the city of Shawinigan.\n\n[Link to the complete Isogeo sheet] (https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/f35f1bb99a9c430d8debf488453a4202?lock)\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n! [RTCS logo] (https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Collection method**\n\nLocation at the corresponding address\n\n**Attributes**\n\n* `objectid` (`integer`): \n\n* `name` (`char`): Name\n\n* `address` (`char`): Address\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelle des points de vente des titres de transport de la régie de transport en commun de Shawinigan (RTCS) sur le territoire de la ville de Shawinigan.\n\n[Lien de la fiche complète Isogeo](https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/f35f1bb99a9c430d8debf488453a4202?lock)\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n![Logo du RTCS](https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Méthode de collecte**\n\nLocalisation à l’adresse correspondante\n\n**Attributs**\n\n* `objectid` (`integer`) : \n\n* `nom` (`char`) : Nom\n\n* `adresse` (`char`) : Adresse"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e3a2a398-a64f-443b-a54e-cc58b6f6f1d0"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e3a2a398-a64f-443b-a54e-cc58b6f6f1d0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Points de vente des titres de transport (RTCS) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-12T18:03:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f1431173-013e-5951-abd9-32c02253a687",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "dcat_keyword_sm": [
+    "Geospatial",
+    "Open"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario Ministry of Natural Resources and Forestry."
+  ],
+  "dct_description_sm": [
+    "Purpose: The Provincial DEM can be used for a number of applications such as landscape classification and general terrain analysis. For more detailed information please see the Provincial DEM Technical Specifications' document attached to this metadata record. The data is distributed as two seperate packages, north and south. Each package contains a number of tiled DEM raster datasets in a sinlge ESRI file geodatabase. Please see the \"Provincial DEM Index Map\" image attached to this metadata record. Or, download the \"ProvincialDEM_Index\" shapefile attached to this metadata record.",
+    "The Provincial DEM is designed to represent true ground elevation across the Province. Based on best source data for different parts of the Province, it is a general purpose dataset from which other special purpose datasets have been derived. The Provincial DEM is based on three source datasets: the Ontario Radar DSM, OBM, DTM points and contours, and 2002 GTA Ortho contours. This dataset has not been conditioned for any specific application. As a result, for hydrologic applications, it is suggested that the Ontario Integrated Hydrology dataset is used. This is a separate data product that is available through Land Information Ontario (LIO). The Ontario Integrated Hydrology data is specifically designed for hydrologic analysis, such as watershed creation and flow tracing."
+  ],
+  "dct_identifier_sm": [
+    "44099",
+    "https://hdl.handle.net/11272.1/AB2/EMN0R5"
+  ],
+  "dct_issued_s": "2013-10-09",
+  "dct_publisher_sm": [
+    "Abacus Data Network"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://hdl.handle.net/11272.1/AB2/EMN0R5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario You are encouraged to use the Information that is available under this licence with only a few conditions. Using Information under this licence 1. Use of any Information indicates your acceptance of the terms below. 2. The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below. You are free to: 3. Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose. You must, where you do any of the above: 4. Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence. If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions are not practical for your product or application, you must use the following attribution statement: Contains information licensed under the Open Government Licence – Ontario. 5. The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically. Exemptions 6. This licence does not grant you any right to use: Personal Information; Information or Records not accessible under the Freedom of Information and Protection of Privacy Act (Ontario); third party rights the Information Provider is not authorized to license; the names, crests, logos, or other official symbols of the Information Provider; and Information subject to other intellectual property rights, including patents, trade-marks and official marks. Non-endorsement 7. This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider endorses you or your use of the Information. No warranty 8. The Information is licensed \"as is\", and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law. 9. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage. Governing Law 10. This licence is governed by the laws of the Province of Ontario and the applicable laws of Canada. 11. Legal proceedings related to this licence may only be brought in the courts of Ontario. Definitions 12. In this licence, the terms below have the following meanings: \"Information\" means information resources or Records protected by copyright or other information or Records that are offered for use under the terms of this licence. \"Information Provider\" means His Majesty the King in right of Ontario. \"Personal Information\" has the meaning set out in section 2(1) of Freedom of Information and Protection of Privacy Act (Ontario). \"Records\" has the meaning of \"record\" as set out in the Freedom of Information and Protection of Privacy Act (Ontario). \"You\" means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence. Versioning 13. This is version 1.0 of the Open Government Licence – Ontario. The Information Provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the Information will be governed by the terms of the licence in force as of the date you accessed the information. Updated: August 31, 2015"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Provincial Digital Elevation Model - Version 3.0",
+  "gbl_mdModified_dt": "2013-10-09T07:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "687d1455-37dd-5caf-8931-7769aa2056db",
+  "locn_geometry": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "schema_provider_s": "Abacus Open Data"
+}

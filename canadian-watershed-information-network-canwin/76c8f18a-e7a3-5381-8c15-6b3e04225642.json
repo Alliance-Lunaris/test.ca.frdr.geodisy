@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Cartographic representations of Fisheries Management Areas (FMA)s in the Atlantic and Arctic Regions.\n\nCurrently Published Fisheries Management Areas:\nCapelin\nCrab\nHerring\nMackerel\nSalmon, Atlantic\nScallop\nShrimp\nSnow Crab\nSquid\n\nEach polygon feature class delineates the coordinates of a different series of FMAs. Shapes have been drafted based on a combination of sources including: the Atlantic Fisheries Regulations, Integrated Fisheries Management Plans, indigenous treaties, the bounds of the Territorial Sea, and other information made public on Fisheries and Oceans websites. Information from Variation orders and Conditions of License were also incorporated. The specific sources used to construct each feature class is listed in its metadata and direct links to public sources are included.\nThe original documentation uses a diverse combination datums, or include coordinates with no listed datum. This data series has been projected into NAD83. Vertices in this dataset may differ from the original source documents to fix slivers, make areas congruent with coastlines, or align with other administrative boundaries. Changes made to the original areas in order to make drafting possible have been highlighted in the comments field in the attribute tables. Lines were first drafted as geodesics and vertices were added to approximate loxodromes using the Construct Geodesic Tool in ArcGIS Pro 2.9.8.\nAs documentation is drafted, additional FMAs will be added to the dataset. Currently drafted FMAs my change and expand into currently unmapped areas as new information is incorporated.\nThe feature classes produced as a part of this data series are cartographic representations of legal documents and are meant to be used for general reference in support of marine planning.  Whenever there is a difference between the original written source documentation and this digital representation, the originals should be considered authoritative. Every effort has been made to ensure that these files are as accurate as possible but these feature classes are not intended to be used for navigation, legal interpretation or enforcement."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/99d29ae8-03ad-4d14-accf-65e053291d8d"
+  ],
+  "dct_issued_s": "2025-08-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/99d29ae8-03ad-4d14-accf-65e053291d8d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Atlantic Fisheries Management Areas (FMA)",
+  "gbl_mdModified_dt": "2026-03-24T08:02:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "76c8f18a-e7a3-5381-8c15-6b3e04225642",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

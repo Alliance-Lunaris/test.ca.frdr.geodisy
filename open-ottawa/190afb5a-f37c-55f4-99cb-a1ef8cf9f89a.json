@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.33325958251953, -75.26500701904297, 45.5234146118164, 44.976814270019524)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "traffic",
+    "walk",
+    "accident",
+    "collision",
+    "car",
+    "bike",
+    "pedestrian"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "Locational listing of collisions by year with total of pedestrian and cycling collisions listed and geographically represented on the centroid of the line segment.\n<br /><br />\n<strong>Accuracy</strong>: The City of Ottawa provides this information in good faith but provides no warranty, nor accepts any liability arising from any incorrect, incomplete or misleading information or its improper use.\n<br /><br />\n<strong>Update Frequency</strong>: Annually\n<br /><br />\n<strong>Attributes</strong>: <br /><br />\n• X and Y coordinate format is projected in MTM Zone 9, NAD83 (CSRS)\n<br /><br />\n• Year\n<br /><br />\n• Location Description (RD1 @ RD2 or RD from RD 1 to RD 2)\n<br /><br />\n• Count of all collisions\n<br /><br />\n• Count of pedestrian collisions (included in count of all collisions)\n<br /><br />\n• Count of Bicycle collisions (included in count of all collisions)\n<br /><br />\n<strong>Contact</strong>: <a href='mailto:tetsuro.ide@ottawa.ca'>Transportation Data Collection & Analytics</a>\n"
+  ],
+  "dct_identifier_sm": [
+    "c1fb803188ff469b84aafa532eb99cdb",
+    "https://www.arcgis.com/home/item.html?id=c1fb803188ff469b84aafa532eb99cdb"
+  ],
+  "dct_issued_s": "2019-09-19",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::traffic-collision-by-location-2014\"}",
+  "dct_title_s": "Traffic Collision by Location 2014",
+  "gbl_mdModified_dt": "2021-02-13T10:05:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "190afb5a-f37c-55f4-99cb-a1ef8cf9f89a",
+  "locn_geometry": "ENVELOPE(-76.33325958251953, -75.26500701904297, 45.5234146118164, 44.976814270019524)",
+  "schema_provider_s": "Open Ottawa"
+}

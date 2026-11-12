@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "ECMWF",
+    "Government information",
+    "Forecast",
+    "Weather Models",
+    "Basins",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations cumulées moyennes prévues par bassin (ECMWF - 7 jours)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays sub-basin-level average precipitation derived from the ECMWF (European Centre for Medium-Range Weather Forecasts) model. This layer helps hydrologists, forecasters, and planners see how much rainfall/snowfall is predicted or has occurred in each sub-basin, supporting medium-range water resource and flood management. We are intersested in the forecast period of 7 days.\n\nThis layer aggregates ECMWF forecast precipitation over polygonal sub-basins. Each feature includes attributes for average accumulated precipitation, forecast run/valid times, and sub-basin identifiers. ECMWF is a leading global model offering medium-range (up to 10 days) forecasts at a high skill level. By focusing on sub-basins, this layer aids in local-scale decision-making—enabling more precise flood risk assessments, reservoir inflow estimates, and water resource planning across the region of interest.",
+    "Cette couche polygonale affiche les précipitations moyennes au niveau du sous-bassin dérivées du modèle ECMWF (Centre européen pour les prévisions météorologiques à moyen terme). Cette couche permet aux hydrologues, aux prévisionnistes et aux planificateurs de déterminer la quantité de pluie/neige prévue ou survenue dans chaque sous-bassin, ce qui favorise la gestion des ressources en eau et des inondations à moyen terme. Nous sommes intéressés par la période de prévision de 7 jours.\n\nCette couche regroupe les prévisions de précipitations de l'ECMWF sur des sous-bassins polygonaux. Chaque caractéristique comprend des attributs pour les précipitations accumulées moyennes, les périodes de validité et de validité prévues et les identifiants des sous-bassins. L'ECMWF est un modèle mondial de premier plan proposant des prévisions à moyen terme (jusqu'à 10 jours) à un niveau de compétence élevé. En se concentrant sur les sous-bassins, cette couche facilite la prise de décisions à l'échelle locale, ce qui permet des évaluations plus précises des risques d'inondation, des estimations du débit des réservoirs et une planification des ressources en eau dans la région d'intérêt.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d02fa465-e0ef-8752-5848-afd03a1c416a"
+  ],
+  "dct_issued_s": "2025-05-01",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d02fa465-e0ef-8752-5848-afd03a1c416a\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (ECMWF - 7 Days)",
+  "gbl_mdModified_dt": "2026-04-01T20:02:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "75921d89-e516-5820-8adf-fece21a145cd",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

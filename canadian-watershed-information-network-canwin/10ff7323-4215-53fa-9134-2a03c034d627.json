@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The \"Areas of Non-Contributing Drainage within Total Gross Drainage Areas of the AAFC Watersheds Project - 2013\" dataset is a geospatial data layer containing polygon features representing the areas within the “total gross drainage areas” of each gauging station of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project that DO NOT contribute to average runoff.   \n  \n  A “total gross drainage area” is the maximum area that could contribute runoff for a single gauging station – the “areas of non-contributing drainage” are those parts of that “total gross drainage area” that DO NOT contribute to average runoff. For each “total gross drainage area” there can be none to several unconnected “areas of non-contributing drainage”.  \n  \n  These polygons may overlap with those from other gauging stations’ “total gross drainage area”, as upstream land surfaces form part of multiple downstream gauging stations’ “total gross drainage areas”."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/adb2e613-f193-42e2-987e-2cc9d90d2b7a"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/adb2e613-f193-42e2-987e-2cc9d90d2b7a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Areas of Non-Contributing Drainage within Total Gross Drainage Areas of the AAFC Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "10ff7323-4215-53fa-9134-2a03c034d627",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

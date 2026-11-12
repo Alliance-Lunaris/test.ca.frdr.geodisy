@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.0, -107.0, 51.0, 50.0)",
+  "dcat_keyword_sm": [
+    "Topography",
+    "Topographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Projet LiDAR de Swift Current 2009"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "McElhanney Consulting Services Ltd (MCSL) has performed a LiDAR and Imagery survey in southern Saskatchewan. The purpose was to generate DEMs for hydraulic modeling of floodplain, digital terrain maps, and other products for portions of the Swift Current Creek valley and other miscellaneous tributaries and related water course valleys in and around the City of Swift Current.  \n  \n  The acquisition was completed between the 16th and 25th of October, 2009. The survey consisted of approximately 790 square kilometers of coverage. While collecting the LiDAR data, we also acquired aerial photo in RGB and NIR modes consisting of 1649 frames each.  \n  \n  In addition to the main area of interest, McElhanney has acquired some LiDAR and photo of low lying areas adjacent to the project area. This additional area was acquired on speculation that the data may be required in the future.  \n  \n  The 3Dimensional laser returns (point cloud) were classified using Microstation (v8), Terrascan and TerraModeler. A series of algorithms based on topography were created to separate laser returns that hit the ground from the ones that hit objects above the ground.  \n  \n  Steps taken are:  \n  \n  Classified LiDAR surface as Bare earth, Classified other features as non-bare earth or default, Formatted to ASPRS .LAS V1.1 (Class 1 - Default (non-bare earth), Class 2 – Ground points (bare earth)), 239 tiles each 2km x2km generated for LiDAR data, File prefix FF – Classified (Non-Bare Earth and Bare Earth), File Prefix BE – Bare Earth only, Bare Earth Model Key Point (MKPts) surface files are thinned Bare earth LiDAR points. MKPts files generate a virtually identical surface without the large file size, MKPts file format is ASCII (Easting Northing Z-elevation) xyz and LAS format.",
+    "McElhanney Consulting Services Ltd (MCSL) a effectué un levé LiDAR et l'acquisition d'images dans le sud de la Saskatchewan. Les travaux avaient pour objectif de produire des MAN pour la modélisation hydraulique des plaines inondables, la cartographie topographique numérique ainsi que d'autres produits pour des parties de la vallée du ruisseau Swift Current et des vallées de divers autres affluents et cours d'eau connexes dans la ville de Swift Current et dans les environs.  \n  \n  L'acquisition a été réalisée entre le 16 et le 25 octobre 2009. Le levé couvrait une superficie d'environ 790 kilomètres carrés. Pendant la collecte de données LiDAR, McElhanney a également acquis des photos aériennes en modes RVB et proche IR chacun comportant 1649 clichés.   \n  \n  En plus de la principale zone d'intérêt, McElhanney a fait l'acquisition de certaines données LiDAR et de photos dans les basses terres adjacentes à la zone du projet. L'acquisition a été étendue à cette zone supplémentaire puisque l'on présumait que les données seraient éventuellement nécessaires.  \n  \n  Les échos laser tridimensionnels (nuage de points) ont été classés à l'aide de Microstation (v. 8), de Terrascan et de TerraModeler. Une série d'algorithmes fondés sur la topographie ont été créés afin de distinguer les échos laser qui frappent le sol de ceux qui frappent des objets au-dessus du sol.   \n  \n  Les étapes suivantes ont été effectuées :  \n  \n  Classification de la surface LiDAR comme sol nu; classification des autres entités comme sol non dénudé ou par défaut; conversion au format ASPRS.LAS v. 1.1 (classe 1 - par défaut [sol non dénudé], classe 2 - points au sol [sol nu]), chacune comportant 239 pavés de 2 km x 2 km produits pour les données LiDAR; préfixe de fichier FF - classé (sol non dénudé et sol nu), préfixe de fichier BE - sol nu seulement; les fichiers de la surface des points principaux du modèle à sol nu (MKPts) sont constitués de points LiDAR de sol nu qui ont été élagués. Les fichiers MKPts permettent de produire une surface presque identique, mais avec une taille de fichier réduite; les fichiers des MKPts sont en format ASCII (abscisse, ordonnée, altitude-Z) xyz et en format LAS."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9bdc1a9c-baf7-4eb0-a532-c1057b284b8f"
+  ],
+  "dct_issued_s": "2014-05-27",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9bdc1a9c-baf7-4eb0-a532-c1057b284b8f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Swift Current LiDAR Project 2009",
+  "gbl_mdModified_dt": "2023-02-23T14:25:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4372afdb-35e4-5baf-bd06-ae8941a25226",
+  "locn_geometry": "ENVELOPE(-108.0, -107.0, 51.0, 50.0)",
+  "schema_provider_s": "Open Data Canada"
+}

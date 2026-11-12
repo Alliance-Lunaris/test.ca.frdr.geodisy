@@ -1,0 +1,67 @@
+{
+  "dcat_keyword_sm": [
+    "Place of birth",
+    "Economic family",
+    "Ethnic origin",
+    "Type of household",
+    "Mobility",
+    "Place of work",
+    "Unemployment insurance benefits",
+    "Citizenship",
+    "Income",
+    "Rent",
+    "Mortgage",
+    "Eduactional attainment",
+    "Payments",
+    "Household income",
+    "Languages spoken at home",
+    "Census of Population",
+    "Family allowances",
+    "Immigrant status",
+    "Dwelling",
+    "Labour force activity",
+    "Salaries",
+    "Occupations",
+    "Religion",
+    "Household size",
+    "Wages",
+    "Part time employment",
+    "Marital Status",
+    "Full time employment",
+    "Mother tongue"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "Notes: <p>Users should note that information in the Household part is repeated in each census family or non-census person record in the same household. Because of this, users wishing to tabulate household characteristics should refer to Record Structure and Variables for the Household/Family file.</p>  <p>For the purpose of confidentiality, Prince Edward Island, Yukon, and the Northwest Territories are combined together.</p>;",
+    "<p>The Household and Family file contains data on both households and the families living within them. The file was created by selecting a sample of households, and then creating one record for each census family and non-family person within the selected household. A record, when dealing with the Household/ Family file, therefore, refers to data on one census family unit or one non-family person.</p>  <p>Each record consists of two parts. The Household part contains detailed information on the occupants of the household as well as some information on housing. The Family part of the record gives detailed information on the census family or non-family person, including (where applicable) data on the husband, male lone parent, male non-family person, wife, female lone parent, and female non-family person.</p>"
+  ],
+  "dct_identifier_sm": [
+    "562302_47990_48005",
+    "https://doi.org/10.5683/SP3/WECYST"
+  ],
+  "dct_issued_s": "2023-09-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WECYST\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "1981 Census of Population [Canada] Public Use Microdata File (PUMF): Households and Family File",
+  "gbl_mdModified_dt": "2023-10-12T21:04:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b47c0a6a-e2a3-5690-a7a8-f73a78921039",
+  "pcdm_memberOf_sm": [
+    "Census of Population / Recensement de la population Dataverse // 1981 Census / Recensement 1981 Dataverse"
+  ],
+  "schema_provider_s": "ODESI Dataverse"
+}

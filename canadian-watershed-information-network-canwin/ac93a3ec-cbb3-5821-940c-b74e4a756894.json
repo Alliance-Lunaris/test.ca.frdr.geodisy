@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This collection of flood susceptibility products captures temporal patterns of historic flood events from 2000 to 2023, derived from flood susceptibility maps. The layers are designed to support decision-making by providing easily interpretable information for planning, screening, and other management purposes.\n\nThis collection contains several datasets which explore the suite of rasters from 2000 to 2023:\n\n- Extreme wet and extreme dry years and the associated average flood susceptibility, processed by NHN WU, as found by Generalized Extreme Value (GEV) analysis\n\n- Flood susceptibility envelope, which is derived from the above wet and dry years\n\n- Trend slope, for each pixel the value for each year is extracted and the linear trend is computed, greater than 1000 is increasing flood susceptibility and below  1000 is decreasing flood susceptibility. \n\n- Trend Class, as identified by wet and dry scores, applied to NHN WU\n\n- Current flood susceptibility, which represents the estimated average value of present-day flood susceptibility\n\n- Current interquartile range, which provides and indication of the temporal variability of a given pixel under the current regime.\n\n\nThis dataset forms part of a broader collection of flood susceptibility datasets, offering related information and analyses. The collection includes an overview page with associated publications, historic susceptibility values, temporal trends, and future projections.\n\n- **[Collection - Flood Susceptibility Mapping](https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc)**\n- **[Historic - Flood Susceptibility Mapping](https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77)**\n- **[Future - Flood Susceptibility Mapping](https://open.canada.ca/data/en/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Trends and Extremes - Flood Susceptibility Mapping",
+  "gbl_mdModified_dt": "2026-05-07T16:30:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ac93a3ec-cbb3-5821-940c-b74e4a756894",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

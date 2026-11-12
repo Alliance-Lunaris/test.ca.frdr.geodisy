@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-61.5956, -50.6589, 52.9047, 44.9936)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Management",
+    "Écosystème",
+    "Pêcheries",
+    "Océan",
+    "Ecosystems",
+    "Fisheries",
+    "Gestion"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartographie des substituts du homard - Terre-Neuve-et-Labrador"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada."
+  ],
+  "dct_description_sm": [
+    "Proxied dataset of inshore lobster commercial fishing for 2012 - 2021 in the Newfoundland and Labrador region. Only lobster harvested from the Newfoundland and Labrador region are included, based on species sought.\n\nCommercial data for the inshore lobster fishery does not require a set of coordinates be provided for catch records. With zero georeferenced inshore lobster records, the inshore lobster fishery leaves a major data gap in one of Newfoundland and Labradors largest fisheries. The Gulf region created a lobster proxy mapping tool, which associated each commercial lobster record with the most likely 10km2 hexagon grid cell based on a number of weighted variables. The tool was adopted by the Newfoundland and Labrador region and altered to work with its own variables which include human use, habitat, accessibility, area/location, home port distance, traditional ecological knowledge and depth. Each hexagon represents the summed total weight of all records associated with a particular hexagon.\n\nThe best available commercial data used in this model is derived from landings data and may not include catches that have resulted in cash/wharf sales. As a result, there are some areas of Newfoundland and Labrador that may be under represented in this dataset where wharf sales may be high. Therefore, this dataset should be viewed as a general estimation on lobster harvesting patterns within Newfoundland and Labrador.",
+    "Ensemble de données de substitution sur la pêche commerciale côtière du homard en 2012 - 2021 dans la région de Terre-Neuve-et-Labrador. Seuls les homards pêchés dans la région de Terre-Neuve-et-Labrador sont inclus, selon les espèces recherchées.\n\nLes données commerciales pour la pêche côtière du homard ne nécessitent pas que l’on fournisse un ensemble de coordonnées pour les données sur les prises. Étant donné qu’il n’existe pas de données géoréférencées pour le homard côtier, la pêche côtière du homard laisse une lacune importante dans les données de l’une des plus importantes pêches de Terre-Neuve-et-Labrador. La région du Golfe a créé un outil de cartographie de substitution du homard, qui a associé chaque donnée commerciale sur le homard avec la cellule hexagonale de 10 km2 la plus probable en fonction d’un certain nombre de variables pondérées. L’outil a été adopté par la région de Terre-Neuve-et-Labrador et modifié pour fonctionner avec ses propres variables, qui comprennent l’utilisation humaine, l’habitat, l’accessibilité, la zone ou l’emplacement, la distance du port d’attache, les connaissances écologiques traditionnelles et la profondeur. Chaque hexagone représente le poids total de toutes les données associées à un hexagone particulier.\n\nLes meilleures données commerciales disponibles utilisées dans ce modèle sont dérivées des données sur les débarquements et peuvent ne pas inclure les captures ayant donné lieu à des ventes au comptant ou au quai. Par suite, certaines régions de Terre-Neuve-et-Labrador pourraient être sous-représentées dans cet ensemble de données, où les ventes à quai pourraient être élevées. Par conséquent, cet ensemble de données doit être considéré comme une estimation générale des modèles de pêche au homard à Terre-Neuve-et-Labrador."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e6f6a4c7-a334-4cf4-adc0-5323f2593b09"
+  ],
+  "dct_issued_s": "2024-11-12",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e6f6a4c7-a334-4cf4-adc0-5323f2593b09\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Lobster Proxy Mapping - Newfoundland and Labrador",
+  "gbl_mdModified_dt": "2026-03-24T08:36:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83aafb53-e1dd-5daa-a3fe-c00cafa3d9df",
+  "locn_geometry": "ENVELOPE(-61.5956, -50.6589, 52.9047, 44.9936)",
+  "schema_provider_s": "Open Data Canada"
+}

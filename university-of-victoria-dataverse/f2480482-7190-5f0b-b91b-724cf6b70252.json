@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.050872, -126.050872, 48.316839, 48.316839)",
+  "dcat_keyword_sm": [
+    "fish counting",
+    "Pacific Ocean",
+    "underwater image analysis",
+    "deep-sea imagery",
+    "computer vision"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ocean Networks Canada (University of Victoria).",
+    "Marques, Porto Tunai (University of Victoria).",
+    "Gasbarro, Ryan (University of Victoria).",
+    "Branzan Albu, Alexandra (University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "Ocean Networks Canada (ONC) operates several cabled ocean observatories in the\r\nPacific and Arctic oceans, which collect a variety of data types. This data set contains 1004 high-resolution 30-second video clips from Barkley Canyon  Axis and accompanying species annotations. Barkley Canyon is a submarine canyon located approximately 80 km off the west coast of Vancouver Island, British Columbia, Canada. The canyon axis site is located in roughly the middle of the canyon.\r\nThe 30 second clips (about 60MB each) are captured 3 times a day for a year (2:00AM, 10:00AM, 6:00PM UTC), with higher frequency sampling every 2 hours for the first week of the collection period. The subsampling period was selected to reduce aliasing from tides. For all videos, the camera was facing northeast with a view of the seafloor at 45° down from horizontal, so that the field of view imaged was approximately 2m^2 of the sediment-covered seabed.\r\nFour species of interest were identified in the videos – hagfish (Eptatretus sp.), eelpouts (Lichenchelys sp.), poachers (Agonidae family) and sablefish (Anoplopoma fimbria). Videos were reviewed by a biological expert annotator who recorded what species were present and when individuals entered and exited the field of view for each video. The dataset was originally curated to support the development of computer vision algorithms capable of identifying the four species of interest."
+  ],
+  "dct_identifier_sm": [
+    "73537_72360",
+    "https://doi.org/10.5683/SP2/AAGZDG"
+  ],
+  "dct_issued_s": "2019-01-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/AAGZDG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Identifying deep sea fish from videos of a benthic ecosystem in Barkley Canyon",
+  "gbl_mdModified_dt": "2023-07-14T19:00:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f2480482-7190-5f0b-b91b-724cf6b70252",
+  "locn_geometry": "ENVELOPE(-126.050872, -126.050872, 48.316839, 48.316839)",
+  "pcdm_memberOf_sm": [
+    "Ocean Networks Canada"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

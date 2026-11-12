@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Reseau routier",
+    "Information gouvernementale",
+    "Autoroute",
+    "Donnee ouverte",
+    "Chaussee",
+    "Rue"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polyline layer of the road network drawn at the center of each lane on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Collection method**\n From Autocad digital files\n\n**Attributes**\n\n* `objective` (`OID`): \n* `id_troncon` (`Integer`): Trunk ID\n* `st_length (shape) `(`Double`): Length\n* `street_toponymie` (`String`): Street name\n* `partial_street` (`String`): Partial street name\n* `rue_essentiel` (`String`): Essential street name\n* `minimum_street` (`String`): Minimum street name\n* `rue_balance` (`String`): Balance\n* `sector` (`String`): Sector\n* `requete_for_jmap` (`String`): Request for JMap\n* `a` (`String`): To\n* `de` (`String`): FROM\n* `nocivicpairde` (`String`): Civic number even Of\n* `nocicivicpaira` (`String`): Civic number equal to\n* `nocivicodde` (`String`): Odd civic number Of\n* `nocivicoda` (`String`): Civic number odd to\n* `nbre_voies` (`smallInteger`): Number of channels\n* `unique_sense` (`String`): One way\n* `owner` (`String`): Owner\n* `functional classification` (`String`): Functional classification\n* `typesurface` (`String`): Surface type\n* `typestructure` (`String`): Structure type\n* `bus` (`String`): Bus\n* `trucking` (`String`): Trucking\n* `area_m2` (`Integrate`): Area\n* `width_m` (`smallInteger`): Width\n* `drainage` (`String`): Drainage\n* `coderives` (`String`): Banks code\n* `rive1dlength_m` (`smallInteger`): \n* `rive1slength_m` (`smallInteger`): \n* `rive2dlength_m` (`smallInteger`): \n* `rive2slength_m` (`smallInteger`): \n* `rive1dmateriau` (`String`): \n* `rive1smaterial` (`String`): \n* `rive2dmateriau` (`String`): \n* `rive2smateriau` (`String`): \n* `rive1dtype` (`String`): \n* `rive1stype` (`String`): \n* `rive2dtype` (`String`): \n* `rive2stype` (`String`): \n* `vocation` (`String`): Calling\n* `statusvaluation` (`String`): Status of the evaluation\n* `annee_origine` (`String`): Year of origin\n* `annee_reconstruction` (`String`): Reconstruction year\n* `annee_resurfacage` (`String`): Resurfacing year\n* `annee_pulveripavage` (`String`): Year pulveripaving\n* `annee_origine_estimee` (`String`): Estimated year of origin\n* `annee_planagepavage` (`smallInteger`): Planing/paving year\n* `ansable_pavage` (`String`): Paving manager\n* `annee_1e_pavage` (`String`): Year 1st tiling\n* `notes` (`String`): Notes\n* `speed` (`smallInteger`): Speed\n* `hierarchical_level` (`String`): Hierarchical level\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polyligne du réseau routier dessiné au centre de chaque voie sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n À partir de fichiers numériques Autocad\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `id_troncon` (`Integer`) : ID Tronçon\n* `st_length(shape)` (`Double`) : Longueur\n* `rue_toponymie` (`String`) : Nom de rue\n* `rue_partiel` (`String`) : Nom de rue partiel\n* `rue_essentiel` (`String`) : Nom de rue essentiel\n* `rue_minimum` (`String`) : Nom de rue minimum\n* `rue_balance` (`String`) : Balance\n* `secteur` (`String`) : Secteur\n* `requete_pour_jmap` (`String`) : Requête pour JMap\n* `a` (`String`) : À\n* `de` (`String`) : DE\n* `nocivicpairde` (`String`) : N° civique pair De\n* `nocivicpaira` (`String`) : N° civique pair À\n* `nocivicimpairde` (`String`) : N° civique Impair De\n* `nocivicimpaira` (`String`) : N° civique Impair À\n* `nbre_voies` (`SmallInteger`) : Nombre de voies\n* `sens_unique` (`String`) : Sens unique\n* `propriétaire` (`String`) : Propriétaire\n* `classificationfonctionnelle` (`String`) : Classification fonctionnelle\n* `typesurface` (`String`) : Type de surface\n* `typestructure` (`String`) : Type de structure\n* `autobus` (`String`) : Autobus\n* `camionnage` (`String`) : Camionnage\n* `superficie_m2` (`Integer`) : Superficie\n* `largeur_m` (`SmallInteger`) : Largeur\n* `drainage` (`String`) : Drainage\n* `coderives` (`String`) : Code de rives\n* `rive1dlongueur_m` (`SmallInteger`) : \n* `rive1slongueur_m` (`SmallInteger`) : \n* `rive2dlongueur_m` (`SmallInteger`) : \n* `rive2slongueur_m` (`SmallInteger`) : \n* `rive1dmateriau` (`String`) : \n* `rive1smateriau` (`String`) : \n* `rive2dmateriau` (`String`) : \n* `rive2smateriau` (`String`) : \n* `rive1dtype` (`String`) : \n* `rive1stype` (`String`) : \n* `rive2dtype` (`String`) : \n* `rive2stype` (`String`) : \n* `vocation` (`String`) : Vocation\n* `statutevaluation` (`String`) : Statut de l'évaluation\n* `annee_origine` (`String`) : Année d'origine\n* `annee_reconstruction` (`String`) : Année de reconstruction\n* `annee_resurfacage` (`String`) : Année de resurfaçage\n* `annee_pulveripavage` (`String`) : Année pulvéripavage\n* `annee_origine_estimee` (`String`) : Année d'origine estimée\n* `annee_planagepavage` (`SmallInteger`) : Année planage/pavage\n* `responsable_pavage` (`String`) : Responsable du pavage\n* `annee_1e_pavage` (`String`) : Année 1e pavage\n* `remarques` (`String`) : Remarques\n* `vitesse` (`SmallInteger`) : Vitesse\n* `niveau_hierarchique` (`String`) : Niveau hiérarchique\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f22e6c7a-783e-4607-824d-70c07dd64395"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f22e6c7a-783e-4607-824d-70c07dd64395\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Réseau routier (centre-ligne) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T18:31:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e476c53d-1789-5f71-b0e6-a8057472cc6d",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

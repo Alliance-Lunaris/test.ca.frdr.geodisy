@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.877, -123.813, 49.0685, 49.0438)",
+  "dcat_keyword_sm": [
+    "land cover classification",
+    "urbanization impact",
+    "Sentinel-2 imagery",
+    "Random Forest",
+    "coastal ecosystems",
+    "spatiotemporal analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zeng, Yuetong (University of British Columbia). ORCID: https://orcid.org/0009-0003-6291-5556"
+  ],
+  "dct_description_sm": [
+    "The Cable Bay area, south of Nanaimo, British Columbia, is an ecologically rich region with diverse ecosystems, including rare Garry oak meadows, increasingly threatened by urban expansion. This study mapped and analyzed land cover changes across six classes—Broadleaf, Conifer, Cropland, Developed, Meadow, and Water—from 2018 to 2024. We applied a Random Forest classifier to high-resolution Sentinel-2 imagery within a hybrid Python-R workflow, achieving classification accuracies of 97.0-98.6%. Spatiotemporal analyses, including transition matrices and hotspot detection, revealed a significant decline in Broadleaf forests and a net increase in Developed land. These shifts reflect urbanization’s pressure on natural habitats, threatening biodiversity and ecosystem services. The findings underscore the urgency of conservation efforts and informed land-use planning to preserve Cable Bay’s ecological integrity."
+  ],
+  "dct_identifier_sm": [
+    "897920_73894_115983",
+    "https://doi.org/10.5683/SP3/VAUR28"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VAUR28\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Nanaimo, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Land Cover Mapping in Cable Bay with Sentinel 2 from 2018 to 2024",
+  "gbl_mdModified_dt": "2025-04-22T16:49:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dddbb648-3a01-5169-bf13-a9747e7bf535",
+  "locn_geometry": "ENVELOPE(-123.877, -123.813, 49.0685, 49.0438)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

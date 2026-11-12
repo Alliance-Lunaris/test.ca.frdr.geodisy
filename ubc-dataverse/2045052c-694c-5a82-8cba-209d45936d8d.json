@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(109.211962, 153.184504, 1.776786, -11.32649)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saunders, Rebecca (University of British Columbia). ORCID: https://orcid.org/0000-0002-1548-754X"
+  ],
+  "dct_description_sm": [
+    "Coral reefs hold some of the most biodiverse and productive environments in the world while providing goods and services across a wide range of sectors. Unfortunately, due to climate change and other anthropogenic factors coral reefs are dying. However, majority of reef modeling literature looks at coral development rather than its mortality. In this study I modeled coral mortality using exclusively open source data and created a suitability score (concern index) for high concern corals that also considers the economic value of reefs. The goal was to help identify which community management units require attention from the marine conservation charity Blue Ventures. An inventory of global resolution datasets including environmental and management practices that may indicate coral stress were added to an empty linear model to predict mortality in South East Asia. The best model in predicting coral mortality utilized artisanal fishing data, the model had an R2 of 0.8673 and an accuracy of 48.51%. This model identified the locations of the highest mortality to be in Timor-Leste at Blue Ventures management unit sites TL1 and TL5, however adding economic value in the concern index then Papua New Guinea site PNG7 is more at risk. I hypothesize that a lack in variability and standardized approach in the coral mortality/bleaching explanatory data decreases the accuracy and real-world applicability of the model. The majority of explanatory variables were obtained from the online database Reef Base, some of the observations showed extreme outliers which were all indicated by citizen scientists. Going forward I would recommend that further education and standardization is included in observations to ensure the open source data has a higher accuracy to make better models."
+  ],
+  "dct_identifier_sm": [
+    "324934_73894_115983",
+    "https://doi.org/10.5683/SP3/RTPFYQ"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RTPFYQ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia",
+    "Papua New Guinea",
+    "Timor-Leste"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Predicting coral mortality in South East Asia using open-source data",
+  "gbl_mdModified_dt": "2025-04-18T01:56:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2045052c-694c-5a82-8cba-209d45936d8d",
+  "locn_geometry": "ENVELOPE(109.211962, 153.184504, 1.776786, -11.32649)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

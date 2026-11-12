@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.66, -121.58, 54.31, 48.19)",
+  "dcat_keyword_sm": [
+    "Océans",
+    "Oceans",
+    "Salinité",
+    "Climatology",
+    "Climatologie",
+    "Salinity",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données climatologiques saisonnières sur la salinité de la zone économique exclusive de la Colombie-Britannique (de 2001 à 2020)"
+  ],
+  "dct_creator_sm": [
+    "Lu Guan."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal climatologies for salinity of the Northeast Pacific Ocean were computed to cover the period 2001 to 2020. Historibal observations included all available conductivity-temperature_depth (CTD), bottle and profiling floats in the NODC World Ocean Database, Marine Environmental Data Services (MEDS), Institute of Ocean Sciences Water Properties website and the Canadian Integrated Ocean Observing System (CIOOS Pacific).\n\nMethods:\nInterpolation was carried out in up to fifty-two vertical levels from surface to 5000m. Data-Interpolating Variational Analysis (DIVA) was used for spatial interpolation for all years within each season and estimates projected onto a consistent grid. The average of the grid nodes was calculated to obtain the seasonal climatology. DIVA was used again on the final climatology followed by a median filter and a 5-point smoother. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March. \nThe data available here contain raster layers of seasonal salinity climatology for the Canadian Pacific Exclusive Economic Zone (EEZ), a subset of seasonal climatology of the Northeast Pacific Ocean, with high spatial resolution of 1/300 degree.\n\nData Sources:\nNODC, MEDS, IOS and CIOOS Pacific Data.\n\nUncertainties:\nUncertainties are introduced when quality controlled observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values.",
+    "Description:\nLes données climatologiques saisonnières sur la salinité de l’océan Pacifique Nord-Est ont été calculées pour couvrir la période de 2001 à 2020. Les observations historiques comprenant toutes les données disponibles de conductivité-température-profondeur (CTD), de bouteilles et de flotteurs profileurs de la World Ocean Database du Centre national de données océanographiques (CNDO), du Marine Environmental Data Service (MEDS), de la section sur les propriétés de l’eau du site Web de l’Institut des sciences de la mer et du Système intégré d’observation des océans du Canada (SIOOC – Pacifique).\n\nMéthodes:\nL’interpolation a été réalisée pour cinquante-deux niveaux verticaux de la surface à 5 000 m. On a réalisé une interpolation spatiale de données par analyse variationnelle (DIVA) pendant toutes les années au cours de chaque saison et les estimations ont été présentées sur une grille cohérente. On a calculé la moyenne des nœuds de la grille pour obtenir les données climatologiques saisonnières. La méthode DIVA a de nouveau été utilisée pour obtenir les données climatologiques définitives, suivie par un filtre médian et un lissage en 5 points. Les mois de printemps étaient définis comme allant d’avril à juin, ceux d’été comme allant de juillet à septembre, ceux d’automne comme allant d’octobre à décembre et ceux d’hiver comme allant de janvier à mars. \nLes données disponibles ici contiennent des couches matricielles de données climatologiques saisonnières sur la salinité pour la zone économique exclusive (ZEE) canadienne de l’océan Pacifique, un sous-ensemble des données climatologiques saisonnières de l’océan Pacifique Nord-Est, en haute résolution spatiale de 1/300 degré.\n\nSources de données:\nDonnées du CNDO, du MEDS, de l’IOS et du SIOOC – Pacifique.\n\nIncertitudes :\nDes incertitudes sont engendrées lorsque les données d’observation qui ont fait l’objet d’un contrôle de la qualité sont interpolées dans l’espace à des distances variables du point d’observation. Les moyennes climatologiques sont calculées à partir de ces valeurs interpolées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ceec7d97-59ff-422d-842c-d06b6626822e"
+  ],
+  "dct_issued_s": "2023-06-26",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ceec7d97-59ff-422d-842c-d06b6626822e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Seasonal Salinity Climatology of the British Columbia Exclusive Economic Zone (2001-2020)",
+  "gbl_mdModified_dt": "2026-03-24T08:37:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc9ddf35-9147-59ab-9449-13ab956de597",
+  "locn_geometry": "ENVELOPE(-139.66, -121.58, 54.31, 48.19)",
+  "schema_provider_s": "Open Data Canada"
+}

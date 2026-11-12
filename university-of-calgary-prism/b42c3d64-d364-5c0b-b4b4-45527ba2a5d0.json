@@ -1,0 +1,41 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Topps, David (OHMES, University of Calgary, University of Calgary, OHMES, , University of Calgary). ORCID: https://orcid.org/0000-0003-3593-544X",
+    "Armson, Heather (Dept of Family Medicine, University of Calgary, University of Calgary, OHMES, University of Calgary, Dept of Family Med, University of Calgary). ORCID: https://orcid.org/0000-0002-7147-6749",
+    "Mutch, Cathlin (University of Calgary, Dept of Family Medicine, University of Calgary, Dept of Family Med, University of Calgary).",
+    "Carr, Eloise (University of Calgary). ORCID: https://orcid.org/0000-0003-1870-4244",
+    "Taenzer, Paul (McMaster University). ORCID: https://orcid.org/0000-0001-9127-6237"
+  ],
+  "dct_description_sm": [
+    "Virtual patient cases on chronic pain CPGs, low back pain for DynIA project",
+    "README on what to do with these files\n-----------------------------------------------\n\nYou have downloaded an OLab zip file. See the second zip file contained within this download. Extract it and save it as a single zip file so this can be imported into an existing OpenLabyrinth v3 or OLab4 server. You do not need to expand this second zip file -- the import process will expand the contents into the correct locations on the OLab server. \n\nWhat are OLab scenarios?\nAn OLab virtual scenario is a case or story, or it might be a wee test to challenge your learners. It might be a simple 3-step set of pages and questions. It might be a complex choose-your-own-adventure style of branching narrative. \n\nWhy do I need an OLab server?\nTo simply play the original scenario, look at the metadata in the Dataverse that you downloaded this zip from. There will be a link to a playable version - for this, you only need a web browser. (No software download needed.) \n\nBut if you want to be able to edit the scenario, examine how it was crafted or use it as a template on which to build a new one, you start with this zip file and import it into an OLab server. \n\nYou will need an account on that OLab server that gives you author privileges. \n\nIf you do not have an account, contact us using the contact information given in the metadata in the Dataverse. \n\nHow do I import this scenario into an OLab server?\nThere are more detailed instructions available in the OLab User Guide. \nBriefly the steps are as follows:\n1. Login to your OLab server as usual. \n2. Under the Labyrinths or Maps menu, click on Import\n3. Tell the server which zip file to import.\n4. It should only take a few seconds to import most zip files. More complex scenarios might take a couple of minutes at most. \n5. When imported, the scenario should appear in your list of Labyrinths or Maps."
+  ],
+  "dct_identifier_sm": [
+    "715047_75362_75424",
+    "https://doi.org/10.5683/SP3/WF1N1K"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WF1N1K\"}",
+  "dct_rights_sm": [
+    "This material is licensed under a Creative Commons BY-NC-SA licence. https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "DynIA project virtual patient case examples - low back pain",
+  "gbl_mdModified_dt": "2024-02-29T00:10:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b42c3d64-d364-5c0b-b4b4-45527ba2a5d0",
+  "pcdm_memberOf_sm": [
+    "Office of Health & Medical Education Scholarship (OHMES) // OLab Dataverse"
+  ],
+  "schema_provider_s": "University of Calgary Prism"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.41289049547801, -94.02937876873489, 59.94785144092401, 48.977707314778804)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Parks",
+    "Park Reserve",
+    "Natural Park",
+    "Environment",
+    "Province of Manitoba",
+    "Indigenous Traditional Use Park",
+    "Recreation Park",
+    "Wilderness Park",
+    "Heritage Park",
+    "Manitoba Government",
+    "Provincial Park",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>This boundary layer shows all 92 provincial parks and one park reserve in Manitoba. The Manitoba Parks dataset is current to June 16, 2017.</p><p>Manitoba’s provincial parks and park reserves form the provincial park system. The purposes of this system are defined in <a href='http://web2.gov.mb.ca/laws/statutes/ccsm/p020e.php' target='_blank'>The Provincial Parks Act</a>. The system is intended to:</p>a) conserve ecosystems and maintain biodiversity<p></p>b) preserve unique and representative natural, cultural and heritage resources<p></p><p></p><p>c) provide outdoor recreational and educational opportunities and experiences in a natural setting.</p><p>All provincial parks in Manitoba are classified according to the purpose and management of the park. There are five classifications defined under The Provincial Parks Act.</p><p>1.         WILDERNESS PARKS</p><p>Wilderness parks contribute to the provincial network of protected areas by preserving representative areas of an ecoregion. Discussions with and support from local communities are crucial in the establishment of new wilderness parks and in ensuring that these remote areas continue to be protected into the future.</p><p>2.         NATURAL PARKS</p><p>The main purpose of a natural park is both to preserve areas of an ecoregion and to accommodate a diversity of recreational opportunities and resource uses. Natural parks minimize land available for resource extraction and, to the greatest extent possible, contribute to the provincial network of protected areas and provide outdoor recreational and educational experiences in a natural setting.</p><p>3.         INDIGENOUS TRADITIONAL USE PARKS</p><p>The main purpose of an Indigenous traditional use park is to preserve land that has been traditionally used by Indigenous Peoples and that is significant to Indigenous Peoples because of its natural features or cultural importance. The establishment of new Indigenous traditional use parks is based upon proposals put forward by Indigenous Peoples and the significance of these sites as traditional use areas.</p><p>4.         RECREATION PARKS</p><p>Recreation parks provide outdoor recreation opportunities in a natural setting. The establishment of new recreation parks is based on an assessment of recreational needs, economic viability and existing community services.</p><p>5.         HERITAGE PARKS</p><p>Heritage parks preserve unique and representative cultural and heritage resources of outstanding provincial significance. Partnerships with heritage groups and communities are essential to the creation of heritage parks.</p><p></p><p><br />PARK RESERVES</p><p></p><p>To assist in the creation of new parks and protected areas, The Provincial Parks Act also provides for the establishment of park reserves. The park reserve status provides for interim protection of areas under consideration. Areas selected for designation could ultimately become provincial parks or be placed under another appropriate designation, such as an ecological reserve.</p><p>For more information on the provincial park system please visit the <a href='http://www.gov.mb.ca/sd/parks/' target='_blank'>Manitoba Parks</a> website.</p><p></p><p></p><p></p><p>The Manitoba Parks digital boundary layer was first created in 1997. The boundaries of this layer are delineated using best available maps, data, and Director of Survey Plans. However, this layer is not to be used as a legal definition. Please obtain a Director of Surveys plan from GeoManitoba, Director of Surveys Office for defining legal boundaries.</p><p></p><p></p><p><br /><b>Fields Included</b> — <b>FIELD_NAME (<i>Alias</i>):</b></p><p></p><p></p><p></p><p>NAME_E (<i>Park Name</i>)<br />The name of the provincial park.</p><p>NOM_F (<i>Le nom du parc</i>)        <br />Le nom du parc provincial.</p><p>BIOME (<i>Ecosystem Type</i>)         <br />Ecosystem Type: M = Marine or T = Terrestrial</p><p>O_AREA (<i>Total Park Area (ha)</i>)  <br />Official Area in Hectares - the official area of the provincial park according to Director of Survey plans and legal descriptions.</p><p>LOC_E (<i>Province</i>)           <br />The geographical location (province) of the provincial park.</p><p>LOC_F (<i>Province</i>)           <br />L'emplacement géographique (province) du parc provincial.</p><p>TYPE_E (<i>Park Type</i>)     <br />The type of Provincial Park as set out by Manitoba's legislation.</p><p>TYPE_F (<i>Le type du parc</i>)       <br />Le type du parc provincial établi par la législation de Manitoba.</p><p>MGMT_E (<i>Managing Agency</i>)  <br />The managing agency for the provincial park.</p><p>MGMT_F (<i>L'agence gérant</i>)   </p><p>L'agence gérant du parc provincial.</p><p>LEGISL_E (<i>Legislation</i>)<br />Current legislation under which the provincial park is established.</p><p>LEGISL_F (<i>La législation</i>)   <br />La législation actuelle sous qui parc provincial est établi.</p><p>STATUS_E (<i>Protection Status</i>)   <br />The status field describes the current legal state of protection under law.</p><p>STATUS_F (<i>Statut de protection</i>)  <br />Statut de protection du parc provincial.</p><p>PROTDATE (<i>Protection Date</i>) <br />Protection Date - Manitoba regulation date first legally protecting and designating the protected area.</p><p>YR_PP_DES (<i>Established</i>)<br />Year Provincial Park Designated: year the provincial park was first legally designated through regulation.</p><p>OWNER_E (<i>Provincial Park Owner</i>)   <br />Describes the agency/organization/individual who owns the provincial park.</p><p>OWNER_F (<i>Le propriétaire du parc provincial</i>)   <br />Décrit l'agence/l'organisation/l'individu qui est le propriétaire du parc provincial.</p><p>PRK_CLSS (<i>Classification</i>)   <br />Park Classification - defines a park's role in the Manitoba provincial park system.</p><p>PR_EXP (<i>Park Reserve Expiry Date</i>)      <br />Park Reserve Expiry Date – date that park reserve status expires</p><p>D_OF_S (<i>Director of Survey Plan</i>)        <br />Director of Survey Plan Number - unique legal survey plan number also referred to in the provincial park description regulation.</p><p>OIC_NM (<i>Order in Council</i>)       <br />Order in Council Number - reflects all the Order in Council numbers associated with the park.</p><p>MB_RG_NM (<i>Regulation Number</i>) <br />Manitoba Regulation Number - the number of the regulation that legally designates a parcel of land; Reflects all the legal designations associated with the park.</p><p>MB_RG_D (<i>Manitoba Regulation Date</i>)  <br />Manitoba Regulation Date - the date of the regulation that legally designates a parcel of land as protected.</p><p>GAZDATE (<i>Gazette Date</i>)    <br />Gazette Date - public registry date of most current protected designation; current park reserve date of interim protection.</p><p>O_OF_M_D (<i>Order of Minister</i>)<br />Order of Minister Date - the date on which the Minister signed the order to withdraw crown mineral rights from a land parcel.</p><p>MN_RG_NM (<i>Mines Regulation Number</i>) <br />Manitoba Mines Regulation Number - the number of the regulation that officially states that crown mineral rights have been withdrawn from a land parcel.</p><p>MN_GZ_D (<i>Mining Gazette Date</i>)     <br />Public registry date of the mining regulation that withdraws mineral rights from the land parcel.</p><p>MN_RG_D (<i>Mining Regulation Date</i>) <br />Mining Regulation Date - date of the mines regulation that withdraws crown mineral rights from a land parcel.</p><p>COMMENTS (<i>Comments</i>)<br />General Comments - special notes about a provincial park.</p><p>URL (<i>Website</i>)               <br />Universal Resource Locator- Parks and Protected Spaces website link.</p>"
+  ],
+  "dct_identifier_sm": [
+    "0b8e5b5280904fa4aeba7baf78154e59",
+    "https://www.arcgis.com/home/item.html?id=0b8e5b5280904fa4aeba7baf78154e59"
+  ],
+  "dct_issued_s": "2018-01-03",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-parks\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Parks",
+  "gbl_mdModified_dt": "2022-10-26T16:00:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b195c955-1c57-5bf3-b9fe-8d25d3554f7b",
+  "locn_geometry": "ENVELOPE(-101.41289049547801, -94.02937876873489, 59.94785144092401, 48.977707314778804)",
+  "schema_provider_s": "Data MB"
+}

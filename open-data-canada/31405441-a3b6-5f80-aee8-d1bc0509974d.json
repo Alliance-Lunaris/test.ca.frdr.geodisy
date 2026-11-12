@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Notice of Work",
+    "MPSD",
+    "EMLI",
+    "permitted mine area"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Avis de travaux (NoW) - Zones minières autorisées - Mine régionale - Public"
+  ],
+  "dct_creator_sm": [
+    "Karen Samuelson."
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset represents authorized applications for a Mines Act permit known as a Permitted Mine Area (PMA). This dataset can be used in combination with the NoW point dataset which represents both applications for a Mines Act permit and issued authorizations for mining activities proposed in the application. **The regional mine PMA dataset is not complete for all mine sites in BC. Review the data quality section for more information** Point representation of NoW: https://catalogue.data.gov.bc.ca/dataset/fab53209-63be-4c61-8de4-3e3fceec4227 Applications for regional Mines Act permits are known as Notice of Work (NoW) applications. Regional mine permits are issued for mineral and coal exploration activities, sand and gravel production, quarry production, and placer mining. Major mine permits are issued for producing mineral and coal mines. Permits are issued by the chief permitting officer under section 10 of the Mines Act and administered by the ministry. **Regional mines include:** * Exploration — mineral, coal, rock quarry, industrial mineral or dimension stone * Sand and gravel — aggregate, rock or natural substances used for construction purposes * Placer   Most exploration and development activities require a permit under the Mines Act. A decision marks the end of the permitting process for a NoW application. The decision can either be to reject the application or to authorize the mining activities proposed in the NoW. * For new NoW authorizations, a Mines Act permit is issued * For an existing open Mines Act permit, the newly authorized mining activities are amended to the existing permit and the permit is re-issued   Notice of Work categories include: Notice of Work application type, Notice of Work application status. **Notice of Work application type** Field: NOW_APPLICATION_TYPE_DESC (NW_APPTYPD) * Coal * Mineral * Placer Operations * Quarry – Construction Aggregate * Quarry – Industrial Mineral * Sand and Gravel   **Notice of Work application status** Field: NOW_APPLICATION_STATUS_DESC (NW_APPSTAD) * Approved – mining activities in the NoW application have been authorized   **For the public view, please be aware that the ministry:** * Removed the attribute value of closed permits in the PERMIT_STATUS_CODE_DESC (PMT_STD) field. These records will show as permit status is NULL (empty). * Only shows mine commodities of gold or jade/nephrite in the MINE_COMMODITY_DESC (MN_COMD) field. All other commodity values remain NULL (empty)",
+    "Cet ensemble de données polygonales représente les demandes autorisées pour un permis en vertu de la Loi sur les mines connu sous le nom de zone minière autorisée (PMA). Cet ensemble de données peut être utilisé en combinaison avec l'ensemble de données NoW point qui représente à la fois les demandes de permis en vertu de la Loi sur les mines et les autorisations délivrées pour les activités minières proposées dans la demande. **L'ensemble de données régional sur la PMA des mines n'est pas complet pour tous les sites miniers de la Colombie-Britannique. Consultez la section sur la qualité des données pour plus d'informations** Représentation ponctuelle de NoW : https://catalogue.data.gov.bc.ca/dataset/fab53209-63be-4c61-8de4-3e3fceec4227 Les demandes de permis régionaux en vertu de la Loi sur les mines sont appelées demandes d'avis de travail (NoW). Des permis miniers régionaux sont délivrés pour les activités d'exploration de minéraux et de charbon, la production de sable et de gravier, la production de carrières et l'extraction de placers. Les principaux permis miniers sont délivrés pour la production de mines de minéraux et de charbon. Les permis sont délivrés par le directeur des permis en vertu de l'article 10 de la Loi sur les mines et administrés par le ministère. **Les mines régionales comprennent : ** * Exploration — minéraux, charbon, carrière de roches, minéraux industriels ou pierres dimensionnelles * Sable et gravier — agrégats, roches ou substances naturelles utilisés à des fins de construction * Placer La plupart des activités d'exploration et de développement nécessitent un permis en vertu de la Loi sur les mines. Une décision marque la fin du processus d'autorisation pour une demande NoW. La décision peut être soit de rejeter la demande, soit d'autoriser les activités minières proposées dans le NoW. * Pour les nouvelles autorisations NoW, un permis en vertu de la Loi sur les mines est délivré * Pour un permis ouvert existant en vertu de la Loi sur les mines, les activités minières nouvellement autorisées sont modifiées par rapport au permis existant et le permis est réémis. Les catégories d'avis de travaux incluent : type de demande d'avis de travaux, statut de la demande d'avis de travaux. **Type de demande d'avis de travail** Champ : NOW_APPLICATION_TYPE_DESC (NW_APPTYLD) * Charbon * Minerais * Opérations de placement * Carrière — Agrégat de construction * Carrière — Minéral industriel * Sable et gravier **État de la demande d'avis de travail** Champ : NOW_APPLICATION_STATUS_DESC (NW_APPSTAD) * Approuvé — les activités minières dans l'application NoW ont été autorisées **À l'attention du public, veuillez noter que le ministère : ** * Suppression de la valeur d'attribut des permis fermés dans le champ PERMIT_STATUS_CODE_DESC (PMT_STD). Ces enregistrements s'afficheront lorsque le statut du permis est NULL (vide). * N'affiche que les matières premières minières que sont l'or ou le jade/néphrite dans le champ MINE_COMMODITY_DESC (MN_COMD). Toutes les autres valeurs de matières premières restent nulles (vides)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c728435d-410e-42f9-81d5-95978c90e44a"
+  ],
+  "dct_issued_s": "2024-04-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c728435d-410e-42f9-81d5-95978c90e44a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Notice of Work (NoW) - Permitted Mine Areas - Regional Mine - Public",
+  "gbl_mdModified_dt": "2026-01-28T19:48:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31405441-a3b6-5f80-aee8-d1bc0509974d",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

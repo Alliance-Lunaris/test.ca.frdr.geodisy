@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "DPQPE product: DPQPE stands for: Dual Polarization Quantitative Precipitation Estimation. The DPQPE product is available only for S-Band radars. It is a two-dimensional representation of the precipitation rate estimated by the lowest sweep of the radar (elevation angle of 0.4 degrees for the majority of S-Band radars). Thus, the precipitation rate is estimated as close to the earth's surface as possible. The DPQPE product is based, among other things, on a series of polarimetric processing steps (quality control) to eliminate non-meteorological artifacts from the raw data (volumetric scans). It renders in mm/h for rain and cm/h for snow. This product is calculated with a maximum coverage range of 240 km."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6059da1d-e1da-4f2b-a420-b5c2a130eeaa"
+  ],
+  "dct_issued_s": "2023-03-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6059da1d-e1da-4f2b-a420-b5c2a130eeaa\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weather Radar - DPQPE",
+  "gbl_mdModified_dt": "2025-10-07T12:32:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5a64eedd-d9fe-518d-83e8-166cf951f3d3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

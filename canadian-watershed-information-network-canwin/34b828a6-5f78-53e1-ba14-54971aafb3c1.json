@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of public and private buildings on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Collection context**\n Attribute information updated in 2012 following a study carried out by the Fire Department\n\n**Collection method**\n As soon as there is a new orthophotography, digitization of buildings. (2025)\n+ Addition of a schematic building footprint from the main residential building permits issued\n\n**Attributes**\n\n* _objectid_ (_OID_): \n* _type_building_ (_String_): Building type\n* _st_area (shape) _ (_Double_): \n* _st_length (shape) _ (_Double_): \n* _id_bat2012_ (_String_): \n* _matricle_ (_String_): \n* _address_ (_String_): Address\n* _flow_lpm_ (_Integrate_): \n* _gpm_speed_ (_Integrate_): \n* _numbers_and_ (_smallInteger_): \n* _roof_type_ (_String_): \n* _height_ (_Double_): \n* _usage__ (_String_): \n* _location_ (_String_): \n* _batime_name_ (_String_): \n* _sprinklers_ (_String_): \n* _distance_bf_ (_String_): Fountain terminal\n* _barrack_distance_ (_String_): \n* _barrack_ (_String_): Barracks\n* _building_id_ (_smallInteger_): \n* _snow_permit_ (_String_): \n* _distance_bf_seche_ (_String_): Dry terminal\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/32f75a4d-552f-4ca3-ae03-e1512c0420d7"
+  ],
+  "dct_issued_s": "2026-04-08",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/32f75a4d-552f-4ca3-ae03-e1512c0420d7\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Buildings - City of Shawinigan",
+  "gbl_mdModified_dt": "2026-07-29T18:36:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34b828a6-5f78-53e1-ba14-54971aafb3c1",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

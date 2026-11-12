@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "natural products",
+    "microbial biosynthesis",
+    "phosphonates"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Horsman, Geoff (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-2023-2349",
+    "Li, Siwei (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0003-4438-3202"
+  ],
+  "dct_description_sm": [
+    "Dataset Version Log:<p>\n<dl>\n  <dt>V1 (2021-04-09)</dt>\n  <dd>- Initial Release </dd>\n  <dt>V2 (2022-01-04) </dt>\n  <dd>- Added a folder (gene_neighborhoods) containing gene neighborhoods as genbank files</dd>\n  <dd>- Added a file 'Total_wp_count.txt' containing a list of all Ppm sequence accession numbers and the number of gene neighborhoods containing that sequence</dd>\n\t<dd>- Added the sequences used to construct the phylogenetic tree in the file 'tree_seq.faa'</dd><p><p>\n</dl>\n<p>",
+    "Description of methods, scripts, and files used to computationally assess the biosynthetic diversity of microbial phosphonates. The workflow.md describes the sets of steps and scripts used to collect and analyze data. A .cys file for visualization in Cytoscape is included. The zip files contain the BiG-SCAPE networks, with the original directory structure generated as output and used for visualization."
+  ],
+  "dct_identifier_sm": [
+    "150866",
+    "https://doi.org/10.5683/SP2/T33ZP6"
+  ],
+  "dct_issued_s": "2021-04-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/T33ZP6\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Chemistry",
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Data for: An inventory of early branch points in microbial phosphonate biosynthesis",
+  "gbl_mdModified_dt": "2022-01-04T20:04:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6ea09085-ea18-5aed-9405-f479ce45ff39",
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

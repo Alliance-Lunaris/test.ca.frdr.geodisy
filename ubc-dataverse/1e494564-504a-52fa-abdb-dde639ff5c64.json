@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-92.4977, -77.0832, 18.5287, 6.4702)",
+  "dcat_keyword_sm": [
+    "Mangrove Loss",
+    "Restoration suitability",
+    "Aquaculture conversion",
+    "Central America",
+    "Subnational hotspot analysis",
+    "Mangrove restoration"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rodger, Colin (University of British Columbia). ORCID: https://orcid.org/0009-0008-7735-3599"
+  ],
+  "dct_description_sm": [
+    "This research paper presents a globally replicable methodology for subnational hotspot analysis of mangrove restoration suitability. The study utilized Central America as a focal area and employed a two-phase workflow involving scripted analysis in RStudio and non-scripted application of QGIS geoprocessing tools and qualitative assessment. Approaches to spatially defining mangrove areas for analysis were examined, including global administrative zones, buffering around mangrove areas of loss, and manual boundary selection. Specific datasets for restoration suitability indicators such as mangrove loss, population distribution, poverty metrics, soil organic carbon, protected areas and others were evaluated for effectiveness. Key findings included high restoration suitability in Nicaragua and Honduras, consistent underestimation of mangrove loss to aquaculture conversion, and varying effectiveness of protected areas between countries and designation types. The discussion section expands on the effectiveness of different indicators, compares mangrove delineation methods from the literature, emphasizes the usefulness of screening processes, and suggests future directions for restoration hotspot analysis. Overall, this research presents a flexible hotspot analysis methodology suitable for restoration practitioners operating within common constraints such as open-source software and freely accessible data."
+  ],
+  "dct_identifier_sm": [
+    "719055_73894_115983",
+    "https://doi.org/10.5683/SP3/0QUMML"
+  ],
+  "dct_issued_s": "2024-04-25",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/0QUMML\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Belize",
+    "Costa Rica",
+    "El Salvador",
+    "Guatemala",
+    "Honduras",
+    "Nicaragua",
+    "Panama"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Hotspot analysis for mangrove restoration suitability",
+  "gbl_mdModified_dt": "2024-04-25T20:34:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1e494564-504a-52fa-abdb-dde639ff5c64",
+  "locn_geometry": "ENVELOPE(-92.4977, -77.0832, 18.5287, 6.4702)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

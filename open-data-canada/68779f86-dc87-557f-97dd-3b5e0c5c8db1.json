@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.3311, -121.9943, 55.8743, 48.1771)",
+  "dcat_keyword_sm": [
+    "Modélisation",
+    "freshwater",
+    "atlas des eaux douces",
+    "eau douce",
+    "Modelling",
+    "index",
+    "Tides",
+    "indice",
+    "modèles de distribution des espèces",
+    "Marée",
+    "freshwater atlas",
+    "species distribution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Couches régionales de l’indice d’eau douce"
+  ],
+  "dct_creator_sm": [
+    "Marine Spatial Ecology and Analysis Section - Data Stewardship Unit."
+  ],
+  "dct_description_sm": [
+    "Description:\nThe Regional Freshwater Index Layers dataset is composed of five single-band raster layers in GeoTIFF format. Each layer corresponds to a marine region, which generally coincide with the following layers from the Species Distribution Modelling Boundaries dataset: Nearshore_HG, Nearshore_NCC, Nearshore_QCS, Nearshore_WCVI, and Shelf_SalishSea. \n\nThe main purpose of the dataset is to supplement existing layers that are used for species distribution modelling in the Pacific nearshore marine environment. Each regional freshwater index layer has the same spatial resolution and extent as other predictor layers for the corresponding region. While salinity layers exist from oceanographic models, they may not capture local difference from smaller scale rivers and streams entering the marine environment. Therefore, these layers are meant to complement salinity layers and are not suitable as a replacement for salinity data in species modelling.\n\nMethods:\nThe cell values represent an estimate of freshwater influence on a 0-1 scale, where a higher value represents a greater level of freshwater influence. Details on how these values are determined is described in the supplemental information section of the metadata. The main data source for these derived products is the B.C. Freshwater Atlas, including the stream network and river polygons layers.\n\nUncertainties:\nThe values in the rasters are not a measure of salinity. The units are an index representing the level of freshwater influence weighted by the stream order and rescaled across regions on a 0-1 scale where only the region with the greatest value has a range of values 0-1 and the other regions are scaled relatively. This is done to ensure that values in one region can be compared to values in another region. As a result, some regions have very small values because the Salish Sea with the Fraser River is dominant, even after applying a rescale factor to the data.",
+    "Description:\nL’ensemble de données des couches régionales de l’indice d’eau douce comporte cinq couches matricielles à bande unique en format GeoTIFF. Chaque couche correspond à une région marine, qui coïncide généralement avec les couches suivantes des ensembles de données sur les limites des modèles de répartition des espèces: Zone côtière_HG, Zone côtière_CCN, Zone côtière_DRC, Zone côtière_COIV et Plateau_MerDesSalish.\n\nL'objectif principal de l'ensemble de données est de compléter les couches existantes utilisées pour la modélisation de la répartition des espèces dans le milieu marin côtier du Pacifique. Chaque couche d'indice régional d'eau douce a la même résolution spatiale et la même étendue que les autres couches prédictives pour la région correspondante. Bien que des couches de salinité existent à partir de modèles océanographiques, elles peuvent ne pas saisir la différence locale des rivières et des ruisseaux à plus petite échelle qui pénètrent dans le milieu marin. Par conséquent, ces couches sont destinées à compléter les couches de salinité et ne peuvent pas remplacer les données sur la salinité dans la modélisation des espèces.\n\nMéthodes :\nLes valeurs des cellules représentent une estimation de l’incidence de l’eau douce sur une échelle de 0 à 1, où plus la valeur est élevée, plus le niveau d’incidence est grand. Les détails sur la façon de déterminer ces valeurs sont fournis dans la section sur renseignements supplémentaires dans les métadonnées. La principale source de données pour ces produits dérivés est l’Atlas de l’eau douce de la Colombie-Britannique, qui comprend notamment les couches du réseau de cours d’eau et des polygones de rivière.\n\nIncertitudes:\nLes valeurs figurant dans les matrices ne sont pas une mesure de la salinité. Les unités sont un indice représentant le niveau d’incidence de l’eau douce, pondéré par l’ordre du cours d’eau et ramené sur une échelle de 0 à 1 entre les régions, où seule la région ayant la valeur la plus élevée a une plage de valeurs de 0 à 1 et où les autres régions sont mises à l’échelle de manière relative. De cette façon, les valeurs d’une région peuvent être comparées à celles d’une autre région. Par conséquent, certaines régions ont des valeurs très faibles parce que la mer des Salish, avec le fleuve Fraser, est dominante, même après l’ajout d’un facteur de remise à l’échelle aux données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7d6f64fd-f181-4274-b9af-1ef1676495c1"
+  ],
+  "dct_issued_s": "2024-11-08",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7d6f64fd-f181-4274-b9af-1ef1676495c1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Regional Freshwater Index Layers",
+  "gbl_mdModified_dt": "2026-03-24T08:14:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "68779f86-dc87-557f-97dd-3b5e0c5c8db1",
+  "locn_geometry": "ENVELOPE(-133.3311, -121.9943, 55.8743, 48.1771)",
+  "schema_provider_s": "Open Data Canada"
+}

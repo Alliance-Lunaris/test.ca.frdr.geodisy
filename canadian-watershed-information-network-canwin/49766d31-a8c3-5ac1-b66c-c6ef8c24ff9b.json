@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.67110231, -64.50867079, 46.41867877, 46.30726269)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Eelgrass (Zostera marina) is important to waterfowl such as Atlantic Brant (Branta bernicla hrota), Canada Goose (Branta canadensis), American Black Duck (Anas rubripes), Common Goldeneye (Bucephala clangula) and Barrow's Goldeneye (Bucephala islandica). In New Brunswick eelgrass can be found along the Gulf of St. Lawrence, in protected harbours. Within this dataset are the results eelgrass land-cover classifications using either satellite or aerial photography for eight harbours: Bouctouche (46 30’N, 64 39’W); Cocagne (46.37 N, -64.60 W); Miscou (47.90 N, -64.55 W); Neguac (47.25 N, -65.03 W); Richibucto (46.70 N, -64.80 W); Saint-Simon (47.77 N, -64.76 W); Tabusintac (47.33 N, -64.93 W); and Tracadie (47.55 N, -64.88 W). Information on each dataset is provided:  \n  \n  Visible orthorectified aerial photography was used to classify polygons containing eelgrass in Cocagne Harbour. Field data for image training and validation were collected along transects in summer 2008 using a dGPS positioned towfish holding sidescan sonar and a video camera that was later transcribed as XY geographic points to describe eelgrass presence and a qualitative description of density. The area was flown for photography on September 24, 2008. eCognition Developer 8 software was used to segment the imagery, essentially polygons. Polygons were then classified manually for the presence of eelgrass. Using field data revealed eelgrass presence to be mapped correctly 87.2% of the time."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4a2250be-2cd6-48c0-b18d-6cadd6374aae"
+  ],
+  "dct_issued_s": "2024-12-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4a2250be-2cd6-48c0-b18d-6cadd6374aae\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Cocagne Harbour Eelgrass Classification",
+  "gbl_mdModified_dt": "2024-12-10T19:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "49766d31-a8c3-5ac1-b66c-c6ef8c24ff9b",
+  "locn_geometry": "ENVELOPE(-64.67110231, -64.50867079, 46.41867877, 46.30726269)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

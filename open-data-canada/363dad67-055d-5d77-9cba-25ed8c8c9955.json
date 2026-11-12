@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.01, -52.617, 83.117, 41.669)",
+  "dcat_keyword_sm": [
+    "Modèle",
+    "National (CA)",
+    "Provide Climate Information Products and Services",
+    "Climat",
+    "NetCDF",
+    "Climate",
+    "Approfondir les connaissances scientifiques et formuler de nouvelles méthodes de recherche le climat et le changement climatique",
+    "Atmospheric Science and Technology",
+    "Fournir des services et des produits d'information sur le climat",
+    "National (CA)",
+    "NetCDF",
+    "Sciences et technologie atmosphériques",
+    "Direction générale des sciences et de la technologie",
+    "Government of Canada",
+    "Gouvernement du Canada",
+    "Analyse statistique",
+    "Science and Technology Branch",
+    "Statistical analysis",
+    "Expand Scientific Knowledge for Climate Monitoring and Prediction",
+    "Models"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Les indices agroclimatiques à échelle statistiquement réduite de la CMIP6"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Environment and Climate Change Canada’s (ECCC) CMIP6 statistically downscaled agroclimatic indices are an updated version of the CMIP5 agroclimatic indices dataset making use of two different sets of downscaled scenarios created by the Pacific Climate Impacts Consortium (PCIC): 1. Canadian Downscaled Climate Scenarios–Univariate method from CMIP6 (CanDCS-U6), and 2. Canadian Downscaled Climate Scenarios–Multivariate method from CMIP6 (CanDCS-M6).   \n  \n  To address the needs of different user groups in Canada, 49 indices, including agroclimatic indices, were proposed by the Canadian adaptation community through a series of consultations. Please see the definition list for the equations of each index. In 2025, PCIC expanded the CMIP6 agroclimatic indices, by adding CanDCS-M6, which includes SSP3-7.0 for most GCMs. Additionally, PCIC introduced 18 new indices to the previous 49. The 67 indices are available for both the CanDCS-U6 and CanDCS-M6.  \n  \n  The range of impact-relevant climate indices available for download includes, indices representing counts of the number of days when temperature or precipitation exceeds (or is below) a threshold value; the episode length when a particular weather/climate condition occurs; and indices that accumulate temperature departures above or below a fixed threshold. The statistically downscaled climate indices are available for individual models and ensembles, historical simulations (1951-2014) and three emissions scenarios called “Shared Socioeconomic Pathways” (SSPs), SSP1-2.6, SSP2-4.5, and SSP5-8.5 (2015-2100), at a 10 x 10 km degree grid resolution. The CanDCS-M6 agroclimatic indices dataset also includes SSP3-7.0 results.  \n  \n  Note: projected future changes by statistically downscaled products are not necessarily more credible than those by the underlying climate model outputs. In many cases, especially for absolute threshold-based indices, projections based on downscaled data have a smaller spread because of the removal of model biases. However, this is not the case for all indices. Downscaling from GCM resolution to the fine resolution needed for impact assessment increases the level of spatial detail and temporal variability to better match observations. Since these adjustments are GCM dependent, the resulting indices could have a wider spread when computed from downscaled data as compared to those directly computed from GCM output. In the latter case, it is not the downscaling procedure that makes future projection more uncertain; rather, it is indicative of higher variability associated with a finer spatial scale.  \n  \n  Individual model datasets and all related derived products are subject to the terms of use (https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-1.html) of the source organization.",
+    "Les indices agroclimatiques à échelle statistiquement réduite de la CMIP6 d’Environnement et Changement climatique Canada (ECCC) sont une version mise à jour de l’ensemble de données des indices agroclimatiques de la CMIP5 utilisant deux ensembles différents de scénarios à échelle statistiquement réduite créés par le Pacific Climate Impacts Consortium (PCIC): 1. scénarios climatiques canadiens à échelle réduite – méthode univariée de la CMIP6 (CanDCS-U6), et 2. scénarios climatiques canadiens à échelle réduite – méthode multivariée de la CMIP6 (CanDCS-M6).   \n  \n  Pour répondre aux besoins de différents groupes d’utilisateurs au Canada, 49 indices, notamment des indices agroclimatiques, qui ont été proposés par la communauté canadienne de l’adaptation durant une série de consultations. Consultez la liste des définitions pour connaître les équations associées à chaque indice. En 2025, le PCIC a élargi les indices agroclimatiques de la CMIP6 en ajoutant CanDCS-M6, qui inclut SSP3-7.0 pour la plupart des MCM. En outre, le PCIC a ajouté 18 nouveaux indices aux 49 précédents. Les 67 indices sont disponibles pour CanDCS-U6 et CanDCS-M6.  \n  \n  L’éventail d’indices climatiques utiles pour examiner les effets qui sont téléchargeables comprend des indices représentant le nombre de jours où la température ou les précipitations sont supérieures (ou inférieures) à une valeur seuil, des indices de durée des épisodes d’une condition météorologique ou climatique particulière, et des indices qui cumulent les écarts de température au-dessus ou au-dessous d’un seuil fixé. Les indices climatiques statistiquement mis à l’échelle sont disponibles pour les modèles individuels et les ensembles de modèles, les simulations historiques (1951-2014) et trois scénarios d’émissions appelés « profils socioéconomiques partagés » (SSP), soit SSP1-2.6, SSP2-4.5 et SSP5-8.5 (2015-2100), à une résolution de grille de 10 x 10 km. L’ensemble de données des indices agroclimatiques CanDCS-M6 comprend également les résultats de SSP3-7.0.  \n  \n  Remarque : les changements projetés par les produits mis à l’échelle sur le plan statistique ne sont pas nécessairement plus crédibles que ceux des résultats du modèle climatique sous-jacent. Souvent, surtout pour les indices fondés sur des seuils absolus, l’écart des projections fondées sur des données mises à l’échelle est plus faible en raison de l’élimination des biais du modèle. Or ce n’est pas le cas pour tous les indices. La mise à l’échelle de la résolution du MCM pour qu’elle soit haute, ce qui est nécessaire pour l’évaluation des répercussions, augmente le niveau de détail spatial et de variabilité temporelle pour mieux correspondre aux observations. Étant donné que ces ajustements dépendent du MCM, les indices qui en résultent pourraient avoir un écart plus grand lorsqu’ils sont calculés à partir de données mises à l’échelle comparativement à ceux qui sont directement calculés à partir des résultats du MCM. Dans ce dernier cas, ce n’est pas la procédure de mise à l’échelle qui rend la projection plus incertaine, il s’agit plutôt d’une plus grande variabilité associée à une échelle spatiale plus haute.  \n  \n  Les ensembles de données de modèles individuels et tous les produits dérivés connexes sont assujettis aux conditions d'utilisation (https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-1.html) de l'organisation source."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4c902988-6644-462c-84ba-b029454e7fe9"
+  ],
+  "dct_issued_s": "2023-08-25",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4c902988-6644-462c-84ba-b029454e7fe9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "CMIP6 statistically downscaled agroclimatic indices",
+  "gbl_mdModified_dt": "2025-10-21T13:10:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "363dad67-055d-5d77-9cba-25ed8c8c9955",
+  "locn_geometry": "ENVELOPE(-141.01, -52.617, 83.117, 41.669)",
+  "schema_provider_s": "Open Data Canada"
+}

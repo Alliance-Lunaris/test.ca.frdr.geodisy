@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "## General guidelines 1. The dataset contains trip origin, destination, commodity group, average daily trips, commodity weight and value. 2. The data represents activity by medium and heavy trucks only. 3. The origin and destination data is aggregated by counties in Ontario and province or state outside of Ontario. 4. The commodities are grouped into 32 groups and empty trucks. 5. The Commercial Vehicle Survey targets travel on provincial facilities. Therefore, coverage of intra-urban trips is incomplete, and should not be interpreted as representative. 6. Trip activity within the Greater Toronto Area municipalities is not representative. 7. The average trip distance is 440 km. Caution must be exercised with short distance trip activities. 8. All Origin-destination pairs with average trip activity of less than one trip per day have been suppressed. ## Field descriptions **Origin zone** : Trip Origin Zone Number - Zone aggregation is counties in Ontario and province/state for others 35XX - Ontario counties 70XX - U.S. States XX00-XX00 (except 3500) - Canadian Provinces **Origin name** : Trip Origin Name - county or province/state name **Destination zone** : Trip Destination Zone Number - Zone aggregation is counties in Ontario and province/state for others. Same numbering system as origins **Destination name** : Trip Destination Name - county or province/state name **Commodity group code** : Unique commodity group numeric code **Commodity group:** Descriptive name of the commodity group **Daily trips** : Average daily truck trips **Commodity weight** : Average daily commodity weight in kilograms (KG) **Commodity value** : Average daily value of the commodity in dollars ($) *[km]: kilometre"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cc38eb0b-c4fa-4bcb-8551-67c06e6b9500"
+  ],
+  "dct_issued_s": "2020-11-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cc38eb0b-c4fa-4bcb-8551-67c06e6b9500\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "2006 Commercial Vehicle Survey: origin and destination",
+  "gbl_mdModified_dt": "2026-09-02T13:31:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "12dd9187-4f4d-5f1d-9c0f-0ea7037b0feb",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

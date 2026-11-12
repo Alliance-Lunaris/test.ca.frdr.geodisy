@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays sub-basin-level average precipitation derived from the ECMWF (European Centre for Medium-Range Weather Forecasts) model. This layer helps hydrologists, forecasters, and planners see how much rainfall/snowfall is predicted or has occurred in each sub-basin, supporting medium-range water resource and flood management. We are intersested in the forecast period of 7 days.\n\nThis layer aggregates ECMWF forecast precipitation over polygonal sub-basins. Each feature includes attributes for average accumulated precipitation, forecast run/valid times, and sub-basin identifiers. ECMWF is a leading global model offering medium-range (up to 10 days) forecasts at a high skill level. By focusing on sub-basins, this layer aids in local-scale decision-making—enabling more precise flood risk assessments, reservoir inflow estimates, and water resource planning across the region of interest."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d02fa465-e0ef-8752-5848-afd03a1c416a"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d02fa465-e0ef-8752-5848-afd03a1c416a\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (ECMWF - 7 Days)",
+  "gbl_mdModified_dt": "2026-04-01T20:02:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2c7e5270-af24-5e97-a80b-f954c3ac8495",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

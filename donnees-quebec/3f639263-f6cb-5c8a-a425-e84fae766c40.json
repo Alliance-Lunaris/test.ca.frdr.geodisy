@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Espèce menacée",
+    "Modèle à haute résolution",
+    "Espèce en péril",
+    "Espèce en situation précaire",
+    "Catharus",
+    "Nidification",
+    "Bicknelli",
+    "MRE",
+    "Espèce vulnérable",
+    "Protection",
+    "MQH",
+    "Biodiversité",
+    "Éolien",
+    "Potentiel",
+    "Espèce protégée",
+    "Habitat",
+    "Succesion forestière",
+    "Atténuation",
+    "SMAFP"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction principale des espèces menacées ou vulnérables (DPEMV)."
+  ],
+  "dct_description_sm": [
+    "La Grive de Bicknell (*Catharus bicknelli*) est une espèce d’oiseau menacée au Canada et vulnérable à l’échelle internationale. L’aire de répartition de cette espèce est l’une des plus restreintes en Amérique du Nord: on retrouverait plus de 75% des effectifs de l’espèce au Québec. Il existe quelques modèles visant à cartographier l’habitat de la Grive de Bicknell. Par contre, ces derniers sont issus de données géospatiales de faible résolution et, pour la plupart d’entre eux, la variation expliquée dans la présence de l’espèce est principalement expliquer par l'altitude et la latitude et peu par les caractéristiques d’habitats, ce qui permet difficilement d’identifier précisément les endroits à fort potentiel pour l’espèce. Suite à l'arrivée des données lidar, de nouvelles méthodes de caractérisation de la structure forestière permettent de mieux caractériser l'habitat de la Grive de Bicknell.\r\n\r\nLe modèle de répartition, partagé ici, présente les probabilités d’occurrence de la Grive de Bicknell à l’aide de données lidar. Il a été calibré avec 139 occurrences (précision spatiale de 10 m), chacune associée à 10 localisations aléatoires dans une zone tampon de 523 à 1 569 m, puis validé à l’aide d’un jeu de données indépendant de 3 928 points d’écoute. Ce modèle est calibré et validé à l’aide de deux jeux de données d’inventaire de la grive de Bicknell indépendants réalisés entre 2011 et 2021.\r\n\r\nÀ partir des résultats du modèle, deux seuils statistiques ont été appliqués pour orienter la prise de décision. La probabilité de présence de l’espèce était la plus élevée dans les peuplements denses de sapin baumier en haute altitude. Le modèle le mieux classé intégrait également la succession forestière, avec un ajustement de la hauteur de la canopée pour tenir compte de la croissance des arbres depuis l'acquisition des données lidar.\r\n\r\nPour plus de détails, par exemple sur l’aire d’étude, les données utilisées et la modélisation effectuée, consulter l’article scientifique de Tremblay et coll. (2025) [« Assessing *Catharus bicknelli* (Bicknell’s Thrush) habitat dynamics: A high-resolution model based on LiDAR metrics »](https://academic.oup.com/condor/article/127/4/1/8168976) (article Open Source).\r\n\r\n####Qu’est-ce qu’un MRE?####\r\nUn modèle de répartition d’espèce (MRE) vise à prédire l’aire de répartition d’une espèce ou sa probabilité de présence. Pour des informations générales, consultez la page [« Évaluation de la qualité des habitats »](https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/faune/gestion-faune-habitats-fauniques/habitats-fauniques/evaluation-qualite-habitats). Pour une comparaison des différents types de modèle, consultez le document [« Différence entre cote ou clé de qualité de l’habitat, indice de qualité de l’habitat et modèle de répartition d’espèce »](https://cdn-contenu.quebec.ca/cdn-contenu/faune/documents/habitats/difference-cote-cle-indice-qualite-habitat-modele-repartition-espece.pdf). \r\n\r\n####MISES EN GARDE####\r\n* ** <font color=\"firebrick\"> __L'article de Tremblay et coll. (2025) doit être cité lors de l’utilisation de ce modèle (voir section « Documentation »)__.</font> **\r\n\r\n* Ce modèle est lié au [« *Recueil des protocoles standardisés d’inventaires de la grive de Bicknell et de son habitat dans le cadre de projets éoliens au Québec* »](https://bibliotheque.cecile-rouleau.gouv.qc.ca/documents/archives/pgq/E5E86_A17_R42_2026.pdf) du Gouvernement du Québec. Consultez le recueil pour connaître les modalités d’application du modèle aux inventaires de la grive de Bicknell requis dans le contexte éolien.\r\n\r\n####Documentation####\r\nTREMBLAY, J. A., F. LESSARD, M. RIOPEL, Y. AUBRY et A. DESROCHERS (2025). [Assessing *Catharus bicknelli* (Bicknell’s Thrush) habitat dynamics: A high-resolution model based on LiDAR metrics](https://academic.oup.com/condor/article/127/4/1/8168976), *Ornithological Applications*, 127: duaf040.\r\n\r\nMINISTÈRE DE L’ENVIRONNEMENT, DE LA LUTTE CONTRE LES CHANGEMENTS CLIMATIQUES, DE LA FAUNE ET DES PARCS (2026). [Recueil des protocoles standardisés d’inventaires de la grive de Bicknell et de son habitat dans le cadre de projets éoliens au Québec](https://bibliotheque.cecile-rouleau.gouv.qc.ca/documents/archives/pgq/E5E86_A17_R42_2026.pdf), gouvernement du Québec, Québec, 23 p. + annexes."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/55e74459-1894-4153-a9dc-84804971dac0"
+  ],
+  "dct_issued_s": "2026-02-26",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/55e74459-1894-4153-a9dc-84804971dac0\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Modèle de répartition (MRE) de la grive de Bicknell au Québec",
+  "gbl_mdModified_dt": "2026-08-20T20:05:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3f639263-f6cb-5c8a-a425-e84fae766c40",
+  "schema_provider_s": "Données Québec"
+}

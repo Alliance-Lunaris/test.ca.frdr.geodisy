@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.1318, -101.3398, 53.9111, 48.9324)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Land cover imagery for the mixed grassland ecoregion of Saskatchewan with a resolution of 10m. Classification was based on machine learning analysis and remote sensing data of Sentinel-1 and Sentinel-2 imagery. The goal of this land cover was to distinguish native from tame grasslands, and is classified into several classes: cropland, native grassland, mixed grassland, tame grassland, water, shrubs and trees. Please also refer to the Prairie Landscape Inventory (PLI) - Mixed Grassland Accuracy raster file, which depicts the estimated level of accuracy for this this classification.  \n  \n  Download: Here Land cover imagery for the mixed grassland ecoregion of Saskatchewan with a resolution of 10m. Classification was based on machine learning analysis and remote sensing data of Sentinel-1 and Sentinel-2 imagery. The goal of this land cover was to distinguish native from tame grasslands, and is classified into several classes: cropland, native grassland, mixed grassland, tame grassland, water, shrubs and trees. Badreldin, N.; Prieto, B.; Fisher, R. Mapping Grasslands in Mixed Grassland Ecoregion of Saskatchewan Using Big Remote Sensing Data and Machine Learning. Remote Sens. 2021, 13, 4972. https://doi.org/10.3390/rs13244972The Prairie Landscape Inventory (PLI) working team of Habitat Unit in the Fish, Wildlife and Lands Branch, Ministry of Environment aims to develop improved methods of assessing land cover and land use for conservation. Native grassland, in particular, has been one of the most hard to map at risk ecosystems because of difficulty for imagery classification methods to distinguish native from tame grasslands. Improved classification methods will provide valuable information for habitat suitability, identifying high biodiversity potential and invasion risk potential. The classification map has seven (7) classes: 1. Cropland This class represents all cultivated areas with crop commodities such as corn, Pulses, Soybeans, canola, grains, and summer-fallow. 2. Native This class represents the native grassland areas of the Mixed Grasslands, which are composed primarily of native grass species such as the needle grasses (needle and thread, porcupine grass and green needle grass), wheat grasses (slender wheatgrass, western wheatgrass and awned wheatgrass) along with June grass and blue grama grass. Also includes a variety of additional grass and sedge species, forbs such as pasture sage and some non-vascular species such as selaginella or lichens. 3. Mixed This class represents one or more of the followings cases; o A higher heterogenic grassland terrain with a mix of less than 75% native or/and less than 75% tame; o Native or/and tame grassland affected by high abiotic stresses such as soil salinity and drought; o Native or/and tame grassland affected by soil erosion such as water and wind erosions; o A high disturbed area by livestock and human activities; and o A bare terrain with low vegetation cover < 50% coverage in 100 m2 area. 4. TameThis class represents the tame grassland areas that have in most cases been intentionally modified and seeded or planted with an introduced grass species such as crested wheatgrass and smooth brome. Russian wild rye is encountered typically planted in more saline areas. However, in more recent years’ horticultural varieties of various wheatgrass species have also been introduced. Alfalfa and sweet clover are the most commonly encountered introduced forb species. 5. Water This class represents one of the following hydrological forms: o Lakes; o Rivers; o Water ponds; o Streamflow; o Dugouts; and o Lower elevations in irrigated areas. 6. Shrubs (Modified from ISO 19131 Annual Crop Inventory – Data Product Specifications, Agriculture and Agri-food Canada, 2013.)This class represents the predominantly woody vegetation of relatively low height (generally ±2 m). This class may include grass or wetlands with woody vegetation, and regenerating forest. 7. Trees (Modified from ISO 19131 Annual Crop Inventory – Data Product Specifications, Agriculture and Agri-food Canada, 2013.)This class represents predominantly forest areas such as: o Coniferous trees; o Deciduous trees; o Mixedwood area; and o Other trees > 2 m height. Colour Classes: Value Label Red Green Blue 1 Cropland 255 255 190 2 Native 168 168 0 3 Mixed 199 215 158 4 Tame 245 202 122 5 Water 190 232 255 6 Shrubs 205 102 153 7 Trees 38 115 0 Accuracy:Please refer to the Prairie Landscape Inventory (PLI) - Mixed Grassland Accuracy raster file, which depicts the estimated level of accuracy for this classification."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4f5dfd79-445f-e2c2-c6ed-ae3648b1a635"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4f5dfd79-445f-e2c2-c6ed-ae3648b1a635\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Prairie Landscape Inventory (PLI) - Mixed Grassland Classification",
+  "gbl_mdModified_dt": "2025-05-14T12:10:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eac1c872-d8a2-53b8-a786-efbe74644d18",
+  "locn_geometry": "ENVELOPE(-110.1318, -101.3398, 53.9111, 48.9324)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(102.9996662, 103.3668, 11.0534717, 10.5198342)",
+  "dcat_keyword_sm": [
+    "seagrass",
+    "remote sensing",
+    "satellite image analysis",
+    "Planetscope",
+    "random forest classification",
+    "Sentinel-2",
+    "marine conservation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Tan, Nigel (University of British Columbia). ORCID: https://orcid.org/0000-0001-9361-3786"
+  ],
+  "dct_description_sm": [
+    "Project on comparing Sentinel-2 and Planetscope for detecting and monitoring seagrasses in Cambodia’s Koh Rong and Koh Sdach Archipelagos. Files include final report along with 6 polygon shapefiles and a descriptive Readme.\n\nShapefiles include training and validation data, along with seagrass bed outputs from both Sentinel-2 and Planetscope data. Each satellite type has 2 output polygon datasets, one made using raw imagery and one made using imagery corrected with the Lyzenga algorithm Depth Invariant Index (DII).",
+    "Tropical seagrass is an integral part of the world’s fisheries as it acts as a nursery for benthic reproduction, leading to it being the center of many conservation efforts. Monitoring seagrass by high resolution satellite is commonplace, but such data quality is often unavailable for many conservation groups, leading to a question of whether open-source satellite data is sufficient to meet the rigorous needs of seagrass patch detection. 10m images from the European Space Agency’s (ESA) Sentinel-2 and 3m images from Planet Labs’ Planetscope covering the Koh Sdach and Koh Rong Archipelagos in Cambodia were collected, processed, and classified, with outputs being compared for seagrass detection ability and suitability. Image scenes were merged and processed to produce depth invariant indexes using the Lyzenga algorithm. Random forest classification with ground truth data yielded accuracies of 79.5% for Sentinel and 79.7% for Planetscope using unprocessed rasters, while depth invariant rasters resulted in accuracies of 80.8% and 70.0% respectively. Sentinel-2 and Planetscope are qualitatively compared based on technical specifications and factors such as band wavelength, radiometric quality, and revisit time. Sentinel-2 shows that it is able to match the seagrass detection ability of the higher resolution Planetscope due to its additional blue band and deeper radiometric depth. Results of this analysis are placed in the context of wider research on detecting seagrass patches through satellite image classification."
+  ],
+  "dct_identifier_sm": [
+    "154531_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/PLMJCN"
+  ],
+  "dct_issued_s": "2021-04-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/PLMJCN\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Cambodia"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Remote Sensing Seagrasses in Cambodia: Comparing Sentinel-2 and Planetscope for detecting and monitoring seagrasses in Cambodia’s Koh Rong and Koh Sdach Archipelagos",
+  "gbl_mdModified_dt": "2021-04-12T17:34:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "13333355-a94e-58a1-9b41-d51fffb7baf2",
+  "locn_geometry": "ENVELOPE(102.9996662, 103.3668, 11.0534717, 10.5198342)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Système de cote ÉnerGuide",
+    "ENERGY STAR pour maisons neuves",
+    "Carte climatique",
+    "ENERGY STAR for New Homes",
+    "climate map",
+    "Rendement énergétique",
+    "HOT2000",
+    "HOT2000",
+    "Energy efficiency",
+    "EnerGuide Rating System"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte climatique HOT2000"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The HOT2000 software contains monthly and annual climate data for 403 locations in Canada. Boundary lines for HOT2000 climate zones were defined through spatial interpolation of the annual Celsius heating degree-days for each weather station. In a number of instances, the positions of boundary lines may not be representative of the local climate conditions due to lack of appropriate climate data. Each HOT2000 climate zone contains one weather station to be used for all locations within the zone. Climate data represent 20-year averaged data from 1998 to 2017 for locations south of 58° latitude and 13-year averaged data from 2005 to 2017 for locations north of 58° latitude. Note that Whistler, BC uses 13 years of data.  \n  \n  The following information is available in the climate map:  \n  \n  o\tLocation: the name of the weather station.  \n  \n  o\tRegion: the provincial or territorial location of the weather station.  \n  \n  o\tLatitude: measured in degrees north of the equator.  \n  \n  o\tAnnual heating degree-days using a base of 18 °C.  \n  \n  o\tDesign heating dry bulb temperature (°C): the 2.5% January design temperature used to calculate the design heat loss for the house.  \n  \n  o\tDesign cooling dry bulb temperature (°C): the 2.5% July design temperature used to calculate the design cooling load for the house.  \n  \n  o\tDesign cooling wet bulb temperature (°C): the 2.5% July design temperature used to calculate the design cooling load for the house.  \n  \n  The climate map is intended to be used by all users of the HOT2000 software under the EnerGuide Rating System, including energy advisors, service organizations, regulatory agencies, builders, utilities, and all levels of government.  \n  \n  The weather locations and climate data are based on Environment and Climate Change Canada data, specifically the Canadian Weather Energy and Engineering Datasets (CWEEDS).",
+    "Le logiciel HOT2000 contient des données climatiques mensuelles et annuelles de 403 emplacements au Canada. Les frontières des zones climatiques HOT2000 ont été définies par interpolation spatiale des degrés-jours de chauffage annuels en Celsius pour chaque station météorologique. Dans certaines circonstances, les positions des frontières peuvent ne pas refléter les conditions climatiques locales en raison du manque de données climatiques appropriées. Chaque zone climatique HOT2000 contient une station météorologique à utiliser pour tous les emplacements dans la zone. Les données climatiques représentent les données moyennes sur 20 ans (de 1998 à 2017) pour les emplacements au sud du 58e degré de latitude et les données moyennes sur 13 ans (de 2005 à 2017) pour les emplacements au nord du 58e degré de latitude. Veuillez noter que Whistler, en Colombie-Britannique, utilise les données accumulées sur une période de 13 ans.  \n  \n  La carte climatique comprend les renseignements suivants :  \n  \n  o\tLieu : le nom de la station météorologique.  \n  \n  o\tRégion climatique : la province ou le territoire de la station météorologique.  \n  \n  o\tLatitude : mesurée en degrés au nord de l’équateur.  \n  \n  o\tDegrés-jours annuels de chauffage utilisant une base de 18 °C.  \n  \n  o\tTempérature sèche de calcul pour le chauffage (°C) : température de calcul de janvier à 2,5 % utilisée pour calculer les pertes de chaleur de la maison.  \n  \n  o\tTempérature sèche de calcul pour la climatisation (°C) : température de calcul de juillet à 2,5 % utilisée pour calculer la charge de climatisation de la maison.  \n  \n  o\tTempérature humide de calcul pour la climatisation (°C): température de calcul de juillet à 2,5 % utilisée pour calculer la charge de climatisation de la maison.  \n  \n  La carte climatique est destinée à être utilisée par tous les utilisateurs du logiciel HOT2000 dans le cadre du système de cote ÉnerGuide, notamment les conseillers en efficacité énergétique, les organismes de service, les organismes de réglementation, les constructeurs, les services publics et tous les ordres de gouvernement.  \n  \n  Les stations météorologiques et les données climatiques sont basés sur les données d’Environnement et changement climatique Canada, en particulier les fichiers météorologiques canadiens pour l’énergie et le génie (FMCEG)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4672733b-bbb6-4299-a57f-f19ab475ac11"
+  ],
+  "dct_issued_s": "2020-10-21",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4672733b-bbb6-4299-a57f-f19ab475ac11\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "government_and_politics"
+  ],
+  "dct_title_s": "HOT2000 Climate Map",
+  "gbl_mdModified_dt": "2024-02-15T18:15:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa30a3b1-0499-5536-9357-29b84c8e3d6a",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

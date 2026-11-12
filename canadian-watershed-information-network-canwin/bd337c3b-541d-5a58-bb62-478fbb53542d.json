@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Shows sub-basin-averaged precipitation from the GEPS ensemble, reflecting the mean (or other metrics) of multiple ensemble members. Useful to understand probabilistic rainfall/snowfall expectations for each watershed.\n\nGEPS is ECCC’s ensemble system, running ~20 members globally to quantify forecast uncertainty out to ~16 days. This layer aggregates ensemble precipitation data over sub-basin polygons. The attribute “Average Accumulated Precipitation” often represents the ensemble mean, capturing a more probable average scenario. Operators can use this for risk-based hydrological planning or to gauge confidence in upcoming flood/drought scenarios across different sub-basins."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5482d4f0-64b2-8868-3fff-15638cfe7cee"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5482d4f0-64b2-8868-3fff-15638cfe7cee\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation - GEPS 384 hrs",
+  "gbl_mdModified_dt": "2026-03-18T11:31:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bd337c3b-541d-5a58-bb62-478fbb53542d",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

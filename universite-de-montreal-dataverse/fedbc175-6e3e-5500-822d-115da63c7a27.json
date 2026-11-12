@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Communautés de surface",
+    "Microbial ecology",
+    "Mining pit lakes",
+    "Trace metal gradient",
+    "Diversité microbienne",
+    "Depth gradient",
+    "Microbial diversity",
+    "Surface-attached communities",
+    "Écologie microbienne",
+    "Gradient de profondeur"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lhoste, Elise (Université du Québec à Montréal). ORCID: https://orcid.org/0009-0003-5372-6374",
+    "Ponsin, Violaine (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-6909-678X",
+    "Rosabal, Maikel (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-5420-3490",
+    "Lazar, Cassandre (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-4384-7936"
+  ],
+  "dct_description_sm": [
+    "Variables and their units are : depth (m); dissolved inorganic carbon (DIC) (mg/L); dissolved organic carbon (DOC) (mg/L), ammonium/ammoniac (NHx) (mg/L); nitrite (NO2) (mg/L); temperature (°C); pH; dissolved oxygen saturation (DO) (%); dissolved oxygen saturation (DO) (mg/L); Trace metal concentration in water (nmol/L); Trace metal bioaccumulated (nmol/cm²)",
+    "[English] The datasets included in this repository were generated to characterize the environmental conditions and microbial diversity of the Blackburn (MB) and Forsyth (MF) mines, two abandoned and flooded mines located in the Outaouais region of Québec, Canada. Microbial communities were characterized for bacteria (bac), archaea (arc), and eukaryotes (euc) in both the Blackburn and Forsyth mines. For each microbial group, three files are provided. The file “raw_meta_[bac/arc/euc].csv” contains the sample metadata, including sampling site, depth, lifestyles (planktonic vs surface-attached), surfaces type (rock, wood, metal) and associated environmental information, including trace metals concentrations. In the Blackburn mine, water and surface-attached samples were collected in june 2022 along a depth gradient (0, 6, 12, 24, 37, 43, and 52 m). In the Forsyth mine, water and surface-attached samples were collected along a depth gradient (0, 6, 12, and 24 m) in septembre 2019. The file “raw_taxa_[bac/arc/euc].csv” contains the taxonomic assignments of the amplicon sequence variants (ASVs), from domain to the lowest confidently assigned taxonomic rank. The file “raw_asv_[bac/arc/euc].csv” contains the ASV abundance table, with ASVs as rows, samples as columns, and the corresponding sequencing read counts. Dataframes containing trace metal concentrations measured in water and in surface-attached samples (bioaccumulated concentrations) are provided in df_ETM_[bioacc/water].csv",
+    "[Français] Les jeux de données inclus dans ce dépôt ont été générés pour caractériser les conditions environnementales et la diversité microbienne des mines Blackburn (MB) et Forsyth (MF), deux mines abandonnées et inondées situées dans la région de l'Outaouais, au Québec, Canada. Les communautés microbiennes ont été caractérisées pour les bactéries (bac), les archées (arc) et les eucaryotes (euc) dans les deux mines. Trois fichiers sont fournis pour chaque groupe microbien. Le fichier « raw_meta_[bac/arc/euc].csv » contient les métadonnées des échantillons, notamment le site de prélèvement, la profondeur, le mode de vie (planctonique ou fixé à la surface), le type de surface (roche, bois, métal) et les informations environnementales associées, y compris les concentrations de métaux traces. Dans la mine Blackburn, des échantillons d'eau et de micro-organismes fixés à la surface ont été prélevés en juin 2022 le long d'un gradient de profondeur (0, 6, 12, 24, 37, 43 et 52 m). Dans la mine de Forsyth, des échantillons d'eau et de sédiments de surface ont été prélevés en septembre 2019 selon un gradient de profondeur (0, 6, 12 et 24 m). Le fichier « raw_taxa_[bac/arc/euc].csv » contient l'attribution taxonomique des variants de séquences d'amplicons (ASV), du domaine au rang taxonomique le plus fiable. Le fichier « raw_asv_[bac/arc/euc].csv » contient le tableau d'abondance des ASV, avec les ASV en lignes, les échantillons en colonnes et le nombre de lectures de séquençage correspondant. Les dataframes contenant les concentrations de métaux traces mesurées dans l'eau et dans les sédiments de surface (concentrations bioaccumulées) sont fournies dans le fichier « df_ETM_[bioacc/water].csv »."
+  ],
+  "dct_identifier_sm": [
+    "1198997_281357_281358",
+    "https://doi.org/10.5683/SP4/ED0LSZ"
+  ],
+  "dct_issued_s": "2026-07-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/ED0LSZ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Trace metals and sessile microbial communities in two neutral mine pit lakes : Blackburn mine and Forsyth mine, Quebec, Canada",
+  "gbl_mdModified_dt": "2026-08-03T14:01:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fedbc175-6e3e-5500-822d-115da63c7a27",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

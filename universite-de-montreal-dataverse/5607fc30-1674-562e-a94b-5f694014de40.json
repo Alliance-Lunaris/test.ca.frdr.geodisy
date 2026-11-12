@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Microbial ecology",
+    "Lacs miniers",
+    "Mining pit lakes",
+    "Sessile communities",
+    "Diversité microbienne",
+    "Communautés planctoniques",
+    "Depth gradient",
+    "Microbial diversity",
+    "Communautés microbiennes",
+    "Planktonic communities",
+    "Écologie microbienne",
+    "Gradient de profondeur"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lhoste, Elise (Université du Québec à Montréal). ORCID: https://orcid.org/0009-0003-5372-6374",
+    "Ponsin, Violaine (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-6909-678X",
+    "Rosabal, Maikel (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-5420-3490",
+    "Lazar, Cassandre (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-4384-7936"
+  ],
+  "dct_description_sm": [
+    "Variables and their units are : depth (m); dissolved inorganic carbon (DIC) (mg/L); dissolved organic carbon (DOC) (mg/L), ammonium/ammoniac (NHx) (mg/L); nitrite (NO2)  (mg/L); temperature (°C); pH; conductivity (µS/cm); dissolved oxygen saturation (%); δ²H and δ¹⁸O (‰).",
+    "[English] The datasets included in this repository were generated to characterize the environmental conditions and microbial diversity of the Blackburn (MB) and Forsyth (MF) mines, two abandoned and flooded mines located in the Outaouais region of Québec, Canada. Microbial communities were characterized for bacteria (bac), archaea (arc), and eukaryotes (euc) in both the Blackburn and Forsyth mines. For each microbial group, three files are provided. The file “raw_meta_[bac/arc/euc].csv” contains the sample metadata, including sampling site, year, depth, and associated environmental information. In the Blackburn mine, environmental variables were measured from water samples collected over three sampling years (2021–2023) along a depth gradient (surface, 6, 12, 24, 37, 43, and 52 m). In the Forsyth mine, environmental variables were measured from water samples collected along a depth gradient (surface, 6, 12, and 24 m) in 2019.\nThe file “raw_taxa_[bac/arc/euc].csv” contains the taxonomic assignments of the amplicon sequence variants (ASVs), from domain to the lowest confidently assigned taxonomic rank. The file “raw_asv_[bac/arc/euc].csv” contains the ASV abundance table, with ASVs as rows, samples as columns, and the corresponding sequencing read counts. The file “MB_isotopes.csv” contains the corresponding stable isotope values (δ²H and δ¹⁸O) measured from water samples collected along the same depth gradient. The file “MF_isotopes.csv” contains the corresponding δ²H and δ¹⁸O isotope values. Together, these datasets provide the environmental and microbial data used to investigate the spatial and temporal variability of microbial communities in two abandoned flooded mine pit lakes.",
+    "[Français] Les jeux de données inclus dans ce dépôt ont été générés pour caractériser les conditions environnementales et la diversité microbienne des mines Blackburn (MB) et Forsyth (MF), deux mines abandonnées et inondées situées dans la région de l'Outaouais, au Québec, Canada. Les communautés microbiennes ont été caractérisées pour les bactéries (bac), les archées (arc) et les eucaryotes (euc) dans les deux mines. Trois fichiers sont fournis pour chaque groupe microbien. Le fichier « raw_meta_[bac/arc/euc].csv » contient les métadonnées des échantillons, notamment le site de prélèvement, l'année, la profondeur et les informations environnementales associées. Dans la mine Blackburn, les variables environnementales ont été mesurées à partir d'échantillons d'eau prélevés sur trois années d'échantillonnage (2021-2023) le long d'un gradient de profondeur (surface, 6, 12, 24, 37, 43 et 52 m). Dans la mine de Forsyth, des variables environnementales ont été mesurées à partir d'échantillons d'eau prélevés en 2019 selon un gradient de profondeur (surface, 6, 12 et 24 m). Le fichier « raw_taxa_[bac/arc/euc].csv » contient les assignations taxonomiques des variants de séquence d'amplicons (ASV), du domaine jusqu'au rang taxonomique le plus fiable. Le fichier « raw_asv_[bac/arc/euc].csv » contient le tableau d'abondance des ASV, avec les ASV en lignes, les échantillons en colonnes et le nombre de lectures de séquençage correspondant. Le fichier « MB_isotopes.csv » contient les valeurs isotopiques stables correspondantes (δ²H et δ¹⁸O) mesurées à partir d'échantillons d'eau prélevés selon le même gradient de profondeur. Le fichier « MF_isotopes.csv » contient les valeurs isotopiques δ²H et δ¹⁸O correspondantes. Ensemble, ces ensembles de données fournissent les données environnementales et microbiennes utilisées pour étudier la variabilité spatiale et temporelle des communautés microbiennes dans deux lacs de mines à ciel ouvert inondés et abandonnés."
+  ],
+  "dct_identifier_sm": [
+    "1197554_281357_281358",
+    "https://doi.org/10.5683/SP4/VX3UR5"
+  ],
+  "dct_issued_s": "2026-07-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/VX3UR5\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Environmental Variables and Microbial Diversity in the Blackburn and Forsyth Abandoned Flooded Mines [Quebec, Canada, 2021-2023]",
+  "gbl_mdModified_dt": "2026-08-03T18:03:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5607fc30-1674-562e-a94b-5f694014de40",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

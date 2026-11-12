@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "As part of a scientific assessment of critical habitat for boreal woodland caribou (Environment Canada 2011, see full reference in accompanying documentation), Environment Canada's Landscape Science and Technology Division was tasked with providing detailed anthropogenic disturbance mapping across known caribou ranges. This data allowed researchers to better understand the attributes that have a known effect on caribou population persistence. The mapping process was established to create a nationally consistent, reliable and repeatable geospatial dataset that followed a common methodology. The methods developed were focused on mapping disturbances at a specific point of time, and were not designed to identify the age of disturbances, which can be of particular interest for disturbances that can be considered non-permanent, for example cutblocks. The resultant datasets were used for caribou resource selection function,habitat modeling, and assess overall disturbance levels on each caribou ranges. Anthropogenic disturbances within 57 caribou ranges across Canada were mapped. The ranges were defined by individual Provinces and Territories across Canada. Disturbances were mapped across these ranges using 2008-2010 Landsat-5 satellite imagery to provide the most up to date data possible. Originally some areas were mapped to match the date of collected caribou demographic data, however more recent imagery was used and additional disturbance features that were seen since the original mapping date were added. Within the context of this project, anthropogenic disturbance was defined as any human-caused disturbance to the natural landscape that could be visually identified from Landsat imagery at a viewing scale of 1:50,000. A minimum mapping unit (MMU) of 2 ha or approximately 22 contiguous Landsat pixels was selected. Each disturbance feature type was represented in the database by a line or polygon depending on their geometric description. Polygonal disturbances included: cutblocks, mines, reservoirs, built-up areas, well sites, agriculture, oil and gas facilities, as well as unknown features. Linear disturbances included: roads, railways, powerlines, seismic exploration lines, pipelines, dams, air strips, as well as unknown features. For each anthropogenic feature type, a clear description was established (see Appendix 7.2 of the science assessment) to maintain consistency in identifying the various disturbances in the imagery by the different interpreters. Various ancillary vector datasets were used as aids in detecting, classifying and digitizing disturbances on the Landsat imagery (a table listing these datasets and their sources has been included in a separate file). Ancillary data was used to guide interpretation and feature labelling since the ancillary data was often variable across the country in terms of completeness as well as scale. As a result, features were only digitized if they were visible in the Landsat imagery at a viewing scale of 1:50,000. A 2nd interpreter quality control phase was carried out to ensure high quality, completete and consistent data collection. A quality assessment analysis, since an actual accuracy assessment was not possible, using high resolution SPOT imagery was carried out on a sample basis. Results are included in accompanying documentation. The vector data was buffered by 500m (radius) representing the zone of influence impacting boreal caribou herds in order to calculate range disturbance levels as well as for use in the integrated risk assessment analysis. Fire polygons were merged into the anthropogenic footprint in order to create an overall disturbance footprint.\n\r\n\rSupplemental Information\n\r\n\r:Wildlife Research and Landscape Science:\n\r\n\r https://www.canada.ca/en/environment-climate-change/services/wildlife-research-landscape-science.html"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/890a5d8d-3dbb-4608-b6ce-3b6d4c3b7dce"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/890a5d8d-3dbb-4608-b6ce-3b6d4c3b7dce\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Anthropogenic disturbance footprint within boreal caribou ranges across Canada - As interpreted from 2008-2010 Landsat satellite imagery (Updated to 2012 range boundaries)",
+  "gbl_mdModified_dt": "2024-10-03T17:10:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8e44ef4f-4d72-595c-9b3f-e6f90b8966fc",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

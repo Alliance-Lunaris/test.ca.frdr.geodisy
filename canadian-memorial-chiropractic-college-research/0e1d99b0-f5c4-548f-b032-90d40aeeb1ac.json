@@ -1,0 +1,48 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Fillery, Mark (Canadian Memorial Chiropractic College). ORCID: https://orcid.org/0000-0001-7014-995X"
+  ],
+  "dct_description_sm": [
+    "This dataset contains de-identified demographic and professional registration information\r\nfor 4,185 chiropractors registered to practice in Ontario, Canada, between 1996 and 2007.\r\nThe data were obtained from the College of Chiropractors of Ontario (CCO) and subsequently\r\nverified against publicly available membership directories to ensure accuracy and\r\ncompleteness . The dataset was compiled to support a longitudinal analysis examining the\r\nintended and unintended consequences of the delisting of chiropractic services from the\r\nOntario Health Insurance Plan.\r\n\r\nThe dataset includes five core variables describing practitioner characteristics and\r\nprofessional status over time: year of graduation, school of graduation, sex, registration\r\nstatus, and geographic location. Registration status reflects practitioner activity levels\r\nand has been harmonized into three categories (active, inactive, and retired) from the\r\noriginal classifications provided by the CCO. Geographic information, originally recorded\r\nas postal codes, has been converted into Local Health Integration Network (LHIN) regions\r\nto preserve analytical value while ensuring participant anonymity . All variables were\r\nseparated into individual files and linked through anonymized identifiers to further\r\nenhance confidentiality protections. The dataset does not include outcome variables or\r\nanalytical results but provides the foundational demographic and structural information\r\nused for longitudinal analyses, including workforce dynamics, retention, and regional\r\ndistribution of chiropractors."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01549"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01549\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "-, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Health sciences",
+    "Services et systèmes de santé",
+    "Ontario",
+    "Health care administration",
+    "Sciences de la santé",
+    "healthcare policy",
+    "health human resources",
+    "Canada",
+    "healthcare",
+    "health workforce",
+    "Health services and systems",
+    "chiropractors",
+    "longitudinal data",
+    "demographic data",
+    "Administration des soins de santé"
+  ],
+  "dct_title_s": "De-identified Demographic and Registration Data of Chiropractors in Ontario from the College of Chiropractors of Ontario (1996–2007)",
+  "gbl_mdModified_dt": "2026-05-31T06:05:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0e1d99b0-f5c4-548f-b032-90d40aeeb1ac",
+  "schema_provider_s": "Canadian Memorial Chiropractic College Research"
+}

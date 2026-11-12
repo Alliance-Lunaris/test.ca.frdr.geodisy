@@ -1,0 +1,39 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wild, Conor (Western University). ORCID: https://orcid.org/0000-0002-4303-3537",
+    "Xue, Alex (Western University).",
+    "Paleczny, Sydni (Western University).",
+    "Highfield, Roger (Science Museum Group, United Kingdom).",
+    "Owen, Adrian (Western University)."
+  ],
+  "dct_description_sm": [
+    "This repository contains the complete raw data files collected for Paleczny & Wild et al. 2025: Characterizing the Cognitive and Mental Health Benefits of Exercise and Video Game Playing.\n<br><br>\n<h3>Files</h3>\n<br>\n1. <b>brainbodystudy-preprocessed-data-final.csv</b> - The final preprocessed dataset that joins all the individual questionnaires together, along with scoring, filterting etc. If you want to start playing with the data as described in the paper, then you can just use this file instead of using all the raw files below.\n<br>\n2. <b>BBDemographic_Survey_June_19_2024_11_17.csv.bz</b> - Contains the Qualtrics export of the demographics and health questionnaire (includes PHQ-2 and GAD-2).\n<br>\n3. <b>brainbodystudy-cogs.csv.bz2</b> - Preprocessed Creyos data, where score features have been extracted. One row per assessment.\n<br>\n4. <b>PAAQ_June_19_2024_08_20.csv.bz2</b> - Raw Qualtrics export of PAAQ (ref) questionnaire data.\n<br>\n5. <b>VGQ_June_19_2024_08_22.csv.bz2</b> - Raw Qualtrics export of VGQ (ref) questionnaire data.\n<br>"
+  ],
+  "dct_identifier_sm": [
+    "841160_157480",
+    "https://doi.org/10.5683/SP3/WUYAGU"
+  ],
+  "dct_issued_s": "2024-10-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WUYAGU\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "The Brain & Body Study - complete raw dataset",
+  "gbl_mdModified_dt": "2025-06-25T14:23:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e7af2640-21ff-5e20-9e8f-0dbfd12c787f",
+  "pcdm_memberOf_sm": [
+    "OwenLab Dataverse @ Western"
+  ],
+  "schema_provider_s": "Western University Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canada Basemap – Transportation (CBMT) is a vector tile service that provides spatial reference context with an emphasis on transportation networks across Canada. It is designed especially for use as a background layer in a web mapping application or geographic information system (GIS).  \n  \n  Access: Access is free of charge under the terms of the Open Government Licence - Canada.  \n  \n  Data Sources: Data for the CBMT is sourced from multiple datasets.  \n  \n  - Topographic data of Canada - CanVec Series  \n  \n  - “Automatically Extracted Buildings” GeoBase (a raw digital product in vector format automatically extracted from airborne Lidar data, high-resolution optical imagery or other sources.)  \n  \n  - Open Street Map (OSM) data available under the Open Database License (https://www.openstreetmap.org/copyright).  \n  \n  - Official names from the Canadian Geographical Names Database (CGNDB).  \n  \n  Geographic Coverage: CBMT covers the entire geographic area of Canada and some major transportation routes and cities in the northern States of the USA.  \n  \n  Data Update Frequency: Updates are applied monthly to reflect the latest updates in the source datasets.  \n  \n  Projection: Data is provided in the EPSG:3978 (NAD83 Canada Atlas Lambert) projected coordinate system.  \n  \n  Layer Access:   \n  \n  - CBMT is accessible via the ArcGIS Online item link with the applied style or it can also be accessed directly with the default style using the following Vector Tile Server:   \n  \n  https://tiles.arcgis.com/tiles/HsjBaDykC1mjhXz9/arcgis/rest/services/CBMT_CBCT_3978_V_OSM/VectorTileServer  \n  \n  - In QGIS or other applications that require the style JSON, the following link can be used:  \n  \n  https://arcgis.com/sharing/rest/content/items/708e92c1f00941e3af3dd3c092ae4a0a/resources/styles/root.json  \n  \n  Use Cases: This layer is suitable for use in any map as a basemap layer and can be modified to meet the needs of the project by editing the JSON style in the Vector Tile Style editor.  \n  \n  Additional Versions:   \n  \n  - A geometry-only version (CBMT3978GEOM) and a text-only version (CBMT3978TXT) are available.  \n  \n  - French versions of the basemap are accessible via the Carte de base du Canada - Transport 3978 V (CBCT3978)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b82096d6-81a7-4db7-b042-11e173b078ae"
+  ],
+  "dct_issued_s": "2025-06-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b82096d6-81a7-4db7-b042-11e173b078ae\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Basemap – Transportation (CBMT) – Vector Tile EPSG: 3978 (NAD83 Canada Atlas Lambert)",
+  "gbl_mdModified_dt": "2025-10-15T12:17:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1552e7bb-1132-5fa6-8433-15f894380b49",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

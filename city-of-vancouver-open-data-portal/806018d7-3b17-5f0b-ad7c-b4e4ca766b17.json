@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.21919670328498, -123.02388838492334, 49.29563116282225, 49.20048122294247)",
+  "dcat_keyword_sm": [
+    "permit",
+    "license",
+    "licence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>This dataset includes business licence records from 1997 to 2012 with original categories (BusinessType).​</p><p>Under Licence By-Law No.4450, a valid business licence is required in order to operate a business in the City of Vancouver. A business licence can be obtained from the City's Licence Office and is valid for the remainder of the calendar year unless stated otherwise.<br></p></div> <h3>Note</h3><div><p>Effective May 6, 2024, the City streamlined its business licence categories, consolidating over 500 categories into fewer than 100. While data from before this date will remain accessible, <a href=\"https://opendata.vancouver.ca/explore/dataset/business-licences/information/?disjunctive.status&amp;disjunctive.businesssubtype/target=%22_blank%22&amp;disjunctive.businesssubtype\">Busines​​s licences</a> dataset post-May 6 is organized according to the new, streamlined categories. Learn more about this update <a href=\"https://vancouver.ca/doing-business/business-licences.aspx#new-categories/target=%E2%80%9D_blank%E2%80%9D\">Business licences | City of Vancouver.</a></p><p>This dataset remains the same.</p><p><a href=\"https://opendata.vancouver.ca/explore/dataset/business-licences/information/?disjunctive.status&amp;disjunctive.businesssubtype/target=%22_blank%22&amp;disjunctive.businesssubtype\">Business licences </a>dataset includes business licence records from 2024 onwards according to the new categories (BusinessType).</p><p><a href=\"https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status\">Business licence records from 2013 to 2024</a>, up to May 3, 2024, with their original categories (BusinessType) are found in Business licences 2013 to 2024 dataset.</p><p>Effective April 12, 2018, the business license dataset, including historical data files from 1997 forward to the current year, has been updated for home-based businesses. The City has removed the business address from the home-based business license category.</p></div> <h3>Data currency</h3><div><p>This is a static dataset.<br></p></div> <h3>Data accuracy</h3><div><p>There is a small chance that a licence number has been used twice. Licence RSN is an unique identifier.</p><p>Business licences issued to out of town (outside of City of Vancouver) addresses do not have coordinates and will not show up on the map. Not all City of Vancouver addresses have coordinates.</p><p>A small percentage of businesses are issued with a replacement licence in a displayed year due to changes or when business type names were retired during mid-year.</p><p>Address data of some selected business types was not disclosed to provide privacy protection.</p><p>There may be addresses that do not return coordinates in the geoding process. These records will appear in the Table view but not on the Map. </p><p>Liquor License Application business type does not have Issued Date or Expired Date information because it is interim application for a valid business licence.</p><p>There may be some loss of quality from data entry errors. ​</p></div> <h3>Websites for further information</h3><div><div><ul><li>\n<a href=\"https://vancouver.ca/doing-business/licenses-and-permits.aspx\">Licences and Permits</a></li><li><span style=\"color:#0072c6;\"><span>\n</span><a href=\"https://vancouver.ca/doing-business/get-a-business-licence.aspx\">Apply for a business licence</a></span></li><li><span style=\"color:#0072c6;\"><span>\n</span><a href=\"https://vancouver.ca/your-government/licence-bylaw.aspx\">Licence Bylaw 4450</a><br></span></li><li><a href=\"https://vancouver.ca/doing-business/contact-business-licence-office.aspx\"><span style=\"color:#0072c6;\">Contact Business Licence Office</span>​</a><br></li></ul></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "business-licences-1997-to-2012",
+    "https://opendata.vancouver.ca/explore/dataset/business-licences-1997-to-2012"
+  ],
+  "dct_issued_s": "2018-04-12",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/business-licences-1997-to-2012\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Business and economy"
+  ],
+  "dct_title_s": "Business licences 1997 to 2012",
+  "gbl_mdModified_dt": "2018-04-12T12:05:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "806018d7-3b17-5f0b-ad7c-b4e4ca766b17",
+  "locn_geometry": "ENVELOPE(-123.21919670328498, -123.02388838492334, 49.29563116282225, 49.20048122294247)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

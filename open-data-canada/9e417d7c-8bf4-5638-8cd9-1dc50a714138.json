@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.885, -93.6832, 58.7896, 48.9992)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Planning",
+    "Government",
+    "Zoning",
+    "Province of Manitoba",
+    "Municipality",
+    "canada",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Règlements de zonage du Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "The purpose of this layer is to provide end users with a spatial representation of the Zones in adopted Zoning bylaws and their consolidated amendments in Manitoba. This layer is intended to be a source of data delivery as well as usage in situ.\n\nThis dataset is comprised of boundary geometry representing the zones in the Zoning bylaws (as defined in The Planning Act) in force and effect within the Province of Manitoba. Spatial referencing of the zones is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each zone. Dataset content is subject to: Ongoing changes in zone boundaries which are determined by amendments to adopted Zoning bylaws or the adoption of new Zoning bylaws. Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the zone polygons. As of the publication date of this dataset, the following known issues remain: For zone boundaries that include water boundaries, the water boundary that best reflects the intended zone boundary was used. In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities. Please visit the Manitoba Municipal Relations website for more information at www.gov.mb.ca/mr. The Zoning bylaw data reflects the most current zones at the time of export and was uploaded to Manitoba Maps as a feature layer. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated ZBL: Number assigned by municipality to identify a specific bylaw ZBL_A: Number assigned to a bylaw that amends an existing zoning bylaw MUNI_NO: Manitoba municipality identifier number MUNI_NAME: Name of municipality ZONE: Letter code that corresponds with Zone Name as stating in the zoning bylaw ZONE_NAME: Name of Zone as stated in bylaw ZONE_CATEGORY: Zone category as interpreted by Municipal Relations AREA: Area of each polygon expressed in acres PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office PLANNINGDISTRICT: Name of the Planning District to which the municipality belongs if applicable MUNI_NAME_2014: Name of municipality before 2015 Amalgamations MUNI_NO_2014: Manitoba municipality identifier number before 2015 Amalgamations AMENDMENT_DESCRIPTION: Summary of change by the amending bylaw stating the zone before and after an amendment (e.g. RR to MG)",
+    "Le but de cette couche est de fournir aux utilisateurs finaux une représentation spatiale des zones dans les règlements de zonage adoptés et leurs modifications consolidées au Manitoba. Cette couche est destinée à être une source de fourniture et d'utilisation de données in situ.\n\nCet ensemble de données comprend la géométrie des limites représentant les zones visées par les règlements de zonage (tels que définis dans la Loi sur l'aménagement du territoire) en vigueur et en vigueur dans la province du Manitoba. Le référencement spatial des zones est basé sur les meilleures données parcellaires disponibles pour chaque commune. Dans la mesure du possible, des données sur les parcelles basées sur des plans d'arpentage enregistrés et des coordonnées de contrôle au sol ont été utilisées. Sinon, la grille de référence maintenue par Développement durable du Manitoba a été utilisée. La délimitation des limites est fixée par le règlement établissant ou modifiant les limites de chaque zone. Le contenu de l'ensemble de données est sujet à : Les modifications continues des limites des zones qui sont déterminées par des modifications aux règlements de zonage adoptés ou par l'adoption de nouveaux règlements de zonage. Développement et maintenance continus des ensembles de données sur les parcelles de terrain. Les améliorations apportées aux données des parcelles de terrain sont utilisées pour améliorer la précision de la position des polygones de zone. À la date de publication de cet ensemble de données, les problèmes connus suivants persistent : Pour les limites de zone qui incluent des limites d'eau, la limite d'eau qui reflète le mieux la limite de zone prévue a été utilisée. Dans certains cas, les concessions routières situées à la limite d'une municipalité sont incluses dans les deux municipalités adjacentes. Veuillez consulter le site Web des relations municipales du Manitoba pour plus d'informations à l'adresse www.gov.mb.ca/mr. Les données du règlement de zonage reflètent les zones les plus récentes au moment de l'exportation et ont été téléchargées sur Manitoba Maps sous forme de couche d'entités. Champs inclus : OBJECTID : Nombres entiers uniques séquentiels générés automatiquement ZBL : Numéro attribué par la municipalité pour identifier un règlement spécifique ZBL_A : Numéro attribué à un règlement modifiant un règlement de zonage existant MUNI_NO : Numéro d'identification de la municipalité du Manitoba MUNI_NAME : Nom de la municipalité ZONE : Code alphabétique correspondant au nom de la zone tel qu'indiqué dans le règlement ZONE_NAME : Nom de la zone tel qu'indiqué dans le règlement ZONE_CATÉGORIE : Catégorie de zone telle qu'interprétée par les relations municipales ZONE : Superficie de chaque polygone exprimée en acres RÉGION DE PLANIFICATION : Superficie de responsable d'un bureau de la Direction de la planification communautaire et régionale (du ministère des Relations municipales) DISTRICT DE PLANIFICATION : Nom du district d'aménagement auquel appartient la municipalité, le cas échéant MUNI_NAME_2014 : Nom de la municipalité avant les fusions de 2015 MUNI_NO_2014 : numéro d'identification de la municipalité du Manitoba avant 2015 Fusions AMENDMENT_DESCRIPTION : Résumé des modifications apportées par le règlement modificatif indiquant la zone avant et après une modification (par exemple, RR à MG)\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/51eb800b-9e62-6eff-5a0e-67f23ae6eb0b"
+  ],
+  "dct_issued_s": "2017-07-19",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/51eb800b-9e62-6eff-5a0e-67f23ae6eb0b\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Manitoba Zoning By Laws",
+  "gbl_mdModified_dt": "2026-09-09T11:00:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9e417d7c-8bf4-5638-8cd9-1dc50a714138",
+  "locn_geometry": "ENVELOPE(-101.885, -93.6832, 58.7896, 48.9992)",
+  "schema_provider_s": "Open Data Canada"
+}

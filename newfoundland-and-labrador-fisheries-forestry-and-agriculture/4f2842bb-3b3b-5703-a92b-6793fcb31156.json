@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-59.586686585386374, -52.459012711250296, 51.46246768552268, 47.144626058211)",
+  "dcat_keyword_sm": [
+    "FYOP",
+    "AOP",
+    "Operating Area"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Newfoundland and Labrador Fisheries, Forestry and Agriculture GeoHub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p><span style='font-weight:bold;'>Annual Operating Plans (AOPs) </span><span>identify the activities that occur in a particular year of the current Five Year Operating Plan. The required content of an AOP and rules associated with defining operating areas are specific to the </span><span style='font-style:italic;'>Sustainable Forest Management Planning Regulations </span><span>under the </span><span style='font-style:italic;'>Forestry Act.</span></p><p><span>The development of a </span><span style='font-weight:bold;'>Five Year Operating Plan (FYOP)</span><span> includes the preparation of spatial data that identifies where activities will occur on the ground. This spatial data is comprised of operating area boundaries and associated descriptive information. Forestry Services Branch planning staff compile the spatial data as they work on the plan. The spatial data is the foundation of the map products in which the plan is presented to various user groups.</span></p><p><span>In Newfoundland and Labrador, forest management planning occurs on a district by district basis and is scheduled on a five-year cycle. The province is divided into 24 management districts with 18 in Newfoundland and 6 in Labrador. To facilitate planning, some districts are combined into zones. </span></p><p><span>The contents of this feature layer represents the spatial components of the forestry planning layers. Further information can be found by visiting the Department of Environment and Climate Change </span><a href='https://www.gov.nl.ca/ecc/env-assessment/projects-list/' target='_blank' rel='nofollow ugc noopener noreferrer'>Environmental Assessment website</a><span>.</span></p><p><span style='font-weight:bold;'>Map Layer Descriptions:</span></p><p><span style='font-weight:bold;'>AOP - Operating Area: </span><span>AOP operating areas identify the spatial extent over which activities will occur in a specific year of the FYOP. These are subareas of an operating area as delineated in the Operating Area feature class. An AOP operating area may be comprised of one feature or multiple fragments. </span></p><p><span style='font-weight:bold;'>AOP - Commercial Harvest: </span><span>Proposed commercial harvest identified in relation to an AOP. Comprised of whole, partial or merged stands that fall within that portion of an operating area covered by the AOP.</span></p><p><span style='font-weight:bold;'>AOP - Domestic Harvest: </span><span>Available domestic harvest identified in relation to an AOP. Comprised of whole, partial or merged stands that fall within that portion of the operating area covered by the AOP. </span></p><p><span style='font-weight:bold;'>AOP - Road: </span><span>Proposed resource road construction identified in relation to an AOP. These roads will be located within that portion of an operating area associated with the AOP under construction. </span></p><p><span style='font-weight:bold;'>AOP - Road Decommissioning: </span><span>Proposed resource road decommissioning identified in relation to an AOP. These roads will be located within that portion of an operating area associated with the AOP under construction.</span></p><p><span style='font-weight:bold;'>AOP - Silviculture: </span><span>Proposed Silviculture treatments identified in relation to an AOP. Comprised of whole, partial or merged stands that fall within that portion of an operating area covered by the AOP. </span></p><p><span style='font-weight:bold;'>FYOP - Commercial Harvest: </span><span>Proposed commercial harvest identifies in relation to a Five Year Operating Plan. Comprised of whole, partial or merged stands within an operating area.</span></p><p><span style='font-weight:bold;'>FYOP - Domestic Harvest: </span><span>Available domestic harvest identified in relation to a Five Year Operating Plan. Comprised of whole, partial or merged stands within an operating area.</span></p><p><span style='font-weight:bold;'>FYOP - Road: </span><span>Proposed resource road construction identified in relation to a FYOP. These roads will be located within an operating area. </span></p><p><span style='font-weight:bold;'>FYOP - Road Decommissioning: </span><span>Proposed resource road decommissioning identified in relation to a FYOP. These roads will be located within an operating area. </span></p><p><span style='font-weight:bold;'>FYOP - Silviculture: </span><span>Proposed silviculture treatments identified in relation to a FYOP. Comprised of whole, partial or merged stands within an operating area. </span></p><p><span style='font-weight:bold;'>Operating Area: </span><span>A single operating area may  be comprised of multiple fragments or subareas. These are not modeled as multipart features, but rather as separate features associated with the overall operating area. </span></p><p><span style='font-weight:bold;'>Operating Area Amendments: </span><span> These are amendments to the original operating area boundaries as defined in the Operating Area feature class. </span></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "68e0edb94d3b4f2ab892e9ac4f2f14d4",
+    "https://www.arcgis.com/home/item.html?id=68e0edb94d3b4f2ab892e9ac4f2f14d4"
+  ],
+  "dct_issued_s": "2025-03-31",
+  "dct_publisher_sm": [
+    "Newfoundland and Labrador Fisheries, Forestry and Agriculture GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub-gnl.hub.arcgis.com/datasets/GNL::fyop-road-decommissioning\"}",
+  "dct_rights_sm": [
+    "This dataset is licensed under the Newfoundland and Labrador Open Government Licence."
+  ],
+  "dct_title_s": "FAL - Forest Planning Information",
+  "gbl_mdModified_dt": "2025-10-31T18:15:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4f2842bb-3b3b-5703-a92b-6793fcb31156",
+  "locn_geometry": "ENVELOPE(-59.586686585386374, -52.459012711250296, 51.46246768552268, 47.144626058211)",
+  "schema_provider_s": "Newfoundland and Labrador Fisheries, Forestry and Agriculture GeoHub"
+}

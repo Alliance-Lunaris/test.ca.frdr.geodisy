@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "dcat_keyword_sm": [
+    "Magdalen Islands",
+    "Oceans",
+    "Bathymétrie",
+    "Marine refuge",
+    "Inland waters",
+    "Lagoon",
+    "Lagune",
+    "Eaux intérieures",
+    "Refuge marin",
+    "Îles de la Madeleine",
+    "Marine conservation",
+    "Océan",
+    "Conservation marine",
+    "Bathymetry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bathymétrie du refuge marin des lagunes des Îles-de-la-Madeleine"
+  ],
+  "dct_creator_sm": [
+    "Benjamin Grégoire."
+  ],
+  "dct_description_sm": [
+    "This bathymetric dataset of the five inland water bodies of the Magdalen Islands was produced by the Quebec Regional Science Directorate (DRS) of Fisheries and Oceans Canada (DFO) as part of the characterization of the Magdalen Islands lagoon marine refuge.\n\nThe data comes from several sources, including a bathymetric LiDAR survey, satellite-derived bathymetry (SDB), acoustic surveys, and spot depth sampling conducted in inland water bodies.\n\nThe final product is a 5 m resolution raster projected in NAD83 / MTM zone 4. Depths are expressed in meters and reduced to chart datum (CD). This dataset is provided for information, analysis, and research purposes and is not intended for navigation.\n\nThis dataset is a derived scientific product generated through processing, interpolation, and integration conducted by a DRS research team, and it does not constitute a hydrographic product of the Canadian Hydrographic Service (CHS). The data may contain uncertainties, acquisition artifacts, or processing errors, and do not meet the hydrographic standards of the International Hydrographic Organization (IHO).\n\nThis dataset is provided exclusively for informational, analytical, management, and scientific research purposes. It must not be used for navigation, for operational decision‑making at sea, or for any activity where the safety of persons or property may depend on the accuracy of depth information.\n\nDFO and CHS disclaim all liability for the use, interpretation, or decisions made on the basis of this product.\n\nFor more information on the methodology and an overview of the results, see the report by Grégoire et al. (2026).",
+    "Ce jeu de données bathymétriques des cinq plans d’eau intérieurs des Îles de la Madeleine a été produit par la Direction régionale des sciences (DRS) de la région du Québec de Pêches et Océans Canada (MPO)  dans le cadre des travaux de caractérisation du refuge marin des lagunes des Îles‑de‑la‑Madeleine. \n\nLes données proviennent de plusieurs sources, incluant un relevé LiDAR bathymétrique, de la bathymétrie dérivée d’images satellitaires (SDB), des relevés acoustiques et des échantillonnages ponctuels de profondeur réalisés dans les plans d’eau intérieurs.\n\nLe produit final est un raster de résolution 5 m projeté en NAD83 / MTM zone 4. Les profondeurs sont exprimées en mètres et réduites au zéro des cartes (ZC). \n\nCe jeu de données constitue un produit scientifique dérivé, généré par des traitements, interpolations et intégrations réalisés par une équipe de la DRS, et ne représente pas un produit hydrographique du Service hydrographique du Canada (SHC). Les données peuvent contenir des incertitudes, des artefacts d’acquisition ou de traitement, et ne répondent pas aux normes hydrographiques de l’Organisation Hydrographique Internationale (OHI).\n\nCe jeu de données est fourni exclusivement à des fins d’information, d’analyse, de gestion et de recherche scientifique. Il ne doit en aucun cas être utilisé pour la navigation, pour la prise de décision opérationnelle en mer, ou pour toute activité où la sécurité des personnes ou des biens pourrait dépendre de l’exactitude des profondeurs.\n\nLa MPO et le SHC déclinent toute responsabilité quant à l’usage, l’interprétation ou les décisions prises sur la base de ce produit.\n\nPour plus d’information sur la méthodologie et un aperçu des données, consulter Grégoire et al. (2026)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c8b0a332-1996-4cf2-a06d-5e82feb26478"
+  ],
+  "dct_issued_s": "2026-03-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c8b0a332-1996-4cf2-a06d-5e82feb26478\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Bathymetry of the Magdalen Islands Lagoons Marine Refuge",
+  "gbl_mdModified_dt": "2026-05-05T13:30:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fdcbb85b-7a42-511e-b6d2-bcfa2a48d991",
+  "locn_geometry": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "schema_provider_s": "Open Data Canada"
+}

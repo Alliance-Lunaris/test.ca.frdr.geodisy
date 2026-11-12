@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.563245, -123.25511, 49.705411, 49.333786)",
+  "dcat_keyword_sm": [
+    "Howe Sound, Debris, Hotspot, Simulation, Classification"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhang, Tyler Dongping (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Marine debris poses significant threats to coastal ecosystems and infrastructure, especially in semi-enclosed regions where monitoring is limited by inaccessibility and uneven population distribution. In Howe Sound, British Columbia, this study integrates remote sensing and environmental modeling to predict debris accumulation zones. Sentinel-2 satellite imagery was selected due to its high spatial resolution, broad spectral range, and frequent revisit time, which make it well-suited for capturing detailed coastal features. A neural network algorithm was used to classify six landcover types with an overall accuracy of 0.98. The classification results showed that many known debris hotspots are located near urban shorelines and within semi-enclosed bays. To simulate debris transport, river discharge and seasonal wind direction were modeled as surface movement drivers. The study area was divided into three sections to account for spatial variation in debris driving forces contribution. Hourly wind data from four weather stations were used to construct wind rose diagrams that captured seasonal changes in wind direction. The simulation identified 49 predicted debris hotspot locations. Of these, 20 overlapped with known hotspots, while 10 of the 29 newly identified hotspots are in less populated and previously underreported areas, particularly along the western shoreline. These findings demonstrate that remote sensing, when combined with physically based modeling, can overcome limitations of traditional monitoring methods and improve the identification of marine debris accumulation. This approach provides a scalable and transferable framework for supporting more targeted and proactive coastal management strategies."
+  ],
+  "dct_identifier_sm": [
+    "894520_73894_115983",
+    "https://doi.org/10.5683/SP3/P3PJLB"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/P3PJLB\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Squamish, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Marine Debris Hotspot Analysis in Howe Sound, British Columbia",
+  "gbl_mdModified_dt": "2025-04-22T16:59:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "da680e22-aba4-58c4-8b74-c443ab83f1f0",
+  "locn_geometry": "ENVELOPE(-123.563245, -123.25511, 49.705411, 49.333786)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

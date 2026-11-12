@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Ontario Integrated Hydrology (OIH) data is used to generate watersheds and support provincial-scale hydrology applications including: * watershed generation * hydrologic modelling * watercourse network analysis Four key datasets are represented in each data package: * stream network (Enhanced Watercourse) * hydrology-enforced digital elevation model [DEM ] (Enforced DEM) * flow direction grid (Enhanced Flow Direction - EFDIR) * raster representation of the stream network (StreamGrid) __Technical information__ For the first time, OIH data is complete for the entire province making it possible to create a watershed for any location in Ontario. This includes areas flowing in from neighbouring provinces and Minnesota with the following exceptions: * points on the international border that drain to Lake Superior, south of Pigeon River * points on the international border that drain the Great Lakes connecting channels and St. Lawrence River stateside * points along the Ottawa River that drain from Quebec __Special note: North West package__ The North West package contains hydrography data for the entire Rainy River Basin, an area which straddles the international border between Canada and the United States. The data stateside originates from the National Hydrography Dataset (NHD) as of February/March 2014. This data has been harmonized with the Ontario Hydro Network (OHN) to create the Enhanced Watercourse and Integrated Waterbody layers found within the North West package. For more information on when the data was initially extracted and incorporated, refer to these fields stored in the attribute table of each vector layer in the geodatabase: * Effective Date (EFF_DATE) * Geometry Update Date (GEO_UPD_DT) The data stateside is a static snapshot of NHD intended to support regional modeling. Please refer to the [United States Geological Survey (USGS)](https://www.usgs.gov/core-science-systems/ngp/national-hydrography) website for the most current version of NHD. Data is updated after the completion of major updates to source data (such as OHN and/or the Provincial DEM)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ef0c4387-38ce-4adc-b761-f0506b82564e"
+  ],
+  "dct_issued_s": "2020-11-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ef0c4387-38ce-4adc-b761-f0506b82564e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Ontario Integrated Hydrology (OIH) data",
+  "gbl_mdModified_dt": "2026-03-25T13:39:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "45f7ad3b-7aae-5b48-bfca-6b61e2c5d917",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This layer is the current fire year burn severity classification for large fires (greater than 100 ha). Burn severity mapping is conducted using best available pre- and post-fire satellite multispectral imagery acquired by the MultiSpectral Instrument (MSI) aboard the Sentinel-2 satellite or the Operational Land Imager (OLI) sensor aboard the Landsat-8 and 9 satellites. Every attempt is made to use cloud, smoke, shadow and snow-free imagery that was acquired prior to September 30th. However, in late fire seasons imagery acquired after September 30th may be used. This layer is considered an interim product for the 1-year-later burn severity dataset (WHSE_FOREST_VEGETATION.VEG_BURN_SEVERITY_SP). Mapping conducted during the following growing season benefits from greater post-fire image availability and is expected to be more representative of tree mortality. #### Methodology: • Select suitable pre- and post-fire imagery or create a cloud/snow/smoke-free composite from multiple images scenes • Calculate normalized burn severity ratio (NBR) for pre- and post-fire images • Calculate difference NBR (dNBR) where dNBR = pre NBR – post NBR • Apply a scaling equation (dNBR_scaled = dNBR*1000 + 275)/5) • Apply BARC thresholds (76, 110, 187) to create a 4-class image (unburned, low severity, medium severity, and high severity) • Mask out water bodies using a satellite-derived water layer • Apply region-based filters to reduce noise • Confirm burn severity analysis results through visual quality control • Produce a vector dataset and apply Euclidian distance smoothing"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/04c5ad28-d8eb-4c49-90c5-48b9b98fdfe9"
+  ],
+  "dct_issued_s": "2023-06-01",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/04c5ad28-d8eb-4c49-90c5-48b9b98fdfe9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Fire Burn Severity - Same Year",
+  "gbl_mdModified_dt": "2026-01-28T19:50:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1993bafa-8f0b-53bf-9cef-813dfec34cb4",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

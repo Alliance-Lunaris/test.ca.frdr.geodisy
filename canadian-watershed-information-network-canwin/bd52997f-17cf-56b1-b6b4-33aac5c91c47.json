@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This is a spatial layer that reflects operational activities for cutblocks contained within harvesting authorities. The Forest Tenures Section (FTS) is responsible for the creation and maintenance of digital Forest Atlas files for the province of British Columbia encompassing Forest and Range Act Tenures. It also supports the forest resources programs delivered by MoFR. Each feature contains a Ministry of Forests and Range (MoFR) FEATURE_CLASS_SKEY (number) column that further defines the type of that feature. The layer contains cutblock boundaries for the following feature classes: Forest Licence Cut Block (555), Licence to Cut Cut Block (616), Timber Licence Cut Block (810), Timber Sale Licence Major Cut Block (817), Timber Sale Licence Minor CB Non Replaceable (820), Tree Farm Licence Cut Block (833), Wood Lot Licence Cut Block (863), Community Forest Cut Block (2402), and Timber Sale Licence Minor CB Replaceable (2417). Each cut block has a life cycle status that is either PENDING - the cut block has been submitted as a new cut block or an amendment, but is not yet approved or rejected, ACTIVE - the cut block is approved and activities may be taking place on the cut block, or RETIRED - all activities, with respect to the harvesting authority, have been completed for the cut block"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dfb8b498-fa4b-4286-b3ec-58db88aca1cf"
+  ],
+  "dct_issued_s": "2020-06-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dfb8b498-fa4b-4286-b3ec-58db88aca1cf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Forest Tenure Cutblock Polygons (FTA 4.0)",
+  "gbl_mdModified_dt": "2026-01-28T19:23:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bd52997f-17cf-56b1-b6b4-33aac5c91c47",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

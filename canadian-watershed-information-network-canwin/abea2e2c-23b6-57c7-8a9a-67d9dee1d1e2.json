@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.0, -60.9, 48.0, 45.6)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "PURPOSE:\nProvide early detection of newly arrived Aquatic Invasive Species (AIS) and determine the spread, establishment and spatial distribution of existing AIS within marine waters of the southern Gulf of St. Lawrence (sGSL), DFO Gulf Region boundaries (northern and eastern coastal shores of NB, Gulf shore of NS, and PEI shoreline).\n\nDESCRIPTION:\nDFO Science monitors for AIS in the Gulf Region. The data collected from DFO's biofouling monitoring program provides an overview of the distribution and abundance of Aquatic Invasive Species (AIS) in the Gulf Region. This information can be used by the general public, scientists and DFO managers.\n\nMonitoring program targeting aquatic invasive species (AIS). Native biofouling species are not included in this dataset.  \n\nBotrylloides violaceus:  Violet tunicate\nBotryllus schlosseri:  Golden star tunicate\nCiona intestinalis:  Vase tunicate\nStyela clava:  Clubbed tunicate\nCaprella mutica*: Japanese skeleton shrimp\nMembranipora membranacea:  Coffin box bryozoan\nCarcinus maenas*:  European green crab\nCodium fragile*:  Oyster thief alga\nJuxtacribrilina mutabilis**: Ribbed bryozoan (JCM)\n\n*indicates species that are not included as percent cover as they are not accurately captured by the sampling method, but are included as detections.\n**indicates species was only integrated fully into the monitoring protocol starting in 2025.\n\nIncluded here is a dataset of detection and percent cover data of AIS, as well as a monitoring station dataset. \n\nEnvironmental data collected, including from temperature loggers, are stored but not included here.\n            \nPARAMETERS COLLECTED:\nAir and water temperature, salinity, depth, dissolved oxygen, weather conditions, list of biofouling AIS, percent cover of AIS on PVC plates, and incidental detection of other species and AIS in surrounding area.  Only species data is pushed to the Open Data platform.\n\nNOTES ON QUALITY CONTROL:\nEach sample and species is processed and identified in a standardized fashion using standardized DFO Science AIS protocols and taxonomic references. Data is manually entered into DFO Gulf Region's AIS Science biofouling database and randomly verified for accuracy.\n\nSAMPLING METHODS:\nBiofouling monitoring is conducted using PVC collector plates that are deployed in the water column approximately 1 meter below the sea surface in the spring of each year. Biofouling organisms settle on these plates which are collected in the fall of the same year.  Abundances of AIS are given as percent plate cover. Physico-chemical data including temperature, conductivity, and depth as well as weather conditions are noted at each geo-referenced biofouling monitoring site during initial deployment and at time of retrieval. All biofouling organisms settled on the underside of the PVC plates are noted and percent cover of each AIS is estimated.  Any AIS present at the location is also noted. A HOBO temperature and light logger was deployed.\n\nUSE LIMITATION:\nTo ensure scientific integrity and appropriate use of the data, we would encourage you to contact the data custodian."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/503a957e-7d6b-11e9-aef3-f48c505b2a29"
+  ],
+  "dct_issued_s": "2019-08-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/503a957e-7d6b-11e9-aef3-f48c505b2a29\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Gulf Region Aquatic Invasive Species (AIS) Biofouling Monitoring Dataset",
+  "gbl_mdModified_dt": "2026-04-22T13:30:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "abea2e2c-23b6-57c7-8a9a-67d9dee1d1e2",
+  "locn_geometry": "ENVELOPE(-66.0, -60.9, 48.0, 45.6)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

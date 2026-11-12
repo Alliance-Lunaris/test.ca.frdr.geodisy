@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Stationnement",
+    "Donnee ouverte",
+    "Personnes a mobilite reduite"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des stationnements réservés aux personnes à mobilité réduite sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n  Régi par le règlement de circulation + Mise à jour avec le fichier Excel des TP\n\n**Méthode de collecte**\n  Localisation à l’adresse correspondante\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _rue_ (_String_) : Rue\n* _localisation_ (_String_) : Localisation\n* _nombre_ (_Integer_) : Nombre\n* _mesurer_c_c_ (_String_) : Mesure\n* _dure_ (_String_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/e7f72fb8e1f847b994f39f7cfcb27a56\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/5ea9d7f5-994b-46d0-b277-813099eaa6bf"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/5ea9d7f5-994b-46d0-b277-813099eaa6bf\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport"
+  ],
+  "dct_title_s": "Stationnements réservés aux personnes à mobilité réduite - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "956a79bf-00df-59e5-b8e8-3d8fe10f9174",
+  "schema_provider_s": "Données Québec"
+}

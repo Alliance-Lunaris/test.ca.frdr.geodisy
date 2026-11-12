@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.46721216849372, -127.45703476527034, 54.76551045526989, 54.761154656785635)",
+  "dcat_keyword_sm": [
+    "precision forestry",
+    "variable density thinning",
+    "multi-objective forest management",
+    "LiDAR",
+    "commercial thinning",
+    "community forestry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lang Wong, Andrew (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Community forest managers aim to balance timber production with ecological and cultural values; however, translating these priorities into operationally feasible silvicultural prescriptions remains a challenge. Although multi-objective forest management is well established, there is limited understanding of how thinning can be implemented to simultaneously achieve ecological, cultural, and economic outcomes, and how precision forestry tools can support this process. This study evaluates whether a LiDAR-derived stand model can inform the development of a thinning prescription that meets these objectives within the Wetzin'kwa Community Forest.\nIndividual trees were segmented from LiDAR data (25 points/m²), and four thinning scenarios were simulated using the Forest Vegetation Simulator. Light to moderate thinning (20-30%) maximized total merchantable volume (654-664 m³/ha), while a moderate to heavy treatment (40%) resulted in only a small reduction in total volume (628 m³/ha). A literature review indicates that thinning intensities of 25-50% support a range of ecological outcomes, including increased ungulate habitat use, enhanced understory biodiversity, reduced wildfire risk, and increased huckleberry cover and fruit production. Based on these findings, a thinning prescription at 40% basal area removal was developed, demonstrating that multiple management objectives can be achieved with only modest trade-offs in merchantable volume.\nDeveloping this prescription revealed a mismatch between the fine scale precision enabled by individual tree-level stand models and the coarser operational guidelines useful for practical and cost-effective implementation. Overall, this study provides further evidence that multi-objective forest management does not necessarily require trade-offs between ecological integrity, cultural values, and economic feasibility."
+  ],
+  "dct_identifier_sm": [
+    "1124719_73894_115983",
+    "https://doi.org/10.5683/SP3/RPOP0I"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RPOP0I\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Smithers, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Developing a Multi-Objective Thinning Prescription for Wetzin’kwa Community Forest, British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:35:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ed3ea5c3-6935-537b-bc5c-3fb13e4fc7d8",
+  "locn_geometry": "ENVELOPE(-127.46721216849372, -127.45703476527034, 54.76551045526989, 54.761154656785635)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

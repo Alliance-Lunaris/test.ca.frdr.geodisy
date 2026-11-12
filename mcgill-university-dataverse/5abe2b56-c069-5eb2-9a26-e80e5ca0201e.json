@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -90.0, 90.0)",
+  "dcat_keyword_sm": [
+    "e-flows",
+    "Integrated Water Resources Management (IWRM)",
+    "water scarcity",
+    "Sustainable Development Goals - SDG",
+    "global hydrology",
+    "hydrological alterations",
+    "water use and efficiency",
+    "flow regulation",
+    "water stress",
+    "water resource management",
+    "environmental water",
+    "global hydrological model",
+    "freshwater biodiversity crisis",
+    "river conservation",
+    "instream flow management",
+    "freshwater conservation",
+    "SDG 6.4"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Messager, Mathis (McGill University). ORCID: https://orcid.org/0000-0002-3051-8068"
+  ],
+  "dct_description_sm": [
+    "<h2>Data repository for ‘Global and local estimates of environmental flow requirements to sustain river ecosystems are poorly correlated ‘</h2><br> \n<i>prepared by Mathis L. Messager (mathis.messager@mail.mcgill.ca)</i><br> \n<br> \n<h3>1. Overview and background ----------------------------------------------------------</h3><br> \n<br> \nThis documentation describes the input and output data associated with the analysis presented in: Messager, M. L., Dickens, W. S. C., Eriyagama, N., Tharme, R. E., Stassen, R. (2024). Limited comparability of global and local estimates of \nenvironmental flow requirements to sustain river ecosystems. https://doi.org/10.1088/1748-9326/ad1cb5.<br> \n<br> \nEnvironmental flows (e-flows) are a central element of sustainable water resource management to mitigate the detrimental impacts of hydrological alteration on freshwater ecosystems and their benefits to people. Many nations strive to protect e-flows through policy, and thousands of local-scale e-flows assessments have been conducted globally, leveraging data and knowledge to quantify how much water must be provided to river ecosystems, and when, to keep them healthy. However, e-flows assessments and implementation are geographically uneven and cover a small fraction of rivers worldwide. This hinders globally consistent target-setting, monitoring and evaluation for international agreements to curb water scarcity and biodiversity loss. Therefore, dozens of models have been developed over the past two decades to estimate the e-flows requirements of rivers seamlessly across basins and administrative boundaries at a global scale.There has been little effort, however, to benchmark these models against locally derived e-flows estimates, which may limit confidence in the relevance of global estimates. The aim of this study was to assess whether current global methods reflect e-flows estimates used on the ground, by comparing global and local estimates for 1194 sites across 25 countries. We found that while global approaches broadly approximate the bulk volume of water that should be precautionarily provided to sustain aquatic ecosystems at the scale of large basins or countries, they explain a remarkably negligible 0%–1% of the global variability in locally derived estimates of the percentage of river flow that must be protected at a given site. Even when comparing assessments for individual countries, thus controlling for differences in local assessment methods among jurisdictions, global e-flows estimates only marginally compared (R2 ⩽ 0.31) to local estimates. Such a disconnect between global and local assessments of e-flows requirements limits the credibility of global estimates and associated targets for water use. To accelerate the global implementation of e-flows requires further concerted effort to compile and draw from the thousands of existing local e-flows assessments worldwide for developing a new generation of global models and bridging the gap from local to global scales..<br> \n<br> \nThe data repository includes data required to perform this analysis as well as the data outputs from this analysis. Input data from local e-flow assessments included herein were either provided by collaborators or extracted from published governmental and academic reports by the authors. Input hydrographic data not available for download elsewhere were provided by Dr. Bernhard Lehner and hydrological simulations from PCR-GLOBWB 2.0 at a spatial resolution of 5 arc-min (not provided herein) were provided by Dr. ir. Edwin H. Sutanudjaja.<br> \n<br> \nAll scripts necessary to reproduce this analysis are freely available for all purposes (and can be copied, modified and distributed) at: https://github.com/messamat/globalEF_testPy (for data-preformatting and global e-flow calculations) and https://github.com/messamat/globalEF_testR (for comparing global and local MAF and e-flow estimates). The structure of the analysis relies as much as possible on good enough practices in scientific computing, which users are encouraged to read.<br> \n<br> \n<h3>2. Repository content ---------------------------------------------------------- </h3><br> \nThe data repository has the following structure, which must be conserved to run the analysis workflow:<br> \n---------------------------------------------------------<br> \n<b>data/</b><br> \n    Formatted_data_Chandima_20211018: pre-formatted local e-flow assessment sites.<br> \n\n    Formatted_data_Chandima_20211102: pre-formatted local e-flow assessment sites. <br> \n\n    GEFIS_test_data/:<br> \n        Master Data Table_20230424.xlsx: final database of local e-flow assessments.<br> \n\n    HydroATLAS/: hydrographic data required for downscaling and mapping global MAF and e-flow estimates<br> \n\n    HydroATLAS_metadata_MLMv11.xlsx: metadata of RiverATLAS attributes used in producing distribution histogram in Supplementary Material.<br> \n<br> \n----------------------------------------------------------<br> \n<b>results/</b><br> \n    france_preprocessing.gdb: outputs from spatial formatting of local e-flow assessment data for the Rhone River basin in France. The main output file is /Rhone_EFpoints_cleanjoin.<br> \n<br> \n    mexico_preprocessing.gdb: outputs from spatial formatting of local e-flow assessment data for Mexico. The main output file is /Mexico_EFpoints_cleanjoin.<br> \n<br> \n    processing_outputs.gdb: outputs from overall spatial formatting of local e-flow assessment data. The fully formatted point data of the sites is: EFpoints_20230424_clean_riverjoin. Associated with global e-flow estimates: EFpoints_20230424_clean_globalEF.<br> \n<br> \n    victoria_preprocessing.gdb: outputs from spatial formatting of local e-flow assessment data for the state of Victoria, Australia. The main output file is /Victoria_EFpoints_cleanjoin.<br> \n<br> \n    EFpoints_20230424_clean_globalEF.csv: all global e-flow estimates extracted for local e-flow assessment sites.<br> \n<br> \n----------------------------------------------------------<br> \n    isimp2_qtot_accumulated15s.gdb.zip: all global MAF and e-flow estimates in raster format. In the analytical workflow, these data are in the results/ folder but here they have been placed outside to conform with the maximum file size limit of this dataverse.<br> \n<br> \n----------------------------------------------------------<br> \nREADME_Technical_documentation_globalEFcomparison_Messageretal2023.pdf : documentation for this repository<br> \n<br> \n\n<h3>3. Data format and projection ----------------------------------------------------------</h3><br> \nThe spatial datasets are distributed in ESRI® file geodatabase format. Please contact the author should you want the data in another format. These datasets are available in compressed zip file format. To use the data files, the zip files must first be decompressed.<br> \nAll data layers are provided in geographic (latitude/longitude) projection, referenced to datum WGS84. In ESRI® software this projection is defined by the geographic coordinate system GCS_WGS_1984 and datum D_WGS_1984 (EPSG: 4326).<br> \n<br> \n\n<h3>4. License and citations ----------------------------------------------------------</h3><br> \n<br> \n4.1 License agreement<br> \nThis documentation and datasets are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-4.0 License). For all regulations regarding license grants, copyright, redistribution restrictions, required attributions, disclaimer of warranty, indemnification, liability, waiver of damages, and a precise definition of licensed materials, please refer to the License Agreement (https://creativecommons.org/licenses/by/4.0/legalcode). For a human-readable summary of the license, please see https://creativecommons.org/licenses/by/4.0/.<br> \n<br> \n4.2 Citations and acknowledgements.<br> \nCitations and acknowledgements of this dataset should be made as follows:\nMessager, M. L., Dickens, W. S. C., Eriyagama, N., Tharme, R. E., Stassen, R.  (2024). Limited comparability of global and local estimates of \nenvironmental flow requirements to sustain river ecosystems. Environmental Research Letters. https://doi.org/10.1088/1748-9326/ad1cb5.<br> \nWe kindly ask users to cite this study in any published material produced using it. If possible, online links to this repository (DOI) should also be provided."
+  ],
+  "dct_identifier_sm": [
+    "646536",
+    "https://doi.org/10.5683/SP3/N2SCRT"
+  ],
+  "dct_issued_s": "2024-01-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/N2SCRT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Global and local estimates of environmental flow requirements to sustain river ecosystems are poorly correlated",
+  "gbl_mdModified_dt": "2024-01-12T14:05:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5abe2b56-c069-5eb2-9a26-e80e5ca0201e",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -90.0, 90.0)",
+  "schema_provider_s": "McGill University Dataverse"
+}

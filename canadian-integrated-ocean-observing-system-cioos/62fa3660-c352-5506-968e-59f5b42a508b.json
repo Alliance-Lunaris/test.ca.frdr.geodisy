@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.9, -119.666667, 74.583333, 70.033333)",
+  "dcat_keyword_sm": [
+    "radiometer",
+    "polarization",
+    "sea-ice",
+    "oceans",
+    "ipy-cfl",
+    "beaufort-sea",
+    "emissions",
+    "snow",
+    "dielectric",
+    "seaice",
+    "glace-de-mer",
+    "water",
+    "ipy-cfl",
+    "microwave",
+    "south-beaufort-sea-cfl-study-region"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données du radiomètre de surface (SBR) du sud de la mer de Beaufort, à bord du brise-glace Amundsen"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Isleifson, Dustin.",
+    "Hocheim, Klaus.",
+    "Gupta, Mukesh.",
+    "Hwang, Philip."
+  ],
+  "dct_description_sm": [
+    "Continuous measurements of emissivity at 89 and 37 GHz frequencies were acquired in vertical and horizontal polarizations at fixed elevation angle of 55 degrees during transit and scanning elevation angles of 30-150 degrees at every station. The radiometers have been installed at the 200 level on the Amundsen icebreaker on the port side. Generally the instruments continued acquiring data at a fixed elevation angle during the transit, and 3-5 scans have been performed at every station along with auxiliary data such as GPS, geographic location of the station, photographs of the same field of view, air temperature, wind data, atmospheric conditions, surface characteristics, etc. The acquired data are in binary format which is produced for every scan and fixed mode. The time in the data logger is generally set to UTC. A filename example is 'RADDAT-2007-11-06-122647.DAT'.",
+    "Des mesures continues de l'émissivité aux fréquences de 89 et 37 GHz ont été acquises dans des polarisations verticales et horizontales à un angle d'élévation fixe de 55 degrés pendant le transit et à des angles d'élévation de balayage de 30 à 150 degrés à chaque station. Les radiomètres ont été installés au niveau 200 sur le brise-glace Amundsen, à bâbord. En général, les instruments ont continué à acquérir des données à un angle d'élévation fixe pendant le transit, et 3 à 5 scans ont été effectués à chaque station, ainsi que des données auxiliaires telles que le GPS, la localisation géographique de la station, des photographies du même champ de vision, la température de l'air, les données du vent, les conditions atmosphériques, les caractéristiques de surface, etc. Les données acquises sont au format binaire qui est produit pour chaque balayage et en mode fixe. L'heure de l'enregistreur de données est généralement réglée sur UTC. Un exemple de nom de fichier est « RADDAT-2007-11-06-122647.DAT »."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b80e1bff-13a7-4ef6-a72d-e117e5e55c92"
+  ],
+  "dct_issued_s": "2013-04-17",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b80e1bff-13a7-4ef6-a72d-e117e5e55c92\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Surface-Based Radiometer (SBR) data from the South Beaufort Sea, aboard the Amundsen icebreaker",
+  "gbl_mdModified_dt": "2026-07-31T16:46:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "62fa3660-c352-5506-968e-59f5b42a508b",
+  "locn_geometry": "ENVELOPE(-133.9, -119.666667, 74.583333, 70.033333)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-160.4076293309, -82.7740810773, 78.2264855969, 66.5793577293)",
+  "dcat_keyword_sm": [
+    "Beaufort Sea",
+    "Meteorological",
+    "Ice drift",
+    "Geospatial data",
+    "Sea ice",
+    "Temperature",
+    "Ice cores",
+    "Barometric pressure"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "The sea ice mass balance systems measure physical properties of an ice flow as well as meteorological variables and geographic position. The systems consist of temperature dowels which contain thermistors, sonic range finders which measure sea ice volume, air temperature, barometric pressure and GPS position. The data that the instrument collects is logged and then transmitted to a remote logging computer via iridium satellite modem communication.\r\n\r\nThis resource includes CSV files which contain data collected using Ice Mass Balance Buoys, along with metadata in the associated PDF files."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/acc6a34f-66c3-49e9-9267-7698c931d5b7"
+  ],
+  "dct_issued_s": "2022-05-31",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/acc6a34f-66c3-49e9-9267-7698c931d5b7\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Marine",
+    "Sea Ice",
+    "Cryosphere"
+  ],
+  "dct_title_s": "Ice Mass Balance Buoy Data",
+  "gbl_mdModified_dt": "2026-02-24T00:04:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f530c73a-f29c-59be-ba0a-62acea77b390",
+  "locn_geometry": "ENVELOPE(-160.4076293309, -82.7740810773, 78.2264855969, 66.5793577293)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

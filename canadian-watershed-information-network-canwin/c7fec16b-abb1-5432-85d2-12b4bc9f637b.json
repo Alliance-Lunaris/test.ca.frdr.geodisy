@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "With the changing climate conditions, marine traffic along Canada’s coastal regions has increased over the past couple of decades and the need to improve our state of preparedness for oil-spill-related emergencies is critical. Baseline coastal information, such as shoreline form, substrate, and vegetation type, is required for prioritizing operations, coordinating onsite spill response activities (i.e. Shoreline Cleanup Assessment Technique [SCAT]), and providing information for wildlife and ecosystem management. \n\r\n\rBetween 2010 and 2019, georeferenced high-definition videography and photos were collected for various study sites across coastal Canada. The study areas include Beaufort Sea, Mackenzie Delta channels and Banks Island in the western Canadian Arctic; James Bay, Hudson Bay, Nunavik, Resolute Bay, Victoria Strait, Baffin Island and Coronation Gulf in the eastern Canadian Arctic; Labrador, Bay of Fundy and Chedabucto Bay in Atlantic Canada and Kitimat, Haida Gwaii, North Vancouver Island, Mainland BC and Burrard Inlet in the northern Pacific.\n\r\n\rData was collected during ice-free and low tide conditions (where applicable) between July and September. Low-altitude helicopter surveys were conducted at each study site to capture video of the shoreline characteristics. In addition to acquiring videography, ground-based observations were recorded in several locations for validation.\n\r\n\rShoreline segmentation was then carried out by manual interpretation of the oblique videography and the photos aided by ancillary data. This involved splitting and classifying the shoreline vectors based on homogeneity of the upper intertidal zone. Detailed geomorphological information (i.e. shoreline type, substrate, slope, height, accessibility etc.) describing the upper intertidal, lower intertidal, supratidal and backshore zones was extracted from the video and entered into a geospatial database using a customized data collection form. In addition, biological characteristics like biobands, water features, fauna, human use etc. observed along the coast were recorded.\n\r\n\rThe data was also validated through ground samples (when available) and a second interpreter QA (quality analysis) was performed on each dataset (excluding Nunavik) to ensure high quality and consistency. \n\r\n\rThe final dataset contains segments ranging in length from 150 m to 2500 m (except Nunavik). The minimum segment length is 45 m for study areas in the west coast that were surveyed in 2018-2019. In total, about 33,700 km of shoreline were segmented within all the survey zones."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a974294b-caf6-452c-a97b-08990c94f50d"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a974294b-caf6-452c-a97b-08990c94f50d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Shoreline mapping vector data in regions along Canada's east, west and north coasts, based on low-altitude helicopter videography in support of environmental emergency preparedness efforts",
+  "gbl_mdModified_dt": "2024-07-18T12:50:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c7fec16b-abb1-5432-85d2-12b4bc9f637b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

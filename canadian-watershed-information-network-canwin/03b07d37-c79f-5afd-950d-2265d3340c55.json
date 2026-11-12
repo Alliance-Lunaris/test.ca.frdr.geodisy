@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Please note that a web service is currently under development and will be launched in summer 2026. To be informed as soon as it is posted online and to stay up to date with geospatial news, subscribe to our newsletter [ActuGéo.] (https://mrnf.gouv.qc.ca/ministere/cartes-information-geographique/repertoire-services-web-donnees-geographiques/actugeo/)\n\nThe Quebec Address Repository (RQA) includes all municipal addresses in Quebec as well as several attributes associated with them, including the following main components:\n\n* The municipal number\n\n* The suffix\n\n* The unit (apartment/office/premises)\n\n* The name of the street (odonym)\n\n* The name and code of the municipality\n\n* The MO postal code\n\n* The main use (category)\n\n* The date of creation, modification and withdrawal\n\n* Latitude and longitude\n\n* Etc.\n\nThis repository of geolocated addresses is updated monthly, and is available in a single file format (*flat file*).\n\nA [CSV file] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/Odonymes_Renvois/CSV/Odonymes_renvois.csv) containing all the odonyms as well as the references is also available in the data section below. Referrals allow you to track changes in street names. \n\nThe RQA is the result of the integration of data in collaboration with the municipal sector and production partners: Élections Québec, the Ministry of Municipal Affairs and Housing, and the Ministry of Transport and Sustainable Mobility. \n\nThe RQA can be used in addition to the [Quebec Road Network Framework (RQRR)] (https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-du-reseau-routier).\n\n* “Postal Code” is an official trademark of Canada Post Corporation***This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/36e34a64-52dc-4fa1-9fb8-15cde1f2448f"
+  ],
+  "dct_issued_s": "2026-01-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/36e34a64-52dc-4fa1-9fb8-15cde1f2448f\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Quebec address repository",
+  "gbl_mdModified_dt": "2026-10-07T17:35:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "03b07d37-c79f-5afd-950d-2265d3340c55",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

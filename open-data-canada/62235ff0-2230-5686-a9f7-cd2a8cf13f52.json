@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dcat_keyword_sm": [
+    "permafrost",
+    "geology",
+    "geotechnical",
+    "yukon",
+    "Government information",
+    "geoyukon",
+    "borehole",
+    "geoscience",
+    "geoyukon-import",
+    "geoyukon-import-20260309"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ligne de rapport géotechnique"
+  ],
+  "dct_creator_sm": [
+    "Government of Yukon | Gouvernement du Yukon."
+  ],
+  "dct_description_sm": [
+    "Geotechnical reports are indexed within a database maintained by HPW-TEB Geotechnical Unit. Meta data associated to each geotechnical report are captured within this indexing table, including report reference number, title, author, highway and km start and end. The table has been modified to include columns that aid in georeferencing geotechnical reports. Added columns include route ID, Latitude, and Longitude. \n\nTransportation Engineering Branch is continually improving its geographical information systems with a major focus on creating linear referencing routes within ArcGIS. Georeferencing geotechnical reports will utilize the linear referencing routes in creating points and line shape files by referencing the highway number and km points or ranges as defined within the indexing table. \n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps). Discover more digital map data and interactive maps from Yukon’s digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)",
+    "Les rapports géotechniques sont indexés dans une base de données gérée par l'unité géotechnique HPW-TEB. Les métadonnées associées à chaque rapport géotechnique sont saisies dans ce tableau d'indexation, y compris le numéro de référence, le titre, l'auteur, l'autoroute et les kilomètres de début et de fin du rapport. Le tableau a été modifié pour inclure des colonnes qui facilitent le géoréférencement des rapports géotechniques. Les colonnes ajoutées incluent l'ID de l'itinéraire, la latitude et la longitude. \n\nLa Direction de l'ingénierie des transports améliore continuellement ses systèmes d'information géographique en mettant l'accent sur la création d'itinéraires de référencement linéaire dans ArcGIS. Les rapports géotechniques de géoréférencement utiliseront les itinéraires de référencement linéaire pour créer des fichiers de points et de formes de lignes en référençant le numéro de l'autoroute et les km, points ou plages tels que définis dans le tableau d'indexation. \n\nDistribué depuis [GeoYukon] (https://yukon.ca/geoyukon) par le [gouvernement du Yukon] (https://yukon.ca/maps). Découvrez d'autres données cartographiques numériques et des cartes interactives issues de la collection de données cartographiques numériques du Yukon.\n\nPour plus d'informations : [geomatics.help@yukon.ca] (mailto : geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/26491a44-92b2-4ae7-bca8-4b7e296bce73"
+  ],
+  "dct_issued_s": "2026-03-09",
+  "dct_publisher_sm": [
+    "Government of Yukon | Gouvernement du Yukon"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/26491a44-92b2-4ae7-bca8-4b7e296bce73\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Geotechnical report line",
+  "gbl_mdModified_dt": "2026-09-30T16:03:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "62235ff0-2230-5686-a9f7-cd2a8cf13f52",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Open Data Canada"
+}

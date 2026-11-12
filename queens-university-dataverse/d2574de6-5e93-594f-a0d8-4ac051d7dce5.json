@@ -1,0 +1,74 @@
+{
+  "dcat_keyword_sm": [
+    "Limnology",
+    "Limnology, water quality, lake parameters"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Shelley Arnott (Queen's University. Department of Biology, Queen's University). ORCID: https://orcid.org/0000-0002-3834-703X",
+    "James Rusak (Dorset Environmental Science Centre, Dorset Environmental Science Centre (DESC)). ORCID: https://orcid.org/0000-0002-4939-6478"
+  ],
+  "dct_description_sm": [
+    "LAKE: Lake from where the sample was taken \r\nLAT_DMS: Average latitude of lake location in degrees, minutes and seconds (see BasicLakeInformation.csv)\r\nLON_DMS: Average longitude of lake location in degrees minutes and seconds (see BasicLakeInformation.csv)\r\nYEAR: Year when the sample was taken \r\nLDEPTH: Ldepth is lake depth \r\nSAMPLE_Depth: Is the depth at which the sample was taken\r\nAREA: Area of lake in hectares \r\nSECCHI: Secchi depth in meters- Chemistry sampling location \r\nCA: Calcium measured using atomic absorption spectrophotometry, mg/L  \r\nCL: Chloride measured using  automated ion chromatography, mg/L \r\nCOND: Conductivity μS/cm at 25.0 ºC measured using potentiometry \r\nDOC: Dissolved organic carbon meaured using colourimetry, mg/L\r\nPH: Measured using potentiometry, unitless\r\nTKN: Total Kjeldahl Nitrogen (Calculated) in µg/L. (Nitrate + Nitrite) concentration (colourimetry) is subtracted from Total Nitrogen concentration (measured by oxidative pyrolysis and chemiluminescence)\r\nTP: Total phosphorus, measured using colourimetry, ug/L\r\nTOTALK:  total alkalinity defined as the capacity of a solution to neutralize acid and therefore is a composite measure of the behaviour of a group of substances towards acid, measured in mg/L as CaCO3\r\n\r\nWe ask you that you cite the DOI associated with this dataset when using this data for publications.",
+    "This data file contains a compilation of environmental variables for 30 lakes spanning the years of 2012, 2013, 2014, 2015 and 2016. These data was processed at the Dorset Environmental Science Centre http://desc.ca/\r\nThis data file is also related to the following files: waterChemestry.csv\r\nLakeSurveyTempO2_2012-2018"
+  ],
+  "dct_identifier_sm": [
+    "108210_87",
+    "https://doi.org/10.5683/SP2/PEYUB4"
+  ],
+  "dct_issued_s": "2020-07-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/PEYUB4\"}",
+  "dct_rights_sm": [
+    "This dataset is made available with limited information on how it can be used. You may wish to communicate with the Contact(s) specified before use."
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontarioc, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Canada",
+    "Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada",
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Lake environmental variables",
+  "gbl_mdModified_dt": "2020-07-02T04:07:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d2574de6-5e93-594f-a0d8-4ac051d7dce5",
+  "pcdm_memberOf_sm": [
+    "Queen's University Biological Station Data Archive Dataverse"
+  ],
+  "schema_provider_s": "Queen's University Dataverse"
+}

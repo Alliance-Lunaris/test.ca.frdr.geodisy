@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "behaviour",
+    "pleiotropy",
+    "aggression"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wang, Silu (University of British Columbia).",
+    "Sokolowski, Marla B. (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/eL0JEportvIUivuDBpzcZyTd8BrViYLRLEM4cl-r9SI</p>\n<p><b>Storage size:</b> 57177</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>A pleiotropic gene governs multiple traits, which might constrain the evolution of complexity due to conflicting selection on these traits. However, if the pleiotropic effect is modular, then this can facilitate synergistic responses to selection on functionally related traits, thereby leveraging the evolution of complexity. To understand the evolutionary consequence of pleiotropy, the relation among functionally different traits governed by the same gene is key. We examined a pleiotropic function of the foraging (for) gene with its rover and sitter allelic variants in fruit fly, Drosophila melanogaster. We measured for's effect on adult male aggressive behaviours and whether this effect was shaped by for's known role in food-related traits. Rover exhibited higher levels of offensive behaviour than sitters and s2, a sitter-like mutant on rover genetic background. With a Markov chain model, we estimated the rate of aggression escalation, and found that the rover pattern of aggressive escalation more rapidly intensified fights. Subsequent analysis revealed that this was not caused by for's effect on food-related traits, suggesting that for might directly regulate aggressive behaviours. Food deprivation did not elevate aggression, but reduced intermediate-level aggressive behaviours. Aggression and other foraging-related behaviour might comprise a synergistic trait module underlaid by this pleiotropic gene.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">24hours_fooddep_experiment_freq</h4><div class=\"o-metadata__file-description\">Behavior frequency of each treatment and strain.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">24hours_fooddep_weight</h4><div class=\"o-metadata__file-description\">Dry weight of flies in each treatment and strain</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Behavior_transition_networks</h4><div class=\"o-metadata__file-description\">Raw behavior transition matrices used to calculate escalation rate from approach to head-to-head-interaction.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151325_1226260_150149",
+    "https://doi.org/10.5683/SP2/LOEXSC"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/LOEXSC\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Aggressive behaviours, food deprivation and the foraging gene",
+  "gbl_mdModified_dt": "2021-05-19T21:30:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bad6ab37-0b78-56f1-b617-681a48478679",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

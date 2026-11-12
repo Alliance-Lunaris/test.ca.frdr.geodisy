@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8592, -94.785, 55.7555, 48.9757)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows First Nation land acquisitions designated as Other Land as outlined by the Treaty Land Entitlement (TLE) Agreements in Manitoba, pursuant to the Crown Lands Act 5(1)(d).  \n  \n  The purpose of this dataset is to show geographic boundaries for land acquisitions designated as Other Land, as outlined by the Treaty Land Entitlement (TLE) Agreements in Manitoba, pursuant to the Crown Lands Act 5(1)(d). This is a dynamic dataset - data can change daily.Other Land includes land that has been purchased by the First Nations from private landowners or Surplus Provincial or Surplus Federal land that has been purchased from the Manitoba or Canada governments. The title to the land is privately held by a First Nation corporation until it gets transferred to the Government of Canada, however the mines and minerals and other residual interests may be owned by the Crown (Government of Manitoba) and they are required to be transferred to the Government of Canada (subject to third party interest resolution, if applicable).The sites are generally identified by title with reference to a plan of survey, metes and bounds description. Locations are mapped using existing cadastral or parcel mapping data, or reasonably illustrate the site within the dataset. A record may contain multiple polygons that have been combined to form one record.All boundaries are to be considered approximate and for illustrative purposes only.For more information on Treaty Land Entitlement (TLE) Agreements please visit the Manitoba government website: https://www.gov.mb.ca/inr/treaty-land-entitlement/index.htmlFields included [Alias (Field Name): Field description]OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generatedSite ID (SITE_ID): Site ID number of the selected siteArea in Square Metres (AREA): Area in square metresArea in Acres (ACREAGE): Area in acresBand Council Resolution Number (BCR_NO): Band Council Resolution numberName of the First Nation Making the Land Selection (BAND_NAME): Name of the First Nation making the land selectionSite Number (SITE_NO): Site number of the selected siteSelection Name (SELECTION): Name of the selected site"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7a7d9e60-37fb-1d3e-09be-c1338f97e028"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7a7d9e60-37fb-1d3e-09be-c1338f97e028\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "TLE Acquisitions MB",
+  "gbl_mdModified_dt": "2025-10-15T19:11:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5fa52d56-8041-52ac-a4da-c3fcc1855d6e",
+  "locn_geometry": "ENVELOPE(-101.8592, -94.785, 55.7555, 48.9757)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

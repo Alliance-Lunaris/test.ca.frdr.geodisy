@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Inventaire forestier",
+    "Exposition topographique",
+    "Direction inventaires forestiers",
+    "Chablis",
+    "DIF",
+    "Inventaire écoforestier",
+    "Topographie",
+    "TOPEX",
+    "Vent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des inventaires forestiers."
+  ],
+  "dct_description_sm": [
+    "Le TOPEX (sigle qui signifie « topographical exposure ») est un indice d’exposition topographique. Il traduit l’influence de la topographie locale sur le degré d’exposition au vent et sur son comportement (Ruel et al. 2002). \r\n\r\nLes données de TOPEX sont présentées sous la forme d’un fichier matriciel (raster) dont la résolution spatiale est de 50 m avec une projection en Nad 1983 Québec Lambert. \r\n\r\nCe raster couvre tout le territoire du Québec situé approximativement au sud de 52°40‘ et à l’ouest de 61°10‘ et déborde de 75 à 125 m les frontières du Québec (afin d’avoir des valeurs sur l’ensemble du territoire québécois couvert).\r\n\r\nLes valeurs de TOPEX ont été calculées à partir du Modèle numérique de terrain (MNT) de la NASA Shuttle Radar Topography Mission (SRTM). Ce MNT est fourni en projection WGS 84 (EPSG : 4326) d’une résolution d’une seconde d’arc (+/- 30 m). Une mosaïque des tuiles SRTM a été constituée pour ensuite projeter le MNT en Lambert et le ré-échantillonner à 50 m.\r\n\r\nLe TOPEX peut servir d’intrant dans un système d’évaluation de la vulnérabilité au chablis. Il faut cependant garder à l’esprit que cet indice ne prend pas en compte l’effet de canalisation du vent qui peut survenir en certains lieux et qui peut influencer le chablis. De plus, d’autres facteurs sont à prendre en considération pour réaliser une analyse complète du risque de chablis. \r\n\r\nRUEL, J.-C., S. J. MITCHELL et M. DORNIER, 2002. A GIS based approach to map wind exposure for windthrow hazard rating. Northern Journal of Applied Forestry, 19(4): 183-187."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/5b592411-0d27-4d2d-9cba-ce669a767645"
+  ],
+  "dct_issued_s": "2019-09-16",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/5b592411-0d27-4d2d-9cba-ce669a767645\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "TOPEX",
+  "gbl_mdModified_dt": "2025-04-17T22:02:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "672894d6-56d2-5415-b42c-f5f3a845cb74",
+  "schema_provider_s": "Données Québec"
+}

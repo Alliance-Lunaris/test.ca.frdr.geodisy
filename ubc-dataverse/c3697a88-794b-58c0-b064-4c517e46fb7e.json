@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "bioarchaeology",
+    "Bioinformatics",
+    "oral microbiome",
+    "Metagenomics",
+    "Dental Calculus",
+    "Ancient DNA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Standeven, Francesca (University of Bradford).",
+    "Dahlquist-Axe, Gwyn (University of Bradford).",
+    "Hendy, Jessica (University of York).",
+    "Fiddyment, Sarah (University of York, University of Cambridge).",
+    "Holst, Malin (University of York).",
+    "McGrath, Krista (Universitat Autònoma de Barcelona).",
+    "Collins, Matthew (University of Cambridge).",
+    "Mundroff, Amy (University of Tennessee at Knoxville).",
+    "Radini, Anita (University College Dublin).",
+    "Wagner, Josef (The University of Melbourne).",
+    "Meehan, Conor (Nottingham Trent University).",
+    "Tedder, Andrew (University of Bradford).",
+    "Speller, Camilla (University of British Columbia). ORCID: https://orcid.org/0000-0001-7128-9903"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 5</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/dataset/doi:10.5061/dryad.jdfn2z3mk</p>\n<p><b>Storage size:</b> 407088407</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><div>\n<div>\n<div>\n<div>\n<p>Archaeological dental calculus can provide detailed insights into the ancient human oral microbiome. We offer a multi-period, multi-site, ancient shotgun metagenomic dataset consisting of 174 samples obtained primarily from archaeological dental calculus derived from various skeletal collections in the United Kingdom. This article describes all the materials used, including the skeletons’ historical period and burial location, biological sex, and age determination, data accessibility, and additional details associated with environmental and laboratory controls. In addition, this article describes the laboratory and bioinformatic methods associated with the dataset development and discusses the technical validity of the data following quality assessments, damage evaluations, and decontamination procedures. Our approach to collecting, making accessible, and evaluating bioarchaeological metadata in advance of metagenomic analysis aims to further enable the exploration of archaeological science topics such as diet, disease, and antimicrobial resistance (AMR).</p>\n</div>\n</div>\n</div>\n</div>",
+    "<b>Methods</b><br /><p>This dataset includes FastQC reports for raw data (Supplementary Material 1), FastQC reports for trimmed data (Supplementary Material 2), Fastp reports on the impact of data quality filtering (Supplementary Material 3), and mapDamage plots of the human DNA sequences recovered from the datasets (Supplementary Material 4).</p>\n<p>Detailed methods may be found in the associated publication. The dataset was collected from archaeological dental calculus and associated bone samples. DNA was extracted within dedicated biomolecular clean labs. After crushing to a powder, samples were pre-digested for 5 minutes with 1 mL of 0.5M EDTA to remove possible surface contamination. This pre-digestion supernatant was removed, and a further 1.1 mL of 0.5M EDTA was added and rotated at room temperature for seven days to fully demineralize. For the majority of samples, DNA was extracted from the dental calculus and bone samples using a protocol based on Dabney et al. (2013). All DNA extracts were quantified via Qubit® 2.0 Fluorometer using a High-Sensitivity DNA Assay. For each DNA extract, double-stranded whole genome shotgun Illumina libraries were prepared using a protocol based on Meyer and Kircher (2010). The dental calculus libraries were pooled in equimolar concentration and subjected to paired-end sequencing on multiple HiSeq2500 lanes at the Wellcome Trust Sanger Institute (WTSI) or on a NextSeq platform, PE 150 + 150 bp Integrated Microbiome Resource (IMR) at Dalhousie.</p>\n<p>FastQC v0.11.9 was used to assess raw digital data quality. FastQC is a quality control tool for raw sequencing data that provides a modular collection of analyses used to gain insight into any flaws in the data before performing further analysis. The preprocessing programmer Fastp v0.23.2 was then utilised with default parameters. Fastp is a tool used to filter and trim poor-quality reads, cut adapters, repair mismatched base pairs, and produce overall quality. It also provides results that include both pre- and post-filtering data, allowing for a direct comparison of the filtering impact. Centrifuge v1.0.3 was used, with default parameters, to assign taxonomic labels by mapping sequences against the human genome, prokaryotic genomes, and viral genomes, including 106 SARS-CoV-2 complete genomes. Human reads from Centrifuge outputs were retained, and seqtk ‘subseq’ was used to convert them into fastq files that were then mapped to the human genome (hg38) (NCBI 2013) using BWA mem v0.7.17 . SAMtools v1.12  (-view -rmdup -flagstat -sort -index) was then utilised for alignment formatting and was sorted into BAM files that were run through mapDamage2 v2.2.2 with default parameters.</p>"
+  ],
+  "dct_identifier_sm": [
+    "956199_150149",
+    "https://doi.org/10.5683/SP3/IRIJYO"
+  ],
+  "dct_issued_s": "2025-07-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IRIJYO\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Supplementary information from: An extensive archaeological dental calculus dataset spanning 5000 years for ancient human oral microbiome research",
+  "gbl_mdModified_dt": "2025-07-17T07:46:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c3697a88-794b-58c0-b064-4c517e46fb7e",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-0.501441, 20.182133, 58.543081, 53.991908)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hoppmann, Mario (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0003-1294-9531",
+    "Tippenhauer, Sandra (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0003-3405-6275",
+    "Thomas, Helmuth (Department of Oceanography, Dalhousie University, Halifax). ORCID: https://orcid.org/0000-0002-6720-8434"
+  ],
+  "dct_description_sm": [
+    "Raw data acquired by a thermosalinograph (SBE21, SeaBird GmbH) on board RV HEINCKE were processed to receive a calibrated and validated data set of seawater temperature and salinity. Data were downloaded from DAVIS SHIP data base (https://dship.awi.de) with a resolution of 1 sec. The SBE21 was equipped with an additional external temperature sensor (SBE38, Sea-Bird GmbH). Raw data are converted to temperature and conductivity values using the calibration coefficients from the calibration before deployment. However, data can only be finally processed after replacement and renewed calibration because correction values for the sensor drift can only be obtained by the post cruise calibration. The thermosalinograph on board RV HEINCKE is exchanged about once a year and calibration procedures are conducted after every exchange. Salinity was calculated according to the instructions from the Practical Salinity Scale PSS-78 using the obtained internal temperature and conductivity data. Processed data are provided as 1min means of salinity and seawater temperature aligned with position data taken from master track of the respective cruise. Quality flags are appended according to the SeaDataNet Data Quality Control Procedures (version from May 2010)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.963425",
+    "https://doi.org/10.1594/pangaea.963425"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.963425\"}",
+  "dct_subject_sm": [
+    "Conductivity",
+    "TSG",
+    "HE611",
+    "Quality flag, water temperature",
+    "thermosalinograph",
+    "Digital oceanographic thermometer, Sea-Bird, SBE 38",
+    "Salinity",
+    "Temperature, water, internal",
+    "Heincke",
+    "Physical Oceanography @ AWI (AWI_PhyOce)",
+    "Calculation according to Practical Salinity Scale PSS-78, Lewis and Perkin (1981)",
+    "Temperature, water",
+    "DATE/TIME",
+    "Quality flag, salinity",
+    "Seadatanet flag: Data quality control procedures according to SeaDataNet (2010)",
+    "Thermosalinograph",
+    "DEPTH, water",
+    "LATITUDE",
+    "LONGITUDE",
+    "Thermosalinograph (TSG), Sea-Bird, SBE 21 SEACAT"
+  ],
+  "dct_title_s": "Continuous thermosalinograph oceanography along RV HEINCKE cruise track HE611",
+  "gbl_mdModified_dt": "2024-07-13T12:02:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "681db208-4359-54b6-9518-9764c2f4d0db",
+  "locn_geometry": "ENVELOPE(-0.501441, 20.182133, 58.543081, 53.991908)",
+  "schema_provider_s": "PANGAEA"
+}

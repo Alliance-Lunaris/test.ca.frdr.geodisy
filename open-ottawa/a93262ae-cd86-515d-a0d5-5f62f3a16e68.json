@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "counters",
+    "health",
+    "bike"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p>The data provides counts of bike trips (both directions summed unless otherwise noted) at the following locations:&nbsp;<br /><br />1_ALEX: Ottawa approach to the NCC Alexandra Bridge Bikeway This counter was not operational for most of 2010 due to bridge construction&nbsp;<br /><br />2_ORPY: NCC Ottawa River Pathway approximately 100m east of the Prince of Wales Bridge&nbsp;<br /><br />3_COBY: NCC Eastern Canal Pathway approximately 100m north of the Corktown Bridge. WINTER counter&nbsp;<br /><br />4_CRTZ: NCC Western Canal Pathway approximately 200m north of “The Ritz”&nbsp;<br /><br />5_LMET Laurier Segregated Bike lane just west of Metcalfe WINTER counter&nbsp;<br /><br />6_LLYN Laurier Segregated Bike lane just east of Lyon. WINTER counter&nbsp;<br /><br />7_LBAY Laurier Segregated Bike lane just west of Bay. WINTER counter&nbsp;<br /><br />8_SOMO Somerset bridge over O-Train west-bound direction only WINTER counter (best effort- see notes)&nbsp;<br /><br />9_OYNG O-Train Pathway just north of Young Street&nbsp;<br /><br />10_OGLD O-Train Pathway just north of Galdstone Avenue&nbsp;<br /><br />11_OBVW O-Train Pathway just north of Bayview Station&nbsp;<br /><br />12a_ADAWE Adàwe Crossing Bikes. WINTER counter&nbsp;<br /><br />12b_ADAWE Adàwe Crossing Pedestrians. WINTER counter&nbsp;<br /><br />The data is divided into quarterly files with options to download daily volumes for all locations.&nbsp;<br /><br /><strong>Accuracy</strong>: The counters are considered accurate to within a range of +0%, -5% of the bikes that cross over the sensing section of the pathway or bike lane.&nbsp;<br /><br />What is Counted:&nbsp;<br /><br />Most large wheeled strollers, wheelchairs, mobility scooters will typically be counted as 'bikes' Some skateboards and roller-bladers will be counted as bikes. Carbon-fibre framed bikes will be counted, as long as their wheel rims are metallic (aluminium or steel) Cars, trucks and snow-ploughs will typically not be counted since they are massive enough to be detected as non-bikes and therefore be ignored by the sensor electronics.&nbsp;<br /><br />ByPass:&nbsp;<br /><br />On most routes where bike counters are installed, cyclists can in fact by-pass the counters. In this sense the total bike traffic along a route may be higher that the count. For example, at the Alexandra Bride count site, some cyclists use the pedestrian-only section of the board-walk instead of the bike-track where the sensors are located- these cyclists are not counted. Some cyclists use the roadway instead of the bike-track, these cyclists are also not counted.&nbsp;<br /><br />On multi-use pathways, the 'bypass' is quite low, occasionally a cyclist may veer off the track onto the grass, this also happens for a short period in early spring while some ice remains on the pathways.&nbsp;<br /><br />Winter Counts:&nbsp;<br /><br />Only the counters designated as 'winter' counters have valid data after the first snow accumulation, until snow has been removed or melted away in spring. Winter counters imply some winter maintenance of the pathway or bike lane. The Somerset counter bike lane (westbound only) is cleared of snow on a best-effort basis only, and typically will not show all the cyclists along that route immediately following a heavy snow-fall.&nbsp;<br /><br />Out of Service:&nbsp;<br /><br />There may be gaps in counter data if the counters were being serviced, or if the pathway/road at the counter site was under construction. In these cases the counter data will be '', with the field highlighted in grey.&nbsp;<br /><br /><strong>Update Frequency</strong>: The data set includes available counts from Jan 1st, 2010 for daily volumes and from July 2012 to June 2013 for the 15 min interval counts for the Laurier bike lane, and. These will be up-dated on an on-going basis. New data will be posted approximately one month after the end of each quarter. Some data from late in the fourth quarter may lag until the second quarter of the following year, for counter stations which are not accessible during winter. Data from the counter at Laurier and Metcalfe can also be found on a public website (follow Ottawa.ca/bikelane). This data will be updated on a daily or weekly basis (worst-case).&nbsp;<br /><br /><strong>Contact</strong>: <a href='mailto:essaid.kadid@ottawa.ca' rel='nofollow ugc'>Essaid Kadid</a></p><br /><br /><div><p><strong>Download note:</strong> <em>If you are having problems downloading using Microsoft Edge as your web browser, try disabling the “Open Office files in the browser” option in Settings.</em></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "f218592c7fe74788906cc6a0eb190af9",
+    "https://www.arcgis.com/home/item.html?id=f218592c7fe74788906cc6a0eb190af9"
+  ],
+  "dct_issued_s": "2019-08-29",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/documents/ottawa::bicycle-trip-counters\"}",
+  "dct_title_s": "Bicycle Trip Counters",
+  "gbl_mdModified_dt": "2026-08-10T20:22:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a93262ae-cd86-515d-a0d5-5f62f3a16e68",
+  "locn_geometry": "ENVELOPE(-76.3555907112863, -75.2466242192526, 45.5371104704101, 44.9616839016198)",
+  "schema_provider_s": "Open Ottawa"
+}

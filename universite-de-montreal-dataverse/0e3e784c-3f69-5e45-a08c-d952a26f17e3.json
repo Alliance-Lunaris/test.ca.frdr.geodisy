@@ -1,0 +1,63 @@
+{
+  "dcat_keyword_sm": [
+    "Fishes",
+    "Fishing gear type",
+    "Lakes",
+    "Lacs",
+    "Variables climatiques",
+    "Équipement de pêche",
+    "Poissons",
+    "Cours d'eau",
+    "Rivers",
+    "Climate variables"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Beisner, Beatrix (University of Quebec at Montreal (UQAM), Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-6972-6887",
+    "Rodriguez, Marco A. (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0003-0391-9170",
+    "Lemaire, Marine (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-3122-3229",
+    "Fugère, Vincent (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0003-1877-5755",
+    "Barrette, Marie-France (Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs).",
+    "Gagné, Stéphanie (Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs).",
+    "Leclerc, Véronique (Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs).",
+    "Morissette, Olivier (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0002-5037-9093",
+    "Pouliot, Rémy (Université Laval, Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs).",
+    "St-Pierre, Annick (Université du Québec à Montréal).",
+    "Turgeon, Katrine (Université du Québec en Outaouais, Groupe de recherche interuniversitaire en limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2528-130X",
+    "Velghe, Katherine (Université du Québec à Montréal).",
+    "Guay, Jean-Christophe (Hydro-Québec)."
+  ],
+  "dct_description_sm": [
+    "Fish catch data (standardized and non-standardized fish surveys) for ten important fisheries species: \nlake sturgeon (Acipenser fulvescens),\nlake whitefish (Coregonus clupeaformis), \nnorthern pike (Esox lucius), yellow perch (Perca flavescens), \narctic char (Salvelinus alpinus), \nsauger (Sander canadensis), \nlake trout (Salvelinus namaycush), \nbrook trout (Salvelinus fontinalis), \nAtlantic salmon (Salmo salar), \nwalleye (Sander vitreus).\n\nSite characteristics data: location (latitude and longitude), sampling date, habitat type (lake or river) and fishing gear (three categories: electrofishing, gillnet, or seine). \n\nFive bioclimatic variables by site: annual means for temperature (°C) and precipitation (mm), mean diurnal temperature range (°C), annual temperature range (°C), and precipitation seasonality (coefficient of variation of monthly total precipitation).",
+    "The data covers sampling sites over all of the province of Québec, with more data in the southern regions of the province. Data are from Hydro-Québec and the Québec Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP). These datasets include a heterogeneous mix of standardized and non-standardized fish surveys by government biologists and by environmental consulting firms sub-contracted by Hydro-Québec, collected between 1973 and 2021. Overall, 6498 unique sites (3087 sites in lakes, 3412 sites in rivers; reservoirs excluded), were included in the database. For each site, the data consisted of species counts (adult and juvenile life stages), location (latitude and longitude), sampling date, habitat type (lake or river) and fishing gear (three categories: electrofishing, gillnet, or seine). Climate data (means over 1970 to 2000) and elevation were extracted for each site according to the site’s location from the WorldClim website (https://www.worldclim.org/) in 2023; a site which provides global weather and climate data at high spatial resolution. All 19 ‘bioclimatic variables’ provided by WorldClim were obtained from WorldClim raster files (10-min. resolution) using the function extract from the package raster (Hijmans and van Etten 2012). Five weakly-correlated bioclimatic variables were retained: annual means for temperature and precipitation, mean diurnal temperature range, annual temperature range, and precipitation seasonality (coefficient of variation of monthly total precipitation)."
+  ],
+  "dct_identifier_sm": [
+    "826394_281357_281358",
+    "https://doi.org/10.5683/SP3/AHKTZJ"
+  ],
+  "dct_issued_s": "2024-09-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AHKTZJ\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Observational fish data for ten important fisheries species across the province of Québec [1970-2021]",
+  "gbl_mdModified_dt": "2024-12-04T19:50:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0e3e784c-3f69-5e45-a08c-d952a26f17e3",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

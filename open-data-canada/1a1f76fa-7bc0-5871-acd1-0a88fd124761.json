@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Culture and Recreation",
+    "Economy and Business",
+    "Government information",
+    "Environment and Natural Resources",
+    "Environment and energy"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau de pistes et de sentiers de l’Ontario"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "The Ontario Trail Network (OTN) contains geospatial networks of trails in urban, rural and wilderness settings that are managed by a named organization for transportation, recreation, active living or tourism purposes. The OTN relies on data sharing partnerships with local trail organizations and municipal, provincial and federal governments for ongoing updates and maintenance. Trails in the OTN must be: * associated with a named trail organization * intended for free or paid public access * marked and maintained The OTN collection includes two data classes: * Ontario Trail Network segment derived * Ontario Trail Network access points __Ontario Trail Network segment derived__ This spatial dataset represents segments of trails in the OTN. Trail segments define a linear corridor through the natural or urban environment. The corridors may be single segments or form a looping system. The data includes characteristics about each trail, such as: * trail name * trail association * permitted use * description * length Examples of trail types include: * hiking or walking * cycling * cross-country skiing and snowshoeing * paddling and portage * equestrian * snowmobiling, all terrain vehicle and off-road motorcycle * barrier free (wheelchair accessible) * ice skating Some trail networks have official access points. You can find the location of these points in the OTN_ACCESS_POINT spatial dataset. __Ontario Trail Network access points__ This spatial dataset represents the main access points to a trail system that is part of the OTN. This layer should be used together with OTN Segment Derived. Access points can be spatially related to a trail network based on relative location to a trail segment. Not all trail networks will have official access points.",
+    "Le Réseau de pistes et de sentiers de l’Ontario (RPSO) présente des réseaux géospatiaux de pistes et de sentiers en milieu urbain, rural et sauvage qui sont gérés par un organisme désigné et qui sont réservés au transport, aux loisirs, à la vie active ou au tourisme. Le RPSO se fonde sur des partenariats de partage de données avec les organismes locaux responsables des pistes et des sentiers, les administrations municipales et les gouvernements provincial et fédéral quant aux mises à jour continues. Les pistes et les sentiers présentés dans le RPSO doivent être : * associés à un organisme désigné comme responsable de la piste ou du sentier * destinés à un usage public avec accès gratuit ou payant * balisés et entretenus La collection des RPSO comprend deux catégories de données : * Segments tirés du Réseau des pistes et des sentiers de l’Ontario * Points d’accès dans le Réseau des pistes et des sentiers de l’Ontario __Segments tirés du Réseau des pistes et des sentiers de l’Ontario__ Cet ensemble de données spatiales représente des segments de pistes et de sentiers dans le RPSO. Les segments de pistes et de sentiers renvoient à des corridors linéaires dans le milieu naturel ou urbain. Les corridors peuvent être des segments distincts ou former un réseau en boucle. Les données font état des caractéristiques de chaque piste et sentier, notamment : * nom de la piste ou du sentier * organisme responsable de l’entretien de la piste ou du sentier * usage autorisé * description * longueur Voici quelques exemples de types de pistes et de sentiers : * randonnée ou marche * vélo * ski de fond et raquette * activité à pagaie et portage * équitation * motoneige, véhicule tout-terrain et moto tout-terrain * accès facile (accessible en fauteuil roulant) * patinage sur glace Certains réseaux de pistes et de sentiers comprennent des points d’accès officiels. Vous trouverez l’emplacement de ces points dans la base de données spatiales des points d’accès du RPSO. __Points d’accès dans le Réseau des pistes et des sentiers de l’Ontario__ Cet ensemble de données spatiales représente les principaux points d’accès à un réseau de pistes et de sentiers faisant partie du RPSO. Cette couche de données devrait être utilisée conjointement avec les données sur les segments tirés du RPSO. Les points d’accès peuvent être liés dans l’espace à un réseau de pistes et de sentiers d’après leur emplacement relatif par rapport à un segment de piste ou de sentier. Certains réseaux de pistes et de sentiers n’ont pas de points d’accès officiels.** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7ac00dbd-9ac4-43fb-9452-642f10c221d7"
+  ],
+  "dct_issued_s": "2021-09-14",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7ac00dbd-9ac4-43fb-9452-642f10c221d7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Ontario Trail Network",
+  "gbl_mdModified_dt": "2026-03-25T13:36:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1a1f76fa-7bc0-5871-acd1-0a88fd124761",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

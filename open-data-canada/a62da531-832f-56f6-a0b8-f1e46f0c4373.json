@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Terre agricole",
+    "Boundaries",
+    "Remote sensing",
+    "Frontière",
+    "Farmlands",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Limites des champs détectées automatiquement au Canada, 2023"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "OneSoil employs a proprietary machine learning (ML) model based on state-of-the-art instance segmentation to detect field boundaries. Utilizing raw Sentinel-2 data aggregated according to local vegetation season maps and an additional upscaling module to enhance boundary accuracy, we ensure precise results. OneSoil’s data preprocessing involves the utilization of their cloud detector module and local season mapping.",
+    "OneSoil utilise un modèle d'apprentissage automatique (ML) propriétaire basé sur une segmentation d'instance de pointe pour détecter les limites des champs. En utilisant les données brutes Sentinel-2 agrégées selon les cartes locales des saisons de végétation et un module de mise à l'échelle supplémentaire pour améliorer la précision des limites, nous garantissons des résultats précis. Le prétraitement des données de OneSoil implique l'utilisation de leur module de détection de nuages ​​et de la cartographie des saisons locales."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b3dba669-6611-4cb1-b4be-6c317b9908ad"
+  ],
+  "dct_issued_s": "2024-09-12",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b3dba669-6611-4cb1-b4be-6c317b9908ad\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture",
+    "form_descriptors",
+    "government_and_politics",
+    "nature_and_environment",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Automatically Detected Field Boundaries in Canada, 2023",
+  "gbl_mdModified_dt": "2026-01-07T20:50:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a62da531-832f-56f6-a0b8-f1e46f0c4373",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

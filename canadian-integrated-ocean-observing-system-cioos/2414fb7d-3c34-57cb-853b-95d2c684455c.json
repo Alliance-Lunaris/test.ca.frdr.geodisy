@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.4, -122.6, 56.0, 48.0)",
+  "dcat_keyword_sm": [
+    "subsurfacesalinity",
+    "oceans",
+    "water-temperature",
+    "temperature-sous-la-surface",
+    "underway-measurement",
+    "oxygen",
+    "temperature-de-leau",
+    "salinite",
+    "inorganiccarbon",
+    "subsurfacetemperature",
+    "pco2",
+    "salinity",
+    "ocean-carbon",
+    "oceanography",
+    "oxygene",
+    "carbone-inorganique",
+    "salinite-sous-la-surface"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Observations en cours de surface de l'eau de mer et de la couche limite marine de la pression partielle du dioxyde de carbone (pCO2), de la température de l'eau, de la salinité et d'autres paramètres effectuées lors des croisières du M/V Seaspan Royal dans les eaux côtières de la Colombie-Britannique, au Canada, du 1er juillet au 20 décembre"
+  ],
+  "dct_creator_sm": [
+    "Evans, Wiley (Hakai Institute).",
+    "Campbell, Katie (Hakai Institute).",
+    "Barrette, Jessy (Hakai Institute).",
+    "Davis, Chris (Hakai Institute).",
+    "NOAA National Centers for Environmental Information."
+  ],
+  "dct_description_sm": [
+    "This dataset consists of surface underway measurements collected from the M/V Seaspan Royal as it transited the coastal waters of British Columbia, Canada from 2022-07-01 to 2022-12-20. Seawater was drawn from a depth of 2.5 m to a Sunburst SuperCO2 system and ancillary sensors from Sea-Bird Scientific. Measurements of temperature, salinity, dissolved oxygen content, and CO2 partial pressure were made every 2 seconds on seawater flowing through the system and instruments, and these data were logged by the SuperCO2 system. Seawater was delivered from the intake to analytical equipment using an AMT 1/2 HP pump (4295-98). Temperature and salinity data were collected using a Fluke thermometer (model 1523) with thermistor probe (model 5610) in the equilibrator, a Sea-Bird SBE 45 MicroTSG Thermosalinograph, and a SBE 38 Digital Oceanographic Thermometer at the seawater intake. Dissolved oxygen content was measured using a SBE63 oxygen optode. Raw oxygen measurements (with salinity reference = 0) were corrected for salt content following the approach provided with the SBE63 Manual revision 010. CO2 measurements were made with a LI-COR LI850 non-dispersive infrared detector housed with the SuperCO2 system. Standardization of the CO2 measurements was achieved through the measurement of four gas standards (Linde; 98.83 ppm, 386.30 ppm, 469.69 ppm, and 1248.45 ppm) that had undergone re-calibration using a zero (N2) and span gas (ESRL; 1567.44 ppm) bracketing the gas standard concentrations. A standardization sequence (measurement of each gas standard sequentially for a period of 90 seconds) was conducted every 4 or 12 hours (over different periods of the data record) and included a 90-second measurement period of atmospheric CO2 partial pressure on air drawn to the system from an intake on the aft deck. The final 20 seconds of atmospheric measurements were retained in the final dataset. Position and weather information (from an Airmax 120WX Weatherstation instrument positioned above the bridge) were logged separately from the SuperCO2 system data, and then merged with the SuperCO2 system data by time-matching the position and weather data to the SuperCO2 system data. This project was supported by the Tula Foundation and Seaspan.",
+    "Cet ensemble de données comprend des mesures en cours de surface recueillies par le M/V Seaspan Royal alors qu'il a transité par les eaux côtières de la Colombie-Britannique, au Canada, du 1er juillet au 20 décembre. L'eau de mer a été prélevée à une profondeur de 2,5 m vers un système Sunburst SuperCO2 et des capteurs auxiliaires de Sea-Bird Scientific. Des mesures de température, de salinité, de teneur en oxygène dissous et de pression partielle de CO2 ont été effectuées toutes les 2 secondes sur l'eau de mer circulant dans le système et les instruments, et ces données ont été enregistrées par le système SuperCO2. L'eau de mer a été acheminée de l'admission à l'équipement d'analyse à l'aide d'une pompe AMT de 1/2 HP (4295-98). Les données de température et de salinité ont été recueillies à l'aide d'un thermomètre Fluke (modèle 1523) avec une sonde à thermistance (modèle 5610) dans l'équilibreur, d'un thermosalinographe Sea-Bird SBE 45 microTSG et d'un thermomètre océanographique numérique SBE 38 à la prise d'eau de mer. La teneur en oxygène dissous a été mesurée à l'aide d'un optode d'oxygène SBE63. Les mesures d'oxygène brut (avec une référence de salinité = 0) ont été corrigées pour tenir compte de la teneur en sel en suivant l'approche fournie dans la révision 010 du manuel SBE63. Les mesures de CO2 ont été effectuées à l'aide d'un détecteur infrarouge non dispersif LI-COR LI850 intégré au système SuperCO2. La standardisation des mesures de CO2 a été réalisée grâce à la mesure de quatre étalons de gaz (Linde ; 98,83 ppm, 386,30 ppm, 469,69 ppm et 1248,45 ppm) qui avaient été réétalonnés à l'aide d'un gaz zéro (N2) et d'un gaz de calibrage (ESRL ; 1567,44 ppm) entre parenthèses les concentrations standard de gaz. Une séquence de normalisation (mesure séquentielle de chaque étalon de gaz pendant une période de 90 secondes) a été réalisée toutes les 4 ou 12 heures (sur différentes périodes de l'enregistrement des données) et comprenait une période de mesure de 90 secondes de la pression partielle du CO2 atmosphérique sur l'air aspiré au système par une prise située sur le pont arrière. Les 20 dernières secondes des mesures atmosphériques ont été conservées dans l'ensemble de données final. Les informations de position et météorologiques (provenant d'un instrument de station météo Airmax 120WX positionné au-dessus du pont) ont été enregistrées séparément des données du système SuperCO2, puis fusionnées avec les données du système SuperCO2 en faisant correspondre dans le temps les données de position et météorologiques aux données du système SuperCO2. Ce projet a été soutenu par la Fondation Tula et Seaspan."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/58d56d16-6350-4b01-a062-6bdb2d9f89b4"
+  ],
+  "dct_issued_s": "2023-02-09",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/58d56d16-6350-4b01-a062-6bdb2d9f89b4\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Surface underway seawater and marine boundary layer observations of partial pressure of carbon dioxide (pCO2), water temperature, salinity and other parameters made during the M/V Seaspan Royal cruises in the coastal waters of British Columbia, Canada from 2022-07-01 to 2022-12-20",
+  "gbl_mdModified_dt": "2026-09-16T20:26:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2414fb7d-3c34-57cb-853b-95d2c684455c",
+  "locn_geometry": "ENVELOPE(-134.4, -122.6, 56.0, 48.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

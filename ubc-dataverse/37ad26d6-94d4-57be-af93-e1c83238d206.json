@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "conditional neutrality",
+    "linkage disequilibrium",
+    "selective sweeps",
+    "Antagonistic pleiotropy",
+    "standing variation Subject area:  Genomics and gene mapping",
+    "genotype-environment association"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yoder, Jeremy B. (University of British Columbia).",
+    "Tiffin, Peter (University of Minnesota)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/Npv2qPnygKCuo75EdwKmDOWad3Rm9cvMgnQamMC_ln0</p>\n<p><b>Storage size:</b> 32399509</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Genomic “scans” to identify loci that contribute to local adaptation are becoming increasingly common. Many methods used for such studies have assumed that local adaptation is created by loci experiencing antagonistic pleiotropy and that the selected locus itself is assayed, and few consider how signals of selection change through time. However, most empirical data sets have marker density too low to assume that a selected locus itself is assayed, researchers seldom know when selection was first imposed, and many locally adapted loci likely experience not antagonistic pleiotropy but conditional neutrality. We simulated data to evaluate how these factors affect the performance of tests for genotype-environment association. We found that three types of regression-based analyses (linear models, mixed linear models, and latent factor mixed models) and an implementation of BayEnv all performed well, with high rates of true positives and low rates of false positives, when the selected locus experienced antagonistic pleiotropy, and when the selected locus was assayed directly. However, all tests had reduced power to detect loci experiencing conditional neutrality, and the probability of detecting associations was sharply reduced when physically linked rather than causative loci were sampled. Antagonistic pleiotropy also maintained detectable genotype-environment associations much longer than conditional neutrality. Our analyses suggest that if local adaptation is often driven by loci experiencing conditional neutrality, genome-scan methods will have limited capacity to find loci responsible for local adaptation.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Yoder and Tiffin (2017) supporting information</h4><div class=\"o-metadata__file-description\">This archive provides configuration files for forward population genetic simulations of local adaptation, scripts to perform analysis on their results, and a copy of data produced by this pipeline. See README file for detailed description and annotation.</div><div class=\"o-metadata__file-name\">Yoder_and_Tiffin_supporting-information.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151867_150149",
+    "https://doi.org/10.5683/SP2/UJ4YVP"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/UJ4YVP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Effects of gene action, marker density, and time since selection on the performance of landscape genomic scans of local adaptation",
+  "gbl_mdModified_dt": "2021-05-20T02:12:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37ad26d6-94d4-57be-af93-e1c83238d206",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

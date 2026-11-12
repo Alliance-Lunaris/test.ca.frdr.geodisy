@@ -1,0 +1,68 @@
+{
+  "dcat_keyword_sm": [
+    "Marital status",
+    "Shelter",
+    "Ethnic origin",
+    "Government income",
+    "Age",
+    "Commuting",
+    "Full time work",
+    "Unpaid work",
+    "Language",
+    "Mobility",
+    "Immigration",
+    "Citizenship",
+    "Self-employment",
+    "Investment",
+    "Income",
+    "Visible minority",
+    "Pension",
+    "First Nation",
+    "Birthplace",
+    "Census of Population",
+    "Household",
+    "Labour force",
+    "Family",
+    "Dwelling",
+    "Aboriginal",
+    "Employment",
+    "Part time work",
+    "Wages",
+    "Education",
+    "Mother tongue"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "Notes: <p><strong>Reduced level of detail</strong></p> <ul> <li>The smallest geographic unit in the 2016 PUMF is the census metropolitan area (CMA). Data at the scale of geographic areas smaller than CMAs are not provided for this product. Also, the user will find that this product contains only information on the largest census metropolitan areas and the provinces. The Yukon, the Northwest Territories and Nunavut are grouped under the term 'Northern Canada.'</li> <li>Furthermore, the data have been aggregated in such a way as to preserve confidentiality while, at the same time, providing as much detail as possible in order to maintain the analytical value of the file. For example, the data on ethnic origin do not indicate \"Inuit\", but the more general category \"North American Aboriginal origins\". This category also includes other aboriginal groups, such as \"Métis\".</li> </ul> <p><strong>Data not available</strong></p> <ul> <li>For some records, the codes for certain variables were changed to indicate ‘Not available,’ so as to ensure non-disclosure of individual respondent identity and characteristics. Users should be aware of the existence of this category when producing statistical tables as this may result in counts that are smaller than published counts.</li> </ul> <p><strong>Lower and upper income limits</strong></p> <ul> <li>The PUMF contains lower and upper income limits. Thus, the data on total income and sources of income are adjusted proportionally. Lower and upper limits are also applied to certain dwelling variables such as ‘value of dwelling.’</li> </ul> <p><strong>Rounding</strong></p> <ul> <li>For all quantitative variables, the data are rounded to base 100, 1,000 or 10,000.</li> </ul> <p><strong>Content changes</strong></p> <ul> <li>The removal of: <ul> <li>The religion variable, as religion was not asked in 2016.</li> <li>Low-income measure, market income (LOLIMMI).</li> <li>The replacement of Owner’s major payment (OMP) and Gross rent (GROSRT) by Shelter Cost (SHELCO)</li> </ul> </li> <li>The addition of: <ul> <li>Structural type of dwelling (DTYPE)</li> <li>Housing core need indicator (HCORENEED_IND)</li> <li>Immigration: Admission category - Summary (IMMCAT5)</li> <li>Education: Major field of study STEM & BHASE (non-STEM) groupings (CIP2011_STEM_SUM)</li> </ul> </li> <li>Additional categories have been added to the following variables <ul> <li>Other country of Citizenship (CITOTH)</li> <li>Place of birth (POB)</li> <li>Home language (HLANO)</li> <li>Mother tongue (MTNNO)</li> </ul> </li> </ul>;",
+    "The 2016 Census public use microdata file (PUMF) on individuals contains 930,421 records, representing 2.7% of the Canadian population. These records were drawn from a sample of one quarter of the Canadian population (sample data from questionnaire 2A-L). The 2016 PUMF contains 123 variables. Of these, 92 variables, or 75%, come from the individual universe and 31 variables, or 25%, are drawn from the family, household and dwelling universes. In addition, the file contains a unique record identifier (ID), an individual weighting factor and 16 replicate weights for the purpose of estimating sampling variability."
+  ],
+  "dct_identifier_sm": [
+    "654060_47990_272725",
+    "https://doi.org/10.5683/SP3/XYEZYH"
+  ],
+  "dct_issued_s": "2023-09-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XYEZYH\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "2016 Census of Population [Canada] Public Use Microdata File (PUMF): Individuals File",
+  "gbl_mdModified_dt": "2023-10-12T21:06:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d1126320-7a83-5a12-a463-ad3f60f1a76d",
+  "pcdm_memberOf_sm": [
+    "Census of Population / Recensement de la population Dataverse // 2016 Census / Recensement 2016 Dataverse"
+  ],
+  "schema_provider_s": "ODESI Dataverse"
+}

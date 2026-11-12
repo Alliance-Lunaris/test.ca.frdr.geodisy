@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.8, -63.5393, 45.8495, 43.0997)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Objectifs de conservation marine",
+    "Ocean colour",
+    "Suspended Particle Matter",
+    "couleur de l'océan",
+    "Chl-a",
+    "Remote sensing",
+    "Marine Conservation Targets",
+    "Particules en suspension",
+    "Modis Aqua",
+    "Chl-a",
+    "Océan",
+    "Modis Aqua",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Concentrations de chlorophylle a de surface et de matières particulaires en suspension obtenues par satellite dans la baie de Fundy de 2003 à 2021"
+  ],
+  "dct_creator_sm": [
+    "OESD Data Request / DSEM Demande de donnés (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "This dataset accompanies the open access article \"Improving satellite chlorophyll-a retrieval in the turbid waters of the Bay of Fundy, Canada\" published in Estuaries and Coasts (https://doi.org/10.1007/s12237-024-01334-x). A full methods description is provided in the article. Briefly, we processed daily satellite data from the MODerate-resolution Imaging Spectroradiometer (MODIS) on the Aqua satellite from 2003 to 2021 at 300 m resolution to understand and quantify spatial and temporal trends in chlorophyll-a concentration (chl-a, a measure of phytoplankton biomass), and suspended particulate matter concentration (SPM)  in the Bay of Fundy surface waters. This dataset provides the median yearly and seasonal climatology of chl-a (mg m-3 ) and SPM (g m-3) from 2003 to 2021 as geotiff layers. Here winter is defined as January to March, spring as April to June, summer as July to September, and fall as October to December. Chl-a was calculated with the OCX-SPMCor  algorithm and SPM was calculated with the Nechad et al 2010 algorithm.\n\nCite this data as: Wilson, K., Hilborn, A., Clay, S., Devred, E. Data of\nSatellite derived surface chlorophyll-a and suspended particulate matter in the Bay of Fundy from 2003 to 2021. \nPublished February 2024. Ocean Ecosystem Science Division, Fisheries and Oceans Canada, Dartmouth, N.S. \nhttps://open.canada.ca/data/en/dataset/272f5cf1-52bb-416b-b92a-8bc9384fc24d",
+    "Cet ensemble de données accompagne l’article accessible à tous intitulé « Improving satellite chlorophyll-a retrieval in the turbid waters of the Bay of Fundy, Canada », publié dans Estuaries and Coasts (https://doi.org/10.1007/s12237-024-01334-x). Une description complète des méthodes est fournie dans l’article. En bref, nous avons traité les données satellitaires quotidiennes du MODIS (spectroradiomètre imageur à résolution moyenne) du satellite Aqua de 2003 à 2021 à une résolution de 300 m afin de comprendre et de quantifier les tendances spatiales et temporelles de la concentration de chlorophylle a (chl a, une mesure de la biomasse du phytoplancton), et la concentration de matières particulaires en suspension (MPS) dans les eaux de surface de la baie de Fundy. Cet ensemble de données fournit la climatologie annuelle et saisonnière médiane de la chl a (mg m-3) et des MPS (g m-3) de 2003 à 2021 en sous forme de couches GeoTIFF. Les saisons sont définies comme suit : hiver (janvier à mars), printemps (avril à juin), été (juillet à septembre) et automne (octobre à décembre). La chl a a été calculée avec l’algorithme OCX-SPMCor et MPS a été calculé avec l’algorithme de Nechad et al. 2010.\n\nCiter ces données comme suit: Wilson, K., Hilborn, A., Clay, S., Devred, E. \nDonnées de: Concentrations de chlorophylle a de surface et de matières particulaires en suspension obtenues par satellite dans la baie de Fundy de 2003 à 2021: Date de publication: Février 2024. Secteur des sciences des écosystèmes et des océans, Pêches et Océans Canada, Dartmouth (Nouvelle-Écosse). \nhttps://open.canada.ca/data/fr/dataset/272f5cf1-52bb-416b-b92a-8bc9384fc24d"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/272f5cf1-52bb-416b-b92a-8bc9384fc24d"
+  ],
+  "dct_issued_s": "2024-02-14",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/272f5cf1-52bb-416b-b92a-8bc9384fc24d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Satellite derived surface chlorophyll-a and suspended particulate matter in the Bay of Fundy from 2003 to 2021",
+  "gbl_mdModified_dt": "2026-03-24T08:11:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "08470cb0-dd5b-5f40-a9cc-b80feca76809",
+  "locn_geometry": "ENVELOPE(-68.8, -63.5393, 45.8495, 43.0997)",
+  "schema_provider_s": "Open Data Canada"
+}

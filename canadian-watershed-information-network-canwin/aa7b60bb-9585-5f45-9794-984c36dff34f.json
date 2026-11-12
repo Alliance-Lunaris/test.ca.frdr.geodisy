@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.5428, -100.6336, 59.6273, 49.1861)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset is a locational record of the meteorological input files publically available on Saskatchewan GeoHub that can be used with the Environmental Protection Agency approved Regulatory Model (AERMOD). Each file represents the meteorology over an area of the province while minimizing the influences of local terrain on air flow. Additional attribute information for each location includes coordinates and a link to download the AERMOD data as a zip file.  \n  \n  The Air Quality Section of the Ministry of Environment uses air quality modelling to simulate how air pollutants disperse in the ambient atmosphere in order to help manage the air quality in the province. The models are used to estimate the impact of air pollutants emitted from emission sources, and are typically employed to determine whether existing or new proposed industrial facilities are or will be in compliance with the ambient air quality standards outlined in Table 20 of the province's Environmental Code, June 1, 2015 under The Environmental Management and Protection Act, 2010.  The information needed to run dispersion models consists primarily of emissions and meteorological data. Five years (2012-2016) of preprocessed meteorological datasets in an AERMOD ready format is publicly available. This file is contained in the downloadable zipped file. The zipped file contains five files: the SFC and PFL files are the AERMOD ready files required to run AERMOD (i.e., data, sensible heat flux, frictional velocity, potential temperature gradient, vertical velocity, mixing height, monin-obukhov length, surface roughness, Bowen ratio, albedo, scalar wind speed, wind direction, ambient temperature, precipitation, precipitation rate, relative humidity, surface pressure, and total cloud amounts); the DAT file contains the land use information (i.e., Surface roughness, Bowen ratio and albedo) chosen for each month in the SFC file; the KMZ file contains the wind rose for that location which can be used on Google Earth; and the PNG file contains various graphs of monthly or diurnal meteorological distribution (i.e., temperature, wind speed, daytime mixing heights and sensible heat flux, and stability) which can be used to help determine if that location is representative of the area proposed for modelling.  Please note: Since this data is newly developed, it is possible there may be issues with the data as it gets used in more applications. Ongoing changes, edits and updates may be made by the Air Quality Section of the Ministry of Environment. Is is recommended for any future modelling to download the latest version of the input files and not archive any input files on your own server for future use, unless this notification no longer exists. If there are any issues discovered with data in the zipped file, please contact Dennis Fudge at dennis.fudge@gov.sk.ca or at 306-519-7105. Your support will be greatly appreciated.  There may be times you feel that the input files are not representative of the proposed modelling domain due to the surrounding features (i.e., forest/agricultural or rural/urban) being different than those used to generate the input files. If that is the case, the modeler can generate the input modelling files themselves. The relevant files to generate these input files are available upon request. Please contact Dennis Fudge at dennis.fudge@gov.sk.ca or at 306-519-7105."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4992d610-ac23-21ca-6aa3-8c19af3a169e"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4992d610-ac23-21ca-6aa3-8c19af3a169e\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "AERMOD Input File Download by Location",
+  "gbl_mdModified_dt": "2025-02-05T19:05:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "aa7b60bb-9585-5f45-9794-984c36dff34f",
+  "locn_geometry": "ENVELOPE(-109.5428, -100.6336, 59.6273, 49.1861)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Railway network on the territory of the city.\n\n**Collection context**\n Historical data from the Government of Quebec.\nAdditional data by photointerpretation.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_VFR` (`integer`): Identifier\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c8a84ebc-98b9-4f6d-b7e0-db0a9608502b"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c8a84ebc-98b9-4f6d-b7e0-db0a9608502b\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Railways - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T19:09:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e27a076f-ab35-5668-86fd-693862547f58",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

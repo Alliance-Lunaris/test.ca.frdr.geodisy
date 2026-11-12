@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Parc",
+    "Parks"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Installations Composantes - Point"
+  ],
+  "dct_creator_sm": [
+    "National Geomatics Coordination Office | Bureau national de coordination géomatique."
+  ],
+  "dct_description_sm": [
+    "This point-layer shows the locations of components that make up facilities (Facilities are stored in another layer).  Examples of facility components are barbeques, picnic tables, benches, or kiosks.  See the Comp domain for a complete list.  NOTE:  Although some of the items in the domain appear to be activities, they are actually physical entities that appear within a facility.  A facility component point would be stored in this layer to show a more precise location of the kayak rental place of business.\n\nData is not necessarily complete - updates will occur weekly.",
+    "Cette couche (points) indique l'emplacement des éléments qui composent les installations.  (Les installations sont mémorisées dans une autre couche).  Des exemples de composantes dl'installations sont des barbecues, des tables de pique-nique, bancs, kiosques qui louent des canots et kayaks.\nVoir le domaine Comp pour une liste complète.\nNOTE: Bien que certains des articles dans le domaine semblent être des activités, ils sont en fait des entités physiques qui apparaissent dans une installation. Par exemple, une installation qui est décrite dans la couche de polygones Facilities_Installations peut louer des kayaks. Un point de composante de l'installation serait stocké dans cette couche pour montrer une localisation plus précise de l'endroit de location de kayak de l'entreprise.\n\nLes données ne sont pas nécessairement complètes - les mises à jour se produiront chaque semaine."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/78af8288-d785-49e6-8773-e21a707d14ca"
+  ],
+  "dct_issued_s": "2017-11-03",
+  "dct_publisher_sm": [
+    "Parks Canada | Parcs Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/78af8288-d785-49e6-8773-e21a707d14ca\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Facilities Components - Point",
+  "gbl_mdModified_dt": "2026-07-17T20:30:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6666797e-93f6-5f2a-9aa6-d91275b0eb17",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

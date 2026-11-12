@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.061333, -124.868785, 60.0, 51.950106)",
+  "dcat_keyword_sm": [
+    "Aerial Overview Survey",
+    "Remote Sensing",
+    "Vegetation Indices",
+    "Bark Beetles",
+    "Random Forest Model",
+    "Landsat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "MITAL, NATHAN (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Forest disturbances such as bark beetles are tracked in British Columbia, Canada, through Aerial Overview Surveys (AOS), allowing for forest and environmental management plans to account for them within the province. However, there are significant areas of forestland that do not have AOS regularly, which includes a large area in the northwest corner of the province, leaving a gap in the knowledge of previous occurrences of bark beetles. This study aimed to address this knowledge gap by isolating the spectral signature of bark beetles and using it to model historic bark beetle disturbances in this region. The process began by extracting the spectral signature of bark beetles through the use of vegetation indices derived from 2024 Landsat imagery and AOS datasets from forests near this area. Through this process, a random forest classifier was modeled, with the various indices assessed for their usefulness. Ultimately, a model was created with a 76% accuracy over the testing data, proving the extraction of the spectral signature of bark beetles. However, when the model was transferred to the study site, results were deemed unrealistic, with around 31% of forestland being flagged as having bark beetle disturbances for 2024. As such, the model was deemed to be not able to be transferred between locales, preventing processing of previous years. While large-scale temporal analysis was not practical, these results do tell us that past disturbances are likely able to be modeled through this spectral-signature isolation method using site-specific data, leaving a clear path for future research."
+  ],
+  "dct_identifier_sm": [
+    "1124817_73894_115983",
+    "https://doi.org/10.5683/SP3/XSYLMU"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XSYLMU\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Modeling Bark Beetle Disturbances in Northwest British Columbia Through Remote Sensing",
+  "gbl_mdModified_dt": "2026-04-28T16:37:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2703dfd5-bc6b-5009-a4dd-58981504663d",
+  "locn_geometry": "ENVELOPE(-139.061333, -124.868785, 60.0, 51.950106)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

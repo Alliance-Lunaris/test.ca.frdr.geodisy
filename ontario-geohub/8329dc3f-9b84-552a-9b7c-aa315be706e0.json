@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-91.949244021602, -76.21682214660618, 50.91221467413599, 44.475542020305674)",
+  "dcat_keyword_sm": [
+    "Orthophotography",
+    "FRI",
+    "Open Data",
+    "Ministry of Natural Resources",
+    "MNR",
+    "Forest Resource Inventory",
+    "Aerial Photography",
+    "Infrared"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "<p>Forest Resources Inventory (FRI) supports forest management decisions. The Forest Resources Inventory Unit aims to make digital orthophotography available. This collection was acquired as part of the Term 2 (\"T2\") inventory development process, supporting improved inventory production in certain forests. The ministry captures this data for planning and operational support in natural resource management, base feature update and forest inventory production.</p>\n<ul>\n    <li>Time of Capture: 2018 to 2027 between June 1st to Sept 15th)</li>\n    <li>Coverage: As shown on maps</li>\n    <li>Canopy Coverage: Leaf-On</li>\n    <li>Data will be added as it is flown</li>\n</ul>\n<p>The data was collected in 4-band images. By default, the data will display in False Colour Infrared (Bands 1,2,3), which will appear Pink for vegetated areas. This approach helps us understand the species composition of the forest. You may change the representation to Natural Colour (Bands 2,3,4), where vegetation appears Green.</p>\n<p>This orthophotography product has been contrast-enhanced to improve general viewability. It is intended as a product for viewing, not spectral analysis.</p>\n<strong>Additional Resources<br /></strong>\n<strong>Data Access</strong>\n<ul>\n    <li><a href='https://ws.geoservices.lrc.gov.on.ca/arcgis5/rest/services/AerialImagery/FRI_Imagery_T2/ImageServer' rel='nofollow ugc'>Web Raster Service</a></li>\n    <li><a href='https://download.fri.mnrf.gov.on.ca/api/api/Download/t2_optical/T2Optical_index.gdb.zip' rel='nofollow ugc'>File Geodatabase</a></li>\n    <li><a href='https://download.fri.mnrf.gov.on.ca/api/api/Download/t2_optical/T2Optical_index.gpkg' rel='nofollow ugc'>GeoPackage</a></li>\n</ul>\n<p><strong>Status</strong><br />On going: data is being continually updated</p>\n<p><strong>Maintenance and Update Frequency</strong><br />As needed: data is updated as deemed necessary</p>\n<p><strong>Contact</strong> <br />Forest Resources Inventory Unit, <a href='mailto:FRI@ontario.ca' rel='nofollow ugc'>FRI@ontario.ca</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "8519d62d9f9d4baca261ccb86f086db7",
+    "https://www.arcgis.com/home/item.html?id=8519d62d9f9d4baca261ccb86f086db7"
+  ],
+  "dct_issued_s": "2024-12-05",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/maps/lio::forest-resources-inventory-term-2-t2-orthophotography\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Ontario"
+  ],
+  "dct_title_s": "Forest Resources Inventory Term 2 (T2) Orthophotography",
+  "gbl_mdModified_dt": "2025-03-12T17:34:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8329dc3f-9b84-552a-9b7c-aa315be706e0",
+  "locn_geometry": "ENVELOPE(-91.949244021602, -76.21682214660618, 50.91221467413599, 44.475542020305674)",
+  "schema_provider_s": "Ontario GeoHub"
+}

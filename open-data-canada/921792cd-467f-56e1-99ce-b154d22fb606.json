@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.35, -55.4183, 52.245, 45.5317)",
+  "dcat_keyword_sm": [
+    "Marine biology",
+    "Oceans",
+    "Sentinel fisheries",
+    "Aquatic ecosystems",
+    "Poisson",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Fisheries management",
+    "Biologie marine",
+    "Gestion des pêches",
+    "Fish",
+    "Océan",
+    "Pêches sentinelles",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Programme des pêches sentinelles avec engin mobile - nord du golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Section Gestion de données - Direction des avis, information et soutien scientifiques."
+  ],
+  "dct_description_sm": [
+    "In place since fall 1994, the sentinel fisheries program is the result of a collaboration between Fisheries and Oceans Canada (DFO) and Quebec and Newfoundland commercial fishermen's associations. Under this program, contracts are awarded by tender to fishermen’s associations to conduct fishing activities in accordance with scientific protocols developed by DFO. The primary objective of this survey is to collect data used to calculate abundance indices for various fish stocks, including cod, Greenland halibut, Atlantic halibut and rockfish.\n\nDescription of mobile survey\n\nThe mobile gear sentinel fisheries program began in 1999. It takes place in the northern Gulf of St. Lawrence and is conducted in the sub-division 3Pn and the divisions 4R, 4S and the northern part of the division 4T of the Northwest Atlantic Fisheries Organization (NAFO). This program follows a stratified random survey design based on depth strata, NAFO divisions and bottom substrate type. A standard tow is 30 minutes long and conducted at a speed of 2.5 knots. The fishing gear consists of a 300 Star Balloon trawl mounted on a Rock Hopper footgear. The trawl has a mesh size of 145 mm, with a 40 mm liner in the codend. Unless sea conditions compromise fishing safety, a retaining cable must be used to standardize the horizontal opening of nets between vessels and the various depths fished. Data are collected by observers at sea or by technicians.\n\nThe data contained in this program are divided into 4 different projects.\n\n-The summer series, carried out during the month of July (1999 -ongoing)\n\n-The fall series, which covers the period from 1999 to 2002\n\n-The winter series, to study the mixing between the different stocks, which covers the period of 2002-2006\n\n-The CRP (Cod reproductive potential) series, which targets the reproductive potential of cod and typically takes place during the month of May (2002-ongoing)\n\nData\n\nFor each fishing tow, the total catch is sorted and weighed for each species. The number of individuals caught for each unmeasured fish species is noted. Biological data such as length, weight (sampled, per individual, gonad, liver and stomach), age, sex and maturity can then be collected from a subsample of multiple species such as Atlantic halibut, Greenland halibut, lumpfish and Atlantic cod, according to various protocols.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for fish taxa, a “Carbio” file containing biological and morphometric measurements per individual, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level, use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\n\nThe data collected as part of this program is available below. It is important to note, however, that 1) only traits deemed successful have been retained; 2) historical data may contain inaccuracies; 3) the most recent survey is not available for validation purposes. For more information please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).",
+    "En place depuis l’automne 1994, le programme des pêches sentinelles résulte d'une collaboration entre Pêches et Océans Canada (MPO) et des associations de pêcheurs commerciaux du Québec et de Terre-Neuve. Dans le cadre de ce programme, des contrats sont octroyés par appel d’offres à des associations de pêcheurs afin de réaliser des activités de pêche selon les protocoles scientifiques élaborés par le MPO. L’objectif principal de ce relevé est de récolter des données qui serviront à calculer des indices d’abondance pour différents stocks de poissons, dont la morue franche, le flétan du Groenland, le flétan atlantique et les sébastes.\n\nDescription du relevé mobile\n\nLe programme des pêches sentinelle avec engin mobiles a débuté en 1999. Les activités de pêches sont réalisées dans la sous-division 3Pn et les divisions 4R, 4S et 4T (portion nord) de l’Organisation des Pêches de l’Atlantique Nord-Ouest (OPANO). Ces relevés suivent un plan d’échantillonnage aléatoire stratifié en fonction de la profondeur, des divisions OPANO ainsi que du type de substrat au fond. Un trait standard est d’une durée de 30 minutes et réalisé à une vitesse de 2,5 nœuds. L'engin de pêche employé est un chalut de type Star Balloon 300 muni d’un faux-bourrelet de type Rock Hopper. Ce type de chalut possède un maillage de 145 mm et une doublure, au niveau du cul, de 40 mm. Sauf si les conditions en mer compromettent la sécurité lors de l’activité de pêche, un câble de rétention doit être utilisé afin d’uniformiser l’ouverture horizontale du chalut entre les navires et les différentes profondeurs pêchées. Les données sont récoltées par les observateurs en mer ou par des techniciens.\n\nLes données contenues dans ce programme sont divisé en 4 différents projets.\n\n-La série estivale, effectué pendant le mois de juillet (1999 – en cours)\n\n-La série automnale, qui couvre la période de 1999 à 2002\n\n-La série hivernale, pour étudier le mélange entre les différents stocks et qui couvre la période de 2002 à 2006\n\n-La série CRP (Cod reproductive potential), qui vise le potentiel reproducteur de la morue et se déroule généralement au mois de mai (2002- en cours)\n\nDonnées\n\nÀ chacun des traits, la capture totale est triée et pesée par espèce. Le nombre d’individus capturés pour chacune des espèces de poisson non mesurées est noté. Des données biologiques telles que la longueur, le poids (total, des gonades, du foie et de l'estomac), l’âge, le sexe et la maturité peuvent ensuite être récoltées sur un sous-échantillon de plusieurs espèces, dont le flétan atlantique, le flétan du Groenland, les sébastes et la morue franche en fonction de divers protocoles.\n\nLes données biologiques sont divisées en 4 fichiers : Un fichier «Stations» contenant les informations des traits, un fichier « Captures » contenant les prises par trait pour les taxons de poisson, un fichier « Carbio » contenant les caractéristiques biologiques et morphométriques par individus, et un fichier « Freql » pour les fréquences de longueur des poissons. Les colonnes source_info, no_releve, nbpc et no_station sont communs aux quatre jeux de données et permet de les relier. Afin de relier plus précisément les fichiers « Captures » et « Carbio » au niveau de l'individus (pour les poissons et certains types d'invertébrés), utilisez les colonnes source_info, no_releve, nbpc, no_station, nom_scientifique, ainsi que categorie.\n\n\nLes données récoltées dans le cadre de ce programme sont disponibles ci-dessous. Il est cependant important de noter que 1) seuls les traits jugés réussis ont été conservés; 2) les données historiques pourraient contenir des données inexactes; 3) le relevé le plus récent n’est pas disponible pour des fins de validation. Veuillez contacter l'équipe de la gestion de données pour de plus amples informations (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/929fe07f-ab8e-4b3c-8ee3-1aa7a9ea0b1a"
+  ],
+  "dct_issued_s": "2019-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/929fe07f-ab8e-4b3c-8ee3-1aa7a9ea0b1a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Mobile gear sentinel fisheries program - northern Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-10T19:00:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "921792cd-467f-56e1-99ce-b154d22fb606",
+  "locn_geometry": "ENVELOPE(-67.35, -55.4183, 52.245, 45.5317)",
+  "schema_provider_s": "Open Data Canada"
+}

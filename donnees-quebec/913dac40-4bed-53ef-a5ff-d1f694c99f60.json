@@ -1,0 +1,35 @@
+{
+  "dcat_keyword_sm": [
+    "Crue printanière",
+    "Crue"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère de la Sécurité intérieure."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données a pour but de localiser les événements liés aux inondations du printemps 2026 consignés par la Direction générale adjointe des opérations du ministère de la Sécurité publique. Toutes les données sont consultables sur une carte interactive et disponibles sous forme de services web WMS et WFS.\r\n\r\nPour suivre en direct l'état des cours d'eau, veuillez vous référer à l'application Vigilance - Surveillance de la crue des eaux\r\n\r\n# Liste des données disponibles :\r\n* Polygones d'étendue d'eau libre par date et Zone inondée 2026 (polygones fusionnés) : limites d’étendue des eaux libres dérivées d'images satellitaires radar, données opérationnelles, non validées.\r\n\r\n* Localisation des événements d’inondation depuis le 10 avril 2026 : points localisant approximativement les événements liés aux inondations consignés par la Direction des opérations du ministère de la Sécurité publique à partir du 10 avril 2026 (dérivé du jeu de données Événements de sécurité civile).\r\n\r\n* Municipalités et agglomérations touchées par des événements de sécurité civile relatifs aux inondations depuis le 10 avril 2026 : représentation cartographique des municipalités touchées (ou en surveillance) par des événements d'inondation depuis le 10 avril 2026.\r\n\r\n* Images satellitaires Sentinel-2 ou Landsat 8 : images satellitaires couvrant des secteurs inondés et présentée sous forme d’un composé coloré utilisant les longueurs d’ondes de l’infrarouge, du rouge. et du bleu (l'eau apparait de turquoise à noire)\r\n\r\nNote:\r\nLes acquisitions satellites de la mission de la Constellation RADARSAT (MCR) sont planifiées en collaboration avec le Centre des opérations du gouvernement du Canada, l'Agence spatiale canadienne  et Ressources naturelles Canada. Les images obtenues sont traitées par les services géomatiques d’urgence de Ressources naturelles Canada dans les meilleurs délais puis les polygones d'étendue d'eau libre sont diffusés en données ouvertes sur Données Canada et sur Données Québec. D’autres acquisitions optiques ou radars peuvent avoir été obtenues par le ministère de la Sécurité publique (MSP) de fournisseurs privés. Les acquisitions Sentinel-1 et Sentinel-2 diffusées en données ouvertes par l’agence spatiale européenne (ASE) ont été traitées par la firme Arctus."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/1f96d039-4d37-437d-bcc6-a6633c0b8fc2"
+  ],
+  "dct_issued_s": "2026-04-21",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/1f96d039-4d37-437d-bcc6-a6633c0b8fc2\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_title_s": "Cartographie des inondations du printemps 2026",
+  "gbl_mdModified_dt": "2026-09-24T20:20:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "913dac40-4bed-53ef-a5ff-d1f694c99f60",
+  "schema_provider_s": "Données Québec"
+}

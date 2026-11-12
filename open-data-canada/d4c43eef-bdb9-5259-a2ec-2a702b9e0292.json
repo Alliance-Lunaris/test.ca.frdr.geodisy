@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Polygones d'unités d'évaluation de la matrice graphique.\n\n**Contexte de collecte**\n Processus de mise à jour en collaboration avec le service d'évaluation.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID` (`integer`) : Identifiant\n* `ADM01A` (`varchar`) : Code de municipalité\n* `SI0318A` (`smalldatetime`) : Date d'inscription\n* `SI0317C` (`varchar`) : Immatriculation\n* `SI0528C` (`varchar`) : Unité de voisinage\n* `DATE_CREATION` (`smalldatetime`) : Créé le\n* `DATE_MODIFICATION` (`smalldatetime`) : Modifié le\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `X_FIC_JOINT` (`varchar`) : Fichier joint\n* `ID_OLD` (`varchar`) : Acien identifiant\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog).",
+    "Polygons of evaluation units of the graphic matrix.\n\n**Collection context**\n Update process in collaboration with the evaluation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID` (`integer`): Identifier\n* `ADM01A` (`varchar`): Municipality code\n* `SI0318A` (`smalldatetime`): Registration date\n* `SI0317C` (`varchar`): Registration\n* `SI0528C` (`varchar`): Neighborhood unit\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `X_FIC_JOINT` (`varchar`): Attached file\n* `ID_OLD` (`varchar`): Old id\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2642706c-14a6-4044-be21-e2a6d8d37691"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2642706c-14a6-4044-be21-e2a6d8d37691\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Unités d'évaluations de la matrice graphique - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T17:44:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d4c43eef-bdb9-5259-a2ec-2a702b9e0292",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

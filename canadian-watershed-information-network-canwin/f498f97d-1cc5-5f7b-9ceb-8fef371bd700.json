@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.0, -101.36, 60.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Ministry of Environment operates a network of continuous ambient air monitoring stations to measure the concentration of air pollutants across Saskatchewan. This is considered validated data that has undergone quality control and quality assurance. For best results download the entire dataset without filtering as a CSV. ‘Date and time’ as displayed is your local time. However, downloaded data is in UTC for ‘Date and time’. Any values of -9999, -999, or 9980 are invalid data.  \n  \n  Download zip file. The Ministry of Environment operates a network of continuous ambient air monitoring stations. These stations are part of the National Air Pollution Surveillance (NAPS) network. Continuous ambient air monitoring stations measure the concentration of air pollutants across Saskatchewan. The data is used to:  • track and report on progress for achieving air quality objectives • measure representative pollutant concentrations and determine long-term trends and • provide air quality information to the public Air pollutants typically come from various industrial activity and natural sources, such as mining, oil and gas, agriculture, forest fires, electrical generation, and the transportation sector. Disclaimer: Hourly data from the Saskatchewan Ministry of Environment monitoring stations is validated and updated every quarter. This is the most up-to-date and accurate information available. A final annual review occurs in spring where data are subject to change. For more information please visit the ministry's Air Quality Monitoring page or contact the Ministry of Environment Inquiry Centre: centre.inquiry@gov.sk.ca 1-800-567-4224"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/26d6d756-f648-da3b-f9df-68a49c264436"
+  ],
+  "dct_issued_s": "2024-09-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/26d6d756-f648-da3b-f9df-68a49c264436\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Historical Ambient Air Quality Validated - Prince Albert",
+  "gbl_mdModified_dt": "2024-12-06T14:24:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f498f97d-1cc5-5f7b-9ceb-8fef371bd700",
+  "locn_geometry": "ENVELOPE(-110.0, -101.36, 60.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

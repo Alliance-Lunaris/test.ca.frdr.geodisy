@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Hydrogeology",
+    "Hydrogéologie",
+    "Groundwater",
+    "Eau souterraine",
+    "Taux de recharge",
+    "Recharge Rate"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Taux de recharge de l'eau souterraine, Programme géoscientifique des eaux souterraines"
+  ],
+  "dct_creator_sm": [
+    "Francois Letourneau."
+  ],
+  "dct_description_sm": [
+    "In the hydrogeological unit, quantity of water that replenishes groundwater beneath the water table, expressed in mm/yr. Recharge is usually calculated using hydrology balance, integrating information from precipitation, hydrology data, drainage, soil properties, evapotranspiration, etc. The result is a raster dataset in which each cell has a given value for the recharge of the aquifer. It can be calculate using HELP software, developed by the US EPA. The methods used to create the dataset are described in the metadata associated with the dataset. The dataset represent a raster in which each cell has a mean value describing the global annual recharge of the hydrogeological unit.",
+    "Pour l'unité hydrogéologique, la quantité d'eau qui recharge l'eau souterraine sous la nappe phréatique, exprimée en mm/an. La recharge est généralement calculée à partir du bilan hydrologique, intégrant les précipitations, données hydrologiques, drainage, propriétés du sol, évapotranspiration et etc. Le résultat est un jeu de données raster dans lequel chaque cellule a une valeur de recharge. La recharge peut être calculée avec le logiciel HELP, développé par US EPA. Les méthodes employées pour créer le jeu de données sont décrites dans le fichier de métadonnées associé au jeu de données. Le jeu de données représente un raster dans lequel chaque cellule a une valeur annuelle moyenne de recharge. Le raster couvre l'unité hydrogéologique."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/06f84764-8134-7b5a-589c-d9703a2cb5e5"
+  ],
+  "dct_issued_s": "2014-07-25",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/06f84764-8134-7b5a-589c-d9703a2cb5e5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Groundwater Recharge Rate, Groundwater Geoscience Program",
+  "gbl_mdModified_dt": "2020-09-25T15:55:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "82f45223-8f7c-56c9-9287-25226a777f77",
+  "locn_geometry": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

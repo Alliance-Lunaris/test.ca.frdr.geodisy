@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.71359502, -123.11621343, 48.70307021, 48.37117607)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Temporal analysis of changes for Victoria, British Columbia, based on GeoAI features automatically extracted from satellite images acquired in the 2000s, 2010s and 2020s. Simple geospatial analysis intersecting Statistics Canada's Open Database of Buildings, version 3 (ODB v3) with GeoAI multidate building features enables the detection of buildings observed in the 2000s, 2010s and 2020s. The addition of new buildings is a good indicator of urban development and/or sprawl. Using the same approach, GeoAI multidate roads enable the detection of Statistics Canada's National Roads Network (NRN) segments present in the 2000s, 2010s and 2020s. The development of new roads is also indicator of urban development and/or sprawl. Complementarily, an analysis of changes in the forest coverage from the GeoAI datasets is done between the 2000s and the 2020s. This analysis reflects the gains and losses between both dates.\n\n‌\n\nGeoAI enables temporal coverage of various areas in Canada, thus providing a useful tool for change detection and trend analysis at high resolution. While the series is still fairly new, and such examples are limited for the time being, NRCan strives to gradually increase its GeoAI data offering for both spatial and temporal coverage.\n\nFor more information about the GeoAI - GeoBase Series, please visit the following link: https://open.canada.ca/data/en/dataset/74738ff5-5367-5958-9aee-98fffdcd1876"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f011c7b9-f79e-42f8-9481-9bf9788bb189"
+  ],
+  "dct_issued_s": "2026-06-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f011c7b9-f79e-42f8-9481-9bf9788bb189\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "GeoAI - Change detection use case - Victoria",
+  "gbl_mdModified_dt": "2026-06-29T18:30:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2ba7b9b4-a826-581c-aabd-c70060881836",
+  "locn_geometry": "ENVELOPE(-123.71359502, -123.11621343, 48.70307021, 48.37117607)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

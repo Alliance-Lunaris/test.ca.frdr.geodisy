@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.0280623740022, -79.01032745167637, 44.05852447933034, 43.69951455022406)",
+  "dcat_keyword_sm": [
+    "significant groundwater recharge areas",
+    "TRSPA",
+    "Source Water Protection",
+    "SGRA",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SWP Significant Groundwater Recharge Area</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SWP_SIGNIF_GW_RECHARGE_AREA_FT</span></span></p><p style='margin:0 0 4 0;'><span>An area can be considered a significant groundwater recharge area if (1) the area annually recharges water to the underlying aquifer at a rate that is greater than the rate of recharge across the whole of the related groundwater recharge area by a factor of 1.15 or more; or (2) the area annually recharges a volume of water to the underlying aquifer that is 55% or more of the volume determined by subtracting the annual evapotranspiration for the whole of the related groundwater recharge area from the annual precipitation for the whole of the related groundwater recharge area.</span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OGF ID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric provincial identifier assigned to each object.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr></tbody></table><p style='font-weight:bold;margin:0 0 11 0;'><span><span>Clipping SGRAs </span></span></p><p style='margin:0 0 11 0;'><span>The jurisdictional identification of SGRA was approved by the SPC. However, Technical Rule (45) requires that “an area shall NOT be delineated as a SGRA area unless the area has a hydrological connection to a surface water body or aquifer that is a source of drinking water for a drinking water system.” This includes private systems (O. Reg. 170/03). This Technical Rule introduces the idea of clipping out SGRAs that are of no significance from a drinking water point of view, since it would not make practical sense to protect them. These areas may be important in other contexts, but they are not considered significant under the CWA. In the </span><span>CTC Region</span><span>, the SGRA located within the municipal service boundary that are on the Lake Ontario shoreline and sourced from Lake Ontario have been clipped out if no drinking water systems (as defined in the Safe Drinking Water Act, 2002) depend on those SGRAs. </span></p></div></div></div></p></p></p></p></p></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "5a79c7ca7a6e490bb3def5b519203e83",
+    "https://www.arcgis.com/home/item.html?id=5a79c7ca7a6e490bb3def5b519203e83"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-significant-groundwater-recharge-areas\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Significant Groundwater Recharge Areas",
+  "gbl_mdModified_dt": "2024-01-23T03:05:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a93c7e4c-6c87-5012-b3d8-cb8ead21fb5d",
+  "locn_geometry": "ENVELOPE(-80.0280623740022, -79.01032745167637, 44.05852447933034, 43.69951455022406)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

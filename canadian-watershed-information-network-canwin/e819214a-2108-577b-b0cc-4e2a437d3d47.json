@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Grouping of footpaths and footpaths on the territory of the city.\n\n**Collection context**\n Technical drawing data integrated into GIS in relation to footpath or footpath rights-of-way.\n\n**Collection method**\n Technical drawing and manual integration based on construction plans or orthophotos.\n\n**Attributes**\n\n* `ID_SENTIER` (`integer`): Identifier\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e5216162-534c-4e04-b548-06d31ac79ea0"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e5216162-534c-4e04-b548-06d31ac79ea0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Trail rights-of-way and footpaths - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T19:11:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e819214a-2108-577b-b0cc-4e2a437d3d47",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

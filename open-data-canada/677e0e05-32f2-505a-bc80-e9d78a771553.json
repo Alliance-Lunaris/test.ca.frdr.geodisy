@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.000957, -54.917526, 48.011729, 39.673097)",
+  "dcat_keyword_sm": [
+    "Scotian Shelf",
+    "Oceans",
+    "plate-forme néo-écossaise",
+    "Paragorgia arborea",
+    "Nouvelle-Écosse",
+    "Benthic Ecology",
+    "Paragorgia arborea",
+    "Océan Atlantique Nord",
+    "North Atlantic Ocean",
+    "Photography",
+    "Océan",
+    "Nova Scotia",
+    "Marine Benthic Organisms",
+    "Organismes benthiques marins",
+    "Photographie",
+    "Écologie benthique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Refuges climatiques pour le corail arborescent (Paragorgia arborea) dans l’Atlantique Nord-Ouest"
+  ],
+  "dct_creator_sm": [
+    "OESD Data Request / DSEM Demande de donnés (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "The large, habitat-forming bubblegum coral, Paragorgia arborea, is a vulnerable marine ecosystem indicator with an antitropical distribution. Dense aggregations of the species have been protected from bottom-contact fishing in the Scotian Shelf bioregion off Nova Scotia, Canada in the northwest Atlantic Ocean. Recently, basin-scale habitat suitability ensemble modeling has projected an alarming loss of 99% of suitable habitat for this species across the North Atlantic by 2100. Here, a regional reassessment of the predicted distribution of this species in the bioregion, using both machine learning (random forest) and generalized additive model (GAM) frameworks, including projection to 2046−2065, was undertaken. Extrapolation diagnostics were applied to determine the degree to which the models projected into novel covariate space (i.e., extrapolation) in order to avoid erroneous inferences. The best predictors of the species’ distribution were a suite of temporally-invariant terrain variables that identified suitable habitat along the upper continental slope. Additional predictors, projected to vary with future ocean climatologies, identified areas of the upper slope in the eastern portion of the study area that will remain within suitable ranges for P. arborea at least through to the mid-century. Additionally, 3-D Lagrangian particle tracking simulations indicated potential for both connectivity among known occurrence sites and existing protected areas, and for colonization of unsurveyed areas predicted to have suitable habitat, from locations of known occurrence. These results showed that extirpation of this iconic species from the Scotian Shelf bioregion is unlikely over the next decades. Potential climate refugia were identified and results presented in the context of protected area network design properties of representativity, connectivity, adequacy, viability and resilience. \n\nHere we provide the interpolated environmental predictor variables used in present day and future species distribution models. Predicted surfaces from random forest (RF) and generalized additive models (GAM) are provided for present day and projected (RCP4.5 and RCP8.5 2045-2065) time frames. Outputs after applying extrapolation diagnostic tools (calculated using the R package dsmextra) are provided for each model. Climate change refugia for this species under the RCP4.5 2045-2065 projections showing analogue conditions are also provided. Explanations for the surfaces can be found in Wang, Murillo & Kenchington (2022) and in the associated supplementary files. \n\n\nReference:\nWang S, Murillo FJ and Kenchington E (2022) Climate-Change Refugia for the Bubblegum Coral Paragorgia Arborea in the Northwest Atlantic. Front. Mar. Sci. 9:863693. doi: 10.3389/fmars.2022.863693",
+    "Le corail arborescent (Paragorgia arborea), un corail de grande taille formant de l’habitat, est un indicateur d’écosystèmes marins vulnérables caractérisé par une répartition antitropicale. Les regroupements denses d’individus de l’espèce ont été protégés contre la pêche entrant en contact avec le fond dans la biorégion du plateau néo-écossais, située au large de la Nouvelle-Écosse, dans les eaux canadiennes de l’Atlantique Nord-Ouest. Récemment, la modélisation du caractère convenable de l’habitat à l’échelle du bassin a prédit une perte alarmante de 99 % de l’habitat convenable pour le corail arborescent dans tout l’Atlantique Nord d’ici 2100. Une réévaluation régionale de la répartition prédite de l’espèce dans la biorégion a été réalisée au moyen de l’apprentissage automatique (forêt aléatoire) et des cadres de modèles additifs généralisés (MAG), et comprend une projection jusqu’à la période de 2046 à 2065. Afin d’éviter les inférences erronées, des outils de diagnostic axés sur l’extrapolation ont été appliqués aux fins de détermination du degré de projection des modèles dans l’espace des nouvelles covariables (c.-à-d. l’extrapolation). Les meilleurs prédicteurs de la répartition de l’espèce étaient une série de variables de terrain invariables dans le temps qui ont détecté de l’habitat convenable le long de la partie supérieure du talus continental. D’autres prédicteurs, qui devraient varier en fonction de futures études de climatologie océanique, ont permis de déterminer que des zones de la partie supérieure du talus continental situées dans la partie est de la zone d’étude resteront dans les plages convenables pour P. arborea au moins jusqu’au milieu du siècle. De plus, des simulations tridimensionnelles de suivi de la particule Lagrangienne ont indiqué un potentiel pour la connectivité entre les sites d’occurrence connus et les aires protégées existantes, ainsi que pour la colonisation de zones non étudiées qui devraient comporter de l’habitat convenable, à partir de sites d’occurrence connue. Les résultats ont montré que la disparition de cette espèce emblématique de la biorégion du plateau néo-écossais est peu probable au cours des prochaines décennies. Des refuges climatiques possibles ont été déterminés et les résultats connexes ont été présentés dans le contexte des propriétés de conception du réseau d’aires protégées, soit la représentativité, la connectivité, le caractère adéquat, la viabilité et la résilience.\n\nDans le présent document, nous fournissons les variables prédictives environnementales interpolées qui ont été utilisées dans les modèles sur la répartition actuelle et future de l’espèce. Les surfaces prédites à partir des forêts aléatoires et des MAG sont fournies pour les périodes actuelles et projetées (RCP4.5 et RCP8.5, de 2045 à 2065). Les résultats après l’application des outils de diagnostic axés sur l’extrapolation (calculés à l’aide du progiciel dsmextra dans R) sont fournis pour chaque modèle. Les refuges climatiques pour l’espèce déterminés dans le cadre des projections RCP4.5 pour 2045 à 2065 montrant les conditions analogiques sont également fournis. Les explications relatives aux surfaces sont présentées dans Wang, Murillo and Kenchington (2022) et dans les fichiers complémentaires.\n\nRéférence :\nWang S, Murillo FJ and Kenchington E (2022) Climate-Change Refugia for the Bubblegum Coral Paragorgia Arborea in the Northwest Atlantic. Front. Mar. Sci. 9:863693. doi: 10.3389/fmars.2022.863693"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5df18d15-6aec-4def-bebc-0fd168250383"
+  ],
+  "dct_issued_s": "2022-09-12",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5df18d15-6aec-4def-bebc-0fd168250383\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Climate-Change Refugia for the Bubblegum Coral Paragorgia arborea in the Northwest Atlantic",
+  "gbl_mdModified_dt": "2026-07-30T12:30:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "677e0e05-32f2-505a-bc80-e9d78a771553",
+  "locn_geometry": "ENVELOPE(-68.000957, -54.917526, 48.011729, 39.673097)",
+  "schema_provider_s": "Open Data Canada"
+}

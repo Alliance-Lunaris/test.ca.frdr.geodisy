@@ -1,0 +1,42 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Reemeyer, Jessica E. (University of Regina). ORCID: https://orcid.org/0000-0002-0081-2573",
+    "Clark, Robert G. (Environment and Climate Change Canada).",
+    "Harris, Mercy E. (Environment and Climate Change Canada).",
+    "McKellar, Ann (Environment and Climate Change Canada).",
+    "McLandress, M. R. (California Waterfowl Association).",
+    "de Oliveira, Rodrigo M. (University of Regina).",
+    "Sadowski, Abigail (University of Regina).",
+    "Soares, Bruno (University of Regina). ORCID: https://orcid.org/0000-0001-5678-0403"
+  ],
+  "dct_description_sm": [
+    "This project contains data that was collected over a 19 year period by researchers at Envionment and Climate Change Canada (ECCC) within and around the St. Denis National Wildlife Area (NWA). Birds in this dataset were banded and often nasal tagged in the NWA from 1982 - 2000. These marked birds were then resighted various times until 2001. This dataset was digitzed and cleaned through the Living Data Project data rescue hackathon and data rescue internship with the help of graduate intern Rodrigo Martin de Oliveira and undergraduate assistant Abigail Sadowski, and under the supervision of Dr. Jessica Reemeyer and Dr. Bruno Soares (University of Regina) and Mercy Harris (ECCC). Questions about this dataset can be sent to Jessica (jessica.reemeyer[at]mail.mcgill.ca).\n\nThis project contains five spreadsheets in .csv format. The banding_info.csv file contains species and banding information for individual birds. The species_codes.csv file provides full scientific and common species names for the 4 digit-codes used in the banding_info spreadsheet. The resightings.csv file contains records of resightings for the birds listed in banding_info. The pond_coords.csv file provides latitude and longitude coordinates for some of the resighting records. Please consult the data_dictionary.csv file for a full description of all of the variables in each spreadsheet."
+  ],
+  "dct_identifier_sm": [
+    "1101641",
+    "https://doi.org/10.5683/SP3/KWVPMU"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KWVPMU\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Saskatchewan, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Bird Banding and Resighting Data from St. Denis National Wildlife Area, 1982–2001",
+  "gbl_mdModified_dt": "2026-08-06T19:44:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d971501b-490d-5efb-ba47-ce960435761b",
+  "schema_provider_s": "University of Regina Dataverse"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "genome scan",
+    "non-equilibrium",
+    "refugia"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lotterhos, Katie E. (Northeastern University, University of British Columbia).",
+    "Whitlock, Michael C. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/waqvqOf5iODlYtu5Djwzy2tmBmKZoapFH9cnbSzKznk</p>\n<p><b>Storage size:</b> 179041756</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>FST outlier tests are a potentially powerful way to detect genetic loci under spatially divergent selection. Unfortunately, the extent to which these tests are robust to non-equilibrium demographic histories has been under-studied. We developed a landscape-genetics simulator to test the effects of isolation by distance (IBD) and range expansion on FST outlier methods. We evaluated the two most commonly used methods for the identification of FST outliers (FDIST2 and BayeScan, which assume samples are evolutionarily independent) and two recent methods (FLK and Bayenv2, which estimate and account for evolutionary non-independence). Parameterization with a set of neutral loci (“neutral parameterization”) always improved the performance of FLK and Bayenv2, while neutral parameterization caused FDIST2 to actually perform worse in the cases of IBD or range expansion. BayeScan was improved when the prior odds on neutrality was increased, regardless of the true odds in the data. On their best performance, however, the widely-used methods had high false-positive rates for IBD and range expansion and were outperformed by methods that accounted for evolutionary non-independence. In addition, default settings in FDIST2 and BayeScan resulted in many false positives under balancing selection. However, all methods did very well if a large set of neutral loci is available to create empirical p-values. We conclude that in species that exhibit IBD or have undergone range expansion, many of the published FST outliers based on FDIST2 and BayeScan are probably false positives, but FLK and Bayenv2 show great promise for accurately identifying loci under spatially-divergent selection.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">R code for simulations</h4><div class=\"o-metadata__file-description\">This .zip file contains R code and functions used for the landscape simulator in R and the source code for the implementation of FDIST2 in R.</div><div class=\"o-metadata__file-name\">Dryad.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151925_150149",
+    "https://doi.org/10.5683/SP2/QYBJKY"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/QYBJKY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Evaluation of demographic history and neutral parameterization on the performance of Fst outlier tests",
+  "gbl_mdModified_dt": "2021-05-20T02:15:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eba177f8-a0f8-590b-88e0-eed502783334",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

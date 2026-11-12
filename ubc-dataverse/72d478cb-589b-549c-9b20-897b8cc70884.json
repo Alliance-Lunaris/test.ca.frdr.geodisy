@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.252, -123.239, 49.2543, 49.2473)",
+  "dcat_keyword_sm": [
+    "above-ground carbon sequestration",
+    "urban forestry",
+    "botanical garden",
+    "individual tree segmentation",
+    "LiDAR",
+    "ecosystem services"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lau, Tsz Him (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Urban trees play an essential role in alleviating the local effects of global warming by sequestering atmospheric carbon dioxide, regulating temperature and reducing air pollution in urban areas. There have been studies estimating carbon sequestration of urban trees using Light Detection and Ranging (LiDAR). Yet, neither of the studies made comparison between species nor extended the discussion towards ecosystem services. Therefore, this study compared the attributes between native and cultivated trees in the Asian Garden of the University of British Columbia (UBC) Botanical Garden, estimated their level of above-ground carbon sequestration, and thus examined respective implications in terms of ecosystem services. A canopy height model was first generated from LiDAR point cloud data for individual tree segmentation based on Dalponte algorithm. There were 803 derived trees matched successfully with the field-measured trees in ArcGIS with an accuracy of 69.5%. The level of above-ground carbon sequestration of each tree was estimated from tree height and canopy area using a non-linear regression model. Results showed that the average carbon sequestration level of native trees was higher than cultivated trees by 1102 kg (p = 3.045 x 10-7), which facilitated more effective soil formation. The average canopy areas of both trees were approximately 63 m2 (p = 0.696), which gives rise to their similar contribution in temperature cooling and air purification. In general, the garden provides a high level of biodiversity and education value thanks to its high species diversity. Regarding future directions in garden management, the removal of native trees and the planting location of cultivated trees in the garden should be carefully evaluated since they have higher level of ecosystem services and higher crown area to height ratio respectively."
+  ],
+  "dct_identifier_sm": [
+    "324897_73894_115983",
+    "https://doi.org/10.5683/SP3/L1PQVR"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/L1PQVR\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Comparing the Level of Above-ground Carbon Sequestration and Respective Ecosystem Services between Native and Cultivated Trees in the University of British Columbia Botanical Garden",
+  "gbl_mdModified_dt": "2022-04-19T20:43:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "72d478cb-589b-549c-9b20-897b8cc70884",
+  "locn_geometry": "ENVELOPE(-123.252, -123.239, 49.2543, 49.2473)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,68 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.19418839, -65.19418839, 43.69840101, 43.69840101)",
+  "dcat_keyword_sm": [
+    "airpressure",
+    "batterytempc",
+    "temperature-de-lair",
+    "temperature",
+    "direction-de-la-boussole",
+    "seasurfacewindwavedirectionalspread",
+    "niveau-de-batterie---volts",
+    "etat-de-la-mer",
+    "seawatertemperature",
+    "oceans",
+    "seasurfacewavesignificantheight",
+    "windfromdirection",
+    "pressure",
+    "direction-du-vent",
+    "seasurfacewavemaximumheight",
+    "niveau-de-leau",
+    "pourcentage-dhumidite",
+    "temperature-sous-la-surface",
+    "seasurfaceheight",
+    "intensite-de-la-pluie",
+    "horodatage",
+    "pression",
+    "subsurfacetemperature",
+    "intensite-de-la-grele",
+    "timestamp",
+    "seastate",
+    "seasurfacewavefromdirection",
+    "airtemperature",
+    "relativehumidity",
+    "stratiformrainfallrate",
+    "vent-de-la-direction",
+    "seasurfacewavemaximumperiod",
+    "windspeed",
+    "vitesse-du-vent",
+    "pression-de-lair"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Marine Applied Research (CMAR)."
+  ],
+  "dct_description_sm": [
+    "This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Jordan Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia's coastal resources.",
+    "Cet ensemble de données est recueilli au moyen d'une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Jordan, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l'aide d'un capteur Brizo fabriqué par Xeos, température de la mer à l'aide d'un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l'air, humidité, température de l'air, Intensité de pluie et intensité de grêle) à l'aide de capteurs Vaisala. Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l'avancement des ressources côtières de la Nouvelle-Écosse."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/095ae7e9-4c2a-4078-84a3-65c577ccaa40"
+  ],
+  "dct_issued_s": "2020-11-09",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/095ae7e9-4c2a-4078-84a3-65c577ccaa40\"}",
+  "dct_rights_sm": [
+    "government-open-license-nova-scotia"
+  ],
+  "dct_title_s": "CMAR - Jordan Bay",
+  "gbl_mdModified_dt": "2026-09-04T17:27:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "99d2f0b0-f8e2-51f3-bc57-1b9bd8b15192",
+  "locn_geometry": "ENVELOPE(-65.19418839, -65.19418839, 43.69840101, 43.69840101)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

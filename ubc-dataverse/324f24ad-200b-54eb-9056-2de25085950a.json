@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.9304, -126.4281, 54.8212, 54.4993)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhang, Yuxin (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Frost, as a frequent meteorological event in Canada, can significantly impact the yield of farm crops and fruit trees, and also causes cracking of infrastructure and damage to roads and buried pipelines. Knowing the potential frost sites for the Deception Lake Study Area in northern BC is important for studying forest loss and developing reforestation plans. The Moderate Imaging Spectrometer (MODIS) night-time land surface temperature (LST) products (spatial resolution: 1 km by 1 km) from the spring (March - May) and autumn (September - November) months between 2019 and 2021 were used for extracting temperature-related frost-risk variables, including minimum temperature, mean temperature, probability of frost occurrence, frost duration and frost severity index. K-means clustering was applied to cluster each variable into high-risk areas and low-risk areas, and four clusters were issued making pixels with 4 as the highest frost-risk pixels and 1 as the lowest risk. To consider all predictive variables collectively, a raster calculator was conducted to produce a final frost-risk map. Results show that large-resolution satellite images do overpredict the frost-risk areas, and adding one constraint which is derived from a small-resolution source would increase the total accuracy by decreasing the commission error, e.g. with constraint, slope which is derived from 5 m by 5 m DEM data, the overall accuracy had been improved to 73%. The methodology developed in this study would contribute toward a spatial framework in support of reforestation and risk-management strategies."
+  ],
+  "dct_identifier_sm": [
+    "329768_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/NNZZKY"
+  ],
+  "dct_issued_s": "2022-04-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NNZZKY\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Smithers, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Developing a satellite-based frost risk model for the Northern British Columbia",
+  "gbl_mdModified_dt": "2022-04-27T15:55:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "324f24ad-200b-54eb-9056-2de25085950a",
+  "locn_geometry": "ENVELOPE(-126.9304, -126.4281, 54.8212, 54.4993)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

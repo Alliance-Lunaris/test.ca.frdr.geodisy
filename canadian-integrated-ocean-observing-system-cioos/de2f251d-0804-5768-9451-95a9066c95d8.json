@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "other",
+    "bathymetry",
+    "Salish Sea",
+    "depth",
+    "topography",
+    "Autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Grille modèle NEMO de la mer de Salish, géolocalisation et bathymétrie, v17-02"
+  ],
+  "dct_creator_sm": [
+    "Allen, Susan (UBC EOAS)."
+  ],
+  "dct_description_sm": [
+    "Salish Sea NEMO Model Grid, Geo-location and Bathymetry, v17-02\n\nLongitude, latitude, and bathymetry of the Salish Sea NEMO model grid. The bathymetry values are those calculated by NEMO from the input bathymetry file. NEMO modifies the input bathymetry to remove isolated holes, and too-small partial steps; See the ubcSSn2DMeshMaskV17-02 dataset for the complete details of the calculation grid. The model grid includes the Juan de Fuca Strait, the Strait of Georgia, Puget Sound, and Johnstone Strait on the coasts of Washington State and British Columbia. \n<br>\nv1: longitude, latitude and bathymetry variables\n\nv16-07: same variables, bathymetry uniformly deepened by 1 grid level, smoothed at Juan de Fuca & Johnstone Strait open boundaries, Fraser River lengthened, bathymetry deepened near mouth of Fraser River\n\nv17-02: same variables, Bathymetry composed from 3 datasets: USGS Digital elevation model (DEM) of Cascadia, latitude 39N-53N, longitude 116W-133W, Open-File Report 99-369, https://pubs.er.usgs.gov/publication/ofr99369; NOAA British Columbia, 3 arc-second MSL DEM, https://www.ngdc.noaa.gov/dem/squareCellGrid/download/4956;  CHS Multibeam data and all point cloud data for the Salish Sea. Smoothed at Juan de Fuca & Johnstone Strait open boundaries. Proxy channel for Fraser River upstream of confluence with the Pitt River. Adjustments by  Michael Dunphy to make increase resolution of Fraser River channels downstream of confluence with the Pitt River.",
+    "Grille modèle NEMO de la mer de Salish, géolocalisation et bathymétrie, v17-02\n\nLongitude, latitude et bathymétrie de la grille modèle NEMO de la mer des Salish. Les valeurs bathymétriques sont celles calculées par NEMO à partir du fichier bathymétrie en entrée. NEMO modifie la bathymétrie d'entrée pour supprimer les trous isolés et les étapes partielles trop petites. Voir l'ensemble de données UBCSSn2DMeshMaskv17-02 pour obtenir les détails complets de la grille de calcul. La grille du modèle comprend le détroit Juan de Fuca, le détroit de Georgia, le détroit de Puget et le détroit de Johnstone sur les côtes de l'État de Washington et de la Colombie-Britannique. \n\nv1 : variables de longitude, de latitude et de bathymétrie\n\nv16-07 : mêmes variables, bathymétrie uniformément approfondie par un niveau de grille, lissée aux limites ouvertes du détroit Juan de Fuca et Johnstone, fleuve Fraser allongé, bathymétrie approfondie près de l'embouchure du fleuve Fraser\n\nv17-02 : mêmes variables, bathymétrie composée de 3 ensembles de données : USGS Digital elevation model (MNT) de Cascadia, latitude 39N-53N, longitude 116W-133W, Open-File Report 99-369, https://pubs.er.usgs.gov/publication/ofr99369 ; NOAA Colombie-Britannique, 3 secondes MSL DEM, https://www.ngdc.noaa.gov/dem/squareCellGrid/download/4956 ; Données multifaisceaux du SHC et toutes les données de nuages de points pour la mer des Salish. Lissé à Juan de Fuca et au détroit de Johnstone ouvert les limites. Canal substitut pour le fleuve Fraser en amont de la confluence avec la rivière Pitt. Ajustements effectués par Michael Dunphy pour augmenter la résolution des chenaux du fleuve Fraser en aval de la confluence avec la rivière Pitt."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/e7a2ef44-f82c-4186-b576-69c840054f80"
+  ],
+  "dct_issued_s": "2017-09-30",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/e7a2ef44-f82c-4186-b576-69c840054f80\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Salish Sea NEMO Model Grid, Geo-location and Bathymetry, v17-02",
+  "gbl_mdModified_dt": "2026-09-16T20:40:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "de2f251d-0804-5768-9451-95a9066c95d8",
+  "locn_geometry": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

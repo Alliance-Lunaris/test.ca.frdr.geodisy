@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.21437149308622, -123.03265535272658, 49.2931692302227, 49.210604298859835)",
+  "dcat_keyword_sm": [
+    "traffic",
+    "parking",
+    "rate"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>This dataset contains information on the rates and time limits for parking meters in the City.  Information is shown at the block level rather than for the individual meter.</p></div> <h3>Data currency</h3><div><p>This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database.  The extract on this web site is updated weekly.  </p></div> <h3>Data accuracy</h3><div><p>Locations are shown for entire block faces however that does not mean that there are parking meters along the entire block face.</p></div> "
+  ],
+  "dct_identifier_sm": [
+    "parking-meters",
+    "https://opendata.vancouver.ca/explore/dataset/parking-meters"
+  ],
+  "dct_issued_s": "2026-09-21",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/parking-meters\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Streets and transportation"
+  ],
+  "dct_title_s": "Parking meters",
+  "gbl_mdModified_dt": "2026-09-21T13:31:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c396e903-8f07-590f-b4f5-cdeaa51568f2",
+  "locn_geometry": "ENVELOPE(-123.21437149308622, -123.03265535272658, 49.2931692302227, 49.210604298859835)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

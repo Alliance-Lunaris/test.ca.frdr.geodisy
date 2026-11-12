@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.4, -122.4, 48.25, 54.77)",
+  "dcat_keyword_sm": [
+    "zone-cotiere",
+    "physical-chemical",
+    "coastal-zone",
+    "temperature-de-surface",
+    "oceans",
+    "changement-climatique",
+    "water-temperature",
+    "seasurfacetemperature",
+    "temperature-de-leau",
+    "sea-surface-temperature",
+    "climate-change",
+    "physico-chimie",
+    "sentinels-of-change"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries chronologiques de températures de surface de la mer recueillies par Sentinels of Change le long de la côte de la Colombie-Britannique"
+  ],
+  "dct_creator_sm": [
+    "Earle, Heather (Hakai Institute).",
+    "Krzus, Lauren (Hakai Institute).",
+    "Whalen, Matthew (Virginia State University, Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This dataset is comprised of sea surface temperature data collected using HOBO TidbiT MX Temperature 400 data loggers (MX2203) deployed in various locations across the BC coast but particularly in the Canadian portion of the Salish Sea. Loggers are suspended at 0.5 metres depth from floating docks in proximity to light traps as part of the Sentinels of Change project which monitors larval Dungeness crab (Metacarcinus magister) using light traps. The loggers are programmed to record the water temperature at 10 minute intervals, starting at 12:00 on April 15th until 12:00 September 1st, each year, starting in 2022. Loggers are removed from the water after September 1st and replaced the following spring before April 15th. These data will be collected each year until 2030. \n\nThis data package includes: \n-Sea surface temperature data from April 15th to September 1st for 2022, 2023, and 2024 (the duration of the light trap collection season)\n-Site metadata, including temperature logger location",
+    "Cet ensemble de données comprend des données de température de surface de la mer recueillies à l'aide des enregistreurs de données HOBO TidBit MX Temperature 400 (MX2203) déployés à divers endroits sur la côte de la Colombie-Britannique, mais particulièrement dans la partie canadienne de la mer des Salish. Des bûcherons sont suspendus à 0,5 mètre de profondeur à des quais flottants à proximité de pièges lumineux dans le cadre du projet Sentinels of Change qui surveille les larves de crabe dormeur (Metacarcinus magister) à l'aide de pièges lumineux. Les enregistreurs sont programmés pour enregistrer la température de l'eau à intervalles de 10 minutes, à partir de 12 h le 15 avril jusqu'à 12 h le 1er septembre de chaque année, à compter de 2022. Les bûcherons sont retirés de l'eau après le 1er septembre et remplacés le printemps suivant avant le 15 avril. Ces données seront collectées chaque année jusqu'en 2030. \n\nCe package de données comprend : \n-Données sur la température de surface de la mer du 15 avril au 1er septembre pour 2022, 2023 et 2024 (durée de la saison de collecte des pièges lumineux)\n-Métadonnées du site, y compris l'emplacement de l'enregistreur de température"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/0049e274-f23e-448c-b307-14aa3b4e0b4a"
+  ],
+  "dct_issued_s": "2024-11-27",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/0049e274-f23e-448c-b307-14aa3b4e0b4a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Sentinels of Change Sea Surface Temperature Time Series Data Along the British Columbia Coast",
+  "gbl_mdModified_dt": "2026-09-16T20:16:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0c5943f7-710e-57fc-920b-c550a08f8093",
+  "locn_geometry": "ENVELOPE(-133.4, -122.4, 48.25, 54.77)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

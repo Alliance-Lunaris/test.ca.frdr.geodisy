@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.7170708, -49.8977556, 40.0116142, 54.7553201)",
+  "dcat_keyword_sm": [
+    "water level",
+    "pression atmosphérique",
+    "seaSurfaceHeight",
+    "atmospheric pressure",
+    "niveau eau",
+    "Niveau de l'eau",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Système intégré de niveau d’eau (SINE) - Grands Lacs, fleuve et golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "The Canadian Hydrographic Service (CHS) of Fisheries and Oceans Canada (DFO) operates, across the country, a integrated water level system (IWLS) tracking the fluctuation of Canadian waters level. SLGO disseminates the tide gauges data in real time continuously and also prediction and forecast data. For more information, please see the [data context](https://ogsl.ca/en/tide-gauges-dfo-chs/).\n\nAlso, using the water level forecast data, the dynamic vertical clearance, the vertical distance between an obstacle and the surface of the water, is calculated for some St. Lawrence obstacle such as the Québec Bridge. For more information, please see the [data contexte](https://ogsl.ca/en/dynamic-vertical-clearance-dfo-chs/).\n\n**Parameters:** water level, water temperature , salinity, air pressure, dynamic vertical clearance.\n\nView data in the [NAUTILO](https://nautilo.ca/map).",
+    "Le Service hydrographique du Canada (SHC) de Pêches et Océans Canada (MPO) exploite, à la grandeur du pays, un système intégré de niveau d’eau (SINE) effectuant le suivi de la fluctuation des niveaux d'eau du Canada. L'OGSL diffuse les données des marégraphes en direct de façon continue ainsi que les données de prévision et de prédiction. Pour plus d’information veuillez consulter le [contexte des données](https://ogsl.ca/fr/conditions-maritimes-maregraphes-mpo-shc-a-propos/).\n\nÉgalement, à l'aide des données de prévision et de prédiction du niveau d'eau, la hauteur libre dynamique, distance verticale entre un obstacle et la surface de l'eau, est calculée pour certain obstacle du Saint-Laurent tel le pont de Québec. Pour plus d’information veuillez consulter le [contexte des données](https://ogsl.ca/fr/conditions-maritime-hauteur-libre-dynamique-mpo-shc/).\n\n**Paramètres :** niveau d’eau, température de l’eau, salinité, pression de l’air, hauteur libre dynamique.\n\nConsultez les données dans l'application [NAUTILO](https://nautilo.ca/map)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/0020aa1f-b781-4164-a0d0-9e97650cf49c"
+  ],
+  "dct_issued_s": "2017-03-27",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/0020aa1f-b781-4164-a0d0-9e97650cf49c\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Integrated Water Level System (IWLS)- Great Lakes and St. Lawrence River and Gulf",
+  "gbl_mdModified_dt": "2026-07-31T16:33:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6482cd88-2958-5628-9e30-8ebc51d8b1c5",
+  "locn_geometry": "ENVELOPE(-95.7170708, -49.8977556, 40.0116142, 54.7553201)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

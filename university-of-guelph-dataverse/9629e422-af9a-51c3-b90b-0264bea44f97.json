@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(80.15, 80.15, 43.33, 43.33)",
+  "dcat_keyword_sm": [
+    "mean radiant temperature",
+    "biometeorology",
+    "MaRTy cart",
+    "thermal exposure",
+    "urban microclimate"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Krayenhoff, Eric Scott (School of Environmental Sciences. Ontario Agriculture College. University of Guelph, School of Environmental Sciences. Ontario Agricultural College. University of Guelph., University of Guelph). ORCID: https://orcid.org/0000-0002-4776-4353",
+    "Aiello, Timothy (School of Environmental Sciences. Ontario Agriculture College. University of Guelph). ORCID: https://orcid.org/0000-0003-2015-8369"
+  ],
+  "dct_description_sm": [
+    "Filenames: DD_MM_YYYY_MaRTy_Data (six files)\n\nShort description: Each file contains measured and calculated micrometeorological data linearly interpolated to the time in column A, for the date indicated by the filename, for 21-23 sites around the University of Guelph. See associated publications for explanation of variables in column headers and for additional detail related to instrumentation and measurement protocols. Longwave (LW) and shortwave (SW) radiation fluxes are unweighted, and lateral (Lat) fluxes are the sum of the four lateral radiometers. Wind speeds are provided at the actual measured times (uninterpolated).",
+    "This dataset contains MaRTy cart micrometeorological observations on the University of Guelph campus across six days in 2020 and 2021 for the purposes of quantification of outdoor thermal exposure. Details of the study that generated this data are found in Aiello (2022) and a forthcoming publication (Aiello et al., Submitted). Please see the 'Related Publication' field for the complete citations."
+  ],
+  "dct_identifier_sm": [
+    "751297_16_41153_41158",
+    "https://doi.org/10.5683/SP3/YY1GCU"
+  ],
+  "dct_issued_s": "2024-06-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YY1GCU\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Guelph, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "MaRTy 2020-2021 thermal exposure measurements at the University of Guelph",
+  "gbl_mdModified_dt": "2024-12-09T14:43:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9629e422-af9a-51c3-b90b-0264bea44f97",
+  "locn_geometry": "ENVELOPE(80.15, 80.15, 43.33, 43.33)",
+  "pcdm_memberOf_sm": [
+    "Agri-environmental Research Data // Ontario Agricultural College // School of Environmental Sciences"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

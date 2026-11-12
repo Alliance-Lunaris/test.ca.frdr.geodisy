@@ -1,0 +1,59 @@
+{
+  "dcat_keyword_sm": [
+    "Urban core",
+    "Geography",
+    "Geocoding",
+    "Economic region",
+    "Designated place",
+    "Census division",
+    "Census subdivision",
+    "Census consolidated subdivision (CCS)",
+    "Census tract",
+    "Census geography",
+    "Postal codes",
+    "Dissemination block",
+    "Census agglomeration",
+    "Dissemination area",
+    "Rural area",
+    "Census metropolitan area",
+    "Urban fringe",
+    "Rural fringe",
+    "Urban area"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Statistics Canada. Geography Division."
+  ],
+  "dct_description_sm": [
+    "<p>The PCCF+ is a SAS© control program and set of associated datasets derived from the PCCF, a 2021 postal code<sup>OM</sup> population weight file, the Geographic Attribute File, Health Region boundary files, and other supplementary data. PCCF+ automatically assigns a range of Statistics Canada standard geographic areas and other geographic identifiers based on postal codes<sup>OM</sup>.</p>\n<p>PCCF+ differs from the PCCF in that it:</p>\n<ul>\n <li>Uses population-weighted random allocation for many postal codes<sup>OM</sup> that link to more than one geographic area.</li>\n <li>Options are available for institutional postal codes<sup>OM</sup>.</li>\n <li>Procedures are included to link partial postal codes<sup>OM</sup> to geographic identifiers where possible.</li>\n <li>Problem records and diagnostics are provided in the program output, along with reference information for possible solutions.</li>\n</ul>\n<p>The geographic coordinates, which represent the standard geostatistical areas linked to each postal codes<sup>OM</sup> on the PCCF, are commonly used to map the distribution of data for spatial analysis (e.g., clients, activities). In April 1983, the Geography Division released the first version of the PCCF, which linked postal codes to 1981 census geographic areas and included geographic coordinates. PCCF+ was first created using the 1986 census and has been updated regularly with population weight files calculated for each census from 1991 through 2021.</p>\n<p>The purpose of the PCCF+ is to provide a link between six-character postal codes<sup>OM</sup> produced by the Canada Post Corporation (CPC), standard 2021 Census geographic areas (such as dissemination areas, census subdivisions, and census tracts) produced by Statistics Canada, and supplementary administrative areas and neighbourhood income quintiles. Postal codes<sup>OM</sup> do not respect census geographic boundaries and so may be linked to more than one standard geographic area, or assigned to more than one set of coordinates. Therefore, one postal code<sup>OM</sup> may be represented by more than one record. The PCCF product, produced by Statistics Canada, provides links between postal codes and all recorded matches to census geography. PCCF+ uses the PCCF but provides additional functionality in that it uses a population-weighted matching process for some residential postal codes<sup>OM</sup> where more than one geographic code is possible. PCCF+ also provides routines for institutional postal codes<sup>OM</sup> and for historic postal codes<sup>OM</sup>. The purpose of this product is <i>not</i> to validate postal codes<sup>OM</sup> or the PCCF.</p>"
+  ],
+  "dct_identifier_sm": [
+    "890589_653960",
+    "https://doi.org/10.5683/SP3/J2L53Y"
+  ],
+  "dct_issued_s": "2025-03-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/J2L53Y\"}",
+  "dct_rights_sm": [
+    "PCCF License End-use Licence Agreement for Postal CodeOM Conversion File, Postal CodesOM by Federal Ridings File and Postal CodeOM Conversion File Plus (“data product”). The Government of Canada (Statistics Canada) is the owner or a licensee of all intellectual property rights in this data product. With your payment of the requisite fee, you (hereinafter referred to as ‘the Licensee’) are granted a non-exclusive, non-assignable and non-transferable licence to use this data product subject to the terms below. This licence is not a sale of any or all of the rights of the owner(s). The data product includes information taken with permission from © Canada Post Corporation. All rights reserved. Information taken with permission from Canada Post Corporation does not form part of the Government of Canada open data portal. Terms of use The Licensee shall not lend, rent, lease, sublicense, distribute, make public, transfer or sell any part of the data product nor any right granted under this agreement to any person outside the licensed organization or to any other organization. The Licensee shall not disassemble, decompile or in any way attempt to reverse engineer any part of the data product. The Licensee shall not use any part of the data product to develop or derive any other data product or data service for external distribution or commercial sale. The Licensee shall not use the data product other than for the purpose of matching postal codeOM data to geography in accordance with Appendix ‘A’. The Licensee shall not use the data product for the following mail preparation purposes: addressing mail; presorting addressed mail; preparing unaddressed mail by householder count for delivery The Licensee agrees not to merge or link the data product with any other databases in such a fashion that gives the appearance that the Licensee may have received, or had access to, information held by Statistics Canada about any identifiable individual, family, household, organization or business. The Licensee is granted rights of use of the content of this data product for the purpose expressly described in Appendix ‘A’, attached, and for no other purpose. In such cases, the source of the data must be acknowledged in all documents and communications by providing the following source citation at the bottom of each table and graph: Source: (or Adapted from) Statistics Canada (Select either Postal CodeOM Conversion File or Postal CodesOM by Federal Ridings File and Postal CodeOM Conversion File Plus (reference date) which is based on data licensed from Canada Post Corporation. The Licensee may publish an extract of up to 1% of the data product pursuant to Appendix ‘A’. This permission includes the use of the extracted data in support of analyses and in reporting of results and conclusions. The Licensee shall obtain approval from Statistics Canada before publishing extract of the data product in excess of 1%. The Licensee is authorized to provide the data product to contractors/consultants only for the purpose of ?providing data manipulation and consulting services exclusively to Licensee. Upon completion of work, the contractor/consultant must i) return all data products to Licensee, and ii) delete the data product from their systems and premises.? Contractors or consultants may not use the data product or derived products for their own purposes or to offer services to third parties. The Licensee must display the following disclaimer on each search access point if the data product is used in a search engine application pursuant to Appendix ‘A’: “this tool does not validate Postal codesOM”. The Licensee agrees to permit Statistics Canada to provide to Canada Post upon request, a copy of this signed agreement for audit purposes only. Term This licence is effective as of the date of signature and shall automatically terminate if any of the terms and conditions are violated. Termination Any violation of this licence renders it void and of no effect. This agreement will terminate automatically without notice if the Licensee fails to comply with any of the terms of this agreement. Statistics Canada or the Licensee may terminate this agreement without cause upon thirty (30) day written notice or at a time otherwise agreed upon by both parties. In the event of termination, the Licensee must immediately return the data product to Statistics Canada or destroy it and certify this destruction in writing to Statistics Canada. Warranties and disclaimers This data product is provided ‘as-is,’ and Statistics Canada and its licensors make no warranty, either express or implied, including but not limited to, warranties of merchantability and fitness for a particular purpose. In no event will Statistics Canada or its licensors be liable for any direct, special, indirect, consequential or other damages, however caused. Indemnification The Licensee shall at all times indemnify and save harmless Statistics Canada its officers, servants and agents from and against all claims, demands, losses, damages, costs, actions, or other proceedings made, sustained, brought or prosecuted by any person, in any manner, based upon, occasioned by or attributed to any injury, infringement, or damage arising out of the use of the data product, or arising out of a breach, by the Licensee, of any of its obligations under this agreement. Acceptance of terms It is your responsibility to ensure that your use of this data product complies with these terms. Any infringement of Statistics Canada’s rights may result in legal action. Any use whatsoever of this data product shall constitute your acceptance of the terms of this agreement. Appendix A Approved Postal Code Data Matching Uses for DLI Accredited Canadian Post Secondary Institution Matching Postal CodeOM data to geography for: Teaching and learning purposes. E.g.: Students can download PCCF on their laptop to do their assignments. This includes projects, maps, analytical papers, etc. Faculty can download and use the PCCF in teaching exercises. Research purposes E.g.: Can be used in analysis to write articles that are published in journals. The data is not shared but the results are published. This also includes thesis for Masters or Doctorate where results are required to be public. Planning purposes - where the institution can use the information in planning student recruitment activities or find out where these students are coming from."
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "Postal Code Conversion File Plus [Canada], Version 8A, December 2022, Census of Canada 2021",
+  "gbl_mdModified_dt": "2025-04-04T17:55:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7da3785f-86de-590d-a60e-4f38139b61d7",
+  "pcdm_memberOf_sm": [
+    "Statistics Canada Data Liberation Initiative (DLI) Licensed Data"
+  ],
+  "schema_provider_s": "ODESI Dataverse"
+}

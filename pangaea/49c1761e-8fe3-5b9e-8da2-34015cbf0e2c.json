@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-43.90001, -43.9, 71.4, 71.39999)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sigl, Michael (University of Bern). ORCID: https://orcid.org/0000-0002-9028-9703",
+    "McConnell, Joseph R (Desert Research Institute). ORCID: https://orcid.org/0000-0001-9051-5240",
+    "Toohey, Matthew (University of Saskatchewan, University of Bern). ORCID: https://orcid.org/0000-0002-7070-405X"
+  ],
+  "dct_description_sm": [
+    "Between 1733 and 1895, a total of 35 additional volcanic eruptions were detected in the new high-resolution measurements (D4i dataset: \"Greenland ice-core non-sea-salt sulfur concentrations and calculated volcanic sulfate deposition (1733-1900 CE)\" (PANGAEA, doi:10.1594/PANGAEA.960977) of the D4 ice core (McConnel et al., 2007). For the same time period only 25 volcanic eruptions had previously been detected using an ice-core array from Greenland (including NEEM-2011-S1 and NGRIP) and Antarctica, making up the eVolv2k database [Toohey and Sigl, 2017]. 21 volcanic events in D4i are found to match events in the eVolv2k database, 8 tropical events and 13 Northern Hemisphere extratropical (NHET) events. Based on linear fits of eVolv2k volcanic stratospheric sulfur injections (VSSI) to the cumulative D4i sulfate deposition rates, we derive scaling factors to convert D4i volcanic sulfate depositions to VSSI. Fits are of high quality with R2 values of 0.91 and 0.99 for tropical and extratropical events, respectively. Of the remaining events identified in D4i but not included in eVolv2k, we find 11 that are tentatively attributable to VEI=4 events listed in the Volcanoes of the World [Global Volcanism Program, 2013] (GVP) database (e.g, Soufriere St. Vincent, and Awu in 1812; Suwanosejima in 1813; Mayon 1814; Raung 1817; Colima 1818). Although attribution is not completely certain, for these events we assume the attribution is correct and use the historically dated eruption date and location from Volcanoes of the World (Global Volcanism Program, 2013). Eruptions found in D4i which do not have a corresponding event in the GVP database could result from a number of scenarios. To avoid a potential bias by attributing these signals to either tropical latitudes (0°) or to NHET latitudes (i.e. 45°N), we represent the forcing by these unidentified events as the probability-weighted superposition of tropical and extratropical eruptions based on the measured sulfate flux. For each event we calculate the VSSI associated with the sulfate deposition assuming on the one hand the event was tropical, and on the other hand assuming it was extratropical. These VSSI values are then multiplied by the probability that the event was either tropical or extratropical, based on the proportion of NHET and tropical events in the Greenland records used in eVolv2k. Each unidentified sulfate deposition is then represented in the VSSI file as two injections, with the same eruption time taken from the ice ice-core dating, and different VSSI amounts for default tropical and extratropical regions. The resulting list of \"additional\" eruptions not included in eVolv2k is merged with eVolv2k, and the resulting eruption list named eVolv2k plus D4i used as input to the EVA forcing generator [Toohey et al., 2016] to generate time series of stratospheric aerosol optical depth (SAOD).",
+    "This study complements the Dataset doi:10.1594/PANGAEA.960977, which describes in detail the ice-core data used to infer the VSSI in this dataset."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.960975",
+    "https://doi.org/10.1594/pangaea.960975"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.960975\"}",
+  "dct_spatial_sm": [
+    "Greenland"
+  ],
+  "dct_subject_sm": [
+    "Eruption",
+    "volcanism",
+    "AGE",
+    "Age",
+    "Year of eruption",
+    "Volcanic explosivity index",
+    "Day",
+    "Sulfur",
+    "Ice drill",
+    "Volcanic stratospheric sulfur injection, standard deviation",
+    "Volcanic stratospheric sulfur injection",
+    "Little Ice Age",
+    "radiative forcing",
+    "sulfate",
+    "Reference/source",
+    "Ice core",
+    "Greenland",
+    "LATITUDE",
+    "Month"
+  ],
+  "dct_title_s": "Volcanic stratospheric sulfur injection between 1733 and 1895 CE based on the eVolv2k-plus-D4i ice-core eruption catalogue",
+  "gbl_mdModified_dt": "2025-07-24T01:12:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "49c1761e-8fe3-5b9e-8da2-34015cbf0e2c",
+  "locn_geometry": "ENVELOPE(-43.90001, -43.9, 71.4, 71.39999)",
+  "schema_provider_s": "PANGAEA"
+}

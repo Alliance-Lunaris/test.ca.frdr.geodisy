@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "air conditioning energy use",
+    "UTCI",
+    "urban climate",
+    "heat adaptation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jiang, Timothy (School of Environmental Sciences. Ontario Agricultural College. University of Guelph and Pacific Northwest National Laboratory., School of Environmental Sciences. Ontario Agricultural College. University of Guelph., Guelph University).",
+    "Krayenhoff, Scott (School of Environmental Sciences. Ontario Agricultural College. University of Guelph.). ORCID: https://orcid.org/0000-0002-4776-4353",
+    "Martilli, Alberto (Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas). ORCID: https://orcid.org/0000-0002-7795-5871",
+    "Nazarian, Negin (School of Built Environment. Arts, Design and Architecture. University of New South Wales., UNSW Sydney). ORCID: https://orcid.org/0000-0001-9839-7234",
+    "Stone Jr., Brian (School of City and Regional Planning. College of Design. Georgia Institute of Technology.). ORCID: https://orcid.org/0000-0002-2418-0486",
+    "Voogt, James A. (Department of Geography and Environment. Western University.). ORCID: https://orcid.org/0000-0002-7975-0052"
+  ],
+  "dct_description_sm": [
+    "This dataset contains model outputs and the script required to produce figures in \"Prioritizing urban heat adaptation infrastructure based on multiple outcomes: comfort, health and energy\". This paper evaluates multiple heat adaptation infrastructures across three outcomes for extreme heat events in the present (1999-2018) and projected end of century (2081-2100) under two emissions scenarios: RCP 4.5 (moderate emissions) and RCP 8.5 (high emissions).\n\nFor the script to run, the data files should be unpacked and organized in folders as follows:\n<ul>\n<li>For files ending in .out (TUF-Pedestrian output), place them in subfolders where each period ( . ) indicates a level of nesting, and rename the file \"RadiationBalance_Pedestrian.out\". E.g. \"base.mia.4.1.2s.out\" should be placed and named as /base/mia/4/1/2s/RadiationBalance_Pedestrian.out\n\n<li>For files ending in .nc (WRF output), place them in subfolders where each period ( . ) indicates a level of nesting, and rename the file \"file.nc\". E.g. \"tree_irr.phx.44.1.nc\" should be placed and named as /tree_irr/phx/44/1/file.nc\n\n<li>Place the analysis script in /\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "857276_16_41153_41158",
+    "https://doi.org/10.5683/SP3/FCIVUR"
+  ],
+  "dct_issued_s": "2025-03-05",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FCIVUR\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Phoenix, Arizona, United States",
+    "Toronto, Ontario, Canada",
+    "Miami, Florida, United States"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Replication data for: Prioritizing urban heat adaptation infrastructure based on multiple outcomes: Comfort, health and energy",
+  "gbl_mdModified_dt": "2025-08-01T15:03:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "78cf0952-01a9-5a61-a4cf-00557dfb40ed",
+  "pcdm_memberOf_sm": [
+    "Agri-environmental Research Data // Ontario Agricultural College // School of Environmental Sciences"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

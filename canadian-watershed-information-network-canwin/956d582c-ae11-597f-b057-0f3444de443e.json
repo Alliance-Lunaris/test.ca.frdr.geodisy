@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Point layer of points of interest and place names.\nSchools, pools, municipal buildings, etc.\n\n**Collection context**\n Manual collection and additions/withdrawals according to procedures between departments.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_PDI` (`integer`): Identifier\n* `GROUPE_PDI` (`varchar`): Group\n* `NO_PDI` (`varchar`): Number\n* `PDI_NAME` (`varchar`): Name\n* `NO_CIVIC` (`varchar`): Civic number\n* `ODO_INDEX_LONG` (`varchar`): Long index odonym\n* `ODO_COURT_COMPLET` (`varchar`): Full short odonym\n* `ODO_LONG_COMPLETE` (`varchar`): Full long odonym\n* `ODO_INDEX_COURT` (`varchar`): Short index odonym\n* `URL` (`varchar`): URL\n* `CHARACTER` (`varchar`): Character\n* `POLICE` (`varchar`): Police\n* `scale` (`integer`): Scale\n* `USE` (`varchar`): Utility\n* `NOTES` (`varchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `ICONE` (`varchar`): Icon\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/301fdfef-ba91-4718-9d9c-9552f0527724"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/301fdfef-ba91-4718-9d9c-9552f0527724\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Points of interest and place names - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "956d582c-ae11-597f-b057-0f3444de443e",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

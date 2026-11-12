@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.1251, -121.9206, 55.9667, 48.1683)",
+  "dcat_keyword_sm": [
+    "Seabed",
+    "Sediments",
+    "Fond de l’océan",
+    "Ocean floor",
+    "Ocean bottom",
+    "Sea bed",
+    "Sédiment",
+    "Rugosité",
+    "Fond marin",
+    "Rugosity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle de substrat peu profond (20m) de la côte canadienne du Pacifique"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada."
+  ],
+  "dct_description_sm": [
+    "The shallow substrate bottom type model was created to support near shore habitat modelling. Data sources include both available observations of bottom type and environmental predictor layers including oceanographic layers, fetch, and bathymetry and its derivatives. Using weighted random forest classification from the ranger R package, the relationship between observed bottom type and predictor layers can be determined, allowing bottom type to be classified across the study areas. The predicted raster files are classified as follows: 1) Rock, 2) Mixed, 3) Sand, 4) Mud\n\nThe categorical substrate model domains are restricted to the extent of the input bathymetry layers (see data sources) which is 5 km from the 50 m depth contour.",
+    "Le modèle de type de fond à substrat peu profond a été élaboré à l’appui de la modélisation des habitats littoraux. Les sources de données comprennent à la fois les observations disponibles sur le type de fond et les couches prédictives environnementales, notamment les couches océanographiques, le fetch, la bathymétrie et ses dérivés. En utilisant la classification par forêt d’arbres décisionnels pondérée du progiciel Ranger R, la relation entre le type de fond observé et les couches prédictives peut être déterminée, ce qui permet de classer le type de fond dans l’ensemble des zones d’étude. Les fichiers de données tramées prédits sont classés comme suit : 1) roche, 2) mélange, 3) sable, 4) vase.\n\nLes domaines du modèle de substrat catégoriel sont limités à l’étendue des couches bathymétriques d’entrée (voir les sources de données), qui est de 5 km à partir de la courbe de profondeur de 50 m."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b100cf6c-7818-4748-9960-9eab2aa6a7a0"
+  ],
+  "dct_issued_s": "2020-01-31",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b100cf6c-7818-4748-9960-9eab2aa6a7a0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Shallow substrate model (20m) of the Pacific Canadian coast",
+  "gbl_mdModified_dt": "2026-03-24T08:02:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd3423f7-8bf6-5867-beeb-370ffde1daf9",
+  "locn_geometry": "ENVELOPE(-135.1251, -121.9206, 55.9667, 48.1683)",
+  "schema_provider_s": "Open Data Canada"
+}

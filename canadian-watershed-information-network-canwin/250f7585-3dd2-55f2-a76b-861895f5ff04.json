@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.092879, -60.332972, 45.700334, 44.37399)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The names of these rivers in the Bay of Fundy and Port Hawkesbury Area Response Plan (ARP) regions were obtained from Recovery Potential Assessments (see references), and cross referenced with the Atlas of Canada hosted online by Natural Resources Canada. These rivers were then identified and marked in ArcGIS using the Nova Scotia and New Brunswick Hydrographic Networks. Point features were used to represent the river mouths. For rivers large enough to be represented by polygon features, the point was placed where the polygon closed the inlet. For smaller rivers represented by a polyline, the point was placed where the line intersected the coastline. When multiple tributaries of a river were identified as salmon rivers, only the most seaward was marked.\n\nCite this data as: Corrigan, S. Data of: Salmon Rivers Presence, Maritimes Region. Published: June 2019. Coastal Ecosystems Science Division, Fisheries and Oceans Canada, St. Andrews, N.B. https://open.canada.ca/data/en/dataset/ded53eaa-bb98-4476-beea-3138372c740b"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ded53eaa-bb98-4476-beea-3138372c740b"
+  ],
+  "dct_issued_s": "2019-12-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ded53eaa-bb98-4476-beea-3138372c740b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Salmon Rivers Presence, Maritimes Region",
+  "gbl_mdModified_dt": "2026-03-24T08:41:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "250f7585-3dd2-55f2-a76b-861895f5ff04",
+  "locn_geometry": "ENVELOPE(-67.092879, -60.332972, 45.700334, 44.37399)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte binaire à haute résolution des terres humides du Canada (2001-2016)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "High-resolution binary wetland map for Canada (2001-2016). Wetland map for the forested ecosystems of Canada focused on current conditions.  It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). \nThe binary wetland data included in this product is national in scope (entirety of forested ecosystem) and represents the wall to wall characterization for 2001-2016 (see Wulder et al. 2018). This product was generated using both annual gap free composite reflectance images and annual forest change maps following the Virtual Land Cover Engine (VLCE) process (see Hermosilla et al. 2018), over the 650 million ha forested ecosystems of Canada. Elements of the VLCE classification approach are inclusion of disturbance information in the processes as well as ensuring class transitions over time are logical. Further, a Hidden Markov Model is implemented to assess individual year class likelihoods to reduce variability and possible noise in year-on-year class assignments (for instances when class likelihoods are similar). For this product, to be considered as currently a wetland a pixel must have been classified as wetland at least 80% or 13 of the 16 years between 2001 and 2016, inclusively. \n\nFor an overview on the data, image processing, and time series change detection methods applied, see Wulder et al. (2018).  \nWulder, M.A., Z. Li, E. Campbell, J.C. White, G. Hobart, T. Hermosilla, and N.C. Coops (2018). A National Assessment of Wetland Status and Trends for Canada’s Forested Ecosystems Using 33 Years of Earth Observation Satellite Data. Remote Sensing. \n\nFor a detailed description of the VLCE process and the subsequently generated land cover product, including an accuracy assessment, please see Hermosilla et al. (2018).",
+    "Les données binaires sur les terres humides présentées dans ce produit ont une étendue nationale (ensemble de l’écosystème forestier) et constituent une caractérisation entière pour la période s’étendant de 2001 à 2016 (Wulder et coll., 2018). Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada.  Ce produit a été réalisé à l’aide d’images composites annuelles de la réflectance sans lacunes ainsi que de cartes annuelles des changements forestiers pour les 650 millions d’hectares d’écosystèmes forestiers du Canada, en suivant le processus du Virtual Land Cover Engine (VLCE) (voir Hermosilla et coll., 2018). La méthode de classification VLCE consiste notamment à inclure de l’information sur les perturbations dans les processus ainsi qu’à s’assurer que les transitions de classe dans le temps sont logiques. En outre, un automate de Markov à états cachés est utilisé pour évaluer les probabilités de classe pour chaque année afin de réduire la variabilité et le bruit possible dans les attributions de classe d’une année à l’autre (p. ex., lorsque les probabilités de classe sont du même ordre). Pour ce produit, afin qu’un pixel puisse être actuellement considéré comme une terre humide, il doit avoir été classé comme tel pendant au moins 80 % du temps entre 2001 et 2016 inclusivement ou pendant treize de ces années. \n\nPour avoir un aperçu des données, du traitement des images et des méthodes appliquées pour la détection des changements dans les séries chronologiques, veuillez consulter Wulder et coll. (2018). Wulder, M.A., Z. Li, E. Campbell, J.C. White, G. Hobart, T. Hermosilla et N.C. Coops (2018). « A National Assessment of Wetland Status and Trends for Canada’s Forested Ecosystems Using 33 Years of Earth Observation Satellite Data ». Remote Sensing."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6b1408b4-ea09-4a6a-b5dd-3db3493e1218"
+  ],
+  "dct_issued_s": "2018-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6b1408b4-ea09-4a6a-b5dd-3db3493e1218\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "High-resolution binary wetland map for Canada (2001-2016)",
+  "gbl_mdModified_dt": "2026-03-16T16:05:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7eb968a0-206e-5baf-8b84-01e75365c8a5",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

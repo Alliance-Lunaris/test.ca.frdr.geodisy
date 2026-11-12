@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-99.983, -99.983, 62.2, 62.2)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sayles, Matthew P (Simon Fraser University)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains field observations, structural measurements, mineral chemistry, geochronology, and metamorphic modelling data that characterize the tectonometamorphic evolution of the Angikuni Lake region (Kivalliq Region, Nunavut, Canada). The study region is situated within the Rae craton of the western Churchill Province. The data supports investigations into the Neoarchean and Paleoproterozoic structural, thermal, and magmatic history of the region and provides evidence for resolving its complex tectonic assembly and framework.\r\n\r\nThe geological field observations and spatial data are compiled within a GeoPackage database containing spatial locations of lithological stations, samples, and structures. This is accompanied by a coordinate-verified CSV archive of sample descriptions. We also provide microstructural and petrographic context through section descriptions that documents mineralogy, deformation fabrics, and micro-structural shear sense indicators. \r\n\r\nWe provide modal mineralogy and high-resolution spatial scans via automated mineralogy (AMICS) datasets for key metamorphic samples. Geochronological datasets include U-Pb isotopic analyses from zircon SHRIMP, accompanied by back-scattered electron (BSE) and cathodoluminescence (CL) imaging showing analytical spot locations. Additionally, we include LA-ICP-MS U-Pb and trace element geochronology, apatite, and titanite, along with biotite Rb-Sr geochronology. This is useful to constrain the cooling and crystallization history of the tectonothermal events. Likewise, we provide mineral chemistry compositions obtained via Electron Probe Microanalysis (EPMA), Atoms Per Formula Unit (APFU) stoichiometry calculations, and the calculated bulk rock compositions utilized as inputs in the MAGEMin modeling software."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01775"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01775\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "-, Nunavut, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and related environmental sciences",
+    "Angikuni Lake",
+    "Apatite geochronology",
+    "U-Pb geochronology",
+    "LA-ICP-MS monazite",
+    "Tectonique",
+    "Pétrologie métamorphique",
+    "Structural geology",
+    "Sciences de la Terre et sciences de l'environnement connexes",
+    "SHRIMP zircon",
+    "western Churchill Province",
+    "Petrography",
+    "Rb-Sr geochronology",
+    "Titanite geochronology",
+    "MAGEMin",
+    "Géologie",
+    "Rae craton",
+    "Géologie structurale",
+    "Geology",
+    "Metamorphic petrology",
+    "Biotite Rb-Sr",
+    "Electron Probe Microanalysis (EPMA)",
+    "Metamorphic Modelling",
+    "Tectonics"
+  ],
+  "dct_title_s": "Field observations, structural measurements, petrography, U-Pb geochronology, Rb-Sr geochronology, mineral chemistry, and metamorphic phase modelling data of the Angikuni Lake region, Nunavut, Canada",
+  "gbl_mdModified_dt": "2026-09-15T21:37:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0067c4a3-acaf-5644-afcf-d4b872757958",
+  "locn_geometry": "ENVELOPE(-99.983, -99.983, 62.2, 62.2)",
+  "schema_provider_s": "SFU Research Data (FRDR)"
+}

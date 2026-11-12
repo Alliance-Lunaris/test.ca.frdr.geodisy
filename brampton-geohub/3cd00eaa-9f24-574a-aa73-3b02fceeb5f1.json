@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.968, -79.204, 44.043, 43.492)",
+  "dcat_keyword_sm": [
+    "boundary",
+    "schedule",
+    "waste",
+    "Peel Region",
+    "region",
+    "garbage",
+    "Environment",
+    "peel",
+    "Local Government",
+    "recycling",
+    "collection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Brampton Maps."
+  ],
+  "dct_description_sm": [
+    "<p><u>Collection Day:</u> Defines the day of the week waste is collected.</p><div><u>Collection Alternation Garbage or Recycling:</u> The zones used for the collection of solid waste (garbage, recycling [blue bin], and organics [green bin]).</div><ul><li><div>COLLECTDAY defines the day of the week.</div></li><li><div>COLLECTSUB defines the alternation between garbage and recyling pickup from week to week. If a collection sub group for Monday \"A\" has garbage collected on a particular week, Monday \"B\" will have recycling collected that same week.</div></li><li><div>Organics (green bin) is collected every week.</div></li><li><div>Collection Day Sub-Group defines the alternation between garbage and recycling pickup from week to week. If a collection sub group for Monday \"A\" has garbage collected on a particular week, Monday \"B\" will have recycling collected that same week.</div></li></ul><div>PLEASE NOTE: The zones generally follow the centre line of the Roads. However, properties on both sides of a road that straddle a boundary may have the same collection day (to minimize resident confusion). Thus, if you are defining properties (or addresses) within each collection day, there may be some exceptions along these boundaries.</div><div>&nbsp;</div><div>Last update: April 14, 2020</div><div>&nbsp;</div><div>Source Data:<a target='_blank' href='https://data.peelregion.ca/datasets/RegionofPeel::waste-collection-areas' rel='nofollow ugc noopener noreferrer'>&nbsp;https://data.peelregion.ca/datasets/RegionofPeel::waste-collection-areas</a><br />&nbsp;</div><div><div>Apps:&nbsp;<a target='_blank' href='https://www.peelregion.ca/waste/collection-schedules' rel='nofollow ugc noopener noreferrer'>Region of Peel When Does It Go?</a></div><div>&nbsp;</div></div><div>Explore the Region of Peel Waste Management site for all related information:&nbsp;<a target='_blank' href='https://www.peelregion.ca/waste/' rel='nofollow ugc noopener noreferrer'>https://www.peelregion.ca/waste/</a></div><div>&nbsp;</div><div>Update to Recycling Collection: <a target='_blank' href='https://www.circularmaterials.ca/resident-communities/brampton/' rel='nofollow ugc noopener noreferrer'>Brampton | Circular Materials | Ontario</a> Refer to website for updates related to the Ontario recycling program, managed by Circular Materials (2026).</div>"
+  ],
+  "dct_identifier_sm": [
+    "d834a266f97341f7a5a38f0e524a7725",
+    "https://www.arcgis.com/home/item.html?id=d834a266f97341f7a5a38f0e524a7725"
+  ],
+  "dct_issued_s": "2018-06-19",
+  "dct_publisher_sm": [
+    "Brampton Maps"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.brampton.ca/datasets/brampton::region-of-peel-waste-collection\"}",
+  "dct_rights_sm": [
+    "CC BY"
+  ],
+  "dct_title_s": "Region of Peel Waste Collection",
+  "gbl_mdModified_dt": "2026-01-29T20:24:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3cd00eaa-9f24-574a-aa73-3b02fceeb5f1",
+  "locn_geometry": "ENVELOPE(-79.968, -79.204, 44.043, 43.492)",
+  "schema_provider_s": "Brampton GeoHub"
+}

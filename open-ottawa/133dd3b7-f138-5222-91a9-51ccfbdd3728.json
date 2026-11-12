@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.71889080704373, -75.66367672874776, 45.43795163698171, 45.39725601396698)",
+  "dcat_keyword_sm": [
+    "A city that is green and resilient",
+    "Tree canopy",
+    "Environment",
+    "Parks and Trees",
+    "Health and Safety"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p><span style='font-size:14px;'><span>This layer displays calculated 2025 Tree Equity Scores for the Downtown Core Official Plan Transect. The layer was produced using a modified version of the American Forests methodology, where a Tree Canopy Goal was created based on a Transect-level building density calculation. Tree Equity Scores were calculated at the census tract level for all Official Plan designated residential areas within the urban boundary. Canopy cover was calculated using the 2022 Canopy Cover Assessment. The Priority Index was calculated using data from 2021 Census, 2019-2020 Canadian Community Health Survey, and 2022 Landsat thermal band imagery. More information on the methodology used to create the data can be found on the City of Ottawa website.&nbsp;</span></span></p><p><span style='font-size:14px;'><span>This layer was produced by Climate Change and Resiliency Services, Strategic Initiatives Department, to guide the selection of priority areas for tree planting under the Tree Planting Strategy.&nbsp;</span></span></p><p><span style='font-size:14px;'><span><strong>Accuracy:</strong> Data are complete and there are no known issues. The Tree Equity Score analysis was created using 2021 census data to provide information on socio-economic and demographic data. Census data was combined with urban heat and canopy cover data to produce a Tree Equity Score. The analysis was performed only for urban, residential areas of the census tracts. Results of the analysis have been used to identify and prioritize areas of in need of tree canopy cover.&nbsp;</span></span></p><p><span style='font-size:14px;'><span><strong>Attribution:</strong> This data is owned by Climate Change and Resiliency Services Citations: American Forests’ Methodology, 2025 Environics Analytics (EA) - 2025 Community Health, Statistics Canada 2021 Census, U.S. Geological Survey</span></span></p><p><span style='font-size:14px;'><span><strong>Attributes:&nbsp;</strong></span></span></p><ul><li><span style='font-size:14px;'>CTUID: Unique census tract identification number</span></li><li><span style='font-size:14px;'>CTNUM: Shortened census tract identification number&nbsp;</span></li><li><span style='font-size:14px;'>NAME: Census tract name</span></li><li><span style='font-size:14px;'>TRANSECT: Transect that the census tract falls within</span></li><li><span style='font-size:14px;'>CANCVR: Canopy cover as a percentage of census tract area</span></li><li><span style='font-size:14px;'>CANGOAL: Transect-level goal canopy cover based on building density</span></li><li><span style='font-size:14px;'>CANGAP: Difference between the transect-level goal canopy cover and canopy cover as a percentage of census tract area</span></li><li><span style='font-size:14px;'>GAPSCORE: CANGAP normalized by the largest difference between goal and actual canopy cover</span></li><li><span style='font-size:14px;'>PRIORITY INDEX: Index of seven equally weighted socio-economic, urban heat, and health factors for each census tract</span></li><li><span style='font-size:14px;'>TREE EQUITY SCORE: Census tract Tree Equity Score calculated using the GAPSCORE and PRIORITY INDEX</span></li><li><span style='font-size:14px;'>PRIORITY AREA: If the census tract has been identified as a Priority Area</span></li></ul><p><span style='font-size:14px;'>NOTE: Information specific to the census tract</span></p><p><span style='font-size:14px;'><strong>Transects:</strong></span></p><ul><li><a target='_blank' href='https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-downtown-core/about' rel='nofollow ugc noopener noreferrer'>Downtown Core</a></li><li><a target='_blank' href='https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-inner-urban/about' rel='nofollow ugc noopener noreferrer'>Inner Urban</a></li><li><a target='_blank' href='https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-outer-urban/about' rel='nofollow ugc noopener noreferrer'>Outer Urban</a></li><li><a target='_blank' href='https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-suburban/about' rel='nofollow ugc noopener noreferrer'>Suburban</a></li></ul><p>&nbsp;</p><p><span style='font-size:14px;'><span><strong>Contact: </strong></span></span><a href='mailto:Nick.Stow@ottawa.ca' rel='nofollow ugc'><span style='font-size:14px;'><span>Nick Stow, Program Manager, Natural Systems</span></span></a></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "6cdd6ebcd20d4290b300df137df9991e",
+    "https://www.arcgis.com/home/item.html?id=6cdd6ebcd20d4290b300df137df9991e"
+  ],
+  "dct_issued_s": "2025-11-21",
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-downtown-core\"}",
+  "dct_rights_sm": [
+    "Open Data | City of Ottawa"
+  ],
+  "dct_title_s": "Tree Equity Score 2025 - Downtown Core",
+  "gbl_mdModified_dt": "2025-11-21T20:18:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "133dd3b7-f138-5222-91a9-51ccfbdd3728",
+  "locn_geometry": "ENVELOPE(-75.71889080704373, -75.66367672874776, 45.43795163698171, 45.39725601396698)",
+  "schema_provider_s": "Open Ottawa"
+}

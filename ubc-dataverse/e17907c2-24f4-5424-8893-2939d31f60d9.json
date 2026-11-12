@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.0615, -122.8877, 50.1816, 50.0637)",
+  "dcat_keyword_sm": [
+    "Fire Behavior",
+    "Wildland Urban Interface",
+    "Forest Structure",
+    "Remote sensing",
+    "LiDAR",
+    "Fuel mapping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Cheung, Kit Shan Wendy (University of British Columbia). ORCID: https://orcid.org/0009-0000-3346-7537"
+  ],
+  "dct_description_sm": [
+    "The escalating incidents of wildfire pose a critical challenge in Canada, necessitating an understanding of forest structures for the effective implementation of fuel treatment strategies to mitigate wildfire risks. While previous research has explored forest structures and wildfire risk, a gap remains in translating these studies into operational solutions for foresters and land managers. This study addresses this critical gap by employing Light Detection and Ranging (LiDAR) technology for a preliminary assessment of wildfire risks in the Wildfire Urban Interface (WUI) of Whistler. Utilizing LiDAR’s ability to provide a detailed point cloud, the study introduces a simplified yet effective method for mapping crown fuel, ladder fuel and surface fuel. In assessing the crown fuel and ladder fuel, the project uses Canopy Height Models (CHM) and tree segmentation techniques to quantify forest structure. A notable result is the development of a tree volume index (TVI), which allows for a macro-scale evaluation of fuel volumes crucial for wildfire risk assessment. The analysis identifies a moderate positive correlation (0.55) between the LiDAR-derived TVI and data from the Canada Forest Satellite-Based Inventory 2020 (SBFI), demonstrating the approach’s validity and effectiveness in assessing wildfire risks. Furthermore, the study identifies potential surface fuel sources by analyzing pixel metrics, such as the percentage of vegetation returns between 1 and 2.5 m, thus offering insights into wildfire risk assessment. This pilot study exemplifies a novel approach to preliminary fuel mapping, facilitating the understanding of complex forest structures across extensive areas through LiDAR technology, and presents a practical methodology to improve wildfire risk management strategies."
+  ],
+  "dct_identifier_sm": [
+    "719063_73894_115983",
+    "https://doi.org/10.5683/SP3/IQIK0D"
+  ],
+  "dct_issued_s": "2024-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IQIK0D\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Whistler, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Deriving LiDAR Metrics for Forest Structure Mapping in Wildfire Risk Assessment",
+  "gbl_mdModified_dt": "2024-04-17T17:16:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e17907c2-24f4-5424-8893-2939d31f60d9",
+  "locn_geometry": "ENVELOPE(-123.0615, -122.8877, 50.1816, 50.0637)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

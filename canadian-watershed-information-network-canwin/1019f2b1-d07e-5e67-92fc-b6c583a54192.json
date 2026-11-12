@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Snow and ice are important hydrological resources.  Their minimum spatial extent here referred to as annual minimum snow/ice (MSI) cover, plays a very important role as an indicator of long-term changes and baseline capacity for surface water storage.  The MSI probability is derived from sequence of seventeen 10-day clear-sky composites corresponding to April, 1 to September, 20 warm period for each year since 2000. Data from Moderate Resolution Imaging Spectroradiometer (MODIS) on Terra satellite for the period since 2000 have been processed with the special technology developed at the Canada Centre for Remote Sensing (CCRS) as described in Trishchenko, 2016; Trishchenko et al., 2016; 2009, 2006, Trishchenko and Ungureanu, 2021, Khlopenkov and Trishchenko, 2008, Luo et al., 2008.  The presence of snow or ice is determined for each pixel of the image based on snow/ice scene identification procedure and the probability if computed for the entire warm season as a ratio of number of snow/ice flags to the total number of pixels available (less or equal to 17). The minimum snow and ice extent can be derived from the probability map by applying a certain threshold.   \n  \n  New data version V5.0 replaces previous version V4.0 for all data available since 2000.  All MSI files were reprocessed for all MODIS input data based on collection 6.1.  The output format has not changed since previous version. It is described in Trishchenko (2024). The impact of input data change is small and can be detected only for time interval 2000-2015. Data starting 2016 has been already derived using MODIS collection 6.1 input.  \n  \n  The differences between the MSI data based on MODIS Collection 5 (i.e. MSI V4) versus MODIS Collection 6.1 (i.e. MSI V5), on average, are quite small. The region-wide relative difference in the MSI extent varies from -3.97% to +1.75%.  The mean value is -0.14%, the median value is 0.18% and standard deviation is 1.83%.   As such, we do not expect any sizeable impact of the version change on our previous conclusions regarding trends and climate variations, except for refining the relative values of statistical parameters within the range of a few percents.    \n  \n  References:  \n  \n  TRISHCHENKO, A.P., 2024: Probability maps of the annual minimum snow and ice (MSI) presence over April,1 to September, 20 period since 2000 derived from MODIS 250m imagery over Canada and neighbouring regions. Data format description. CCRS, NRCan. 4pp."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/808b84a1-6356-4103-a8e9-db46d5c20fcf"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/808b84a1-6356-4103-a8e9-db46d5c20fcf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Probability of the annual minimum snow and ice (MSI) presence over Canada",
+  "gbl_mdModified_dt": "2025-12-23T16:30:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1019f2b1-d07e-5e67-92fc-b6c583a54192",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

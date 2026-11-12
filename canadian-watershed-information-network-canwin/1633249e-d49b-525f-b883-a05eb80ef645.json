@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.16023028, -57.56136972, 48.78665807, 44.28580691)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Since 1979, Fisheries and Oceans Canada has conducted near-annual mackerel egg surveys in the southern Gulf of St. Lawrence using a standardized methodology. This survey typically takes place over approximately 10 days in June and aims to quantify mackerel eggs, thereby contributing to the stock assessment of the northern contingent. Sampling is conducted at 66 fixed stations arranged in a predefined grid (see included image for station locations and names). Additional stations—following the same sampling methodology—have also been surveyed off of southwestern Newfoundland, eastern Cape Breton and south of Prince Edward Island, as well as in other regions. \n\nThe mackerel survey is often coordinated with the Atlantic Zone Monitoring Program (AZMP) for the Quebec region, which takes place around the same time using the same research vessel and similar equipment. While these two surveys are distinct, they are coordinated to complement each other.\n\nAt each station, a tow using 61 cm bongo nets (333 µm mesh size) is towed following a saw-tooth profile through the upper 50 m of the water column. Tows last approximately 10 minutes at a speed of roughly 2.5 knots. These tows target mackerel eggs and larvae but collect other species and plankton stages. The taxonomic identification and classification of the developmental stages of the samples are then carried out in the laboratory. The number of taxon counted varies between survey years, based on new species encountered and identified. Egg development stages (I–V) are recorded only for mackerel.\n\nThis dataset includes the records of all ichthyoplankton species sampled during the survey. It includes information for each sampling station, including gear specifications, species identifications, and life history stages. Each unique combination of COLLECTOR_STATION_NAME, COLLECTOR_EVENT_ID,  START_DATE, START_LAT and START_LON  represents a single sampling event, and all rows sharing this combination correspond to individual samples collected during that event.\n\nThe dataset covers the period from 1983 to 2024 and is updated annually as new data become available.\n\nIt is important to note that prior to 2023, nearly all species were systematically counted, with only a few exceptions where presence alone was recorded. However, since 2023, data collection has shifted to presence/absence for all species, except capelin larvae, herring larvae, and mackerel eggs and larvae, which continue to be counted.\n\nNote – raw data use with caution – please contact the author if you have any questions.\n\nThe data processing methods used for the stock assessment are described in detail in the following publication:\nLehoux, C., Van Beveren, E., and Plourde, S. 2024. Results of the Mackerel (Scomber scombrus L.) Egg Surveys Conducted in the Southern Gulf of St Lawrence from 1979 to 2022. DFO Can. Sci. Advis. Sec. Res. Doc. 2024/037. v + 47 p.\nhttps://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2024/2024_037-eng.html"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e430541f-61f4-4bf4-939c-c1c325355c7d"
+  ],
+  "dct_issued_s": "2025-09-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e430541f-61f4-4bf4-939c-c1c325355c7d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Scientific Survey of the Northern Contingent Atlantic Mackerel (Scomber scombrus)",
+  "gbl_mdModified_dt": "2026-03-24T08:06:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1633249e-d49b-525f-b883-a05eb80ef645",
+  "locn_geometry": "ENVELOPE(-66.16023028, -57.56136972, 48.78665807, 44.28580691)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

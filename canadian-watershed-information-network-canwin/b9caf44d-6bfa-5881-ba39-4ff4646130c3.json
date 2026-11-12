@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The raster maps depict a suite of forest attributes in 2001* and 2011 at 250 m by 250 m spatial resolution. The maps were produced using the k nearest neighbours method  applied to MODIS imagery and trained from  National Forest Inventory photo plot data. For detailed information about map production methods please refer to Beaudoin et al. (2018) \"Tracking forest attributes across Canada between 2001 and 2011 using the k nearest neighbours mapping approach applied to MODIS imagery.\" Canadian Journal of Forest Research 48, 85-93. https://cfs.nrcan.gc.ca/publications?id=38979  \n  \n  The map datasets may be downloaded from https://nfi.nfis.org/downloads/nfi_knn2011.zip or https://open.canada.ca/data/en/dataset/ec9e2659-1c29-4ddb-87a2-6aced147a990    \n  \n  * Note: the forest composition (leading tree genus) map depicts forest attributes in 2001.  \n  \n  How can this data be used?  \n  \n  The resolution and accuracy of these map products are best suited for strategic-level forest reporting and informing policy and decision making at regional to national scales. As these maps also offer a coherent set of quantitative values for a large suite of forest attributes, they can be used as baseline information for modelling and in calculations such as merchantable forest volume or percentage of tree species. It is also possible to overlay these maps with other maps produced on the same pixel grid to make assessments of disturbance impacts, such as fire and harvests."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/698dc612-5059-43ee-84f3-49756e6d5ad6"
+  ],
+  "dct_issued_s": "2019-10-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/698dc612-5059-43ee-84f3-49756e6d5ad6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Total live above-ground biomass in Canada 2011",
+  "gbl_mdModified_dt": "2022-02-22T21:00:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b9caf44d-6bfa-5881-ba39-4ff4646130c3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

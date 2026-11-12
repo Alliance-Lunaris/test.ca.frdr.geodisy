@@ -1,0 +1,62 @@
+{
+  "dcat_keyword_sm": [
+    "Islands of differentiation",
+    "Setophaga coronata",
+    "Holocene",
+    "Setophaga virens",
+    "Setophaga townsendi",
+    "Geothlypis tolmiei",
+    "Setophaga auduboni",
+    "Geothlypis philadelphia",
+    "Genomic differentiation",
+    "Parulidae",
+    "Warbler"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Irwin, Darren E. (University of British Columbia).",
+    "Milá, Borja (Museo Nacional de Ciencias Naturales).",
+    "Toews, David P. L. (University of British Columbia, Cornell University).",
+    "Brelsford, Alan (University of California System, University of British Columbia, University of Lausanne).",
+    "Kenyon, Haley L. (University of British Columbia).",
+    "Porter, Alison N. (University of British Columbia).",
+    "Grossen, Christine (University of British Columbia).",
+    "Delmore, Kira E. (University of British Columbia).",
+    "Alcaide, Miguel (University of British Columbia).",
+    "Irwin, Jessica H. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/5Y_pnFezb50K59m-xwd3Vgt9Rpn_njv6QIvmqziPids</p>\n<p><b>Storage size:</b> 475309342</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Detailed evaluations of genomic variation between sister species often reveal distinct chromosomal regions of high relative differentiation (i.e., “islands of differentiation” in FST), but there is much debate regarding the causes of this pattern. We briefly review the prominent models of genomic islands of differentiation and compare patterns of genomic differentiation in three closely related pairs of New World warblers with the goal of evaluating support for the four models. Each pair (MacGillivray's / mourning warblers; Townsend's / black‐throated green warblers; and Audubon's / myrtle warblers) consists of forms that were likely separated in western and eastern North American refugia during cycles of Pleistocene glaciations and have now come into contact in western Canada, where each forms a narrow hybrid zone. We show strong differences between pairs in their patterns of genomic heterogeneity in FST, suggesting differing selective forces and/or differing genomic responses to similar selective forces among the three pairs. Across most of the genome, levels of within‐group nucleotide diversity (πWithin) are almost as large as levels of between‐group nucleotide distance (πBetween) within each pair, suggesting recent common ancestry and/or gene flow. In two pairs, a pattern of the FST peaks having low πBetween suggests that selective sweeps spread between geographically differentiated groups, followed by local differentiation. This “sweep‐before‐differentiation” model is consistent with signatures of gene flow within the yellow‐rumped warbler species complex. These findings add to our growing understanding of speciation as a complex process that can involve phases of adaptive introgression among partially differentiated populations.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">scripts: converting GBS reads to genotypes</h4><div class=\"o-metadata__file-description\">This text file contains scripts and notes for the steps used in converting raw Illumina GBS sequencing reads to individual genotypes (at both variant and invariant sites) across the genome. The resulting genotype files (in \"012NA\" format) were then used as input into R, for the rest of the analysis and production of figures.</div><div class=\"o-metadata__file-name\">warbler_genomics_processing_scripts.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">custom R functions file</h4><div class=\"o-metadata__file-description\">This R file (\"genomics_R_functions_V2.R\" contains functions written by Darren Irwin originally for the analysis of Greenish Warbler GBS variation (in Irwin et al. 2016, Molecular Ecology) and modified more recently for the analysis of 3 North American warbler species groups (in Irwin et al. in review, Molecular Ecology). These functions are designed to work more broadly for any dataset in similar input format. To reproduce the analysis in the paper, the main R script file (\"warbler_GBS_analysis_script_for_Dryad.R\") should be run; it calls functions in the present file.</div><div class=\"o-metadata__file-name\">genomics_R_functions_V2.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">warbler_GBS_analysis_script_for_Dryad</h4><div class=\"o-metadata__file-description\">This file contains the main R scripts used to conduct the analysis and produce the figures. It uses as input the \"012NA\" files (and associated files) produced as described in the \"warbler_genomics_processing_scripts.txt\" file. Note that the metadata files \"warbler.Fst_groups_14each.txt\" (also contained in this Dryad package) is also needed. Also crucial is a file of R functions (\"genomics_R_functions_V2.R\") written especially for this analysis, but designed to work more generally; these functions are called by this script file.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">warbler.Fst_groups_14each</h4><div class=\"o-metadata__file-description\">This file is required for conducting the 117-sample analysis (14 individuals per population, except 5 for goldmani) using the R script provided in this package. The file provides the names of each individual, the location code, the \"group\" (basically the specific or subspecific name) and \"Fst_group\" (the code used for defining groups in the Fst analysis, and for colouring the figures), and the \"plot_order\" (not used in the present paper).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">warbler genotypes in \"012NA\" format</h4><div class=\"o-metadata__file-description\">This folder contains genotypic information used in the 117-sample analysis (14 individuals for each population, plus 5 for goldmani). For each chromosome, there is a file containing the genotypes (ending in \"012NA\"), a file containing the list of individuals (ending in \"012.indv\"), and a file containing the list of positions on the chromosome (ending in \"012.pos\"). For details of how these files were produced see the file \"warbler_genomics_processing_scripts.txt\", also provided in this Dryad package. These files are ready to be used for subsequent analysis and presentation in the R scripts supplied in this package. The metadata file (\"warbler.Fst_groups_14each.txt\"; also in this package) is also needed in the R processing.</div><div class=\"o-metadata__file-name\">warbler_GBS_14each_012NA_files.tar.gz</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SiteStats and WindowStats R files</h4><div class=\"o-metadata__file-description\">This folder contains files containing locus-based statistics (\"SiteStats\") and window-based statistics (\"WindowStats\") for each chromosome. These files can be produced by the R script (in this package), and they can also be used by that script (whether the script saves and/or loads SiteStats and WindowStats files can be adjusted in that script using the setting for \"calculate_or_load_stats\" and the related settings below that). Producing these files can take days of processing time; I have included them here so you can produce most of the figures in the paper, by running the R script below the heading \"GENOME-WIDE plots\". That script will call the appropriate files (as long as you have designated a path/folder structure that matches the R script). Separate WindowStats files are included for window sizes of 10000 (the main analysis in the paper) and 5000 (referred to briefly in the paper, with one figure in the supplement).</div><div class=\"o-metadata__file-name\">SiteStats_and_WindowStats_files.tar.gz</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">genotypes at SNPs only across the whole genome</h4><div class=\"o-metadata__file-description\">This folder contains genotypic information for variant sites only (no invariant sites) across the whole genome, among all individuals in the study. The folder contains a file containing the genotypes (ending in \"012NA\"), a file containing the list of individuals (ending in \"012.indv\"), and a file containing the list of positions on the chromosome (ending in \"012.pos\"). For details of how these files were produced see the file \"warbler_genomics_processing_scripts.txt\", also provided in this Dryad package. These files are ready to be used for subsequent analysis and presentation in the R scripts supplied in this package. The metadata file (\"warbler.Fst_groups_14each.txt\"; also in this package) will be needed in the R processing.</div><div class=\"o-metadata__file-name\">warbler_GBS_14each_SNPs_only_whole_genome_012NA_files.tar.gz</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151170_150149",
+    "https://doi.org/10.5683/SP2/YEFCWD"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/YEFCWD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: A comparison of genomic islands of differentiation across three young avian species pairs",
+  "gbl_mdModified_dt": "2021-05-19T22:24:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7adc6bb7-26ce-5e48-b417-b3909fc42004",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

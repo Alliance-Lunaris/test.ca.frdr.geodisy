@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Territories in the domain of the State over which granted rights include wood volume assignments defined by the Ministry of Natural Resources and Forests (MRNF).\n\nThere are different types of rights granted depending on the purpose (s) of use (s): \n\n-Guarantees of supply (GA), wood harvesting permits for the purpose of supplying a wood processing plant (PRAU), biomass PRAU (PRBIO) and delegation agreements (EDs) on the local forest (FP) or on residual forest territories allow forest management activities according to the various legal documents issued by the MRNF.\n\n-Education and Research Forests (FER) allow forest management activities for teaching and research purposes according to the contract issued by the MRNF.\n\n-The Duchesnay Forest Station (STF) allows forest management activities for teaching, research and tourism purposes according to the contract issued by the MRNF.\n\n-Territorial management agreements (CGT) on residual forest territories allow forest management activities and land management in accordance with the agreement issued by the MRNF.\n\n-Category 1 (TC1) lands are subject to property rights under conditions dedicated to Indigenous nations under the James Bay and Northern Quebec Agreement and provide a framework for forest management activities. __Important:__ The MRNF does not issue any forest rights on these lands but the volume associated with the forest possibility of these lands is recorded in the SYMPA system.\n\nThese territorial data come from the MRNF STF system, which is __the official source__ of this geographic information, except for residual forest territories with management agreements (CGT) as well as category 1 land (TC1). Active __granted rights__ are established according to the MRNF SYMPA system. \n\nIt is possible to identify the various beneficiaries __of active rights only__, i.e. from the STF_beneficiaries table. This table is fed by the SYMPA system, which establishes forest rights and the volumes allocated to them. Correspondence between a territory under granted law and the beneficiaries is possible by relating the table and the data set by the territory number (NO_TERRI).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5f12a8e0-0327-42bb-a27d-a03ffa46db40"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5f12a8e0-0327-42bb-a27d-a03ffa46db40\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Consented Rights Territories (TDC)",
+  "gbl_mdModified_dt": "2026-10-07T17:38:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bb5a5aed-00df-503d-813f-62a53af5be40",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

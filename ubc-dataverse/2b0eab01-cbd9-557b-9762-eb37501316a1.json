@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "allometry",
+    "Anelosimus",
+    "metabolism",
+    "web architecture",
+    "sociality"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Straus, Samantha (University of British Columbia). ORCID: https://orcid.org/0000-0001-9322-1483",
+    "Gonzalez, Angélica (Rutgers University).",
+    "Matthews, Philip (University of British Columbia).",
+    "Avilés, Leticia (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/klNV_MWHeximvJxSoxxdx9xBHeV2uTG2K3lF8Njnsx4</p>\n<p><b>Storage size:</b> 26162828</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Metabolic scaling, whereby larger individuals use less energy per unit mass than smaller ones, may apply to the combined metabolic rate of group-living organisms as group size increases. Spiders that form groups in high disturbance environments can serve to test the hypothesis that economies of scale benefit social groups.</p>\r\n\r\n<p>Using solitary and group-living spiders, we tested the hypothesis that spiders exhibit negative allometry between body or colony mass and the standing mass of their webs and whether, and how, such a relationship may contribute to group-living benefits in a cooperative spider.</p>\r\n\r\n<p>Given the diverse architecture of spider webs—orb, tangle, and sheet-and-tangle, and associated differences in silk content, we first assessed how standing web mass scales with spider mass as a function of web architecture and whether investment in silk differs among web types. As group-living spiders are predominantly found in clades that build the presumably costlier sheet-and-tangle webs, we then asked whether cost-sharing through cooperative web maintenance contributes to a positive energy budget in a social species.</p>\r\n\r\n<p>We found that larger spiders had a relatively smaller investment in silk per unit mass than smaller ones, but more complex sheet-and-tangle webs contained orders of magnitude more silk than simpler orb or tangle ones. In the group-living species, standing web mass per unit spider mass continued to decline as colony size increased with a similar slope as for unitary spiders. When web maintenance activities were considered, colonies also experienced reduced mass-specific energy expenditure with increasing colony size. Activity savings contributed to a net positive energy balance for medium and large colonies after inputs from the cooperative capture of large prey were accounted for.</p>\r\n\r\n<p>Economies of scale have been previously demonstrated in animal societies characterized by reproductive and worker castes, but not in relatively egalitarian societies as those of social spiders. Our findings illustrate the universality of scaling laws and how economies of scale may contribute to setting limits on social behaviour and hunting strategies.</p>",
+    "<b>Usage notes</b><br /><p>Data are split into two folders. Folder entitled \"raw_data\" includes all raw field and laboratory data (.csv files), plus an accompanying metadata file. The folder entitled \"downstream_data\" includes .csv files created during the cleaning and analysis process, and includes an accompanying metadata file. The folder entitled \"code\" includes all of the R scripts used for analysis. SpiderCommunity_WebScaling.R runs the analyses of economies of scale in the web-building spider community at Jatun Sacha. Anelosimus_total_outputs.R processes energetic outputs from web-building, Anelosimus_total_inputs.R processes energetic inputs from prey capture, and \"Anelosimus_BudgetAnalysis_Figures.R runs the linear, quadratic and cubic spline analyses and generates figures used in the paper.</p>"
+  ],
+  "dct_identifier_sm": [
+    "282919_1226260_150149",
+    "https://doi.org/10.5683/SP3/DAZ8KU"
+  ],
+  "dct_issued_s": "2022-02-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/DAZ8KU\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Economies of scale shape energetics of solitary and group living spiders and their webs",
+  "gbl_mdModified_dt": "2022-02-03T00:12:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2b0eab01-cbd9-557b-9762-eb37501316a1",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

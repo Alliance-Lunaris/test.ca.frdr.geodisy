@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nThe Directorate of Forest Inventories (DIF) carries out assessments of tree biomass and their carbon content at the scale of ecoforest stands to deepen knowledge on the contribution of forests in the global carbon cycle. This information can be useful in the context of climate change to document the mitigating role played by forests.\n\nThe resulting product, a database containing a single table entitled “BIOMASSE_CARBONE_PEE_ORI_PROV”, shows the biomass and carbon values of living trees above ground for all productive ecoforest stands.\n\nThe exploitation of the database requires the data from [the original ecoforest map] (https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) and the establishment of a connection with the information of the polygonal entity class of settlements.\n\nThe database includes biomass variables converted to carbon stocks, detailing the biomass of wood, bark, branches, and foliage. For a thorough understanding, you can consult the Read Me associated with this product and the publication [“Biomass and carbon forests in southern Quebec - Method and use”] (https://mrnf.gouv.qc.ca/nos-publications/biomasse-carbone-forestiers-quebec-meridional/) (MRNF, 2026) which offers additional methodological information.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca497b9d-3b6b-4039-8632-eadfb9335746"
+  ],
+  "dct_issued_s": "2023-12-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca497b9d-3b6b-4039-8632-eadfb9335746\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Forest biomass and carbon in southern Quebec",
+  "gbl_mdModified_dt": "2026-10-07T18:02:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "044285c1-b3f3-50be-be63-da8c558e40e9",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

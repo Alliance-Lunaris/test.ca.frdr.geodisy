@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.3, -72.45, 46.48, 45.38)",
+  "dcat_keyword_sm": [
+    "Agro-forested areas of St-Maurice and St-Marthe",
+    "Sentinel-1 Synthetic Aperture Radar (SAR)",
+    "Freeze-thaw probability",
+    "In-situ soil temperature measurements",
+    "Exponential Freeze-Thaw algorithm (EFTA)",
+    "Soil freeze-thaw states"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Taghipourjavi, Shahabeddin (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-2036-9863",
+    "Kinnard, Christophe (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-4553-5258",
+    "Roy, Alexandre (Département des Sciences de l’environnement, Université du Québec à Trois-Rivières, QC, Canada, Quebec University, Université du Québec à Trois-Rivières, Center for Northern Studies)."
+  ],
+  "dct_description_sm": [
+    "In this dataset, In-situ soil temperature measurements were collected for two consecutive years in Agro-forested areas of St-Maurice and St-Marthe located in south Québec (Canada), from mid-October to the end of April, covering the periods of 2020-21 and 2021-22. 8 and 10 temperature plots were instrumented in St-Maurice and St-Marthe, respectively, to monitor soil freeze-thaw (FT) states. At each plot, five soil pits equipped with two soil temperature sensors at near-surface (2 cm) and 10 cm depths were installed along a cross shape with 5 m between each soil pit. We used the standard normal distribution, which is a continuous probability distribution, to determine the probability of soil freezing at each instrumented plot. As part of this dataset, Sentinel1 Interferometric Wide Swath Mode (IW) imagery was used, using both ascending and descending orbits during the time frame of early October to early June, covering the periods of 2020-2021 and 2021-2022. Three change detection algorithms were also calculated to retrieve the FT state for both VV- and VH-polarizations at the studied plots including freeze-thaw index (FTI) algorithm, backscatter differences (Delta), and exponential freeze-thaw algorithm (EFTA). For more detail please refer to the README file in dataset."
+  ],
+  "dct_identifier_sm": [
+    "716677_412017",
+    "https://doi.org/10.5683/SP3/LGLCKW"
+  ],
+  "dct_issued_s": "2024-04-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LGLCKW\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada",
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "In-situ Soil Temperature Data (2 and 10 cm) in Agro-forested Areas of St-Marthe and St-Maurice for 2020-21 and 2021-22",
+  "gbl_mdModified_dt": "2024-08-12T19:58:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cb34d945-b4a3-507a-8d4b-cd8b6d2e465e",
+  "locn_geometry": "ENVELOPE(-74.3, -72.45, 46.48, 45.38)",
+  "pcdm_memberOf_sm": [
+    "RIVE"
+  ],
+  "schema_provider_s": "Dataverse de l'Université du Québec à Trois-Rivières"
+}

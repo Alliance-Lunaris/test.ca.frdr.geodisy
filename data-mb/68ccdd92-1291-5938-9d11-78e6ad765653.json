@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.20810913443735, -91.55851095148225, 58.8604815983006, 48.84984646120256)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "données ouvertes",
+    "Newtwork",
+    "Province of Manitoba",
+    "province du manitoba",
+    "manitoba",
+    "road",
+    "Road",
+    "Highways",
+    "Manitoba Government",
+    "autoroutes",
+    "Manitoba",
+    "network",
+    "Réseau routier"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C;'>Created by <b>Manitoba Infrastructure</b>, the <b>2022\nManitoba Road Network</b> comprises four years of updates.</span></p>\n\n<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><br /></p>\n\n<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C;'>Previous exports were based on the now legacy <b>Control Sections</b>. \nIn this updated road network, the department adapts an <b>Advanced Linear\nReferencing System</b> (<b>ALRS</b>) with an <b>Linear Referencing Method</b> based\non <b>routes</b>. This new model was build from the control\nsection geometry and then enhanced by adding updated northern roads\ngeometry captured by GPS, as well as interchanges, right turn cutoffs, service\nroads, and other road alignments not previously captured in the legacy\nroad network.</span></p>\n\n<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><br /></p>\n\n<p style='background:white;'><span style='font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#4C4C4C;'>Fields included [<b>Alias </b>(Field\nName): </span><i><span style='font-size:12.0pt; font-family:&quot;inherit&quot;,serif; color:#4C4C4C;'>Field description</span></i><span style='font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#4C4C4C;'>.]</span></p>\n\n<ul>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>OBJECTID </span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>(OBJECTID): <i>Sequential,\n     unique whole numbers are automatically system generated.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Route\n     ID</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RouteId): <i>The\n     route's identifier, an information rich key comprised of designation,\n     route name, and route type.</i></span></li>\n <li><b><i><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Route\n     Designation</span></i></b><i><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RteDesignation): The designated level\n     of government responsible for the road.</span></i></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Route\n     Name</span></b><i><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RteName):\n     The name of the route, including direction.</span></i></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Route\n     Type</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RteType): <i>The\n     type of route, e.g. <b>PTH</b> (Provincial Trunk Highway), <b>PR</b> (Provincial\n     Road), <b>Acess</b> (Provincial Access Road)</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Road\n     Number (Signed)</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (Road_Number_Signed): <i>A\n     highway number labelling field.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Shape\n     Length</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (Shape__Length): <i>Length\n     in meters automatically system generated.</i></span></li>\n</ul>\n\n<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><br /></p>\n\n<p style='margin-bottom:0cm; margin-bottom:.0001pt; background:white;'><br /></p><h4 style='font-weight:400; margin:0.375rem 0px 0.75rem; font-size:1.414rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;'>Description</h4>\n\n<p style='margin-top:12.0pt; margin-right:0cm; margin-bottom:0cm; margin-left:0cm; margin-bottom:.0001pt; background:white;'><font face='Helvetica, sans-serif'><span style='font-size:16px;'>Créé par <b>Infrastructure Manitoba</b>, <b>le réseau routier du Manitoba 2022</b> comprend quatre années de mises à jour.</span></font><br /></p>\n\n<p style='margin-top:12.0pt; margin-right:0cm; margin-bottom:0cm; margin-left:0cm; margin-bottom:.0001pt; background:white;'><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C;'>Les exportations précédentes étaient effectuées à\npartir des anciennes <b>unités de commande</b>. Dans cette nouvelle\nversion, le ministère a adapté le <b>système de référence linéaire </b>à\nl’aide d’une <b>méthode de référence linéaire </b>basée sur des <b>itinéraires</b>.\nCe nouveau modèle a été bâti à partir de la géométrie des unités de commande et\na été optimisé par l’ajout de la géométrie des routes du Nord saisie sur un\nsystème de localisation GPS ainsi que l’ajout des échangeurs, des bretelles de\nvirage à droite, des voies de desserte et des tracés routiers qui n’avaient pas\nété pris en compte dans les modèles antérieurs.</span></p>\n\n<p style='margin-top:12.0pt; margin-right:0cm; margin-bottom:12.0pt; margin-left:0cm; background:white;'><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C;'>Voici les champs prévus [<b>Titre </b>(Nom du champ) : <i>Description\ndu champ</i>.]</span></p>\n\n<ul>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>OBJECTID </span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>(OBJECTID) : <i>Un numéro de série\n     unique automatiquement généré par le système.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Identificateur de\n     route</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RouteId) : <i>L’identificateur\n     de la route, une information clé qui comprend notamment la désignation, le\n     nom et le type de la route.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Désignation de la\n     route</span></b><i><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> </span></i><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>(RteDesignation) :<i> L’ordre de\n     gouvernement responsable de la route.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Nom de la route</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RteName) :<i> Le nom de la\n     route, y compris sa direction.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Type de ro<span style='background:white;'> </span>ute</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (RteType) : <i>Le\n     type de la route : route provinciale à grande circulation, route\n     provinciale secondaire, route d’accès provinciale, etc.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Numéro de la route\n     (nombre algébrique)</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (Road_Number_Signed) : <i>Un\n     étiquetage numérique de la route.</i></span></li>\n <li><b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'>Indicateur de longueur</span></b><span style='font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif;'> (Shape__Length) : <i>La\n     longueur en mètres automatiquement générée par le système.</i></span></li>\n</ul>\n\n<p><br /></p>"
+  ],
+  "dct_identifier_sm": [
+    "ec158ec2a85e463ba0df10d86c216451",
+    "https://www.arcgis.com/home/item.html?id=ec158ec2a85e463ba0df10d86c216451"
+  ],
+  "dct_issued_s": "2023-06-29",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-road-network-2021\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Road Network 2021",
+  "gbl_mdModified_dt": "2023-07-26T19:18:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "68ccdd92-1291-5938-9d11-78e6ad765653",
+  "locn_geometry": "ENVELOPE(-102.20810913443735, -91.55851095148225, 58.8604815983006, 48.84984646120256)",
+  "schema_provider_s": "Data MB"
+}

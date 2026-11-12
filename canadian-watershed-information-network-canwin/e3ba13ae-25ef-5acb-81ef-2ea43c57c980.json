@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.3720193711, -59.7834467164, 83.301599683, 60.664946322)",
+  "dcat_keyword_sm": [
+    "CTD",
+    "DOM",
+    "Fluorescence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "This data set supplements manuscript **\"Temperature quenching of DOM fluorescence sensor: spatial variability of the temperature response in the ice-covered fjords of the Northern Canadian Arctic Archipelago Eddies in ice-covered fjords of the northern Canadian Arctic Archipelago\"** by Igor A. Dmitrenko, Colin A. Stedmon, David Capelle, Tonya Burgers, Sergei A. Kirillov, Rachel Mandryk, David G. Babb, Jens Ehn, and Dorthe Dahl-Jensen submitted to Journal of Geophysical Research: Oceans. \r\n\r\nUsing in situ observations in the Nansen Sound fiord system, we assessed the temperature quenching of DOM fluorescence subtracting a linear relationship with temperature for the Atlantic-derived water layer, where the terrestrial and Pacific-derived DOM fractions are weak or absent. After correcting for temperature quenching, DOM fluorescence has been used as an effective proxy for identifying water dynamics in the landfast ice-covered fjords of the Nansen Sound fiord system.\r\nData file is in ASCII format.\r\n\r\nThe data set consists of 49 CTD (conductivity-temperature-depth) and FCDOM (fluorescence of colored dissolved organic matter) profiles taken in the Nansen Sound fiord system between 7 and 25 May 2025 using snowmobiles and a Twin Otter aircraft operated on skis. Observations were carried out with a RBRconcerto3 CTD outfitted with a Seapoint FCDOM sensor for EX/EM = 370/460 nm. FCDOM vertical profiles were averaged with a 7-m moving window. CTD profiles were 1-meter binned."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1d39bb84-32aa-4c66-830c-bc44fef8db89"
+  ],
+  "dct_issued_s": "2026-05-13",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1d39bb84-32aa-4c66-830c-bc44fef8db89\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Marine",
+    "Cryosphere"
+  ],
+  "dct_title_s": "Oceanographic observations (CTD and DOM fluorescence) in the Nansen Sound fiord system of the eastern Canadian Arctic Archipelago in May 2025",
+  "gbl_mdModified_dt": "2026-06-19T15:43:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e3ba13ae-25ef-5acb-81ef-2ea43c57c980",
+  "locn_geometry": "ENVELOPE(-127.3720193711, -59.7834467164, 83.301599683, 60.664946322)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

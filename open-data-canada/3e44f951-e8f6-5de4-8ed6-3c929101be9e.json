@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "dcat_keyword_sm": [
+    "HRDPS",
+    "Government information",
+    "Forecast",
+    "Province of Manitoba",
+    "Weather Models",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées prévues par le HRDPS - 24 et 48 heures"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This feature layer showcases ultra-fine (2.5 km) short-range precipitation forecasts from the High Resolution Deterministic Prediction System (HRDPS), a convection-permitting model by Environment and Climate Change Canada. It identifies local-scale rainfall or snowfall patterns up to 48 hours, supporting urban flood forecasting, severe weather response, and detailed water resource planning.  \n  \n  Convection-Permitting: The HRDPS can explicitly resolve thunderstorms and other small-scale weather events by running at ~2.5 km. Short-Range Focus: Typically provides forecasts out to 36–48 hours, updated several times daily. Local Impact: Valuable for pinpointing high-impact precipitation in complex terrain or urban environments, aiding emergency managers and hydrologists in short-lead-time decisions. Nested Model: Receives lateral boundary conditions from RDPS, maintaining consistency with regional forecasts while refining detail in local domains.",
+    "Cette couche caractéristique présente les prévisions de précipitations à court terme ultrafines (2,5 km) provenant du Système de prévision déterministe à haute résolution (HRDPS), un modèle permettant la convection d'Environnement et Changement climatique Canada. Il identifie les régimes de précipitations ou de chutes de neige à l'échelle locale sur une période allant jusqu'à 48 heures, ce qui facilite la prévision des inondations urbaines, la réponse aux phénomènes météorologiques violents et la planification détaillée des ressources en eau.  \n  \n  Autorisation de convection : le HRDPS peut résoudre de manière explicite les orages et autres événements météorologiques à petite échelle en parcourant une distance d'environ 2,5 km. Objectif à court terme : fournit généralement des prévisions sur une période allant de 36 à 48 heures, mises à jour plusieurs fois par jour. Impact local : utile pour identifier les précipitations à fort impact sur des terrains complexes ou des environnements urbains, et aider les gestionnaires des urgences et les hydrologues à prendre des décisions à court terme. Modèle imbriqué : reçoit les conditions aux limites latérales du RDPS, en maintenant la cohérence avec les prévisions régionales tout en affinant les détails dans les domaines locaux.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/20cf1a52-3b09-5f08-d1ca-3694cb6e05e5"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/20cf1a52-3b09-5f08-d1ca-3694cb6e05e5\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "HRDPS Forecasted Accumulated Precipitation - 24 & 48 hrs",
+  "gbl_mdModified_dt": "2025-09-17T11:10:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3e44f951-e8f6-5de4-8ed6-3c929101be9e",
+  "locn_geometry": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Phytoplankton",
+    "cell density",
+    "Microscopy",
+    "time series"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mridul K., Thomas (Technical University of Denmark).",
+    "Simone, Fontana (Swiss Federal Institute for Forest, Snow and Landscape Research).",
+    "Marta, Reyes (Swiss Federal Institute of Aquatic Science and Technology).",
+    "Michael, Kehoe (University of Saskatchewan).",
+    "Francesco, Pomati (ETH Zurich)."
+  ],
+  "dct_description_sm": [
+    "Forecasting changes to ecological communities is one of the central challenges in ecology. However, nonlinear dependencies, biotic interactions and data limitations have limited our ability to assess how predictable communities are. We used a machine learning approach and environmental monitoring data (biological, physical and chemical) to assess the predictability of phytoplankton cell density in one lake across an unprecedented range of time scales. Communities were highly predictable over hours to months: model R2 decreased from 0.89 at 4 hours to 0.75 at 1 month, and in a long-term dataset lacking fine spatial resolution, from 0.46 at 1 month to 0.32 at 10 years. When cyanobacterial and eukaryotic algal cell density were examined separately, model-inferred environmental growth dependencies matched laboratory studies, and suggested novel trade-offs governing their competition. High-frequency monitoring and machine learning can help elucidate the mechanisms underlying ecological dynamics and set prediction targets for process-based models."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.r4454",
+    "https://doi.org/10.5061/dryad.r4454"
+  ],
+  "dct_issued_s": "2019-01-26",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.r4454\"}",
+  "dct_spatial_sm": [
+    "Greifensee",
+    "Switzerland"
+  ],
+  "dct_title_s": "Data from: The predictability of a lake phytoplankton community, over time-scales of hours to years",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "019a68d6-9330-50b8-9413-7ae0c4651dcb",
+  "schema_provider_s": "Dryad"
+}

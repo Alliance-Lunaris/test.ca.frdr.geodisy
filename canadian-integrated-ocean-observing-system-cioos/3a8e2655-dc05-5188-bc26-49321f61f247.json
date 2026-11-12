@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "eddy viscosity",
+    "other",
+    "courant marin",
+    "modelResult",
+    "Courants sous-marins",
+    "eddy diffusivity",
+    "sea currents",
+    "ocean model",
+    "Autre",
+    "subSurfaceCurrents"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Salish Sea NEMO Modèle (vert) Horaire 3D W-vélocity v19-05"
+  ],
+  "dct_creator_sm": [
+    "Allen, Susan (UBC EOAS)."
+  ],
+  "dct_description_sm": [
+    "Variable values at the 3d vertical (w) component velocity grid points averaged over 1 hour intervals\nfrom Salish Sea NEMO model runs with physics, biology and chemistry. The values are calculated for the entire model grid that includes the Juan de Fuca Strait, the Strait of Georgia, Puget Sound,\nand Johnstone Strait on the coasts of Washington State and British Columbia.\nThe time values are UTC. They are the centre of the intervals over which the calculated model results are averaged. Geo-location and depth data for the Salish Sea NEMO model grid are available in the ubcSSnBathymetryV17-02 dataset.",
+    "Valeurs aux points de la grille de vitesse de la composante 3d verticale (w) calculées sur des intervalles d'une heure\ndu modèle NEMO de la mer des Salish avec les composantes physique, biologique et la chimique. Les valeurs sont calculées pour l'ensemble de la grille du modèle qui comprend le détroit de Juan de Fuca, le détroit de Georgia, Puget Sound,\net le détroit de Johnstone sur les côtes de l'État de Washington et de la Colombie-Britannique.\nLes valeurs temporelles sont UTC. Ils constituent le centre des intervalles sur lesquels les résultats calculés du modèle sont calculés. Les données de géolocalisation et de profondeur de la grille modèle NEMO de la mer des Salish sont disponibles dans l'ensemble de données UBCSSnbathymetryV17-02."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/fceabd66-56c4-4f8d-a14e-4fa7b125b5cd"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/fceabd66-56c4-4f8d-a14e-4fa7b125b5cd\"}",
+  "dct_rights_sm": [
+    "Apache License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0"
+  ],
+  "dct_title_s": "Salish Sea NEMO Model (Green) Hourly 3D W-velocity v19-05",
+  "gbl_mdModified_dt": "2026-09-16T20:42:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3a8e2655-dc05-5188-bc26-49321f61f247",
+  "locn_geometry": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

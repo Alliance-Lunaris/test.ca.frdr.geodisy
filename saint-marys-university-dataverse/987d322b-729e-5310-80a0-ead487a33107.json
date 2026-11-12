@@ -1,0 +1,35 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Matsumoto, Patricia (Saint Mary's University). ORCID: https://orcid.org/0000-0001-7205-7557"
+  ],
+  "dct_description_sm": [
+    "This dataset contains scripts and derived outputs used to identify and quantify intact forests and natural ecosystems in Nova Scotia, Canada. The workflows implement a regional adaptation of the intact forest landscape concept (Potapov et al. 2008) using fine-scale provincial forest inventory data and multiple disturbance datasets.\n\nThe scripts automate geospatial processing steps, including forest selection, disturbance removal, minimum bounding geometry analysis, area, width, and length threshold filtering, shape complexity calculations, and spatial overlap analyses with protected areas. Analyses were conducted across multiple area thresholds to reflect varying ecological scales relevant to wildlife movement and landscape connectivity.\n\nAll spatial analyses were performed in ArcGIS Pro using ArcPy and projected to EPSG 22820. The dataset supports full reproducibility of the results presented in the associated manuscript.\n\nThis dataset is part of a manuscript currently under review entitled “Adapting the intact forest landscape concept to regional contexts in Nova Scotia, Canada”.\n\nReference\n\nPotapov, P., Yaroshenko, A., Turubanova, S., Dubinin, M., Laestadius, L., Thies, C., Aksenov, D., et al. 2008. Mapping the world’s intact forest landscapes by remote sensing. <i>Ecology and Society</i> 13(2):51."
+  ],
+  "dct_identifier_sm": [
+    "1017311",
+    "https://doi.org/10.5683/SP3/9ARPMQ"
+  ],
+  "dct_issued_s": "2025-12-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/9ARPMQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Intact forests and natural ecosystems in Nova Scotia, Canada",
+  "gbl_mdModified_dt": "2025-12-19T16:58:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "987d322b-729e-5310-80a0-ead487a33107",
+  "schema_provider_s": "Saint Mary's University Dataverse"
+}

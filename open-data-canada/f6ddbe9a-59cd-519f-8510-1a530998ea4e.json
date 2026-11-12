@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of the boundaries of parks and green spaces in the city.\n\n**Collection context**\n Notice of integration or official changes issued by legal services.\nLimits managed through regulatory processes.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_PRC_LIMITE` (`integer`): Identifier\n* `NAME` (`varchar`): Name\n* `INDEX_NAME` (`varchar`): Name index\n* `AREA` (`numeric`): Area\n* `PERIMETER` (`numeric`): Perimeter\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `QUARTIER_TR` (`varchar`): Neighborhood\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "COuche polygonale des limites de parcs et espaces verts de la ville.\n\n**Contexte de collecte**\n Avis d'intégration ou de modifications officiels émis par les services juridiques.\nLimites gérées par des processus règlementaires.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_PRC_LIMITE` (`integer`) : Identifiant\n* `NOM` (`varchar`) : Nom\n* `NOM_INDEX` (`varchar`) : Index de nom\n* `SUPERFICIE` (`numeric`) : Superficie\n* `PERIMETRE` (`numeric`) : Périmètre\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREATION` (`smalldatetime`) : Créé le\n* `DATE_MODIFICATION` (`smalldatetime`) : Modifié le\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `QUARTIER_TR` (`varchar`) : Quartier\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8a9fb232-2c36-4ef5-a466-94a688651fbd"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8a9fb232-2c36-4ef5-a466-94a688651fbd\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Limites des parcs - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:10:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f6ddbe9a-59cd-519f-8510-1a530998ea4e",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

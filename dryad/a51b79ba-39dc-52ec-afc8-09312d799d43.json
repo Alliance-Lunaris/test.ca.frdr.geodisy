@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Pool-Seq",
+    "Homarus americanus",
+    "Marine genomics",
+    "Homarus",
+    "Rapture"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yann, Dorant (Université Laval).",
+    "Laura, Benestan (Université Laval).",
+    "Quentin, Rougemont (Université Laval, Centre d'Écologie Fonctionnelle et Évolutive).",
+    "Eric, Normandeau (Université Laval).",
+    "Brian, Boyle (Université Laval).",
+    "Rémy, Rochette (University of New Brunswick).",
+    "Louis, Bernatchez (Université Laval, Direction de la faune aquatique; Ministère du Développement durable, de l'Environnement, de la Faune et des Parcs; Québec Québec Canada G1S 4X4, Dalhousie University)."
+  ],
+  "dct_description_sm": [
+    "Unraveling genetic population structure is challenging in species potentially characterized by large population size and high dispersal rates, often resulting in weak genetic differentiation. Genotyping a large number of samples can improve the detection of subtle genetic structure, but this may substantially increase sequencing cost and downstream bioinformatics computational time. To overcome this challenge, alternative, cost‐effective sequencing approaches, namely Pool‐seq and Rapture, have been developed. We empirically measured the power of resolution and congruence of these two methods in documenting weak population structure in nonmodel species with high gene flow comparatively to a conventional genotyping‐by‐sequencing (GBS) approach. For this, we used the American lobster (Homarus americanus) as a case study. First, we found that GBS, Rapture, and Pool‐seq approaches gave similar allele frequency estimates (i.e., correlation coefficient over 0.90) and all three revealed the same weak pattern of population structure. Yet, Pool‐seq data showed FST estimates three to five times higher than GBS and Rapture, while the latter two methods returned similar FST estimates, indicating that individual‐based approaches provided more congruent results than Pool‐seq. We conclude that despite higher costs, GBS and Rapture are more convenient approaches to use in the case of species exhibiting very weak differentiation. While both GBS and Rapture approaches provided similar results with regard to estimates of population genetic parameters, GBS remains more cost‐effective in project involving a relatively small numbers of genotyped individuals (e.g., <1,000). Overall, this study illustrates the complexity of estimating genetic differentiation and other summary statistics in complex biological systems characterized by large population size and migration rates."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.64f7982",
+    "https://doi.org/10.5061/dryad.64f7982"
+  ],
+  "dct_issued_s": "2019-05-29",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.64f7982\"}",
+  "dct_spatial_sm": [
+    "Canada",
+    "Canada North East Atlantic",
+    "North East Atlantic"
+  ],
+  "dct_title_s": "Data from: Comparing pool‐seq, rapture, and GBS genotyping for inferring weak population structure: the American lobster (Homarus americanus) as a case study",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a51b79ba-39dc-52ec-afc8-09312d799d43",
+  "schema_provider_s": "Dryad"
+}

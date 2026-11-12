@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.22001157938415, -79.5315350168842, 43.95682487214281, 43.45449765021975)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "imagery",
+    "remote sensing",
+    "photo",
+    "Boundaries",
+    "digital",
+    "air",
+    "aerial imagery",
+    "image",
+    "orthoimagery",
+    "raster",
+    "2020"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<p>Orthoimagery is foundational to mapping work.&nbsp; It's used to create data, perform analysis, mapping, management of resources, planning, and as background data in maps. Use the link in <b>Available products</b>&nbsp;to download or see the <b>Access to the data</b> section below to get a download link.</p>\n\n<h4>Available products</h4>\nOrthorectified mosaics – full resolution images (15cm) in lossless MrSID format:\n<ul>\n<li>Brampton +1km buffer - 2.8 Gigabytes</li>\n<li>Caledon +1km buffer - 5.7 Gigabytes</li>\n<li>Mississauga +1km buffer - 3.2 Gigabytes</li>\n<li><b><a href='https://get.orthoimage.download/2037PEEL_15cm_2020.zip' target='_blank' rel='nofollow ugc noopener noreferrer'>Peel Region +1km buffer&nbsp;- 10.4 Gigabytes</a>&nbsp;(self-serve download link)</b></li>\n</ul>\n<h4>Data specifications</h4>\n<ul>\n<li>Spatial resolution - 15cm</li>\n<li>Acquisition dates: April 6 (Mississauga); May 22, 31; June 1 2020</li>\n<li>Image format: Lossless MrSID</li>\n<li>Bands: 3-band rendered RGB</li>\n<li>Canopy coverage: leaf-off (Mississauga), leaf-on (Brampton, Caledon)</li><li>Projection: NAD 1983 UTM Zone 17N (EPSG: 26917)</li><li>Horizontal/vertical accuracy: ±20cm</li><li>Collection contractor:&nbsp;<a href='https://www.firstbasesolutions.com/' target='_blank' rel='nofollow ugc noopener noreferrer'>First Base Solutions Inc.</a></li>\n</ul>\n<h4>Access to the data</h4>\n<p>Due to the large size of the dataset, only the Peel Region mosaic is available for self-serve download.&nbsp; Otherwise, access is provided upon request.&nbsp; The only method of access will be by download.</p>\n<p><b>To receive a download link</b>, please contact&nbsp;<a href='mailto:peeldatacentre@peelregion.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>peeldatacentre@peelregion.ca</a>.&nbsp; In your email, make sure you tell us that you're looking for orthoimagery and what year&nbsp;you're looking to download.</p>\n<h5>Years currently available</h5>\n<ul>\n<li>2020 Orthoimagery - 15 centimetre</li>\n<li><a href='https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2021/about' rel='nofollow ugc'>2021 Orthoimagery - 7.5 centimetre</a></li>\n<li><a href='https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2022/about' rel='nofollow ugc'>2022 Orthoimagery - 7.5 centimetre</a></li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "1be6a99c9b894ee39d0d579795d10dd0",
+    "https://www.arcgis.com/home/item.html?id=1be6a99c9b894ee39d0d579795d10dd0"
+  ],
+  "dct_issued_s": "2022-09-19",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2020\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Peel Orthoimagery 2020",
+  "gbl_mdModified_dt": "2023-06-28T15:57:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6367480d-2bf8-52f6-b8c2-c8129f6a4e32",
+  "locn_geometry": "ENVELOPE(-80.22001157938415, -79.5315350168842, 43.95682487214281, 43.45449765021975)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

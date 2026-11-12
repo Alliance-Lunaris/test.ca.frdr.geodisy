@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "dcat_keyword_sm": [
+    "Magdalen Islands",
+    "Local ecological knowledge",
+    "Oceans",
+    "Hareng de l’Atlantique",
+    "Spawn",
+    "Pêche",
+    "Spring",
+    "Atlantic Herring",
+    "Îles de la Madeleine",
+    "Marine conservation",
+    "Pêcheries",
+    "Fraie",
+    "Printemps",
+    "Océan",
+    "Conservation marine",
+    "Fisheries",
+    "Fishery",
+    "Clupea harengus",
+    "Savoirs écologiques locaux",
+    "Clupea harengus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Zones d’importance du hareng de printemps aux Îles de la Madeleine"
+  ],
+  "dct_creator_sm": [
+    "Benjamin Grégoire."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données cartographiques portant sur les zones d'importance du hareng de printemps aux Îles de la Madeleine a été produit par Pêches et Océans Canada (MPO) et le Comité ZIP des Îles-de-la-Madeleine, dans le cadre des travaux de caractérisation du refuge marin des lagunes des Îles de la Madeleine. L’initiative avait pour but de documenter les connaissances écologiques de pêcheurs à propos du hareng de printemps, dont les zones de bonnes pêches et les sites de fraie autour de l’archipel.\n\nLes données proviennent d'entretiens réalisés entre janvier et avril 2024 auprès des pêcheurs les plus expérimentés de l’archipel. Au cours des entrevues, les participants ont identifié directement sur des cartes numériques les emplacements associés à quatre types d’observations réalisées au fil de leur carrière : \n\n     • Question 8 — Les sites de bonnes pêches; \n     • Question 9 — D’autres observations de concentrations élevées de la ressource;\n     • Question 13a — Les zones de fraie et;\n     • Question 13b — D’autres observations de signes de fraie. \n\nPour faciliter la mise en contexte temporelle, une chronologie en quatre périodes (avant 1996, 1996‑2002, 2003‑2006 et 2007‑2021) a été utilisée.\n\nLe produit final est un GeoPackage (.gpkg) contenant 16 couches vectorielles, soit quatre couches par type d’observation, chacune correspondant à l’une des périodes temporelles définies. Les polygones ont été classés selon le nombre de pêcheurs ayant signalé chaque emplacement, ce qui permet d’évaluer le degré de chevauchement et l’importance relative des zones au fil du temps. Les données sont projetées en NAD83 / MTM zone 4.\n\nPour plus d’information sur la méthodologie et les données, consulter Burbank et al. (2025). Des informations complémentaires, spécifiques aux lagunes des Îles-de-la-Madeleine, sont présentées dans Grégoire et al. (2026).",
+    "This cartographic dataset of areas of importance for spring herring in the Magdalen Islands was produced by Fisheries and Oceans Canada (DFO) and the Magdalen Islands ZIP Committee, as part of the work to characterize the Magdalen Islands Lagoons Marine Refuge. The initiative aimed to document fishermen's ecological knowledge of spring herring, including good fishing areas and spawning grounds around the archipelago.\n\nThe data comes from interviews conducted between January and April 2024 with the most experienced fishermen in the archipelago. During the interviews, participants identified directly on digital maps the locations associated with four types of observations made throughout their careers: \n\n     • Question 8 —  Good fishing sites; \n     • Question 9 — Other observations of high concentrations of the resource; \n     • Question 13a — Spawning areas and;\n     • Question 13b — Other observations of signs of spawning. \n\nTo facilitate temporal contextualization, a four-period timeline (before 1996, 1996-2002, 2003-2006, and 2007-2021) was used.\n\nThe final product is a GeoPackage (.gpkg) containing 16 vector layers composed of four layers per observation type, each corresponding to one of the defined time periods. The polygons were classified according to the number of fishermen who reported each location, making it possible to assess the degree of overlap and the relative importance of the areas over time. The data are projected in NAD83 / MTM zone 4.\n\nFor more information on the methodology and data, see Burbank et al. (2025). Additional information specific to the Magdalen Islands lagoons is presented in Grégoire et al. (2026)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1bab335e-2f3f-4469-98f4-dd10e81c4d30"
+  ],
+  "dct_issued_s": "2026-03-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1bab335e-2f3f-4469-98f4-dd10e81c4d30\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Areas of importance for spring herring in the Magdalen Islands",
+  "gbl_mdModified_dt": "2026-05-15T17:00:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "640aae02-aec1-5f7f-a59c-e6dc70a88951",
+  "locn_geometry": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "schema_provider_s": "Open Data Canada"
+}

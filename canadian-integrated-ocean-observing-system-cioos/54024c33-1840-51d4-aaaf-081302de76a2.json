@@ -1,0 +1,66 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.0, -60.0, 49.0, 41.0)",
+  "dcat_keyword_sm": [
+    "mammalia",
+    "balaenidae",
+    "cetacea",
+    "cetacea",
+    "oceans",
+    "animal-behaviour",
+    "abondance-et-distribution-de-tortues-marines-oiseaux-et-mammiferes",
+    "balaenidae",
+    "abondance-et-biomasse",
+    "eubalaena-glacialis",
+    "marine-mammal",
+    "marineturtlesbirdsmammalsabundanceanddistribution",
+    "oceansound",
+    "eubalaena",
+    "animalia",
+    "chordata",
+    "mammalia",
+    "eubalaena-glacialis",
+    "animalia",
+    "paysage-acoustique-des-oceans",
+    "mammiferes-marins",
+    "chordata",
+    "comportement-animal",
+    "abundance-and-biomass",
+    "eubalaena"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Enregistrements acoustiques des appels de baleines noires de l'Atlantique Nord dans le golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Simard, Yvan (Department of Fisheries and Oceans).",
+    "Kirsebom, Oliver (Dalhousie University).",
+    "Frazao, Fabio (Dalhousie University).",
+    "Roy, Nathalie (Fisheries and Oceans Canada).",
+    "Matwin, Stan (Dalhousie University).",
+    "Giard, Samuel (Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "The acoustic data were collected between 2015 and 2019 at six stations in the southern Gulf of St. Lawrence using two different deployment configurations. The dataset also includes audio samples from the Gulf of Maine recorded in 2009, which were part of the DCLDE 2013 Challenge dataset (https://soi.st-andrews.ac.uk/static/soi/dclde2013/documents/WorkshopDataset2013.pdf).\n\nThe acoustic data are supplemented by expert annotations indicating the presence/absence of North Atlantic right whale upcalls. Spectrogram images are also provided.\n\nThese data have been used to train a deep neural network to detect North Atlantic right whale upcalls, as described in the article \"Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls\" by Kirsebom, Frazao, Simard, Roy, Matwin, and Giard (doi:10.1121/10.0001132), which also contains a detailed description of the data.\n\nThe software developed as part of this work is available on Zenodo (doi:10.5281/zenodo.3736625) under a GPLv3 license. This includes Python scripts for building training and test datasets, computing signal-to-noise ratios, visualizing spectrograms, training the deep neural network, and using the network to analyze continuous audio recordings.",
+    "Les données acoustiques ont été recueillies entre 2015 et 2019 dans six stations du sud du golfe du Saint-Laurent en utilisant deux configurations de déploiement différentes. L'ensemble de données comprend également des échantillons audio du golfe du Maine enregistrés en 2009, qui faisaient partie de l'ensemble de données du DCLDE 2013 Challenge (https://soi.st-andrews.ac.uk/static/soi/dclde2013/documents/WorkshopDataset2013.pdf).\n\nLes données acoustiques sont complétées par des annotations d'experts indiquant la présence/l'absence d'appels de baleines noires de l'Atlantique Nord. Des images de spectrogramme sont également fournies.\n\nCes données ont été utilisées pour entraîner un réseau neuronal profond afin de détecter les appels entrants de baleines noires de l'Atlantique Nord, comme décrit dans l'article « Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls » de Kirsebom, Frazao, Simard, Roy, Matwin et Giard (doi:10.1121/10.0001132), qui contient également une description détaillée des données.\n\nLe logiciel développé dans le cadre de ce travail est disponible sur Zenodo (doi:10.5281/zenodo.3736625) sous licence GPLv3. Cela inclut des scripts Python pour créer des ensembles de données d'entraînement et de test, calculer des rapports signal/bruit, visualiser des spectrogrammes, entraîner le réseau neuronal profond et utiliser le réseau pour analyser des enregistrements audio en continu."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/3c066a88-14f6-4a04-b555-18e02faf47b9"
+  ],
+  "dct_issued_s": "2020-04-24",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/3c066a88-14f6-4a04-b555-18e02faf47b9\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Acoustic recordings of North Atlantic right whale upcalls in the Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-04T17:27:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "54024c33-1840-51d4-aaaf-081302de76a2",
+  "locn_geometry": "ENVELOPE(-71.0, -60.0, 49.0, 41.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

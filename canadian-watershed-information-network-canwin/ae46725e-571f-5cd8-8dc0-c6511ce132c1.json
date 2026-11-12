@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data publication contains a set of files in which areas affected by fire or by harvest from 1984 to 2015 are identified at the level of individual 30m pixels on the Landsat grid. Details of the product development can be found in Guindon et al (2018).    \n  \n    \n  \n  The change detection is based on reflectance-corrected yearly summer (July and August) Landsat mosaics from 1984 to 2015 created from individual scenes developed from USGS reflectance products  (Masek et al, 2006; Vermote et al, 2006). Briefly, the change detection method uses a six-year temporal signature centered on the disturbance year to identify fire, harvest and no change.  The signatures were derived from visually-interpreted disturbance or no-change polygons that were used to fit a decision tree model.    \n  \n    \n  \n  The method detects about 91% of the areas harvested and 85% of the areas burned across Canada’s forests over the study period, but overestimates areas disturbed in the two initial and mostly in the two final years of the 1985 to 2015 time series. This is caused by the absence of appropriate pre-disturbance and post-disturbance data for the model-based detection and attribution.  Disturbance coverage in those four years should therefore be used with caution. As in Guindon et al (2014), the method was designed to minimize commission errors and has a disturbance class attribution success rate of about 98%. The attribution success rate of disturbance year for fire is of about 69% for the exact year and of about 99% when attribution to the following year is also considered as a success.  This common one-year lag is mostly due to the use of mid-summer Landsat mosaics for the analysis that will cause spring and fall events of the same year to be attributed to successive years. For example, a fire that occurred in the fall of 2004 (after July and August), will be detected and attributed to 2005, while for a fire that occurred in the spring of 2004 will be detected and attributed to 2004.  The presence of clouds and shadows or image availability causes 10% of missing data annually and therefore can too delay the capture of events.     \n  \n    \n  \n  The data provides uniform spatial and temporal information on fire and harvest across all provinces and territories of Canada and is intended for strategic-level analysis. Since no attention was given to other minor disturbances such as mining, road or flooding, the product should not be used for their identification. Finally, calibration datasets were developed for only three major forest pests (mountain pine beetle, eastern spruce budworm and forest tent caterpillar), but were folded within the “no-change” class in order to minimize commission errors for fire and harvest .  Less common pests for which validation datasets are hard to develop were not considered and therefore could in rare circumstances generate false fire events.    \n  \n    \n  \n  Considering that area having two (3.3%) to three disturbances (less than 1%) events are not common, only the most recent disturbance is provided, overlapping older disturbances in these rare case.    \n  \n    \n  \n  ## Please cite this dataset as:     \n  \n    \n  \n  Guindon, L., P. Villemaire, R. St-Amant, P.Y. Bernier, A. Beaudoin, F. Caron, M. Bonucelli and H. Dorion. 2017. Canada Landsat Disturbance (CanLaD): a Canada-wide Landsat-based 30-m resolution product of fire and harvest detection and attribution since 1984.  https://doi.org/10.23687/add1346b-f632-4eb9-a83d-a662b38655ad    \n  \n    \n  \n  ## Scientific article citation:    \n  \n    \n  \n  The creation, validation and limitations of the CanLaD product are described in the Supplementary Material file associated with the following article: Guindon, L.; Bernier, P.Y.; Gauthier, S.; Stinson, G.; Villemaire, P.; Beaudoin, A. 2018. Missing forest cover gains in boreal forests explained. Ecosphere, 9 (1) Article e02094. doi:10.1002/ecs2.2094.    \n  \n    \n  \n  ## Cited references:    \n  \n    \n  \n  Masek, J.G., Vermote, E.F., Saleous N.E., Wolfe, R., Hall, F.G., Huemmrich, K.F., Gao, F., Kutler, J., and Lim, T-K. (2006). A Landsat surface reflectance dataset for North America, 1990–2000. IEEE Geoscience and Remote Sensing Letters 3(1):68-72. http://dx.doi.org/10.1109/LGRS.2005.857030.    \n  \n    \n  \n  Vermote, E., Justice, C., Claverie, M., & Franch, B. (2016). Preliminary analysis of the performance of the Landsat 8/OLI land surface reflectance product. Remote Sensing of Environment. http://dx.doi.org/10.1016/j.rse.2016.04.008."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/add1346b-f632-4eb9-a83d-a662b38655ad"
+  ],
+  "dct_issued_s": "2018-01-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/add1346b-f632-4eb9-a83d-a662b38655ad\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Landsat Disturbance (CanLaD) 2017",
+  "gbl_mdModified_dt": "2020-12-09T18:27:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae46725e-571f-5cd8-8dc0-c6511ce132c1",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

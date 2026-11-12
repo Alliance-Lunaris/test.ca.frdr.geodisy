@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.4363685, -122.1510673, 52.3268647, 52.1247759)",
+  "dcat_keyword_sm": [
+    "Change Detection",
+    "DEM",
+    "LiDAR",
+    "Erosion",
+    "Geomorphology",
+    "DEM of Difference"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Young, Mason (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfires remove vegetation and alter soil conditions resulting in increased susceptibility of ground surfaces to erosion, especially over periods of heavy precipitation. Geomorphic changes that are influenced by wildfire occurrence can evolve into hazardous natural events like landslides and flows that pose the risk of human fatality and costly infrastructural damage. We compare light detection and ranging (LiDAR) data time series to identify and compare landscape geomorphic change in burned and unburned areas in the William’s Lake area of the Cariboo Region of British Columbia following the 2017 wildfires. To identify pre and post-fire changes we interpolate the LiDAR data into digital elevation models (DEMs) and generate DEMs of difference. We stratify the changes by areal size, slope class, and burn severity. With this information, we compare event occurrence between burn severity using a negative binomial regression followed by an ad-hoc pairwise comparison test. The results did not support our hypothesis that higher burn severities would have significantly greater evidence of geomorphic change occurrence across event size and slope class. The majority of the significant pairs were between the unburned and burned classes with 17 significant relationships, while there was only one significant relationship between the burn classes (low, medium, and high). On the steepest slopes (35° >), there were no significant relationships across the size classes, possibly due to a lack of initial vegetation. By characterizing the differences in geomorphic event occurrence between burn severities we can better understand the impact that wildfires can have on geomorphic change. This could lead to improvements in post-wildfire hazard and risk assessments and may induce amendments to the current assessment methodology in British Columbia."
+  ],
+  "dct_identifier_sm": [
+    "156381_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/EL6X3T"
+  ],
+  "dct_issued_s": "2021-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/EL6X3T\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Using Repeat-Pass Light Detection and Ranging (LiDAR) Data to Compare Wildfire Induced Geomorphic Change Across Different Burn Severities in the Cariboo Region, British Columbia",
+  "gbl_mdModified_dt": "2021-04-17T18:06:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe583b55-7e5a-581a-8ade-d5903ecdc0ce",
+  "locn_geometry": "ENVELOPE(-122.4363685, -122.1510673, 52.3268647, 52.1247759)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.37, -122.22, 54.48, 48.11)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal climatologies of the Canadian Pacific Exclusive Economic Zone (CPEEZ)  were computed from a numerical simulation of the British Columbia continental margin (BCCM) model for the 1981 to 2010 period, which can be considered as a representation of the climatological state of the region. \n\nMethods:\nThe BCCM model is an ocean circulation-biogeochemical model implementation of the Regional Ocean Modelling System (ROMS version 3.5). The horizontal resolution is eddy-resolving at 3 km and the vertical discretization is based on a terrain-following coordinate system with 42 depth levels of increasing resolution near the surface. A detailed description of the BCCM model is given in Peña et al. (2019). Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March. The data available here contain raster layers of seasonal climatology of temperature, salinity, current speed, nitrate, oxygen, total alkalinity, dissolved inorganic carbon, pH, aragonite saturation state, phytoplankton, and primary production. The data include 47 vertical levels (surface, bottom, and 45 more selected depths), except for total phytoplankton (surface values only) and primary production (depth-integrated values). A layer giving the bottom depth in metres at the centre of each grid point is also provided. Model grids were set to NaN values in regions where the model output is highly uncertain, such as inlets, nearshore areas, and the Strait of Georgia.\n\nUncertainties:\nModel results have been compared against tide gauge data, altimetry, CTD and nutrient profiles, observed geostrophic currents, and seasonal temperature and salinity climatologies over the 1981 to 2010 period. The model is successful in reproducing the main features of the region including salient features of the seasonal cycle and the vertical structure of density and nutrients."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1084a522-c2dd-47a0-81ac-d4810ce29056"
+  ],
+  "dct_issued_s": "2021-08-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1084a522-c2dd-47a0-81ac-d4810ce29056\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seasonal Climatologies of the Canadian Pacific Exclusive Economic Zone from British Columbia Continental Margin (BCCM) Model (1981-2010)",
+  "gbl_mdModified_dt": "2026-03-24T09:06:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2b7dafdb-0ae1-5214-8485-71e9121f0044",
+  "locn_geometry": "ENVELOPE(-140.37, -122.22, 54.48, 48.11)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

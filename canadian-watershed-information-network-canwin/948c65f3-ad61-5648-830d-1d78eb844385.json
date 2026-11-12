@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-145.0, -125.5, 50.0, 48.575)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Climatological monthly-mean temperature and salinity data were computed for each of the 27 Line P stations (https://www.dfo-mpo.gc.ca/science/data-donnees/line-p/index-eng.html). For any particular station, data were accepted as belonging to that station if the location was within 10 km of the intended station (or 24km at Ocean Station Papa, P26). Data were binned by month/year over all available data for each station up to and including 2012. Hence the time interval that the mean state was computed from starts between 1956 and 1960 and ends at the end of 2012. Standard deviations were computed for each month independently and at each 5-m depth bin and were estimated as the variability between different years for the month in question."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d12fbdea-4a96-4185-be93-30b39c635b14"
+  ],
+  "dct_issued_s": "2021-05-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d12fbdea-4a96-4185-be93-30b39c635b14\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Line P Climatology (1956-2012)",
+  "gbl_mdModified_dt": "2026-03-24T08:11:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "948c65f3-ad61-5648-830d-1d78eb844385",
+  "locn_geometry": "ENVELOPE(-145.0, -125.5, 50.0, 48.575)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

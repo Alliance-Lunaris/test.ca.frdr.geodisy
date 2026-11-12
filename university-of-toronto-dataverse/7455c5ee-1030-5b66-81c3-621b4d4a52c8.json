@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "waste management",
+    "geographic data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Marcel Fortin (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides point data showing active and inactive waste disposal sites in Ontario as of 1990, digitized from paper maps in the Ontario Ministry of the Environment publication \"Waste Disposal Site Inventory\"(1991).\r\nFor each UTM zone there is a shapefile for inactive sites and a shapefile for active sites. Layer-specific metadata is included in .xml format in each ZIP file.\r\n\r\nDatum: NAD83\r\nProjection: UTM zones 15, 16, 17, 18"
+  ],
+  "dct_identifier_sm": [
+    "80635_36",
+    "https://doi.org/10.5683/SP2/EWHM0Y"
+  ],
+  "dct_issued_s": "2022-04-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/EWHM0Y\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Historical Waste Disposal Site Inventory",
+  "gbl_mdModified_dt": "2022-04-27T20:50:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7455c5ee-1030-5b66-81c3-621b4d4a52c8",
+  "pcdm_memberOf_sm": [
+    "Map & Data Library Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

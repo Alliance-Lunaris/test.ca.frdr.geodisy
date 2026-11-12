@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.37817140709242, -88.17017555558547, 60.065995970299326, 48.70128379622876)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "boundary",
+    "Canada",
+    "Government",
+    "Government of Manitoba",
+    "Province of Manitoba",
+    "Manitoba",
+    "provincial",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "A feature layer of Manitoba's provincial boundaries:<div><ul><li>Manitoba/Ontario boundary,<br /></li><li>Manitoba/Saskatchewan boundary,<br /></li><li>Manitoba/Nunavut boundary,<br /></li><li>International boundary.<br /></li></ul></div><div><br /></div><div>Excluding the International Boundary, the graphical data was computed from original boundary survey measurements published in respective official boundary commission reports using least squares adjustment software &quot;Manor&quot;. The adjustments were constrained to known NAD83 [nmip94 adj.] federal/provincial boundary marker positions. For the International Boundary, the graphics were created by converting the official published NAD27 marker positions for the boundary into NAD83 using datum conversion software NTv2 and interconnecting the plotted marker positions with straight lines using CARIS map software.</div><div><br /></div><div><div>The purpose is to provide end users with a digital map of Manitoba's boundaries.  This data layer is suitable for most medium and small scale digital map applications as well as GIS georeferencing in general.</div></div><div><br /></div><div>This Manitoba provincial boundary was originally published on January 12, 2004.  It was uploaded to Manitoba Maps as a feature layer on December 15, 2016.</div><div><br /></div><div><span style='text-decoration: underline;'>Use Constraints:</span></div><div>The Hudson Bay shoreline for this product was taken from 1:500,000 scale digital mapping and is intended for generalized small scale mapping of this portion of the provincial boundary. Estimated accuracy if plus or minus 125m.<br /></div><div><br /></div><div><u>Fields Included:</u></div><div>FID: Sequential unique whole numbers that are automatically generated,</div><div>AREA: GIS area in square-metres calculated in the NAD83 Universal Transverse Mercator Zone 14 coordinate system,</div><div>PERIMETER: GIS perimeter in metres calculated in the NAD83 Universal Transverse Mercator Zone 14 coordinate system,</div><div>NAME: province name</div>"
+  ],
+  "dct_identifier_sm": [
+    "ed39fb5989bc41bcb4b102f8ea899abf",
+    "https://www.arcgis.com/home/item.html?id=ed39fb5989bc41bcb4b102f8ea899abf"
+  ],
+  "dct_issued_s": "2016-12-15",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-provincial-boundary\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Provincial Boundary",
+  "gbl_mdModified_dt": "2026-05-08T14:11:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3f5e7eae-0976-530d-b32a-c83098de5bc5",
+  "locn_geometry": "ENVELOPE(-102.37817140709242, -88.17017555558547, 60.065995970299326, 48.70128379622876)",
+  "schema_provider_s": "Data MB"
+}

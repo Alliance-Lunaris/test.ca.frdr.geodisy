@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.817037, -123.766887, 49.137206, 49.122097)",
+  "dcat_keyword_sm": [
+    "least-cost path analysis",
+    "wildfire",
+    "evacuation planning",
+    "Mudge Island",
+    "Spatial planning",
+    "evacuation modeling"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chisale, Agness (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfire evacuation planning is especially challenging for small island communities with limited  infrastructure and access to the mainland. This study assessed optimal evacuation routes on Mudge  Island, British Columbia, by applying a Geographic Information System (GIS) based least cost analysis to connect residential structures with designated marine evacuation docks. The analysis integrated terrain slope, landcover and road proximity, reclassified into movement cost categories \nand combined into a weighted cost surface using weights of 10%, 30% and 60%. Distance accumulation modeling was then performed using dock locations as destinations, and one optimal evacuation route was delineated for each residential structure. Results indicated that road proximity had the greatest influence on route formation, with most evacuation paths aligning closely with existing road networks. Coastal residences exhibited evacuation costs lower than those of interior homes, highlighting the island’s central region as the area of highest evacuation vulnerability. These findings demonstrate that spatially explicit evacuation modeling can be \neffectively implemented in small, resource limited contexts using freely available geospatial data. The study provided a reproducible framework that can support data driven evacuation planning in other remote communities exposed to wildfire threats, thereby advancing the broader goal of community-scale resilience in hazard prone environments"
+  ],
+  "dct_identifier_sm": [
+    "1145294_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/U8WSW6"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/U8WSW6\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Mudge Island, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "GIS-Based Least Cost Path Analysis for Wildfire Evacuation Planning  on Mudge Island, British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:37:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c7b9cae-2fe4-5c42-a898-64ef33a58da5",
+  "locn_geometry": "ENVELOPE(-123.817037, -123.766887, 49.137206, 49.122097)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

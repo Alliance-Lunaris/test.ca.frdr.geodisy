@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Zone inondable; vulnérabilité aux inondations; identification des risques; priorité aux inondations",
+    "Earth sciences",
+    "Eau de surface",
+    "Water management",
+    "Sciences de la terre",
+    "Surface water",
+    "Hydrologie",
+    "Floods",
+    "Flood prone Flood susceptibility Hazard identification Flood priority",
+    "Hydrology",
+    "Gestion de l'eau",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Archivé - Indice de vulnérabilité aux inondations (IVI)"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset is archived, please refer to: \n- [Collection – Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc)  for the new release.\n\nThis national map of flood susceptibility or flood prone areas is based on patterns of historic flood events as predicted by an ensemble machine learning model.\n\nThe recommended use is national, provincial or regional scale and can be used as a guide for identifying areas for further investigation. The Flood Susceptibility Index (FSI) Dataset, while processed and available at 30m cell size, is not recommended for use at the pixel or street level, given the uncertainty in the modelling process and the variability of results as discussed in https://www.mdpi.com/2673-4931/25/1/18 .\n\nFor additional details on the methods, tests, models and datasets used to generate this data layer, please see https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/fulle.web&search1=R=329493",
+    "Ces données sont archivées. Veuillez consulter :\n- [Collection - Cartographie de la susceptibilité aux inondations]( https://ouvert.canada.ca/data/fr/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc) pour la nouvelle version.\n\n\nCette carte nationale des zones vulnérables ou sujettes aux inondations est basée sur des modèles d’inondations historiques prédits par un modèle ensembliste d’apprentissage automatique.\n\nL’utilisation recommandée est à l’échelle nationale, provinciale ou régionale et la carte peut servir de guide pour déterminer les zones devant faire l’objet d’une enquête plus approfondie. Le jeu de données Indice de vulnérabilité aux inondations, bien que traité et disponible à une taille de cellule de 30 m, n’est pas recommandé pour une utilisation au niveau du pixel ou de la rue, étant donné l’incertitude du processus de modélisation et la variabilité des résultats, comme indiqué dans https://www.mdpi.com/2673-4931/25/1/18 (anglais seulement).\n\nPour plus de détails sur les méthodes, les tests, les modèles et les jeux de données utilisés pour générer cette couche de données, veuillez consulter https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/fullf.web&search1=R=329493"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/df106e11-4cee-425d-bd38-7e51ac674128"
+  ],
+  "dct_issued_s": "2022-06-15",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/df106e11-4cee-425d-bd38-7e51ac674128\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Archived - Flood Susceptibility Index (FSI)",
+  "gbl_mdModified_dt": "2026-05-07T16:30:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "79c28fc3-1e92-5087-b0a5-af5cda6a084c",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

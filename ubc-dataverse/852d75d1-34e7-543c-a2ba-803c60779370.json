@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Phytophthora ramorum"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dale, Angela L. (University of British Columbia).",
+    "Feau, Nicolas (University of British Columbia).",
+    "Everhart, Sydney E. (University of Nebraska - Lincoln).",
+    "Dhillon, Braham (University of British Columbia).",
+    "Wong, Barbara (Université Laval, University of British Columbia).",
+    "Sheppard, Julie (University of British Columbia).",
+    "Bilodeau, Guillaume J. (Canadian Food Inspection Agency).",
+    "Brar, Avneet (Canadian Food Inspection Agency).",
+    "Tabima, Javier F. (Oregon State University).",
+    "Shen, Danyu (Nanjing Agricultural University).",
+    "Brasier, Clive M. (Forest Research).",
+    "Tyler, Brett M. (Oregon State University).",
+    "Grünwald, Niklaus J. (Oregon State University).",
+    "Hamelin, Richard C. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/5r_HCtU0Bf109qgJu2I8uEri42EMN6zTTSBlBsE2mpg</p>\n<p><b>Storage size:</b> 152320</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Invasive alien species often have reduced genetic diversity and must adapt to new environments. Given the success of many invasions, this is sometimes called the genetic paradox of invasion. Phytophthora ramorum is invasive, limited to asexual reproduction within four lineages, and presumed clonal. NA1 is responsible for sudden oak death in the USA, NA1, NA2 and EU1 are responsible for ramorum blight in the USA and Canada and EU1 and EU2 are responsible for sudden larch death and blight in Europe. We sequenced 107 genomes to determine how this pathogen can overcome the invasion paradox. Mitotic recombination (MR) associated with transposons and low gene density has generated runs of homozygosity (ROH) affecting 2698 genes, resulting in novel genotypic diversity within the lineages. One ROH enriched in putative pathogenicity genes was fixed in NA1. An independent ROH affected the same scaffold in EU1 suggesting an MR hotspot and selection target. EU1 individuals with and without the ROH may differ in aggressiveness.  Non-core regions (not shared by all lineages) had signatures of accelerated evolution and were enriched in putative pathogenicity genes and transposons. There was a striking pattern of gene loss, including all effectors, in the non-core EU2 genome. Positive selection was observed in 8.0% of RxLR and 18.8% of Crinkler effector genes compared with 0.9% of the core eukaryotic gene set. We conclude that the P. ramorum lineages are diverging via a rapidly evolving non-core genome and the invasive asexual lineages are not clonal, but display genotypic diversity caused by MR.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Dryad_S1</h4><div class=\"o-metadata__file-description\">Metadata (Location\tYear\tHost) and Illumina sequencing statistics for the 107 Phytophthora ramorum isolates resequenced in this study</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Dryad_S2</h4><div class=\"o-metadata__file-description\">Quality control of Illumina sequencing and SNP filtering of Phytophthora ramorum.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Dryad_S3</h4><div class=\"o-metadata__file-description\">Assembly statistics (size, size of longest scaffold, # of scaffolds and N50) and completeness (BUSCO coverage) for eight de novo assemblies generated for Phytophthora ramorum with Abyss</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Dryad_S4</h4><div class=\"o-metadata__file-description\">Nucleotide and gene content of the de novo assemblies obtained for the four Phytophthora ramorum lineages</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152736_150149",
+    "https://doi.org/10.5683/SP2/XCS2DJ"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/XCS2DJ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Europe",
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Mitotic recombination and rapid genome evolution in the invasive forest pathogen Phytophthora ramorumm",
+  "gbl_mdModified_dt": "2021-05-19T17:44:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "852d75d1-34e7-543c-a2ba-803c60779370",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

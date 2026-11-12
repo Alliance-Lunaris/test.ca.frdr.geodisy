@@ -1,0 +1,68 @@
+{
+  "dcat_bbox": "ENVELOPE(-41.7348, -9.99215, -49.0525, -56.36915)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bahl, Alexis A (University of British Columbia, Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia). ORCID: https://orcid.org/0000-0002-8575-2679",
+    "Lüskow, Florian (Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia, University of British Columbia, Uppsala University). ORCID: https://orcid.org/0000-0002-2100-7012",
+    "Konrad, Christian (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0001-6789-4801",
+    "Iversen, Morten Hvitfeldt (MARUM - Center for Marine Environmental Sciences, University Bremen, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-5287-1110",
+    "Pakhomov, Evgeny A (University of British Columbia, Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "This dataset reports net-based observations of meso- and macrozooplankton and micronekton collected in the Atlantic sector of the Southern Ocean (49-57°S, 10-42°W) during RV Polarstern expedition PS133/1 in austral spring 2022. Fourteen stations were sampled with two gears: a Rectangular Midwater Trawl (RMT-8; mouth area 8 m², 4.5 mm mesh), which targets larger macrozooplankton and micronekton, and an Isaacs-Kidd Midwater Trawl (IKMT; mouth area 2.5 m², 0.5 mm mesh), which targets smaller crustaceans. Both were fished as oblique integrated tows, so each observation is integrated over the full depth interval of its tow rather than resolved with depth. The dataset contains 5,362 taxonomic observations (3,200 RMT-8, 2,162 IKMT) representing 659,842.5 subsample-corrected individuals. Taxonomy is recorded to the lowest level determined, with WoRMS AphiaIDs. Volumetric abundance is reported per 1000 m³, derived from the counted subsample scaled by the analysed fraction and divided by the volume filtered (HYDRO-BIOS flowmeter, with a geometric estimate where the flowmeter failed). This version adds three measurement and processing-provenance fields that were recorded at sea and in the laboratory but were not included in the original submission: total body length, oral-atrial length (the standard body-length measure for Salpa thompsoni), and the deck sieve fraction through which an IKMT subsample passed during shipboard splitting. The sieve fraction describes how a sample was handled and is NOT a measure of organism body size. Observations without a measured individual body length are valid records: the animals were caught, identified and counted, and only the length was not taken. The data were generated to quantify the systematic underestimation of fragile gelatinous zooplankton by net-based sampling relative to optical imaging; the paired in situ JellyCam optical abundances are archived in the companion dataset (doi:10.1594/PANGAEA.996149). Salpa thompsoni individual size, developmental stage and biomass from the same tows are archived in doi:10.1594/PANGAEA.973501, and the ship CTD-Rosette physical oceanography in doi:10.1594/PANGAEA.962314. Each taxon is linked to a WoRMS AphiaID (https://www.marinespecies.org)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.996153",
+    "https://doi.org/10.1594/pangaea.996153"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.996153\"}",
+  "dct_subject_sm": [
+    "Species, unique identification",
+    "PS133/1",
+    "Depth, water, bottom/maximum",
+    "Polarstern",
+    "Isaacs-Kidd Midwater Trawl",
+    "Fraction",
+    "gelatinous zooplankton",
+    "Sieving",
+    "Rectangular midwater trawl 4500 µm",
+    "Order",
+    "Abundance",
+    "Size fraction",
+    "Species",
+    "Water volume, filtered",
+    "Station label",
+    "Southern Ocean",
+    "Salinity",
+    "Phylum",
+    "zooplankton community",
+    "Genus",
+    "Time of day",
+    "net sampling",
+    "Rectangular midwater trawl",
+    "Length",
+    "Temperature, water",
+    "Length, total",
+    "DATE/TIME",
+    "Class",
+    "optical imaging",
+    "Number of individuals",
+    "Gear",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label"
+  ],
+  "dct_title_s": "Southern Ocean zooplankton community abundance from paired net (RMT-8, IKMT), RV Polarstern expedition PS133/1, austral spring 2022",
+  "gbl_mdModified_dt": "2026-09-18T03:55:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f8c31587-3f95-5c85-8ff8-ce3de6d91598",
+  "locn_geometry": "ENVELOPE(-41.7348, -9.99215, -49.0525, -56.36915)",
+  "schema_provider_s": "PANGAEA"
+}

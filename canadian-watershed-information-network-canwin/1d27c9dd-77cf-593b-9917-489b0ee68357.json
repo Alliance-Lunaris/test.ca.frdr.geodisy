@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Due to the curvature of the Earth, the height of a radar beam, in relation to the ground, increases as it travels further from the radar. When the radar is pointed down near the ground (a low elevation angle), the beam starts off near the ground but then its height above the ground slowly increases. By the time that same beam is 200 km from the radar, it is at a height of around 4 km above the ground. In order to get a better sense of what is happening at one approximate height above the ground (i.e. 1.5 km), a whole series of radar beams with different elevation angles (low, medium, high) are used to create one radar product. This type of radar product is called a CAPPI (Constant Altitude Plan Position Indicator). Since the CAPPI products do not use Doppler processing to filter out clutter like tall trees, hills and buildings, it can sometimes be contaminated by non meteorological echoes."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/aae10768-0c0c-4670-807e-8e893680887e"
+  ],
+  "dct_issued_s": "2023-03-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/aae10768-0c0c-4670-807e-8e893680887e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weather Radar - CAPPI",
+  "gbl_mdModified_dt": "2025-10-07T12:32:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1d27c9dd-77cf-593b-9917-489b0ee68357",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

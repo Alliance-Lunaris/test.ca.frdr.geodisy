@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Oncorhynchus nerka",
+    "Holocene",
+    "Life History Evolution",
+    "RAD sequencing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lemay, Matthew A. (University of British Columbia, Hakai Institute).",
+    "Russello, Michael A. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/bxK-1pt-tTAeqAKPvTS_KYx9wbec8jEbbXQSTeU5kbE</p>\n<p><b>Storage size:</b> 2567259</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The evolution of locally adapted phenotypes among populations that experience divergent selective pressures is a central mechanism for generating and maintaining biodiversity. Recently, the advent of high-throughput DNA sequencing technology has provided tools for investigating the genetic basis of this process in natural populations of non-model organisms. Kokanee, the freshwater form of sockeye salmon (Oncorhynchus nerka), occurs as two reproductive ecotypes, which differ in spawning habitat (tributaries vs. shorelines), however outside of the spawning season the two ecotypes co-occur in many lakes and lack diagnostic morphological characteristics. We used restriction site associated DNA (RAD) sequencing to identify 6,145 SNPs and genotype kokanee from multiple spawning sites in Okanagan Lake (British Columbia, Canada). Outlier tests revealed 18 loci putatively under divergent selection between ecotypes, all of which exhibited temporally stable allele frequencies within ecotypes. Six outliers were annotated to sequences in the NCBI database, two of which matched genes associated with early development. There was no evidence for neutral genetic differentiation, however, outlier loci demonstrated significant structure with respect to ecotype and had high assignment accuracy in mixed composition simulations. The absence of neutral structure combined with a small number of highly divergent outlier loci is consistent with theoretical predictions for the early stages of ecological divergence. These outlier loci were then applied to a realistic fisheries scenario in which additional RAD sequencing was used to genotype kokanee collected by trawl in Okanagan Lake, providing preliminary evidence that this approach may be an effective tool for conservation and management.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Data S1. All SNPs</h4><div class=\"o-metadata__file-description\">Multi-locus SNP data for all individuals of known ecotype (stream-spawning and shore-spawning) at 6,145 SNP loci identified in this study. Data are presented in two-row Structure format; the first column contains sample names, the second column contains a number indicating the ecotype of origin (1=stream, 2=shore), the remaining columns contain genotypes with “-9” used to indicate missing data.\r\nSample names use the following convention:\r\n-The first two characters indicate either the Stream (St) or Shore (Sh) ecotype.\r\n-The second two characters indicate the sample location: Mission Creek (MK), Peachland Creek (PA), Powers Creek (PW), Penticton Creek (PN), Northeast shore (NE), Northwest shore (NW), Southeast shore (SE).\r\n-The four characters following the underscore indicate the year that samples were collected (either 2007 or 2010).\r\n-The final characters following the hyphen indicate the unique sample ID number for the ecotype, location, and year.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Data S2. Oultier Loci</h4><div class=\"o-metadata__file-description\">Multi-locus SNP data for all individuals of known ecotype and all trawl samples at the 18 outlier loci identified in this study. Data are presented in two-row Structure format; the first column contains sample names, the second column contains a number indicating the treatment (1=stream, 2=shore, 3=trawl), the remaining columns contain genotypes with “-9” used to indicate missing data. \r\n\r\nSample names use the following convention:\r\n-The first two characters indicate either the Stream (St) or Shore (Sh) ecotype.\r\n-The second two characters indicate the sample location: Mission Creek (MK), Peachland Creek (PA), Powers Creek (PW), Penticton Creek (PN), Northeast shore (NE), Northwest shore (NW), Southeast shore (SE).\r\n-The four characters following the underscore indicate the year that samples were collected (either 2007 or 2010).\r\n-The final characters following the hyphen indicate the unique sample ID number for the ecotype, location, and year.\r\n-'Tr' is used to indicate samples of unknown ecotype that were collected by trawl.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152117_150149",
+    "https://doi.org/10.5683/SP2/AOJHQN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/AOJHQN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Okanagan Lake",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genetic evidence for ecological divergence in kokanee salmon",
+  "gbl_mdModified_dt": "2021-05-20T00:41:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "abe86d02-eed7-5540-ba7b-a706baf74c38",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

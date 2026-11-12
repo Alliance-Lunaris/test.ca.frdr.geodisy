@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Genome-wide genetic variation",
+    "Population prioritization",
+    "adaptive potential",
+    "Conservation genetics",
+    "adaptive genetic variation",
+    "population distinctiveness"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chhina, Avneet Kaur (Simon Fraser University). ORCID: https://orcid.org/0009-0009-0696-4533",
+    "Fernandez-Fournier, Philippe (University of British Columbia, Simon Fraser University).",
+    "Lewthwaite, Jayme (University of Southern California).",
+    "Booker, Tom (University of British Columbia).",
+    "Mooers, Arne (Simon Fraser University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.nvx0k6f1j</p>\n<p><b>Storage size:</b> 271770344</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Identifying which populations within species to prioritize for conservation is a major challenge: one question is whether to prioritize populations based on adaptive variation versus considering genome-wide genetic variation. Many authors have advocated focusing solely on adaptive variation due to its direct connection to selection, function, and adaptive capacity. However, there are many limitations in identifying and using adaptive genetic variation for conservation. Patterns of genome-wide genetic variation may be congruent with patterns of adaptive genetic variation, and genome-wide variation is much easier to measure. However, evidence for congruence is mixed. We gather genome-wide and putatively adaptive SNP data across 34 species of plants and animals from published outlier and association studies to test congruence. We ask whether putatively adaptive subsets of genome-wide SNPs identify the same distinctive populations (measured using the Shapley Value of distinctiveness) as genome-wide SNPs. We find that genome-wide and putatively adaptive SNPs generally but variably agree on population prioritizations. As expected, the level of agreement is predicted by the proportion of putatively adaptive SNPs, and the agreement is lower when there is more overall population genetic structure. Interestingly, across our datasets, putatively adaptive SNPs do as well or better at predicting genome-wide population prioritization than sized-matched random subsets of SNPs. Taken together, using genome-wide genetic variation for population prioritization may be a generally sound and cost-effective strategy for prioritizing populations in order to safeguard species-level genetic variation.</p>",
+    "<b>Methods</b><br /><p>We collated genome-wide and putatively adaptive SNPs data from already published studies. We found outlier and/ore association type studies from three meta-analysis (Ahrens et al., 2018; Lind et al., 2018; Exposito-Alonso et al., 2022) and recommendations from colleagues and evaluated those studies based on a set criteria and thresholds. Data was obtained from public data repository or requested via email from the authors of studies. If data was emailed, permission was granted by the original study authors (via email communication) to provide the 012NA converted version of their datasets. </p>"
+  ],
+  "dct_identifier_sm": [
+    "831247_150149",
+    "https://doi.org/10.5683/SP3/I6WG3J"
+  ],
+  "dct_issued_s": "2024-09-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/I6WG3J\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Does genome-wide variation and putatively adaptive variation identify the same set of distinct populations?",
+  "gbl_mdModified_dt": "2024-09-19T13:11:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7b15bbec-0b50-5b6f-a63c-33263bf80143",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

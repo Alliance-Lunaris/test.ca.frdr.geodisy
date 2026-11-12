@@ -1,0 +1,66 @@
+{
+  "dcat_bbox": "ENVELOPE(-61.24501, -61.245, 12.085, 12.084990000000001)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhuravleva, Anastasia (GEOMAR - Helmholtz Centre for Ocean Research Kiel, Dalhousie University, Halifax). ORCID: https://orcid.org/0000-0002-7363-5301",
+    "Bauch, Henning A (GEOMAR - Helmholtz Centre for Ocean Research Kiel).",
+    "Mohtadi, Mahyar (MARUM - Center for Marine Environmental Sciences, University Bremen). ORCID: https://orcid.org/0000-0003-3306-0969",
+    "Fahl, Kirsten (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0001-9317-4656",
+    "Kienast, Markus (Dalhousie University, Halifax, Department of Oceanography, Dalhousie University, Halifax)."
+  ],
+  "dct_description_sm": [
+    "The dataset includes stable oxygen (δ¹⁸O) and carbon (δ¹³C) isotope ratios and magnesium to calcium (Mg/Ca) ratios in Globigerinoides ruber (white), reconstructed sea surface temperatures and salinities and planktic foraminifera assemblages of Caribbean sediment core M35003-6. δ¹⁸O, δ¹³C and Mg/Ca data were obtained using 60 specimens of G. ruber (white) sensu stricto picked from the &gt;150 µm fraction. δ¹⁸O and δ¹³C values in G. ruber (white) were measured using a Finnigan MAT 253plus mass spectrometer coupled to an automated carbonate preparation (\"Kiel\") device at Isotope Laboratory at Faculty of Geosciences, University of Bremen. δ¹⁸O and δ¹³C values are expressed relative to the VPDB standard notation (VPDB). The long-term 1σ analytical uncertainty of the standard analyses was better than ±0.07 ‰ for oxygen and ±0.04 ‰ for carbon. Mg/Ca values were measured using a Perkin Elmer Optima 3300 R inductively coupled plasma optical emission spectrophotometer (ICP-OES) at MARUM, University of Bremen. The analysis was performed following the cleaning procedure described in Mohtadi et al. (2014, doi:10.1038/nature13196) and Barker et al. (2003, doi:10.1029/2003GC000559). Mg/Ca values are expressed in mmol/mol. The average 1σ analytical precision is ±0.01 mmol/mol. Replicate samples (n=3) revealed an average 2σ standard deviation of 0.11 mmol/mol. SST, SSS and their uncertainties were calculated in PSU-Solver (Thirumalai et al., 2016; doi:10.1002/2016PA002970) from coupled δ¹⁸O-Mg/Ca values in G. ruber (white) using equations of Kısakürek et al. (2008, doi:10.1016/j.epsl.2008.06.026; Bemis et al., 1998, doi:10.1029/98PA00070; LeGrande and Schmidt, 2006, doi:10.1029/2006GL026011). The average 1σ (2σ) uncertainties are about ±0.5 (0.8) °C for SST and ±0.3 (0.6) units for SSS. These errors include calibration errors, 2σ combined analytical and sampling uncertainty for Mg/Ca (±0.11 mmol/mol) and 2σ analytical uncertainty for δ¹⁸O (±0.14 ‰). Planktic foraminifera species and lithic grains were counted in the size fraction &gt;150 µm; minimum of 600 specimens has been identified per sample. Large specimens of N. dutertrei were counted together with smaller juvenile specimens referred to as N. dutertrei-N. pachyderma (dextral)-intergrades."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.962235",
+    "https://doi.org/10.1594/pangaea.962235"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.962235\"}",
+  "dct_subject_sm": [
+    "Common Era",
+    "Neogloboquadrina dutertrei",
+    "M35/1",
+    "The Ocean Floor - Earth's Uncharted Interface (ClusterOceanFloor)",
+    "Globigerinoides ruber white",
+    "Lithic grains",
+    "Globigerinoides ruber pink",
+    "Globigerinoides sacculifer",
+    "Globigerinoides ruber white, δ13C",
+    "Mass spectrometer, Finnigan, MAT 253; coupled with Carbonate preparation device, Finnigan, KIEL IV",
+    "Age",
+    "Globigerinoides ruber white, Magnesium/Calcium ratio",
+    "Giant box corer",
+    "Mg/Ca-based sea surface temperature",
+    "Globigerinella aequilateralis",
+    "Sea surface temperature",
+    "Counting &gt;150 µm fraction",
+    "Salinity, standard deviation",
+    "Foraminifera, planktic",
+    "DEPTH, sediment/rock",
+    "Globigerinoides ruber white, δ18O",
+    "Globorotalia scitula",
+    "calculated, 1 sigma",
+    "Globigerina rubescens",
+    "Sea surface temperature, standard deviation",
+    "Meteor (1986)",
+    "Globigerinita glutinata",
+    "Globorotalia menardii",
+    "Caribbean Sea",
+    "Orbulina universa",
+    "ICP-OES, Perkin-Elmer, Optima 3300R",
+    "Sea surface salinity"
+  ],
+  "dct_title_s": "Geochemical and micropaleontological data of sediment core M35003-6 for the past 1,700 years",
+  "gbl_mdModified_dt": "2025-10-16T06:26:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b6073d2a-cee3-5acf-b6d2-9fce76228695",
+  "locn_geometry": "ENVELOPE(-61.24501, -61.245, 12.085, 12.084990000000001)",
+  "schema_provider_s": "PANGAEA"
+}

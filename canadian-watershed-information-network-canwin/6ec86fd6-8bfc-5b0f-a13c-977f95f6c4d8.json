@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.004223, -109.999918, 60.000279, 48.997571)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This GIS dataset is a compilation of existing surficial map information for Alberta tiled into one layer. It was an interim product to produce the generalized polygon dataset (Alberta Geological Survey DIG 2013-0002), which is suitable for presentation and use at 1:1,000,000 scale. We prepared the data by appending existing GIS datasets of each surficial map of Alberta into one provincial layer with a standard attribute table. Data sources included published Alberta Geological Survey and Geological Survey of Canada maps, one master's thesis, and ecological (biophysical) land-classification maps of the mountain parks. When possible, we transferred all of the legend data from each map source into the standard schema. As part of our 1:1,000,000-scale map project, we completed mapping the unmapped areas of Alberta at roughly 500,000 to 1,000,000 scale. This dataset includes those previously unpublished data. With this dataset users can, for the first time, view the surficial geology of different map areas done at different scales and map projections by different geologists according to different legends in one GIS layer. We exported the feature class as an Esri shapefile (SurfMosaic_py_ll.shp) for public distribution. The layer file 1M_scale_legend.lyr is also included for the convenience of Esri software users (version 9.2) to render the map according to the common legend shown on Alberta Geological Survey Map 601."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b4e65c24-a4cb-4abe-8a2b-4fa320082447"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b4e65c24-a4cb-4abe-8a2b-4fa320082447\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Surficial Geology of Alberta: Ungeneralized Digital Mosaic (GIS data, polygon features)",
+  "gbl_mdModified_dt": "2026-03-04T19:12:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6ec86fd6-8bfc-5b0f-a13c-977f95f6c4d8",
+  "locn_geometry": "ENVELOPE(-120.004223, -109.999918, 60.000279, 48.997571)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

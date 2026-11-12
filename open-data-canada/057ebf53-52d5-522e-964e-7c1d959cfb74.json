@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Layer of points representing the intersections of the road network in the city of Saint-Hyacinthe.\n\n**Collection context**\n Associated with the layer of street sections of the city's road network.\nTopological intersection points associated with the intersections of segments of street sections.\n\n**Collection method**\n Computer-aided design with topological rules between the road network and the intersection nodes.\n\n**Attributes**\n\n* `ASSET_ID` (`integer`): Identifier\n* `TYPE_REF` (`varchar`): Type reference\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `LOC_SYMBOL` (`varchar`): Symbol\n* `LOC_ROTATION` (`numeric`): Rotation angle\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche de points représentant les intersections du réseau routier de la ville de Saint-Hyacinthe.\n\n**Contexte de collecte**\n Associé à la couche des tronçons de rues du réseau routier de la ville.\nPoints d'intersections topologiques associés aux intersections des segments des tronçons de rues.\n\n**Méthode de collecte**\n Dessin assisté par ordinateur avec règles topologiques entre le réseau routier et les noeuds d'intersections.\n\n**Attributs**\n\n* `ASSET_ID` (`integer`) : Identifiant\n* `TYPE_REF` (`varchar`) : Référence du type\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `LOC_SYMBOL` (`varchar`) : Symbole\n* `LOC_ROTATION` (`numeric`) : Angle de rotation\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/70697aae-2bc9-47a0-951d-4d272ce5b657"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/70697aae-2bc9-47a0-951d-4d272ce5b657\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Points d'intersections routières - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "057ebf53-52d5-522e-964e-7c1d959cfb74",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

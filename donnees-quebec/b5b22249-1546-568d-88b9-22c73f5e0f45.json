@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "MNT",
+    "Élévation",
+    "Terrain",
+    "MNA",
+    "Altitude",
+    "Relief",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l'information géospatiale."
+  ],
+  "dct_description_sm": [
+    "Les modèles numériques de terrain offrent une représentation du relief au sud du 52e parallèle, sous forme d’une matrice d’élévation. Cette matrice permet de visualiser le territoire en perspective et d’effectuer des analyses spatiales tridimensionnelles, à l’aide des logiciels appropriés.\r\n\r\nUn module spécialisé en traitement de données tridimensionnelles, tel que 3D Analyst ou Spatial Analyst, est nécessaire pour visualiser le modèle numérique d'altitude en trois dimensions.\r\n\r\nCe modèle numérique d’altitude (matrice de pixels de 10 mètres) est obtenu par le traitement des données altimétriques (courbes de niveau et points d’élévation) issues des **[bases de données topographiques à l'échelle de 1/20 000](https://www.donneesquebec.ca/recherche/fr/dataset/cartes-topographiques-a-l-echelle-de-1-20-000)**."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/722bfd5d-408e-4127-8008-121905ee24a5"
+  ],
+  "dct_issued_s": "2019-03-11",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/722bfd5d-408e-4127-8008-121905ee24a5\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Modèles numériques de terrain à l’échelle de 1/20 000",
+  "gbl_mdModified_dt": "2026-07-09T13:24:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5b22249-1546-568d-88b9-22c73f5e0f45",
+  "schema_provider_s": "Données Québec"
+}

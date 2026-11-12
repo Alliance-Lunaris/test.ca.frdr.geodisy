@@ -1,0 +1,71 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.14945604982098, -79.53064675109887, 43.993112520297444, 43.48035733398581)",
+  "dcat_keyword_sm": [
+    "low income",
+    "diversity",
+    "Open Data",
+    "immigrant",
+    "age structure",
+    "Demographics",
+    "income",
+    "household",
+    "Income",
+    "movement",
+    "families",
+    "Labour Force",
+    "immigration",
+    "mobility",
+    "labour",
+    "employment",
+    "statistics",
+    "children",
+    "Ward",
+    "visible minority",
+    "sex",
+    "education",
+    "2016 Census",
+    "housing",
+    "Aboriginal",
+    "dwelling",
+    "dwellings",
+    "language",
+    "Statistics Canada",
+    "ethnicity",
+    "households",
+    "age",
+    "custom geography",
+    "population",
+    "Election",
+    "2016",
+    "Census",
+    "Indigenous"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "Data from the 2016 Census Program using the Ward Boundaries 2018-2022. Includes most of the information released as part of the Complete Profiles. Due to the complexity of the data, changes were made to the field names in order to accommodate the limitations of the database. This make some uses harder as it requires careful use of the field names and totals to provide accurate values and analysis.<div><br /></div><div>The custom geography order data is a 25% sample and cannot be directly compared to standard geography data.</div><div><br /></div><div>It is suggested you do not download the data in the Shapefile format due to the very long field names.  Aliases have been provided for all tables to improve readability.  Some tables also contain more than 256 columns, the maximum number of columns in Microsoft Excel in Office 2003 or earlier.</div>"
+  ],
+  "dct_identifier_sm": [
+    "f46615461985444089a6d9544f1055ce",
+    "https://www.arcgis.com/home/item.html?id=f46615461985444089a6d9544f1055ce"
+  ],
+  "dct_issued_s": "2019-12-23",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::census2016-wards20182022-ethnicityimmigrationaboriginal\"}",
+  "dct_rights_sm": [
+    "Statistics Canada Open License"
+  ],
+  "dct_title_s": "2016 Census Ward Boundary 2018_2022",
+  "gbl_mdModified_dt": "2024-01-13T15:34:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ac427ceb-15a8-5189-86b7-ffc2953b2c46",
+  "locn_geometry": "ENVELOPE(-80.14945604982098, -79.53064675109887, 43.993112520297444, 43.48035733398581)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

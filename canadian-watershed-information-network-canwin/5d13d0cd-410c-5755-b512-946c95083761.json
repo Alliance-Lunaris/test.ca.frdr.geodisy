@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This series of projected future flood susceptibility maps were generated using an XGBoost machine learning model trained on major floods from 2005 to 2023. The trained model was applied to future climate scenarios for 2050, 2070, and 2100, under two SSP scenarios: 245 and 585. The model uses temperature and precipitation time series to estimate potential future flood susceptibility. These maps represent model projections and should be interpreted as indicators of potential flood susceptibility, not precise forecasts.\n\nThis dataset forms part of a broader collection of flood susceptibility datasets, offering related information and analyses. The collection includes an overview page with associated publications, historic susceptibility values, temporal trends, and future projections.\n\n- [Collection – Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc)\n- [Historic - Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77)\n- [Trends and Extremes – Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Future - Flood Susceptibility Mapping",
+  "gbl_mdModified_dt": "2026-04-24T11:31:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5d13d0cd-410c-5755-b512-946c95083761",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

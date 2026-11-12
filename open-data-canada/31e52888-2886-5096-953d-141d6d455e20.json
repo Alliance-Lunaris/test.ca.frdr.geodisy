@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Batiment patrimonial",
+    "Histoire",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "Culture",
+    "Patrimoine bati",
+    "Patrimoine"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of the inventory of built heritage on the territory of the city of Shawinigan.\n\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection context**\n Inventory carried out by the firm PatriArch in 2010, 2014, 2021.\n\n**Collection method**\n Location at the address, on the building.\n\n**Attributes**\n\n* `objective` (`OID`): \n* `description` (`String`): \n* `report` (`String`): \n* `buildingname` (`String`): \n* `jpg_link` (`String`): \n* `class` (`String`): \n* `photo_link` (`String`): \n* `piia` (`String`): \n* `st_area (shape) `(`Double`): \n* `st_length (shape) `(`Double`): \n* `inventory_year` (`String`): \n* `categorization_statement` (`String`): \n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polygonale de l'inventaire du patrimoine bâti sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n Inventaire réalisé par la firme PatriArch en 2010, 2014, 2021.\n\n**Méthode de collecte**\n Localisation à l'adresse, sur le bâtiment.\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `description` (`String`) : \n* `rapport` (`String`) : \n* `nom_batiment` (`String`) : \n* `liens_jpg` (`String`) : \n* `classe` (`String`) : \n* `lien_photo` (`String`) : \n* `piia` (`String`) : \n* `st_area(shape)` (`Double`) : \n* `st_length(shape)` (`Double`) : \n* `annee_inventaire` (`String`) : \n* `avis_de_categorisation` (`String`) : \n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8c2a401b-1fd6-4780-939e-b75e2fde503c"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8c2a401b-1fd6-4780-939e-b75e2fde503c\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Bâtiments patrimoniaux - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T17:37:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31e52888-2886-5096-953d-141d6d455e20",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

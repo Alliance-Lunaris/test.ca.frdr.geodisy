@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This product is a 1km resolution composite over the North American domain, which, for areas with radar coverage, can distinguish the occurrence, type and intensity of precipitation. This product uses two 1km radar composites as input: a North American composite cleaned using dual polarization technology, another particle classification radar composite (precipitation) and surface temperature from the High Resolution Deterministic Prediction System (HRDPS). The SPTP product is produced every 6 minutes."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/37d76d67-0304-4e79-8a56-a839097ddd3d"
+  ],
+  "dct_issued_s": "2025-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/37d76d67-0304-4e79-8a56-a839097ddd3d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Surface precipitation type product (SPTP)",
+  "gbl_mdModified_dt": "2025-05-13T11:50:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c52883c5-197b-5b1c-b84e-b94bad26bf76",
+  "locn_geometry": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

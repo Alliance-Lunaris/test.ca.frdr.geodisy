@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.164675, -127.868994, 51.734813, 51.408207)",
+  "dcat_keyword_sm": [
+    "other",
+    "oceans",
+    "calvert-island",
+    "elevation",
+    "downloadable-data",
+    "autre",
+    "topography",
+    "geospatial"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle numérique d'élévation de 30 m - Calvert Island - Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This DEM has been created from Hakai's Master Terrain Dataset (MTD) by means of the “Terrain to raster” tool in ESRI's ArcGIS for Desktop using a Natural Neighbour sampling method. The DEM has been natively created at 30m resolution. This DEM has been clipped to the shoreline of the island. A combination of different elevations around the island have been used to create the shoreline. \n\nThe resulting DEM is a bare earth, hydro-flattened elevation model and therefore considered \"topographically complete\". Each pixel represents the elevation in meters above average sea level of the bare earth at that location. The vertical reference system is \"Canadian Geodetic Vertical Datum 1928\" (CGVD28). \n\nHakai has produced DEM's at different resolutions natively directly from the LiDAR data MTD. Please use the appropriate resolution product from those produced by Hakai for your research purposes. In order to maintain homogeneity, up-sampling / up-scaling from higher resolution products is not recommended as it may introduce and propagate errors of varying magnitudes into the analyses being conducted; please use products already available, and if you require a resolution not available contact data@hakai.org in order to obtain a DEM produced directly from the MTD. \n\nMaster Terrain Dataset Creation:\n\nLiDAR point clouds from missions flown on 2012 and 2014 over Calvert Island where loaded (XYZ only) into a point feature class in an ESRI Geodatabase.",
+    "Ce MNT a été créé à partir du jeu de données de terrain principal (MTD) de Hakai au moyen de l'outil « MNT vers raster » dans ArcGIS for Desktop d'ESRI à l'aide d'une méthode d'échantillonnage Natural Neighbour. Le DEM a été créé en mode natif à une résolution de 30 m. Ce DEM a été accroché au rivage de l'île. Une combinaison de différentes altitudes autour de l'île a été utilisée pour créer le rivage. \n \n Le MNT qui en résulte est un modèle d'élévation hydroaplati en terre nue et est donc considéré comme « topographiquement complet ». Chaque pixel représente l'altitude en mètres au-dessus du niveau moyen de la mer de la terre nue à cet endroit. Le système de référence vertical est le « Système de référence géodésique vertical canadien 1928 » (CGVD28). \n\nHakai a produit des DEM à différentes résolutions en mode natif directement à partir du MTD de données LiDAR. Veuillez utiliser le produit de résolution approprié parmi ceux fabriqués par Hakai à des fins de recherche. Afin de maintenir l'homogénéité, il n'est pas recommandé de suréchantillonner/augmenter la mise à l'échelle à partir de produits à résolution plus élevée, car cela peut introduire et propager des erreurs d'amplitude variable dans les analyses effectuées ; veuillez utiliser des produits déjà disponibles, et si vous avez besoin d'une résolution non disponible, contactez data@hakai.org afin d'obtenir un DEM produit directement à partir du MTD. \n\nCréation du jeu de données Master MNT\n\nLes nuages de points LiDAR des missions effectuées en 2012 et 2014 au-dessus de l'île Calvert ont été chargés (XYZ uniquement) dans une classe d'entités ponctuelles d'une géodatabase ESRI."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/d1d07d48-c909-41b4-8c0f-13238720749c"
+  ],
+  "dct_issued_s": "2015-06-10",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/d1d07d48-c909-41b4-8c0f-13238720749c\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "30m Digital Elevation Model - Calvert Island - British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-09-22T21:24:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6e9bb77c-b78c-5b78-aa5d-ed7c89378add",
+  "locn_geometry": "ENVELOPE(-128.164675, -127.868994, 51.734813, 51.408207)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

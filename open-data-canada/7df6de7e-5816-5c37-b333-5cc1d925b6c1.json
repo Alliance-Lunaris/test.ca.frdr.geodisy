@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-137.461, -110.391, 74.59, 68.528)",
+  "dcat_keyword_sm": [
+    "Beaufort Sea Amundsen Gulf Western Canadian Arctic",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Occurrence Benthos Biodiversité Invertébrés Endofaune",
+    "Occurrence Benthos Biodiversity Invertebrates Infauna",
+    "Mer de Beaufort Golfe d'Amundsen Arctique Canadien de l'Ouest",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biodiversité de l'endofaune benthique du relevé au carottier à boîte du programme CBS-MEA (2021-2024)"
+  ],
+  "dct_creator_sm": [
+    "Virginie Roy."
+  ],
+  "dct_description_sm": [
+    "This dataset documents the infauna occurrences collected from 2021 to 2024 during the Canadian Beaufort Sea Marine Ecosystem Assessment (CBS-MEA) conducted by the Department of Fisheries and Oceans (DFO). This scientific program focuses on the integration of oceanography, food web linkages, physical-biological couplings, and spatial and interannual variabilities. The program also aims to expand the baseline coverage of species diversity, abundances, and habitat associations in previously unstudied areas of the Beaufort Sea and Western Canadian Archipelago. The study took place mainly in the Canadian Beaufort Sea and the Amundsen Gulf. Sampling is done along transects at fixed stations in the study area. Catches are collected using a 50 x 50 cm box-corer. Two or three box core are collected per station to obtain replicates. A total of 29 stations were sampled for infauna in 2021, 14 in 2022, 21 in 2023 and 24 in 2024 between 21-653 m depth. Half of the box corer (0.125 m2) is sampled for infauna taxonomy. The first 20 cm of sediment are collected and sieved through a 0.5 mm mesh sieve. The samples are preserved in seawater-formaldehyde solution (10 % v/v). In the lab, infauna is identified to the lowest taxon level possible.\nThe data are presented in two files:\nThe \"endofaune_evenement_infauna_event_en\" file which contains information about missions, stations and deployments, which are presented under a hierarchical activity structure.\nThe \"endofaune_occurrence_infauna_en\" file that contains the taxonomic occurrences.",
+    "Ce jeu de données documente les occurrences d'endofaune collectées de 2021 à 2024 lors de l'évaluation environnementale marine de la mer de Beaufort canadienne (CBS-MEA) menée par Pêches et Océans Canada (MPO). Le programme CBS-MEA se concentre sur l'intégration de l'océanographie, des liens dans le réseau alimentaire, des couplages physico-biologiques et des variabilités spatiales et interannuelles. Le programme vise également à élargir la couverture de référence de la diversité des espèces, des abondances et des associations avec les habitats dans des zones de la mer de Beaufort et de l'archipel canadien de l'Ouest précédemment non étudiées. L'étude a eu lieu principalement dans la mer de Beaufort et dans le golfe d'Amundsen. L'échantillonnage est effectué le long de transects à des stations fixes dans la zone d'étude. Les prises sont collectées à l'aide d'un carottier à boîte de 50 x 50 cm. Deux ou trois carottes sont collectées par station pour obtenir des réplicats. Un total de 29 stations ont été échantillonnées pour l'endofaune en 2021, 14 en 2022, 21 en 2023 et 24 en 2024 à des profondeurs entre 21 et 653 m. La moitié du carottier (0.125 m2) est échantillonnée pour la taxonomie de l’endofaune. Les premiers 20 cm de sédiment sont collectés et tamisés à travers un tamis de 0.5 mm. Les échantillons sont conservés dans une solution d'eau de mer-formaldéhyde (10 % v/v). En laboratoire, l'endofaune est identifiée au niveau taxonomique le plus bas possible.\nLes données sont présentés en deux fichiers :\nLe fichier \"endofaune_evenement_infauna_event_fr\" qui contient les informations des missions, des stations et des déploiements, qui sont présenté sous une structure d'activité hiérarchique.\nLe fichier \"endofaune_occurrence_infauna_fr\" qui contient les occurrences taxonomiques."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/86792aa2-af49-4cba-9cf6-b90410581b4f"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/86792aa2-af49-4cba-9cf6-b90410581b4f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Biodiversity of the Benthic Infauna Box Core Survey from CBS-MEA program (2021-2024)",
+  "gbl_mdModified_dt": "2026-05-08T08:02:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7df6de7e-5816-5c37-b333-5cc1d925b6c1",
+  "locn_geometry": "ENVELOPE(-137.461, -110.391, 74.59, 68.528)",
+  "schema_provider_s": "Open Data Canada"
+}

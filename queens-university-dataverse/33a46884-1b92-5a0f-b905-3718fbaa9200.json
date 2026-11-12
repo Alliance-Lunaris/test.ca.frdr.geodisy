@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Enhanced vegetation index (EVI)",
+    "Arctic greening",
+    "Climate change",
+    "Remote sensing phenology",
+    "Caribou",
+    "Moderate Resolution Imaging Spectroradiometer"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dearborn, Katherine (Queen's University, Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-4850-7690",
+    "Danby, Ryan (Queen's University. Department of Geography and Planning, Queen's University). ORCID: https://orcid.org/0000-0002-8295-3790"
+  ],
+  "dct_description_sm": [
+    "These data contain remote sensing phenology metrics for the entirety of the Bathurst barrenground caribou herd's range in Northwest Territories and Nunavut, Canada, from 2000 to 2017. Data were based on 16-day composites of the Enhanced Vegetation Index (EVI) at 250m resolution collected from the MODIS sensor (moderate resolution imaging spectrometer) onboard NASA's Terra satellite (MOD13Q1 version 6.0). Timesat software was used to derive the following five metrics for each year: (1) maximum EVI, (2) time integrated EVI, (3) start of growing season, (4) end of growing season, and (5) growing season length. Annual data for each metric is contained in a separate file. Trends over the 18 year period were calculated using least squares linear regression and are contained in a separate file for each metric along with statistical significance. The data were collected as part of Project #187 (Changes in Vegetation Productivity and Phenology Across the Bathurst Caribou Range) of the Government of the Northwest Territories Department of Environment and Natural Resources Cumulative Impact Monitoring Program."
+  ],
+  "dct_identifier_sm": [
+    "743465_445072",
+    "https://doi.org/10.5683/SP3/UFAIES"
+  ],
+  "dct_issued_s": "2024-05-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/UFAIES\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada",
+    "Nunavut, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "CIMP187: Remote Sensing Phenology, 2001-2017",
+  "gbl_mdModified_dt": "2024-05-22T16:52:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33a46884-1b92-5a0f-b905-3718fbaa9200",
+  "pcdm_memberOf_sm": [
+    "Queen’s Laboratory for Ecosystem Geography (QLEG) Data Archive"
+  ],
+  "schema_provider_s": "Queen's University Dataverse"
+}

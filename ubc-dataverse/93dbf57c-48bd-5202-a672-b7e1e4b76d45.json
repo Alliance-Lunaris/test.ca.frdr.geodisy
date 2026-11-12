@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Custom tabulation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "<p>This dataset includes two tables which were custom ordered from Statistics Canada.  One table includes variables on housing characteristics (condominium status, total number of bedrooms, structural type and tenure), and households (household size, household type, age of primary household maintainer). One table includes information on shelter cost to income ratio and total shelter cost by tenure, household type, and household income. </p>\n\n\n<p>The dataset is in Beyond 20/20 (.ivt) format. The Beyond 20/20 browser is required in order to open it. This software can be freely downloaded from the Statistics Canada website: <br />\nhttps://www.statcan.gc.ca/eng/public/beyond20-20 (Windows only). <br />\nFor information on how to use Beyond 20/20, please see: <br />\nhttp://odesi2.scholarsportal.info/documentation/Beyond2020/beyond20-quickstart.pdf <br />\nhttps://wiki.ubc.ca/Library:Beyond_20/20_Guide</p>\n\n<p><b>Custom order from Statistics Canada</b></p>\n\n<p><b>TABLE 3 includes the following dimensions and variables:</b></p>\n\n<p>Geography: Toronto CMA & Vancouver CMA to the census tract level</p>\n\n<p>Age of Household maintainer: Age groups are divided into 9 year intervals starting at age 15 and ending at category 75 and above</p>\n\n<p>Condominium status: Condominium, not a condominium</p>\n\n<p>Tenure: Owner, renter</p>\n\n<p>Household size: From one person up to 5 or more persons</p>\n\n<p>Structural type: <br />\n-Single detached house<br />\n-Apartment with 5 or more stories<br />\n-Other dwelling<br />\n-Semi-detached house<br />\n-Row house<br />\n-Apartment, detached duplex<br />\n-Apartment, building with fewer than 5 stories <br />\n-Other single attached house<br />\n-Movable dwelling</p>\n\n<p>Total number of bedrooms: From no bedrooms to 4 or more bedrooms</p>\n\n<p>Household type: <br />\n-Census-family households <br />\n-With children <br />\n-Without children <br />\n-Multiple census-family households<br />\n-Non-census family household</p>\n\n<p><b>TABLE 4 includes the following dimensions and variables:</b></p>\n\n<p>Geography: Toronto CMA, Vancouver CMA</p>\n\n<p>Total Shelter cost: under $500 to over $3000 in intervals ranging from $250 to $500</p>\n\n<p>Tenure: Owner (with and without mortgage), renter</p>\n\n<p>Household type: <br />\n-Census-family households<br />\n-One-family households<br />\n-Couple family households<br />\n-With children <br />\n-Without children <br />\n-Lone-parent households<br />\n-Multiple census-family households<br />\n-Non-census-family households<br />\n-One person households<br />\n-Two person households</p>\n\n<p>Shelter cost to income ratio: less than 15%, 15-30%, 30-50%, 50% or more, not applicable</p>\n\n<p>Household income: in intervals of 10,000 up to the category of $100,000 or more</p>\n\n<p>Original file name:<br />\nEO2969 - Table 3 Tenure and dwelling_Toronto and Vancouver 2006.ivt<br />\nEO2969 - Table 4 (Part 1) Cost income household_Toronto and Vancouver_2006.ivt</p>"
+  ],
+  "dct_identifier_sm": [
+    "77172_73885",
+    "https://doi.org/10.5683/SP2/JTTSQS"
+  ],
+  "dct_issued_s": "2019-09-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/JTTSQS\"}",
+  "dct_rights_sm": [
+    "Statistics Canada Open Licence This licence is issued on behalf of Her Majesty the Queen in Right of Canada, as represented by the Minister for Statistics Canada (\"Statistics Canada\") to you (an individual or a legal entity that you are authorized to represent). The following are terms governing your use of the Information. Your use of any Information indicates your understanding and acceptance of the terms below. If you do not agree to these terms, you may not use the Information. Statistics Canada may modify this licence at any time, and such modifications shall be effective immediately upon posting of the modified licence on the Statistics Canada website. Your use of the Information will be governed by the terms of the licence in force as of the date and time you accessed the Information. Definitions \"Information\" means the compilation of non-confidential results from any Statistics Canada activities, including data files, databases, public use microdata files, publications, tables, graphs, maps, reports and text for which Statistics Canada is the owner or a licensee of all intellectual property rights and made available to you in accordance with this licence, at cost or no cost, either on the Statistics Canada website or by other means as a result of a contract for goods or services. \"Value-added Products\" means any products you have produced by adapting or incorporating the Information, in whole or in part, in accordance with this licence."
+  ],
+  "dct_spatial_sm": [
+    "Toronto, Ontario, Canada",
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "2006 Census of Canada - Selected Characteristics for Housing - Vancouver, Toronto CMAs at the Census Tract (CT) Level [custom tabulation] 004",
+  "gbl_mdModified_dt": "2021-04-09T16:49:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "93dbf57c-48bd-5202-a672-b7e1e4b76d45",
+  "pcdm_memberOf_sm": [
+    "Housing Research Collaborative"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "relaxed selection",
+    "Gasterosteus aculeatus",
+    "whole-animal performance trait",
+    "F1 hybrids",
+    "maximum metabolic rate",
+    "common garden experiment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dalziel, Anne C. (Saint Mary's University, University of British Columbia).",
+    "Vines, Timothy H. (University of British Columbia).",
+    "Schulte, Patricia M. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/TtPf7LdW9o78tCgnIjQlz6sQIXvDfiUBnboV9MG4dcs</p>\n<p><b>Storage size:</b> 294142</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>We compared ancestral anadromous-marine and nonmigratory, stream-resident threespine stickleback (Gasterosteus aculeatus) populations to examine the outcome of relaxed selection on prolonged swimming performance. We reared marine and stream-resident fish from two locations in a common environment and found that both stream-resident populations had lower critical swimming speeds (Ucrits) than marine populations. F1 hybrids from the two locations displayed significant differences in dominance, suggesting that the genetic basis for variation in Ucrit differs between locations. To determine which traits evolved in conjunction with, and may underlie, differences in performance capacity we measured a suite of traits known to affect prolonged swimming performance in fishes. While some candidate traits did not evolve (standard metabolic rate and two body shape traits), multiple morphological (pectoral fin size, shape and four body shape measures) and physiological (maximum metabolic rate; MMR) traits evolved in the predicted direction in both stream-resident populations. However, data from F1 hybrids suggested that only one of these traits (MMR) had dominance effects similar to those of Ucrit in both locations. Overall, our data suggest that reductions in prolonged swimming performance were selected for in non-migratory populations of threespine stickleback, and that decreases in MMR may mediate these reductions in performance.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">R_Script</h4><div class=\"o-metadata__file-description\">R script to re-produce analyses run in Dalziel et al. 2011</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig2_Ucrit_R</h4><div class=\"o-metadata__file-description\">Raw prolonged swimming speed data (Ucrit) associated with Figure 2</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig3_PecFinSA_R</h4><div class=\"o-metadata__file-description\">Raw pectoral fin surface area data (residuals of mass and standard length). Figure 3 of Dalziel et al. 2011.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">PecFinShapelandmarks_UnalignedTPS</h4><div class=\"o-metadata__file-description\">TPS file of 6 pectoral fin landmarks from Fig.3.  Note that these landmarks must be aligned in TpsRelw prior to further analysis</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig3_PecFinshape_R</h4><div class=\"o-metadata__file-description\">Raw data for pectoral fin shape (aligned landmarks), and DFA analysis.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig4_BodyShape_R</h4><div class=\"o-metadata__file-description\">Corrected measures of stickleback body shape (see methods) and results of DFA.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">BodyShape12Landmarks</h4><div class=\"o-metadata__file-description\">TPS file for use in TmorphGen.  Can be used to calculate distances between 12 landmarks from Fig. 4.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig5_SMR_R</h4><div class=\"o-metadata__file-description\">Raw standard metabolic rate data.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig5_MMR_R</h4><div class=\"o-metadata__file-description\">Raw maximum metabolic rate data</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">DominanceModel</h4><div class=\"o-metadata__file-description\">R script for dominance model</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Dominance_modelUcritdata_R</h4><div class=\"o-metadata__file-description\">Raw data for testing for differences in dominance among locations (Bonsall and West Creeks)in R.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153385_1226260_150149",
+    "https://doi.org/10.5683/SP2/7TB3GJ"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/7TB3GJ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Reductions in prolonged swimming capacity following freshwater colonization in multiple threespine stickleback populations.",
+  "gbl_mdModified_dt": "2021-05-19T19:09:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4c3f393d-caac-5cfa-b0e1-8e22d1b97c0e",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

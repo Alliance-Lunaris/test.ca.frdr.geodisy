@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.18539111322447, -79.51946264642814, 44.00073368683262, 43.45920368455556)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "imagery",
+    "remote sensing",
+    "photo",
+    "Boundaries",
+    "digital",
+    "air",
+    "2021",
+    "TIFF",
+    "aerial imagery",
+    "image",
+    "orthoimagery",
+    "raster",
+    "GeoTIFF",
+    "MrSID"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<p>Orthoimagery is foundational to mapping work.&nbsp; It's used to create data, perform analysis, mapping, management of resources, planning, and as background data in maps. Use the link in <b>Available products</b> to download the file yourself or see the <b>Access to the data</b> section below to get a download link.</p>\n\n<h4>Available products</h4>\nOrthorectified mosaics - full resolution images (7.5cm) in GeoTIFF format using lossy (JPEG YCbCr @ 75%) compression:\n<ul>\n<li><b><a href='https://get.orthoimage.download/Peel_75mm_2021.tif' target='_blank' rel='nofollow ugc noopener noreferrer'>Peel Region +1km buffer - 39 Gigabytes</a>&nbsp;(self-service download GeoTIFF).</b>\n<ul><li>Download the&nbsp;<a href='https://get.orthoimage.download/Peel_75mm_2021.tif.aux.xml' target='_blank' rel='nofollow ugc noopener noreferrer'>statistics file</a>&nbsp;for the GeoTIFF.</li>\n<li>Download the&nbsp;<a href='https://get.orthoimage.download/Peel_75mm_2021.tif.ovr' target='_blank' rel='nofollow ugc noopener noreferrer'>pyramid/overview</a>&nbsp;for the GeoTIFF (4.9GB).</li>\n</ul>\n</li>\n</ul>\nOrthorectified mosaics – full resolution images (7.5cm) in lossless MrSID format:\n<ul>\n<li>Brampton +1km buffer - 22 Gigabytes</li>\n<li>Caledon +1km buffer - 40.7 Gigabytes</li>\n<li>Mississauga +1km buffer - 21 Gigabytes</li>\n<li>Peel Region +1km buffer - 82 Gigabytes</li>\n</ul>\n<h4>Data specifications</h4>\n<ul>\n<li>Spatial resolution - 7.5cm</li>\n<li>Acquisition dates: March 19, 25, 30; April 2, 3, 4 2021</li>\n<li>Image format: Lossless MrSID</li>\n<li>Bands: 3-band rendered RGB</li>\n<li>Canopy coverage: leaf-off</li>\n<li>Projection: NAD 1983 UTM Zone 17N (EPSG: 26917)</li>\n<li>Horizontal and vertical accuracy: ±20cm</li><li>Collection contractor:&nbsp;<a href='https://www.firstbasesolutions.com/' target='_blank' rel='nofollow ugc noopener noreferrer'>First Base Solutions Inc.</a></li>\n</ul>\n<h4>Access to the data</h4>\n<p>Due to the large size of the dataset, access is provided upon request.&nbsp; The only method of access will be by download.</p>\n<p><b>To receive a download link</b>, please contact&nbsp;<a href='mailto:peeldatacentre@peelregion.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>peeldatacentre@peelregion.ca</a>.&nbsp; In your email, make sure you tell us that you're looking for orthoimagery and what year&nbsp;you're looking to download.</p>\n<h5>Years currently available</h5>\n<ul>\n<li><a href='https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2020/about' rel='nofollow ugc'>2020 Orthoimagery - 15 centimetre</a></li>\n<li>2021 Orthoimagery - 7.5 centimetre</li>\n<li><a href='https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2022/about' rel='nofollow ugc'>2022 Orthoimagery - 7.5 centimetre</a></li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "2a0ff9a5a1ad4f88be78830307953bc5",
+    "https://www.arcgis.com/home/item.html?id=2a0ff9a5a1ad4f88be78830307953bc5"
+  ],
+  "dct_issued_s": "2022-09-12",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/documents/RegionofPeel::peel-orthoimagery-2021\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Peel Orthoimagery 2021",
+  "gbl_mdModified_dt": "2023-06-28T18:16:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "90db5489-d738-52dc-b062-aa37778c5200",
+  "locn_geometry": "ENVELOPE(-80.18539111322447, -79.51946264642814, 44.00073368683262, 43.45920368455556)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.15401840207606, -79.52093124387324, 43.989232955796496, 43.469241362515646)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "metres",
+    "Digital Elevation Model",
+    "DEM",
+    "height",
+    "Environment",
+    "elevation",
+    "topography",
+    "Resources"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<p>Peel's Digital Elevation Model (DEM) provides a generalized representation of both surface and ground features at a 1 metre resolution.  The data is created using breaklines and a 10-metre grid of masspoints, both of which are photogrammatically created.</p>\n\n<h4>Available products</h4>\n<ul>\n<li>Peel Digital Elevation Model in TIFF format - 1.5 Gigabytes</li>\n</ul>\n\n<h4>Specifications</h4>\n<ul>\n<li>Capture year: Spring 2022</li>\n<li>Spatial resolution: 1-metre</li>\n<li>File format: GeoTIFF, losslessly compressed</li>\n<li>Pixel type and depth: 32-bit float</li>\n<li>Horizontal projection: NAD 1983 UTM Zone 17N (EPSG: 26917)</li>\n<li>Vertical projection: CGVD 1928 (EPSG: 5713)</li>\n<li>Horizontal accuracy: ±50 centimetres</li>\n<li>Vertical accuracy: ±50 centimetres</li>\n<li>Method of creation: photogrammetric</li>\n</ul>\n<h4>Other data (Lidar)</h4>\nThe Region of Peel doesn't have Lidar data in-house.  The Province of Ontario through Land Information Ontario provides the following Lidar and Lidar-based datasets through their open data program:\n<ul>\n<li><a href='https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-terrain-model-lidar-derived/explore' rel='nofollow ugc'>Lidar-derived Digital Terrain Model (DTM)</a></li>\n<li><a href='https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-surface-model-lidar-derived/explore' rel='nofollow ugc'>Lidar-derived Digital Surface Model (DSM)</a></li>\n<li><a href='https://geohub.lio.gov.on.ca/maps/mnrf::ontario-classified-point-cloud-lidar-derived/about' rel='nofollow ugc'>Lidar-derived classified point cloud</a> - by request</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "958f033f3bb54e7aa7296c5c925134e2",
+    "https://www.arcgis.com/home/item.html?id=958f033f3bb54e7aa7296c5c925134e2"
+  ],
+  "dct_issued_s": "2022-09-20",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/documents/RegionofPeel::peel-digital-elevation-model\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Peel Digital Elevation Model",
+  "gbl_mdModified_dt": "2025-09-16T17:21:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cc2fe12-7081-531f-b06b-5adf7b9c8da7",
+  "locn_geometry": "ENVELOPE(-80.15401840207606, -79.52093124387324, 43.989232955796496, 43.469241362515646)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

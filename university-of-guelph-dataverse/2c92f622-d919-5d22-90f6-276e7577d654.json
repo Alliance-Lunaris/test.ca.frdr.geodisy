@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "crystalloid solutions",
+    "colloid solutions",
+    "cats",
+    "volume kinetic modelling"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bateman, Shane (Department of Clinical Studies. Ontario Veterinary College. University of Guelph.). ORCID: https://orcid.org/0000-0002-0468-0256",
+    "Yiew, Xiu Ting (Department of Clinical Studies. Ontario Veterinary College. University of Guelph.). ORCID: https://orcid.org/0000-0002-3661-4763",
+    "Yang, Chien-Hsien Kitty (Department of Clinical Studies. Ontario Veterinary College. University of Guelph.). ORCID: https://orcid.org/0009-0002-7872-4431",
+    "Hahn, Robert G. (Department of Clinical Sciences. Karolinska Institutet.). ORCID: https://orcid.org/0000-0002-1528-3803",
+    "Muir, William (College of Veterinary Medicine. Lincoln Memorial University.). ORCID: https://orcid.org/0000-0002-3205-7250",
+    "Kerr, Carolyn (Department of Clinical Studies. Ontario Veterinary College. University of Guelph.). ORCID: https://orcid.org/0000-0001-8364-3105"
+  ],
+  "dct_description_sm": [
+    "The dataset contains physiological vital sign and biochemical data collected from awake and anesthetized cats who were given a fluid bolus (either 20 mL/kg of a balanced isotonic crystalloid solution (PLA) or 5 mL/kg of 6% tetrastarch 130/0.4 solution (T-HES) administered over 15 minutes.  Plasma dilution was calculated as a surrogate for 'fluid' concentration in the plasma along with cumulative urine output as the primary input data to do volume kinetic modeling in <a href=\"https://www.certara.com/software/phoenix-nlme/\">Phoenix NLME</a> software. The dataset contains 2 XLS spreadsheets that contain the formatted data for import into Phoenix- one for each fluid type, and 1 XLS spreadsheet that contains the combined datasets that was used for descriptive statistical analysis.  Finally the dataset contains 2 PDF documents that are copies of the HISTORY of the Phoenix output that allows the user to uncover the settings and approach that was used to model the data and complete the Phoenix Volume Kinetic Analysis."
+  ],
+  "dct_identifier_sm": [
+    "972211_76_41146_105645",
+    "https://doi.org/10.5683/SP3/NMXTSU"
+  ],
+  "dct_issued_s": "2025-08-25",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NMXTSU\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Guelph, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Replication data for: Volume kinetics of crystalloid and colloid solutions administered to healthy anesthetized cats",
+  "gbl_mdModified_dt": "2025-08-25T13:48:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2c92f622-d919-5d22-90f6-276e7577d654",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // Ontario Veterinary College // Department of Clinical Studies"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

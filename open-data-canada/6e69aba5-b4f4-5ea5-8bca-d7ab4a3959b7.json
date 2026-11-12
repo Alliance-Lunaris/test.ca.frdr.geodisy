@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Environnement",
+    "Eaux côtières",
+    "d’exposition relative aux vagues",
+    "Newfoundland and Labrador",
+    "Océanographie",
+    "Fetch",
+    "Environment",
+    "Relative Wave Exposure",
+    "Terre-Neuve-et-Labrador",
+    "Oceanography",
+    "Coastal waters",
+    "Coasts",
+    "Océan",
+    "fetch",
+    "Wind",
+    "Vent",
+    "Littoral"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indices de fetch et d’exposition relative aux vagues pour la zone côtière de la biorégion des plateaux de Terre-Neuve-et-Labrador"
+  ],
+  "dct_creator_sm": [
+    "NL Ecological Sciences / Sciences Ecologiques TNL (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "A relative exposure index (REI), unweighted fetch, effective fetch, and other fetch-based indices (i.e., sum, minimum) were calculated for the Newfoundland and Labrador (NL) Shelves bioregion. Due to the extensive coastline of the study region, this analysis was conducted for a 5km buffered region along the coast at a spatial resolution of 250m. Detailed methods on the selection of input points for the NL bioregion are included below.\n\nMethods\nPreprocessing and input point selection:\nLand boundary files were obtained for Eastern Canada and the Canadian Arctic (NrCan 2017) at a scale of 1:50,000 as well as for Saint Pierre and Miquelon (Hijmans 2015), and the New England states (GADM 2012) however the scale at which these layers were produced is unknown. Land boundary files were merged into a single land polygon layer and watercourses reaching for in-land and/or above sea level were clipped from this polygon layer (Greyson 2021). A 5km buffer was generated around the NL provincial boundary. This buffer was then clipped by all land polygons to remove areas overlapping land polygons within the study area. All buffer segments intersecting the NAFO divisions within the NL bioregion were selected and the Union tool in ArcGIS Pro (v. 2.7.2) was used to fill-in gaps within the buffered area, creating a more continuous polygon. The buffered layer was then dissolved, and the NL provincial boundary polygon was erased from the buffered layer to create the study area polygon. A 250m fishnet was created and clipped to the study area (5km buffer layer) and the feature to point tool was used (with the “inside parameter checked”) to convert this grid into a point layer (approx. 1,000,000 points). The spatial resolution for all subsequent analyses was matched to the fishnet grid at 250m.\n\nReferences\nGADM database of Global Administrative Areas (2012). Global Administrative Areas, version 2.0. (accessed 2 December 2020). www.gadm.org\n\nGreyson, P (2021) Land boundary file for Eastern Canada, the Canadian Arctic, the New England States and Saint Pierre and Miquelon. [shapefile]. Unpublished data.\n\nHijmans, R. and University of California, Berkeley, Museum of Vertebrate Zoology. (2015). First-level Administrative Divisions, Saint Pierre and Miquelon, 2015. UC Berkeley, Museum of Vertebrate Zoology. Available at: http://purl.stanford.edu/bz573nv9230\n\nNatural Resources Canada (2017) Administrative Boundaries in Canada - CanVec Series - Administrative Features - Open Government Portal. (accessed 2 December 2020). https://open.canada.ca/data/en/dataset/306e5004-534b-4110-9feb-58e3a5c3fd97.",
+    "Un indice d’exposition relative (IER), un fetch non pondéré, un fetch effectif et d’autres indices basés sur le fetch (c.-à-d. fetch total et minimal) ont été calculés pour la biorégion des plateaux de Terre-Neuve-et-Labrador. En raison de l’étendue du littoral de la région d’étude, cette analyse a été menée pour une région tampon de 5 km le long de la côte, avec une résolution spatiale de 250 m. Des méthodes détaillées sur la sélection des points d’entrée pour la biorégion de Terre-Neuve-et-Labrador sont incluses ci dessous.\n\nMéthodes\nTraitement préalable et sélection des points d’entrée:\nDes fichiers relatifs aux limites terrestres ont été obtenus pour l’est du Canada et l’Arctique canadien (RNCan 2017) à une échelle de 1:50 000 ainsi que pour Saint-Pierre-et-Miquelon (Hijmans 2015) et les États de la Nouvelle-Angleterre (GADM 2012); toutefois, l’échelle à laquelle ces couches ont été produites est inconnue. Les fichiers relatifs aux limites terrestres ont été fusionnés en une seule couche de polygones terrestres et les cours d’eau atteignant l’intérieur des terres ou se situant au-dessus du niveau de la mer ont été coupés de cette couche de polygones (Greyson 2021). Une zone tampon de 5 km a été créée autour de la frontière provinciale de Terre-Neuve-et-Labrador. Cette zone tampon a ensuite été découpée par tous les polygones terrestres afin de supprimer les zones de chevauchement des polygones terrestres dans la zone d’étude. Tous les segments de zone tampon croisant les divisions de l’OPANO dans la biorégion de Terre-Neuve-et-Labrador ont été sélectionnés et l’outil ArcGIS Union (v. 2.7.2) a été utilisé pour combler les lacunes dans la zone tampon, créant ainsi un polygone plus continu. La couche tampon a ensuite été dissoute, et le polygone de la limite provinciale de Terre-Neuve-et-Labrador a été effacé de la couche tampon pour créer le polygone de la zone d’étude. Une grille de 250 m a été créée et découpée en fonction de la zone d’étude (couche tampon de 5 km) et l’outil de conversion d’éléments en points a été utilisé (avec le « paramètre intérieur coché ») pour convertir cette grille en une couche de points (environ 1 000 000 points). La résolution spatiale pour toutes les analyses ultérieures a été adaptée à la grille à 250 m.\n\nRéférences\nGADM database of Global Administrative Areas (2012). Global Administrative Areas, version 2.0. (accessed 2 December 2020). www.gadm.org\n\nGreyson, P (2021) Land boundary file for Eastern Canada, the Canadian Arctic, the New England States and Saint Pierre and Miquelon. [shapefile]. Unpublished data.\n\nHijmans, R. and University of California, Berkeley, Museum of Vertebrate Zoology. (2015). First-level Administrative Divisions, Saint Pierre and Miquelon, 2015. UC Berkeley, Museum of Vertebrate Zoology. Available at: http://purl.stanford.edu/bz573nv9230\n\nNatural Resources Canada (2017) Administrative Boundaries in Canada - CanVec Series - Administrative Features - Open Government Portal. (accessed 2 December 2020). https://open.canada.ca/data/en/dataset/306e5004-534b-4110-9feb-58e3a5c3fd97."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f1da3a6f-3515-447e-9a73-50c8299816ec"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f1da3a6f-3515-447e-9a73-50c8299816ec\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology",
+    "society_and_culture"
+  ],
+  "dct_title_s": "Fetch and relative wave exposure indices for the coastal zone of the Newfoundland and Labrador Shelves bioregion",
+  "gbl_mdModified_dt": "2026-03-24T08:07:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6e69aba5-b4f4-5ea5-8bca-d7ab4a3959b7",
+  "locn_geometry": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "schema_provider_s": "Open Data Canada"
+}

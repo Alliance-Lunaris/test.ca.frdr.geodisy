@@ -1,0 +1,67 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.84913999, -56.42335874, 48.03704225, 39.45665195)",
+  "dcat_keyword_sm": [
+    "Gaz naturel",
+    "Production",
+    "Pipelines",
+    "Permis",
+    "Petroleum",
+    "hydrocarbures",
+    "Régie Canada-Nouvelle-Écosse de l’énergie extracôtière (RCNEEE)",
+    "Licensing",
+    "Explorations",
+    "Attribution de permis",
+    "Pétrole",
+    "Production",
+    "Atlantic provinces",
+    "la région des Maritimes",
+    "Oil and Gas",
+    "Forage en mer",
+    "Pipeline",
+    "Exploration",
+    "Canada-Nova Scotia Offshore Energy Regulator (CNSOER)",
+    "Natural gas",
+    "Permits",
+    "Maritime Region",
+    "Offshore drilling",
+    "Provinces atlantiques"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Régie Canada-Nouvelle-Écosse de l’énergie extracôtière - Activités pétrolières et gazières"
+  ],
+  "dct_creator_sm": [
+    "Miranda Huskins-Shupe."
+  ],
+  "dct_description_sm": [
+    "The dataset contains the digital boundaries for significant discovery licences, production licences, drilled wells, major pipelines and the jurisdictional boundary of the area administered by the Canada-Nova Scotia Offshore Energy Regulator  (CNSOER), as well as the inactive Georges Bank permits formerly administered by the Canada Oil and Gas Lands Administration (COGLA). All production facilities have been removed and active projects were fully abandoned and decommissioned by November 2020. As of January 2022 there are no active exploration licences.  \n  \n  A significant discovery licence (SDL) may be issued for lands within a declared significant discovery area under the Accord Acts. The term of a significant discovery licence is indefinite and was designed to maintain an explorer's rights during the period between first discovery and eventual production. Significant discovery licence interest representatives in 2021 include BP Canada Energy Company, ExxonMobil Canada Ltd., ExxonMobil Canada Properties, Ovintiv Canada ULC, and Shell Canada Limited. Most of the SDLs predate the CNSOEB; they were issued at various times from 1980 to 1986 by COGLA before the Offshore Board existed. On January 5, 1990, they were all rolled into CNSOEB’s governance. The only exception is SDL 2702 which was issued June 6, 2007.  \n  \n  A production licence (PL) gives interest holders the right to produce petroleum in an area which is subject to a declared commercial discovery. In order to be declared a commercial discovery, an operator must demonstrate that the discovery contains reserves that will justify the investment of capital and effort to bring the discovery to production. A production licence has a term of 25 years but may be extended if commercial production is continuing or is likely to recommence.  \n  \n  Production licence interest representatives in 2021 include ExxonMobil Canada Ltd. and Ovintiv Canada ULC. The PLs were effective on the following dates:  \n  \n  •\t2901, 2902: 1991-04-01  \n  \n  •\t2903, 2904, 2905, 2906: 1999-07-06  \n  \n  •\t2907: 2003-10-31  \n  \n  •\t2908: 2004-11-25  \n  \n  •\t2909, 2910, 2911: 2010-12-31   \n  \n  Inactive Georges Bank permit interest representatives include BP Canada Energy Company and Chevron Canada Ltd.  \n  \n  Each production licence, significant discovery licence and inactive Georges Bank permit polygon is a mapped representation of the permit interest abstract. The offshore area is divided into grid areas and permit interest abstracts are defined by this land division. The land division system consists of grid areas, sections, and units – all referenced to the North American Datum of 1927 (NAD27). For more information on the Canada lands defined areas (Land Division), See: Canada oil and gas regulations land division (https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.%2C_c._1518/page-1.html#h-525569 or https://www.cnsopb.ns.ca/resource-library/land-division-guideline).  \n  \n  The area of a PL or SDL can be found in the permit interest abstract for that licence, available for download on the CNSOER's website (https://www.cnsopb.ns.ca/sites/default/files/resource/interest_summary_table.pdf) .   \n  \n  The directory of wells point dataset contains the surface locations for all wells drilled in Offshore Nova Scotia. The file includes well names, locations, spud dates, termination dates, rig table elevations, water depths, well total depth, well type (exploratory, delineation, production, or injector), well result, and current status. Original data for wells drilled prior to 1990 was collected and maintained by the Geological Survey of Canada and COGLA. Data are also available on the Basin database online (https://basin.gdr.nrcan.gc.ca/index_e.php). CNSOER’s directory of wells was last updated January, 2020.  \n  \n  Jurisdictional boundary point and lines datasets define the outer limit of the jurisdiction of the CNSOER, as described in the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act - Schedule 1 (Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act (https://laws-lois.justice.gc.ca/eng/acts/C-7.8/page-1.html)), excluding the 200-nautical mile exclusive economic zone (EEZ) limit as described under Part VI of the United Nations Convention on the Law of the Sea (https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf?msclkid=5309c2b9cfc911ecb5bb107f67772ec1).   \n  \n  The offshore gas pipeline polyline dataset contains locations of major pipelines in the CNSOER's jurisdictional area, associated with petroleum production in offshore Nova Scotia. This file is considered to be approximate and is not an official record. Some pipeline coordinates are sourced from CAD documents (DXF), supplied by operators. Some were created using ArcMap, digitized from paper records. As of October 2021, all pipelines within this file have been fully flushed with sea water and abandoned.  \n  \n  All shapefiles were transformed into the NAD83 datum using the NTv2 transformation.",
+    "L’ensemble de données contient les limites numériques des licences de découvertes importantes, des permis de production, des puits forés, des principaux gazoducs et les limites juridictionnelles de la zone administrée par la Régie Canada-Nouvelle-Écosse de l’énergie extracôtière (RCNEEE), ainsi que les permis inactifs de la zone du banc Georges, anciennement administrés par l’Administration du pétrole et du gaz des terres du Canada (APGTC). Toutes les installations de production ont été retirées et les projets actifs ont été entièrement abandonnés et déclassés à compter de novembre 2020. Depuis janvier 2022, il n’y a pas de permis d’exploration actif.  \n  \n  Une licence de découverte importante (LDI) peut être délivrée pour des terres situées dans un périmètre de découverte importante faisant l’objet d’une déclaration en vertu des lois de mise en œuvre des accords. La durée d’une licence de découverte importante a été conçue afin qu’un prospecteur puisse conserver ses droits pendant la période entre la première découverte et la production éventuelle. Les titulaires de licence de découverte importante en 2021 comprennent BP Canada Energy Company, ExxonMobil Canada Ltd, ExxonMobil Canada Properties, Ovintiv Canada ULC et Shell Canada Limited. La plupart des LDI sont antérieures à l’RCNEEE; elles ont été délivrées à divers moments entre 1980 et 1986 par l’APGTC avant l’existence de l’RCNEEE. Le 5 janvier 1990, l’administration de ces dernières a été confiée à l’RCNEEE. La seule exception concerne la LDI 2702 qui a été délivrée le 6 juin 2007.  \n  \n  Les permis de production donnent le droit aux titulaires de permis de produire des produits pétroliers dans une zone visée par une déclaration de découverte exploitable. Pour qu’il y ait déclaration de découverte exploitable, un exploitant doit prouver que la découverte renferme des réserves d’hydrocarbures suffisantes pour justifier les investissements de capitaux et les travaux nécessaires à leur mise en production. Un permis de production a une durée de 25 ans, mais celle-ci peut être prolongée si la production commerciale se poursuit ou est susceptible de reprendre.  \n  \n  Les titulaires de permis de production en 2021 comprennent ExxonMobil Canada Ltd et Ovintiv Canada ULC. Les PP étaient en vigueur aux dates suivantes :  \n  \n  •\t2901, 2902 : 1991-04-01  \n  \n  •\t2903, 2904, 2905, 2906 : 1999-07-06  \n  \n  •\t2907 : 2003-10-31  \n  \n  •\t2908 : 2004-11-25  \n  \n  •\t2909, 2910, 2911 : 2010-12-31   \n  \n  Les titulaires de permis inactifs de la zone du banc Georges comprennent BP Canada Energy Company et Chevron Canada Ltd.  \n  \n  Chaque permis de production, chaque licence de découverte importante et les polygones de permis inactifs de la zone du banc Georges sont une représentation cartographiée des résumés des titulaires de permis. La zone extracôtière est divisée en étendues quadrillées et les résumés des titulaires de permis sont définis par cette division des terres. Le système de division des terres se compose d’étendues quadrillées, de sections et d’unités répertoriées dans le Système géodésique nord-américain de 1927 (NAD27). Pour obtenir de plus amples renseignements sur les zones définies des terres du Canada (division des terres), veuillez consulter : Règlement sur les terres pétrolifères et gazifères du Canada (https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.%2C_c._1518/page-1.html#h-525569 ou https://www.cnsopb.ns.ca/resource-library/land-division-guideline).  \n  \n  L’étendue propre à un PP ou à une LDI se trouve dans le résumé du titulaire du permis en question, téléchargeable à partir du site Internet de l’RCNEEE (https://www.cnsopb.ns.ca/sites/default/files/resource/interest_summary_table.pdf).   \n  \n  L’ensemble de données ponctuelles du répertoire des puits contient les emplacements de surface de tous les puits forés au large de la Nouvelle-Écosse. Le fichier comprend le nom des puits, leur emplacement, les dates de forage, les dates de fin, les élévations des plate-formes de forage, les profondeurs d’eau, la profondeur totale des puits, le type de puits (exploration, délinéation, production ou injection), les résultats des puits et leur statut actuel. Les données originales des puits forés avant 1990 ont été recueillies et conservées par la Commission géologique du Canada et l’APGTC. Les données sont également disponibles sur la base de données BASIN en ligne (https://basin.gdr.nrcan.gc.ca/index_e.php). La dernière mise à jour du répertoire des puits de l’RCNEEE date de janvier 2020.  \n  \n  Les ensembles de données concernant les points limites et les lignes de démarcation juridictionnels définissent la limite extérieure de zone de juridiction de l’RCNEEE, telle que décrite dans la Loi de mise en œuvre de l’Accord Canada-Nouvelle-Écosse sur les hydrocarbures extracôtiers – Annexe 1 (Loi de mise en œuvre de l’Accord Canada-Nouvelle-Écosse sur les hydrocarbures extracôtiers (https://laws-lois.justice.gc.ca/eng/acts/C-7.8/page-1.html)), à l’exclusion de la limite de la zone économique exclusive (ZEE) de 200 milles marins telle que décrite dans la partie VI de la Convention des Nations Unies sur le droit de la mer (https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf?msclkid=5309c2b9cfc911ecb5bb107f67772ec1).   \n  \n  L’ensemble de données de polyligne des gazoducs extracôtiers contient les emplacements des principaux gazoducs dans la zone de juridiction de l’RCNEEE en lien avec la production pétrolière au large de la Nouvelle-Écosse. Ce fichier est considéré comme approximatif et ne constitue pas un document officiel. Certaines coordonnées de gazoducs proviennent de documents de CAO (fichiers DXF) qui ont été fournis par les exploitants. Certains de ces derniers ont été créés à l’aide d’ArcMap et numérisés à partir de documents papier. En octobre 2021, tous les gazoducs dont il est question dans ce fichier ont été entièrement nettoyés à l’eau de mer et abandonnées.  \n  \n  Tous les fichiers de forme ont été transformés dans le système géodésique NAD83 au moyen du logiciel NTv2."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6278d435-fdd6-4889-a3fb-7f31134cf8eb"
+  ],
+  "dct_issued_s": "2022-06-30",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6278d435-fdd6-4889-a3fb-7f31134cf8eb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "government_and_politics",
+    "nature_and_environment",
+    "science_and_technology",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Canada-Nova Scotia Offshore Energy Regulator - Oil and Gas Activity",
+  "gbl_mdModified_dt": "2025-09-04T07:40:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1087071c-7a56-56eb-91bd-df334ef30410",
+  "locn_geometry": "ENVELOPE(-67.84913999, -56.42335874, 48.03704225, 39.45665195)",
+  "schema_provider_s": "Open Data Canada"
+}

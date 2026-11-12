@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-94.98348, -94.983438, 74.722076, 74.722063)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Steinhage, Daniel (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven).",
+    "Jansen, Daniela (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-4412-5820",
+    "Franke, Steven (University of Tübingen). ORCID: https://orcid.org/0000-0001-8462-4379",
+    "Helm, Veit (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0001-7788-9328",
+    "Lilien, David A (Indiana University). ORCID: https://orcid.org/0000-0001-8667-8020",
+    "Dahl-Jensen, Dorthe (University of Manitoba, University of Copenhagen). ORCID: https://orcid.org/0000-0002-1474-1948"
+  ],
+  "dct_description_sm": [
+    "This dataset contains airborne radar data acquired using the Alfred Wegener Institutes multi-channel ultra-wideband (AWI UWB) radar system during the Arctic season of 2023 in the Canadian Arctic. The profiles extend across the Müller Ice Cap on Umingmat Nunaat (Axel Heiberg Island), Nunavut, Canada, ∼80°N. The radar data show that some areas near the top of the ice cap are more than 600 m thick, have nearly stable surface elevation, and flow slowly, making them good candidates for an ice core with an undisturbed Holocene climate record (Lilien et al., 2024). The data are available as netCDF files (including waveforms and metadata), KML files of the profile line locations, and quicklook images of the radargrams.",
+    "Owner / PI: Daniel Steinhage (AWI) &amp; Dorthe Dahl-Jensen (University of Manitoba)Email address of the provider:daniel.steinhage@awi.dedaniela.jansen@awi.deveit.helm@awi.deInstrument used: AWI UWB (MCoRDS 5)Data products: CSARP_standard (SAR focussed), CSARP_qlook (unfocussed)Data product documentation: https://data.cresis.ku.edu/data/rds/rds_readme.pdfMethod of navigation : GPS data was acquired by four NovAtel DL-V3 GPS receivers operating at 20Hz--The netCDF files contain the following variables:altitude: Platform altitude (WGS84) in metersbed_elevation: Bed elevation for each trace (without applying a firn correction and permitivity of ice: 3.15) in metersbed_pick: picked Bed location for each trace, expressed as twt in seconds from time zerodata: Radar data (Values in dBm after DC conversion)data_agc: Scaled radar data using automatic gain control (AGC)distance: Along-track distance in metersice_thickness: Ice thickness for each trace (without applying a firn correction and permitivity of ice: 3.15) in meterslat: Latitude in decimal degrees (WGS84)lon: Longitude in decimal degrees (WGS84)range: Range between sensor and surface in metersspacing: Along-track trace to trace spacing in meterssurface: Surface elevation derived from radar (WGS84) in meterssurface_pick: Picked surface reflection in two-way travel time in secondstime: Seconds of daytwt: Two-way travel time (twt) in seconds--Ice-base picks were taken from Lilien et al. (2024).Note that the surface picks were quality-checked for the standard product. For the qlook product only an auto-tracked surface pick is available."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.980473",
+    "https://doi.org/10.1594/pangaea.980473"
+  ],
+  "dct_issued_s": "2025-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.980473\"}",
+  "dct_subject_sm": [
+    "Profile ID",
+    "Season",
+    "Müller Ice Cap",
+    "radio-echo sounding",
+    "Ultra-wideband radar (UWB), MCoRDS 5",
+    "P5-240_MullerIceCap_2023",
+    "Polar 5",
+    "netCDF file",
+    "Canadian Arctic",
+    "Image",
+    "Radar product",
+    "ice core reconnaissance",
+    "AWI UWB",
+    "netCDF file (File Size)",
+    "GIS file",
+    "POLAR 5",
+    "Aircraft",
+    "Event label"
+  ],
+  "dct_title_s": "ARK 2023: AWI airborne ultra-wideband radar data over the Müller Ice Cap, Umingmat Nunaat (Axel Heiberg Island), Canadian Arctic (The Müller Ice Cap Project)",
+  "gbl_mdModified_dt": "2026-05-16T03:45:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5637e81e-a5ce-5e8a-bb19-1269a1c45dad",
+  "locn_geometry": "ENVELOPE(-94.98348, -94.983438, 74.722076, 74.722063)",
+  "schema_provider_s": "PANGAEA"
+}

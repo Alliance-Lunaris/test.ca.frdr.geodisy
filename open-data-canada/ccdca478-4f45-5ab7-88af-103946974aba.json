@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Câble",
+    "Pylône",
+    "SIRR",
+    "Énergie",
+    "Information gouvernementale",
+    "Infrastructure",
+    "Structure"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier."
+  ],
+  "dct_description_sm": [
+    "Geometric and conventional representation of electrical transmission lines for planning purposes.\n\nGeospatial data from power lines represents only the core infrastructure and is structured according to the following layers of information:\n\n- CARTO-SER-ELECTRICITY: A concrete base on which a structure used to support high-voltage electrical cables is based.\n\n- Carto-Ser-Ele-Tel-Aerien: suspended electrical cable. Symbolic representation, from center pylon to center pylon.\n\nThese elements form part of the layers in the digital cartographic compilation.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Représentation géométrique et conventionnelle des lignes de transport électrique pour des fins de planification.\n\nLes données géospatiales des lignes de transport électrique ne représentent que l’infrastructure principale et sont structurées selon les couches d’informations suivantes:\n\n- CARTO-SER-ELECTRICITE: Base de béton sur laquelle repose une structure servant à supporter des câbles électriques à haute tension.\n\n- CARTO-SER-ELE-TEL-AERIEN:Câble électrique suspendu. Représentation symbolique, de centre pylône à centre pylône.\n\nCes éléments constituent une partie des calques de la compilation cartographique numérique."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ac3515d6-2753-47a5-8575-35be7d127f43"
+  ],
+  "dct_issued_s": "2024-01-04",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ac3515d6-2753-47a5-8575-35be7d127f43\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Lignes de transport électrique",
+  "gbl_mdModified_dt": "2026-09-30T17:33:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ccdca478-4f45-5ab7-88af-103946974aba",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

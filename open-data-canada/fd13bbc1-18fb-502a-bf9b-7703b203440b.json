@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Cultures",
+    "Agriculture",
+    "Crops"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice de stress des cultures"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The Crop Stress Index is the ratio of actual evapotranspiration (AET) to potential evapotranspiration (PET) express as: \nCSI = 1-(AET/PET)\nAET and PET are calculated within the Versatile Soil Moisture Budget (VSMB) model using temperature and precipitation data and a crop-specific biometeorological time scale model to estimate growth stage (Robertson, 1968), with crop specific phenological and crop water extraction coefficients taken from Chipanshi et al 2013. The WDI ranges between 0 and 1, with a value closer to 1 indicating higher stress Crop Stress Index is modelled for each climate station using measured precipitation and temperature",
+    "L’indice de stress des cultures est le rapport entre l’évapotranspiration réelle (ETR) et \n l’évapotranspiration potentielle (ETP), exprimé comme suit :\nISC = 1-(ETR/ETP)\nL’ETR et l’ETP sont calculées à l’aide du modèle adaptatif du bilan hydrique des sols en utilisant les données sur les températures et les précipitations et un modèle d’échelle de temps biométéorologique propres aux cultures pour déterminer le stade de croissance (Robertson, 1968), ainsi que les coefficients relatifs au stade phénologique et à l’extraction d’eau propres aux cultures établis par Chipanshi et al, 2013. L’IDH varie entre 0 et 1, où une valeur de 1 indique un niveau de stress élevé.\nL’indice de stress des cultures est défini pour chaque station climatologique en utilisant des précipitations et des températures mesurées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/07fc840d-69de-4d23-af0d-51d6df042d8a"
+  ],
+  "dct_issued_s": "2018-06-01",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/07fc840d-69de-4d23-af0d-51d6df042d8a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Crop Stress Index",
+  "gbl_mdModified_dt": "2026-02-25T18:31:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd13bbc1-18fb-502a-bf9b-7703b203440b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

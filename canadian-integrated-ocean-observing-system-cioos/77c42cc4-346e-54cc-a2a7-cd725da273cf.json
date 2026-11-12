@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.30208, -55.39583, 51.90625, 45.19792)",
+  "dcat_keyword_sm": [
+    "Glace de mer",
+    "remote sensing",
+    "seaIce",
+    "phytoplanktonBiomassAndDiversity",
+    "Coastal Environmental Baseline Program",
+    "seaSurfaceTemperature",
+    "Biomasse et diversité de phytoplancton",
+    "Salinité de surface",
+    "seaSurfaceSalinity",
+    "Température de surface",
+    "télédétection",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur les conditions océanographiques de surface dans l'estuaire et le golfe du St-Laurent issues principalement de la télédétection satellitaire"
+  ],
+  "dct_creator_sm": [
+    "Pêches et Océans Canada.",
+    "Laliberte, Julien (Department of Fisheries and Oceans, Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "This collection brings together several daily environmental variables covering the St. Lawrence Estuary and Gulf. The project aims to make the best available data on coastal environments accessible in a single repository, prioritizing the optimal balance between the quality of estimates, spatial resolution, temporal frequency, and the duration of the available data series. When satellite observations do not allow for a direct estimate of a variable, the best available reanalysis or data assimilation products are used.\n\nAll variables are presented on a common grid with a spatial resolution of one kilometre covering the St. Lawrence Estuary and Gulf, allowing them to be directly overlaid and used together in environmental analyses, numerical models, or time-series studies. Data can be easily extracted and integrated into major programming and spatial analysis software (R, Python, QGIS, ArcGIS, etc.) to provide context for observations or to drive environmental analyses. The datasets are updated automatically based on the availability of the various sources, with a delay that can generally be up to a few weeks. This collection is currently under development, and new variables will be added gradually to provide an increasingly comprehensive description of environmental conditions in coastal areas.\n\n***Available Variables:***  \n\n- ***Chlorophyll-a concentration*** (**mg m⁻³**) : Daily estimates of chlorophyll-a concentration derived from satellite observations of ocean colour. The satellite data used originated from the \"*Ocean Colour Climate Change Initiative*\" (OC-CCI) program.\n\n- ***Sea surface temperature*** (**°C**) : Daily sea surface temperature derived from infrared satellite observations from the GHRSST program. The observations are empirically corrected to improve their representativeness in the St. Lawrence Estuary and Gulf.  \n\n- ***Surface salinity*** (**g kg⁻¹**) : Daily estimates of surface salinity derived from satellite observations of water colour. The satellite data used originated from the \"*Ocean Colour Climate Change Initiative*\" (OC-CCI) program.  \n\n- ***Sea ice concentration*** (**%**) : Daily fraction of the sea surface covered by sea ice, based on maps from the Canadian Ice Service and interpolated onto the common grid.  \n\n- ***Depth of the mixing zone*** (**m**) : Daily depth of the oceanic mixing zone, derived from the GLORYS12 ocean reanalysis (Mercator Ocean). This variable represents the thickness of the surface layer homogenized by vertical mixing.  \n\n- ***Wind speed*** (**m s⁻¹**) : Daily average wind speed at 10 m above sea level, calculated from the MERRA-2 atmospheric reanalysis and interpolated onto a 1 km grid.  \n\n- Soon available - ***Photosynthetically active radiation (PAR)*** (**mol photons m⁻² day⁻¹**) : Daily amount of sunlight available for photosynthesis estimated from satellite observations of cloud cover using a correspondence table-based approach.  \n\n- Soon available - ***Photosynthetically active radiation from the Moon (PAR lunar)*** (**mol photons m⁻² night⁻¹**) : Daily estimates of photosynthetically active radiation from the Moon, calculated based on the lunar phases, the Moon's position, and cloud cover.  \n\n***Dataset limitation:*** Do not use for navigation purposes.",
+    "Cette collection regroupe plusieurs variables environnementales quotidiennes couvrant l'estuaire et le golfe du Saint-Laurent. L'objectif du projet est de rendre accessibles, sur une même plateforme, les meilleures données disponibles pour le milieu côtier, en privilégiant les produits offrant le meilleur compromis entre la qualité des estimations, la résolution spatiale, la fréquence temporelle et la longueur des séries disponibles. Lorsque les observations satellitaires ne permettent pas d'estimer directement une variable, les meilleurs produits de réanalyse ou d'assimilation de données disponibles sont utilisés.\n\nToutes les variables sont distribuées sur une grille commune de 1 km de résolution spatiale et à une résolution temporelle journalière, ce qui permet de les superposer directement et de les utiliser conjointement dans des analyses environnementales, des modèles numériques ou des études de séries temporelles. Les données peuvent être facilement extraites et intégrées dans les principaux logiciels de programmation et d'analyse spatiale (R, Python, QGIS, ArcGIS, etc.) afin de mettre en contexte des observations ou d'alimenter des analyses environnementales. Les jeux de données sont mis à jour automatiquement selon la disponibilité des différentes sources, avec un délai généralement de quelques semaines. Cette collection est en développement et de nouvelles variables seront ajoutées progressivement afin d'offrir un portrait toujours plus complet des conditions environnementales du milieu côtier.\n\n***Variables disponibles :***  \n\n- ***Concentration en chlorophylle-a*** (**mg m⁻³**) : Estimation quotidienne de la concentration en chlorophylle-a dérivée des observations satellitaires de couleur de l'eau. Les données satellitaires utilisées proviennent du programme *Ocean Colour Climate Change Initiative* (OC-CCI).  \n\n- ***Température de surface de la mer*** (**°C**) : Température quotidienne de la surface de la mer dérivée des observations satellitaires infrarouges du programme GHRSST. Les observations sont corrigées empiriquement afin d'améliorer leur représentativité dans l'estuaire et le golfe du Saint-Laurent.  \n\n- ***Salinité de surface*** (**g kg⁻¹**) : Estimation quotidienne de la salinité de surface obtenue à l'aide des observations satellitaires de couleur de l'eau. Les données satellitaires utilisées proviennent du programme *Ocean Colour Climate Change Initiative* (OC-CCI).  \n\n- ***Concentration en glace de mer*** (**%**) : Fraction quotidienne de la surface de l'océan couverte par la glace de mer, produite à partir des cartes du Service canadien des glaces et interpolée sur la grille commune.  \n\n- ***Profondeur de la couche mélangée*** (**m**) : Profondeur quotidienne de la couche de mélange océanique provenant de la réanalyse océanique GLORYS12 (Mercator Ocean). Cette variable représente l'épaisseur de la couche de surface homogénéisée par le mélange vertical.  \n\n- ***Vitesse du vent*** (**m s⁻¹**) : Vitesse moyenne quotidienne du vent à 10 m au-dessus de la surface de la mer, calculée à partir de la réanalyse atmosphérique MERRA-2 puis interpolée sur la grille de 1 km.  \n\n- Bientôt disponible - ***Rayonnement photosynthétiquement actif (PAR)*** (**mol photons m⁻² jour⁻¹**) : Quantité quotidienne de lumière solaire disponible pour la photosynthèse, estimée à partir des observations satellitaires de la couverture nuageuse selon une approche basée sur des tables de correspondance.  \n\n- Bientôt disponible - ***Rayonnement photosynthétiquement actif lunaire (PAR lunaire)*** (**mol photons m⁻² nuit⁻¹**) : Estimation quotidienne du rayonnement photosynthétiquement actif provenant de la lune, calculée à partir de la phase lunaire, de sa position et des conditions nuageuses.  \n\n***Limitations des jeux de données :*** Ne pas utiliser à des fins de navigation."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/99774d27-ebec-4563-98f6-daf83da1c452"
+  ],
+  "dct_issued_s": "2000-01-01",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/99774d27-ebec-4563-98f6-daf83da1c452\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Data on Oceanographic Conditions at the Surface of the St. Lawrence Estuary and Gulf, Mainly Derived from Satellite Remote Sensing.",
+  "gbl_mdModified_dt": "2026-09-04T17:32:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "77c42cc4-346e-54cc-a2a7-cd725da273cf",
+  "locn_geometry": "ENVELOPE(-71.30208, -55.39583, 51.90625, 45.19792)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

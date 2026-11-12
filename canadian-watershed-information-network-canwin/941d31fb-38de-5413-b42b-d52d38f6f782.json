@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0078, -88.9919, 59.9995, 48.9989)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "RHAs/Health Regions are geographic areas which are used to define populations and catchment areas for the administration and delivery of health services. This file provides RHA boundaries for cartographic and analytical purposes.  \n  \n  Within Manitoba there are five Regional Health Authorities (or \"RHAs\") responsible for the delivery of health services in five specific areas of the province described in the legislation as \"health regions.\" (In practice, the terms \"health region\" and \"RHA\" are often used interchangeably to describe these geographic areas.). This file contains boundaries for the health regions for each Regional Health Authority in Manitoba. Fields included (Alias (Field Name): Field description.) RHA Code (RHACODE): Two-digit numeric code which uniquely identifies a specific legislatively defined RHA RHA Name (RHAName): This field contains a simple name for each RHA, suitable for use as a label, in English. Nom de l'office régionale de la santé (RHANomFr): This field contains a simple name for each RHA, suitable for use as a label, in French. RHA Area - total (sq km) (RHAArea): The calculated geodesic area, in square kilometres, of the area within a given RHA's boundaries. RHA Area - excludes major lakes (sq km) (LandArea): The calculated geodesic area, in square kilometres, of the area within a given RHA's boundaries, with the area of major lakes excluded. For population density calculations, we recommend the use of this area value. The following major lakes have been excluded: Lake Winnipeg, Lake Manitoba, Lake Winnipegosis, and Cedar Lake."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/22d73e08-b467-fb0b-436e-74da9ff67890"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/22d73e08-b467-fb0b-436e-74da9ff67890\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Regional Health Authorities",
+  "gbl_mdModified_dt": "2025-02-05T19:05:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "941d31fb-38de-5413-b42b-d52d38f6f782",
+  "locn_geometry": "ENVELOPE(-102.0078, -88.9919, 59.9995, 48.9989)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.0463, -66.9405, 44.9867, 44.9071)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Funded under DFO's Marine Conservation Targets Program, this optical imagery benthic survey documents the occurrence and estimated percent cover of the invasive colonial tunicate, Didemnum vexillum in seven drift-camera transects in the 'Head Harbour/West Isles Archipelago/The Passages' Ecologically and Biologically Significant Area (ESBA, ~113km2) in the western Bay of Fundy, New Brunswick, Canada. Occurrence data was derived from the use of high-resolution still images (n=386) taken periodically throughout each transect, and simultaneous continuous high-definition video. Video was divided into 20-second segments (here, we report the start and end location of each segment within a transect) and when D. vexillum was present in a video segment, frequency of occurrence was classified as common (continuous coverage/patches throughout the video segment), occasional (individual colonies of various sizes encountered >5 times throughout the video segment), or rare (small, isolated colonies encountered ≤5 times throughout the video segment). A video segment was deemed unusable and removed from the dataset if there was too much turbidity, or if the camera position was too high off-bottom to reliably image the seafloor. For still images, when D. vexillum was observed in an image, colony percent cover was categorized as >50%, 26-50%, 6-25%, or ≤5% of the images field of view (FOV). Distance travelled and distance between still images (m) was calculated using ArcGIS tools. FOV was estimated by measuring the length and width of a subset of still images and video frame grabs in ImageJ2, using 10-cm lasers for scale. FOV was standardized for each reported altitude, and area sampled (m2) along a continuous video segment was estimated by multiplying the average FOV by the distance travelled in that segment. D. vexillum was found in 44% of the area sampled at depths from 34 to 118m, deeper than previous reports globally of ~80m.\n\nCite this data as: Teed LL, Goodwin C, Lawton P, Lacoursière-Roussel A, Dinning KM (2024) Multiple perspectives on the emergence of the invasive colonial tunicate Didemnum vexillum Kott, 2002 in the western Bay of Fundy, Atlantic Canada. BioInvasions Records 13(3): 713–738, https://doi.org/10.3391/bir.2024.13.3.12"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8ea6c28a-3d6c-47ef-8cf7-56790ee0c7f5"
+  ],
+  "dct_issued_s": "2024-04-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8ea6c28a-3d6c-47ef-8cf7-56790ee0c7f5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Occurrence and percent cover of the colonial invasive tunicate Didemnum vexillum from near-seafloor drift transect video imagery and high-resolution digital still images in the western Bay of Fundy",
+  "gbl_mdModified_dt": "2026-03-24T08:44:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "118e6771-7e9c-5b37-a7c5-c31f8a641264",
+  "locn_geometry": "ENVELOPE(-67.0463, -66.9405, 44.9867, 44.9071)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

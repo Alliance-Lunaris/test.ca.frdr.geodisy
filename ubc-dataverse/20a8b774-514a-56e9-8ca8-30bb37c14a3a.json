@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "transcriptome",
+    "McDonald-Kreitman test",
+    "selection",
+    "gene expression",
+    "RNAseq",
+    "Helianthus",
+    "Sequence Divergence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Renaut, Sébastien (University of British Columbia).",
+    "Grassa, Christopher J. (University of British Columbia).",
+    "Moyers, Brook T. (University of British Columbia).",
+    "Kane, Nolan C. (University of Colorado Boulder, University of British Columbia).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Grassa, Christopher (University of British Columbia, Harvard University).",
+    "Moyers, Brook (University of British Columbia).",
+    "Kane, Nolan (University of British Columbia).",
+    "Rieseberg, Loren (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "<b>Abstract</b><br/>Few studies have investigated the causes of evolutionary rate variation among plant nuclear genes, especially in recently diverged species still capable of hybridizing in the wild. The recent advent of Next Generation Sequencing (NGS) permits investigation of genome wide rates of protein evolution and the role of selection in generating and maintaining divergence. Here, we use individual whole-transcriptome sequencing (RNAseq) to refine our understanding of the population genomics of a wild species of sunflowers (Helianthus spp.) and the factors that affect rates of protein evolution. We aligned 35 GB of transcriptome sequencing data and identified 433,257 polymorphic sites (SNPs) in a reference transcriptome comprising 16,312 genes. Using SNP markers, we identified strong population clustering largely corresponding to the three species analyzed here (Helianthus annuus, H. petiolaris, H. debilis), with one distinct early generation hybrid. Then, we calculated the proportions of adaptive substitution fixed by selection (alpha) and identified gene ontology categories with elevated values of alpha. The “response to biotic stimulus” category had the highest mean alpha across the three interspecific comparisons, implying that natural selection imposed by other organisms plays an important role in driving protein evolution in wild sunflowers. Finally, we examined the relationship between protein evolution (dN/dS ratio) and several genomic factors predicted to co-vary with protein evolution (gene expression level, divergence and specificity, genetic divergence [FST], and nucleotide diversity [pi]). We find that variation in rates of protein divergence was correlated with gene expression level and specificity, consistent with results from a broad range of taxa and timescales. This would in turn imply that these factors govern protein evolution both at a microevolutionary and macroevolutionary timescale. Our results contribute to a general understanding of the determinants of rates of protein evolution and the impact of selection on patterns of polymorphism and divergence.",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/ucWVQS7Y29ZktYGTRuO_tSVw8XxObs00uTiPKus0x10</p>\n<p><b>Storage size:</b> 29937311</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">reference transcriptome</h4><div class=\"o-metadata__file-description\">fasta file containing reference transcriptome (16312 contigs) described in the method section.</div><div class=\"o-metadata__file-name\">TranscriptomeRef_mar30.fa</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snp_table</h4><div class=\"o-metadata__file-description\">Table containing genotypes for all 433,257 SNPs. First column contains contig name were the SNP is found, second column the reference allele, third column the position of the SNP within the contig, last three columns Fst values for the three comparisons (annuus-debilis, annuus-petiolaris, debilis-petiolaris). Species identification of individuals can be found in table 4. File was compressed (.zip).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">raw read count per gene</h4><div class=\"o-metadata__file-description\">Number of reads aligned, per contig, per individuals. Column one contains contig name, column two length of the contig.</div><div class=\"o-metadata__file-name\">raw_read_counts</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153806_150149",
+    "https://doi.org/10.5683/SP2/FOKEUG"
+  ],
+  "dct_issued_s": "2021-05-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/FOKEUG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The population genomics of sunflowers and genomic determinants of protein evolution revealed by RNAseq",
+  "gbl_mdModified_dt": "2021-05-20T04:26:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "20a8b774-514a-56e9-8ca8-30bb37c14a3a",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

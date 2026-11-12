@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A hydrogeological unit is defined as any soil or rock unit or zone that by virtue of its hydraulic properties has a distinct influence on the storage or movement of groundwater. It is considered the main dataset from the GGP point of view. Hydrogeological units are ranked into five levels (from largest to smallest): 1) hydrogeological region, 2) hydrogeological context, 3) aquifer system, 4) hydrostratigraphic unit, and 5) aquifer. Here are formal definitions for these different types of hydrogeologic units. - Hydrogeological region Hydrogeological regions are areas in which the properties of sub-surface water, or groundwater, are broadly similar in geology, climate and topography. There are 9 such regions identified in Canada (ref?). - Hydrogeological context Hydrogeological contexts are units of reporting, conceptually narrower than regions, and are additionally delineated by physiographic and hydrogeological aspects. - Aquifer system \"\"A heterogeneous body of intercalated permeable and poorly permeable material that functions regionally as a water-yielding hydraulic unit; it comprises two or more permeable beds [aquifers] separated at least locally by aquitards [confining units] that impede groundwater movement but do not greatly affect the regional hydraulic continuity of the system\"\" (Poland et al., 1972). - Hydrostratigraphic unit (HSU) \"\"Body of sediment and/or rock characterized by ground water flow that can be demonstrated to be distinct under both unstressed (natural) and stressed (pumping) conditions, and is distinguishable from flow in other HSUs\"\" (Noyes et al.) - Aquifer \"\"A formation, group of formations, or part of a formation that contains sufficient saturated permeable material to yield significant quantities of water to wells and springs\"\" (Lohman et al, 1972, p. 21). The rank attribute is used to specify the scope of the described unit. The general principle behind this specification is to allow the same data structure to apply to various types of hydrogeological units, from the local aquifer to the almost continental hydrogeological region. The dataset includes properties such as identification, physiography, geology, aquifer description and properties, water balance, groundwater use and risk. It features numerical values or a general description when no values are available. The description can also be used to add context to the numerical values. For each property, metadata identifying the source of the original data, links to similar data in GIN, and description of the processes, algorithms or methodology used to obtain these datasets will be available to complement the data. This dataset is designed to capture and represent a set of synthesized information pertaining to hydrogeological units through maps and succinct table reports. Some attributes (or properties) of the dataset are irrelevant depending of the rank of the unit. In general, this dataset is organised to include multiple properties associated with aquifers and larger hydrogeologic units. These properties are grouped into categories, which include identification, physiography, geology, aquifer description, water balance, groundwater use and risk. The numerical values associated with each of the properties can be used to create thematic maps; hence, the importance of using standardized units of measurement and definitions for these properties. When numerical values are not available, a general description may be supplied instead. The description can also be used to add context to the numerical values. Because this dataset is the cornerstone of the national view on groundwater, supplemental contextual information (metadata) must be part of the data. Thus, for each property, metadata identifying the source of the original data, links to similar data in GIN, and a description of the processes, algorithms or methodology used to obtain these datasets will be available to complement the data."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/34c0dbf2-9595-84f3-679c-7d2d7c90ecfe"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/34c0dbf2-9595-84f3-679c-7d2d7c90ecfe\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hydrogeological Units, Groundwater Geoscience Program",
+  "gbl_mdModified_dt": "2020-05-05T17:44:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6bd1f181-e04f-5c64-a129-e2f299892b33",
+  "locn_geometry": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

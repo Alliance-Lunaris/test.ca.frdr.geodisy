@@ -1,0 +1,71 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.0, 83.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Landsat7",
+    "Geographic data",
+    "Orthoimage",
+    "Données géographiques",
+    "GéoBase",
+    "Satellite",
+    "CanImage",
+    "Landsat7",
+    "Imagery",
+    "Remote sensing",
+    "Système d'information géographique",
+    "Imagerie",
+    "Sciences de l'environnement",
+    "Geomatics",
+    "Imagery analysis",
+    "GeoBase",
+    "RADARSAT1",
+    "RADARSAT1",
+    "Cartography",
+    "Orthoimage",
+    "Geographic information systems",
+    "Géomatique",
+    "Satellite",
+    "Environmental sciences",
+    "Analyse d'images",
+    "Landsat",
+    "Landsat",
+    "CanImage",
+    "Télédétection",
+    "Cartographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Orthoimages du Canada, 1999-2003"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This collection is a legacy product that is no longer supported. It may not meet current government standards.  \n  \n  This inventory presents chronologically the satellite images acquired, orthorectified and published over time by Natural Resources Canada. It is composed of imagery from the Landsat7 (1999-2003) and RADARSAT-1 (2001-2002) satellites, as well as the CanImage by-product and the control points used to process the images.  \n  \n  Landsat7 Orthorectified Imagery: The orthoimage dataset is a complete set of cloud-free (less than 10%) orthoimages covering the Canadian landmass and created with the most accurate control data available at the time of creation.  \n  \n  RADARSAT-1 Orthorectified Imagery: The 5 RADARSAT-1 images (processed and distributed by RADARSAT International (RSI) complete the landsat 7 orthoimagery coverage. They are stored as raster data produced from SAR Standard 7 (S7) beam mode with a pixel size of 15 m. They have been produced in accordance with NAD83 (North American Datum of 1983) using the Universal Transverse Mercator (UTM) projection. RADARSAT-1 orthoimagery were produced with the 1:250 000 Canadian Digital Elevation Data (CDED) and photogrammetric control points generated from the Aerial Survey Data Base (ASDB).  \n  \n  CanImage -Landsat7 Orthoimages of Canada,1:50 000:  CanImage is a raster image containing information from Landsat7 orthoimages that have been resampled and based on the National Topographic System (NTS) at the 1:50 000 scale in the UTM projection. The product is distributed in datasets in GeoTIFF format. The resolution of this product is 15 metres.  \n  \n  Landsat7 Imagery Control Points: the control points were used for the geometric correction of Landsat7 satellite imagery. They can also be used to correct vector data and for simultaneously displaying data from several sources prepared at different scales or resolutions.",
+    "Cette collection fait maintenant partie du patrimoine, elle n’est plus maintenue. Elle pourrait ne pas respecter les normes actuelles du gouvernement.  \n  \n  Cet inventaire présente d’une façon chronologique les images satellites acquises, orthorectifiées et diffusées au fil du temps par Ressources naturelles Canada. Il est composé d’imageries provenant des satellites Landsat7 (1999-2003) et RADARSAT-1 (2001-2002), ainsi que du produit dérivé CanImage et des points de contrôle qui ont servi au traitement des images.  \n  \n  Imagerie Landsat7 orthorectifiée : cet ensemble de données constitue un jeu complet d'orthoimages sans nuages (moins de 10 %) couvrant la masse continentale canadienne. Le jeu de données a été créé avec les données de contrôle les plus précises disponibles au moment de sa création.  \n  \n  Imagerie RADARSAT-1 orthorectifiée : les 5 images RADARSAT-1 (traitées et fournies par RADARSAT International (RSI), complètent la couverture d'ortho-images Landsat7. Ce sont des données matricielles produites à partir du mode standard et de la position de faisceau S7 du RSO, avec une résolution de 15 mètres. Elles ont été produites conformément au Système de référence nord-américain de 1983 (NAD83) selon la projection cartographique Mercator transverse universelle (UTM). Les orthoimages ont été générées à partir de données d'élévation du Canada (DNEC) à l'échelle de 1/250 000 et de points de contrôle photogrammétrique provenant de la base de données des levés aériens (BDLA).  \n  \n  CanImage - Orthoimages Landsat7 du Canada, 1/50 000 : CanImage est une image matricielle contenant de l'information provenant des orthoimages Landsat7 rééchantillonnées et découpées selon le Système national de référence cartographique (SNRC) à l'échelle de 1/50 000 dans la projection UTM. Ce produit est distribué par fichier dans le format GeoTIFF. La résolution de ce produit est de 15 mètres.  \n  \n  Points de contrôle de l'imagerie Landsat7 : les points de contrôle ont été utilisés pour la correction géométrique d'images satellitaires Landsat7. Ils peuvent être utilisés également pour corriger des données vectorielles et pour afficher simultanément les données de plusieurs sources préparées à des échelles ou à des résolutions variées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/560351c7-061f-442f-9539-e38bb453ccbf"
+  ],
+  "dct_issued_s": "2011-05-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/560351c7-061f-442f-9539-e38bb453ccbf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Orthoimages of Canada, 1999-2003",
+  "gbl_mdModified_dt": "2021-08-11T03:36:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "938638c5-7052-5301-a09f-6c020a8a0bc3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

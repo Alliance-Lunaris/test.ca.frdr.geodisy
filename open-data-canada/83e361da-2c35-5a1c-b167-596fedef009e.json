@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Précipitation",
+    "Climat",
+    "Climate",
+    "Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ensemble de données ajustées de précipitations par maille ANUSPLIN (ANUSPLIN-AdjP) pour le Canada"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The suite of gridded precipitation datasets includes the ANUSPLIN-gridded datasets of daily precipitation since 1900 (ANUSPLIN-AdjPdly), pentad average precipitation rates since 1950 (ANUSPLIN-AdjP5d), and monthly total precipitation since 1872 (ANUSPLIN-AdjPmly), on a 0.083333ºx 0.083333º latitude-longitude grid over Canada. For version 1 of these datasets, the daily precipitation data were generated from the ANUSPLIN surfaces fitted to the Adjusted Daily Rainfall and Snowfall (AdjDlyRS) dataset version 2016, which includes 3346 stations of manual observations (Wang et al. 2017; available at https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305). The monthly and pentad gridded data were generated from the ANUSPLIN surfaces fitted respectively to the monthly and pentad station data that were derived from the corresponding daily station data. When deriving the monthly station data from the daily station data, the monthly total precipitation was set to missing if there was one or more missing daily value in the month (zero tolerance for missing). The same zero tolerance for missing observations was applied in the calculation of the pentad average precipitation rates. \n\r\n\rDetails of the ANUSPLIN modelling of these three gridded precipitation datasets are provided in MacDonald et al. (2020), along with comparison to the unadjusted ANUSPLIN-gridded daily precipitation dataset (Hutchinson et al. 2009). Note that the unadjusted precipitation data significantly underestimate both the precipitation amount and the regional mean long-term trend therein (MacDonald et al. 2020). \n\r\n\rIt is important to point out that these ANUSPLIN-AdjP datasets are not homogenized and thus should not be used to assess climate trends/changes before ensuring the temporal homogeneity of the data. \n\r\n\rConsidering there were no or few stations in the North in the early period, the gridded values in the period before 1930 were set to missing (missing code -999.00) for all gridpoints north of 65ºN and west of 110ºW (including 110ºW) and for all gridpoints north of 55ºN and east of 110ºW. The gridded values in the period of 1930-1949 were also set to missing for all gridpoints north of 70ºN. For the period from 1950 onwards, the grid covers the whole land mass of Canada. \n\r\n\rReferences: (1) MacDonald, H., D.W. McKenney, X.L. Wang, J. Pedlar, P. Papadopol, K. Lawrence, and M.F. Hutchinson, 2021: Spatial models of adjusted precipitation for Canada at varying time scales. J. Appl. Meteor. Climatol., 60, 291-304. doi: 10.1175/JAMC-D-20-0041.1. (2) Wang, X.L., H. Xu, B. Qian, Y. Feng, and E. Mekis, 2017: Adjusted daily rainfall and snowfall data for Canada. Atmos.-Ocean, 55, 155–168, doi:10.1080/07055900.2017.1342163. (3) Hutchinson, M.F.,D.W. McKenney, K. Lawrence, J.H. Pedlar, R. F.Hopkinson, E.Milewska, and P. Papadopol, 2009: Development and testing of Canada-wide interpolated spatial models of daily minimum–maximum temperature and precipitation for 1961–2003. J. Appl. Meteorol. Climatol., 48, 725-741. doi:10.1175/2008JAMC1979.1.",
+    "La suite d’ensembles de données de précipitations maillées comprend les ensembles de données maillées ANUSPLIN de précipitations quotidiennes depuis 1900 (ANUSPLIN-AdjPdly), de taux de précipitations moyens pentadaires depuis 1950 (ANUSPLIN-AdjP5d) et de précipitations totales mensuelles depuis 1872 (ANUSPLIN-AdjPmly), sur une grille de latitude-longitude de 0,083333 º x 0,083333 º de l’ensemble du Canada. Pour la version 1 de ces ensembles de données, les données sur les précipitations quotidiennes ont été générées à partir de surfaces d’ANUSPLIN ajustées à l’ensemble de données ajustées sur les chutes de pluie et les chutes de neige quotidiennes (AdjDlyRS), version 2016, qui comprend 3 346 stations d’observations manuelles (Wang et al. 2017; disponible à https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305). Les données maillées mensuelles et pentadaires ont été générées à partir de surfaces d’ANUSPLIN ajustées respectivement aux données mensuelles et pentadaires de stations qui ont été tirées des données quotidiennes des stations correspondantes. Lors du calcul des données mensuelles des stations à partir des données quotidiennes, les précipitations totales mensuelles ont été définies comme manquantes si une ou plusieurs valeurs quotidiennes manquaient dans le mois (tolérance zéro pour les données manquantes). La même tolérance zéro pour les observations manquantes a été appliquée lors du calcul des taux de précipitation moyens pentadaires. \n\r\n\rLes détails de la modélisation ANUSPLIN de ces trois ensembles de données de précipitations maillées sont fournis dans MacDonald et al. (2020), ainsi qu’une comparaison avec l’ensemble de données non ajustées des précipitations quotidiennes par maille ANUSPLIN (Hutchinson et al. 2009). Veuillez prendre note que les données de précipitations non ajustées sous-estiment considérablement la quantité de précipitations et la tendance régionale moyenne à long terme (MacDonald et al. 2020). \n\r\n\rIl est important de souligner que ces ensembles de données ANUSPLIN-AdjP ne sont pas homogénéisés et ne doivent donc pas être utilisés pour évaluer les tendances/changements climatiques détaillés. \n\r\n\rCompte tenu du fait qu’il n’y avait pas ou peu de stations dans le Nord au début de la période, les valeurs maillées de la période avant 1930 ont été définies comme manquantes (code « manquant » : 999.00) pour tous les points de grille au nord de 65 ºN et à l’ouest de 110 ºW (incluant 110 ºW), et pour tous les points de grille au nord de 55 ºN et à l’est de 110 ºW. Les valeurs maillées pour la période de 1930 à 1949 ont également été définies comme manquantes pour tous les points de grille au nord de 70 ºN. Pour la période à partir de 1950, la grille couvre l’ensemble de la masse terrestre du Canada. \n\r\n\rRéférences : (1) MacDonald, H., D.W. McKenney, X.L. Wang, J. Pedlar, P. Papadopol, K. Lawrence, et M.F. Hutchinson, 2021: Spatial models of adjusted precipitation for Canada at varying time scales. J. Appl. Meteor. Climatol., vol. 60, pages 291 à 304. DOI : 10.1175/JAMC D-20-0041.1. (2) Wang, X.L., H. Xu, B. Qian, Y. Feng, et E. Mekis, 2017: Adjusted daily rainfall and snowfall data for Canada. Atmos.-Ocean, vol. 55, pages 155 à 168, DOI : 10.1080/07055900.2017.1342163. (3) Hutchinson, M.F., D.W. McKenney, K. Lawrence, J.H. Pedlar, R. F.Hopkinson, E.Milewska, et P. Papadopol, 2009: Development and testing of Canada-wide interpolated spatial models of daily minimum-maximum temperature and precipitation for 1961-2003. J. Appl. Meteorol. Climatol. vol. 48, pages 725 à 741. DOI : 10.1175/2008JAMC1979.1."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/779ea77a-0ad1-42f2-853e-833e1cbb9a13"
+  ],
+  "dct_issued_s": "2023-11-01",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/779ea77a-0ad1-42f2-853e-833e1cbb9a13\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "ANUSPLIN-gridded Adjusted Precipitation (ANUSPLIN-AdjP) datasets for Canada",
+  "gbl_mdModified_dt": "2024-05-24T15:30:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83e361da-2c35-5a1c-b167-596fedef009e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 85.0, 36.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This land cover data set was derived from the Advanced Very High Resolution Radiometer (AVHRR) sensor operating on board the United States National Oceanic and Atmospheric Administration (NOAA) satellites. Information on the NOAA series of satellites can be found at www.noaa.gov/satellites.html The vegetation and land cover information set has been classified into twelve categories. Information on the classification of the vegetation and land cover, raster to vector conversion, generalization for cartographic presentations is included in the paper \"The Canada Vegetation and Land Cover: A Raster and Vector Data Set for GIS Applications - Uses in Agriculture\" (https://geogratis.cgdi.gc.ca/download/landcover/scale/gis95ppr.pdf). A soil quality evaluation was obtained by cross-referencing the AVHRR information with Census of Agriculture records and biophysical (Soil Landscapes of Canada) data and is also included in the above paper. AVHRR Land Cover Data approximates a 1:2M scale and was done originally for Agriculture Canada. The projection used is Lambert Conformal Conic (LCC) 49/77 with origin at 49N 95W."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/86d78b4b-d6e1-4272-bdbb-3da6381fb522"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/86d78b4b-d6e1-4272-bdbb-3da6381fb522\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Landcover - Derived from AVHRR",
+  "gbl_mdModified_dt": "2023-02-23T14:27:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "751b5123-c0e4-52a0-a2fa-8229aa3181b6",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 85.0, 36.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

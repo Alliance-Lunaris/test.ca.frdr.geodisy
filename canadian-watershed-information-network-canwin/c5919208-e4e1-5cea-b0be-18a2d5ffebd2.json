@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The High Resolution Digital Elevation Model Mosaic provides a unique and continuous representation of the high resolution elevation data available across the country. The High Resolution Digital Elevation Model (HRDEM) product used is derived from airborne LiDAR data (mainly in the south) and satellite images in the north. The mosaic is available for both the Digital Terrain Model (DTM) and the Digital Surface Model (DSM) from web mapping services. It is part of the CanElevation Series created to support the National Elevation Data Strategy implemented by NRCan. This strategy aims to increase Canada's coverage of high-resolution elevation data and increase the accessibility of the products.\n\nUnlike the HRDEM product in the same series, which is distributed by acquisition project without integration between projects, the mosaic is created to provide a single, continuous representation of strategy data. The most recent datasets for a given territory are used to generate the mosaic. This mosaic is disseminated through the Data Cube Platform, implemented by NRCan using geospatial big data management technologies. These technologies enable the rapid and efficient visualization of high-resolution geospatial data and allow for the rapid generation of dynamically derived products. The mosaic is available from Web Map Services (WMS), Web Coverage Services (WCS) and SpatioTemporal Asset Catalog (STAC) collections. Accessible data includes the Digital Terrain Model (DTM), the Digital Surface Model (DSM) and derived products such as shaded relief and slope.\n\nThe mosaic is referenced to the Canadian Height Reference System 2013 (CGVD2013) which is the reference standard for orthometric heights across Canada.\n\nSource data for HRDEM datasets used to create the mosaic is acquired through multiple projects with different partners.\n\nCollaboration is a key factor to the success of the National Elevation Strategy. Refer to the “Supporting Document” section to access the list of the different partners including links to their respective data."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0fe65119-e96e-4a57-8bfe-9d9245fba06b"
+  ],
+  "dct_issued_s": "2020-12-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0fe65119-e96e-4a57-8bfe-9d9245fba06b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "High Resolution Digital Elevation Model Mosaic (HRDEM Mosaic) - CanElevation Series",
+  "gbl_mdModified_dt": "2026-06-08T15:31:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c5919208-e4e1-5cea-b0be-18a2d5ffebd2",
+  "locn_geometry": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -102.0, 67.0, 61.0)",
+  "dcat_keyword_sm": [
+    "Lake surface temperature",
+    "Thermal imaging",
+    "Image collections",
+    "Landsat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Attiah, Gifty (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-5016-7760",
+    "Kheyrollah Pour, Homa (Wilfrid Laurier University, Remote Sensing of Environmental Change (ReSEC) Research Group, Department of Geography and Environmental Studies, Wilfrid Laurier University, Waterloo, ON). ORCID: https://orcid.org/0000-0002-2631-0416",
+    "Scott, K. Andrea (University of Waterloo). ORCID: https://orcid.org/0000-0003-3922-8777"
+  ],
+  "dct_description_sm": [
+    "The North Slave Lake surface temperature (LST) dataset provides lake surface temperature data for 535 lakes across the North Slave region, Northwest Territories, Canada. An algorithm is applied to the thermal bands of Landsat to retrieve LST from 1984 to 2021. The data consist of individual NetCDF files for observed days for each lake. The North Slave LST dataset provides communities, scientists, and stakeholders with spatial and temporal changing trends of temperature on lakes."
+  ],
+  "dct_identifier_sm": [
+    "373942_137_373940",
+    "https://doi.org/10.5683/SP3/J4GMC2"
+  ],
+  "dct_issued_s": "2023-02-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/J4GMC2\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "North Slave Lake Surface Temperature (LST) retrieved from Landsat archives, 1984 to 2021",
+  "gbl_mdModified_dt": "2023-02-21T22:39:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "15206340-f784-538a-8790-2cedd0408fc4",
+  "locn_geometry": "ENVELOPE(-120.0, -102.0, 67.0, 61.0)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // ReSEC Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

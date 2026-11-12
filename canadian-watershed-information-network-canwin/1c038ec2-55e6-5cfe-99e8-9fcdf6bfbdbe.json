@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-70.3, -61.765, 50.471, 47.4)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Planning for an Environmental Response (PIER) initiative falls under the umbrella of the Government of Canada’s Oceans Protection Plan (OPP), whose goal is preserving marine ecosystems vulnerable to increased transportation and the development of the marine industry. The PIERs’ main mandate is to acquire and update biological sensitivity data under its jurisdiction for preparation and response purposes in the event of an oil spill.\n\nThis dataset contains all observations of marine organisms noted during the analysis of 2959 underwater images sampled over a large extent of the coastal zone (≤10 m) of the Estuary and the Gulf of St. Lawrence (Quebec region). The dataset includes 21 490 occurrences of 150 taxa and informal categories including macroalgae, invertebrates and fish. Underwater images were collected between 2017 and 2021 according to a directed sampling protocol whose primary goal was to map large seaweed and eelgrass beds. Images were normally recorded as videos using a GoPro Hero camera installed on a pole and placed near the seabed from a small boat. The collected data served primarily as ground-truth data to validate coasting zone mapping based on aerial photographs within the framework of the PIER's initiative.\n\nThe two files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic event information, including date and location. The \"taxon_occurrence\" file includes the original identifiers of the observed organisms (verbatimIdentification field), identification remarks and their taxonomy.\n\nTaxonomic names were verified on the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match has been put in the scientificNameID field in the occurrence file. Data quality control was performed using the R packages obistools and worrms. All sampling locations were plotted on a map to perform a visual check confirming that the latitude and longitude coordinates were within the described sampling area.\n\nA visual dictionary was developed as an identification aid and accompanies this dataset (unilingual french only, the English version will be published soon). More data, including a visibility index, estimated macroalgae and eelgrass cover, substrate type and dominant macroalgae and animals were recorded but not included in this dataset. These data may be made available upon request.\n\nCredits\n\nProvencher-Nolet, L., Paquette, L., Pitre, L.D., Grégoire, B. and Desjardins, C. 2024. Cartographie des macrophytes estuariens et marins du Québec. Rapp. Tech. Can. Sci. halieut. Aquat. 3617 : v + 99 p.\n\nGrégoire, B., Pitre, L.D., Provencher-Nolet, L., Paquette, L. and Desjardins, C. 2024. Distribution d’organismes marins de la zone côtière peu profonde du Québec recensés par imagerie sous-marine de 2017 à 2021. Rapp. tech. can. sci. halieut. aquat. 3616 : v + 78 p."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/427e2a5f-2651-4be8-b41a-f2b2dbf08a51"
+  ],
+  "dct_issued_s": "2022-05-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/427e2a5f-2651-4be8-b41a-f2b2dbf08a51\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Biodiversity of the Planning for Integrated Environmental Response Coastal Survey in the St. Lawrence Estuary and Gulf (2017-2021)",
+  "gbl_mdModified_dt": "2026-03-24T08:39:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1c038ec2-55e6-5cfe-99e8-9fcdf6bfbdbe",
+  "locn_geometry": "ENVELOPE(-70.3, -61.765, 50.471, 47.4)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

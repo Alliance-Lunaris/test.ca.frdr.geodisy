@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Remote sensing",
+    "Machine Learning",
+    "Apprentissage automatique",
+    "Zone humide",
+    "Wetlands",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte de l'inventaire canadien des terres humides Version 3A (CWIM3A)"
+  ],
+  "dct_creator_sm": [
+    "Murnaghan, Kevin."
+  ],
+  "dct_description_sm": [
+    "The third generation of high resolution 10-m wetland inventory map of Canada, covering an approximate area of one billion hectares, was generated using multi-year (2016-2020), multi-source imagery (Sentinel-1, Sentinel-2, ALOS PALSAR-2, and SRTM) Earth Observation (EO) data as well as environmental features.  Over 8800 wetland polygons were processed within an object-based random forest classification scheme on the Google Earth Engine cloud computing platform.  The average overall accuracy of 90.5% is an increase of 4.7% over CWIM2.  \n  \n  CWIM Versions:  \n  \n  The Canadian Wetland Inventory Map (CWIM) is an extension of work started at Memorial University to produce a Newfoundland and Labrador wetland inventory during 2015-2018 which was significantly funded by Environment and Climate Change Canada.  The first national CWIM was produced 2018-2019 as a collaboration between Memorial University, C-CORE, and Natural Resources Canada.  Dr. Brian Brisco was instrumental in connecting ground truth from multiple sources to the project and providing guidance.  Version 2 was produced in 2020 which included more training data and processing by Canada’s ecozones rather than provinces to take advantage of the commonality of landscape ecological features within ecozones to improve the accuracy.  Version 3 produced in 2021 continued adding more data sources to further improve accuracy specifically an overestimation of wetland area as well as introducing a confidence map.  Version 3A completed in 2022 updates only the arctic ecozones due to their relatively lower accuracy and added hydro-physiographic data layers.  Currently work is underway to create a northern circumpolar wetland inventory map to be published in 2025.  \n  \n  Paper on Newfoundland and Labrador Wetland Inventory:  \n  \n  Mahdianpari, M.; Salehi, B.; Mohammadimanesh, F.; Homayouni, S.; Gill, E. The First Wetland Inventory Map of Newfoundland at a Spatial Resolution of 10 m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform. Remote Sens. 2019, 11, 43. https://doi.org/10.3390/rs11010043  \n  \n  Paper on CWIM1:  \n  \n  Mahdianpari, M., Salehi, B., Mohammadimanesh, F., Brisco, B., Homayouni, S., Gill, E., … Bourgeau-Chavez, L. (2020). Big Data for a Big Country: The First Generation of Canadian Wetland Inventory Map at a Spatial Resolution of 10-m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform. Canadian Journal of Remote Sensing, 46(1), 15–33. https://doi.org/10.1080/07038992.2019.1711366  \n  \n  Paper on CWIM2:  \n  \n  Mahdianpari, M., Brisco, B., Granger, J. E., Mohammadimanesh, F., Salehi, B., Banks, S., … Weng, Q. (2020). The Second Generation Canadian Wetland Inventory Map at 10 Meters Resolution Using Google Earth Engine. Canadian Journal of Remote Sensing, 46(3), 360–375. https://doi.org/10.1080/07038992.2020.1802584  \n  \n  Paper on CWIM3:  \n  \n  M. Mahdianpari et al., \"The Third Generation of Pan-Canadian Wetland Map at 10 m Resolution Using Multisource Earth Observation Data on Cloud Computing Platform,\" in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 8789-8803, 2021, doi: 10.1109/JSTARS.2021.3105645.  \n  \n  Paper on Arctic ecoregion enhancement for CWIM3A:  \n  \n  Michael Merchant, et al., ”Leveraging google earth engine cloud computing for large-scale arctic wetland mapping,” in International Journal of Applied Earth Observation and Geoinformation, vol. 125, 2023,  https://doi.org/10.1016/j.jag.2023.103589.",
+    "La carte à haute résolution de 10 m de la troisième génération de la carte de l'inventaire des terres humides du Canada, couvrant une superficie approximative d'un milliard d'hectares, a été générée à l'aide d'observations de la Terre pluriannuelle (2016-2018), multisources (Sentinel-1, Sentinel-2,  ALOS PALSAR-2 et SRTM)  ainsi que des caractéristiques environnementales. Plus de 8 800 polygones de zones humides ont été traités dans le cadre d'un système de classification aléatoire des forêts basé sur des objets sur la plate-forme infonuagique de Google Earth Engine. La précision globale moyenne de 90,5 % représente une augmentation de 4,7 % par rapport à CWIM2.  \n  \n  Versions de la CITHC :  \n  \n  La carte d'inventaire des terres humides du Canada (CITHC) est une extension du travail commencé à l'Université Memorial pour produire un inventaire des terres humides de Terre-Neuve et du Labrador pendant la période 2015-2018, qui a été financé de manière significative par Environnement et Changement climatique Canada.  La première CITHC nationale a été produite en 2018-2019 dans le cadre d'une collaboration entre l'Université Memorial, C-CORE et Ressources naturelles Canada.  Brian Brisco a joué un rôle déterminant dans l'intégration au projet de données de référence provenant de sources multiples et dans l'orientation du projet.  La version 2 a été produite en 2020 et comprenait davantage de données de formation et de traitement par écozones du Canada plutôt que par provinces, afin de tirer parti des caractéristiques écologiques communes du paysage au sein des écozones et d'améliorer la précision.  La version 3, produite en 2021, a continué d'ajouter des sources de données pour améliorer encore la précision, en particulier une surestimation de la superficie des zones humides, et a introduit une carte de confiance.  La version 3A, achevée en 2022, ne met à jour que les écozones arctiques en raison de leur précision relativement moindre et ajoute des couches de données hydrophysiographiques.  Des travaux sont actuellement en cours pour créer une carte d'inventaire des zones humides circumpolaires septentrionales qui sera publiée en 2025.  \n  \n  Publication au sujet de l'inventaire des terres humides de Terre-Neuve-et-Labrador :  \n  \n  Mahdianpari, M.; Salehi, B.; Mohammadimanesh, F.; Homayouni, S.; Gill, E. The First Wetland Inventory Map of Newfoundland at a Spatial Resolution of 10 m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform. Remote Sens. 2019, 11, 43. https://doi.org/10.3390/rs11010043  \n  \n  Publication au sujet du CWIM1:  \n  \n  Mahdianpari, M., Salehi, B., Mohammadimanesh, F., Brisco, B., Homayouni, S., Gill, E., … Bourgeau-Chavez, L. (2020). Big Data for a Big Country: The First Generation of Canadian Wetland Inventory Map at a Spatial Resolution of 10-m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform. Canadian Journal of Remote Sensing, 46(1), 15–33. https://doi.org/10.1080/07038992.2019.1711366  \n  \n  Publication au sujet du CWIM2:  \n  \n  Mahdianpari, M., Brisco, B., Granger, J. E., Mohammadimanesh, F., Salehi, B., Banks, S., … Weng, Q. (2020). The Second Generation Canadian Wetland Inventory Map at 10 Meters Resolution Using Google Earth Engine. Canadian Journal of Remote Sensing, 46(3), 360–375. https://doi.org/10.1080/07038992.2020.1802584  \n  \n  Publication au sujet du CWIM3 :  \n  \n  M. Mahdianpari et al., \"The Third Generation of Pan-Canadian Wetland Map at 10 m Resolution Using Multisource Earth Observation Data on Cloud Computing Platform,\" in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 8789-8803, 2021, doi: 10.1109/JSTARS.2021.3105645.  \n  \n  Publication sur l'amélioration de l'écorégion arctique pour CWIM3A :  \n  \n  Michael Merchant, et al., ”Leveraging google earth engine cloud computing for large-scale arctic wetland mapping,” in International Journal of Applied Earth Observation and Geoinformation, vol. 125, 2023,  https://doi.org/10.1016/j.jag.2023.103589."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/87127901-bd6d-46de-9142-e1362d980174"
+  ],
+  "dct_issued_s": "2024-06-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/87127901-bd6d-46de-9142-e1362d980174\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Canadian Wetland Inventory Map Version 3A (CWIM3A)",
+  "gbl_mdModified_dt": "2024-12-06T14:24:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "abd65186-c847-551a-aada-a46fb87b8fb3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

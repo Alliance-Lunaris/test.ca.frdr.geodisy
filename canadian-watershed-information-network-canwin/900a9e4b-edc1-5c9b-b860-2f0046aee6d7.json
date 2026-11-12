@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Road segments from the Adresses Québec geobase including attributes relating to trucking regulations issued by municipalities. The integration of updates is carried out periodically by the MTMD in collaboration with the municipalities.\n\n- **Transit routes** “Legend: Transit (permit)”:\n\nRoads to which access is authorized for all heavy vehicles. These roads have a minimum of restrictions on the movement of heavy vehicles. The minimum level of restriction for drivers on this network means that drivers should be encouraged to use it as often as possible. This network is to be preferred.\n\n- **Restricted roads** “Legend: Restricted”: \n\nRoads to which access is authorized for all heavy vehicles. However, these roads may include some restrictions on the movement of heavy vehicles. Example: Bridge subject to a load restriction (visible in the legend under “Load limit”), restricted headroom, steep slope, winding and/or narrow road, etc. \n\n- **Roads partially prohibited** “Legend: Partially prohibited”: Roads whose access is partially prohibited to heavy vehicles. The characteristics motivating such a classification may concern:\n\n*- Periods of prohibition to drive (Hours, days); **- A limit on the number of axles authorized; **- A limit on the weight of vehicles (tonnage); **- A limit on the length of vehicles authorized to drive on the road. *\n\n- **Roads prohibited** “Legend: Forbidden (except local delivery)”: \n\nRoads prohibited to transit, except for local delivery needs. These roads may include restrictions on the movement of heavy vehicles. \n\nNote: These roads are identified by the road sign “Access prohibited to heavy vehicles” to which is attached a sign “Except local delivery”.\n\n- **Unclassified roads** “Legend: Unclassified”: \n\nRoads that do not have any classification.\n\n- **Roads whose classification is not applicable** “Legend: Not applicable”: \n\nGenerally, for roads located outside the province of Quebec.\n\n\nPlease note that road signs take precedence over this data, which is available for download and consultation on the interactive map. This information has no legal value.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1211010d-9ba0-422a-9910-a8dab0aef0f0"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1211010d-9ba0-422a-9910-a8dab0aef0f0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Trucking network",
+  "gbl_mdModified_dt": "2026-10-07T17:40:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "900a9e4b-edc1-5c9b-b860-2f0046aee6d7",
+  "locn_geometry": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

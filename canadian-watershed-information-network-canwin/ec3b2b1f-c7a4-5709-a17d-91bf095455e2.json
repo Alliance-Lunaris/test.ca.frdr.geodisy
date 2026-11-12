@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.8207, -112.8455, 68.8031, 47.7769)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Salmon have a complex hierarchical population structure extending from groups of salmon at individual spawning sites all the way up to taxonomic species. These independently functioning aggregates are defined as Conservation Units (CUs) in the Wild Salmon Policy. A stock management unit (SMU) is a group of one or more CUs that are managed together with the objective of achieving a joint status.\n\nThere are 69 SMUs containing 468 CUs. In 2022, eight SMUs units did not have enough information to provide an assessment. Sixty-one units were assigned a forecast. There are ongoing requests to represent salmon information for these areas. Salmon are assessed and managed at different levels for different needs. The layers in this dataset include administrative areas, stock management units, and conservation units.\n\nThe data included is a shapefile containing a single feature class layer represented in point and polygon form, as well as a csv table (attributes) to present Stock Management Unit information in a simple, visual way."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/776a7aa3-a265-4f13-827c-eb2ef1ac2889"
+  ],
+  "dct_issued_s": "2024-10-08",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/776a7aa3-a265-4f13-827c-eb2ef1ac2889\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Pacific Salmon Stock Management Units",
+  "gbl_mdModified_dt": "2026-03-24T08:40:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec3b2b1f-c7a4-5709-a17d-91bf095455e2",
+  "locn_geometry": "ENVELOPE(-144.8207, -112.8455, 68.8031, 47.7769)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

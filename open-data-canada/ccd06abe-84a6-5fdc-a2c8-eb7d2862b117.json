@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.743057, -54.901157, 47.835846, 40.030963)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Objectifs de conservation marine",
+    "Marine Conservation Targets",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Caractéristiques des couches de données environnementales à utiliser dans la modélisation de la répartition des espèces dans la région des Maritimes"
+  ],
+  "dct_creator_sm": [
+    "OESD Data Request / DSEM Demande de donnés (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "Species distribution models (SDMs) are tools that combine species observations of occurrence, abundance, or biomass with environmental variables to predict the distribution of a species in unsampled locations. To produce accurate predictions of occurrence, abundance or biomass distribution, a wide range of physical and/or biological variables is desirable. Such data is often collected over limited or irregular spatial scales, and require the application of geospatial techniques to produce continuous environmental surfaces that can be used for modelling at all spatial scales. Here we provide a review of 102 environmental data layers that were compiled for the entire spatial extent of Fisheries and Oceans Canada’s (DFO) Maritimes Region. Variables were obtained from a broad range of physical and biological data sources and spatially interpolated using geostatistical methods. For each variable we document the underlying data distribution, provide relevant diagnostics of the interpolation models and an assessment of model performance, and present the final standard error and interpolation surfaces. These layers have been archived in a common (raster) format at the Bedford Institute of Oceanography to facilitate future use. Based on the diagnostic summaries in this report, a subset of these variables has subsequently been used in species distribution models to predict the distribution of deep-water corals, sponges, and other significant benthic taxa in the Maritimes Region.\n\nCite this data as: Beazley, Lindsay; Guijarro, Javier, Lirette; Camille; Wang, Zeliang; Kenchington, Ellen (2020). Characteristics of Environmental Data Layers for Use in Species Distribution Modelling in the Maritimes Region. Published July 2023. Ocean Ecosystems Science Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1",
+    "Les modèles de répartition des espèces sont des outils qui fusionnent des observations d’espèces (l’occurrence, l’abondance ou la biomasse) avec des variables environnementales pour prédire l’aire de répartition d’une espèce dans des emplacements non échantillonnés. Afin de produire des prévisions exactes de l’occurrence, de l’abondance ou de la répartition de la biomasse, il est souhaitable d’obtenir une vaste gamme de variables physiques ou biologiques (ou les deux). Ces données sont souvent recueillies à des échelles spatiales limitées ou irrégulières et nécessitent l’application de techniques géospatiales pour produire des surfaces environnementales en continu qui peuvent être utilisées pour la modélisation à toutes les échelles spatiales. Nous présentons ici un examen de 102 couches de données environnementales qui ont été compilées pour toute l’étendue spatiale de la région des Maritimes de Pêches et Océans Canada (MPO). Les variables ont été obtenues à partir d’une vaste gamme de sources de données physiques et biologiques interpolées sur le plan spatial à l’aide de méthodes géostatistiques. Pour chaque variable, nous documentons la répartition des données sous-jacentes, fournissons des analyses pertinentes des modèles de répartition et une évaluation du rendement des modèles. Nous présentons l’erreur type et les surfaces interpolées définitives. Ces couches de données ont été archivées dans un format commun (trame) à l’Institut océanographique de Bedford afin de simplifier leur utilisation future. À partir des résumés analytiques du présent rapport, un sous-ensemble de ces variables a par la suite été utilisé dans des modèles de répartition des espèces pour prévoir la répartition, en eau profonde, des coraux, des éponges et d’autres taxons benthiques importants dans la région des Maritimes.\n\nCiter ces données comme: Beazley, Lindsay; Guijarro, Javier; Lirette, Camille; Wang, Zeliang; Kenchington, Ellen (2020). Caractéristiques des couches de données environnementales à utiliser dans la modélisation de la répartition des espèces dans la région des Maritimes. Publié en Juillet 2023. Secteur des sciences des écosystèmes et des océans, Pêches et Océans Canada, Dartmouth, (N-É). https://open.canada.ca/data/en/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1"
+  ],
+  "dct_issued_s": "2023-05-02",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Characteristics of Environmental Data Layers for Use in Species Distribution Modelling in the Maritimes Region",
+  "gbl_mdModified_dt": "2026-03-24T08:44:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ccd06abe-84a6-5fdc-a2c8-eb7d2862b117",
+  "locn_geometry": "ENVELOPE(-67.743057, -54.901157, 47.835846, 40.030963)",
+  "schema_provider_s": "Open Data Canada"
+}

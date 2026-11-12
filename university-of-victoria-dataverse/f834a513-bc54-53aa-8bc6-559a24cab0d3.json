@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.101586, -113.843471, 49.218713, 49.09372)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wright, Claire (Queen's University, University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains example data for the Mountain Image Analysis Suite (MIAS) plugin for QGIS. The plugin is available for download through <a href=\"https://github.com/MLP-Hub/MLP_IA_Suite\">GitHub</a>. MIAS was developed on images from the <a href=\"https://mountainlegacy.ca/\">Mountain Legacy Project</a>.\n\nA written tutorial is available for download.\n\nThe dataset contains the following layers:\n<ol>\n<li>Digital surface model at 1 m resolution for the Lost Horse Creek Valley in Waterton Lakes National Park, AB, Canada provided by Parks Canada.</li>\n<li>Digital terrain model at 1 m resolution for the Lost Horse Creek Valley in Waterton Lakes National Park, AB, Canada provided by Parks Canada.</li>\n<li>High resolution oblique image from the Mountain Legacy Project collection captured on the shoulder of Mt Blakiston by Dominion Land Surveyor Morrison P. Bridgland in 1914.</li>\n<li>High resolution oblique image from the Mountain Legacy Project collection captured on the shoulder of Mt Blakiston by Mountain Legacy researchers in 2004.</li>\n<li>Corresponding landcover classification masks created in MIAS for the two oblique images with associated probability layers (.npy).</li>\n<li>Virtual photograph constructed from elevation data through MIAS replicating the view in the two oblique images.</li>\n<li>Text file with the camera parameters used to create the virtual photograph.</li>\n<li>Aligned versions of the two landcover masks after alignment with the virtual photograph and the associated alignment tie points.</li>\n<li>Viewsheds for each oblique image comprising classified and georeferenced rasters, and associated probability layers for use in mosaicking.</li>\n</ol>"
+  ],
+  "dct_identifier_sm": [
+    "846045_756637",
+    "https://doi.org/10.5683/SP3/PR368H"
+  ],
+  "dct_issued_s": "2024-12-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/PR368H\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "AB, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Mountain Image Analysis Suite Tutorial Data",
+  "gbl_mdModified_dt": "2024-12-03T21:03:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f834a513-bc54-53aa-8bc6-559a24cab0d3",
+  "locn_geometry": "ENVELOPE(-114.101586, -113.843471, 49.218713, 49.09372)",
+  "pcdm_memberOf_sm": [
+    "Mountain Legacy Project"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

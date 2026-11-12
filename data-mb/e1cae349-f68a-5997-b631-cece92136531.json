@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.0928414925993, -95.91866470286524, 50.74921725679389, 49.24749028603765)",
+  "dcat_keyword_sm": [
+    "picnic area",
+    "wildlife",
+    "biking",
+    "Open Data",
+    "watercraft access",
+    "Canada",
+    "Wildlife Management Area",
+    "Environment",
+    "skiing",
+    "Province of Manitoba",
+    "hiking",
+    "designated trails",
+    "Manitoba Government",
+    "interpretative kiosk",
+    "Manitoba",
+    "WMA",
+    "Public",
+    "ecological feature"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "This dataset shows official trails and points of interest within Wildlife Management Areas (WMAs) in Manitoba.<div><br /></div><div><b><u>Trails</u></b></div><div>The purpose of this layer is to show recognized trails in Manitoba's wildlife management areas (WMAs). These include designated trails for vehicles, and hiking, biking, and cross-country ski trails.<br /></div><div><br /></div><div><u>Fields included</u> (<b>alias </b>(field name): field description)<br /></div><div><div><ul><li><b>OBJECTID </b>(OBJECTID): sequential unique whole numbers that are automatically generated</li><li><b>WMA </b>(WMA_Name): wildlife management area name</li><li><b>Trail Name</b> (Trail_Name): trail name or number</li><li><b>Type </b>(Type): trail type (e.g., walking or biking)</li><li><b>Restrictions </b>(Restrictions): use restrictions for the trail</li></ul></div></div><div><b><u><br /></u></b></div><div><b><u>Points of Interest<br /></u></b></div><div>The purpose of this layer is to show important points of interest within Manitoba's wildlife management areas (WMAs). These include watercraft access points, interpretative kiosks, trail heads, picnic areas, primitive toilets, and ecological features like snake dens.<br /></div><div><b><u><br /></u></b></div><div><u>Fields included</u> (<b>alias </b>(field name): field description)<b><u><br /></u></b></div><div><div><ul><li><b>OBJECTID </b>(OBJECTID): sequential unique whole numbers that are automatically generated</li><li><b>WMA </b>(WMA_Name): wildlife management area name</li><li><b>Feature Name</b> (Feat_Name): name of the point of interest</li><li><b>Type </b>(Type): type of feature (e.g., trailhead, interpretive centre)</li><li><b>Details </b>(Details): details about the point of interest</li><li><b>More information</b> (Info): link to additional information about the point of interest, when available</li></ul></div></div><div><br /></div><div><br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "4a8de1f21469404fb12a932077cb86f7",
+    "https://www.arcgis.com/home/item.html?id=4a8de1f21469404fb12a932077cb86f7"
+  ],
+  "dct_issued_s": "2021-04-08",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::points-of-interest\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Wildlife Management Areas Official Trails and Points of Interest",
+  "gbl_mdModified_dt": "2022-10-26T16:00:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e1cae349-f68a-5997-b631-cece92136531",
+  "locn_geometry": "ENVELOPE(-101.0928414925993, -95.91866470286524, 50.74921725679389, 49.24749028603765)",
+  "schema_provider_s": "Data MB"
+}

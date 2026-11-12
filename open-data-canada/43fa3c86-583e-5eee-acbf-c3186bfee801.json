@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.137472, -64.461033, 45.663828, 43.999755)",
+  "dcat_keyword_sm": [
+    "La Baie de Fundy",
+    "Habitat benthique",
+    "Oceans",
+    "Pêches et Océans Canada",
+    "Paysage benthique",
+    "Biophysical",
+    "Biophysique",
+    "Benthoscape",
+    "Benthic Habitat",
+    "Conseil de recherches en sciences naturelles et en génie du Canada",
+    "Fisheries and Oceans Canada",
+    "Bay of Fundy",
+    "NSERC",
+    "Océan",
+    "Natural Sciences and Engineering Research Council of Canada",
+    "NSERC"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Paysage Benthique de la Baie de Fundy"
+  ],
+  "dct_creator_sm": [
+    "Population Ecology Division / Division de l’écologie des population."
+  ],
+  "dct_description_sm": [
+    "The data layer (.shp) presented is the result of an unsupervised classification method for classifying seafloor habitat in the Bay of Fundy (Northwest Atlantic, Canada). This method involves separating environmental variables derived from multibeam bathymetry (slope, bathymetric position index), backscatter, and oceanographic information (wave-shear current velocity) into spatial units (i.e. image objects) and classifying the acoustically and oceanographically separated units into 7 habitat classes (Bedrock and Boulders, Mixed Sediments, Gravelly Sand, Sand, Silty Gravel with Anemones, Silt, and Tidal Scoured Mixed Sediments) using in-situ data (imagery). Benthoscape classes (synonymous to landscape classifications in terrestrial ecology) describe the geomorphology and biology of the seafloor and are derived from elements of the seafloor that were acoustically and oceanographically distinguishable. \nReference:\nWilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. (2021). Mapping seafloor habitats in the Bay of Fundy to assess macrofaunal assemblages associated with Modiolus modiolus beds. Estuarine, Coastal and Shelf Science, 252. https://doi.org/10.1016/j.ecss.2021.107294\n\nCite this data as: Wilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. Bay of Fundy Benthoscape. Published May 2023. Population Ecology Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c",
+    "La couche de données (.shp) présentée est le résultat d’une méthode non supervisée de classification de l’habitat de fond marin dans la baie de Fundy (Atlantique Nord-Ouest, Canada). Cette méthode consiste à séparer les variables environnementales issues de la bathymétrie multifaisceaux (pente, indice de position bathymétrique), de la rétrodiffusion et de données océanographiques (vitesse de cisaillement des interactions vagues-courants) en unités spatiales (c.-à-d., objets d’une image), puis à répartir ces unités séparées sur les plans acoustique et océanographique en sept classes d’habitat (substrat et blocs rocheux, sédiments mixtes, sable graveleux, sable, gravier limoneux avec anémones, limon, et sédiments mixtes affouillés par les marées) au moyen de données in situ (imagerie). Les classes de paysage benthique (semblables aux classes de paysage en écologie terrestre) décrivent la géomorphologie et la biologie du fond marin, et découlent d’éléments du fond marin qui peuvent être distingués sur les plans acoustique et océanographique. \nRéférence :\nWilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. (2021). Mapping seafloor habitats in the Bay of Fundy to assess macrofaunal assemblages associated with Modiolus modiolus beds. Estuarine, Coastal and Shelf Science, 252. https://doi.org/10.1016/j.ecss.2021.107294\n\nCiter ces données comme suit:Wilson, B.R., Brown, C.J., Sameoto, J.A., Lacharite, M., Redden, A. Benthoscape de la Baie de Fundy. Publié en Mai 2023. Division de l’écologie des population, Pêches et Océans Canada, Dartmouth (Nouvelle-Écosse). https://open.canada.ca/data/en/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c"
+  ],
+  "dct_issued_s": "2021-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/dbabd17a-a2c7-4b3f-9bd8-a77a9c7f9c1c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Bay of Fundy Benthoscape",
+  "gbl_mdModified_dt": "2026-03-24T08:34:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43fa3c86-583e-5eee-acbf-c3186bfee801",
+  "locn_geometry": "ENVELOPE(-67.137472, -64.461033, 45.663828, 43.999755)",
+  "schema_provider_s": "Open Data Canada"
+}

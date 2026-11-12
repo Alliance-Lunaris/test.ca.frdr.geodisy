@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.906927, -121.662455, 52.068498, 51.763172)",
+  "dcat_keyword_sm": [
+    "LiDAR, snag, metrics, area-based"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Seely, Harry (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Snags (dead standing trees) form an important structural aspect of a forest and perform many essential ecological functions such as habitat provision. As such, substantial research has investigated various methods of snag detection using lidar. One approach is to compute areal lidar metrics such as slope, elevation, canopy height, etc. to detect snags. However, it remains unclear which lidar metrics are best suited for snag detection. This study attempted to predict snag presence/absence and density in the Interior Douglas-Fir (IDF) zone in British Columbia using area based lidar metrics.  A suite of 88 lidar metrics based on previous research were tested to predict snag presence/absence for ≥5cm, ≥20cm, and ≥30cm DBH classes in 20 plots. Metrics included topographic, height, intensity, and canopy structure indices. Snag presence/absence was classified for each DBH class using random forests (RF) modelling. Metrics used for RF model were selected using the Boruta algorithm. Overall accuracies for classification by DBH class ranged from 81-92% with kappa values between 0.59-0.82. While different sets of metrics were selected for each DBH class, canopy gap frequency was an important metric across DBH classes. Snag density was estimated for the ≥5cm class using RF regression, yielding an R2 = 0.80. Overall, this study demonstrated the effectiveness of area based lidar metrics for estimating snag presence in the IDF zone for larger DBH snags, and density for smaller DBH snags."
+  ],
+  "dct_identifier_sm": [
+    "324927_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/3JQZBK"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/3JQZBK\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Snag Detection In The Interior Douglas-Fir Zone Of British Columbia Using Area-Based Lidar Metrics",
+  "gbl_mdModified_dt": "2022-04-19T21:09:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a6e7227-b837-57e7-a8c8-e85c17b1e713",
+  "locn_geometry": "ENVELOPE(-121.906927, -121.662455, 52.068498, 51.763172)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

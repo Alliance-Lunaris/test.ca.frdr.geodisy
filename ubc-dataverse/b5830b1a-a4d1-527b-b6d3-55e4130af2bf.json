@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.81711, -123.75629, 49.137326, 49.112139)",
+  "dcat_keyword_sm": [
+    "Area-based approach",
+    "Land-cover Transition",
+    "Forest structure",
+    "PlanetScope Imagery",
+    "Light Detection and Ranging",
+    "Above-ground Biomass"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Li, Shangcheng (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Above-ground biomass (AGB) is an important indicator of forest carbon stock and is widely used to assess ecosystem condition and forest productivity over time. This study examined land-cover transition and AGB change on Mudge Island and Link Island in the southern Gulf Islands of British Columbia between 2019 and 2024. The objective was to assess the correlation between land-cover transition and AGB change, and to develop a statistical model based on Lidar metrics that could support AGB estimation in future studies. A multi-source spatial approach was used by combining PlanetScope imagery, Lidar point cloud data, and stand-level inventory information. To do this, PlanetScope imagery was classified into five land-cover classes using supervised classification, while Lidar data were processed to derive canopy structure metrics and develop a biomass prediction model linked to stand-level inventory data. The results showed that the study area remained largely forested, with coniferous forest remaining dominant and most stands characterized by stable forest transition. Most stands also showed positive biomass change, while the relationship between stable forest proportion and observed biomass change was weakly positive. The biomass model explained a substantial proportion of variation in AGB (adjusted R² = 0.657) and was statistically significant overall (p = 0.005), although stand-level agreement between predicted and observed change remained uncertain. These findings suggest that forest change in the study area was driven less by widespread land-cover conversion than by gradual structural development within persistent forest cover. Integrating land-cover transition mapping with Lidar data, therefore, provided a stronger framework for detecting ecological change than land-cover mapping alone."
+  ],
+  "dct_identifier_sm": [
+    "1124723_73894_115983",
+    "https://doi.org/10.5683/SP3/KKWOBQ"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KKWOBQ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Mudge island and Link island, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "How has the Above-ground biomass (AGB) of Mudge and Link Islands, British Columbia, changed between 2019 and 2024, corresponding to Landcover Change?",
+  "gbl_mdModified_dt": "2026-04-28T16:37:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5830b1a-a4d1-527b-b6d3-55e4130af2bf",
+  "locn_geometry": "ENVELOPE(-123.81711, -123.75629, 49.137326, 49.112139)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

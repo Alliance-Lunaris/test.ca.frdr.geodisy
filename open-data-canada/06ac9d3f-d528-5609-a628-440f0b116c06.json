@@ -1,0 +1,71 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.204047, -121.1091397, 50.993747, 46.9977462)",
+  "dcat_keyword_sm": [
+    "Fournir des services et des produits d'information sur les conditions météorologiques",
+    "Glace",
+    "Non Classifié",
+    "L'eau - Bassin océanique - Océan Pacifique",
+    "Oceans",
+    "L'eau - Bassin océanique - Océan Atlantique",
+    "Eaux côtières",
+    "Weather and Environmental Operations",
+    "Urgence environnementale",
+    "Deliver Weather Products and Services to Clients",
+    "Côtes",
+    "Livrer des produits et des services météorologiques aux clients",
+    "Service météorologique du Canada",
+    "Water - Ocean basin - Pacific Ocean",
+    "Coastal waters",
+    "Unclassified",
+    "Coasts",
+    "Opérations météorologiques et environnementales",
+    "Tides",
+    "Water - Ocean basin - Atlantic Ocean",
+    "Coast",
+    "Environmental emergencies",
+    "Eau",
+    "Ocean",
+    "Océan",
+    "Marée",
+    "Water",
+    "Provide Weather Information Products and Services",
+    "Ice",
+    "Littoral",
+    "Meteorological Service of Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Système de prévision côtier océan-glace pour la région de la mer des Salish (SPCOG-MerDesSalish)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The Coastal Ice Ocean Prediction System (CIOPS) provides a 48 hour ocean and ice forecast over different domains (East, West, Salish Sea) four times a day at 1/36° resolution. A pseudo-analysis component is forced at the ocean boundaries by the Regional Ice Ocean Prediction System (RIOPS) forecasts and spectrally nudged to the RIOPS solution in the deep ocean. Fields from the pseudo-analysis are used to initialize the 00Z forecast, whilst the 06, 12 and 18Z forecasts use a restart files saved at hour 6 from the previous forecast. The atmospheric fluxes for both the pseudo-analysis and forecast components are provided by the High Resolution Deterministic Prediction System (HRDPS) blended both spatially and temporally with either the Global Deterministic Prediction System (GDPS) (for CIOPS-East) or an uncoupled component of the Global Deterministic Prediction System (GDPS) at 10km horizontal resolution (for CIOPS-West) for areas not covered by the HRDPS.",
+    "Le Système de prévision côtier océan-glace (SPCOG) effectue des prévisions de 48 heures pour l'océan et la glace marine pour différents domaines (Est, Ouest, mer de Salish) quatre fois par jour à une résolution de 1/36°. La composante de pseudo-analyse est forcée aux frontières océaniques par le Système régional de prévision océan-glace (SRPOG) et utilise une méthode de pilotage spectral dans l'océan profond pour corriger les grandes échelles vers la solution du SRPOG. Les champs de la pseudo-analyse sont utilisés afin d'initialiser la prévision de 00Z, les prévisions des passes 06, 12 et 18Z sont initialisées à partir de fichier de redémarrage à l'heure 6 de la prévision précédente. Le forçage atmosphérique pour les deux composantes est fourni par le Système à haute résolution de prévision déterministe (SHRPD) combiné spatialement et temporellement avec une composante non couplée du Système global de prévision déterministe (SGPD) à 10km de résolution horizontale (pour SPCOG-Ouest) ou le Système global de prévision déterministe (SGPD) (pour SPCOG-Est) pour les régions qui ne sont pas couvertes par le SHRPD."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/cccb0064-5ab3-416a-a4f0-566b54f466f3"
+  ],
+  "dct_issued_s": "2024-10-28",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/cccb0064-5ab3-416a-a4f0-566b54f466f3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Coastal Ice-Ocean Prediction System for the Salish Sea region (CIOPS-SalishSea)",
+  "gbl_mdModified_dt": "2025-10-15T14:59:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "06ac9d3f-d528-5609-a628-440f0b116c06",
+  "locn_geometry": "ENVELOPE(-126.204047, -121.1091397, 50.993747, 46.9977462)",
+  "schema_provider_s": "Open Data Canada"
+}

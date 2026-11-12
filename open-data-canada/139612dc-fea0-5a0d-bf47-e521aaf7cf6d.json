@@ -1,0 +1,72 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.44691875, -47.41566875, 83.43873406, 39.8990442)",
+  "dcat_keyword_sm": [
+    "Earth sciences",
+    "flood screening",
+    "Canada",
+    "Données historiques",
+    "Eau de surface",
+    "Carte géographique",
+    "North America",
+    "Water management",
+    "Canada",
+    "Sciences de la terre",
+    "historical data",
+    "Surface water",
+    "Hydrologie",
+    "flood susceptibility",
+    "Floods",
+    "Northern Hemisphere",
+    "susceptibilité aux inondations",
+    "Western Hemisphere",
+    "dépistage des zones inondables",
+    "Mid-latitude",
+    "Hydrology",
+    "dépistage des zones inondables",
+    "Geographical maps",
+    "probabilité d'inondation",
+    "Hémisphère septentrional",
+    "Amérique du nord",
+    "Gestion de l'eau",
+    "Hémisphère occidental",
+    "Inondation",
+    "Latitude moyenne",
+    "flood likelihood"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Collection - Cartographie de la susceptibilité aux inondations"
+  ],
+  "dct_creator_sm": [
+    "GeoInfo."
+  ],
+  "dct_description_sm": [
+    "Flood Susceptibility Mapping is a national map series that shows how likely different areas in Canada are to experience flooding. This updated version improves on an earlier one-time map by incorporating yearly and seasonal data, along with a larger set of known flood locations used for model training. These enhancements make it possible to assess how flood susceptibility varies from year to year, identify long-term trends, and detect years that were unusually wet or dry.\n\nThe system integrates a wide range of information, including land characteristics such as elevation, soil type, land cover, and vegetation, as well as seasonal weather variables such as rainfall and temperature. It also incorporates geographic context so the model can better capture spatial patterns.\n\nSeveral artificial intelligence (AI) models were evaluated, and the XGBoost algorithm was selected for its accuracy and reliability. The model was further calibrated so that the probabilities it produces better align with real-world conditions, with notable improvements in areas where flood susceptibility is moderate. To characterize uncertainty, the model was repeatedly tested using slightly different samples of the data.\n\nAnnual flood susceptibility maps are available for the years 2000 to 2023, along with some maps that show possible future climate conditions.\n\nUsing the yearly maps, “wet” and “dry” scores can be calculated for each watershed (drainage area) in Canada, and changes in flood susceptibility over time were assessed. Across the country, the number of areas showing higher wet conditions has generally increased. Many of the most significant changes occurred between 2009 and 2020, with 2017 emerging as a frequent turning point.\n\nThis collection contains: \n- **[Historic](https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77)** yearly maps (2000–2023) showing the calibrated probability of flood susceptibility. \n- **[Future](https://open.canada.ca/data/en/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)** climate scenarios of flood susceptibility. \n- A variety of **[decision ready maps](https://open.canada.ca/data/en/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)**, showing trends of increasing or decreasing flood susceptibility, (processed by NHN Work Unit), extreme wet and dry years and a 'flood envelope' and probable present day flood susceptibility. \n\nFuture development plans include extending the maps back to 1980 and examining how flood susceptibility may change under future climate scenarios.\n\nOverall, this dataset provides a consistent, Canada-wide view of where and when flood susceptibility has changed over the past two decades. It is intended for analyzing patterns and trends at regional and national scales, rather than predicting flooding at individual properties or supporting engineering or building design decisions.",
+    "La cartographie de la susceptibilité aux inondations est une série nationale de cartes qui montre dans quelle mesure différentes zones du Canada sont susceptibles d’être touchées par des inondations. Cette version mise à jour améliore une carte ponctuelle antérieure en intégrant des données annuelles et saisonnières, ainsi qu’un ensemble plus vaste de sites d’inondation connus utilisés pour entraîner le modèle. Ces améliorations permettent d’évaluer comment la susceptibilité aux inondations varie d’une année à l’autre, d’identifier les tendances à long terme et de repérer les années exceptionnellement humides ou sèches.\n\nLe système intègre un large éventail d’informations, notamment des caractéristiques du territoire comme l’altitude, le type de sol, l’occupation du sol et la végétation, ainsi que des variables météorologiques saisonnières comme les précipitations et la température. Il tient également compte du contexte géographique afin de mieux capter les structures spatiales.\n\nPlusieurs modèles d’intelligence artificielle (IA) ont été évalués, et l’algorithme XGBoost a été retenu pour sa précision et sa fiabilité. Le modèle a ensuite été ajusté afin que les probabilités qu’il produit correspondent mieux aux conditions réelles, avec des améliorations notables dans les zones de susceptibilité modérée aux inondations. Pour mieux caractériser l’incertitude, le modèle a été testé à plusieurs reprises à l’aide d’échantillons de données légèrement différents.\n\nDes cartes annuelles de susceptibilité aux inondations sont disponibles pour les années 2000 à 2023, ainsi que certaines cartes illustrant des conditions climatiques futures possibles.\n\nÀ partir des cartes annuelles, des indices « humides » et « secs » peuvent être calculés pour chaque bassin versant (zone de drainage) au Canada, et l’évolution de la susceptibilité aux inondations dans le temps a été évaluée. À l’échelle du pays, le nombre de zones présentant des conditions plus humides a généralement augmenté. Bon nombre des changements les plus importants sont survenus entre 2009 et 2020, l’année 2017 apparaissant souvent comme un point tournant.\n\nCet collection contient : \n- Des **[cartes historiques annuelles](https://ouvert.canada.ca/data/fr/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77)** (2000–2023) montrant la probabilité calibrée de susceptibilité aux inondations.\n- Des **[scénarios climatiques futurs](https://ouvert.canada.ca/data/fr/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)** de susceptibilité aux inondations.\n- Une variété de **[cartes prêtes à l’utilisation](https://ouvert.canada.ca/data/fr/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)**, montrant les tendances d’augmentation ou de diminution de la susceptibilité aux inondations (traitées par unité de travail du RHT), les années extrêmement humides et sèches, ainsi qu’une « enveloppe d’inondation » et la susceptibilité probable actuelle aux inondations.\n\nLes plans de développement futurs comprennent l’extension des cartes jusqu’en 1980 et l’examen des changements potentiels de la susceptibilité aux inondations selon différents scénarios climatiques futurs.\n\nDans l’ensemble, cet ensemble de données offre une vue cohérente, à l’échelle du Canada, des lieux et des moments où la susceptibilité aux inondations a changé au cours des deux dernières décennies. Il est destiné à l’analyse des motifs et des tendances aux échelles régionale et nationale, plutôt qu’à la prédiction d’inondations pour des propriétés individuelles ou à l’appui de décisions d’ingénierie ou de conception de bâtiments."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc"
+  ],
+  "dct_issued_s": "2026-03-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Collection - Flood Susceptibility Mapping",
+  "gbl_mdModified_dt": "2026-05-25T15:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "139612dc-fea0-5a0d-bf47-e521aaf7cf6d",
+  "locn_geometry": "ENVELOPE(-144.44691875, -47.41566875, 83.43873406, 39.8990442)",
+  "schema_provider_s": "Open Data Canada"
+}

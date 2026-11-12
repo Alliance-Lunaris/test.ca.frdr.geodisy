@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.9695, -55.3598, 52.043, 46.9072)",
+  "dcat_keyword_sm": [
+    "Marine biology",
+    "Oceans",
+    "Aquatic ecosystems",
+    "Poisson",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Fisheries management",
+    "Biologie marine",
+    "Gestion des pêches",
+    "Fish",
+    "Océan",
+    "sentinel fisheries",
+    "pêches sentinelles",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Programme des pêches sentinelles avec engins fixes - nord du golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Section Gestion de données - Direction des avis, information et soutien scientifiques."
+  ],
+  "dct_description_sm": [
+    "In place since fall 1994, the sentinel fisheries program is the result of a collaboration between Fisheries and Oceans Canada (DFO) and commercial fishermen’s associations in Quebec and Newfoundland. Under this program, contracts are awarded by tender to fishermen’s associations to conduct fishing activities in accordance with scientific protocols developed by DFO. The primary objective of this survey is to collect data used to calculate abundance indices for the northern Gulf of St. Lawrence Atlantic cod stock.\n\nDescription of fixed gears survey\n\nThe fixed gear sentinel fisheries program in the northern Gulf of St. Lawrence is conducted in the Northwest Atlantic Fisheries Organization (NAFO) sub-division 3Pn and the divisions 4R, 4S, using fixed gillnets or longlines. Other fishing gears were also used during the early years of the program. Fishing activities with nets must have a mesh size of 5 ½ inches (140mm), and the number of nets is limited to a maximum of 6 to 20, depending on the region and catch. The target immersion time for gillnets (and other nets) is 19 to 24 hours. Longline fishing must be carried out with traditional J #16 or C #12 hooks. The maximum number of hooks varies from 500 to 1000, depending on the catch. The target immersion time for longlines is 4 to 6 hours. Data are collected by observers at sea or by technicians.\n\nData\n\nFor each fishing activity, the total catch is sorted and weighed by species. For each species other than Atlantic cod, the number of individuals caught is noted. Atlantic cod are then measured at the fork (cm). Other biological data such as weight (total, gonad, liver and stomach), age, sex and maturity are then collected on a subsample of cod.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for fish taxa, a “Carbio” file containing biological and morphometric measurements per individual, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level, use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nThe data collected as part of this program is available below. It is important to note, however, that 1) only traits deemed successful have been retained; 2) historical data may contain inaccuracies; 3) the most recent survey is not available for validation purposes. For more information please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).",
+    "En place depuis l’automne 1994, le programme des pêches sentinelles résulte d'une collaboration entre Pêches et Océans Canada (MPO) et des associations de pêcheurs commerciaux du Québec et de Terre-Neuve. Dans le cadre de ce programme, des contrats sont octroyés par appel d’offres à des associations de pêcheurs afin de réaliser des activités de pêche selon les protocoles scientifiques élaborés par le MPO. L’objectif principal de ce relevé est de récolter des données qui serviront à calculer des indices d’abondance pour le stock de morue franche du nord du golfe du Saint-Laurent.\n\nDescription du relevé à engins fixes\n\nLes activités de pêches sont réalisées dans la sous-division 3Pn et les divisions 4R et 4S de l’Organisation des Pêches de l’Atlantique Nord-Ouest (OPANO) avec des filets maillants ou des palangres (d’autres engins ont également été utilisés au début du programme). Les activités de pêches effectuées avec des filets maillant doivent avoir un maillage de 5 pouces ½ (140 mm). Le nombre maximal de filets permis varie de 6 à 20 en fonction de la région et de la capture, et la durée d’immersion visée est de 19 à 24 heures. En ce qui concerne les activités de pêches effectuées avec des palangres, celles-ci doivent être munies d’hameçons de type traditionnel J #16 ou circulaire C #12. Le nombre maximal d’hameçons varie de 500 à 1000 en fonction de la capture et la durée d’immersion visée est de 4 à 6 heures. Les données sont récoltées par les observateurs en mer ou par des techniciens.\n\nDonnées\n\nPour chaque activité de pêche, la capture totale est triée et pesée par espèce. Pour chacune des espèces autres que la morue franche, le nombre d’individus capturés est noté. Les morues franches sont par la suite mesurées à la fourche (cm). D’autres données biologiques telles le poids (total, des gonades, du foie et de l'estomac), l’âge le sexe et la maturité peuvent ensuite être récoltées sur un sous-échantillon de morues.\n\nLes données biologiques sont divisées en 4 fichiers : Un fichier « Stations » contenant les informations des traits, un fichier « Captures » contenant les prises par trait pour tous les taxons de poisson et  un fichier « Carbio » contenant les caractéristiques biologiques et mesures morphométriques par individus, et un fichier « Freql » pour les fréquences de longueur des poissons. Les colonnes source_info, no_releve, nbpc et no_station sont communs aux quatre jeux de données et permet de les relier. Afin de relier plus précisément les fichiers « Captures » et « Carbio » au niveau de l'individus (pour les poissons et certains types d'invertébrés), utilisez les colonnes source_info, no_releve, nbpc, no_station, nom_scientifique, ainsi que categorie.\n\n\nLes données récoltées dans le cadre de ce programme sont disponibles ci-dessous. Il est cependant important de noter que 1) seuls les trait jugés réussis ont été conservés; 2) les données historiques pourraient contenir des données inexactes; 3) le relevé le plus récent n’est pas disponible pour des fins de validation. Veuillez contacter l'équipe de la gestion de données pour de plus amples informations (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d82e5388-f241-4c27-875a-941a49ab70c8"
+  ],
+  "dct_issued_s": "2019-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d82e5388-f241-4c27-875a-941a49ab70c8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Fixed gear sentinel fisheries program - northern Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-18T18:30:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "044784cd-9c0d-51d2-a2ef-5f8df21dba4e",
+  "locn_geometry": "ENVELOPE(-66.9695, -55.3598, 52.043, 46.9072)",
+  "schema_provider_s": "Open Data Canada"
+}

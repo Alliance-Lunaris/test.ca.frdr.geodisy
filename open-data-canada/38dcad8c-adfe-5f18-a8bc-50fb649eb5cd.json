@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.46040705, -67.68914176, 49.36949937, 48.57476245)",
+  "dcat_keyword_sm": [
+    "Metabarcoding",
+    "Mammifère",
+    "Poisson",
+    "12S",
+    "Quebec",
+    "St. Lawrence River",
+    "Mammals",
+    "Métabarcoding",
+    "Fish",
+    "12S",
+    "Marine Mammal",
+    "Mammifère marin",
+    "Québec",
+    "Fleuve Saint-Laurent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Développement d’une approche de caractérisation des espèces côtières à l’aide d’ADN environnemental (ADNe) en utilisant le marqueur MiFish (12S)"
+  ],
+  "dct_creator_sm": [
+    "Audrey Bourret."
+  ],
+  "dct_description_sm": [
+    "Species characterization by environmental DNA (eDNA) is a method that allows the use of DNA released into the environment by organisms from various sources (secretions, faeces, gametes, tissues, etc.). It is a complementary tool to standard sampling methods for the identification of biodiversity. This project provides a list of fish and marine mammal species whose DNA has been detected in water samples collected between 2019 and 2021 using the mitochondrial marker MiFish (12S).\nThe surveys were carried out in the summer of 2019 (July 14-18) and (July 30 - August 5), in the fall of 2020 (October 27-28) and in the summer-fall of 2021 (May 31 - June 3 ) and (August 24-25) between Forestville and Godbout (Haute-Côte-Nord). Sampling was carried out between 1-50 meters depth in 91 stations, with 1 to 3 replicates per station. Two liters of water were filtered through a 1.2 µm fiberglass filter. DNA extractions were performed with the DNeasy Blood and Tissues or PowerWater extraction kit (Qiagen). Negative field, extraction and PCR controls were added at the different stages of the protocol. The libraries were prepared either by Génome Québec (2019, 2020) or by the Genomics Laboratory of the Maurice-Lamontagne Institute (2021), then sequenced on a NovaSeq 4000 PE250 system by Génome Québec. The bioinformatics analysis of the sequences obtained was carried out using an analysis pipeline developed in the genomics laboratory. A first step made it possible to obtain a table of molecular operational taxonomic units (MOTU) using the cutadapt software for the removal of the adapters and the R package DADA2 for the filtration, the fusion, removal of chimeras and compilation of data. The MOTUs table was then corrected using the R package metabaR to eliminate the tag-jumping and take contaminants into consideration. Samples showing a strong presence of contaminating MOTUs were removed from the dataset. The MOTUs were also filtered to remove all remaining adapter sequences and also retain only those of the expected size (around 170 bp). Finally, taxonomic assignments were made on the MOTUs using the BLAST+ program and the NCBI-nt database. Taxonomic levels (species, genus or family) were assigned using a best match method (Top hit), with a threshold of 95%. Only assignments at the level of fish and marine mammals were considered, and the taxa detected were compared to a list of regional species, and corrected if necessary. The species detections of the different replicas have been combined.\nThe file provided includes generic activity information, including site, station name, date, marker type, assignment types used for taxa identification, and a list of taxa or species. The list of taxa has been verified by a biodiversity expert from the Maurice-Lamontagne Institute.\nThis project was funded by Fisheries and Oceans Canada's Coastal Environmental Baseline Data Program under the Oceans Protection Plan. This initiative aims to acquire baseline environmental data that contributes to the characterization of significant coastal areas and supports evidence-based assessments and management decisions to preserve marine ecosystems.\n\nData were also published on SLGO platform : https://doi.org/10.26071/ogsl-2239bca5-c24a",
+    "La caractérisation des espèces par l’ADN environnemental (ADNe) est une méthode qui permet d’utiliser l’ADN libéré dans l’environnement par les organismes de diverses sources (sécrétions, fèces, gamètes, tissus, etc.). C’est un outil complémentaire aux méthodes standards d’échantillonnage pour l’identification de la biodiversité. Ce projet fournit une liste d’espèces de poissons et de mammifères marins dont l’ADN a été détecté dans des échantillons d’eau collectés entre 2019 et 2021 à l’aide du marqueur mitochondrial MiFish (12S) . \nLes relevés ont été réalisés à l’été 2019 (14-18 juillet) et (30 juillet - 5 août), à l’automne 2020 (27-28 octobre) et à l’été-automne 2021 ( 31 mai - 3 juin) et (24-25 août) entre Forestville et Godbout (Haute-Côte-Nord). L’échantillonnage a été réalisé entre 1-50 mètres de profondeur dans 91 stations, avec 1 à 3 réplicas par station. Deux litres d’eau ont été filtrés sur un filtre en fibre de verre de 1.2 µm. Les extractions de l’ADN ont été effectuées avec le kit d’extraction DNeasy Blood and Tissue ou PowerWater (Qiagen). Des contrôles négatifs de terrains, d’extractions et de PCR ont été ajoutés aux différentes étapes du protocole. Les librairies ont été préparées soit par Génome Québec (2019, 2020) ou par le Laboratoire de Génomique de l’Institut Maurice-Lamontagne (2021), puis séquencées sur un système NovaSeq 4000 PE250 par Génome Québec. L’analyse bio-informatique des séquences obtenues a été réalisée à l’aide d’un pipeline d’analyse développé au laboratoire de Génomique. Une première étape a permis l’obtention d’une table d’unité moléculaire opérationnelle de taxonomie (Molecular operational taxonomic unit, MOTU) à l’aide du logiciel cutadapt pour le retrait des adaptateurs et du paquet R DADA2 pour la filtration, la fusion, le retrait des chimères et la compilation des données. La table de MOTUs a par la suite été corrigée à l’aide du paquet R metabaR pour éliminer le tag-jumping et prendre en considération les contaminants. Les échantillons présentant une forte présence de MOTUs contaminants ont été retirés du jeu de données. Les MOTUs ont été filtré également pour retirer toutes les séquences d’adapteurs restantes et conserver également ceux de la taille attendue (autour de 170 pb). Finalement, les assignations taxonomiques ont été effectuées sur les MOTUs à l’aide du programme BLAST+ en utilisant la base de données de NCBI-nt. Les niveaux taxonomiques (espèce, genre ou famille) ont été attribués en utilisant une méthode de la meilleure correspondance (Top hit) avec un seuil de 95%. Seules les assignations au niveau des poissons et mammifères marins ont été considérées, et les taxons détectés ont été comparés à une liste d’espèce régionale, et corrigés si besoin. Les détections d’espèce des différents réplicas ont été combinés. \nLe fichier fournis comprend les informations génériques de l'activité, notamment le site, le nom de la station, la date, le type de marqueur, les types des assignations utilises pour l’identification des taxons et une liste de taxons ou espèces . La liste de taxons a été vérifiée par un expert en biodiversité de l’Institute Maurice-Lamontagne. \nCe projet a été financé par le Programme sur les données environnementales côtières de référence de Pêches et Océans Canada dans le cadre du Plan de protection des océans. Cette initiative vise à acquérir des données environnementales de base qui contribuent à la caractérisation des zones côtières d’importance et appuient des évaluations fondées sur des preuves ainsi que les décisions de gestion afin de préserver les écosystèmes marins.\n\nLes données sont aussi accessible via la plateforme OGSL : https://doi.org/10.26071/ogsl-2239bca5-c24a"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f37aaeca-717d-4f13-bc42-bad029dcc9cb"
+  ],
+  "dct_issued_s": "2022-12-02",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f37aaeca-717d-4f13-bc42-bad029dcc9cb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Development of a coastal species characterization approach using environmental DNA (eDNA) using the marker Mifish (12S)",
+  "gbl_mdModified_dt": "2026-03-24T08:03:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "38dcad8c-adfe-5f18-a8bc-50fb649eb5cd",
+  "locn_geometry": "ENVELOPE(-69.46040705, -67.68914176, 49.36949937, 48.57476245)",
+  "schema_provider_s": "Open Data Canada"
+}

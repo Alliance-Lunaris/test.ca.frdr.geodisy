@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Population",
+    "Canada--Census, 1911",
+    "Census"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gaffield, Chad (CCRI, University of Ottawa, University of Ottawa).",
+    "Baskerville, Peter (University of Alberta).",
+    "St-Hilaire, Marc (Université Laval, University of Saskatchewan. The Historical Geographic Information Systems Lab).",
+    "Amrhein, Carl (University of Alberta).",
+    "Cadigan, Sean (Memorial University).",
+    "Moldofsky, Byron (University of Toronto).",
+    "Darroch, Gordon (York University).",
+    "Bellavance, Claude (Université du Québec à Trois-Rivières).",
+    "Normand, France (Université du Québec à Trois-Rivières)."
+  ],
+  "dct_description_sm": [
+    "Type: <p>Weighting</p> Notes: 5 percent of all dwellings  in 1911 with 30 or fewer residents (“regular-sized” dwellings) were selected with equal probability.    “Large\" dwellings, with 31 or more residents, are sampled in two different ways:   In dwellings in which 50 percent or more of residents were deemed to be unrelated persons, one in every 10 respondents was sel\nected (after a random start).   In multi-household unit dwellings,  those in which 50 percent or more of the residents resided in identifiable household units, 1 in 4 units was selected at random and all residents of a selected unit were sampled.;",
+    "<p>This data is from the CCRI (Canadian Century Research Infrastructure).  The data from these enumerations will enable research on the individuals, families, households, and communities that experienced the complex transformation of Canada. Census data was collected through survey questions answered by every individual in the population in each of 1911, 1921, 1931, 1941, and 1951. This CCRI microdata represents a 5% sample (371551) of the 1911 population.</p>"
+  ],
+  "dct_identifier_sm": [
+    "233189_203099",
+    "https://doi.org/10.5683/SP3/2TJGSV"
+  ],
+  "dct_issued_s": "2023-09-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/2TJGSV\"}",
+  "dct_rights_sm": [
+    "This dataset is made available without information on how it can be used. You should communicate with the Contact(s) specified before use."
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "This data covers  individuals across Canada. This includes: Alberta, British Columbia, Manitoba,  New Brunswick, Nova Scotia, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon and Northwest Territories.     The census-taking geography is based upon the electoral geography. During enumeration, each province was divided into a number of \"Census districts\" (CDs), corresponding to federal electoral districts, which in their turn are divided into a number of \"Enumeration areas\" (EAs), corresponding to polling districts. The latter is the smallest spatial unit for the enumeration itself, a zone \"walked\" by the enumerator, and consisting of roughly 800-1200 individuals. Those two variables (CD and EA) are found on the header of the schedules successively used to collect individual information. Census-taking geography is also used for the purpose of archival preservation and microfilming of the schedules.   A second form of geography to be considered in this data is the geography used in compilation and dissemination (through published volumes) of census returns. Here, provinces are divided into \"Census divisions\" (CDs), corresponding to supra-municipal entities (such as county municipalities), which are composed of \"Census subdivisions\" (CSDs), usually corresponding to local administration units (such as local municipalities or local improvement divisions), or where local administrations do not exist cadastral units (such as townships or parts of townships). That geography is the one with which census statistics users are the most familiar. This consideration of census geography are what is used by CCRI to locate the micro-data and the aggregate data and to produce geographic files to map and process them."
+  ],
+  "dct_title_s": "CCRI 1911 Census of Canada: microdata 5% sample of the population",
+  "gbl_mdModified_dt": "2023-09-20T18:13:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "73b35adf-6f77-52a7-ad54-f8c2b948228a",
+  "pcdm_memberOf_sm": [
+    "Canadian Century Research Infrastructure"
+  ],
+  "schema_provider_s": "University of Alberta Dataverse"
+}

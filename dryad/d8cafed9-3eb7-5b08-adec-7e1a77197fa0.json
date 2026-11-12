@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Memory",
+    "home range",
+    "Bison bison",
+    "energy gains",
+    "2005-2013",
+    "master equation",
+    "agent-based simulation",
+    "memory-based patch selection",
+    "step selection function",
+    "foraging theory",
+    "Space use"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jerod A., Merkle (Université Laval).",
+    "Jonathan R., Potts (University of Alberta).",
+    "Daniel, Fortin (Université Laval)."
+  ],
+  "dct_description_sm": [
+    "Many species frequently return to previously visited foraging sites. This bias towards familiar areas suggests that remembering information from past experience is beneficial. Such a memory-based foraging strategy has also been hypothesized to give rise to restricted space use (i.e. a home range). Nonetheless, the benefits of empirically derived memory-based foraging tactics and the extent to which they give rise to restricted space use patterns are still relatively unknown. Using a combination of stochastic agent-based simulations and deterministic integro-difference equations, we developed an adaptive link (based on energy gains as a foraging currency) between memory-based patch selection and its resulting spatial distribution. We used a memory-based foraging model developed and parameterized with patch selection data of free-ranging bison Bison bison in Prince Albert National Park, Canada. Relative to random use of food patches, simulated foragers using both spatial and attribute memory are more efficient, particularly in landscapes with clumped resources. However, a certain amount of random patch use is necessary to avoid frequent returns to relatively poor-quality patches, or avoid being caught in a relatively poor quality area of the landscape. Notably, in landscapes with clumped resources, simulated foragers that kept a reference point of the quality of recently visited patches, and returned to previously visited patches when local patch quality was poorer than the reference point, experienced higher energy gains compared to random patch use. Furthermore, the model of memory-based foraging resulted in restricted space use in simulated landscapes and replicated the restricted space use observed in free-ranging bison reasonably well. Our work demonstrates the adaptive value of spatial and attribute memory in heterogeneous landscapes, and how home ranges can be a byproduct of non-omniscient foragers using past experience to minimize temporal variation in energy gains."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.b75j7",
+    "https://doi.org/10.5061/dryad.b75j7"
+  ],
+  "dct_issued_s": "2016-07-14",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.b75j7\"}",
+  "dct_spatial_sm": [
+    "Canada",
+    "Saskatchewan",
+    "Prince Albert National Park"
+  ],
+  "dct_title_s": "Data from: Energy benefits and emergent space use patterns of an empirically parameterized model of memory-based patch selection",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d8cafed9-3eb7-5b08-adec-7e1a77197fa0",
+  "schema_provider_s": "Dryad"
+}

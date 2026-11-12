@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-85.408433, -85.249174, 10.905944, 10.768612)",
+  "dcat_keyword_sm": [
+    "H2S/SO2 ratio",
+    "CO2/SO2 ratio",
+    "SO2 flux",
+    "Multi-GAS",
+    "CO2 flux",
+    "Rincón de la Vieja"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Salas Navarro, Jessica (McGill University). ORCID: https://orcid.org/0000-0001-7940-5112"
+  ],
+  "dct_description_sm": [
+    "This dataset contains daily measurements of volcanic gas emissions from Rincón de la Vieja volcano, Costa Rica, from May 2023 toMay 2024.\n\nThe time series includes daily tons of SO2 and their associated uncertainties, obtained from permanently installed scanning Differential Optical Absorption Spectroscopy (DOAS) instruments operated within the OVSICORI-UNA monitoring network.\n\nDaily CO2/SO2 and H2S/SO2 molar ratios, together with their associated uncertainties, were measured using a permanently installed Multi-GAS instrument also part of OVSICORI-UNA's network. A data gap between December 2023 and March 2024 was due to a malfunction of the SO2 sensor of the Multi-GAS instrument. \n\nDaily tons of CO2 and their uncertainties were derived from the measured total sulfur flux (ST = SO2 + H2S) and the corresponding CO2/ST ratios, with uncertainty propagation applied to the calculated values."
+  ],
+  "dct_identifier_sm": [
+    "1183473",
+    "https://doi.org/10.5683/SP4/LFQRCC"
+  ],
+  "dct_issued_s": "2026-06-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/LFQRCC\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Liberia, Guanacaste, Costa Rica"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Rincón de la Vieja's crater degassing from May 2023 to May 2024",
+  "gbl_mdModified_dt": "2026-06-15T16:38:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4032f856-7cad-5e8c-90bb-33d0fa35b045",
+  "locn_geometry": "ENVELOPE(-85.408433, -85.249174, 10.905944, 10.768612)",
+  "schema_provider_s": "McGill University Dataverse"
+}

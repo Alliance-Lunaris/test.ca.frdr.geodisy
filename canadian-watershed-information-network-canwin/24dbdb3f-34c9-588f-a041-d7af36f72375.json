@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-60.73143589, -54.34859864, 48.27243455, 44.24005841)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Monitoring of Unit 2 redfish by Fisheries and Oceans Canada (DFO) ceased in 2002. Since then, the Atlantic Groundfish Council (AGC, formerly the Groundfish Enterprise Allocation Council [GEAC]) has funded surveys approximately every two years in the area, in collaboration with DFO. Over the years, various vessels and gear types have been used. \n\nIn 2024, a comparative survey was conducted using the CCGS John Cabot and a fishing industry vessel (the Léry Charles) to develop conversion factors that allow data from the 2020, 2022, and 2024 Unit 2 redfish surveys to be standardized to CCGS John Cabot equivalents. The survey covered the waters off southwestern Newfoundland and eastern Cape Breton, corresponding to redfish management Unit 2, which includes NAFO subdivisions 3Pn, 3Ps, 4Vn, 4Vs, and 4W. Here, data collected aboard the CCGS John Cabot are presented. \n\nObjectives\n•\tAssess the abundance and condition of groundfish and invertebrates\n•\tAssess environmental conditions\n•\tInventory the biodiversity of benthic and demersal megafauna\n•\tMonitor the pelagic ecosystem\n•\tCollect samples for various research projects\n\nData \nThe CCGS John Cabot employed a four-sided modified Campelen 1800 shrimp trawl, fitted with a Rockhopper (\"bicycle\") footgear. The trawl extension and codend were lined with 12.7 mm knotless nylon mesh. Standard trawl tows were 15 minutes in duration, timed from bottom contact, with a target towing speed of 3 knots.\n\nFor each fishing tow, the catch is sorted and weighed by taxa; individuals are then counted and biological data are collected on a subsample. For fish, crab and squid, size and weight are measured by individual and, for some species, sex, gonad maturity, and the weight of certain organs (stomach, liver, gonads) are also evaluated. The soft rays of the anal fin are counted for redfish, and the otoliths are sampled for several species such as Atlantic cod, Atlantic halibut, and Greenland halibut. Roughly 2-kg of shrimp are sorted and weighed by species. The other invertebrates are counted (no individual measurements) and photographed.\n\nThe biological data are divided into 3 files: a “Stations” file containing set information, a “Catches” file containing catches per set for all species caught and a “Carbio” file containing biological and morphometric measurements per individual all species measured except shrimps. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the three datasets. To further link the “Captures” and the “Carbio” files to the species level (for fish and certain invertebrate species), use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nFurther shrimp biological and morphometric data are available but are not presented here in order to simplify data presentation. For access to the complete information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca). \n\nThe latest published data is preliminary and will be updated at the end of January of the following year.\n\nIt is important to note that this is raw data. Only sets considered successful are retained. In each set, all species are kept, with a few exceptions. Data is available from 1997-2022 but please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca) for access and further details. For any other information please also contact the data management team."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d79741f7-5b02-443e-859a-7b1350ea2bff"
+  ],
+  "dct_issued_s": "2025-09-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d79741f7-5b02-443e-859a-7b1350ea2bff\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Survey for the assessment of Unit 2 Redfish (CCGS John Cabot)",
+  "gbl_mdModified_dt": "2026-06-05T17:31:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "24dbdb3f-34c9-588f-a041-d7af36f72375",
+  "locn_geometry": "ENVELOPE(-60.73143589, -54.34859864, 48.27243455, 44.24005841)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

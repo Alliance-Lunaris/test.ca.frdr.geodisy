@@ -1,0 +1,60 @@
+{
+  "dcat_keyword_sm": [
+    "Lophocebus albigena",
+    "Ateles geoffroyi",
+    "Ateles geoffroyi yucatanensis",
+    "Lévy walk",
+    "Brownian walk",
+    "Chlorocebus pygerythrus",
+    "Alouatta pigra",
+    "Procolobus rufomitratus",
+    "Colobus vellerosus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Reyna-Hurtado, Rafael (Universidad Veracruzana).",
+    "Teichroeb, Julie A. (University of Toronto).",
+    "Bonnell, Tyler R. (University of Calgary, University of Lethbridge).",
+    "Hernández-Sarabia, Raul Uriel (Universidad Veracruzana).",
+    "Vickers, Sofia M. (University of California, Santa Cruz).",
+    "Serio-Silva, Juan Carlos (Instituto de Ecología).",
+    "Sicotte, Pascale (University of Calgary).",
+    "Chapman, Colin A. (Kyoto University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.gp557</p>\n<p><b>Storage size:</b> 203805</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Animals are hypothesized to search their environments in predictable ways depending on the distribution of resources. Evenly distributed foods are thought to be best exploited with random Brownian movements; while foods that are patchy or unevenly distributed require non-Brownian strategies, such as Lévy walks. Thus, when food distribution changes due to seasonal variation, animals should show concomitant changes in their search strategies. We examined this issue in six monkey species from Africa and Mexico: three frugivores and three folivores. We hypothesized that the more patchily distributed fruit would result in frugivores showing more levy-like patterns of motion, while folivores, with their more homogenous food supply, would show Brownian patterns of motion. At least three and up to five of six species conformed to the overall movement pattern predicted by their primary dietary item. For folivorous black howler monkeys (Alouatta pigra), ursine colobus (Colobus vellerosus), and red colobus (Procolobus rufomitratus), Brownian movement was supported or could not be ruled-out. Two frugivores (spider monkeys, Ateles geoffroyi yucatanensis, and grey-cheeked mangabeys, Lophocebus albigena) showed Lévy walks, as predicted, but frugivorous vervet monkeys (Chlorocebus pygerythrus) showed a Brownian walk.  Additionally, we test whether seasonal variation in the spatial availability of food support environmentally driven changes in movement patterns. Four of five species tested for seasonal variation showed adjustments in their search strategies between the rainy and dry seasons. This study provides support for the notion that food distribution determines search strategies and that animal movement patterns are flexible, mirroring changes in the environment.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">step_lengths_primates</h4><div class=\"o-metadata__file-description\">This file contains the R code and the step length data from the six species of primates. With this file anyone can run the analyses contrasting Brownian versus long-tailed distribution movements</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">stepLengths</h4><div class=\"o-metadata__file-description\">This file contains all data for the six species in cvs format</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "858610_854807",
+    "https://doi.org/10.5683/SP3/GFNM4U"
+  ],
+  "dct_issued_s": "2024-12-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GFNM4U\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Uganda",
+    "Mexico",
+    "Ghana"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Primates adjust movement strategies due to changing food availability",
+  "gbl_mdModified_dt": "2024-12-04T18:46:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "01953fd8-189c-52d0-bdbf-5da814f69723",
+  "pcdm_memberOf_sm": [
+    "U of L Dryad2Dataverse"
+  ],
+  "schema_provider_s": "University of Lethbridge Dataverse"
+}

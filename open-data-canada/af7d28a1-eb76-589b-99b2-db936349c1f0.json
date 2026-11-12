@@ -1,0 +1,69 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "active sampling",
+    "Qualité de l'air",
+    "fonderies",
+    "Oil sands",
+    "aéronef",
+    "Sables bitumineux",
+    "dioxyde de soufre",
+    "power plants",
+    "smelters",
+    "Ambient air",
+    "gaz acides",
+    "dioxyde d'azote",
+    "acidifying gases",
+    "satellite",
+    "Canadian Ambient Air Quality Standards",
+    "Air ambiant",
+    "nitrogen dioxide",
+    "échantillonnage actif",
+    "oil sands",
+    "satellite",
+    "sables bitumineux",
+    "sources",
+    "sources",
+    "tendances",
+    "aircraft",
+    "normes canadiennes de qualité de l’air ambiant",
+    "Air quality",
+    "centrales électriques",
+    "trends",
+    "sulphur dioxide"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Télédétection et modélisation, observation par satellite du dioxyde d’azote, région des sables bitumineux"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "In the oil sands air monitoring component, nitrogen dioxide (NO2) and sulphur dioxide (SO2) levels are monitored by ground-based instruments, satellites and other measurements. Monitoring of air pollutants from satellites is becoming an alternative to surface and aircraft measurements, and allows for better understanding of the global distribution, sources and trends of pollutants. \r\n\r\n\r\nFigures showing NO2 and SO2 datasets are given in “Satellite Figures-EngFr.pdf”. Using satellite data collected over the oil sands region, high-resolution air pollutant maps show distinct concentrations of NO2 (Figure 1a) and SO2 (Figure 1b) over an area (roughly 30 km x 50 km, or 19 miles x 31 miles) of intensive oil sands surface mining. The map shows that NO2 concentrations are significant and are comparable to measurements made over large, individual sources such as coal-burning power plants. NO2 concentrations in the oil sand region are smaller than in large metropolitan areas in Canada and significantly smaller than elsewhere in North America (Figures 1c and 1d). The SO2 concentrations (Figure 1e) are also significant and are comparable to those from individual industrial emissions sources, including large base-smelting operations in Manitoba and Ontario. NO2 data are provided in the files described below; SO2 data may be added to the data catalogue in the future.\r\n\r\n\r\nThe 2024 version (v4.0_OS) OMI NO2 data product builds on the previously published version of National Aeronautics and Space Administration (NASA) Ozone Monitoring Instrument (OMI) NO2 data, but includes more recent data, covering the period of 2004 to 2023 inclusive. Data are provided in netcdf format and cover the spatial domain of the entirety of the oil sands within a box defined by 53-58°N and 113-118°W. The data product is based on the NASA and OMI improved algorithms and Environment and Climate Change Canada (ECCC) post-processing algorithms to optimize the data for monitoring over Canada. This ECCC product has been shown to be more accurate as compared to the original NASA version over the oil sands region and thus it is the recommended version. \r\n\r\n\r\nOMI-derived maps of NO2 over the surface mining area for the 2004-2023 period, sample python code to load the data, references and other details are provided in “2024 OMI NO2 Supplemental Information EngFr.pdf” document. Included maps of NOx emissions between 2004-2023 help to understand the response to introduced ambient air quality standards and demonstrate that NO2 emissions increased from about 55 to 80 kt[NO2]/yr between 2005 –2011, and then remain roughly constant, which is broadly in line with reported emissions.",
+    "Dans le Programme de surveillance visant les sables bitumineux, les niveaux de dioxyde d’azote (NO2) et de dioxyde de soufre (SO2) sont surveillés grâce à des instruments au sol, des satellites et d’autres appareils de mesure. La surveillance des polluants atmosphériques à partir de satellites devient une solution de rechange aux mesures prises à la surface et par aéronef. Elle permet d’avoir une meilleure compréhension de la répartition mondiale, des sources et des tendances des polluants. \r\n\r\nLes figures montrant les ensembles de données sur le NO2 et le SO2 sont présentées dans le document « Satellite Figures-EngFr.pdf ». Des cartes de polluants atmosphériques à haute résolution, établies à partir des données satellitaires sur la région des sables bitumineux, révèlent des concentrations distinctes de NO2 (figure 1a) et de SO2 (figure 1b) sur une région (approximativement 30 km x 50 km, ou 19 milles x 31 milles) d’exploitation intensive à ciel ouvert des sables bitumineux. La carte montre que les concentrations de NO2 sont importantes et comparables aux mesures prises au dessus des grandes sources individuelles comme des centrales thermiques. Les concentrations de NO2 dans la région des sables bitumineux sont moindres que celles observées au dessus des grandes régions métropolitaines au Canada et grandement inférieures à celles observées ailleurs en Amérique du Nord (figures 1c et 1d). Les concentrations de SO2 (figure 1e) sont également importantes et comparables à celles provenant de sources d’émissions industrielles individuelles, incluant les grandes fonderies de métaux communs au Manitoba et en Ontario. Les données sur le NO2 sont fournies dans les fichiers décrits ci-dessous; les données sur le SO2 pourraient être ajoutées au catalogue de données.\r\n\r\nLes données sur le NO2 de la version 2024 (v4.0_OS) de l’instrument de surveillance de l’ozone (ISO) de la National Aeronautics and Space Administration (NASA) s’appuient sur la version précédemment publiée des données sur le NO2 de l’ISO, mais elles comprennent des données plus récentes, qui couvrent la période de 2004 à 2023 inclusivement. Les données sont fournies dans des fichiers netcdf et couvrent le domaine spatial de l’ensemble de la région des sables bitumineux, dans une zone définie comme étant entre 53 et 58°N et entre 113 et 118°O. Les données sont fondées sur les algorithmes améliorés de la NASA et de l’ISO et sur les algorithmes de post traitement d’Environnement et Changement Climatique Canada (ECCC) afin d’optimiser les données pour la surveillance au Canada. Ce produit d’ECCC s’est avéré plus précis que la version originale de la NASA pour la région des sables bitumineux, et il s’agit donc de la version recommandée. \r\n\r\nLes cartes sur le NO2 dérivées de l’ISO dans la zone d’extraction en surface pour la période de 2004 à 2023, un exemple de code Python pour charger les données, des références et d’autres détails sont fournis dans le document « 2024 OMI NO2 Supplemental Information EngFr.pdf ». Les cartes incluses des émissions de NOx entre 2004 et 2023 aident à comprendre la réponse aux normes de qualité de l’air ambiant introduites et démontrent que les émissions de NO2 ont augmenté d’environ 55 à 80 kt[NO2]/an entre 2005 et 2011, puis sont restées à peu près constantes, ce qui correspond largement aux émissions déclarées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b1c50d98-b377-44a5-ac36-94e50c8df9f7"
+  ],
+  "dct_issued_s": "2014-05-07",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b1c50d98-b377-44a5-ac36-94e50c8df9f7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Remote Sensing and Modelling, Satellite-based Nitrogen Dioxide, Oil Sands Region",
+  "gbl_mdModified_dt": "2025-02-03T13:01:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "af7d28a1-eb76-589b-99b2-db936349c1f0",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

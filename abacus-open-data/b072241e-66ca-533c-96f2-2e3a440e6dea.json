@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.1569900512695, -74.3079833984375, 56.8501167297363, 41.6722984313965)",
+  "dcat_keyword_sm": [
+    "Geospatial",
+    "Open"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario Ministry of Natural Resources and Forestry."
+  ],
+  "dct_description_sm": [
+    "<p>Over the course of 50 years the Ontario Ministry of Natural Resources and Forestry (OMNRF) has captured bathymetry data for over 10,000 lakes across Ontario.</p>  <p>In 1968 the Department of Lands and Forests initiated the Aquatic Habitat Inventory Program to collect information for Ontario’s inland water data. One product was a series of contour maps showing lake depth. In many cases, these maps still represent the only authoritative source of bathymetry data for lakes in Ontario. These maps have been converted to digital GIS data which has resulted in the vast majority of the current data in the Bathymetry Line data class.</p>  <p>More recent bathymetric data has been collected using sonar and GPS technology. This modern technique creates lake depth points (spot depths) rather than contours. This point data is stored in the Bathymetry Point data class.</p>  <p>Bathymetry Line contains lines of constant depth called depth contours or isobars. Depth contours are used to describe the terrain relief below the surface of the water.</p>  <p>The data used to derive the depth contours are always spot depths but the density and positional accuracy of these spot depths vary depending on the survey style and parameters. Before GPS data was available, spot depth locations were derived by straight line transects across a water body which were then plotted on a map. The time consuming nature of this method limited the number of transects collected. Now GPS data collection is not limited to transects and therefore spot depth collections tend to be far denser with greater horizontal accuracy.</p>  <p>Depth contours have been derived in one of two ways:</p>  <ol> <li><p>Visually interpreted and drawn by hand based on transects of the water body</p></li> <li><p>Interpolated using GIS processes such as Kriging or Natural Neighbours</p></li> </ol>  <p>Vertical accuracy of the data varies greatly depending on the density of spot depth collected for each lake. Horizontal accuracy will also vary greatly on older transect based collections but will be within 5m for GPS based collections.</p>  <p>Bathymetry point and line data should not be used for navigational purposes.</p>"
+  ],
+  "dct_identifier_sm": [
+    "44285",
+    "https://hdl.handle.net/11272.1/AB2/7RKHPW"
+  ],
+  "dct_issued_s": "2013-01-02",
+  "dct_publisher_sm": [
+    "Abacus Data Network"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://hdl.handle.net/11272.1/AB2/7RKHPW\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario You are encouraged to use the Information that is available under this licence with only a few conditions. Using Information under this licence 1. Use of any Information indicates your acceptance of the terms below. 2. The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below. You are free to: 3. Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose. You must, where you do any of the above: 4. Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence. If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions are not practical for your product or application, you must use the following attribution statement: Contains information licensed under the Open Government Licence – Ontario. 5. The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically. Exemptions 6. This licence does not grant you any right to use: Personal Information; Information or Records not accessible under the Freedom of Information and Protection of Privacy Act (Ontario); third party rights the Information Provider is not authorized to license; the names, crests, logos, or other official symbols of the Information Provider; and Information subject to other intellectual property rights, including patents, trade-marks and official marks. Non-endorsement 7. This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider endorses you or your use of the Information. No warranty 8. The Information is licensed \"as is\", and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law. 9. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage. Governing Law 10. This licence is governed by the laws of the Province of Ontario and the applicable laws of Canada. 11. Legal proceedings related to this licence may only be brought in the courts of Ontario. Definitions 12. In this licence, the terms below have the following meanings: \"Information\" means information resources or Records protected by copyright or other information or Records that are offered for use under the terms of this licence. \"Information Provider\" means His Majesty the King in right of Ontario. \"Personal Information\" has the meaning set out in section 2(1) of Freedom of Information and Protection of Privacy Act (Ontario). \"Records\" has the meaning of \"record\" as set out in the Freedom of Information and Protection of Privacy Act (Ontario). \"You\" means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence. Versioning 13. This is version 1.0 of the Open Government Licence – Ontario. The Information Provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the Information will be governed by the terms of the licence in force as of the date you accessed the information. Updated: August 31, 2015"
+  ],
+  "dct_spatial_sm": [
+    "Ontario",
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Bathymetry Line",
+  "gbl_mdModified_dt": "2013-01-02T08:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b072241e-66ca-533c-96f2-2e3a440e6dea",
+  "locn_geometry": "ENVELOPE(-95.1569900512695, -74.3079833984375, 56.8501167297363, 41.6722984313965)",
+  "pcdm_memberOf_sm": [
+    "Bathymetry"
+  ],
+  "schema_provider_s": "Abacus Open Data"
+}

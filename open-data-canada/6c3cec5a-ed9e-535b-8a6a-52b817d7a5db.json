@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Couche des grandes affectations.\n\n**Contexte de collecte**\n Tiré du règlement de zonage.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_AFFECTATION` (`integer`) : Identifiant\n* `AFFECTATION` (`varchar`) : Affectation\n* `CODE_AFFECTATION` (`varchar`) : Code d'affectation\n* `ZON_AREA` (`numeric`) : Aire\n* `SECTEUR` (`varchar`) : Secteur\n* `NOTE` (`varchar`) : Note\n* `DATE_CREATION` (`smalldatetime`) : Créé le\n* `DATE_MODIFICATION` (`smalldatetime`) : Modifié le\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `SOURCE` (`varchar`) : Source\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog).",
+    "Major assignment layer.\n\n**Collection context**\n Taken from the zoning by-law.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_ASSIGNATION` (`integer`): Identifier\n* `ASSIGNMENT` (`varchar`): Assignment\n* `CODE_ASSIGNATION` (`varchar`): Assignment code\n* `ZON_AREA` (`numeric`): Area\n* `SECTOR` (`varchar`): Sector\n* `NOTE` (`varchar`): Note\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `SOURCE` (`varchar`): Source\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/52e35caf-ee9d-4446-8c0a-915e35c77efc"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/52e35caf-ee9d-4446-8c0a-915e35c77efc\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Grandes affectations du zonage - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T17:32:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c3cec5a-ed9e-535b-8a6a-52b817d7a5db",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

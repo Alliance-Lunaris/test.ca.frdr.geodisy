@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.41161469, -51.02998924, 60.79070191, 46.27790954)",
+  "dcat_keyword_sm": [
+    "saumon rivière bassin versant plan d’eau réseau Terre-Neuve Labrador",
+    "salmon river watershed waterbody network Newfoundland Labrador",
+    "Fleuve / Rivière",
+    "Rivers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base de données géographiques sur les rivières à saumon – par détachement du MPO (Région de T-N)"
+  ],
+  "dct_creator_sm": [
+    "Government of Canada ; Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset was developed to provide a complete record of salmon rivers within the province of Newfoundland and Labrador. It is organized by DFO detachment area and can be used for resource planning and management purposes. It is suitable for general mapping, visualization and query. It is derived from the National Hydro Network (NHN) data.\n\nThe geodatabase contains feature datasets for each of the 8 DFO detachments in Newfoundland and Labrador (Bay Roberts, Clarenville, Goose Bay, Marystown, Rocky Harbour, Springdale, Stephenville, Twillingate). Each of the feature datasets contain 4 feature classes that describe aspects of the salmon rivers within each detachment area. \n\nThe RiverBasins feature class contains polygons outlining the extent of each of the salmon river watersheds that fall within that DFO detachment area. Polygons were delineated using provincial DEMs, National Hydro Network (NHN) river features, the DFO detachment area boundary, and tools contained in the ArcHydro toolset for ArcPro GIS software. \n\nThe SalmonNetwork feature class contains lines which show the flow (undirected) of the river network through each of the salmon river watersheds that fall within that DFO detachment area. The flow is depicted by lines that run through rivers and streams and through waterbodies. The lines were imported from the National Hydro Network (Primary Directed Flow feature class) and then organized by salmon river watershed, to create a dataset with one line feature for each watershed. \n\nThe SalmonRivers feature class contains lines which show salmon rivers within each of the salmon river watersheds that fall within that DFO detachment area. The lines were imported from the National Hydro Network (SLWater feature class) and then organized by salmon river watershed, to create a dataset with one line feature for each watershed. Only \"single-line\" rivers are included. Larger, \"two-sided\" rivers are depicted as polygons in the \"Salmon Waterbodies\" dataset.\n\nThis SalmonWaterbodies feature class contains polygons which show salmon waterbodies within each of the salmon river watersheds that fall within that DFO detachment area. The polygons were imported from the National Hydro Network (Waterbody feature class) and then organized by salmon river watershed, to create a dataset with one polygon feature for each watershed. Larger, \"two-sided\" rivers are also depicted as polygons in the \"Salmon Waterbodies\" dataset.\n\nThe geodatabase contains attribute information on the name, zone and class of each salmon river as reflected in the following documents: (i) Anglers' Guide - Scheduled Salmon Rivers of Newfoundland and Labrador and (ii) Conservation and Protection - Scheduled Salmon Rivers & DFO Detachment Regions Newfoundland and Labrador. It also provides links to online information on current in-season status",
+    "Ces ensembles de données visent à fournir un registre complet des rivières à saumon de la province de Terre-Neuve-et-Labrador. Organisés par détachement du MPO, les ensembles peuvent servir à la planification et à la gestion des ressources. Ils conviennent à la cartographie générale, à la visualisation et à la requête. Ils sont dérivés des données du Réseau hydro national (RHN).\n\nCette base de données géographiques contient des ensembles de données sur les entités de chacun des huit détachements du MPO à Terre-Neuve-et-Labrador (Bay Roberts, Clarenville, Goose Bay, Marystown, Rocky Harbour, Springdale, Stephenville, Twillingate). Chacun des ensembles de données sur les entités contient quatre classes d’entités qui décrivent des aspects des rivières à saumon de chaque détachement. \n\nLa classe d’entité RiverBasins  contient des polygones qui reflètent l’étendue du bassin versant de chacune des rivières à saumon se trouvant dans le détachement du MPO. Les polygones ont été délimités à l’aide des modèles altimétriques numériques (MAN) provinciaux, des entités coursdeau du  Réseau hydro national (RHN), des limites des détachements du MPO et des outils contenus dans le jeu d’outils ArcHydro du logiciel ArcPro GIS. \n\nLa classe d’entité Réseau à saumon contient des lignes qui montrent l’écoulement (non orienté) du réseau fluvial au sein du bassin versant de chacune des rivières à saumon se trouvant dans le détachement du MPO. L’écoulement est représenté par des lignes qui traversent les cours d’eau (rivières et ruisseaux) ainsi que les plans d’eau. Les lignes ont été importées du Réseau hydro national (classe d’entité FilamentairePrimaireOriente), puis organisées par bassin versant de rivière à saumon, afin de créer un ensemble de données avec une entité de ligne pour chaque bassin versant. \n\nLa classe d’entité Rivières à saumon contient des lignes qui montrent les rivières à saumon au sein du bassin versant de chacune des rivières à saumon se trouvant dans le détachement du MPO. Les lignes ont été importées du Réseau hydro national (classe d’entité coursdeau), puis organisées par bassin versant de rivière à saumon, afin de créer un ensemble de données avec une entité de ligne pour chaque bassin versant. Les cours d’eau « simples » sont inclus. Les cours d’eau « doubles » de plus grande taille sont illustrés sous forme de polygones dans l’ensemble de données « Plans d’eau à saumon».\n\nLa classe d’entité Plans d’eau à saumon contient des polygones qui montrent les plans d’eau à saumon au sein du bassin versant de chacune des rivières à saumon se trouvant dans le détachement du MPO. Les polygones ont été importés du Réseau hydro national (classe d’entité regionhydro), puis organisés par bassin versant de rivière à saumon, afin de créer un ensemble de données avec une entité de polygone pour chaque bassin versant. Les cours d’eau « doubles » de plus grande taille sont également illustrés sous forme de polygones dans l’ensemble de données « Plans d’eau à saumon».\n\nLa base de données géographiques contient des données attributaires sur les « nom », « zone » et « catégorie » de chaque rivière à saumon, telles qu’elles figurent dans les documents suivants : i) Guide du pêcheur à la ligne – Rivières à saumon réglementées de Terre-Neuve-et-Labrador, et ii) Conservation et protection – Rivières à saumon réglementées et détachements du MPO à Terre-Neuve-et-Labrador. Elle fournit également de l’information en ligne sur la situation des rivières en cours de saison."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/943d2048-4e75-4a6a-ad43-6ff1d1c56e2d"
+  ],
+  "dct_issued_s": "2025-06-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/943d2048-4e75-4a6a-ad43-6ff1d1c56e2d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Salmon Rivers Geodatabase - by DFO Detachment (NL Region)",
+  "gbl_mdModified_dt": "2026-03-24T08:41:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44e7e15f-9711-52fe-a0d7-c0faa799b314",
+  "locn_geometry": "ENVELOPE(-68.41161469, -51.02998924, 60.79070191, 46.27790954)",
+  "schema_provider_s": "Open Data Canada"
+}

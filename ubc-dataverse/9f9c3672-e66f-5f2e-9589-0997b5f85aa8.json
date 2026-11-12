@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "mixed mating system",
+    "bias of selfing rate estimates",
+    "descent measures",
+    "selﬁng"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "McClure, Nathan S. (Queen's University).",
+    "Whitlock, Michael C. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/rmiKIgfFyHex6RuQljn2dg_CWA7kCnfaHWy4smlzJns</p>\n<p><b>Storage size:</b> 112720124</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>We describe a new method of estimating the selfing rate (S) in a mixed mating population based on a population structure approach that accounts for possible intergenerational correlation in selfing rate, giving rise to an estimate of the upper limit for heritability of selfing rate (h^2). A correlation between generations in selfing rate is shown to affect one- and two-locus probabilities of identity by descent. Conventional estimates of selfing rate based on a population structure approach are positively biased by intergenerational correlation in selfing. Multilocus genotypes of individuals are used to give maximum-likelihood estimates of S and h^2 in the presence of scoring artifacts. Our multilocus estimation of selfing rate and its heritability (MESH) method was tested with simulated data for a range of conditions. Selfing rate estimates from MESH have low bias and root mean squared error, while estimates of the heritability of selfing rate have more uncertainty. Increasing the number of individuals in a sample helps to reduce bias and root mean squared error more than increasing the number of loci of sampled individuals. Improved estimates of selfing rate, as well as estimates of its heritability, can be obtained with this method, although a large number of loci and individuals are needed to achieve best results.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">README</h4><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">variableSh2data</h4><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">variablepopSizenumLocidata</h4><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152776_150149",
+    "https://doi.org/10.5683/SP2/OST8OX"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/OST8OX\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Multilocus estimation of selfing and its heritability",
+  "gbl_mdModified_dt": "2021-05-20T03:09:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9f9c3672-e66f-5f2e-9589-0997b5f85aa8",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Hydrologie, Lac Croche, Station de Biologie des Laurentides, Seuil jaugeur, Niveau d’eau, Débit hydrique, Données hydrométriques, Mesures hydrologiques, Séries temporelles | Hydrology, Lac Croche, Station of Biology of the Laurentians, Gauge weir, Water level, Water flow, Hydrometric data, Hydrological measurements, Time series."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Station de Biologie des Laurentides (Université de Montréal)."
+  ],
+  "dct_description_sm": [
+    "Glossaire des Abréviations : debit_cfs : Débit en pieds cubes par seconde – L_sec : Litres par seconde - m3_hr : Mètres cubes par heure - débit_max_m3_h : Débit maximal mesuré en mètres cubes par heure - débit_min_m3_h : Débit minimal mesuré en mètres cubes par heure - débit_mean_m3_h : Débit moyen mesuré en mètres cubes par heure - débit_sd_m3_h : Écart-type du débit en mètres cubes par heure - débit_variation_m3_h : Variation du débit en mètres cubes par heure au cours de la journée - niveau_m : Niveau d’eau mesuré en mètres - niveau_cm : Niveau d’eau mesuré en centimètres - niveau_ft : Niveau d’eau mesuré en pieds - mean_niveau_m : Niveau moyen d’eau mesuré en mètres | Glossary of Abbreviations : debit_cfs: Flow rate in cubic feet per second - L_sec: Liters per second - m3_hr: Cubic meters per hour - debit_max_m3_h: Maximum recorded flow rate in cubic meters per hour - debit_min_m3_h: Minimum recorded flow rate in cubic meters per hour - debit_mean_m3_h: Average flow rate in cubic meters per hour - debit_sd_m3_h: Standard deviation of flow rate in cubic meters per hour - debit_variation_m3_h: Flow rate variation in cubic meters per hour over the day - niveau_m: Water level measured in meters - niveau_cm: Water level measured in centimeters - niveau_ft: Water level measured in feet - mean_niveau_m: Average water level measured in meters.",
+    "Ce jeu de données regroupe les mesures hydrologiques effectuées quotidiennement au seuil jaugeur du lac Croche, situé à la Station de Biologie des Laurentides. Couvrant la période de 2003 à 2024, avec quelques interruptions pour certaines années, il constitue une ressource précieuse pour l’étude de la dynamique hydrologique du lac, la variabilité des débits et leur relation avec les conditions environnementales locales.\nLes données \"débit_seuil_annuel\", sous forme de documents texte, regroupent les enregistrements horaires du niveau d’eau mesuré au seuil jaugeur, exprimé en mètres. Ces relevés couvrent les années 2003 à 2024, à l’exception de 2006, 2010, 2011, 2012 et 2013. Chaque enregistrement comprend la date, l’heure de la mesure et la hauteur d’eau observée. Les données \"débit_seuil_moyen\", disponibles sous format Excel, fournissent les moyennes horaires du niveau d’eau et du débit. Elles incluent plusieurs paramètres hydrologiques, notamment le niveau d’eau (exprimé en centimètres et en pieds) ainsi que le débit (exprimé en pieds cubes par seconde [cfs], en litres par seconde [L/sec] et en mètres cubes par heure [m³/h]). Ces informations permettent une analyse détaillée des fluctuations hydrologiques à l’échelle horaire.  Enfin, les fichiers \"débit_seuil_journalier\", également sous format Excel, synthétisent les débits journaliers du lac Croche pour la période 2003-2024 (hors 2006 et 2013). Chaque fichier contient des indicateurs clés tels que le débit total journalier (m³/jour), ainsi que les débits maximal, minimal et moyen (m³/h), accompagnés de l’écart-type et de la variabilité du débit au cours de la journée.",
+    "This dataset compiles hydrological measurements taken daily at the Lac Croche gauging weir, located at the Station of Biology of the Laurentians. Covering the period from 2003 to 2024, with some interruptions in certain years, it serves as a valuable resource for studying the lake’s hydrological dynamics, flow variability, and their relationship with local environmental conditions. The \"débit_seuil_annuel\" data, in text document format, includes hourly records of the water level measured at the gauging weir, expressed in meters. These records span the years 2003 to 2024, except for 2006, 2010, 2011, 2012, and 2013. Each entry contains the date, time of measurement, and observed water height. The \"débit_seuil_moyen\" data, available in Excel format, provides hourly averages of water level and flow rate. It includes several hydrological parameters, such as water level (expressed in centimeters and feet) and flow rate (expressed in cubic feet per second [cfs], liters per second [L/sec], and cubic meters per hour [m³/h]). These data enable a detailed analysis of hydrological fluctuations at an hourly scale. Finally, the \"débit_seuil_journalier\" files, also in Excel format, summarizes the daily flow rates of Lac Croche for the period 2003-2024 (excluding 2006 and 2013). Each file contains key indicators such as total daily discharge (m³/day), as well as maximum, minimum, and average flow rates (m³/h), along with the standard deviation and daily flow variability."
+  ],
+  "dct_identifier_sm": [
+    "891858_859423_859424",
+    "https://doi.org/10.5683/SP3/KAPFPP"
+  ],
+  "dct_issued_s": "2025-09-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KAPFPP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Données hydrologiques du seuil jaugeur du lac Croche (2003-2024) – Station de Biologie des Laurentides | Hydrological Data of the Lac Croche Gauging Weir (2003-2024) – Station de Biologie des Laurentides",
+  "gbl_mdModified_dt": "2025-09-29T19:59:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "84bd24b0-77fe-54cc-b068-9df340aca941",
+  "pcdm_memberOf_sm": [
+    "Colin Favret Dataverse // Station de Biologie des Laurentides"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

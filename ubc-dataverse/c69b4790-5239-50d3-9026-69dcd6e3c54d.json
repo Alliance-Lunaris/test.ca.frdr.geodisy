@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.0, -63.0, 51.0, 45.0)",
+  "dcat_keyword_sm": [
+    "coastal ocean, currents, dispersion, Lagrangian measurements"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pawlowicz, Rich (University of British Columbia, University of British Columbia, Vancouver, BC). ORCID: https://orcid.org/0000-0002-2439-963X",
+    "Chavanne, Cedric (Institut des sciences de la mer de Rimouski (ISMER), Rimouski, QC, UQAR-ISMER).",
+    "Dumont, Dany (Institut des sciences de la mer de Rimouski (ISMER), Rimouski, QC, Université du Québec à Rimouski). ORCID: https://orcid.org/0000-0003-4107-1799",
+    "Hourston, Roy (Fisheries and Oceans Canada, IOS, Sidney, BC).",
+    "Schillinger, Douglas (Fisheries and Oceans Canada, BIO, Dartmouth, NS).",
+    "Soontiens, Nancy (Fisheries and Oceans Canada, NWAF, St. John's, NL)."
+  ],
+  "dct_description_sm": [
+    "Raw drifter data (L1 datasets) from a variety of interfaces have been collected and merged into a uniform format (L2 dataset) which is then quality-controlled, with classifications added for all locations dividing them into \"Valid\" (freely floating at sea), \"trapped\", \"grounded\" and  \"bad\". The final L3 dataset is provided here in both the form of a MATLAB binary data structure, and archival ASCII-format files.",
+    "Drifter dataset for the St Lawrence Tracer Release Experiment (TReX) Phase 1 field program (September 2020)"
+  ],
+  "dct_identifier_sm": [
+    "167114_1226260_128856",
+    "https://doi.org/10.5683/SP2/EFTSXM"
+  ],
+  "dct_issued_s": "2021-06-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/EFTSXM\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "TReX Surface Dye Release Phase 1 Drifter Dataset",
+  "gbl_mdModified_dt": "2023-07-20T15:45:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c69b4790-5239-50d3-9026-69dcd6e3c54d",
+  "locn_geometry": "ENVELOPE(-69.0, -63.0, 51.0, 45.0)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // Ocean Dynamics Laboratory"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

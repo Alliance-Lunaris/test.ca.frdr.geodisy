@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Feu de Forêt Année/dNBR (1985-2015)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "Wildfire Year/dNBR/Mask 1985-2015\n\nWildfire change magnitude 85-15. Spectral change magnitude for wildfires that occurred from 1985 and 2015. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). The wildfire change magnitude included in this product is expressed via differenced Normalized Burn Ratio (dNBR), computed as the variation between the spectral values before and after the change event. This dataset is composed of three layers: (1) binary wildfire mask, (2) year of greatest wildfire disturbance, and (3) differenced Normalized Burn Ratio (dNBR) transformed for data storage efficiency to the range 0-200. The actual dNBR value is derived as follows: dNBR = value / 100. Higher dNBR values are related to higher burn severity. The information outcomes represent 30 years of wildfires in Canada's forests, derived from a single, consistent spatially-explicit data source in a fully automated manner. Time series of Landsat data with 30-m spatial resolution were used to characterize national trends in stand replacing forest disturbances caused by wildfire for the period 1985-2015 for Canada's 650 million hectare forested ecosystems.\nWhen using this data, please cite as: Hermosilla, T., M.A. Wulder, J.C. White, N.C. Coops, G.W. Hobart, L.B. Campbell, 2016. Mass data processing of time series Landsat imagery: pixels to data products for forest monitoring. International Journal of Digital Earth 9(11), 1035-1054. (Hermosilla et al. 2016).\nSee references below for an overview on the data processing, metric calculation, change attribution and time series change detection methods applied, as well as information on independent accuracy assessment of the data.\nHermosilla, T., Wulder, M. A., White, J. C., Coops, N.C., Hobart, G.W., 2015. An integrated Landsat time series protocol for change detection and generation of annual gap-free surface reflectance composites. Remote Sensing of Environment 158, 220-234. (Hermosilla et al. 2015a).\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., 2015. Regional detection, characterization, and attribution of annual forest change from 1984 to 2012 using Landsat-derived time-series metrics. Remote Sensing of Environment 170, 121-132. (Hermosilla et al. 2015b).\n\nGeographic extent: \nCanada's forested ecosystems (~ 650 Mha)\nTime period: \n1985–2011",
+    "Feu de Forêt Année/dNBR 1985-2015\n\nAmpleur des changements dans les feux de forêt de 1985 à 2015 Ampleur du changement spectral pour les feux de forêt qui se sont produits de 1985 à 2015. Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. La valeur de l'ampleur du changement est exprimée par la différence normalisée du ratio de brûlage (dNBR), qui est calculée comme la variation entre les valeurs spectrales avant et après le feu à l'origine du changement. Le jeu de données est constitué de trois couches : 1) masque binaire des feux de forêt, 2) année où le plus de perturbation due aux feux de forêt a été détectée et 3) différence normalisée du ratio de brûlage (dNBR), transformée en une valeur de 0 à 200 pour un stockage efficace des données. La valeur réelle de la dNBR se calcule comme suit : dNBR = valeur / 100. Plus la dNBR est élevée, plus le feu a été intense. Le jeu de données représente 30 années de feux de forêt au Canada et est calculé de manière entièrement automatisée à partir d'une source unique de données spatiales explicites recueillies de façon constante. En effet, des séries chronologiques de données Landsat à résolution spatiale de 30 m ont permis de caractériser les tendances nationales des perturbations de renouvellement de peuplement causées par les feux de forêt de 1985 à 2015 sur les 650 millions d'hectares d'écosystèmes forestiers du Canada.\nSi vous utilisez ces données, veuillez les citer comme suit : Hermosilla, T., M.A. Wulder, J.C. White, N.C. Coops, G.W. Hobart, L.B. Campbell, 2016. Mass data processing of time series Landsat imagery: pixels to data products for forest monitoring. International Journal of Digital Earth 9(11), 1035-1054. (Hermosilla et al. 2016).\nVoir les références ci'dessous pour un aperçu des données, du traitement des images et des méthodes de détection des changements dans les séries chronologiques utilisées, ainsi que pour des renseignements sur l'évaluation indépendante de l'exactitude des données.\nHermosilla, T., Wulder, M. A., White, J. C., Coops, N.C., Hobart, G.W., 2015. An integrated Landsat time series protocol for change detection and generation of annual gap-free surface reflectance composites. Remote Sensing of Environment 158, 220-234. (Hermosilla et al. 2015a).\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., 2015. Regional detection, characterization, and attribution of annual forest change from 1984 to 2012 using Landsat-derived time-series metrics. Remote Sensing of Environment 170, 121-132. (Hermosilla et al., 2015b). (Hermosilla et al. 2015b)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9eb51c7b-5336-4b50-a9f8-a6791bad15a9"
+  ],
+  "dct_issued_s": "2020-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9eb51c7b-5336-4b50-a9f8-a6791bad15a9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Wildfire Year/dNBR/Mask (1985-2015)",
+  "gbl_mdModified_dt": "2026-03-16T16:04:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "03ff8311-0e26-5c33-bbf8-3457f2bcca04",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

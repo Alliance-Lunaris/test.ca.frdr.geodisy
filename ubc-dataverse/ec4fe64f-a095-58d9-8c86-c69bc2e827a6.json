@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "exon capture",
+    "orthologs",
+    "Next-generation sequencing",
+    "base tree",
+    "conserved",
+    "Compositae"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mandel, Jennifer R. (University of Memphis).",
+    "Dikow, Rebecca B. (Smithsonian Institution).",
+    "Funk, Vicki A. (Smithsonian Institution).",
+    "Masalia, Rishi R. (University of Georgia).",
+    "Staton, S. Evan (University of Georgia).",
+    "Kozik, Alex (University of California, Davis).",
+    "Michelmore, Richard W. (University of California, Davis, University of British Columbia).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Burke, John M. (University of Georgia)."
+  ],
+  "dct_description_sm": [
+    "<b>Abstract</b><br/>Premise of the study: The Compositae (Asteraceae) are a large and diverse family of plants, and the most comprehensive phylogeny to date is a meta-tree based on 10 chloroplast loci that has several major unresolved nodes. We describe the development of an approach that enables the rapid sequencing of large numbers of orthologous nuclear loci to facilitate efficient phylogenomic analyses. Methods and Results: We designed a set of sequence capture probes that target conserved orthologous sequences in the Compositae. We also developed a bioinformatic and phylogenetic workflow for processing and analyzing the resulting data. Application of our approach to 15 species from across the Compositae resulted in the production of phylogenetically informative sequence data from 763 loci and the successful reconstruction of known phylogenetic relationships across the family. Conclusions: These methods should be of great use to members of the broader Compositae community, and the general approach should also be of use to researchers studying other families.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">COS alignment files</h4><div class=\"o-metadata__file-description\">Alignments from all COS loci</div><div class=\"o-metadata__file-name\">COS_alignment_files_NEW.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">COS_sequence_length&number_of_sequences</h4><div class=\"o-metadata__file-description\">List of COS sequences with alignment length and number of sequences in each alignment.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">tree file in newick format for the concatenation of all COS loci, as run in Garli</h4><div class=\"o-metadata__file-name\">763_loci_tree_newick</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Concatenation_of_all_763_ COS_alignments</h4><div class=\"o-metadata__file-description\">Concatenated alignment file.</div><div class=\"o-metadata__file-name\">Concatenation_of_all_763_COS_alignments_NEW.fasta</br></div></div>",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/-foy71_xS0w5YSJShVvmxQ9BG9_nd0oah-CMMXZE3D0</p>\n<p><b>Storage size:</b> 5002882</p>\n<p><b>Visibility:</b> public</p>"
+  ],
+  "dct_identifier_sm": [
+    "151222_150149",
+    "https://doi.org/10.5683/SP2/J1DSDN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/J1DSDN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: A target enrichment method for gathering phylogenetic information from hundreds of loci: an example from the Compositae",
+  "gbl_mdModified_dt": "2021-05-19T22:35:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec4fe64f-a095-58d9-8c86-c69bc2e827a6",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

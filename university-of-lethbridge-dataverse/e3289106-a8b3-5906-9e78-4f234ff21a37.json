@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "cottonwood",
+    "Populus angustifolia",
+    "FST",
+    "QST",
+    "ecological community"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Evans, Luke M. (Northern Arizona University, University of Arizona).",
+    "Kaluthota, Sobadini (University of Lethbridge).",
+    "Pearce, David W. (University of Lethbridge).",
+    "Allan, Gerard J. (Northern Arizona University, University of Arizona).",
+    "Floate, Kevin (Northern Arizona University, Agriculture and Agriculture-Food Canada, Agriculture and Agri-Food Canada).",
+    "Rood, Stewart B. (University of Lethbridge).",
+    "Whitham, Thomas G. (Northern Arizona University, University of Arizona)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.ch720</p>\n<p><b>Storage size:</b> 254686</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Temperate forest tree species that span large geographical areas and climatic gradients often have high levels of genetic variation. Such species are ideal for testing how neutral demographic factors and climate-driven selection structure genetic variation within species, and how this genetic variation can affect ecological communities. Here, we quantified genetic variation in vegetative phenology and growth traits in narrowleaf cottonwood, Populus angustifolia, using three common gardens planted with genotypes originating from source populations spanning the species' range along the Rocky Mountains of North America (ca. 1700 km). We present three main findings. First, we found strong evidence of divergent selection (QST > FST) on fall phenology (bud set) with adaptive consequences for frost avoidance. We also found evidence for selection on bud flush duration, tree height, and basal diameter, resulting in population differentiation. Second, we found strong associations with climate variables that were strongly correlated with latitude of origin. More strongly differentiated traits also showed stronger climate correlations, which emphasizes the role that climate has played in divergent selection throughout the range. We found population × garden interaction effects; for some traits, this accounted for more of the variance than either factor alone. Tree height was influenced by the difference in climate of the source and garden locations and declined with increasing transfer distance. Third, growth traits were correlated with dependent arthropod community diversity metrics. Synthesis. Overall, we conclude that climate has influenced genetic variation and structure in phenology and growth traits and leads to local adaptation in P. angustifolia, which can then impact dependent arthropod species. Importantly, relocation of genotypes far northward or southward often resulted in poor growth, likely due to a phenological mismatch with photoperiod, the proximate cue for fall growth cessation. Genotypes moved too far southward suffer from early growth cessation, whereas those moved too far northward are prone to fall frost and winter dieback. In the face of current and forecasted climate change, habitat restoration, forestry, and tree breeding efforts should utilize these findings to better match latitudinal and climatic source environments with management locations for optimal future outcomes.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Arthropod_3pop_analysis</h4><div class=\"o-metadata__file-description\">Arthropod community data from the UT garden 2011. Contains all replicated genotypes from the three local tree populations sampled.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Arthropod_9pop_analysis</h4><div class=\"o-metadata__file-description\">Arthropod community data from the UT garden in 2011. Contains 1 randomly chosen replicate of each tree genotype, spanning all 9 tree populations sampled.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Climate_data</h4><div class=\"o-metadata__file-description\">ClimateWNA data corresponding to the source location of each tree genotype collected. Also contains the three garden locations' climate, as \"AB\", \"AZ\", and \"UT\" in the file.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">3pop_analysis</h4><div class=\"o-metadata__file-description\">Compressed folder contains all files for the 3-population analyses using all replicated genotypes from the three local tree populations sampled nearest to each plantation location. Within the directory, individual files contain data for each garden (AZ, AB, or UT) in each year (2010 or 2011) for each trait (bud flush, bud set, or height and diameter).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">9pop_analysis_and_GxE_and_GxEplusClimTRD</h4><div class=\"o-metadata__file-description\">Compressed folder contains all files for the 9-population analyses using a single replicate of eachgenotypes from all nine tree populations sampled. Within the directory, individual files contain data for each garden (AZ, AB, or UT) in each year (2010 or 2011) for each trait (bud flush, bud set, or height and diameter). These are the datasets used for the GxE and climate transfer distance analyses.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "858516_854807",
+    "https://doi.org/10.5683/SP3/SLYAVS"
+  ],
+  "dct_issued_s": "2024-12-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SLYAVS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Rocky Mountains",
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Bud phenology and growth are subject to divergent selection across a latitudinal gradient in Populus angustifolia and impact adaptation across the distributional range and associated arthropods",
+  "gbl_mdModified_dt": "2024-12-04T18:32:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e3289106-a8b3-5906-9e78-4f234ff21a37",
+  "pcdm_memberOf_sm": [
+    "U of L Dryad2Dataverse"
+  ],
+  "schema_provider_s": "University of Lethbridge Dataverse"
+}

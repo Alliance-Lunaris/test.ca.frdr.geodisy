@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data shows anthropogenic polygon disturbance features. Features were digitized using high resolution satellite imagery and orthophotos. The following data was not included in the dataset: proposed features.\n\nTable 1. A list of attributes, associated domains, and descriptions.\n\n\n\n\n\n\n\nAttribute\n\nData Type\n\nDomains\n\nDescription\n\n\nREF_ID\n\nText (20)\n\n \n\nUnique feature reference ID\n\n\nDATABASE\n\nText (20)\n\nHistoric, Most Recent, Retired\n\nSub-database to which the feature belongs\n\n\nTYPE_INDUSTRY\n\nText (50)\n\nTable 2.3.2\n\nMajor classification of disturbance feature by industry\n\n\nTYPE_DISTURBANCE\n\nText (50)\n\nTable 2.3.2\n\nSub classification of disturbance feature\n\n\nSCALE_CAPTURED\n\nLong\n\n \n\nScale at which the feature was digitized\n\n\nDATA_SOURCE\n\nText (10)\n\nImagery, GPS, Other\n\nData source: digitized from imagery, captured by GPS, or obtained by other means\n\n\nIMAGE_NAME\n\nText (100)\n\n \n\nFilename of source imagery\n\n\nIMAGE_DATE\n\nDate\n\n \n\nDate that imagery was captured (YYYYMMDD)\n\n\nIMAGE_RESOLUTION\n\nDouble\n\n \n\nResolution of source imagery in meters\n\n\nIMAGE_SENSOR\n\nText (35)\n\n \n\nName of sensor that captured source imagery\n\n\n\n\n\n\nTable 2. A list of disturbance feature types and their descriptions.\n\n\n\n\n\n\n\nTYPE_INDUSTRY\n\nTYPE_DISTURBANCE\n\nDESCRIPTION\n\n\nAgriculture\n\nAgriculture\n\nFarms, ranches, or other agricultural areas\n\n\nForestry\n\nForestry\n\nCut blocks or other forestry related activities\n\n\nMining\n\nBuilding\n\nA building footprint or the building and the surrounding land related to mining activities.\n\n\nDrill Pad\n\nDrill pad features related to mineral exploration activities\n\n\nFuel Cache\n\nRemote caches of fuel allowing for mineral exploration activities (will often have fuel tanks and barrels)\n\n\nGravel Pit / Quarry\n\nPit or quarry for mining gravel or aggregate\n\n\nLaydown area\n\nAreas used to store materials and equipment for mining operations\n\n\nMining\n\nMiscellaneous or unknown mining activities\n\n\nPlacer Mining - Minor\n\nPlacer mining area with little disturbance\n\n\nPlacer Mining - Significant\n\nPlacer mining area with greater disturbance\n\n\nQuartz Mining - Minor\n\nQuartz mining area with little disturbance\n\n\nQuartz Mining - Significant\n\nQuartz mining area with greater disturbance\n\n\nTailing Pond\n\nTailing pond associated with mining activity\n\n\nCamp\n\nMining camp\n\n\nOil and Gas\n\nWell Pad\n\nCleared area surrounding oil or gas well\n\n\nRural\n\nCamp\n\nAny camp outside of mining areas, including fishing/hunting camps, ENV conservation officer cabins/camps, outfitters, etc.\n\n\nHomestead\n\nRural dwelling and associated land\n\n\nTransportation\n\nAirstrip\n\nAirport or Airstrip\n\n\nClearing\n\nClearings that are related to transportation but could not be clearly attributed as a turn area, pullout, road cut and fill, etc.\n\n\nGravel Pit / Quarry\n\nGravel pits related to transportation\n\n\nPullout / Turn Area\n\nAn area associated with transportation and is intended as a vehicle pullout or turn area\n\n\nRoad Cut and Fill\n\nCut slopes and moved earth for road construction purposes\n\n\nUnknown\n\nClearing\n\nA tract of land devoid (or nearly devoid) of natural land cover and suspected to be anthropogenic in nature\n\n\nGravel Pit / Quarry\n\nA gravel pit with unknown related industry\n\n\nUnknown\n\nUnable to identify from imagery, but suspected to be anthropogenic\n\n\nUrban\n\nBuilding\n\nVisible building or structure\n\n\nCemetery\n\nCemetery\n\n\nClearing\n\nMiscellaneous urban clearings\n\n\nCul-de-sac / Turn Area\n\nA turn area associated with transportation or road cul-de-sac\n\n\nDam\n\nBarrier impounding water or stream\n\n\nGolf Course\n\nRecreational golfing area\n\n\nIndustrial\n\nAreas that are designated for industrial uses: factories, tank farm, transportation area\n\n\nInstitutional\n\nAny institutional buildings and immediate cleared area: School, government, etc.\n\n\nLandfill\n\nSite used for disposal of waste materials\n\n\nPond\n\nStanding body of water, created anthropogenically; includes sewage lagoons, wastewater facilities, and artificial bodies of water.\n\n\nRecreation Area\n\nVisible disturbance in Urban / Rural parks and recreation areas\n\n\nRural Residential\n\nLand use in which housing predominates in an urban or community setting\n\n\nTower\n\nA tall structure, possibly used for communications or forestry\n\n\nUrban\n\nMiscellaneous or unknown urban features\n\n\n\n\n\n\n \n\nDistributed from [GeoYukon](https://yukon.ca/en/statistics-and-data/mapping/explore-map-data-using-geoyukon) by the [Government of Yukon](https://yukon.ca/) . Discover more digital map data and interactive maps from Yukon's digital [map](https://yukon.ca:443/en/maps) data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/519d4dec-e021-4903-8a46-bb9f7658bff3"
+  ],
+  "dct_issued_s": "2025-09-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/519d4dec-e021-4903-8a46-bb9f7658bff3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Surface disturbance areal features",
+  "gbl_mdModified_dt": "2026-10-07T15:37:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4fa15f15-aa04-5103-8fce-e56fa746ad27",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

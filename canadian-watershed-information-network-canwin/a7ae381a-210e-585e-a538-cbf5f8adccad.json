@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-59.65, -58.3667, 46.4167, 45.7833)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "These are derived products of ocean bottom temperature at St. Anns Bank Marine Protected Area (MPA), utilizing outputs from two numerical models: 1) Pseudo-analysis from the Coastal Ice-Ocean Prediction System for the East Coast of Canada (CIOPS-E v2.0.0) at 1/36° horizontal grid developed and implemented operationally at Environment and Climate Change Canada, covering 2016-2023 through combining research and operational runs from this system (https://eccc-msc.github.io/open-data/msc-data/nwp_ciops/readme_ciops_en/); 2) The Global Ocean Physics Reanalysis (GLORYS12v1), a 1/12° data assimilative reanalysis product produced by the Mercator Ocean International and implemented by the CMEMS, spanning from 1993 to 2023 ( https://doi.org/10.48670/moi-00021). The daily bottom temperature data presented here are calculated as daily area averages. The ocean bottom temperature data from the model available here are validated against in-situ observations from the open data (https://open.canada.ca/data/en/dataset/910b8e22-2fd1-4ba1-8db6-d16763c7a625). These products may be used to gain knowledge of ocean bottom temperature changes in the MPA over the past 8 and 30 years.\n\nCite this data as: Casey, M., Hu, X, Tao, J., and Shen, H. Ocean Bottom Temperature Variations from CIOPS-E and GLORYS12 Models at St. Anns Bank. \nPublished: August 2024. Ecosystems and Oceans Science, Maritimes region, Fisheries and Oceans Canada, Dartmouth NS. https://open.canada.ca/data/en/dataset/019f9138-6e3c-4f0e-997e-879e1ec2c42d"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/019f9138-6e3c-4f0e-997e-879e1ec2c42d"
+  ],
+  "dct_issued_s": "2024-08-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/019f9138-6e3c-4f0e-997e-879e1ec2c42d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Ocean Bottom Temperature Variations from CIOPS-E and GLORYS12 Models at St. Anns Bank",
+  "gbl_mdModified_dt": "2026-03-24T08:14:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a7ae381a-210e-585e-a538-cbf5f8adccad",
+  "locn_geometry": "ENVELOPE(-59.65, -58.3667, 46.4167, 45.7833)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "computer vision, computer graphics",
+    "object fracture, shape assembly, computer vision, computer graphics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sellán, Silvia (University of Toronto).",
+    "Chen, Yun-Chun (University of Toronto).",
+    "Wu, Ziyi (University of Toronto). ORCID: https://orcid.org/0000-0002-8247-5872",
+    "Garg, Animesh (University of Toronto).",
+    "Jacobson, Alec (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "We introduce Breaking Bad, a large-scale dataset of fractured objects. Our dataset consists of over one million fractured objects simulated from ten thousand base models. The fracture simulation is powered by a recent physically based algorithm that efficiently generates a variety of fracture modes of an object. Breaking Bad models the destruction process of how a geometric object naturally breaks into fragments and serves as a benchmark that enables the study of fractured object reassembly and presents new challenges for geometric shape understanding. See <a href=\"https://breaking-bad-dataset.github.io/\">project page</a> for more information."
+  ],
+  "dct_identifier_sm": [
+    "341984_341983",
+    "https://doi.org/10.5683/SP3/LZNPKB"
+  ],
+  "dct_issued_s": "2022-06-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LZNPKB\"}",
+  "dct_rights_sm": [
+    "The Breaking Bad dataset collects 3D meshes from ShapeNet and Thingi10K thus inheriting their terms of use. Please refer to ShapeNet (https://shapenet.org/terms) and Thingi10K (https://ten-thousand-models.appspot.com/) for more details."
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Breaking Bad Dataset",
+  "gbl_mdModified_dt": "2022-10-05T23:47:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40af0c20-08d8-54cf-b923-4e261829f9fb",
+  "pcdm_memberOf_sm": [
+    "PAIR Shape Assembly Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.551823, -76.79802, 61.799424, 41.427924)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "Ensemble Forecast",
+    "Regional",
+    "Precipitation Distribution",
+    "Forecast",
+    "Province of Manitoba",
+    "APCP",
+    "REPS",
+    "Hydrology",
+    "Watershed",
+    "SubBasins",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "REPS forecast data are first processed to extract the accumulated precipitation field (APCP) and converted into high‑resolution raster images. These “REPS APCP rasters” represent the spatial distribution of forecast precipitation (in millimeters) over the region. Next, using pre‑defined watershed or sub‑basin boundaries, zonal statistics are applied to compute the average precipitation for each sub‑basin. The final layer displays these averaged values as polygon features, highlighting variations in forecasted rainfall across different drainage areas. This approach helps users pinpoint regions that may receive higher or lower rainfall, thereby enhancing hydrological assessments and emergency planning."
+  ],
+  "dct_identifier_sm": [
+    "cb07111f30ac413c94f9b3ea0116c41c",
+    "https://www.arcgis.com/home/item.html?id=cb07111f30ac413c94f9b3ea0116c41c"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-reps-72-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (REPS - 72 Hrs)",
+  "gbl_mdModified_dt": "2026-04-14T18:19:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c63d8e48-a348-5334-b804-ebd8ad33dbf1",
+  "locn_geometry": "ENVELOPE(-121.551823, -76.79802, 61.799424, 41.427924)",
+  "schema_provider_s": "Data MB"
+}

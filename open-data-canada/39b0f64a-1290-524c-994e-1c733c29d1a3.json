@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Harvest",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "Récolte",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Année de récolte/Masque (1985-2015)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "Annual mapping of national level forest harvesting for Canada detected inclusive of 1985 to 2015 from Landsat satellite imagery. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). This dataset is composed of two layers: (1) binary harvest mask, and (2) year of harvest disturbance detection. The information outcomes represent 31 years of harvesting activity in Canada’s forests, derived from a single, consistent, spatially-explicit data source in an automated manner. Time series of Landsat data with 30-m spatial resolution were used to characterize national trends in stand replacing forest disturbances, including those attributed to harvest for the period 1985–2015 for Canada's 650 million hectare forested ecosystems (Hermosilla et al. 2016). See references below for an overview regarding the data, image processing, and time-series change detection methods applied, as well as information on independent accuracy assessment of the data. When using this data, please cite as: Hermosilla, T., M.A. Wulder, J.C. White, N.C. Coops, G.W. Hobart, L.B. Campbell, (2016). Mass data processing of time series Landsat imagery: pixels to data products for forest monitoring. International Journal of Digital Earth. 9(11), 1035-1054. ( Hermosilla et al. 2016) For additional resources on the data used and methods applied, please see: Hermosilla, T., Wulder, M. A., White, J. C., Coops, N.C., Hobart, G.W., (2015). An integrated Landsat time series protocol for change detection and generation of annual gap-free surface reflectance composites. Remote Sensing of Environment 158, 220-234. ( Hermosilla et al. 2015a) Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., (2015). Regional detection, characterization, and attribution of annual forest change from 1984 to 2012 using Landsat-derived time-series metrics. Remote Sensing of Environment 170, 121-132. ( Hermosilla et al. 2015b) Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., 2017. Updating Landsat time series of surface-reflectance composites and forest change products with new observations. International Journal of Applied Earth Observation and Geoinformation 63, 104-111.( Hermosilla et al. 2017)",
+    "Suivi haute résolution des changements forestiers au Canada (Binaire Changement/Aucun Changement)\n\nLes données relatives aux changements forestiers que renferme ce produit ont une portée nationale (écosystème forestier entier) et offrent la première caractérisation complète des feux de forêt et des récoltes au Canada à une résolution spatiale en rapport avec l’impact humain. Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. Les informations recueillies représentent vingt-cinq années de renouvellement des peuplements dans les forêts du pays. Elles proviennent d’une source unique de données cohérentes et spatialement explicites, obtenues de manière entièrement automatisée. La capacité démontrée de caractériser les forêts à une résolution qui saisit l’impact humain est essentielle pour établir la base de référence destinée à la surveillance détaillée des écosystèmes forestiers des points de vue des sciences et de la gestion.  \nDes séries chronologiques de données Landsat ont servi à caractériser les tendances nationales des perturbations causées par le feu et la récolte qui renouvellent les peuplements pour la période de 1985 à 2010 sur les 650 millions d’hectares forestiers du Canada (https://authors.elsevier.com/sd/article/S0034425717301360). Les données Landsat ont une résolution de 30 m, de sorte que les informations relatives aux changements sont très détaillées et en rapport avec l’impact humain. Elles permettent de suivre les changements forestiers annuels qui renouvellent les peuplements. Les types de perturbation renouvelant les peuplements sont étiquetés feu de forêt et récolte, le niveau inférieur de confiance étant aussi fourni. La distinction et la communication des probabilités d’appartenance à une classe inférieure servent à indiquer aux utilisateurs que certains changements étaient difficiles à attribuer à un type, mais qu’ils sont considérés comme correctement catégorisés, de façon générale. Pour avoir un aperçu des données, du traitement des images et des méthodes de détection des changements dans les séries chronologiques, ainsi que des renseignements sur l’évaluation indépendante de l’exactitude des données, voir Hermosilla et coll. (2016; http://www.tandfonline.com/doi/full/10.1080/17538947.2016.1187673).\nLes données offertes sont : 1. changement binaire/aucun changement, 2. année du changement et 3. type de changement. \nSi vous utilisez les données, prière d’en citer la source comme suit : \nWhite, J.C., M.A. Wulder, T. Hermosilla, N.C. Coops, and G. Hobart. (2017). A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series. Remote Sensing of Environment. 192: 303-321. DOI: 10.1016/j.rse.2017.03.035. https://authors.elsevier.com/sd/article/S0034425717301360\n\nÉtendue géographique : \nÉcosystèmes forestiers du Canada (environ 650 Mha)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b0c2294c-4471-4235-87e2-5aae34f0b867"
+  ],
+  "dct_issued_s": "2020-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b0c2294c-4471-4235-87e2-5aae34f0b867\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Harvest Year/Mask (1985-2015)",
+  "gbl_mdModified_dt": "2026-03-16T16:05:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "39b0f64a-1290-524c-994e-1c733c29d1a3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

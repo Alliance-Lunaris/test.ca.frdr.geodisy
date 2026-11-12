@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.97501415690978, -92.18973013708818, 59.998898678133926, 49.000007844901404)",
+  "dcat_keyword_sm": [
+    "Angler",
+    "Angling",
+    "Fishing",
+    "AIS",
+    "River",
+    "Lake",
+    "Canada",
+    "Boat launch",
+    "Province of Manitoba",
+    "Aquatic Invasive Species",
+    "Fish",
+    "Contour",
+    "Manitoba Government",
+    "Bathymetry",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>The point data contained within this layer represent the centroids of waterbodies in Manitoba. The layer describes a number of different attributes about a waterbody including, where available: average depth, aquatic invasive species information, regulatory links, presence of contours, waterbody specific PDF, fish assessment information, species information and coordinates. The waterbody data layer, along with related information, can be found at the <a href='https://experience.arcgis.com/experience/2557cda82dcc4a348fbb71304cedcf6d' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Lake Information For Anglers</a> app.</p>\n<p>The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit <a href='https://gov.mb.ca/fish-wildlife/fish/index.html' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Fisheries</a>.</p>\n<p>The dataset includes the following fields (<b>Alias</b> (Name): Description)</p>\n<ul>\n<li><b>Waterbody ID</b> (WATERBODY_ID): Unique identifier for an individual waterbody.</li>\n<li><b>Waterbody Name</b> (WATERBODY_NAME): Name of the waterbody.</li>\n<li><b>Surface Area (km2)</b> (SURFACE_AREA): Surface area of the waterbody in square kilometres.</li>\n<li><b>Average Depth (m)</b> (AVERAGE_DEPTH_M): Average depth of a waterbody, if bathymetric data is available.</li>\n<li><b>Secchi</b> (SECCHI): Indicates whether data exists for secchi depth in the waterbody (YES/NO).</li>\n<li><b>Secchi Depth (m)</b> (SECCHI_DEPTH): Depth in meters of the visibility of a secchi disk.</li>\n<li><b>Fishing Division</b> (FISHING_DIVISION): Indicates which fishing division the waterbody centroid is within.</li>\n<li><b>Fishing Division Special Area</b> (SPECIAL_AREA): Indicates if the waterbody is within the special walleye areas (A or B). Please refer to the <a href='https://gov.mb.ca/fish-wildlife/pubs/fish_wildlife/angling_guide_new.pdf' target='_blank' rel='nofollow ugc noopener noreferrer'>Angling Guide</a> for details.</li>\n<li><b>UTM Zone</b> (ZONE): Indicates which UTM zone the waterbody is in.</li>\n<li><b>Aquatic Invasive Species</b> (AIS): Indicates the known or unknown presence of aquatic invasive species.</li>\n<li><b>Aquatic Invasive Species Control Zone</b> (AIS_CONTROL_ZONE): Indicates which aquatic invasive species control zone a waterbody is within.</li>\n<li><b>High Quality Management</b> (HIGH_QUALITY_MANAGEMENT): Indicates whether the waterbody falls under the high quality management angling regulations in Manitoba (TRUE/FALSE).</li>\n<li><b>HQM Description</b> (HQM_DESCRIPTION): Indicates the high quality management provisions based on the fishing division the waterbody is in (only applies if the waterbody is a High Quality Management waterbody).</li>\n<li><b>Angling  Regulations</b> (SPECIAL_REGS): A note to see Manitoba Anglers’ Guide.</li>\n<li><b>Anglers' Guide</b> (ANGLING_GUIDE): Contains a link (URL) to the Manitoba Anglers’ Guide.</li>\n<li><b>Waterbody Link</b> (PRINTABLE_MAP): Contains a link to a PDF of waterbody contours and lake specific information for waterbodies that have bathymetric data.</li>\n<li><b>Boat Launch</b> (BOAT_LAUNCH): Indicates whether the waterbody has a known boat launch (YES/NO).</li>\n<li><b>Launch Photo</b> (LAUNCH_PHOTO): Indicates whether there is a launch photo for the waterbody (YES/NO).</li>\n<li><b>Boat Launch Photo</b> (BOAT_LAUNCH_PHOTO): Contains a link (URL) that directs users to a photo of the launch.</li>\n<li><b>Stocked</b> (STOCKED): Indicates whether the lake has been stocked with fish in the past (TRUE/FALSE).</li>\n<li><b>Species</b> (SPECIES): A list of gamefish species that are known to have existed in the waterbody historically. Currently contains no info.</li>\n<li><b>Assessment</b> (ASSESSMENT): Indicates whether an assessment PDF is available for the waterbody (YES/NO).</li>\n<li><b>Fisheries Assessment Link</b> (FISHERIES_ASSESSMENT_LINK): Contains a link that directs users to a PDF document that contains information about species, fish age demographics, and master angler records.</li>\n<li><b>Contours</b> (CONTOURS): Indicates whether contour data exists for the waterbody (YES/NO).</li>\n<li><b>Lat (DD)</b> (LAT_DD): Latitudinal coordinates of the representative centroid of the waterbody in decimal degrees.</li>\n<li><b>Long (DD)</b> (LONG_DD): Longitudinal coordinates of the representative centroid of the waterbody in decimal degrees.</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "593e253698a648e88789a661832b2ac0",
+    "https://www.arcgis.com/home/item.html?id=593e253698a648e88789a661832b2ac0"
+  ],
+  "dct_issued_s": "2020-10-01",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-waterbody-data\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba_Waterbody_Data",
+  "gbl_mdModified_dt": "2026-05-05T17:47:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7bbf1117-6fc1-52e0-a266-0cfff169fff7",
+  "locn_geometry": "ENVELOPE(-101.97501415690978, -92.18973013708818, 59.998898678133926, 49.000007844901404)",
+  "schema_provider_s": "Data MB"
+}

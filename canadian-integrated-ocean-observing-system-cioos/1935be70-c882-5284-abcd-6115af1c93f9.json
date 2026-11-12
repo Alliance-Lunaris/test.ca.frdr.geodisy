@@ -1,0 +1,68 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.19030767306685, -127.80578618869185, 51.967961587186835, 51.388923100504826)",
+  "dcat_keyword_sm": [
+    "metric",
+    "calvert",
+    "flight",
+    "plane",
+    "other",
+    "remote-sensing",
+    "height",
+    "oceans",
+    "canopy",
+    "air",
+    "terrain",
+    "stem-height",
+    "forest",
+    "canopy-height-metrics",
+    "lidar",
+    "gap-fraction",
+    "model",
+    "biota",
+    "dem",
+    "hakai",
+    "elevation",
+    "vegetation",
+    "terra",
+    "autre",
+    "airborne-coastal-observatory",
+    "laser",
+    "hyperspectral",
+    "canopy-height",
+    "density",
+    "scanner"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Jeu de données LiDAR - Calvert Island - 2012 & 2014 - Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "Frazer, Gordon (University of Northern British Columbia).",
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This is the metadata record for the LiDAR datasets acquired for Calvert Island area, BC, Canada, in 2012 and 2014. It provides details on the two LiDAR missions and the initial processing to merge the two datasets together. The LiDAR data is the basis for a number of research projects from watershed delineation, geomorphology studies, forest dynamics, and archaeology research.\n\nThe dataset was created from two missions - one in 2012 and one in 2014. The two datasets were merged together and used to generate numerous derived data products. The 2012 mission collected hyperspectral and orthophotos so the mission metadata for the LiDAR dataset also applies to those assets.   \n\nTerrain elevations measured by airborne LiDAR were collected in August 2012 for Calvert Island, Hecate Island, and three other survey areas located to the northeast (i.e., mouth of the Koeye River, port town of Namu, and the southwest corner of King Island) by Terra Remote Sensing Inc. (TRSI), Sidney, BC. The total aerial coverage of the acquisition was 477.2 km2. The point density (number of returns per unit area) of the acquisition averaged approximately 2.34 pts/m2 for all posted returns (maximum of three discrete returns per pulse), 2.11 pts/m2 for first returns, and 0.51 pts/m2 for ground-classified returns. A report is available for more detailed metadata on the TRSI LiDAR sensor and survey settings, data pre-processing, and quality checks and accuracy verification. A second airborne LiDAR data acquisition was undertaken by the LiDAR Research Group, University of Northern BC (UNBC) in August 2014, with the express purpose of collecting higher spatial resolution (3.4–22.3 pts/m2) LiDAR data over selected research areas of interest on Hecate and Calvert Islands, as well as to infill and eliminate several data voids found in the initial TRSI LiDAR coverage.\n\n2012 Mission:\nDates: August 5th, 15th ,and 17th\nConducted by: Terra Remote Sensing\nArea covered: 477.22 km^2 \nFlight height: 1150 meters above ground level \nProjection: UTM Zone 9\nDatum: NAD 83\nGeoid: HT 2.0\nLiDAR points: a relative accuracy of +/-15 cm and absolute accuracy of 1m \nHyperspectral Data: +/- 2 pixel\nPoint cloud density: Taking random samples throughout the project area, the average point density for a single flight line is 1pts/m2\n\n2014 Mission:\nDates: Aug. 7, 2014\nConducted by: UNBC LiDAR Research Group\nArea Covered: 34.9 km^2\nFlight Height: ~475 m & 650 m +/- 50m\nProjection: UTM Zone 9\nDatum: CSRS NAD 83\nGeoid: Ellipsoid heights\nPoint density ranged from 22.3 pts/m2 to 3.4 pts/m2",
+    "Il s'agit de l'enregistrement de métadonnées pour les ensembles de données LiDAR acquis pour la région de Calvert Island, en Colombie-Britannique, au Canada, en 2012 et 2014. Il fournit des détails sur les deux missions LiDAR et le traitement initial visant à fusionner les deux ensembles de données. Les données LiDAR constituent la base de nombreux projets de recherche portant sur la délimitation des bassins versants, les études géomorphologiques, la dynamique des forêts et la recherche archéologique.\n\nL'ensemble de données a été créé à partir de deux missions, l'une en 2012 et l'autre en 2014. Les deux ensembles de données ont été fusionnés et utilisés pour générer de nombreux produits de données dérivés. La mission de 2012 a collecté des photos hyperspectrales et orthophotographiques, de sorte que les métadonnées de la mission pour l'ensemble de données LiDAR s'appliquent également à ces actifs. \n\nLes altitudes du terrain mesurées par LiDAR aéroporté ont été recueillies en août 2012 pour l'île Calvert, l'île Hécate et trois autres zones d'étude situées au nord-est (c'est-à-dire l'embouchure de la rivière Koeye, la ville portuaire de Namu et le coin sud-ouest de King Island) par Terra Remote Sensing Inc. (TRSI), à Sidney, en Colombie-Britannique. La couverture aérienne totale de l'acquisition était de 477,2 km2. La densité de points (nombre de retours par unité de surface) de l'acquisition était en moyenne d'environ 2,34 pts/m2 pour tous les retours enregistrés (maximum de trois retours discrets par impulsion), 2,11 pts/m2 pour les premiers retours et 0,51 pts/m2 pour les retours classés au sol. Un rapport est disponible pour des métadonnées plus détaillées sur le capteur LiDAR TRSI et les paramètres de l'enquête, le prétraitement des données, les contrôles de qualité et la vérification de la précision. Une deuxième acquisition de données LiDAR aéroportée a été entreprise par le LiDAR Research Group de l'Université du Nord de la Colombie-Britannique (UNBC) en août 2014, dans le but exprès de collecter des données LiDAR à plus haute résolution spatiale (3,4 à 22,3 pts/m2) sur des domaines de recherche d'intérêt sélectionnés sur les îles Hécate et Calvert, ainsi que pour combler et éliminer plusieurs lacunes de données trouvées dans la couverture LiDAR TRSI initiale.\n\nMission pour 2012 :\nDates : 5, 15 et 17 août\nRéalisé par : Terra Remote Sensing\nSuperficie couverte : 477,22 km^2 \nHauteur de vol : 1150 mètres au-dessus du sol \nProjection : zone UTM 9\nDate : NAD 83\nGéoïde : HT 2.0\nPoints LiDAR : précision relative de +/- 15 cm et précision absolue de 1 m \nDonnées hyperspectrales : +/- 2 pixels\nDensité des nuages de points : en prélevant des échantillons aléatoires dans toute la zone du projet, la densité moyenne de points pour une seule ligne de vol est de 1 pts/m2\n\nMission pour 2014 :\nDates : 7 août 2014\nDirigé par : UNBC LiDAR Research Group\nSurface couverte : 34,9 km^2\nHauteur de vol : ~475 m et 650 m +/- 50 m\nProjection : zone UTM 9\nDate : CSRS NAD 83\nGéoïde : hauteurs des ellipsoïdes\nLa densité de points variait de 22,3 pts/m2 à 3,4 pts/m2"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/383f6df1-2270-41f5-8ec3-ad98f4af3b06"
+  ],
+  "dct_issued_s": "2017-01-05",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/383f6df1-2270-41f5-8ec3-ad98f4af3b06\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-10-31T03:34:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1935be70-c882-5284-abcd-6115af1c93f9",
+  "locn_geometry": "ENVELOPE(-128.19030767306685, -127.80578618869185, 51.967961587186835, 51.388923100504826)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

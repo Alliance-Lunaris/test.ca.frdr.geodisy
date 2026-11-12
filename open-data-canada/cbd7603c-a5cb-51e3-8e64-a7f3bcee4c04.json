@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.0, -50.0, 70.0, 34.28)",
+  "dcat_keyword_sm": [
+    "plante",
+    "satellite",
+    "vegetation",
+    "satellites"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Images composites SPOT/VEGETATION du Canada, à résolution de 1 km, sur 10 jours, pour les saisons de croissance-2001-12-11"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "As part of the climate change research, data from the SPOT/VEGETATION instrument are systematically corrected for period 1998-2004 and provided in this archive. The VGT archive contains observations acquired by the VEGETATION sensors 1 and 2 onboard SPOT 4 and 5 satellites. Initial data type 10-day S10 composites provided by the Centre National d'Etudes Spatiales (CNES) and pre-processed at the Flemish Institute for Technological Research (VITO) in Belgium in full resolution (1km) were re-projected into standard Lambert conformal conic map projection and further corrected for bi-directional Reflectance Distribution Function (BRDF) effect and cloud contamination. Growing seasons 1998-2004 are presented with twenty 10-day composites from April 11, to October 31. Each composite contains four at-surface apparent reflectance bands: blue (0.43-0.47 mm), red (0.61-0.68 mm), near infrared (0.78-0.89 mm), and shortwave infrared (1.58-1.75mm) and two data layers containing normalized difference vegetation index (NDVI) and Cloud mask. The 10-day composite data were reprocessed following Canada Centre for Remote Sensing (CCRS) post-seasonal correction. This improved product is used in land cover and climate change studies to generate various high-level products such as Fraction of Photosynthetically Active Radiation (FPAR) and Leaf Area Index (LAI).",
+    "Dans le cadre de la recherche sur le changement climatique, les données obtenues à l'aide de l'instrument SPOT/VÉGÉTATION ont été systématiquement corrigées pour la période de 1998 à 2004 et sont fournies dans la présente archive. L'archive VGT renferme des observations acquises par les capteurs 1 et 2 de VÉGÉTATION à bord des satellites SPOT 4 et 5. Les données initiales pleine résolution (1 km) d'images composites S10 de type 10 jours fournies par le Centre national d'études spatiales (CNES) et pré-traitées au VITO (Belgique) ont été transposées suivant la projection CCL normalisée et davantage corrigées pour tenir compte des effets de la fonction de réflectance diffuse bi-directionnelle (BRDF) et de la contamination par les nuages. Pour les saisons de croissance de 1998 à 2004, on dispose de 20 images composites sur 10 jours du 11 avril au 31 octobre. Chaque image composite comprend quatre bandes visibles en réflectance à la surface : bleu (0,43-0,47 mm), rouge (0,61-0,68 mm), proche infrarouge (0,78-0,89 mm) et infrarouge à courte longueur d'onde (1,58-1,75 mm), ainsi que deux couches de données comprenant l'indice différentiel normalisé de végétation (NDVI) et le masque de nuages. Les données des images composites sur 10 jours ont été traitées de nouveau suivant la méthodologie de correction post-saisonnière du CCT. Ce produit amélioré est utilisé pour les études de la couverture terrestre et du changement climatique afin de générer des produits haut de gamme comme la fraction du rayonnement photosynthétiquement actif (FRPA) et l'indice de surface foliaire (ISF)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6f96a933-e865-593f-a255-39403c935fe3"
+  ],
+  "dct_issued_s": "2001-12-11",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6f96a933-e865-593f-a255-39403c935fe3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Canada 1-km, 10-day, SPOT/VEGETATION composites for growing season-2001-12-11",
+  "gbl_mdModified_dt": "2022-02-22T21:06:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cbd7603c-a5cb-51e3-8e64-a7f3bcee4c04",
+  "locn_geometry": "ENVELOPE(-170.0, -50.0, 70.0, 34.28)",
+  "pcdm_memberOf_sm": [
+    "Canada 1-km, 10-day, SPOT/VEGETATION composites for growing season 1998-2004"
+  ],
+  "schema_provider_s": "Open Data Canada"
+}

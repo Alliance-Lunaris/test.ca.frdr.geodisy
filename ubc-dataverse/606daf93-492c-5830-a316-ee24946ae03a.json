@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Expansion load",
+    "peripheral population",
+    "Local Adaptation",
+    "geographic range limit",
+    "Transplant experiment",
+    "quantitative synthesis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bontrager, Megan (University of British Columbia, University of Toronto). ORCID: https://orcid.org/0000-0003-3120-1983",
+    "Usui, Takuji (University of British Columbia).",
+    "Lee-Yaw, Julie (University of Lethbridge, University of British Columbia).",
+    "Anstett, Daniel (University of British Columbia).",
+    "Branch, Haley (Yale University, University of British Columbia).",
+    "Hargreaves, Anna (McGill University).",
+    "Muir, Christopher (University of Hawaiʻi, University of Hawaii System).",
+    "Angert, Amy (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/qhI1VQ95EFpOoVki7MdSQMTOAy1-XHQwaRWQPn2eaEs</p>\n<p><b>Storage size:</b> 84158501</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Every species experiences limits to its geographic distribution. Some evolutionary models predict that populations at range edges are less well-adapted to their local environments due to drift, expansion load, or swamping gene flow from the range interior. Alternatively, populations near range edges might be uniquely adapted to marginal environments. In this study, we use a database of transplant studies that quantify performance at broad geographic scales to test how local adaptation, site quality, and population quality change from spatial and climatic range centers towards edges. We find that populations from poleward edges perform relatively poorly, both on average across sites (15% lower population quality) and when compared to other populations at home (31% relative fitness disadvantage), consistent with these populations harboring high genetic load. Populations from equatorial edges also perform poorly on average (18% lower population quality) but, in contrast, outperform foreign populations (16% relative fitness advantage), suggesting that populations from equatorial edges have adapted to unique environments. Finally, we find that populations from sites that are thermally extreme relative to the species' niche demonstrate strong local adaptation, regardless of geographic position. Our findings indicate that both nonadaptive processes and adaptive evolution contribute to variation in adaptation across species' ranges.",
+    "<b>Methods</b><br /><p>This dataset contains fitness data gathered from a systematic literature search of transplant experiments, along with geographic and climatic covariates derived for this study. Included is the final data file and model running scripts, as well as scripts, GBIF occurrence data, and intermediate files demonstrating how spatial and climatic predictors were calculated.</p>",
+    "<b>Usage notes</b><br /><p>See README file.</p>"
+  ],
+  "dct_identifier_sm": [
+    "150983_150149",
+    "https://doi.org/10.5683/SP2/DU3ZTQ"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/DU3ZTQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Adaptation across geographic ranges is consistent with strong selection in marginal climates and legacies of range expansion",
+  "gbl_mdModified_dt": "2021-05-19T22:00:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "606daf93-492c-5830-a316-ee24946ae03a",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

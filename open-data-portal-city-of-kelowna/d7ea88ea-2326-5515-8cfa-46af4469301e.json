@@ -1,0 +1,31 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.5147, -119.3161, 50.2056, 49.8356)",
+  "dcat_keyword_sm": [
+    "Storm Lift Stations"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Kelowna GIS."
+  ],
+  "dct_description_sm": [
+    "Asset Management Field Description:The UnitRate and CRC describe the current replacement cost based upon a unit rate appropriate for the type of asset. These fields will be maintained by the Asset Management Team and will be updated upon review of the Unit rate. The ServiceLifeRemaining field is a calculated field based on the ServiceLife and Age of the feature which provides the percentage of the expected service life that remains. Additionally, the ConditionAge field is also calculated field based on the ServiceLifeRemaining field that calculates a score describing its condition of 1 to 5 (1 being the best condition, 5 being the most poor condition) based upon its remaining service life. Both of these fields are maintained by the Asset Management Team and are updated annually"
+  ],
+  "dct_identifier_sm": [
+    "5573354452ce41a39b6c3e4feb462875",
+    "https://www.arcgis.com/home/item.html?id=5573354452ce41a39b6c3e4feb462875"
+  ],
+  "dct_issued_s": "2026-04-21",
+  "dct_publisher_sm": [
+    "City of Kelowna GIS"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.kelowna.ca/datasets/kelowna::storm-lift-station\"}",
+  "dct_title_s": "Storm Lift Station",
+  "gbl_mdModified_dt": "2026-04-21T15:50:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d7ea88ea-2326-5515-8cfa-46af4469301e",
+  "locn_geometry": "ENVELOPE(-119.5147, -119.3161, 50.2056, 49.8356)",
+  "schema_provider_s": "Open Data Portal - City of Kelowna"
+}

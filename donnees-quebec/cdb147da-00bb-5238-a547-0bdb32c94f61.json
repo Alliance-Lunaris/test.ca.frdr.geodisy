@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Territoire",
+    "Zonage",
+    "Port commercial",
+    "Commerce maritime",
+    "Transport maritime",
+    "Installations portuaires",
+    "Infrastructures"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère de l'Économie et de l'Innovation."
+  ],
+  "dct_description_sm": [
+    "Données géolocalisées et cartes illustrant la délimitation des zones industrialo-portuaires. La zone industrialo-portuaire est un espace délimité servant à des fins industrielles et situé à proximité de services portuaires ainsi que d’infrastructures routières et ferroviaires. \r\nCette proximité représente un avantage comparatif considérable pour les entreprises, notamment pour celles du secteur de la transformation, puisqu’elle permet un accès facilité aux intrants et une distribution adéquate des marchandises produites vers les marchés nord-américains et internationaux.\r\nPour plus d'information: (source: https://www.economie.gouv.qc.ca/bibliotheques/strategies/avantage-saint-laurent-la-nouvelle-vision-maritime-du-quebec/zones-industrialo-portuaires)\r\nNotez que cette base de données est en constante évolution selon le rythme d’officialisation des zones.\r\nLa structure comprend les champs suivants:\r\n- Nom de la zone, par exemple Québec-Lévis\r\n- Date d’officialisation de la zone, par exemple 2017-07-06\r\n- Description du secteur : Anse-au-Foulon (ce nom est donné par le comité)\r\n- Géométrie du secteur\r\n- Nom de la municipalité où est situé le secteur, par exemple Québec\r\n- Code géographique de la municipalité où est situé le secteur (code unique à 5 chiffres), par exemple 23027 (pour Québec)\r\n- Superficie en km² du secteur, par exemple 0,421755"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310"
+  ],
+  "dct_issued_s": "2017-11-10",
+  "dct_publisher_sm": [
+    "Ministère de l'Économie, de l'Innovation et de l'Énergie"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Économie et entreprises",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Délimitation des zones industrialo-portuaires",
+  "gbl_mdModified_dt": "2024-09-24T20:56:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cdb147da-00bb-5238-a547-0bdb32c94f61",
+  "schema_provider_s": "Données Québec"
+}

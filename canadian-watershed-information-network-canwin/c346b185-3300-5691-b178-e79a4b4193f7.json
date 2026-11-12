@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__Update: The data released by the Directorate of Forest Inventories from 2021 to 2024 (DIF) has been replaced by data produced by the Directorate of Forest Protection from 2025.\n\nThe link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\nIn 2025, the Forest Protection Directorate of the Ministry of Natural Resources and Forests (MRNF) began producing data that indicate the strength of forest vegetation. To produce the NBR index, the SGRF uses data provided by the Landsat (NASA) and Sentinel-2 (European Space Agency) satellites combined in the integrated satellite product “Harmonized Landsat and Sentinel-2 surface reflectance data set” designed by NASA. These satellite sensors measure light at specific frequencies called spectral bands. The light visible to human eyes corresponds to the red, blue, and green spectral bands as captured by a standard camera or camera. In addition, these satellite sensors offer the advantage of measuring infrared frequencies that are invisible to the human eye, which broadens the possibilities of observing natural phenomena under different characteristics.\n\nDuring the passage of a satellite over Quebec, only a part of Quebec is measured. The waves measured by Landsat and Sentinel-2 are blocked by clouds or by heavy air pollution such as forest fire smoke. Thus, to obtain a complete portrait of the Quebec forest for a given season, it is necessary to combine acquisitions from several different dates. The acquisition period for SGRF products extends from July 15 to September 15. This is a period that optimizes the observation of damage caused by spruce budworm.\n\nThe products are delivered in the “Québec Lambert” coordinate reference system (EPSG: 32198). In addition, to keep only observations on forest territories, a mask was applied using the “CO_TER = Null” attribute from Quebec's ecoforest mapping as well as a mask to remove forest roads and paths. \n\nBecause of this product, the DPF also produces DNBr images, pre-epidemic DNBr images, and time series (2014 to present). All documentation can be found in the lisez-moi.pdf file in the “Documentation” section.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/347a2de5-1006-4c1f-ba09-b66947654d0a"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/347a2de5-1006-4c1f-ba09-b66947654d0a\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Forest vegetation vigor index based on satellite images",
+  "gbl_mdModified_dt": "2026-10-07T18:01:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c346b185-3300-5691-b178-e79a4b4193f7",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\n**The results of compilations by forel** are one of the deliverables of the ecoforest inventory in southern Quebec. These results are used to produce forest compilations by stand associated with the original ecoforest map. The forel corresponds to a forest pixel with a resolution of 20 meters by 20 meters. \n\nThese results are presented in the form of matrix mapping (image in raster format) to assess the variability of the various dendrometric characteristics within the same forest stand.\n\nHere is the list of variables presented in this map: gross market volume per hectare, basal area per hectare and number of stems per hectare.\n\nThese results are intended to provide small-scale information that can, among other things, support the planning of forest operations. They cover ecoforest stands 7 m or more in height. For commercial stems, a separate matrix file is produced for each of the three variables and each of the species, attribution groups, species types and for the total all species. For saplings (stems of 9 cm or less in diameter), only results for basal area and the number of stems per hectare for species types and for the total of all species are produced. The information contained in this map is an image of the forest in the year the aerial photograph was taken.\n\nThe results of this forest compilation method will eventually cover most of the territory south of the 52nd parallel. When achieved, the results are disseminated by planning unit (AU) for the territories produced under the fourth inventory and by ecological planning unit (UPE) for the territories produced as part of the fifth inventory.\n\n__ ⚠️ Notes: __\n\nConsult the [original ecoforest map and current inventory results]\n\n] (https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) for the results of forest compilations by population, also available on Data Quebec.\n\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fbdec18f-c749-4f79-9d83-a2a839380d09"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fbdec18f-c749-4f79-9d83-a2a839380d09\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Results of forest compilations by Forel",
+  "gbl_mdModified_dt": "2026-09-30T18:02:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d6a99206-5a74-5271-95a6-dc9cc016d75d",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

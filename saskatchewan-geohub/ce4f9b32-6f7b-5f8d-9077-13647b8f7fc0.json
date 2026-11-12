@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.12610199999818, -101.31673299999828, 55.046850999999066, 51.85099199999912)",
+  "dcat_keyword_sm": [
+    "dtm",
+    "forestry",
+    "forest inventory",
+    "dtmraw",
+    "digital terrain model",
+    "forest",
+    "fri",
+    "forest service",
+    "digital elevation model",
+    "dem",
+    "environment",
+    "ministry of environment",
+    "raster",
+    "government of saskatchewan",
+    "saskatchewan",
+    "canada",
+    "forest resource inventory"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<p>Download:&nbsp;<a target='_blank' href='https://saskatchewan.maps.arcgis.com/home/item.html?id=915f48e5590b4b8e8450f80880fe9879' rel='nofollow ugc noopener noreferrer'>Here</a></p><p>The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.&nbsp;</p><div>&nbsp;</div><div>Digital terrain model (DTMRAW) is an expression of the bare earth orthometric elevation (m). DTMRAW is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 5 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing DTMRAW data in the following 50 m elevation intervals. A 32-bit floating point raster version is available upon request.&nbsp;</div><div>&nbsp;</div><div>Domain: [NULL, 200…1500].<br />&nbsp;</div><div>&nbsp;</div><div><figure><figure><table><tbody><tr><td><p style='margin-bottom:0px; margin-top:0px;'><strong>RANGE</strong></p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'><strong>LABEL</strong></p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'><strong>RED</strong></p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'><strong>GREEN</strong></p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'><strong>BLUE</strong></p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>200 &lt;= DTMRAW &lt; 225</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>200</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>27</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>94</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>32</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>225 &lt;= DTMRAW &lt; 275</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>250</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>51</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>113</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>51</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>275 &lt;= DTMRAW &lt; 325</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>300</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>76</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>131</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>70</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>325 &lt;= DTMRAW &lt; 375</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>350</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>100</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>150</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>89</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>375 &lt;= DTMRAW &lt; 425</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>400</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>124</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>169</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>108</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>425 &lt;= DTMRAW &lt; 475</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>450</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>148</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>188</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>127</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>475 &lt;= DTMRAW &lt; 525</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>500</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>173</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>206</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>146</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>525 &lt;= DTMRAW &lt; 575</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>550</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>197</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>225</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>165</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>575 &lt;= DTMRAW &lt; 625</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>600</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>226</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>232</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>127</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>625 &lt;= DTMRAW &lt; 675</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>650</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>255</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>238</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>88</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>675 &lt;= DTMRAW &lt; 725</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>700</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>255</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>203</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>63</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>725 &lt;= DTMRAW &lt; 775</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>750</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>255</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>167</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>38</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>775 &lt;= DTMRAW &lt; 825</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>800</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>188</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>126</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>55</p></td></tr><tr><td><p style='margin-bottom:0px; margin-top:0px;'>825 &lt;= DTMRAW &lt; 875</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>850</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>121</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>85</p></td><td><p style='margin-bottom:0px; margin-top:0px; text-align:center;'>72</p></td></tr></tbody></table></figure></figure><p><br />For more information, see the&nbsp;<a target='_blank' href='https://publications.saskatchewan.ca/#/products/110320' rel='nofollow ugc noopener noreferrer'>Forest Inventory Standard</a>&nbsp;of the Saskatchewan Environmental Code, Forest Inventory Chapter.<br /><br />&nbsp;</p></div>"
+  ],
+  "dct_identifier_sm": [
+    "915f48e5590b4b8e8450f80880fe9879",
+    "https://www.arcgis.com/home/item.html?id=915f48e5590b4b8e8450f80880fe9879"
+  ],
+  "dct_issued_s": "2021-03-08",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/maps/saskatchewan::fri-digital-terrain-model\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data Licence v2.0"
+  ],
+  "dct_title_s": "FRI: Digital terrain model",
+  "gbl_mdModified_dt": "2025-12-16T20:55:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ce4f9b32-6f7b-5f8d-9077-13647b8f7fc0",
+  "locn_geometry": "ENVELOPE(-108.12610199999818, -101.31673299999828, 55.046850999999066, 51.85099199999912)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

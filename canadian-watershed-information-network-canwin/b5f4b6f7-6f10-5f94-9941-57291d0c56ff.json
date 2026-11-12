@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.045, -121.9646, 51.1098, 47.1048)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nThese commercial whale watching data are comprised of two datasets. First, the ‘whale_watching_trips_jun_sep_british_columbia’ data layer summarizes commercial whale watching trips that took place in 2019, 2020 and 2021 during the summer months (June to September). The second data layer, ‘wildlife_viewing_events_jun_sep_british_columbia’ contains estimated wildlife viewing events carried out by commercial whale watching vessels for the same years (2019, 2020 and 2021) and months (June to September). Commercial whale watching trips and wildlife viewing events are summarized using the same grid, and they can be related using the unique cell identifier field ‘cell_id’. \nThe bulk of this work was carried out at University of Victoria and was funded by the Marine Environmental Observation, Prediction and Response (MEOPAR) Network under the ‘Whale watching AIS Vessel movement Evaluation’ or WAVE project (2018 – 2022). The aim of the WAVE project was to increase the understanding of whale watching activities in Canada’s Pacific region using vessel traffic data derived from AIS (Automatic Identification System). The work was finalized by DFO Science in the Pacific Region. \nThese spatial data products of commercial whale watching operations can be used to inform Marine Spatial Planning, conservation planning activities, and threat assessments involving vessel activities in British Columbia.\n\nMethods:\nA list of commercial whale watching vessels based in British Columbia and Washington State and their corresponding MMSIs (Maritime Mobile Service Identity) was compiled from the whale watching companies and Marine Traffic (www.marinetraffic.com). This list was used to query cleaned CCG AIS data to extract AIS positions corresponding to commercial whale watching vessels. A commercial whale watching trip was defined as a set of consecutive AIS points belonging to the same vessel departing and ending in one of the previously identified whale watching home ports. A classification model (unsupervised Hidden Markov Model) using vessel speed as the main variable was developed to classify AIS vessel positions into wildlife-viewing and non wildlife viewing events. \nCommercial whale watching trips in the south and north-east of Vancouver Island were limited to a duration of minimum 1 hour and maximum 3.5 hours. For trips in the west coast of Vancouver island the maximum duration was set to 6 hours. Wildlife-viewing events duration was set to minimum of 10 minutes to a maximum of 1 hour duration. \nFor more information on methodology, consult metadata pdf available with the Open Data record.\n\nReferences:\nNesdoly, A. 2021. Modelling marine vessels engaged in wildlife-viewing behaviour using Automatic Identification Systems (AIS). Available from: https://dspace.library.uvic.ca/handle/1828/13300.\n\nData Sources:\nOceans Network Canada (ONC) provided encoded AIS data for years 2019, 2020 and 2021, within a bounding box including Vancouver Island and Puget Sound used to generate these products. This AIS data was in turn provided by the Canadian Coast Guard (CCG) via a licensing agreement between the CCG and ONC for the non-commercial use of CCG AIS Data. More information here: https://www.oceannetworks.ca/science/community-based-monitoring/marine-domain-awareness-program/ \nMolly Fraser provided marine mammal sightings data collected on board a whale watching vessels to develop wildlife-viewing events classification models. More information about this dataset here: https://www.sciencedirect.com/science/article/pii/S0308597X20306709?via%3Dihub\n\nUncertainties:\nThe main source of uncertainty is with the conversion of AIS point locations into track segments, specifically when the distance between positions is large (e.g., greater than 1000 meters)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a80c6f7-86a7-49e8-97c2-5229068e64cd"
+  ],
+  "dct_issued_s": "2023-07-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a80c6f7-86a7-49e8-97c2-5229068e64cd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Commercial Whale Watching in British Columbia",
+  "gbl_mdModified_dt": "2026-03-24T08:03:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5f4b6f7-6f10-5f94-9941-57291d0c56ff",
+  "locn_geometry": "ENVELOPE(-128.045, -121.9646, 51.1098, 47.1048)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

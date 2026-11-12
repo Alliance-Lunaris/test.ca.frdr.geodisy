@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.719, -93.3503, 58.64805799999999, 49.0027)",
+  "dcat_keyword_sm": [
+    "IPmap",
+    "capital projects",
+    "Infrastructure",
+    "capital project locations",
+    "Manitoba Infrastructure",
+    "IP Map",
+    "MI",
+    "Province of Manitoba",
+    "capital programs",
+    "IPMAP",
+    "IP",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "This dataset contains points showing the locations of the capital projects such as asphalt surface treatment, grading, bituminous rehabilitation, concrete reconstruction, culvert jacking, intersection improvement, structures improvement, traffic signal improvements, and traffic safety improvements. This dataset was created by digitizing high-resolution imagery of Manitoba road network, bridge sites, and culvert locations. The details of the capital projects are available as attributes of the dataset.<div><br /></div><div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Fields included (</span><b>Alias </b><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>(Field Name): Field description.)</span><br /></div><div><u><br /></u></div><div><div><ul><li><b>ObjectID</b> (OBJECTID): Sequential unique whole numbers that are automatically generated</li><li><b>Project #</b> (Project__):  A unique ID assigned to a project by MI Capital Project Team.</li><li><b>Hwy</b> (Hwy): The highway number where the project is located. </li><li><b>Location Description</b> (Location_Description): A detailed description of the project location.</li><li><b>Project Distance in km</b> (km): The physical length of the project</li><li><b>Project Type</b> (Project_Type): A particular category assigned to the project based on the nature of work.</li><li><b>Total Project Status</b> (Total_Project_Status): Current total status of the project (e.g. new, continue, etc.)</li><li><b>Construction Project Status </b>(Construction_Project_Status): Current phase of project (e.g. construction phase, engineering design phase, etc.)</li><li><b>Anticipated Construction Start Date</b> (Anticipated_Construction_Start_): The expected construction start date for the project.</li><li><b>Anticipated Construction Complete Date</b> (Anticipated_Construction_Comple): The expected construction completion date for the project.</li><li><b>Municipality Name</b> (MUNI_NAME): The name of the municipality where the project is located.</li><li><b>Department Program</b> (Department_Program): The name of the MI department responsible for the project.</li></ul></div></div><div>This dataset is used in <a href='https://arcgis.com/home/item.html?id=2ae2672be5374858aa69bad8550c75d9' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Infrastructure Projects</a> an interactive map that shows Manitoba infrastructure's new, approved, and continuing capital project locations.</div>"
+  ],
+  "dct_identifier_sm": [
+    "e8d3f8dc1b1842068ca789b6326f0f22",
+    "https://www.arcgis.com/home/item.html?id=e8d3f8dc1b1842068ca789b6326f0f22"
+  ],
+  "dct_issued_s": "2021-10-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-capital-plans-project-status\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Capital Plans Project Status",
+  "gbl_mdModified_dt": "2026-09-22T18:21:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7acbea4a-2a89-5f7c-8886-4baa9ad12a3a",
+  "locn_geometry": "ENVELOPE(-101.719, -93.3503, 58.64805799999999, 49.0027)",
+  "schema_provider_s": "Data MB"
+}

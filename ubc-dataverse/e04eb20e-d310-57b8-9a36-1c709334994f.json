@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.0533, -110.423, 60.60766, 47.68929)",
+  "dcat_keyword_sm": [
+    "wildlife diet",
+    "wildlife biology",
+    "dietary niche",
+    "stable isotope analysis",
+    "Grizzly bear",
+    "Ursus arctos"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Van Elslander, Jonathan (University of British Columbia, University of British Columbia, Okanagan). ORCID: https://orcid.org/0000-0003-4854-1124",
+    "Mowat, Garth (British Columbia Ministry of Water, Lands, and Resource Stewardship, University of British Columbia). ORCID: https://orcid.org/0000-0001-5576-2043",
+    "Bourbonnais, Mathieu (University of British Columbia, Okanagan, University of British Columbia). ORCID: https://orcid.org/0000-0002-8781-1978",
+    "Holt, Oliver (University of Northern British Columbia).",
+    "Marshall, Shelley (British Columbia Ministry of Water, Lands, and Resource Stewardship).",
+    "McLellan, Michelle (Wildlife Science Center, Biodiversity Pathways). ORCID: https://orcid.org/0000-0003-0034-2038"
+  ],
+  "dct_description_sm": [
+    "Output maps of the proportion of different foods in the diet of male and female grizzly bears from Van Elslander et al. 2026. \nWe estimated the proportion of vegetation, terrestrial meat, anadromous salmon, and non-anadromous kokanee salmon (“kokanee”) in individual bears’ diet from isotopic signatures using the Bayesian mixing model framework MixSIAR in R. Due to the broad spatial scale of this study and the spatial variation in the isotopic signatures of different dietary sources across B.C., we divided the province into ten different MixSIAR models based on the B.C. government’s Ecoprovinces and Ecoregions, watershed boundaries, and fish ranges. Using the outputs from those ten models, we then generated fine-scale predictive maps (1 km2 resolution) of the proportion of anadromous salmon, terrestrial meat, kokanee, and vegetation in the diet of male (967 individuals) and female (653 individuals) grizzly bears across B.C. using generalized additive mixed-effects models with spatial random fields. The response variable for each spatial model was the mean diet source proportion estimated by MixSIAR, while we included different environmental parameters in each model as predictor variables."
+  ],
+  "dct_identifier_sm": [
+    "1024190_1226260_73901",
+    "https://doi.org/10.5683/SP3/SHXDJN"
+  ],
+  "dct_issued_s": "2026-01-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SHXDJN\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Grizzly Bear Diet in British Columbia at 1km resolution",
+  "gbl_mdModified_dt": "2026-01-19T18:23:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e04eb20e-d310-57b8-9a36-1c709334994f",
+  "locn_geometry": "ENVELOPE(-139.0533, -110.423, 60.60766, 47.68929)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

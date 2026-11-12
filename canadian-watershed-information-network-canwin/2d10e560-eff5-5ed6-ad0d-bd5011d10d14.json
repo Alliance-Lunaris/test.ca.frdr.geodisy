@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This set provides users of the Société de Transport de Montréal (STM) public transport with timetables, real-time bus positioning and, since version 2, data on the occupancy rate on board buses. \n\n*To access GTFS—Realtime and the i3 API, register on the [Developers] Portal (https://www.stm.info/fr/a-propos/developpeurs) *.\n\nNote:\n\nThis data set is the property of the Société de transport de Montréal. Consequently, according to the attribution clause of the Creative Commons 4.0 license, the authorship of the data must be attributed to the Société de transport de Montréal.\n\nPlease contact the Société de transport de Montréal (dev@stm.info) if you have any questions about this package.\n\nThe routes of bus and metro lines as well as the planned schedules of their trips are also [available] (https://donnees.montreal.ca/organization/societe-de-transport-de-montreal) in open data.\n\n__Warning__: The GTFS-Realtime v1 API will reach end of life in the coming weeks. It will no longer be available after Friday, May 28, 2021. After this date, you will need to use version 2 of the GTFS-RealTime API.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1bcf0d8e-d67b-4291-8393-70621b0f5400"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1bcf0d8e-d67b-4291-8393-70621b0f5400\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Real-time bus timetables and positioning (GTFS-Realtime)",
+  "gbl_mdModified_dt": "2026-10-07T17:40:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2d10e560-eff5-5ed6-ad0d-bd5011d10d14",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

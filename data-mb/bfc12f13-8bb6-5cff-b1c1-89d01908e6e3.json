@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.4209631983856, -89.89373024606634, 60.22379565121657, 45.44628818981067)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "7‑day",
+    "Precipitation Distribution",
+    "Forecast",
+    "Province of Manitoba",
+    "APCP",
+    "168h",
+    "Hydrology",
+    "Watershed",
+    "NCEP",
+    "SubBasins",
+    "Global",
+    "Manitoba",
+    "GFS",
+    "NOAA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "GFS model output is processed into APCP rasters that capture accumulated precipitation over a 7‑day forecast period. These rasters are then combined with watershed boundary data, and zonal statistics are applied to compute average precipitation for each sub‑basin. The final polygon features provide a clear depiction of global rainfall and snowfall patterns, offering critical information for disaster risk management and international water resource planning."
+  ],
+  "dct_identifier_sm": [
+    "f83c9942e8204395af90075558a4e8eb",
+    "https://www.arcgis.com/home/item.html?id=f83c9942e8204395af90075558a4e8eb"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-gfs-168-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data -Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (GFS - 168 Hrs)",
+  "gbl_mdModified_dt": "2026-05-21T04:33:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bfc12f13-8bb6-5cff-b1c1-89d01908e6e3",
+  "locn_geometry": "ENVELOPE(-117.4209631983856, -89.89373024606634, 60.22379565121657, 45.44628818981067)",
+  "schema_provider_s": "Data MB"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(43.14, 49.04, -12.64, -22.33)",
+  "dcat_keyword_sm": [
+    "Sentinel 1",
+    "classification",
+    "random forest",
+    "mangrove",
+    "SAR",
+    "Sentinel 2"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Huang, Athena (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Mangrove ecosystems are critical coastal habitats that provide essential services such as shoreline protection, carbon sequestration, and biodiversity support. Monitoring these ecosystems over large and often remote areas can be challenging, making remote sensing a valuable tool for effective observation and management. However, accurate classification of mangroves remains difficult due to spectral and structural complexities. This study evaluates the integration of Sentinel-1 (S1) synthetic aperture radar and Sentinel-2 (S2) optical data for supervised mangrove classification using a Random Forest (RF) algorithm across four sites in Madagascar: Velondriake, Mahajamba Bay, Belo Sur Mer, and Ambaro Bay. We compared classifications using S2 alone versus combined S1+S2 data to assess improvements in accuracy. Results showed that S1+S2 consistently outperformed S2 alone, achieving overall accuracies of 84.72%–95.53% compared to 84.09%–93.73%, with notable gains at Velondriake (92.61%vs. 89.07%) and Mahajamba Bay (95.53% vs. 93.73%). VH polarization emerged as a key discriminator, outperforming VV, contrasting with prior studies (e.g., Huang et al., 2022), likely due to our focus on seven land cover classes rather than binary mangrove/non-mangrove distinctions. The Optical and Synthetic Aperture Radar(SAR) Combined Mangrove Index (OSCMI) enhanced classification at three sites, though its importance varied (6.55%–9.89%). However, challenges persisted, particularly with closed-canopy mangroves, where user accuracy dropped below 70% at some sites, possibly due to spectral confusion, limited training data, and temporal mismatches between imagery and reference polygons. These findings highlight the value of combining S1 and S2 data for mangrove mapping, though site-specific factors and data alignment issues warrant further refinement. Enhanced field validation and updated reference data could further improve classification accuracy."
+  ],
+  "dct_identifier_sm": [
+    "897877_73894_115983",
+    "https://doi.org/10.5683/SP3/2UBBV8"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/2UBBV8\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar",
+    "Madagascar",
+    "Madagascar",
+    "Madagascar"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Supervised Mangrove Classification in Madagascar Comparing Optical Imagery to Combined Optical and Synthetic Aperture Radar Imagery Using Random Forest on Sentinel-1 and Sentinel 2",
+  "gbl_mdModified_dt": "2025-04-22T16:49:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6493d463-f93c-5cd4-9c22-62900258d6b6",
+  "locn_geometry": "ENVELOPE(43.14, 49.04, -12.64, -22.33)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

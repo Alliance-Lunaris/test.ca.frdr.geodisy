@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "landfill methane emissions",
+    "methane; landfill; first order decay model; Gaussian dispersion model; Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bourlon, Evelise (St. Francis Xavier University). ORCID: https://orcid.org/0000-0001-6156-5505",
+    "Stuart, Jordan (St. Francis Xavier University).",
+    "Coyle, Lindelwa (St. Francis Xavier University).",
+    "Martino, Rebecca (St. Francis Xavier University).",
+    "Laurin, Emil (Energy and Waste Section - Environment and Climate Change Canada).",
+    "Fraser, Susan (Waste and GHG Emissions - Environment and Climate Change Canada).",
+    "Risk, David (St. Francis Xavier University)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides information about 42 anonymized Canadian landfills. We conducted mobile methane measurements at these landfills in 2022. The dataset includes parameters from independant FOD modeling and the resulting emission rates, the estimated emission rates from the mobile surveys, and information about the climate and province. lfid, anonymized landfill ID province, location of the landfill status, open or closed yr_precip, total annual precipitation (2018-2022) in mm temperature, average temperation (2018-2022) in degC climate_cluster, climate category used in the paper, based on precipitation and temerature waste_accumulated_2022, in tonne waste_accumulated_2021, in tonnes Lo_IPCC_accumulated_2022, potential methane that could be generated, in tonnes methane_generated_2022, in tonnes methane_flared_2022, as reported by operators, in tonnes methane_utilized_2022, as repoerted by operators, in tonnes ECCC_2022_rate, estimated FOD based rate in 2022 ECCC_2021_rate, estimated FOD based rate in 2021, truck_GPM_rate, estimate measurement-based emission rate in 2022 truck_GPM_rate_bias_corrected, bias-corrected measurement-based emission rate in 2022 GHGRP_2022, emission rate in 2022 as reported by the operators"
+  ],
+  "dct_identifier_sm": [
+    "1006710",
+    "https://doi.org/10.5683/SP3/PGJX03"
+  ],
+  "dct_issued_s": "2025-11-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/PGJX03\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Replication Data for: Canada's Landfill Methane Inventories: The Challenge of Accurate Modeled and Measurement-Based Emissions",
+  "gbl_mdModified_dt": "2026-06-18T20:15:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "06c74e07-1540-50ec-a0fa-3a9e02512fa6",
+  "schema_provider_s": "St. Francis Xavier University Dataverse"
+}

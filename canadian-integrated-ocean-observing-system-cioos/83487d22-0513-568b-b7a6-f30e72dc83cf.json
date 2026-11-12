@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.5, -57.0, 81.45, 73.0)",
+  "dcat_keyword_sm": [
+    "multibeam",
+    "greenlandic-economic-exclusive-zone",
+    "backscatter",
+    "other",
+    "acoustic",
+    "bathymetry",
+    "greenland",
+    "oceans",
+    "arcticnet",
+    "hydrography",
+    "autre",
+    "maps",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de sonar multifaisceaux du CCGS Amundsen pour la zone économique exclusive du Groenland de 2003 à 2014"
+  ],
+  "dct_creator_sm": [
+    "Lajeunesse, Patrick (Laval University, Université Laval).",
+    "Joyal, Gabriel.",
+    "Nistad, Jean-Guy."
+  ],
+  "dct_description_sm": [
+    "Acoustic data was generated from the multibeam Kongsberg Simrad EM300 and EM302 multibeam sonar system on the CCGS Amundsen. This bathymetric data subset covers the Greenlandic Economic Exclusive Zone (EEZ), i.e. outside of the 12 nm territorial sea extent and within the 200 nm EZZ, from 2003 to 2014. The datasets consist of high-resolution bathymetry and acoustic backscatter imagery collected 24 hours a day, whenever the ship was in transit or had dedicated survey time. Standard collection settings used dual-ping, FM pulse, auto depth mode, angular coverage of +/- 60 degrees and high density equidistant beamforming. The SIS software was used to collect the data, while near real-time cleaning of data outliers was done using the Caris HIPS&SIPS software after conversion to Generic Sensor Format (GSF) for input into MB-System database manager. Inertial Measurement Unit (IMU) data was parsed by SIS from a POSMv 320 v.4. RTG GPS data from the CNav 3050 GPS was used to correct and improve the position output from the POSMv with RTCM correction. Soundspeed information was either from CTD Rosette casts, MVP300 data or simulated from the World Ocean Atlas 2009 database. The resolution of data is 10 metres. Available tiles are in ESRI grid format (.asc). The OMG of University of New Brunswick were responsible for 2003-2013 data (http://www.omg.unb.ca/Projects). From 2014, responsibility switched to the Marine Geomorphology Laboratory of Laval University.",
+    "Les données acoustiques ont été générées à partir des systèmes de sonar multifaisceaux Kongsberg Simrad EM300 et EM302 du CCGS Amundsen. Ce sous-ensemble de données bathymétriques couvre la zone économique exclusive (ZEE) du Groenland, c'est-à-dire en dehors de l'étendue de la mer territoriale de 12 nm et à l'intérieur de la ZZE de 200 nm, de 2003 à 2014. Les ensembles de données se composent d'images bathymétriques à haute résolution et de rétrodiffusion acoustique collectées 24 heures sur 24, chaque fois que le navire était en transit ou bénéficiait d'une période d'étude dédiée. Les paramètres de collecte standard utilisaient le double ping, l'impulsion FM, le mode de profondeur automatique, une couverture angulaire de +/- 60 degrés et une formation de faisceaux équidistante à haute densité. Le logiciel SIS a été utilisé pour collecter les données, tandis que le nettoyage en temps quasi réel des valeurs aberrantes a été effectué à l'aide du logiciel Caris HIPS&SIPS après conversion au format GSF (Generic Sensor Format) pour saisie dans le gestionnaire de base de données MB-System. Les données de l'unité de mesure inertielle (IMU) ont été analysées par SIS à partir d'un POSmv 320 v.4. Les données GPS RTG du GPS cNav 3050 ont été utilisées pour corriger et améliorer la sortie de position du POSmv avec correction RTCM. Les informations sur la vitesse du son provenaient soit des moulages CTD Rosette, soit des données MVP300, soit simulées à partir de la base de données de l'Atlas mondial des océans 2009. La résolution des données est de 10 mètres. Les vignettes disponibles sont au format de grille ESRI (.asc). L'OMG de l'Université du Nouveau-Brunswick était responsable des données 2003-2013 (http://www.omg.unb.ca/Projects). À partir de 2014, la responsabilité a été transférée au Laboratoire de géomorphologie marine de l'Université Laval."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/e78993ce-ec6a-467c-9edc-bdc7899738af"
+  ],
+  "dct_issued_s": "2015-01-30",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/e78993ce-ec6a-467c-9edc-bdc7899738af\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Multibeam Sonar Data from the CCGS Amundsen for the Greenlandic Exclusive Economic zone from 2003 to 2014",
+  "gbl_mdModified_dt": "2026-07-31T16:45:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83487d22-0513-568b-b7a6-f30e72dc83cf",
+  "locn_geometry": "ENVELOPE(-75.5, -57.0, 81.45, 73.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

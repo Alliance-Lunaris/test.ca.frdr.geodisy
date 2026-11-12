@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Utilisation de l'eau",
+    "Watercourses",
+    "Énergie renouvelable",
+    "Renewable resources",
+    "Énergie",
+    "Hydropower",
+    "Ressources renouvelables",
+    "Energy",
+    "Hydroélectricité",
+    "Eau",
+    "Water use",
+    "Fleuve / Rivière",
+    "Renewable energy",
+    "Water",
+    "Cours d'eau",
+    "Rivers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartes des courants de marée et des densités de puissance du détroit de Quatsino (Colombie-Britannique), issues d’évaluations des ressources marémotrices fondées sur la modélisation hydrodynamique"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "A tidal resource assessment dataset for the Quatsino Sound region, British Columbia, was developed, including temporal maximum, mean, and minimum velocity magnitudes, standard deviations, and power density. The dataset was generated using a high-resolution 2D depth-averaged hydrodynamic model based on the Telemac-Mascaret solver, with Natural Neighbor interpolation applied for raster creation. This newly published dataset is the first in a series of regional tidal energy maps for Canada. Developed by CanmetENERGY Ottawa in collaboration with partners, these maps aim to support effective project planning and development by providing comprehensive tidal resource data across the country.  \n  \n  Disclaimer:  \n  \n  Potential errors in the model results may arise from inherent limitations in the topo-bathymetric data accuracy, assumptions in boundary conditions, approximations within the numerical methods, and the input data used in the numerical modeling. These factors introduce uncertainties that can affect the overall model outcomes. The model is subject to the following conditions:  \n  \n  • Topo-bathymetric data: Obtained from electronic navigational charts and the Canadian Hydrographic Service’s (CHS) NONNA-10 Bathymetric Data packages, consolidating CHS-managed digital bathymetric sources with a maximum resolution of 10 m.  \n  \n  • Tidal and current harmonic components: Used as boundary conditions from the TPXO9 global tidal model.  \n  \n  • Model calibration and validation: Performed using data from Acoustic Doppler Current Profilers (ADCP), surface elevations recorded at CHS tidal stations, and Lagrangian drifter measurements.  \n  \n  • Interpolation method: Dataset outputs were generated with Natural Neighbor interpolation, which assumes smoothly varying data and may not capture sharp local gradients or features.  \n  \n  • Modeled estimates: All values for velocity magnitudes, velocity standard deviations, and power density are modeled estimates and not direct field measurements.  \n  \n  This dataset is intended for preliminary assessment of tidal projects only. It should not be the sole basis for making critical decisions or investments. We strongly recommend further validation and in-depth analysis. Users are responsible for conducting their own due diligence and additional research to verify the data's accuracy and relevance for specific applications.  \n  \n  By accessing and using this dataset, users acknowledge and accept these disclaimers. The providers of this dataset explicitly absolve themselves of any responsibility or liability for any consequences arising from the use, reliance upon, or interpretation of this dataset. Users are advised that their use of the dataset is at their own risk, and they assume full responsibility for any actions or decisions made based on the information contained therein. This disclaimer is in accordance with applicable laws and regulations, and by accessing or utilizing the dataset, users agree to release the providers of this dataset from any legal claims, damages, or liabilities that may arise from such use.",
+    "Un ensemble de données sur l’évaluation des ressources marémotrices a été créé pour la région du détroit de Quatsino, en Colombie-Britannique. Il comporte des données sur les intensités de vitesse temporelle maximale, moyenne et minimale, les écarts-types ainsi que les densités de puissance. L’ensemble de données a été produit au moyen d’un modèle hydrodynamique 2D à haute résolution établi en fonction de la profondeur qui s’appuie sur le solutionneur Telemac-Mascaret. L’interpolation par voisins naturels a été utilisée pour créer les trames. Ce nouvel outil est le premier d’une série de cartes régionales de l’énergie marémotrice au Canada. Élaborées par CanmetÉNERGIE Ottawa en collaboration avec des partenaires, ces cartes qui fournissent des données complètes sur les ressources marémotrices à l’échelle du pays visent à faciliter la planification et la mise en œuvre de projets efficaces.  \n  \n  Avis  \n  \n  Des erreurs potentielles dans les résultats du modèle peuvent découler des limitations inhérentes dans la précision des données topo-bathymétriques, des hypothèses associées aux conditions limites, des approximations au sein des méthodes numériques, de même que des données d’entrée utilisées dans la modélisation numérique. Ces facteurs génèrent des incertitudes qui peuvent avoir une incidence sur les résultats globaux du modèle. Le modèle est assujetti aux conditions décrites ci-après.  \n  \n  • Données topo-bathymétriques : obtenues à partir de cartes électroniques de navigation et des trousses de données bathymétriques NONNA-10 du Service hydrographique du Canada (SHC), intégrant des sources bathymétriques numériques gérées par le SHC  et une résolution maximale de 10 m.  \n  \n  • Composantes harmoniques des marées et courants : utilisées comme conditions limites à partir du modèle mondial des marées TPXO9.  \n  \n  • Calage et validation du modèle : effectués au moyen de données provenant d’un profileur de courant à effet Doppler (ADCP), des altitudes de surface enregistrées dans les stations marégraphiques du SHC et des mesures d’un dériveur lagrangien.  \n  \n  • Méthode d’interpolation : les extrants de l’ensemble de données ont été produits par interpolation par voisins naturels, dont l’hypothèse repose sur des données dont la variation est régulière. Il est donc possible que des caractéristiques ou gradients plus marqués à l’échelle locale ne soient pas représentés.  \n  \n  • Estimations modélisées : toutes les valeurs liées aux intensités de vitesse, aux écarts-types de vitesse et à la densité de puissance sont des estimations modélisées, et non pas des mesures directes sur le terrain.  \n  \n  Cet ensemble de données est fourni uniquement aux fins d’évaluation préliminaire pour les projets marémoteurs. Il ne devrait pas servir de seule assise pour la prise de décisions critiques ou la réalisation d’investissements. Nous recommandons fortement de recourir à des mesures de validation additionnelles et à une analyse approfondie. Il incombe aux utilisateurs d’appliquer leurs propres initiatives de diligence raisonnable et compléments de recherche afin de s’assurer de la précision et de la pertinence des données pour des usages précis.  \n  \n  En consultant et en utilisant cet ensemble de données, les utilisateurs reconnaissent et acceptent le présent avis. Les fournisseurs de l’ensemble de données s’exonèrent explicitement de toute responsabilité en ce qui concerne les conséquences pouvant découler de l’utilisation, de l’interprétation ou de la confiance qui est accordée audit ensemble de données. Les utilisateurs sont informés qu’ils utilisent l’ensemble de données à leur propre risque et qu’ils assument l’entière responsabilité de toute action ou décision prise en fonction des informations fournies dans ledit ensemble de données. Le présent avis est conforme aux lois et règlements applicables, et en consultant ou en utilisant l’ensemble de données, les utilisateurs acceptent de décharger les fournisseurs de l’ensemble de données de tout dommage, réclamation juridique ou responsabilité pouvant découler d’une telle utilisation."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f269af79-21cd-4e1a-9462-cbc49f8ac132"
+  ],
+  "dct_issued_s": "2025-11-04",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f269af79-21cd-4e1a-9462-cbc49f8ac132\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Tidal Current and Power Density Maps of Quatsino Sound, British Columbia, Derived from Hydrodynamic Modeling-Based Tidal Resource Assessments",
+  "gbl_mdModified_dt": "2025-12-16T18:00:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "41c3bb8b-c8d8-5386-a946-22cb1ff8c669",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

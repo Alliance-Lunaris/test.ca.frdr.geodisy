@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.6419053, -71.1430559, 46.6482601, 46.8767231)",
+  "dcat_keyword_sm": [
+    "Courants sous-marins",
+    "Courants de surface",
+    "fresh water flow",
+    "surfaceCurrents",
+    "débits eau douce",
+    "subSurfaceCurrents",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Débit quotidien d'eau douce du Saint-Laurent à la hauteur de la Ville de Québec"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "**METHODOLOGY**\n\nThe daily mean run off is estimated using a One-Dimensional model forced by the flows from the basins of the Great Lakes, the Ottawa River and the lateral rivers to the St. Lawrence River, and finally by the observed water level at Saint-Joseph-de-la-Rive using the Lefaivre, D’Astous et Matte (2016) method. The mean uncertainty is 1000 m3/s.\n\n**DATA SOURCE**\n\nPelagic and Ecosystem Sciences Directorate - Quebec Region, Maurice Lamontagne Institute, Fisheries and Oceans Canada \n\n**REFERENCE**\n\nLefaivre, D., A. D’Astous, and P. Matte, 2016. Hindcast of Water Level and Flow in the St. Lawrence River over the 2005–2012 period. ATMOSPHERE-OCEAN, 54 (3), 264-277.",
+    "**MÉTHODOLOGIE**\n\nLes débits quotidiens à Québec sont calculés à l'aide d'un modèle unidimensionnel qui utilise les débits du bassin des Grands Lacs, de l’Outaouais et des rivières tributaires au fleuve Saint-Laurent ainsi que les niveaux d’eau observés à Saint-Joseph-de-la-Rive selon la méthode de Lefaivre, D’Astous et Matte (2016). L'incertitude moyenne est de 1000 m3/s.\n\n**SOURCE DE DONNÉES**\n\nDirection des Sciences pélagiques et écosystémiques - Région du Québec, Institut Maurice-Lamontagne, Pêches et Océans Canada.\n\n**RÉFÉRENCE**\n\nLefaivre, D., A. D’Astous, and P. Matte, 2016. Hindcast of Water Level and Flow in the St. Lawrence River over the 2005–2012 period. ATMOSPHERE-OCEAN, 54 (3), 264-277."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/27dd0c2a-97c5-4bcd-a5af-a901334ecd7c"
+  ],
+  "dct_issued_s": "2023-06-05",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/27dd0c2a-97c5-4bcd-a5af-a901334ecd7c\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Daily Freshwater Runoffs of the St. Lawrence at the Height of Quebec City",
+  "gbl_mdModified_dt": "2026-07-31T16:34:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4acf8e33-a493-5e0f-98e0-726070c2d10e",
+  "locn_geometry": "ENVELOPE(-71.6419053, -71.1430559, 46.6482601, 46.8767231)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Zebrafish (Danio rerio)",
+    "Disease Models",
+    "C9orf72",
+    "Amyotrophic Lateral Sclerosis (ALS)",
+    "Biological Sciences (Genetics)",
+    "Phenotypic Characterization",
+    "Drug Screening",
+    "Knockout model",
+    "CRISPR/Cas9",
+    "Motor Activity",
+    "Caenorhabditis elegans (C. elegans)",
+    "Health Sciences (Neurodegenerative Disease Research)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Emond, Alexandre (Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Université de Montréal, Montréal, Canada). ORCID: https://orcid.org/0009-0007-7303-3064",
+    "Laflamme, Carl (Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada, McGill University, Structural Genomics Consortium, Montreal Neurological Institute and Hospital, Department of Neurology and Neurosurgery, Structural Genomics Consortium, The Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada, University of Ottawa). ORCID: https://orcid.org/0000-0001-5906-025X",
+    "Therrien, Martine (Center for Neuroscience, University of California, Davis, USA). ORCID: https://orcid.org/0000-0003-3150-4052",
+    "Liao, Meijiang (Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Université de Montréal, Montréal, Canada, Centre Hospitalier de l'Université de Montréal).",
+    "Maios, Claudia (Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Université de Montréal, Montréal, Canada).",
+    "Labarre, Audrey (Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Université de Montréal, Montréal, Canada).",
+    "Drapeau, Pierre (Université de Montréal, Montréal, Canada).",
+    "Parker, Alex (Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Université de Montréal, Montréal, Canada)."
+  ],
+  "dct_description_sm": [
+    "This dataset is associated with a manuscript currently under review at PLOS Genetics. \n<p>\nThe README file in the root directory provides general context for the dataset. \n<p>\nThe Main_Metadata_README file contains experimental details for all sub-datasets, along with most of their relevant metadata.",
+    "<p>\n        This dataset is associated with the manuscript \n        <strong>\"Characterization of a C9orf72 Knockout Danio rerio Model for ALS and Cross-Species Validation of Potential Therapeutics Screened in Caenorhabditis elegans\"</strong>, \n        currently under review at <em>PLOS Genetics</em>. It represents the minimal dataset required for reproducibility under \n        <em>PLOS Genetics</em> data-sharing policies.\n    </p>\n\n    <h3>Abstract:</h3>\n\n    <p>\n        Intronic hexanucleotide repeat expansions in the <em>C9orf72</em> gene are the most common genetic cause of the neurodegenerative diseases \n        amyotrophic lateral sclerosis (ALS) and frontotemporal dementia. This expansion reduces <em>C9orf72</em> expression in affected patients, \n        implicating loss of <em>C9orf72</em> function (LOF) as a pathogenic mechanism.\n    </p>\n\n    <p>\n        Various <em>Danio rerio</em> (zebrafish) models of <em>C9orf72</em> depletion have been developed to investigate disease mechanisms and the effects of \n        <em>C9orf72</em> LOF. However, there are inconsistencies in reported phenotypes, and most have yet to be validated in stable germline ablation models.\n        To address this, we generated a zebrafish <em>C9orf72</em> knockout model using CRISPR/Cas9. The <em>C9orf72</em> LOF model exhibits, in a generally \n        dose-dependent manner, increased larval mortality, persistent growth reduction, and motor deficits. Additionally, homozygous <em>C9orf72</em> LOF larvae \n        displayed mild overbranching of spinal motoneurons.\n    </p>\n\n    <p>\n        To identify potential therapeutic compounds, we conducted a screen in an established <em>Caenorhabditis elegans</em> (<em>C. elegans</em>) <em>C9orf72</em> \n        homologue (<em>alfa-1</em>) LOF model, identifying 12 compounds that improved the motility, neurodegeneration, and paralysis phenotypes. \n        Prompted by the shared motor phenotype, 2 of those compounds were tested in our zebrafish <em>C9orf72</em> LOF model. \n        <strong>Pizotifen malate</strong> was found to significantly improve motor deficits in <em>C9orf72</em> LOF zebrafish larvae. \n        We present a novel zebrafish <em>C9orf72</em> knockout model that exhibits phenotypic differences from depletion models, \n        providing a valuable tool for in vivo <em>C9orf72</em> research and ALS therapeutic validation. Furthermore, we identify \n        <strong>pizotifen malate</strong> as a promising compound for further preclinical evaluation.\n    </p>\n\n    <h3>Dataset Information:</h3>\n\n    <p>\n        This dataset includes raw and processed numerical data from key experimental assays in zebrafish (<em>Danio rerio</em>) and \n        <em>Caenorhabditis elegans</em>. In zebrafish, it contains data from qPCR, sequencing, western blots, survival assays, motor activity tracking, \n        spinal motor neuron morphology analysis, neuromuscular junction integrity evaluation, and drug screening experiments. \n        For <em>C. elegans</em>, it includes data on swimming activity, paralysis assays, neurodegeneration analysis, and drug screening experiments.\n    </p>\n\n    <p>\n        This dataset represents the minimal dataset required for reproducibility in accordance with <em>PLOS Genetics</em> guidelines and provides \n        all necessary numerical data to replicate the study’s findings. Where relevant, sample raw files are included to ensure data provenance and reproducibility.\n    </p>"
+  ],
+  "dct_identifier_sm": [
+    "886613_75470",
+    "https://doi.org/10.5683/SP3/RTGSAG"
+  ],
+  "dct_issued_s": "2025-03-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RTGSAG\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Minimal Dataset for Characterization of a C9orf72 Knockout Danio rerio Model for ALS and Cross-Species Validation of Therapeutics in Caenorhabditis elegans",
+  "gbl_mdModified_dt": "2025-03-21T18:15:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5f9505f1-6a33-5cc6-8845-17d8ede1c8f9",
+  "pcdm_memberOf_sm": [
+    "Université de Montréal - Dataverse étudiant"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

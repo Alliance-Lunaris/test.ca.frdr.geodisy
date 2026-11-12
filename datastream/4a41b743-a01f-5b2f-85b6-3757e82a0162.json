@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-118.80472, -110.02972, 58.44722, 49.14541)",
+  "dcat_keyword_sm": [
+    " Alberta",
+    " river",
+    " Long Term River Network",
+    " LTRN",
+    "Water quality"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Government of Alberta, Environment and Protected Areas."
+  ],
+  "dct_description_sm": [
+    "The Province of Alberta monitors surface water quality in streams and rivers across the province on behalf of Albertans. River water quality monitoring consists of core long term monitoring programs, as well as short-term focused studies with defined scientific questions.  The Long Term River Network (LTRN) is a well-established core provincial monitoring program for Alberta’s major rivers, several of which cross interprovincial and international boundaries.  Further information is available in “A five-year provincial water quality monitoring, evaluation and reporting plan for lotic systems”, found here: https://open.alberta.ca/publications/9781460141366.\nThis dataset contains LTRN water quality data from river basins in Alberta. Data is automatically integrated from the Water Quality Data Portal (https://environment.extranet.gov.ab.ca/apps/WaterQuality/dataportal/). Data has been reformatted for DataStream compatibility. While most records are included, qualitative parameters (e.g., reason for missing sample, odour) are excluded. Additionally, new parameters without an equivalent characteristic name on DataStream may experience a delay in being ported as DataStream updates their schema."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/f78l-dr06"
+  ],
+  "dct_issued_s": "2021-11-17",
+  "dct_license_sm": [
+    "https://open.alberta.ca/licence"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/f78l-dr06\"}",
+  "dct_title_s": "Province of Alberta's Long Term River Network (LTRN) Program",
+  "gbl_mdModified_dt": "2026-09-10T03:32:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4a41b743-a01f-5b2f-85b6-3757e82a0162",
+  "locn_geometry": "ENVELOPE(-118.80472, -110.02972, 58.44722, 49.14541)",
+  "schema_provider_s": "DataStream"
+}

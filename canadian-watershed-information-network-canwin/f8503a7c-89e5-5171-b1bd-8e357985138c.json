@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0071, -116.6628, 60.1644, 48.1566)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Kelp features were taken from digitized survey source fieldsheets produced by the Canadian Hydrographic Service (CHS).  The area covered by this dataset encompasses various surveyed areas along the western coast of North America in British Columbia coastal waters.  CHS has an extensive collection of hydrographic survey data in the form of field sheets based on over 100 years of surveying in Canada. Data has been collected using a wide range of methods and systems, from lead-line to modern day multi-transducer and multibeam systems. Positions have been established using the different types of terrestrial systems and methods available over many years - up to the latest advanced satellite positioning systems.\n\nFieldsheets that had not been previously digitizted were imported into ESRI ArcMap and georeferenced directly to WGS84 using CHS georeferencing standards and principles (charts.gc.ca). In order to minimize error, a hierarchy of control points was used, ranging from high survey order control points to comparing conspicuous stable rock features apparent in satellite imagery. The georeferencing result was further validated against satellite imagery, CHS charts and fieldsheets, the CHS-Pacific High Water Line (charts.gc.ca), and adjacent and overlapping Fieldsheets.  Finally, the kelp features were digitized, and corresponding chart information (category of kelp, scale, source, title, year, and comments) was added as attributes to each feature.  When digitizing kelp features the points were located at the optical center of the feature being digitized.  This dataset includes a point and a polygon layer.  Kelp that is located on land is historically valid. \n\nSymbolized kelp is not always an exact location but indicates that kelp is present in the area.  The symbol is a proxy.\n\nThe kelp attribute field does not distinguish between different types of kelp.  The field has three variables that are kelp, seaweed and Aquatic Plants.  Seaweed is the general name for marine plants of the Algae class which grow in long narrow ribbons. (International Maritime Dictionary, 2nd Ed.)\n\nKelp is one of an order (laminariales) of usually large, blade-shaped or vine-like brown algae. (IHO Dictionary, S-32, 5th Edition, 2611)\n\nAquatic Plants – Aquatic plants are used as to represent vegetation in fresh water rivers and lakes.\n\nGeographically encompasses the kelp in the Western Coastal waters of North America (mainly Canada) and Temporally overlaps/continues from data extracted from the British Admiralties."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9a6f8163-3ee5-4dd0-acf4-4c8fde4126a3"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9a6f8163-3ee5-4dd0-acf4-4c8fde4126a3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Distribution of kelp on the coast of British Columbia extracted from CHS source data: 1904 - 2004",
+  "gbl_mdModified_dt": "2026-03-24T09:04:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f8503a7c-89e5-5171-b1bd-8e357985138c",
+  "locn_geometry": "ENVELOPE(-135.0071, -116.6628, 60.1644, 48.1566)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "bioinformatics",
+    "genetic sequencing",
+    "metadata",
+    "whole-genome sequencing",
+    "antimicrobial resistance",
+    "data schema"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Amoako, Daniel Gyamfi (Department of Pathobiology. Ontario Veterinary College. University of Guelph). ORCID: https://orcid.org/0000-0003-3551-3458",
+    "Chalmers, Gabhan (Department of Pathobiology. Ontario Veterinary College. University of Guelph). ORCID: https://orcid.org/0000-0002-6651-4253",
+    "Ricker, Nicole (Department of Pathobiology. Ontario Veterinary College. University of Guelph). ORCID: https://orcid.org/0000-0001-5706-5399"
+  ],
+  "dct_description_sm": [
+    "This dataset and accompanying schema were prepared to support standardized documentation, organization, validation, and long-term reuse of genomic sequencing project data. The schema provides structured fields for recording sample information, sequencing metadata, laboratory and bioinformatics information, and associated project-level information. It was developed to improve consistency in the capture and management of genomic sequencing data, facilitate harmonization across sequencing projects and workflows, and support interoperability with <a href=\"https://agrifooddatacanada.ca/\">Agri-Food Data Canada (ADC)</a> tools and repository standards. The schema is intended to facilitate reproducible data management and downstream reuse of genomic sequencing datasets.",
+    "Structural schema for sequencing runs, samples, workflow definitions, workflow executions, QC metrics, QC rule definitions, QC rule evaluations, and final sample status."
+  ],
+  "dct_identifier_sm": [
+    "1160474_16_41161_41162",
+    "https://doi.org/10.5683/SP3/EVRJZ4"
+  ],
+  "dct_issued_s": "2026-08-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EVRJZ4\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Data schema: Genomic sequencing project",
+  "gbl_mdModified_dt": "2026-08-18T18:29:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c58902ae-0124-5da1-9085-c74db5e64d0a",
+  "pcdm_memberOf_sm": [
+    "Agri-environmental Research Data // Ontario Veterinary College // Department of Pathobiology"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.486613, -123.314683, 49.043357, 48.651178)",
+  "dcat_keyword_sm": [
+    "Water Pressure",
+    "Potential Temperature",
+    "Fjords",
+    "Density",
+    "Salinity",
+    "Oxygen",
+    "Inlets",
+    "Ocean Temperature"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ocean Networks Canada (University of Victoria)."
+  ],
+  "dct_description_sm": [
+    "Ocean Networks Canada (ONC) operates several cabled ocean observatories in the Pacific and Arctic oceans. Along the southern coast of British Columbia, ONC maintains a cabled array and instrument platform at a depth of roughly 100m in Saanich Inlet, a fjord on Vancouver Island. The instrument platform was deployed in February 2006 and has been maintained continuously since then. The core oceanographic instrument on the Saanich Inlet instrument platform is an industry standard pumped Conductivity, Temperature, and Depth (CTD) suite of sensors, including sensors to measure the concentration of dissolved Oxygen. These data are used to generate time series of seawater temperature, salinity, pressure, and dissolved oxygen. Over the duration of the time series, the pumped CTD has generally sampled at one-minute intervals, varying slightly during maintenance and servicing periods. These data have been inspected, passed through various data quality checks (e.g. consistent with QARTOD standards), and averaged into one-hour uniform samples. This data set represents the first ten years (February 2006 through February 2016) of water property data from the Saanich Inlet cabled observatory. Instruments are re-calibrated on an annual basis. Comparison to and validation against periodic ship based CTD profile data indicates the observatory time series are highly representative of the oceanographic conditions in Saanich Inlet, but are sufficient to resolve rapid and long-term variations not accessible by any other means."
+  ],
+  "dct_identifier_sm": [
+    "74146_72360",
+    "https://doi.org/10.5683/SP2/7UOOVR"
+  ],
+  "dct_issued_s": "2019-04-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/7UOOVR\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Ten years (2006-2016) of oceanographic temperature, salinity, pressure, density and dissolved oxygen data from the Saanich Inlet cabled observatory",
+  "gbl_mdModified_dt": "2023-07-14T18:59:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a11bbd1-8540-57b4-8874-64d11fb05f81",
+  "locn_geometry": "ENVELOPE(-123.486613, -123.314683, 49.043357, 48.651178)",
+  "pcdm_memberOf_sm": [
+    "Ocean Networks Canada"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "computer simulation",
+    "assortative mating",
+    "premating isolation",
+    "hybrid zone"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Irwin, Darren (University of British Columbia). ORCID: https://orcid.org/0000-0002-1050-5841"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/t1qp2W-Lrmmd4-j_7Wh7vWkFE1mfgb6vL0yMpCOK22E</p>\n<p><b>Storage size:</b> 9188068</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Partial prezygotic isolation is often viewed as more important than partial postzygotic isolation (low fitness of hybrids) early in the process of speciation. I simulate secondary contact between two populations (‘species’) to examine effects of assortative mating and low hybrid fitness in preventing blending. A small reduction in hybrid fitness (e.g., by 10%) produces a narrower hybrid zone than a strong but imperfect mating preference (e.g., 10x stronger preference for conspecific over heterospecific mates). In the latter case, rare F1 hybrids find each other attractive (due to assortative mating), leading to the buildup of a continuum of intermediates. The weakness of assortative mating compared to reduced fitness of hybrids in preventing blending is robust to varying genetic bases of these traits. Assortative mating is most powerful in limiting blending when it is encoded by a single locus, is essentially complete, or when there is a large mate search cost. In these cases assortative mating is likely to cause hybrids to have low fitness, due to frequency-dependent mating disadvantage of individuals of rare mating types. These results prompt a questioning of the concept of partial prezygotic isolation, since it is not very isolating unless there is also postzygotic isolation.</p>",
+    "<b>Methods</b><br /><p>This Dryad package contains data files, R code to run the HZAM (Hybrid Zone with Assortative Mating) simulation, R code to generate data figures, and video animations related to this paper:</p>\r\n\r\n<p>Irwin, D.E. Assortative mating in hybrid zones is remarkably ineffective in promoting speciation. American Naturalist, accepted pending minor revision.</p>\r\n\r\n<p>Please see that paper for a full description of the model that produced the data.</p>\r\n\r\n<p>The same data, based on the same R code, were presented in this earlier bioRxiv preprint:</p>\r\n\r\n<p>Irwin, D.E. 2019. Assortative mating in hybrid zones is remarkably ineffective in promoting speciation. bioRxiv doi: https://doi.org/10.1101/637678</p>",
+    "<b>Usage notes</b><br /><p>The files in this package are each described below:</p>\r\n\r\n<p><strong>HZAM_Irwin_AmNat_paper_figures_script.R</strong><br>\r\nThis is the R code that can be used to generate the data figures in the paper. It requires the data folder described below.</p>\r\n\r\n<p><strong>HZAM_Irwin_AmNat_paper_simulation_data.zip</strong><br>\r\nThis compressed folder (which should be unzipped before use) contains 2,720 data files containing output of 1,370 HZAM simulations. The code in the \"HZAM_Irwin_AmNat_paper_figures_script.R\" file uses these data files.</p>\r\n\r\n<p><strong>HZAM_release_2.0.R</strong><br>\r\nThis is the R code that runs HZAM (Hybrid Zone with Assortative Mating) simulations.</p>\r\n\r\n<p><strong>HZAM_animation_prefratio0.1_hybridfitness1_K1000_UDLMTL3_gen50.mp4</strong><br>\r\nThis movie file shows 50 generations of a hybrid zone evolving under conditions of 10x assortative mating, no reduction in hybrid fitness, carrying capacity of 2000*, and 3 loci encoding the mating trait. The left side of Figure 2 in the paper shows three timepoints from this same simulation.  (*note the \"K1000\" in the file names refer to half of the total carrying capacity)</p>\r\n\r\n<p><strong>HZAM_animation_prefratio1_hybridfitness0.9_K1000_UDLMTL3_gen50.mp4</strong><br>\r\nThis movie file shows 50 generations of a hybrid zone evolving under conditions of no assortative mating, 10% reduction in hybrid fitness, carrying capacity of 2000, and 3 loci encoding the functional trait. The right side of Figure 2 in the paper shows three timepoints from this same simulation.</p>\r\n\r\n<p><strong>HZAM_animation_prefratio1_hybridfitness0.9_K1000_UDLMTL3_gen1000.mp4</strong><br>\r\nThis movie file shows 1000 generations (with an image shown every 5 generations) of a hybrid zone evolving under conditions of no assortative mating, 10% reduction in hybrid fitness, carrying capacity of 2000, and 3 loci encoding the functional trait. The blue line shows the fitted cline, and the gray shading indicates the cline width (see the paper for detailed methodology).</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>"
+  ],
+  "dct_identifier_sm": [
+    "151023_1226260_150149",
+    "https://doi.org/10.5683/SP2/LYM9BN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/LYM9BN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Assortative mating in hybrid zones is remarkably ineffective in promoting speciation",
+  "gbl_mdModified_dt": "2021-05-19T19:21:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "81cc3431-f6ea-554b-a753-896d61295bfc",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

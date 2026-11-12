@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.0321769, -54.18275874, 83.75300715, 48.15521362)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The MODIS Surface Albedo and Surface Reflectance Dataset (or simply Albedo) includes times series of 10-day composite products derived at 250-m spatial resolution over Canadian territory and neighboring areas produced at the Canada Centre for Remote Sensing (CCRS) since February 2000.The datasets contain spectral and broadband reflectance’s and albedo for MODIS bands B1-B7 designed primarily for land applications. The imagery for all spectral bands was downscaled and re-projected into the Lambert Conformal Conic (LCC) projection at 250-m spatial resolution. The area size is 5,700 km × 4,800 km. The specialized MODIS processing system was developed at CCRS to fully utilize the high quality of MODIS L2 swath imagery over the northern latitudes. As such, the CCRS Albedo product is different from the standard NASA product. The differences are related to temporal and spatial scaling, shape of kernel functions employed to fit data, as well as details of scene identification, atmospheric correction, and data fitting methodology.\n\nThe data is hosted on AWS; users can follow the tutorial (https://github.com/OpsCCRS/AWS-Open-Data-Registry-Preparation/blob/main/CCRSMODISAlbedo/get-to-know-adataset-CCRSMODISAlbedo.ipynb) to access the data or via the URL in Data Resources for each year."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/28b6d950-a92b-427a-8f20-7adc1415c5dd"
+  ],
+  "dct_issued_s": "2025-04-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/28b6d950-a92b-427a-8f20-7adc1415c5dd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "MODIS Surface Albedo",
+  "gbl_mdModified_dt": "2026-02-23T15:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "887525da-099a-556e-8ef4-7891d0ad423b",
+  "locn_geometry": "ENVELOPE(-143.0321769, -54.18275874, 83.75300715, 48.15521362)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

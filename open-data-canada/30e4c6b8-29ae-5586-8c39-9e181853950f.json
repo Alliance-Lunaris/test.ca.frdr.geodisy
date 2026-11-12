@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.16, -74.34, 56.86, 41.66)",
+  "dcat_keyword_sm": [
+    "Puits d'observation (piézomètre)",
+    "Hydrogeology",
+    "Monitoring well (Piezometre)",
+    "Static Water level",
+    "Hydrogéologie",
+    "Groundwater",
+    "Niveau piézométrique",
+    "Niveau d'eau statique",
+    "Puits",
+    "Eau souterraine",
+    "Groundwater level time series",
+    "Hydraulic head",
+    "Well",
+    "Séries temporelles de niveau d'eau souterraine"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau de suivi en temps quasi réel du niveau des eaux souterraines de l'Ontario"
+  ],
+  "dct_creator_sm": [
+    "Simon Gagnon."
+  ],
+  "dct_description_sm": [
+    "The water level data comes from the Provincial Groundwater Monitoring Network (PGMN) of Ontario. Each well in the observation network is equipped with a hydrostatic pressure transducer and a temperature sensor connected to a data logger. A second pressure transducer located above the water surface allows for adjusting the water level according to atmospheric pressure variations. The time series refers to the level below which the soil is saturated with water at the site and at the time indicated. The water level is expressed in meters above sea level (MASL). Groundwater levels are recorded hourly. The dataset consists of a general description of the observation site including; the identifier, the name, the location, the elevation, and a series of numerical values designating the water levels at a defined date and time of measurement.",
+    "Les données de niveau d'eau proviennent du réseau provincial de contrôle des eaux souterraines de l'Ontario. Chaque puit du réseau d'observation est équipé d'un capteur de pression hydrostatique et connecté à un enregistreur de donnée. Un second capteur de pression placé à la surface de l'eau permet de corriger le niveau en fonction de la variation de la pression atmosphérique. La série temporelle désigne le niveau en-dessous duquel le sol ou le socle est saturé d'eau au site et au temps indiqués. Le niveau d'eau est exprimé en mètre au-dessus du niveau de la mer (MASL). Le jeu de données est composé d'une description générale du site d'observation incluant; l'identifiant, le nom, la localisation, l'altitude et d'une série de valeurs numériques désignant les niveaux d'eau, accompagnés de la date et l'heure de mesure."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d014508d-c904-bc28-ebdb-327863ebbb1d"
+  ],
+  "dct_issued_s": "2021-11-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d014508d-c904-bc28-ebdb-327863ebbb1d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Ontario near real-time groundwater level monitoring network",
+  "gbl_mdModified_dt": "2022-07-28T20:21:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "30e4c6b8-29ae-5586-8c39-9e181853950f",
+  "locn_geometry": "ENVELOPE(-95.16, -74.34, 56.86, 41.66)",
+  "schema_provider_s": "Open Data Canada"
+}

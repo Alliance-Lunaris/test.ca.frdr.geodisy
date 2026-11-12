@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides wall-to-wall maps of forest structure across Canada's 650 million hectare forested ecosystems for the year 2022, generated at a spatial resolution of 30 m. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Structure estimates include key attributes such as canopy height, canopy cover, and aboveground biomass, derived using a combination of airborne lidar and Landsat-based spectral composites. Structure models were trained using the - lidar-plot framework - (Wulder et al. 2012), which integrates co-located airborne lidar data and ground plot measurements with Landsat time-series composites (Hermosilla et al. 2016). A Nearest Neighbour imputation approach was applied to estimate structural attributes across the full extent of Canada's forested area. These nationally consistent products are intended to support strategic-level forest monitoring and assessment and are not designed for operational forest management.\nFor further details on the methods, accuracy assessment, and source data, see Matasci et al. (2018).\nMatasci, G., Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Hobart, G.W., Bolton, D.K., Tompalski, P., Bater, C.W., 2018. Three decades of forest structural dynamics over Canada's forested ecosystems using Landsat time-series and lidar plots. Remote Sensing of Environment, 216, 697-714. https://doi.org/10.1016/j.rse.2018.07.024 (Matasci et al. 2018)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7e1b6612-a3b2-400c-8318-63d93ab2f1b7"
+  ],
+  "dct_issued_s": "2026-02-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7e1b6612-a3b2-400c-8318-63d93ab2f1b7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Forest Elevation Mean (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:04:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e6a8f068-f4df-5343-a9be-90cd77eda7f1",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

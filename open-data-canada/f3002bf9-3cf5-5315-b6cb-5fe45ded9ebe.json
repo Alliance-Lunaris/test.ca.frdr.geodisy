@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.67110231, -64.50867079, 46.41867877, 46.30726269)",
+  "dcat_keyword_sm": [
+    "Évaluer l'état des espèces",
+    "Habitat côtier",
+    "Protect Species Well-Being",
+    "Atlantic - New Brunswick (NB)",
+    "Downloadable Data; coastal; remote sensing",
+    "Zostère marine",
+    "Aquatic plants",
+    "Nature et biodiversité - habitat",
+    "Plante aquatique",
+    "Golfe du Saint-Laurent",
+    "Protéger le bien-être des espèces",
+    "Gulf of st. Lawrence; eelgrass; Zostera marina; image classification; remote sensing; coastal; Cocagne",
+    "Gulf of St. Lawrence",
+    "Golfe du Saint-Laurent; zostère; Zostera marina; classification d'images; télédétection; côtier; Cocagne",
+    "Atlantique - Nouveau-Brunswick (NB)",
+    "Assess Status of Species",
+    "Eelgrass",
+    "Coastal Habitat",
+    "Nature and Biodiversity - Habitat",
+    "Données téléchargeables; côtières; télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Classification de la couverture de zostère marine au havre de Cocagne"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Eelgrass (Zostera marina) is important to waterfowl such as Atlantic Brant (Branta bernicla hrota), Canada Goose (Branta canadensis), American Black Duck (Anas rubripes), Common Goldeneye (Bucephala clangula) and Barrow's Goldeneye (Bucephala islandica). In New Brunswick eelgrass can be found along the Gulf of St. Lawrence, in protected harbours. Within this dataset are the results eelgrass land-cover classifications using either satellite or aerial photography for eight harbours: Bouctouche (46 30’N, 64 39’W); Cocagne (46.37 N, -64.60 W); Miscou (47.90 N, -64.55 W); Neguac (47.25 N, -65.03 W); Richibucto (46.70 N, -64.80 W); Saint-Simon (47.77 N, -64.76 W); Tabusintac (47.33 N, -64.93 W); and Tracadie (47.55 N, -64.88 W). Information on each dataset is provided:  \n  \n  Visible orthorectified aerial photography was used to classify polygons containing eelgrass in Cocagne Harbour. Field data for image training and validation were collected along transects in summer 2008 using a dGPS positioned towfish holding sidescan sonar and a video camera that was later transcribed as XY geographic points to describe eelgrass presence and a qualitative description of density. The area was flown for photography on September 24, 2008. eCognition Developer 8 software was used to segment the imagery, essentially polygons. Polygons were then classified manually for the presence of eelgrass. Using field data revealed eelgrass presence to be mapped correctly 87.2% of the time.",
+    "La zostère marine (Zostera marina) est importante pour la sauvagine, notamment la Bernache cravant à ventre pâle (Branta bernicla hrota), la Bernache du Canada (Branta canadensis), le Canard noir (Anas rubripes), le Garrot à œil d’or (Bucephala clangula) et le Garrot d’Islande (Bucephala islandica). Au Nouveau-Brunswick, la zostère marine est présente le long du golfe du Saint-Laurent dans des havres protégés. Les ensembles de données présentés ci-dessous contiennent les résultats de classifications de la couverture de zostère marine effectuées à l’aide de la photographie aérienne ou par satellite pour huit havres : Bouctouche (46,30°N; 64,39°O), Cocagne (46,37°N; 64,60°O), Miscou (47,90°N; 64,55°O), Neguac (47,25°N; 65,03°O), Richibucto (46,70°N; 64,80°O), Saint-Simon (47,77°N; 64,76°O), Tabusintac (47,33°N; 64,93°O) et Tracadie (47,55°N; 64,88°O). Des renseignements sont fournis pour chaque ensemble de données.  \n  \n  On a utilisé la photographie aérienne orthocorrigée dans le visible pour classer des polygones contenant de la zostère marine dans le port de Cocagne. Pour l’entraînement et la validation d’image, on a collecté à l’été 2008 des données sur le terrain le long de transects à l’aide d’un sonar à balayage latéral à poisson avec GPS différentiel et d’une caméra vidéo, qui ont par la suite été converties en points géographiques XY afin de décrire la présence de zostère et, de façon qualitative, la densité. On a survolé la zone le 24 septembre 2008 pour la photographier. Le logiciel eCognition Developer v. 8 a été utilisé pour segmenter les images, essentiellement en polygones. Ces polygones ont ensuite été classés manuellement pour évaluer la présence de zostère marine. Les données collectées sur le terrain ont révélé que la présence de zostère marine a été correctement cartographiée dans 87,2 % des cas."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4a2250be-2cd6-48c0-b18d-6cadd6374aae"
+  ],
+  "dct_issued_s": "2016-03-09",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4a2250be-2cd6-48c0-b18d-6cadd6374aae\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Cocagne Harbour Eelgrass Classification",
+  "gbl_mdModified_dt": "2024-12-10T19:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f3002bf9-3cf5-5315-b6cb-5fe45ded9ebe",
+  "locn_geometry": "ENVELOPE(-64.67110231, -64.50867079, 46.41867877, 46.30726269)",
+  "schema_provider_s": "Open Data Canada"
+}

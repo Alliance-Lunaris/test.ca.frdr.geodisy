@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Post-disturbance forest recovery data for Canada's forested ecosystems, representing a total area of ~650 million ha, captures the return of forests following wildfire and harvest that occurred between 1986 and 2012. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). These spatially-explicit outputs represent the rate of spectral recovery: the rate at which a pixel returns to 80% of its pre-disturbance value (White et al. 2017) within the observation period (1985-2017) using the Y2R or Years-to-Recovery metric derived from Landsat times series data. Baseline rates of spectral recovery (Y2R) were defined for each of Canada's 12 forested ecozones. These baselines were then used to identify spatial clusters of recovering pixels on the landscape where Y2R were either significantly faster or slower than their ecozonal baseline. Finally, areas that were disturbed by wildfire and harvest (1986-2012), but which had not recovered by the end of the observation period (2017) are also provided. Note that these areas are still recovering, but they had not yet recovered according to our metric of spectral recovery, by the end of the time series in 2017. For an overview of the methods, the validation of the Y2R metric, and interpretation of the derived trends, see White et al. (2022) and White et al. (2017).\nWhite, J.C., Hermosilla, T., Wulder, M.A., Coops, N.C., 2022. Mapping, validating, and interpreting spatio-temporal trends in post-disturbance forest recovery. Remote Sensing of Environment, 271, 112904. https://doi.org/10.1016/j.rse.2022.112904 ( White et al. 2022)\nWhite, J.C., Wulder, M.A., Hermosilla, T., Coops, N.C., Hobart, G.W. 2017. A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series. Remote Sensing of Environment, 194, pp. 303-321. DOI: https://doi.org/10.1016/j.rse.2017.03.035 .( White et al. 2017)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a6b81e8b-d429-4629-9121-5a56786fcb83"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a6b81e8b-d429-4629-9121-5a56786fcb83\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Forest Post-Disturbance Recovery Rate (1985-2017)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5d185fad-8271-5fea-ba4d-edf5f87c9dfb",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

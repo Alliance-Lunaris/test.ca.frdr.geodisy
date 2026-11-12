@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Groundwater",
+    "Hydrology",
+    "Open (Open Access Tag)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gleeson, Tom (University of Victoria).",
+    "Befus, Kevin.",
+    "Jasechko, Scott.",
+    "Luijendijk, Elco.",
+    "Cardenas, M. Bayani."
+  ],
+  "dct_description_sm": [
+    "The authors combine geochemical, geologic, hydrologic and geospatial data sets with numerical simulations of groundwater and analyse tritium ages to show that less than 6% of the groundwater in the uppermost portion of Earth’s landmass is modern. We find that the total groundwater volume in the upper 2 km of continental crust is approximately 22.6 million km3, of which 0.1–5.0 million km3 is less than 50 years old. Although modern groundwater represents a small percentage of the total groundwater on Earth, the volume of modern groundwater is equivalent to a body of water with a depth of about 3 m spread over the continents. This water resource dwarfs all other components of the active hydrologic cycle. For each continent, we present the geomatic assignment of hydrologic parameters and the resulting simulation-based modern groundwater equivalent (D_eq50) for the purely geomatic assignment of parameters, an estimate pairing models to watersheds using groundwater recharge and strict lithology control, and an estimate using recharge and strict water table gradient control. These files have a 2 letter acronym for the continent/landmass followed by _globalws_results_Gleesonetal_NatGeo.csv. The corresponding watershed data can be downloaded at hydrosheds.org. Geomatic analyses used an updated, unpublished HydroSHEDS watershed boundaries that are slightly different than those available on hydrosheds.org (Bernhard Lehner, personal communication 2014). Therefore, in the data presented here, we used a spatial join to assign the modeling results and geomatic data to the currently downloadable HydroSHEDS zeroth-level watersheds. Nearly all of the watersheds were very similar in extent, however a variable small percent (< 0.1%) of watersheds in each continent were not located in the currently downloadable HydroSHEDS data."
+  ],
+  "dct_identifier_sm": [
+    "72027_71619",
+    "https://doi.org/10.5683/SP2/KS3BLD"
+  ],
+  "dct_issued_s": "2018-10-25",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KS3BLD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Global"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Global volume and distribution of modern groundwater: groundwater age transport modeling results (data)",
+  "gbl_mdModified_dt": "2018-10-25T21:40:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a3f8fb2-9394-5aa8-8d78-1e1d9f7558f6",
+  "pcdm_memberOf_sm": [
+    "UVic Research Data Collection"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

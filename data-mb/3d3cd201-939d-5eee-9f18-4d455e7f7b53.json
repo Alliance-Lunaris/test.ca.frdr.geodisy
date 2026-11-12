@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.859164, -94.784974, 55.755479, 48.975658)",
+  "dcat_keyword_sm": [
+    "Administrative",
+    "Agreements",
+    "Treaty Land Entitlement",
+    "Crown Lands Act",
+    "Government",
+    "Acquisitions",
+    "Boundary",
+    "First Nations",
+    "Manitoba Government",
+    "Manitoba",
+    "TLE"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The purpose of this dataset is to show geographic boundaries for land acquisitions designated as </SPAN><SPAN STYLE=\"font-style:italic;\">Other Land, </SPAN><SPAN>as outlined by the Treaty Land Entitlement (TLE) Agreements in Manitoba, pursuant to the </SPAN><A href=\"https://web2.gov.mb.ca:443/laws/statutes/ccsm/c340.php\" STYLE=\"text-decoration:underline;\"><SPAN>Crown Lands Act 5(1)(d)</SPAN></A><SPAN>. This is a dynamic dataset - data can change daily.</SPAN></P><P><SPAN STYLE=\"font-style:italic;\">Other Land</SPAN><SPAN> includes land that has been purchased by the First Nations from private landowners or Surplus Provincial or Surplus Federal land that has been purchased from the Manitoba or Canada governments. The title to the land is privately held by a First Nation corporation until it gets transferred to </SPAN><SPAN>the G</SPAN><SPAN>overnment of Canada, however the mines and minerals and other residual interests may be owned by the Crown (Government of Manitoba) and they are required to be transferred to </SPAN><SPAN>the </SPAN><SPAN>Government of Canada (subject to third party interest resolution</SPAN><SPAN>,</SPAN><SPAN> if applicable).</SPAN></P><P><SPAN>The sites are generally identified by title with reference to a plan of survey, metes and bounds description. Locations are mapped using existing cadastral or parcel mapping data, or reasonably illustrate the site within the dataset. A record may contain multiple polygons that have been combined to form one record.</SPAN></P><P><SPAN>All boundaries are to be considered approximate and for illustrative purposes only.</SPAN></P><P><SPAN>For more information on Treaty Land Entitlement (TLE) Agreements please visit the Manitoba government website: </SPAN><A href=\"https://www.gov.mb.ca/inr/treaty-land-entitlement/index.html\" STYLE=\"text-decoration:underline;\"><SPAN>https://www.gov.mb.ca/inr/treaty-land-entitlement/index.html</SPAN></A></P><P><SPAN>Fields included [</SPAN><SPAN STYLE=\"font-weight:bold;\">Alias </SPAN><SPAN>(Field Name): Field description]</SPAN></P><UL><LI><P><SPAN STYLE=\"font-weight:bold;\">OBJECTID </SPAN><SPAN>(OBJECTID): Sequential unique whole numbers that are automatically generated</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Site ID </SPAN><SPAN>(SITE_ID): Site ID number of the selected site</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Area in Square Metres </SPAN><SPAN>(AREA): Area in square metres</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Area in Acres </SPAN><SPAN>(ACREAGE): Area in acres</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Band Council Resolution Number </SPAN><SPAN>(BCR_NO): Band Council Resolution number</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\"><SPAN>Name of the First Nation Making the Land Selection</SPAN><SPAN> </SPAN></SPAN><SPAN>(BAND_NAME): Name of the First Nation making the land selection</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Site Number </SPAN><SPAN>(SITE_NO): Site number of the selected site</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Selection Name </SPAN><SPAN>(SELECTION): Name of the selected site</SPAN></P></LI></UL></DIV></DIV></DIV>"
+  ],
+  "dct_identifier_sm": [
+    "6d108fb995f3418194984003e6a93e22",
+    "https://www.arcgis.com/home/item.html?id=6d108fb995f3418194984003e6a93e22"
+  ],
+  "dct_issued_s": "2022-02-16",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::tle-acquisitions-mb\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence This is an active layer, data can change daily. All departments and agencies impacted will receive all necessary updates."
+  ],
+  "dct_title_s": "TLE_Acquisitions_MB",
+  "gbl_mdModified_dt": "2026-09-21T14:44:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3d3cd201-939d-5eee-9f18-4d455e7f7b53",
+  "locn_geometry": "ENVELOPE(-101.859164, -94.784974, 55.755479, 48.975658)",
+  "schema_provider_s": "Data MB"
+}

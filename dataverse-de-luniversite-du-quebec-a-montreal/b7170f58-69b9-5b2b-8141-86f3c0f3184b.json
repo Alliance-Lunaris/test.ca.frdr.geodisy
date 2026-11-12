@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "ERA5",
+    "Précipitations (Météorologie)",
+    "Climate Model Evaluation",
+    "Stage IV",
+    "Hourly Precipitation",
+    "CRCM6-GEM5",
+    "Modèle régional canadien du climat",
+    "IMERG",
+    "Environmentally Conditioned Intensity Frequency decomposition",
+    "Precipitation (Meteorology)",
+    "Physics—Meteorology. Climatology—General works, treatises, and advanced textbooks—2001-",
+    "Regional Climate Model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lahaie, Kim (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0009-0007-1680-2218",
+    "Alejandro Di Luca (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961",
+    "François Roberge (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-9583-5363",
+    "Danahé Paquin-Ricard (Environment and Climate Change Canada). ORCID: https://orcid.org/0000-0003-4570-2404"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the simulated, reanalysis, and observed data used in the study “Canadian Regional Climate Model Performance and Sensitivity Assessment for Hourly Precipitation” (Lahaie et al., 2025, JAMES).\n\nSimulated data include multiple CRCM6-GEM5 configurations differing in resolution (12 km or 2.5 km), microphysics scheme (Sundqvist or P3), land surface model (CLASS or ISBA), deep convection treatment (Kain–Fritsch or explicit), driving data (ERA5 or GEM5-12), and GEM version (5.0.2 or 5.1.1). Reanalysis data are taken from the ERA5 reanalysis, while observed data include versions 6 and 7 from IMERG, and Stage IV radar-gauge analysis over the CONUS.\n\nAll data cover a two-years period 2016–2017 and are provided in NetCDF format. All data were regridded to the IMERG 0.1° x 0.1° grid, with Gaussian smoothing applied to vertical velocity and total column water vapour, and precipitation aggregated to hourly frequency where necessary. The spatial domain corresponds to the full CRCM6-GEM5 2.5 km simulation domain (with latitudes north of 60° N removed).\n\nThe code to reproduce the analysis presented in the study is available at https://github.com/KimLahaie/CRCM6_HourlyPrecip_Eval."
+  ],
+  "dct_identifier_sm": [
+    "979255_837686_837687",
+    "https://doi.org/10.5683/SP3/M3SQ8P"
+  ],
+  "dct_issued_s": "2025-09-05",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/M3SQ8P\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: Canadian Regional Climate Model Performance and Sensitivity Assessment for Hourly Precipitation",
+  "gbl_mdModified_dt": "2026-02-09T19:35:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b7170f58-69b9-5b2b-8141-86f3c0f3184b",
+  "pcdm_memberOf_sm": [
+    "Centre pour l’étude et la simulation du climat à l’échelle régionale (ESCER) // ESCER - Simulations"
+  ],
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -110.0, 56.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "In 2002 the Alberta Geological Survey initiated a project to scan and digitize water well geophysical logs from Alberta Environment and Sustainable Resource Development (ESRD) water well data holdings. Casual and summer student staff scanned hard copy logs systematically by NTS mapsheet starting with the Cold Lake area. Scanned logs were digitized into Log ASCII Standard version 2 by Divestco Ltd. This data release consists of 8,763 LAS files, comprised mostly of resistivity logs, and a tab delimited index file. About 1% of the LAS files also contain a natural gamma log. The API number (APIN) in the log header refers to Alberta Environment's water well identifier number used at the time the logs were digitized. There are 205 records where the API number starts with 900. We were unable to confidently match the log file surface location to an AENV location for these records. The approximate aerial coverage is from latitude 49 degrees to 56 degrees N and from longitude 110 degrees to 120 degrees W. This work concluded in March, 2007."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/757d48de-b4cb-4855-9116-0b35704eb5de"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/757d48de-b4cb-4855-9116-0b35704eb5de\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Geophysical Wireline Well Logs from Alberta Environment and Sustainable Resource Development Water Well Drill Hole Data Holdings in Log ASCII Standard (LAS) Format",
+  "gbl_mdModified_dt": "2026-03-04T19:06:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f3e769b-e9e5-578a-931f-a3abc518a21b",
+  "locn_geometry": "ENVELOPE(-120.0, -110.0, 56.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

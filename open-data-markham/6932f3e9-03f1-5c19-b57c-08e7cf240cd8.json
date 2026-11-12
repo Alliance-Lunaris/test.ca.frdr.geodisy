@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.59, -79.21, 44.02, 43.78)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Sensor",
+    "Bluetooth"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Data Markham."
+  ],
+  "dct_description_sm": [
+    "Live feed of current travel time along key corridors on York Region's regional road network. Data is read from the Bluetooth Travel Time System maintained by the Traffic Signal Operations Division, Transportation Services. This feed generates an XML file every 5 minutes consisting of the live traffic statistics. Data is for travel time on Regional roads only, data for local municipalities is not included.<div><br /></div><div><ul><li>Select &quot;Open&quot; on this dataset to view the standard XML link.<br /></li><li>Field Definitions are available: <a href='https://ww6.yorkmaps.ca/traveltime/TravelTimeFeed_FieldDefinitions.pdf' target='_blank'>Travel Time Feed - Field Definitions</a></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "26a0e983c15142b8959239775924dcee",
+    "https://www.arcgis.com/home/item.html?id=26a0e983c15142b8959239775924dcee"
+  ],
+  "dct_issued_s": "2018-05-07",
+  "dct_publisher_sm": [
+    "Open Data Markham"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data-markham.opendata.arcgis.com/documents/york::travel-time-feed\"}",
+  "dct_rights_sm": [
+    "Please refer to \"York Region Open Data Licence\", searchable on this website."
+  ],
+  "dct_title_s": "Travel Time Feed",
+  "gbl_mdModified_dt": "2026-07-30T17:58:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6932f3e9-03f1-5c19-b57c-08e7cf240cd8",
+  "locn_geometry": "ENVELOPE(-79.59, -79.21, 44.02, 43.78)",
+  "schema_provider_s": "Open Data Markham"
+}

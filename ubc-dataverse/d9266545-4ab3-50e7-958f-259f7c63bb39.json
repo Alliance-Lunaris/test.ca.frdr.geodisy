@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Laboratory Populations",
+    "Population Assignment",
+    "Current time",
+    "Holocene",
+    "Lymantria dispar",
+    "SNP filtering",
+    "genotyping-by-sequencing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Picq, Sandrine (Université Laval).",
+    "Keena, Melody (Canadian Forest Service, US Forest Service).",
+    "Havill, Nathan (Université Laval).",
+    "Stewart, Don (Canadian Forest Service).",
+    "Pouliot, Esther (Canadian Forest Service, Natural Resources Canada).",
+    "Boyle, Brian (Université Laval).",
+    "Levesque, Roger C. (Université Laval).",
+    "Hamelin, Richard C. (University of British Columbia).",
+    "Cusson, Michel (Université Laval, Natural Resources Canada)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/2OHyXw2M-zavWmNemKXb1od2P3a06bb_Yvnr9aVCQ8E</p>\n<p><b>Storage size:</b> 6336655</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Forest invasive alien species are a major threat to ecosystem stability and can have enormous economic and social impacts. For this reason, preventing the introduction of Asian gypsy moths (AGM; Lymantria dispar asiatica and L. d. japonica) into North America has been identified as a top priority by North American authorities. The AGM is an important defoliator of a wide variety of hardwood and coniferous trees, displaying a much broader host range and an enhanced dispersal ability relative to the already established European gypsy moth (L. d. dispar). Although molecular assays have been developed to help distinguish gypsy moth subspecies, these tools are not adequate for tracing the geographic origins of AGM samples intercepted on foreign vessels. Yet, this type of information would be very useful in characterizing introduction pathways and would help North American regulatory authorities in preventing introductions. The present proof-of-concept study assessed the potential of single nucleotide polymorphism (SNP) markers, obtained through genotyping-by-sequencing (GBS), to identify the geographic origins of gypsy moth samples. The approach was applied to eight laboratory-reared gypsy moth populations, whose original stocks came from locations distributed over the entire range of L. dispar, comprising representatives of the three recognized subspecies. The various analyses we performed showed strong differentiation among populations (Fst ≥ 0.237), enabling clear distinction of subspecies and geographic variants, while revealing introgression near the geographic boundaries between subspecies. This strong population structure resulted in 100% assignment success of moths to their original population when 2327 SNPs were used. Although the SNP panels we developed are not immediately applicable to contemporary, natural populations because of distorted allele frequencies in the laboratory-reared populations we used, our results attest to the potential of genome-wide SNP markers as a tool to identify the geographic origins of intercepted gypsy moth samples.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Picq_et_al_2017_raw_and_filtered_SNP_data</h4><div class=\"o-metadata__file-description\">The file contains all of the SNP data used in our article. The files named HapMap.fas.txt, HapMap.hmc.txt and HapMap.hmp.txt were obtained with the de novo UNEAK pipeline and respectively contains sequence of the SNP tag/read, the tag/read counts of each allele of the SNPs in each individual and eventually the genotypes. These files were obtained with the following default parameter settings: minimum tag count c = 5, error tolerance rate in the network filter e = 0.03 and minimum minor allele frequency mnMAF = 0.05. The last file named LymantriaD_Picq_et_al_80%_coverage_MafHeHw_LD_20170920.vcf present the 2327 SNPs obtained after the different SNP filtering steps (see Table 2 in our article). The 133 outlier SNPs are present in this file.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151345_150149",
+    "https://doi.org/10.5683/SP2/SLPQAA"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/SLPQAA\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Assessing the potential of genotyping-by-sequencing-derived single nucleotide polymorphisms to identify the geographic origins of intercepted gypsy moth (Lymantria dispar) specimens: a proof-of-concept study",
+  "gbl_mdModified_dt": "2021-05-19T22:50:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d9266545-4ab3-50e7-958f-259f7c63bb39",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

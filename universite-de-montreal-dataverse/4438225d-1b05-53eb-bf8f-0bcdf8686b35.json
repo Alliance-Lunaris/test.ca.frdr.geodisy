@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Température de l’air, humidité relative, vitesse du vent, direction du vent, radiation photosynthétiquement active, température du sol, teneur en eau volumétrique, radiation solaire, radiation thermique, albédo, radiation nette, profondeur de la neige | Air temperature, relative humidity, wind speed, wind direction, photosynthetically active radiation, soil temperature, volumetric water content, shortwave radiation, longwave radiation, albedo, net radiation, snow depth."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Station de Biologie des Laurentides (Université de Montréal)."
+  ],
+  "dct_description_sm": [
+    "Glossaire des Abréviations Météorologiques  :\tBatt_volt_Min : Tension minimale de la batterie du système (Volts)\n-\tPTemp : Température potentielle (°C)\n-\tAirTC_2m_Avg : Température de l’air moyenne à 2 mètres au-dessus du sol (°C)\n-\tAirTC_20m_Avg : Température de l’air moyenne à 20 mètres au-dessus du sol (°C)\n-\tRH_2m_Avg : Humidité relative moyenne à 2 mètres au-dessus du sol (%)\n-\tRH_20m_Avg : Humidité relative moyenne à 20 mètres au-dessus du sol (%)\n-\tWS_ms : Vitesse du vent en mètres par seconde (m/s)\n-\tWindDir : Direction du vent en degrés (°) (0-360°, mesuré par rapport au nord)\n-\tWindDir_SD : Écart-type de la direction du vent (°)\n-\tParUP_Avg : Rayonnement photosynthétiquement actif entrant moyen (µmol m⁻² s⁻¹)\n-\tParDN_Avg : Rayonnement photosynthétiquement actif sortant moyen (µmol m⁻² s⁻¹)\n-\tParNET_Avg : Rayonnement photosynthétiquement actif net moyen (µmol m⁻² s⁻¹)\n-\tshort_up_Avg : Rayonnement solaire montant moyen (W/m²)\n-\tshort_dn_Avg : Rayonnement solaire descendant moyen (W/m²)\n-\tlong_up_Avg : Rayonnement thermique montant moyen (W/m²)\n-\tlong_dn_Avg : Rayonnement thermique descendant moyen (W/m²)\n-\tcnr4_T_C_Avg : Température moyenne mesurée par le capteur CNR4 (°C)\n-\tcnr4_T_K_Avg : Température moyenne mesurée par le capteur CNR4 (Kelvin)\n-\tlong_up_corr_Avg : Rayonnement thermique montant moyen corrigé pour les anomalies du capteur (W/m²)\n-\tlong_dn_corr_Avg : Rayonnement thermique descendant moyen corrigé pour les anomalies du capteur (W/m²)\n-\tRs_net_Avg : Rayonnement solaire net moyen (W/m²)\n-\tRl_net_Avg : Rayonnement thermique net moyen (W/m²)\n-\talbedo_Avg : Albédo moyen (sans dimension)\n-\tRn_Avg : Radiation nette moyenne (W/m²)\n-\tSoilTemp_Avg : Température moyenne du sol (°C)\n-\tRaw_Dist_Avg : Mesure moyenne de la distance brute (m)\n-\tSignalQuality_Avg : Qualité moyenne du signal (µSec)\n-\tTemp_Corr_Distance_Avg : Distance moyenne corrigée pour la température (m)\n-\tSnow_Depth_Avg : Profondeur moyenne de la neige (m)\n-       BP_raw_Avg : Pression atmosphérique (hPa) \n-       BP_mmHg_Avg : Pression atmosphérique (mm Hg) \n-       BP_kpa_Avg : Pression atmosphérique (kPa) \n\n | Glossary of Meteorological Abbreviations : Batt_volt_Min : Minimum voltage of the system battery (Volts) \n-\tPTemp : Potential temperature (°C) \n-\tAirTC_2m_Avg : Average air temperature at 2 meters above ground level (°C)\n-\tAirTC_20m_Avg : Average air temperature at 20 meters above ground level (°C)\n-\tRH_2m_Avg : Average relative humidity at 2 meters above ground level (%)\n-\tRH_20m_Avg : Average relative humidity at 20 meters above ground level (%)\n-\tWS_ms : Wind speed in meters per second (m/s)\n-\tWindDir : Wind direction in degrees (°) (0-360°, measured relative to north)\n-\tWindDir_SD : Standard deviation of the wind direction (°)\n-\tParUP_Avg: Average incoming photosynthetically active radiation (µmol m⁻² s⁻¹)\n-\tParDN_Avg : Average outgoing photosynthetically active radiation (µmol m⁻² s⁻¹)\n-\tParNET_Avg : Average net photosynthetically active radiation (µmol m⁻² s⁻¹)\n-\tshort_up_Avg : Average upward shortwave radiation (W/m²)\n-\tshort_dn_Avg : Average downward shortwave radiation (W/m²)\n-\tlong_up_Avg : Average upward longwave radiation (W/m²)\n-\tlong_dn_Avg : Average downward longwave radiation (W/m²)\n-\tcnr4_T_C_Avg : Average temperature measured by the CNR4 sensor (°C)\n-\tcnr4_T_K_Avg : Average temperature measured by the CNR4 sensor (Kelvin)\n-\tlong_up_corr_Avg : Average upward longwave radiation corrected for sensor anomalies (W/m²)\n-\tlong_dn_corr_Avg : Average downward longwave radiation corrected for sensor anomalies (W/m²)\n-\tRs_net_Avg : Average net solar radiation (W/m²)\n-\tRl_net_Avg : Average net longwave radiation (W/m²)\n-\talbedo_Avg : Average albedo (dimensionless)\n-\tRn_Avg : Average net radiation (W/m²)\n-\tSoilTemp_Avg : Average soil temperature (°C)\n-\tRaw_Dist_Avg : Average raw distance measurement (m)\n-\tSignalQuality_Avg : Average signal quality (µSec)\n-\tTemp_Corr_Distance_Avg : Average distance corrected for temperature (m)\n-\tSnow_Depth_Avg : Average snow depth (m)\n-       BP_raw_Avg : Atmospheric pressure (hPa) \n-       BP_mmHg_Avg : Atmospheric pressure (mm Hg) \n-       BP_kpa_Avg : Atmospheric pressure (kPa)",
+    "Ce jeu de données regroupe les observations météorologiques et liées au sol collectées à la Station de Biologie des Laurentides (SBL) entre 2019 et 2024 à l’aide du système d’enregistreur de données CR3000. Les mesures, prises en continu depuis la station, couvrent plusieurs paramètres environnementaux tels que la température de l’air à différentes hauteurs (2m, 20m), l’humidité relative à différentes hauteurs, la vitesse et la direction du vent, la radiation photosynthétiquement active (PAR), les températures du sol à différentes profondeurs (7cm, 16cm, 23cm, 33cm, 41cm, 54cm, 62cm), ainsi que d'autres flux de radiation comme la radiation solaire et thermique. Le jeu de données enregistre également le contenu en eau volumétrique du sol (VWC), l’albédo et la profondeur de la neige.",
+    "This dataset compiles meteorological and soil-related observations collected at the Station de Biologie des Laurentides (SBL) between 2019 and 2024 using the CR3000 data logger system. The measurements, taken continuously from the station, include various environmental parameters such as air temperature at different heights (2m, 20m), relative humidity at different heights, wind speed and direction, photosynthetically active radiation (PAR), soil temperatures at multiple depths (7cm, 16cm, 23cm, 33cm, 41cm, 54cm, 62cm), and other radiation fluxes like shortwave and longwave radiation. The dataset also records soil volumetric water content (VWC), albedo, and snow depth."
+  ],
+  "dct_identifier_sm": [
+    "877413_859423_859424",
+    "https://doi.org/10.5683/SP3/EGYUVP"
+  ],
+  "dct_issued_s": "2025-09-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EGYUVP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Données météorologiques (2019-2024) | Meteorological data (2019-2024)",
+  "gbl_mdModified_dt": "2025-09-29T20:00:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4438225d-1b05-53eb-bf8f-0bcdf8686b35",
+  "pcdm_memberOf_sm": [
+    "Colin Favret Dataverse // Station de Biologie des Laurentides"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

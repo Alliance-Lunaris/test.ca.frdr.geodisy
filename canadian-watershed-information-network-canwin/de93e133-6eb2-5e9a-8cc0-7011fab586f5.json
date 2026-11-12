@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "**1. Overview**\n\nPre-CanLaD v2 updates Canada's 1965-1984 forest disturbance history dataset initially published by Correia et al. (2024) with enhanced detection methods and improved temporal accuracy and coverage.\n\n**2. Key Updates in pre-CanLaD v2**\n\n\n**2.1. Enhanced Detection**\n\n- Fractional land-cover change analysis identifies post-disturbance forest regeneration using 1985-2020 vegetation cover differences\n- Dual detection approach combines automated polygon-based classification with manual photo-interpretation\n- Incorporates National Burn Area Composite (NBAC; Skakun et al., 2022) 1972-1984 fire perimeters for improved fire year attribution\n\n**2.2. Detection Results**\n\nSee **Table 1 in the update report**, available in the download section below. This table presents the total disturbed areas, by disturbance type, for the periods 1950–1964 and 1965–1984.\n\nThe “New detection” column represents disturbed areas for which no reliable previous data were available. The “Previously recorded” column represents disturbed areas already documented in the datasets described in Table 3 of Correia et al. (2024) and NBAC, for which the predicted disturbance year was subsequently adjusted.\n\n**3. Dataset description**\n\n   Four raster layers available:\n\n- preCanLaD_disturbanceType_v2_20251126.tif \n    - Pixel values are disturbance type:\n        - 2 = Fire\n        - 3 = Harvest\n        - 4 = Insect\n- preCanLaD_disturbanceYear_v2_20251126.tif \n    - Pixel values are disturbance year:\n        - 1950-1984 = years\n        - 999 = unknown (user should convert this value to 1955)\n- preCanLaD_correctionMask_v2_20251126.tif \n    - Pixel values are data provenance codes:\n        - 0 = Pre-CanLaD-only disturbance \n        - 1 = Confirmed fire (manual or confirmed by pre-CanLaD v1 in the original publication) \n        - 11 = Canadian National Fire Database (CNFDB) corrected fire \n        - 12 = NBAC-corrected fire\n        - 2 = Confirmed harvest \n- preCanLaD_updateMask_v2_20251126.tif \n    - Pixel values are version change indicator:\n        - 1 = v1 retained\n        - 2 = v2 new/updated\n\n**4. Key Improvements**\n\n- Improved fire-harvest discrimination through provincial harvest polygon integration\n- Hierarchical dating system prioritizes NBAC > CNFDB polygons > CNFDB points > model-based dates > manual interpretation and unknown dates\n- Better harmonization with current historic disturbance records\n- Quality controls: 11-pixel minimum patch size, 1985-2020 disturbance masking\n\n**5. Known Limitations**\n\n- Some temporal uncertainty remains; grouping disturbance years into age classes can help mitigate its effects.High-severity burns preferentially detected; low-severity fires may be missed, along with fires in non-forested and open forest areas with low forest recovery rates\n- Some fire-harvest confusion in transition zones\n- Harvest detections may be biased toward provinces with publicly available forest inventories because the pre-CanLaD v2 method relies on these inventories to identify additional harvested areas\n- No pixel-level dates for insect outbreaks\n\n**6. Data download**\n\nThe data can be downloaded from the FTP server (ftp.maps.canada.ca/pub/nrcan_rncan/Forests_Foret/canada_disturbances_1965to1984/v2/), referenced in the “Data and Resources” section, using a browser download manager, such as DownThemAll, or an external client such as FileZilla.\n\n**7. Dataset citation**\n\n- Guindon L., Correia D.L.P. and S. Brisson. 2026. Pre-CanLaD v2: Canada Landsat Disturbance (CanLaD) 30-m resolution disturbance detection prior to 1984. https://doi.org/10.23687/8d49698f-40f9-40da-b097-a3f4c90adf5a\n\n**8. Reference**\n\n- Correia, David L., Luc Guindon, and Marc-André Parisien. 2024. “Extending Canadian Forest Disturbance History Maps Prior to 1985.” Ecosphere 15 (8): e4956.\n- Natural Resources Canada. 2023. Canadian National Fire Database Natural Resources Canada. Edmonton: Canadian Forest Service, Northern Forestry Centre. https://cwfis.cfs.nrcan.gc.ca. \n- Skakun, R., G. Castilla, J. Metsaranta, E. Whitman, S. Rodrigue, J. Little, K. Groenewegen, and M. Coyle. 2022. “Extending the National Burned Area Composite Time Series of Wildfires in Canada.” Remote Sensing 14: 3050.\n\n___\nFor detailed methodology, see download links, file “Pre-CanLaD_v2_Update_report_EN.pdf”"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8d49698f-40f9-40da-b097-a3f4c90adf5a"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8d49698f-40f9-40da-b097-a3f4c90adf5a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Pre-CanLaD v2: Canada Landsat Disturbance (CanLaD) 30-m resolution disturbance detection prior to 1984",
+  "gbl_mdModified_dt": "2026-04-22T12:00:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "de93e133-6eb2-5e9a-8cc0-7011fab586f5",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

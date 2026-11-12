@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.0863, -49.3855, 49.8781, 33.0886)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The blue whale (Balaenopterus musculus) is a wide-ranging cetacean that can be found in all oceans, inhabiting coastal and oceanic habitats. In the North Atlantic, little is known about blue whale distribution and genetic structure, and if whether animals found in Icelandic waters, the Azores, or Northwest Africa are part of the same population as those from the Northwest Atlantic. In the Northwest Atlantic, seasonal movements of blue whales and habitat use, including the location of breeding and wintering areas, are poorly understood.\n\nThe behaviour of remotely-monitored animals can be inferred from a time series of location data. This is because animals tend to demonstrate stochasticity in their movement paths as a result of spatial variation in environmental characteristics, such as topography or prey density (Curio 1976; Gardner et al. 1989; Turchin 1991; Wiens et al. 1993). Predators are expected to decrease travel speed and/or increase turning frequency and turning angle when a suitable resource, e.g., food patch, is encountered (Turchin 1991), otherwise known as area-restricted search (ARS). In contrast, animals in transit or travelling tend to move at faster and more regular speeds, with infrequent and smaller turning angles (Kareiva and Odell 1987; Turchin 1998).\n\nBased on satellite telemetry to track the seasonal movements of 24 blue whales from eastern Canada in 2002 and from 2010 to 2015, it was possible to estimate trajectories and locations where ARS behaviour of blue whales was inferred at a 4h time interval.\n\nTo assess blue whale movements and behavior, a Bayesian switching statespace model (SSSM) was applied to Argos-derived telemetry data (Jonsen et al. 2005; Jonsen et al. 2013). An SSSM essentially estimates animal location at fixed time intervals, movement parameters and behavioral patterns.\n\nTwo important sources of uncertainty can be measured separately: estimation error resulting from inaccurate observations (Argos location error) and process variability linked to the stochasticity of the movement process (behavior mode estimation) (Jonsen et al. 2003; Patterson et al. 2008).\n\nThe points visible on land are the result of errors in the Argos geographic position calculation. They have been deliberately left unchanged to assess the performance of the model, which was able to clean up some positions, but not all.\n\nLesage, V., Gavrilchuk, K., Andrews, R.D., and Sears, R. 2016. Wintering areas, fall movements and foraging sites of blue whales satellite-tracked in the Western North Atlantic. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/078. v + 38 p."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c9ce635c-a6e6-430b-95da-62241d03ceba"
+  ],
+  "dct_issued_s": "2024-06-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c9ce635c-a6e6-430b-95da-62241d03ceba\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Blue whale - Trajectories and locations of Area-Restricted Search",
+  "gbl_mdModified_dt": "2026-03-24T08:03:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "976cac80-a7c9-54f3-beb7-1f7b877cbfe6",
+  "locn_geometry": "ENVELOPE(-76.0863, -49.3855, 49.8781, 33.0886)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.14969509674025, -79.530646385514, 43.99312821424354, 43.48011001437692)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Boundaries",
+    "collection zone",
+    "Recycling",
+    "Waste",
+    "Green bin",
+    "collection day",
+    "collection area",
+    "collection",
+    "service"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p><b>Visit <a href='https://www.peelregion.ca/waste/' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.peelregion.ca/waste/</a> if you want to find out when your waste collection day is.</b>  The zones used for the collection of solid waste (garbage, recycling [blue bin], and organics [green bin]). COLLECTDAY defines the day of the week. COLLECTSUB defines the alternation between garbage and recyling pickup from week to week. If a collection sub group for Monday &quot;A&quot; has garbage collected on a particular week, Monday &quot;B&quot; will have recycling collected that same week. Organics (green bin) is collected every week.</p><p><span>The zones generally follow the centre line of the Roads. However, properties on both sides of a road that straddles a boundary may have the same collection day (to minimize resident confusion). Thus, if you are defining properties (or addresses) within each collection day, there may be some exceptions along these boundaries.<br /></span></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "7475226f2c8345f4b9a6e0e81e093d14",
+    "https://www.arcgis.com/home/item.html?id=7475226f2c8345f4b9a6e0e81e093d14"
+  ],
+  "dct_issued_s": "2019-11-29",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::waste-collection-areas\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Waste Collection Areas",
+  "gbl_mdModified_dt": "2024-01-13T15:51:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bbf9b167-ec43-5aca-a4ad-0b12a624932b",
+  "locn_geometry": "ENVELOPE(-80.14969509674025, -79.530646385514, 43.99312821424354, 43.48011001437692)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

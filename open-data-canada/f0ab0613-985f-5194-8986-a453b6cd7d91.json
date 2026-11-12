@@ -1,0 +1,81 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -110.0, 56.0, 49.0)",
+  "dcat_keyword_sm": [
+    "72E",
+    "WATER-WELLS",
+    "ALBERTA",
+    "82G",
+    "CANADA",
+    "82P",
+    "83B",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "82J",
+    "83I",
+    "72M",
+    "WATER",
+    "83D",
+    "83E",
+    "72L",
+    "73E",
+    "82H",
+    "73D",
+    "82N",
+    "83N",
+    "83H",
+    "83J",
+    "83K",
+    "GEOPHYSICAL-LOGS",
+    "83G",
+    "82O",
+    "73M",
+    "83F",
+    "82I",
+    "LOG",
+    "83A",
+    "GEOLOGY",
+    "83P",
+    "73L",
+    "83M",
+    "83C",
+    "83O",
+    "83L",
+    "GROUNDWATER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Journaux géophysiques des puits filaires provenant des fonds de données sur les forages de puits d'eau détenus par le ministère de l'Environnement et du Développement durable des ressources de l'Alberta au format Log ASCII Standard (LAS)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "In 2002 the Alberta Geological Survey initiated a project to scan and digitize water well geophysical logs from Alberta Environment and Sustainable Resource Development (ESRD) water well data holdings. Casual and summer student staff scanned hard copy logs systematically by NTS mapsheet starting with the Cold Lake area. Scanned logs were digitized into Log ASCII Standard version 2 by Divestco Ltd. This data release consists of 8,763 LAS files, comprised mostly of resistivity logs, and a tab delimited index file. About 1% of the LAS files also contain a natural gamma log. The API number (APIN) in the log header refers to Alberta Environment's water well identifier number used at the time the logs were digitized. There are 205 records where the API number starts with 900. We were unable to confidently match the log file surface location to an AENV location for these records. The approximate aerial coverage is from latitude 49 degrees to 56 degrees N and from longitude 110 degrees to 120 degrees W. This work concluded in March, 2007.",
+    "En 2002, l'Alberta Geological Survey a lancé un projet visant à scanner et à numériser les registres géophysiques des puits provenant des fonds de données sur les puits de l'Alberta Environment and Sustainable Resource Development (ESRD). Le personnel des étudiants occasionnels et des étudiants d'été scannait systématiquement les journaux papier à l'aide d'une feuille de carte NTS en commençant par la région de Cold Lake. Les journaux numérisés ont été numérisés en Log ASCII Standard version 2 par Divestco Ltd. Cette publication de données comprend 8 763 fichiers LAS, principalement des journaux de résistivité, et un fichier d'index délimité par des tabulations. Environ 1 % des fichiers LAS contiennent également un journal gamma naturel. Le numéro API (APIN) figurant dans l'en-tête du journal fait référence au numéro d'identification des puits d'eau d'Alberta Environment utilisé au moment de la numérisation des journaux. Il existe 205 enregistrements dont le numéro d'API commence par 900. Nous n'avons pas été en mesure de faire correspondre avec certitude l'emplacement de la surface du fichier journal à un emplacement AENV pour ces enregistrements. La couverture aérienne approximative va de 49 degrés à 56 degrés de latitude N et de 110 degrés de longitude à 120 degrés W. Ces travaux ont été achevés en mars 2007.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/757d48de-b4cb-4855-9116-0b35704eb5de"
+  ],
+  "dct_issued_s": "2014-01-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/757d48de-b4cb-4855-9116-0b35704eb5de\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Geophysical Wireline Well Logs from Alberta Environment and Sustainable Resource Development Water Well Drill Hole Data Holdings in Log ASCII Standard (LAS) Format",
+  "gbl_mdModified_dt": "2026-03-04T19:06:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f0ab0613-985f-5194-8986-a453b6cd7d91",
+  "locn_geometry": "ENVELOPE(-120.0, -110.0, 56.0, 49.0)",
+  "schema_provider_s": "Open Data Canada"
+}

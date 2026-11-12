@@ -1,0 +1,67 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "teneur en carbone",
+    "peatlands",
+    "densité apparente",
+    "Canada",
+    "bulk density",
+    "ash content",
+    "Sol",
+    "Chimie",
+    "peat chemistry",
+    "Canada",
+    "Scientific research",
+    "tourbières",
+    "biogéochimie",
+    "biogeochemistry",
+    "Soil",
+    "Chemistry",
+    "base de données sur les profils de tourbe",
+    "propriétés de la tourbe",
+    "carbon content",
+    "Écosystème",
+    "chimie de la tourbe",
+    "Recherche scientifique",
+    "Eau",
+    "Ecosystems",
+    "peat profile database",
+    "Teneur en cendres",
+    "peat properties",
+    "Water"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base de données sur les profils de tourbe"
+  ],
+  "dct_creator_sm": [
+    "Kara Webster."
+  ],
+  "dct_description_sm": [
+    "Peatlands cover approximately 12% of the Canadian landscape and play an important role in the carbon cycle through their centennial to millennial-scale storage of carbon under waterlogged and anoxic conditions. In recognizing the potential of these ecosystems as natural climate solutions and therefore the need to include them in national greenhouse gas inventories, the Canadian Model for Peatlands module (CaMP v. 2.0) was developed by the Canadian Forest Service. Model parameterization included compiling peat profiles across Canada to calibrate peat decomposition rates from different peatland types, to define typical bulk density profiles, and to describe the hydrological (i.e., water table) response of peatlands to climatic changes. A total of 1,217 sites were included in the dataset from published and unpublished sources. The CORESITES table contains site location and summary data for each profile, as well as an estimate of total carbon mass per unit area (megagrams C ha-1). Total carbon mass per unit area at each location was calculated using bulk density and carbon content through each profile. The PROFILES table contains data for depth (cm), bulk density (g cm-3), ash and carbon content (%), and material descriptions for contiguous samples through each peat profile. Data gaps for bulk density and C content were filled using interpolation, regression trees, and assigned values based on material description and/or soil classification to allow for the estimation of total carbon mass per unit area. A subset of the sites (N = 374) also have pH and pore water trace-elemental geochemistry data and are found in the WATER table. The REFERENCES table contains the full citation of each source of the data and is linked to each core location through the SOURCEDATA table. The LOOKUP table defines codes in the database that required more space than what was sufficient in the metadata tables. The data will be useful for future work on carbon stock mapping and ecosystem modelling.",
+    "Les tourbières couvrent environ 12 % du paysage canadien et jouent un rôle important dans le cycle du carbone en stockant le carbone à l'échelle centenaire ou millénaire dans des conditions d'engorgement et d'anoxie. Reconnaissant le potentiel de ces écosystèmes en tant que solutions climatiques naturelles et donc la nécessité de les inclure dans les inventaires nationaux de gaz à effet de serre, le Service canadien des forêts a mis au point le module du Modèle canadien des tourbières (CaMP v. 2.0). Le paramétrage du modèle comprenait la compilation de profils de tourbe à travers le Canada afin de calibrer les taux de décomposition de la tourbe à partir de différents types de tourbières, de définir des profils typiques de densité apparente et de décrire la réponse hydrologique (c.-à-d. la nappe phréatique) des tourbières aux changements climatiques. Au total, 1 217 sites ont été inclus dans l'ensemble de données provenant de sources publiées et non publiées. Le tableau CORESITES contient la localisation des sites et des données sommaires pour chaque profil, ainsi qu'une estimation de la masse totale de carbone par unité de surface (mégagrammes C ha-1). La masse totale de carbone par unité de surface à chaque emplacement a été calculée en utilisant la densité apparente et la teneur en carbone dans chaque profil. Le tableau PROFILES contient des données sur la profondeur (cm), la densité apparente (g cm-3), la teneur en cendres et en carbone (%) et la description des matériaux pour des échantillons contigus dans chaque profil de tourbe. Les lacunes dans les données relatives à la densité apparente et à la teneur en carbone ont été comblées à l'aide d'interpolations, d'arbres de régression et de valeurs attribuées sur la base de la description des matériaux et/ou de la classification des sols, afin de permettre l'estimation de la masse totale de carbone par unité de surface. Un sous-ensemble de sites (N = 374) dispose également de données sur le pH et la géochimie des éléments traces de l'eau interstitielle, qui figurent dans le tableau EAU. La table REFERENCES contient la citation complète de chaque source de données et est liée à chaque emplacement de carotte par l'intermédiaire de la table SOURCEDATA. La table LOOKUP définit les codes de la base de données qui ont nécessité plus d'espace que ce qui était suffisant dans les tables de métadonnées. Les données seront utiles pour les futurs travaux de cartographie des stocks de carbone et de modélisation des écosystèmes."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e287b0dd-8b07-435b-8a76-0c7ec84ac228"
+  ],
+  "dct_issued_s": "2024-05-21",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e287b0dd-8b07-435b-8a76-0c7ec84ac228\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Peat Profile Database",
+  "gbl_mdModified_dt": "2026-01-20T18:00:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "62af1bb8-bc62-5b14-89b2-01bd9dd6d97a",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

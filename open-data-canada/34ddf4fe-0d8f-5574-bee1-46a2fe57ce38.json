@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.5428, -100.6336, 59.6273, 49.1861)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "meteorology",
+    "aermet",
+    "environment",
+    "saskatchewan modelling",
+    "air quality",
+    "air dispersion",
+    "aermod"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Téléchargement du fichier d'entrée AERMOD par emplacement"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "This dataset is a locational record of the meteorological input files publically available on Saskatchewan GeoHub that can be used with the Environmental Protection Agency approved Regulatory Model (AERMOD). Each file represents the meteorology over an area of the province while minimizing the influences of local terrain on air flow. Additional attribute information for each location includes coordinates and a link to download the AERMOD data as a zip file.  \n  \n  The Air Quality Section of the Ministry of Environment uses air quality modelling to simulate how air pollutants disperse in the ambient atmosphere in order to help manage the air quality in the province. The models are used to estimate the impact of air pollutants emitted from emission sources, and are typically employed to determine whether existing or new proposed industrial facilities are or will be in compliance with the ambient air quality standards outlined in Table 20 of the province's Environmental Code, June 1, 2015 under The Environmental Management and Protection Act, 2010.  The information needed to run dispersion models consists primarily of emissions and meteorological data. Five years (2012-2016) of preprocessed meteorological datasets in an AERMOD ready format is publicly available. This file is contained in the downloadable zipped file. The zipped file contains five files: the SFC and PFL files are the AERMOD ready files required to run AERMOD (i.e., data, sensible heat flux, frictional velocity, potential temperature gradient, vertical velocity, mixing height, monin-obukhov length, surface roughness, Bowen ratio, albedo, scalar wind speed, wind direction, ambient temperature, precipitation, precipitation rate, relative humidity, surface pressure, and total cloud amounts); the DAT file contains the land use information (i.e., Surface roughness, Bowen ratio and albedo) chosen for each month in the SFC file; the KMZ file contains the wind rose for that location which can be used on Google Earth; and the PNG file contains various graphs of monthly or diurnal meteorological distribution (i.e., temperature, wind speed, daytime mixing heights and sensible heat flux, and stability) which can be used to help determine if that location is representative of the area proposed for modelling.  Please note: Since this data is newly developed, it is possible there may be issues with the data as it gets used in more applications. Ongoing changes, edits and updates may be made by the Air Quality Section of the Ministry of Environment. Is is recommended for any future modelling to download the latest version of the input files and not archive any input files on your own server for future use, unless this notification no longer exists. If there are any issues discovered with data in the zipped file, please contact Dennis Fudge at dennis.fudge@gov.sk.ca or at 306-519-7105. Your support will be greatly appreciated.  There may be times you feel that the input files are not representative of the proposed modelling domain due to the surrounding features (i.e., forest/agricultural or rural/urban) being different than those used to generate the input files. If that is the case, the modeler can generate the input modelling files themselves. The relevant files to generate these input files are available upon request. Please contact Dennis Fudge at dennis.fudge@gov.sk.ca or at 306-519-7105.",
+    "Cet ensemble de données est un enregistrement de localisation des fichiers d'entrée météorologiques accessibles au public sur Saskatchewan GeoHub qui peuvent être utilisés avec le modèle de réglementation approuvé par l'Agence de protection de l'environnement (AERMOD). Chaque fichier représente la météorologie d'une région de la province tout en minimisant l'influence du terrain local sur la circulation de l'air. Les informations d'attributs supplémentaires pour chaque emplacement incluent les coordonnées et un lien pour télécharger les données AERMOD sous forme de fichier zip.  \n  \n  La Section de la qualité de l'air du ministère de l'Environnement utilise la modélisation de la qualité de l'air pour simuler la façon dont les polluants atmosphériques se dispersent dans l'atmosphère ambiante afin d'aider à gérer la qualité de l'air dans la province. Les modèles sont utilisés pour estimer l'impact des polluants atmosphériques émis par les sources d'émission et sont généralement utilisés pour déterminer si les installations industrielles existantes ou nouvelles proposées sont ou seront conformes aux normes de qualité de l'air ambiant décrites dans le tableau 20 du Code environnemental de la province du 1er juin 2015 en vertu de la Loi sur la gestion et la protection de l'environnement de 2010. Les informations nécessaires pour exécuter des modèles de dispersion se composent principalement de données météorologiques et d'émissions. Cinq ans (2012-2016) d'ensembles de données météorologiques prétraités dans un format prêt pour AERMOD sont accessibles au public. Ce fichier est contenu dans le fichier zippé téléchargeable. Le fichier compressé contient cinq fichiers : les fichiers SFC et PFL sont les fichiers prêts pour AERMOD nécessaires à l'exécution d'AERMOD (données, flux de chaleur sensible, vitesse de friction, gradient de température potentiel, vitesse verticale, hauteur de mélange, longueur de monin-obukhov, rugosité de surface, coefficient de Bowen, albédo, vitesse scalaire du vent, direction du vent, température ambiante, précipitations, taux de précipitation, humidité relative, pression de surface et quantités totales de nuages) ; le fichier DAT contient les informations sur l'utilisation des sols (rugosité de surface, ratio de Bowen et albédo) choisies pour chaque mois dans le Fichier SFC ; le fichier KMZ contient la rose des vents de cet endroit, qui peut être utilisée sur Google Earth ; et le fichier PNG contient divers graphiques de la distribution météorologique mensuelle ou diurne (température, vitesse du vent, hauteurs de mélange diurnes, flux de chaleur sensible et stabilité) qui peuvent être utilisés pour déterminer si cet emplacement est représentatif de la zone proposée pour la modélisation. Remarque : étant donné que ces données sont récemment développées, il est possible qu'elles présentent des problèmes au fur et à mesure de leur utilisation dans un plus grand nombre d'applications. Des modifications, des modifications et des mises à jour continues peuvent être apportées par la section de la qualité de l'air du ministère de l'Environnement. Pour toute modélisation future, il est recommandé de télécharger la dernière version des fichiers d'entrée et de ne pas archiver de fichiers d'entrée sur votre propre serveur pour une utilisation future, à moins que cette notification n'existe plus. Si des problèmes sont découverts avec les données du fichier compressé, veuillez contacter Dennis Fudge à l'adresse dennis.fudge@gov.sk.ca ou au 306-519-7105. Votre soutien sera grandement apprécié. Il peut arriver que vous ayez l'impression que les fichiers d'entrée ne sont pas représentatifs du domaine de modélisation proposé en raison des caractéristiques environnantes (c'est-à-dire forestière/agricole ou rurale/urbaine) qui sont différentes de celles utilisées pour générer les fichiers d'entrée. Si tel est le cas, le modeleur peut générer lui-même les fichiers de modélisation en entrée. Les fichiers nécessaires à la génération de ces fichiers d'entrée sont disponibles sur demande. Veuillez contacter Dennis Fudge à dennis.fudge@gov.sk.ca ou au 306-519-7105.   \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4992d610-ac23-21ca-6aa3-8c19af3a169e"
+  ],
+  "dct_issued_s": "2022-03-09",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4992d610-ac23-21ca-6aa3-8c19af3a169e\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "AERMOD Input File Download by Location",
+  "gbl_mdModified_dt": "2025-02-05T19:05:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34ddf4fe-0d8f-5574-bee1-46a2fe57ce38",
+  "locn_geometry": "ENVELOPE(-109.5428, -100.6336, 59.6273, 49.1861)",
+  "schema_provider_s": "Open Data Canada"
+}

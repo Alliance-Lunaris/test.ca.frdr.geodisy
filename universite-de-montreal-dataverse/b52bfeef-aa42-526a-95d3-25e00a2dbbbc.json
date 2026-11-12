@@ -1,0 +1,60 @@
+{
+  "dcat_keyword_sm": [
+    "Lacs poissonneux",
+    "Lacs sans poissons",
+    "Freshwater",
+    "Amphibiens",
+    "Zooplankton",
+    "Propriétés physicochimiques",
+    "Lacs de kettle",
+    "Fishless lakes",
+    "Zooplancton d'eau douce",
+    "Fish",
+    "Physicochemical properties",
+    "Poissons",
+    "Fish-bearing lakes",
+    "Kettle lakes",
+    "Amphibians"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Barrette, Ariane (Université du Québec en Abitibi-Témiscamingue, Groupe de recherche interuniversitaire en limnologie (GRIL)). ORCID: https://orcid.org/0009-0002-0201-4556",
+    "Turgeon, Katrine (Université du Québec en Outaouais, Groupe de recherche interuniversitaire en limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2528-130X",
+    "Feldman, Mariano J. (Forest Science and Technology Center of Catalonia, Forest Science and Technology Centre of Catalonia). ORCID: https://orcid.org/0000-0002-2966-5562",
+    "Grosbois, Guillaume (groupe de recherche interuniversitaire en limnologie, Groupe de recherche interuniversitaire en limnologie (GRIL), Université du Québec en Abitibi-Témiscamingue, Swedish University of Agricultural Sciences). ORCID: https://orcid.org/0000-0002-1306-8528"
+  ],
+  "dct_description_sm": [
+    "Variables and their units are as follows for each files: \n\nanalyse_chlorophylle_a: Site; Replicat; Sampling date; Date of analysis; Hour of analysis; Analyst; Filtred volume (mL); Volume of ethanol used during extraction (mL); Fluorescence value of the sample before fluorescence Fo and after Fa; Fo and Fa values corrected; Slope of the standard curve K; Average ratio Fm of Fo corrected/Fa corrected for the standard curve; Chlorophyl a (µg/L); Phaeophytin (µg/L).\n\nanuran_callingscores: Site; Year; Month; Day; Time24H; RecordingQuality; DisturbanceType; calling scores of aname (Anaxyrus americanus), licl (Lithobates clamitans), lise (Lithobates septentrionalis), lisy (Lithobates sylvaticus) and pscr (Pseudacris crucifer) based on the North American Amphibian Monitoring Program (2005). \n\ndates_sampling: Site; Sampling dates of phyico-chemical parameters, zooplankton, dissolved organic carbon; Dates and times of installation and removal of acoustic recorders; Number of hours of fishing (h).\n\nDIC_DOC_2024: inorganic carbon (mg/L), organic carbon (mg/L), standard deviation, %CV\n\negg_masses_2024: Date; Sampling period (first or second); Julien Day; Observers; Sampling time: Site; Species; Life stage; Total abundance per site; Abundance per egg mass; Egg masses count per lake; Notes.\n\neskerlakes_location_connectivity_fish: Site; Coordinates (WGS 84/ UTM Zone 18N) where x represents easting and y represents northing in meters; Connectivity (0 for Disconnected, 1 for Connected); Fish presence (0 for absence, 1 for presence). \n\nfish_sampling_2024: Date; Julien Day; Site; Members of the team; Fishing gear; Species; Abundance; Total length (cm); Weight (g); Notes.\n\nlarvae_amphibian_2024: Date; Julien Day; Site; Members of the team; Fishing gear; Species; Life stage; Abundance; Total length (cm); Weight (g); Notes.\n\nlight_attenuation: Lake; Date; Depth (m); Incident irradiance (air); Underwater light intensity (water)\n\nlong_temps_transect: Site; Sampling period; Transect length (m); Sample duration (00m00s).\n\nN-2024: Sample ID; Concentration (ppm); Corrected concentration (ppm); Notes.\n\nP-2024: Sample ID; Absorbance at 890nm; Absorbance at 890nm; Concentration (µg/L); Notes. \n\nphysico-chemistry: Site; Dissolved oxygen concentration (µmg/L); Temperature (°C); pH; specific conductivity (µS/cm); Dissolved oxygen saturation (%).\n\nzooplankton_summer2024_eskerlakes: Site; Replicat; Volume of filtered water (L); Sampling date; Division factor; Identification date; Analyst; Abundance of each taxon per replicat per site.\n\nRelated publication will be updated when manuscript accepted.",
+    "[English] Data were collected in 36 kettle lakes between April 29 and August 9, 2024 in Québec, Canada. Lakes were classified according to the presence or absence of fish and their hydrological connectivity (connected or disconnected from surrounding aquatic ecosystems).\n\nPhysico-chemical parameters expected to influence amphibian, fish, and zooplankton assemblages were measured in each lake. Fish presence or absence was assessed by deploying three baited minnow traps and one fyke net overnight in each lake. Amphibian communities were assessed using acoustic recorders to detect calling score of adult males, visual surveys to count amphibian egg masses, and larvae and newts were sampled using minnow traps and a fyke net. Zooplankton sampling was conducted using a plankton net. \n\nThe purpose of the dataset was to evaluate how fish presence and hydrological connectivity influence amphibian and zooplankton community composition, abundance, and diversity in kettle lake ecosystems. A preprint has been published (https://doi.org/10.64898/2026.01.22.700881) and the manuscript has been submitted to Freshwater Biology.",
+    "[Français] Les données ont été recueillies dans 36 lacs de kettle entre le 29 avril et le 9 août 2024 au Québec, Canada. Les lacs ont été classés selon la présence ou l'absence de poissons et leur connectivité hydrologique (connectés ou non aux écosystèmes aquatiques environnants). Les paramètres physicochimiques susceptibles d'influencer les communautés d'amphibiens, de poissons et de zooplancton ont été mesurés dans chaque lac. La présence ou l'absence de poissons a été évaluée en déployant, pendant une nuit dans chaque lac, trois pièges à vairons appâtés et un filet de type fyke. Les communautés d'amphibiens ont été évaluées à l'aide d'enregistreurs acoustiques pour détecter le nombre de chants des mâles adultes, d'inventaires visuels pour dénombrer les pontes d'amphibiens, et les larves et les tritons ont été échantillonnés à l'aide de nasses à ménés et d'une nasse à poissons. L'échantillonnage du zooplancton a été réalisé à l'aide d'un filet à plancton. L'objectif de cette étude était d'évaluer comment la présence de poissons et la connectivité hydrologique influencent la composition, l'abondance et la diversité des communautés d'amphibiens et de zooplancton dans les écosystèmes des lacs de kettle. Une version preprint de l'étude a été publiée (https://doi.org/10.64898/2026.01.22.700881) et le manuscrit a été soumis à la revue Freshwater Biology."
+  ],
+  "dct_identifier_sm": [
+    "1034224_281357_281358",
+    "https://doi.org/10.5683/SP3/ONLQGX"
+  ],
+  "dct_issued_s": "2026-02-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ONLQGX\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Physico-chemical and biological data from 36 kettle lakes: fish, amphibian, and zooplankton communities [Quebec, Canada, 2024]",
+  "gbl_mdModified_dt": "2026-08-11T15:21:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b52bfeef-aa42-526a-95d3-25e00a2dbbbc",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

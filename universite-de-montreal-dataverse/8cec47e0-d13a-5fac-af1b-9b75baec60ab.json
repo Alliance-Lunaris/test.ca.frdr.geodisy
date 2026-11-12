@@ -1,0 +1,73 @@
+{
+  "dcat_keyword_sm": [
+    "Sols",
+    "Sedimentation rate",
+    "Sediment biogeochemical composition",
+    "Canada",
+    "Lakes",
+    "Geology",
+    "Paléolimnologie",
+    "Carbone inorganique",
+    "Focalisation des sédiments",
+    "Carbone organique",
+    "Soil",
+    "Lacs",
+    "Paleolimnology",
+    "Carbon burial",
+    "Vitesse de sédimentation",
+    "Géologie",
+    "Teneur en carbone des sédiments",
+    "Organic carbon",
+    "Composition biogéochimique des sédiments",
+    "Vitesse de dépôt",
+    "Sediment carbon content",
+    "Sediment focusing",
+    "Enfouissement du carbone",
+    "Inorganic carbon",
+    "Deposition rate"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Aulard, Candice (Université du Québec à Montréal, Université du Québec à Montréal Département des sciences biologiques, Montréal QC CA). ORCID: https://orcid.org/0009-0009-6372-574X",
+    "Gregory-Eaves, Irene (McGill University). ORCID: https://orcid.org/0000-0002-0380-5061",
+    "Dermot, Antoniades (Université Laval). ORCID: https://orcid.org/0000-0001-6629-4839",
+    "Baud, Alexandre (McGill University). ORCID: https://orcid.org/0000-0001-6333-1067",
+    "Ghanbari, Hamid (Université Laval). ORCID: https://orcid.org/0000-0002-9557-495X",
+    "Smol, John P. (Queen’s University, Queen's University). ORCID: https://orcid.org/0000-0002-2499-6696",
+    "Zilkey, David R. (McGill University). ORCID: https://orcid.org/0000-0002-8841-7665",
+    "del Giorgio, Paul A. (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and measurement units: CoreNumber = LakePulse lake identification composed of ecozone number (couple of exemptions) and incrimental lake number (no unit), EcozoneNumber = Ecozone identification number (no unit), Name_Ecozone = Name of the ecozone (no unit), Ecozone_Agg = Name of the aggregated ecozones (no unit), Year_sampling = year when the sediment core was sampled (no unit), per_TN = percentage of total nitrogen measured in the sediment core (%), per_TC = percentage of total carbon measured in the sediment core (%), per_OC = percentage of organic carbon measured in the sediment core (%), per_IC = percentage of inorganic carbon measured in the sediment core (%), MAR = sediment mass accumulation uncorrected for sediment focusing (g dry sediment m-2 y-1), TN_MAR = nitrogen burial rates uncorrected for sediment focusing (g m-2 y-1), TC_MAR = total carbon burial rates uncorrected for sediment focusing (g m-2 y-1), OC_MAR = organic carbon burial rates uncorrected for sediment focusing (g C m-2 y-1), IC_MAR = inorganic carbon burial rates uncorrected for sediment focusing (g C m-2 y-1), focus_ratio = focusing factor used to correct MAR for sediment focusing (unitless), MAR_corrected = sediment mass accumulation uncorrected for sediment focusing (g dry sediment m-2 y-1), TN_MAR_corrected = nitrogen burial rates corrected for sediment focusing (g N m-2 y-1), TC_MAR_corrected = total carbon burial rates corrected for sediment focusing (g C m-2 y-1), OC_MAR_corrected = organic carbon burial rates corrected for sediment focusing (g C m-2 y-1), IC_MAR_corrected = inorganic carbon burial rates corrected for sediment focusing (g C m-2 y-1), latitude = latitude (decimal degrees), longitude = longitude (decimal degrees), lake.area = lake area (km²), altitude = lake altitude (m), perimeter = lake perimeter (km), coring_depth = lake depth at which sediment core was sampled (m), lake.volume.total = total lake volume (mcm – million cubic meters), lake.average.depth = average lake depth (m), wshd_slope = average slope within a 100 meter buffer around the lake polygon (° - degrees), wshd_area = area of the watershed associated with the lake, dynamic_ratio = dynamic ratio, a parameter that indicates the lake shape, lower values indicates a bowl shape, higher value indicates plate shape (km m-1), drainage_ratio = drainage ratio, ratio of the watershed area and the lake area (unitless), shore_complex = shoreline complexity, index describing complexity of the lake shoreline, higher values indicate higher complexity (unitles), Secchi_depth = depth of Secchi disk disappearance (m), dic = dissolved inorganic carbon (DIC, mg C L-1), doc = dissolved organic carbon (DOC, mg L-1), CDOM_440 = Colored dissolved organic matter, measured at 444 nm wave length (440 m-1), tp_concentration = total phosphorus (TP, µg L-1), tn_concentration = total nitrogen (TN, mg L-1), calcium = calcium cation concentration (mg L-1), chla_concentration = chlorophyl a concentration (µg L-1), ph = potential of hydrogen, D_excess = deuterium excess (‰), Cropland = percentage of cropland (%), Grassland = percentage of grassland (%), Pasture = percentage of pasture (%), Forest = percentage of forest (%), Desert = percentage of desert (%), Openshrub = percentage of open shrub (%), Polardesert.Rock.Ice = percentage of polar desert, rock or ice (%), Tundra = percentage of tundra (%), Urban = percentage of urban (%), Water = percentage of water surface (%), Wetland = percentage of wetland surface (%), MAP = mean annual precipitation averaged from 1950 to 2010 (mm y-1), MAP = mean annual temperature averaged from 1950 to 2010 (°C), Brunisolic = fraction of brunisolic soil (fraction), Chernozemic = fraction of chernozemic soil (fraction), Cryosolic = fraction of cryosolic soil (fraction), Gleysolic = fraction of gleysolic soil (fraction), Luvisolic = fraction of luvisolic soil (fraction), Organic = fraction of organic soil (fraction), Podzolic = fraction of podzolic soil (fraction), Regosolic = fraction of regosolic soil (fraction), Solonetzic = fraction of solonetzic soil (fraction), NoData_soil = fraction of unavailable data (fraction), Nonapplicable = fraction of nonapplicable (fraction), soil.type = type of most abundant soil within the watershed (unitless), Intrusive = fraction of intrusive bedrock (fraction), Metamorphic = fraction of metamorphic bedrock (fraction), Sedimentray.volcanic = fraction of sedimentary volcanic bedrock (fraction), Sedimentary = fraction of sedimentary bedrock (fraction), Volcanic = fraction of volcanic bedrock (fraction), bedrock_unknown = fraction of unknown  bedrock (fraction), NoData_geol = fraction of unavailable data for bedrock (fraction), bedrock.type = type of most abundant bedrock within the watershed (unitless), Comment = comments (unitless).",
+    "The purpose of this dataset was to assess patterns in sediment C burial in lakes across Canada, to determine drivers of lake C burial at the continental scale, and to place lake C burial within the context of the landscape C balance. The database contains core sediment geochemical data, and complementary limnological, watershed land use, climate data for 105 lakes across Canada. Sediment cores and limnological samples were collected during summer months of 2017, 2018, and 2019 as part of the LakePulse Network research program. Watershed and lake morphometry variables were determined from the Canadian Digital Elevation Model dataset, catchments characteristics were extracted from Geological Survey of Canada, https://doi.org/10.4095/208175, soil type from Soil Landscape of Canada v.2.2 https://sis.agr.gc.ca/cansis/nsdb/slc/v2.2/index.html. Historical land use and historical climate were extracted using remote sensing after watershed delineation from respectively https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00814/html# and https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Sediment core geochemical data, sediment mass accumulation rates (MAR), C content, C burial rate correspond to the core average from the period 1950-2010. MAR was derived from 210Pb chronologies using the CRS dating model; C content (total, organic and inorganic) was measured with an elemental analyzer, and inorganic and organic C burial rates were calculated using MAR x C content. MAR and C burial rate were corrected for sediment focusing (MAR_corrected, C_MAR_corrected). Focusing factor was calculated using the ratio of measured inventory in the sediment core and atmospheric deposition, the latter from Government of Canada Radiological Monitoring (https://open.canada.ca/data/en/dataset/de113672-d813-4a88-965a-d99922485812)."
+  ],
+  "dct_identifier_sm": [
+    "1034460_281357_281358",
+    "https://doi.org/10.5683/SP3/CISGCO"
+  ],
+  "dct_issued_s": "2026-02-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CISGCO\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "LakePulse Network : Carbon burial, sediment mass accumulation rates, sediment carbon content and related environmental data (Canada, 2017-2019), associated to the paper “Continental scale patterns and drivers of organic and inorganic carbon burial in lakes across Canada”, by Aulard et al.",
+  "gbl_mdModified_dt": "2026-08-11T19:07:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8cec47e0-d13a-5fac-af1b-9b75baec60ab",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

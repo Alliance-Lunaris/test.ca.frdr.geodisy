@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Data table containing the odonyms of city streets.\nThe names were checked with the Quebec Toponymy Commission.\n\n**Collection context**\n Periodic manual additions and changes.\n\n**Collection method**\n Notifications by city legal departments.\n\n**Attributes**\n\n* `ID_ODONYME` (`integer`): Odonymous identifier\n* `ODONYM` (`varchar`): Odonym\n* `GEN_ODO` (`varchar`): Generic odonym\n* `LINE_ODO` (`varchar`): Odonymous link\n* `GEN_COURT` (`varchar`): Short generic\n* `ODO_COURT` (`varchar`): Short odonym\n* `ACTIVE` (`integer`): Active\n* `OFFICIAL_STATUS` (`integer`): Official status\n* `NOTICES_DESC` (`varchar`): Descriptive notice\n* `OLD_NAME` (`varchar`): Old name\n* `DISTRICT` (`varchar`): Distrito\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `DATE_OFFICIEL` (`smalldatetime`): Date of officialization\n* `ODO_COURT_COMPLET` (`varchar`): Full short odonym\n* `ODO_LONG_COMPLETE` (`varchar`): Full long odonym\n* `ODO_INDEX_COURT` (`varchar`): Short index odonym\n* `ODO_INDEX_LONG` (`varchar`): Long index odonym\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Table de données contenant les les odonymes de rues de la ville.\nLes noms ont été vérifiées avec la commission de toponymie du Québec.\n\n**Contexte de collecte**\n Ajouts et modifications périodiques manuels.\n\n**Méthode de collecte**\n Notifications par les services juridiques de la ville.\n\n**Attributs**\n\n* `ID_ODONYME` (`integer`) : Identifiant odonyme\n* `ODONYME` (`varchar`) : Odonyme\n* `GEN_ODO` (`varchar`) : Générique odonyme\n* `LIEN_ODO` (`varchar`) : Lien odonyme\n* `GEN_COURT` (`varchar`) : Générique court\n* `ODO_COURT` (`varchar`) : Odonyme court\n* `ACTIF` (`integer`) : Actif\n* `STATUT_OFFICIEL` (`integer`) : Statut officiel\n* `NOTICES_DESC` (`varchar`) : Notice descriptive\n* `ANCIEN_NOM` (`varchar`) : Ancien nom\n* `DISTRICT` (`varchar`) : District\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `DATE_OFFICIEL` (`smalldatetime`) : Date d'officialisation\n* `ODO_COURT_COMPLET` (`varchar`) : Odonyme court complet\n* `ODO_LONG_COMPLET` (`varchar`) : Odonyme long complet\n* `ODO_INDEX_COURT` (`varchar`) : Odonyme index court\n* `ODO_INDEX_LONG` (`varchar`) : Odonyme index long\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b8bf29ef-2dcd-4477-bb99-e0ce5cfb9eea"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b8bf29ef-2dcd-4477-bb99-e0ce5cfb9eea\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Table des noms de rues officiels - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:10:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4160de8b-385a-55ac-84d0-4f1959a6e3dd",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

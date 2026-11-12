@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.102965, -123.080431, 49.177093, 49.170301)",
+  "dcat_keyword_sm": [
+    "Invasive species mapping, Remote sensing, NDVI phenology, Peatland conservation, Spectral analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Duan, GuangLan (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "To explore an interactive visual summary of the project, visit the StoryMap at: https://arcg.is/1TGvL40\n\nThis StoryMap provides a public-facing, interactive narrative of the research process, including maps, figures, and key findings from the suitability analysis. It is designed for a broader audience including conservation practitioners, educators, and local stakeholders interested in peatland preservation and invasive species monitoring.",
+    "This study demonstrates the application of multi-temporal Normalized Difference Vegetation Index (NDVI) analysis and red-band spectral signatures from Sentinel-2 imagery to map the distribution of invasive highbush blueberry (Vaccinium corymbosum) within Richmond Nature Park, British Columbia. Located in the Lulu Island Bog, this critical peat ecosystem faces significant ecological threats from invasive species that disrupt native vegetation communities and alter hydrological processes. By analyzing seasonal NDVI variations across multiple time periods (February-November 2023) and incorporating red-band dominance filters to capture characteristic fall senescence patterns. In this study a habitat suitability model is developed that effectively predicts blueberry presence within the study area. The methodology yielded a strong positive correlation between predicted suitability scores and field-verified blueberry coverage (r = 0.81, p < 0.001), with the model explaining 65.5% of the variance in blueberry distribution patterns (adjusted R² = 0.64). September-October NDVI differences emerged as particularly powerful indicators of blueberry presence, capitalizing on distinctive fall coloration absent in native bog species. This cost-effective approach using freely available medium-resolution satellite imagery offers conservation managers a valuable tool for identifying priority intervention areas without requiring expensive high-resolution data sources. This study’s findings contribute to broader conservation efforts aimed at preserving endangered peat bog ecosystems and their critical carbon sequestration functions in the face of increasing climate change concerns."
+  ],
+  "dct_identifier_sm": [
+    "898260_73894_115983",
+    "https://doi.org/10.5683/SP3/XQZBDN"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XQZBDN\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Richmond, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Mapping Invasive Highbush Blueberry in Richmond Nature Park: A Multi-temporal Normalized Difference Vegetation Index (NDVI) and Spectral Analysis Approach for Peatland Conservation",
+  "gbl_mdModified_dt": "2025-04-22T16:47:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd805c9b-2c4a-550f-9758-4bbb61e2bbfc",
+  "locn_geometry": "ENVELOPE(-123.102965, -123.080431, 49.177093, 49.170301)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "BASIN",
+    "CATCHMENT",
+    "AFETUW",
+    "Government information",
+    "WATERSHED",
+    "ALBERTA-FLOW-ESTIMATION-TOOL-FOR-UNGAUGED-WATERSHEDS",
+    "DRAINAGE-LINE",
+    "ADJOINT-CATCHMENT",
+    "FLOW-DIRECTION",
+    "FLOW-PATTERNS",
+    "WATERSHED-DELINEATION",
+    "FLOW",
+    "GEOMETRIC-NETWORK",
+    "HUC",
+    "-CANADA",
+    "DRAINAGE",
+    "INLANDWATERS",
+    "FLOW-ACCUMULATION"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau de diffusion régulé AFETUW"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "AFETUW (Alberta Flow Estimation Tool for Ungauged Watersheds) is a rapid assessment tool used to estimate natural flows during the open water season (April-October) in ungauged watersheds. The AFETUW Regulated Stream Network GIS layer is a copy of the ArcHydro Phase II Provincial stream network with several added attribute fields. Attributes are set by the Regional Hydrologists to control the ungauged stream flow options administrated by the AFETUW Development Team for any stream reach or segment or for multiple streams within any defined area. The “Regulate” field is used to specify stream reaches that are regulated by an upstream control structure such as a dam. For a regulated stream, AFETUW flow estimation cannot be applied although a watershed boundary can still be delineated. This data layer can be viewed via AFETUW webapp at https://afetuw.alberta.ca/",
+    "L'AFETUW (Alberta Flow Estimation Tool for Ungauged Watersheds) est un outil d'évaluation rapide utilisé pour estimer les débits naturels pendant la saison des eaux libres (avril-octobre) dans les bassins versants non jaugés. La couche SIG du réseau fluvial régulé AFETUW est une copie du réseau fluvial provincial ArChydro Phase II avec plusieurs champs d'attributs ajoutés. Les attributs sont définis par les hydrologues régionaux pour contrôler les options de débit non jaugées administrées par l'équipe de développement de l'AFETUW pour n'importe quel tronçon ou segment de cours d'eau ou pour plusieurs cours d'eau dans une zone définie. Le champ « Réguler » est utilisé pour spécifier les tronçons de cours d'eau régulés par une structure de régulation en amont telle qu'un barrage. Pour un cours d'eau régulé, l'estimation du débit AFETUW ne peut pas être appliquée bien qu'une limite de bassin versant puisse toujours être délimitée. Cette couche de données peut être consultée via l'application Web AFETUW à l'adresse https://afetuw.alberta.ca/\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b773614f-bd3a-4ccd-9082-772bfbdcab7f"
+  ],
+  "dct_issued_s": "2026-03-04",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b773614f-bd3a-4ccd-9082-772bfbdcab7f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "AFETUW Regulated Stream Network",
+  "gbl_mdModified_dt": "2026-03-18T14:00:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17e0bc47-2103-5009-9d61-bcbc78126f04",
+  "locn_geometry": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

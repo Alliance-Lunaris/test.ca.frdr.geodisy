@@ -1,0 +1,66 @@
+{
+  "dcat_keyword_sm": [
+    "Solanum ochranthum",
+    "Solanum galapagense",
+    "Solanum sitiens",
+    "Solanum cheesmaniae",
+    "Solanum lycopersicum",
+    "Solanum chmielewskii",
+    "Rubisco",
+    "Solanum habrochaites",
+    "Solanum peruvianum",
+    "photosynthesis",
+    "leaf economics spectrum",
+    "Solanum chilense",
+    "leaf mass per area",
+    "Solanum neorickii",
+    "Solanum pennellii",
+    "leaf gas exchange",
+    "Solanum lycopersicoides",
+    "Solanum arcanum",
+    "Solanum pennellii var. puberulum",
+    "Solanum",
+    "Solanum juglandifolium",
+    "Solanum pimpinellifolium",
+    "CO2 diffusion"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Muir, Christopher D. (University of British Columbia).",
+    "Conesa, Miquel À. (University of the Balearic Islands).",
+    "Roldán, Emilio J. (University of the Balearic Islands).",
+    "Molins, Arántzazu (University of the Balearic Islands).",
+    "Galmés, Jeroni (University of the Balearic Islands)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/yJkexfLym2vZQTX-R3lTEsi0ga7hFs7XBqj2BHpUdXg</p>\n<p><b>Storage size:</b> 91449</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Theory predicts that natural selection should favor coordination between leaf physiology, biochemistry and anatomical structure along a functional trait spectrum from fast, resource-acquisitive syndromes to slow, resource-conservative syndromes. However, the coordination hypothesis has rarely been tested at a phylogenetic scale most relevant for understanding rapid adaptation in the recent past or for the prediction of evolutionary trajectories in response to climate change. We used a common garden to examine genetically based coordination between leaf traits across 19 wild and cultivated tomato taxa. We found weak integration between leaf structure (e.g. leaf mass per area) and physiological function (photosynthetic rate, biochemical capacity and CO2 diffusion), even though all were arrayed in the predicted direction along a ‘fast–slow’ spectrum. This suggests considerable scope for unique trait combinations to evolve in response to new environments or in crop breeding. In particular, we found that partially independent variation in stomatal and mesophyll conductance may allow a plant to improve water-use efficiency without necessarily sacrificing maximum photosynthetic rates. Our study does not imply that functional trait spectra, such as the leaf economics spectrum, are unimportant, but that many important axes of variation within a taxonomic group may be unique and not generalizable to other taxa.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Zip file with trait data, phylogeny, and supplemental tables</h4><div class=\"o-metadata__file-description\">data.*\t \t\t\t\tLeaf anatomical and physiological traits from 19 tomato taxa (in Excel and CSV formats)\r\nglobalGm.R\t\t\t\tR code to make Figure 5 and statistically compare LMA-gm relationship in tomatoes to a global dataset\r\nTomato18cos_ultra.tre\t18-gene ultrametric phylogenetic tree in Newick format\r\nTableS1.csv\t\t\t\tKey to species name abbreviations in data table and tree\r\nTableS3.csv\t\t\t\tGlobal dataset of gm and LMA</div><div class=\"o-metadata__file-name\">Dryad.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "154008_1226260_150149",
+    "https://doi.org/10.5683/SP2/HUPMUY"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/HUPMUY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Weak coordination between leaf structure and function among closely related tomato species",
+  "gbl_mdModified_dt": "2021-05-19T21:07:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4f6a8cf5-8bc0-57f0-bbaa-c8087002181f",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

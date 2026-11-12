@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.1261, -101.3167, 55.0469, 51.851)",
+  "dcat_keyword_sm": [
+    "dtm",
+    "forestry",
+    "forest inventory",
+    "dtmraw",
+    "Government information",
+    "digital terrain model",
+    "forest",
+    "fri",
+    "forest service",
+    "digital elevation model",
+    "dem",
+    "environment",
+    "ministry of environment",
+    "raster",
+    "government of saskatchewan",
+    "saskatchewan",
+    "canada",
+    "forest resource inventory"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "FRI : Modèle numérique de terrain"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "Digital terrain model (DTMRAW) is an expression of the bare earth orthometric elevation (m). Available here as a DTM raster (GeoTIF) with a 5 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.    Digital terrain model (DTMRAW) is an expression of the bare earth orthometric elevation (m). DTMRAW is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 5 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing DTMRAW data in the following 50 m elevation intervals. A 32-bit floating point raster version is available upon request.    Domain: [NULL, 200…1500].    RANGE LABEL RED GREEN BLUE 200 <= DTMRAW < 225 200 27 94 32 225 <= DTMRAW < 275 250 51 113 51 275 <= DTMRAW < 325 300 76 131 70 325 <= DTMRAW < 375 350 100 150 89 375 <= DTMRAW < 425 400 124 169 108 425 <= DTMRAW < 475 450 148 188 127 475 <= DTMRAW < 525 500 173 206 146 525 <= DTMRAW < 575 550 197 225 165 575 <= DTMRAW < 625 600 226 232 127 625 <= DTMRAW < 675 650 255 238 88 675 <= DTMRAW < 725 700 255 203 63 725 <= DTMRAW < 775 750 255 167 38 775 <= DTMRAW < 825 800 188 126 55 825 <= DTMRAW < 875 850 121 85 72 For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter.",
+    "Le modèle numérique de terrain (DTMRAW) est une expression de l'altitude orthométrique de la terre nue (m). Disponible ici sous forme de raster DTM (GeoTIF) avec une résolution de 5 millions de pixels.  \n  \n  Télécharger : ici La Direction des services forestiers du ministère de l'Environnement de la Saskatchewan a élaboré un inventaire des ressources forestières (FRI) qui répond à divers besoins d'information en matière de planification stratégique et opérationnelle pour les plaines boréales. Ces besoins comprennent des informations sur la couverture terrestre générale, le terrain et le stock en croissance (hauteur, diamètre, surface terrière, volume de bois et densité des tiges) dans la forêt provinciale et la frange forestière adjacente. Cet inventaire fournit des informations spatialement explicites sous forme de grilles matricielles de 10 m ou 20 m et de polygones vectoriels pour des peuplements forestiers relativement homogènes ou des zones naturellement non boisées avec une superficie minimale de 0,5 ha et une superficie médiane de 2,0 ha. Le modèle numérique de terrain (DTMRAW) est une expression de l'altitude orthométrique de la terre nue (m). DTMRAW est disponible ici sous la forme d'une grille matricielle d'entiers non signés 16 bits mappée en couleurs au format GeoTIFF avec une résolution de 5 m pixels. Un fichier de couche ArcGIS Pro (*.lyrx) est fourni pour visualiser les données DTMRAW dans les intervalles d'altitude de 50 m suivants. Une version raster à virgule flottante 32 bits est disponible sur demande. Domaine : [NULL, 200... 1500]. ÉTIQUETTE DE GAMME ROUGE VERT BLEU 200 <= DTMRAW < 225 200 27 94 32 225 <= DTMRAW < 275 250 51 113 51 275 <= DTMRAW < 325 300 76 131 70 325 <= DTMRAW < 375 350 100 150 89 375 <= DTMRAW < 425 400 124 169 108 425 <= DTMRAW < 475 450 148 188 127 475 <= DTMRAW < 525 500 173 206 146 525 <= DTMRAW < 475 450 148 188 127 475 <= DTMRAW < 525 500 173 206 146 525 <= DTMRAW < 475 450 148 188 127 475 <= DTMRAW < 525 500 173 206 146 525 <= DTMRAW < 575 550 197 225 165 575 <= DTMRAW < 625 600 226 232 127 625 <= DTMRAW < 675 650 255 238 88 675 <= DTMRAW < 725 700 255 203 63 725 <= DTMRAW < 775 750 255 167 38 775 <= DTMRAW < 825 800 188 126 55 825 <= DTMRAW < 875 850 121 85 72 Pour plus d'informations, consultez l'Inventaire forestier Norme du Code environnemental de la Saskatchewan, chapitre sur l'inventaire forestier.   \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1b5d17b8-f861-0bcd-e737-a725255de06e"
+  ],
+  "dct_issued_s": "2021-03-08",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1b5d17b8-f861-0bcd-e737-a725255de06e\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "FRI: Digital terrain model",
+  "gbl_mdModified_dt": "2025-12-24T13:02:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f5082e74-c1a3-5037-8c23-15da604d9bc8",
+  "locn_geometry": "ENVELOPE(-108.1261, -101.3167, 55.0469, 51.851)",
+  "schema_provider_s": "Open Data Canada"
+}

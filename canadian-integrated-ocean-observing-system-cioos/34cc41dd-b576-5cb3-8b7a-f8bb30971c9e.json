@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-138.6737, -123.10067, 71.7981, 69.9551)",
+  "dcat_keyword_sm": [
+    "subsurfacesalinity",
+    "beaufort-sea-hudson-bay-lancaster-sound-melville-sound",
+    "fluxes",
+    "temperature",
+    "oceans",
+    "mackenzie-shelf",
+    "beaufort-sea",
+    "temperature-sous-la-surface",
+    "water-column",
+    "monitoring",
+    "arcticnet",
+    "subsurfacetemperature",
+    "courants-sous-marins",
+    "amundsen-gulf",
+    "ocean-currents",
+    "salinity",
+    "salinite-sous-la-surface",
+    "arcticnet",
+    "subsurfacecurrents",
+    "density"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de mouillage des observatoires océaniques à long terme dans la mer de Beaufort au cours de l'étude ArcticNet 2004-2010, retraitées."
+  ],
+  "dct_creator_sm": [
+    "Gratton, Yves.",
+    "Blondeau, Sylvain (Laval University).",
+    "Forest, Alexandre (Amundsen Science).",
+    "Fortier, Louis.",
+    "Massot, Pascal.",
+    "Michaud, Luc."
+  ],
+  "dct_description_sm": [
+    "Thirty-six moorings were deployed in the Beaufort Sea between 2004 and 2010. Some of the moorings were deployed for one year only and others were maintained (recovered and redeployed) over several years. A total of 12 moorings were lost (1 in 2004, 2 in 2006, 1 in 2007, 2 in 2008, and 6 in 2010). Mooring sites included the Mackenzie Shelf (North-Western to North-Eastern), Mackenzie Shelf slope, Kugmallit Valley, Canada Basin, Mackenzie Canyon, Amundsen Gulf (West to East), and outer Franklin Bay area. Bottom depth at deployment sites varied between 200 and 545 m. Mooring lines were equipped with various oceanographic instruments attached at different depths from 12 m to a maximum of 500 m below the surface. Moored instruments included ALEC conductivity-temperature-turbidity- chlorophyll-PAR sensors, SeaBird SB 26 and SB37 conductivity-temperature sensors, RMC4, RMC7 and RCM11 current meters, Nortek current profilers, McLane moored profilers and NIPR and Technicap sediment traps. The datasets available were quality controlled, and have been used in several publications listed in the document accompanying the data. Variables available include water temperature, conductivity (salinity), density, PAR, Chla, turbidity, oxygen and current velocity (speed and direction). Sediment trap collections were used to estimate downward fluxes of particles, and datasets are described in Metadata CCIN 10476 (Vertical particle flux data in the Beaufort Sea: 2002-2010).\nThis dataset is a reprocessed version of the previous one. The processing chain used is built upon open-source Integrated Marine Observatory System (IMOS) toolbox developed for Matlab© by the Australian Ocean Data Network (AODN; Galibert, 2016).",
+    "Trente-six mouillages ont été déployés dans la mer de Beaufort entre 2004 et 2010. Certains des postes de mouillage n'ont été déployés que pendant un an et d'autres ont été entretenus (récupérés et redéployés) pendant plusieurs années. Au total, 12 mouillages ont été perdues (1 en 2004, 2 en 2006, 1 en 2007, 2 en 2008 et 6 en 2010). Les sites de mouillage comprenaient le plateau du Mackenzie (du nord-ouest au nord-est), le versant du plateau Mackenzie, la vallée de Kugmallit, le bassin du Canada, le canyon Mackenzie, le golfe Amundsen (d'ouest en est) et la région extérieure de la baie Franklin. La profondeur du fond sur les sites de déploiement variait entre 200 et 545 m. Les lignes de mouillage étaient équipées de divers instruments océanographiques fixés à différentes profondeurs, de 12 m à un maximum de 500 m sous la surface. Les instruments amarrés comprenaient des capteurs ALEC de conductivité-température-turbidité et chlorophylle-PAR, des capteurs de conductivité-température SeaBird SB 26 et SB37, des courantomètres RMC4, RMC7 et RCM11, des profileurs de courant Nortek, des profileurs ancrés McLane et des pièges à sédiments NIPR et Technicap. Les ensembles de données disponibles ont fait l'objet d'un contrôle de qualité et ont été utilisés dans plusieurs publications répertoriées dans le document accompagnant les données. Les variables disponibles incluent la température de l'eau, la conductivité (salinité), la densité, le PAR, le Chla, la turbidité, l'oxygène et la vitesse du courant (vitesse et direction). Des collections de pièges à sédiments ont été utilisées pour estimer les flux de particules vers le bas, et les ensembles de données sont décrits dans les métadonnées CCIN 10476 (Données sur les flux de particules verticaux dans la mer de Beaufort : 2002-2010).\nCe jeu de données est une version retraitée du précédent. La chaîne de traitement utilisée repose sur la boîte à outils open source IMOS (Integrated Marine Observatory System) développée pour Matlab© par l'Australian Ocean Data Network (AODN ; Galibert, 2016)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b44a470a-56a9-44da-9f24-9e1f2e4323cf"
+  ],
+  "dct_issued_s": "2024-10-25",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b44a470a-56a9-44da-9f24-9e1f2e4323cf\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Long-term oceanic observatories moorings data in the Beaufort Sea during ArcticNet study 2004-2010, reprocessed.",
+  "gbl_mdModified_dt": "2026-07-31T16:46:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34cc41dd-b576-5cb3-8b7a-f8bb30971c9e",
+  "locn_geometry": "ENVELOPE(-138.6737, -123.10067, 71.7981, 69.9551)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

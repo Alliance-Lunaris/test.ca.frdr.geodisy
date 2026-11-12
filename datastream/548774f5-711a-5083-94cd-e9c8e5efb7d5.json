@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.541994, -121.0054, 54.889056, 52.2802)",
+  "dcat_keyword_sm": [
+    " stream temperature",
+    " British Columbia",
+    "water temperature",
+    " northern British Columbia",
+    " continuous monitoring"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Northern Hydrometeorology Group (NHG), University of Northern British Columbia (UNBC)."
+  ],
+  "dct_description_sm": [
+    "This dataset records sub-hourly water temperature measurements collected by the Northern Hydrometeorology Group (NHG) at the University of Northern British Columbia (UNBC), beginning in July 2019. This ongoing monitoring program characterizes stream and lake thermal regimes across the Nechako Watershed and surrounding regions in northern British Columbia. The dataset includes continuous time-series of water temperature data from 38 river, stream and lake monitoring sites, recorded at 15-minute intervals using HOBO MX2201 and MX2203 Bluetooth Water Temperature Data Loggers (Onset Computer Corporation). Each observation is accompanied by a quality flag indicating data status (e.g. Pass, Spike, Missing, Backwater, Air/Dewatered). Data are publicly accessible via the NHG Water Temperature Dashboard at https://nhgwatertemp.unbc.ca/. Data collection is ongoing."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/wjph-rv03"
+  ],
+  "dct_issued_s": "2026-03-25",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/wjph-rv03\"}",
+  "dct_title_s": "Sub-hourly Water Temperature Data Collected by UNBC’s Northern Hydrometeorology Group (NHG) across northern BC",
+  "gbl_mdModified_dt": "2026-05-07T15:39:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "548774f5-711a-5083-94cd-e9c8e5efb7d5",
+  "locn_geometry": "ENVELOPE(-127.541994, -121.0054, 54.889056, 52.2802)",
+  "schema_provider_s": "DataStream"
+}

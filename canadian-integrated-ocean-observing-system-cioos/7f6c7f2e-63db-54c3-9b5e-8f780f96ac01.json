@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.2, -125.2, 50.12, 50.11)",
+  "dcat_keyword_sm": [
+    "abondance-et-distribution-de-poissons",
+    "oceans",
+    "fish",
+    "marine-eukaryotes",
+    "biomasse-et-diversite-de-zooplancton",
+    "zooplanktonbiomassanddiversity",
+    "dna-metabarcoding",
+    "fishabundanceanddistribution",
+    "freezing",
+    "edna",
+    "genomics",
+    "invertebrateabundanceanddistribution",
+    "abondance-et-distribution-dinvertebres"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "La congélation d'échantillons d'eau de mer modifie la composition et la richesse de la communauté d'ADNe"
+  ],
+  "dct_creator_sm": [
+    "Savage, Rose-Lynne (Hakai Institute).",
+    "Clemente-Carvalho, Rute (Hakai Institute).",
+    "Morien, Evan (Hakai Institute).",
+    "Lemay, Matthew (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Environmental DNA (eDNA) is sensitive to decay during water sample collection, potentially influencing molecular species detection. When eDNA water sample processing is delayed during remote field collections, whole water samples can be stored frozen to minimize further eDNA degradation. However, the freezing and thawing processes may influence eDNA integrity thus affecting species identification. We split bulk seawater samples to compare the marine taxa from water that had been filtered immediately to water that had been stored frozen for one month. Using DNA metabarcoding we evaluated the effect of freezing on the inferred marine invertebrate communities based on a 313bp section of the cytochrome c oxidase subunit I (COI) mitochondrial barcode gene. Previously frozen samples had significantly lower species richness and different community composition compared to the non-frozen samples. Particularly, amplified sequence variants (ASVs) of the copepod Pseudocalanus were significantly more abundant in non-frozen samples. These data suggest that freezing water samples intended for eDNA analyses may impede species detection for select organisms and significantly alter the inferred community structure, however this effect is not consistent across genes. Studies using pre-frozen water samples should consider downstream implications, such as PCR bias and reduced species detection, when analyzing eDNA biodiversity.",
+    "L'ADN environnemental (ADNe) est sensible à la décomposition lors du prélèvement d'échantillons d'eau, ce qui peut influencer la détection des espèces moléculaires. Lorsque le traitement des échantillons d'eau d'ADNe est retardé lors de prélèvements sur le terrain à distance, les échantillons d'eau entiers peuvent être conservés congelés afin de minimiser la dégradation supplémentaire de l'ADNe. Cependant, les processus de congélation et de décongélation peuvent influencer l'intégrité de l'ADNe, affectant ainsi l'identification des espèces. Nous avons fractionné des échantillons d'eau de mer en vrac pour comparer les taxons marins de l'eau qui avait été filtrée immédiatement à de l'eau conservée congelée pendant un mois. À l'aide du métabarcodage de l'ADN, nous avons évalué l'effet de la congélation sur les communautés présumées d'invertébrés marins sur la base d'une section de 313 pb du gène code-barres mitochondrial de la sous-unité I (COI) du cytochrome c oxydase. Les échantillons préalablement congelés présentaient une richesse en espèces significativement plus faible et une composition communautaire différente de celle des échantillons non congelés. En particulier, les variants de séquence amplifiés (ASV) du copépode Pseudocalanus étaient significativement plus abondants dans les échantillons non congelés. Ces données suggèrent que la congélation d'échantillons d'eau destinés à l'analyse de l'ADNe peut empêcher la détection des espèces chez certains organismes et modifier de manière significative la structure de la communauté déduite, mais cet effet n'est pas uniforme d'un gène à l'autre. Les études utilisant des échantillons d'eau précongelés devraient prendre en compte les implications en aval, telles que le biais de la PCR et la réduction de la détection des espèces, lors de l'analyse de la biodiversité de l'ADNe."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/2de051d0-4deb-4d0a-ad22-96fd660e6276"
+  ],
+  "dct_issued_s": "2023-02-21",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/2de051d0-4deb-4d0a-ad22-96fd660e6276\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Freezing seawater samples alters eDNA community composition and richness",
+  "gbl_mdModified_dt": "2026-10-31T03:33:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f6c7f2e-63db-54c3-9b5e-8f780f96ac01",
+  "locn_geometry": "ENVELOPE(-125.2, -125.2, 50.12, 50.11)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

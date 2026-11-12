@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2444, -123.2439, 49.24975, 49.24948)",
+  "dcat_keyword_sm": [
+    "Terrestrial LiDAR, Individual Tree Segmentation, Algorithm Comparison, Forestry, Tree Structure, Broadleaf Forest",
+    "Remote Sensing",
+    "Forestry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chen, Aster (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Terrestrial Laser Scanning (TLS) offers complementary and non-destructive methods for capturing three-dimensional information on forest structure. ITS is an essential process for modern forestry and ecological studies as it enables the precise isolation and characterization of individual trees from surrounding forest, facilitating critical analyses such as biomass estimation and advanced forest structure assessment. This study explores the applicability of two established Individual Tree Segmentation (ITS) algorithms, dalponte2016 and watershed, to TLS data for the assessment of forest structure. Conducted within the David C. Lam Asian Garden of University of British Columbia, the research employed a Trimble TX08 scanner to collect high-density point clouds, aiming to improve urban forest management and sustainability practices. Despite the benefits of TLS’s high spatial resolution and rapid data collection, challenges such as over-segmentation, under-segmentation and occlusion by forest canopy impeded accurate tree stem and understory detection. Both algorithms, traditionally used in Airborne Laser Scanning (ALS), demonstrated limitations when applied to TLS data, highlighting the need for algorithm refinement and the incorporation of machine learning techniques. This study contributes to the literature by critically assessing the performance of ITS algorithms in TLS data processing, offering insights for future advancements in precise forestry inventory. The absence of ground truth data and inaccessibility of ground control points (GCPs) underscored the necessity for a more comprehensive approach with regards to data collection and the validation of tree segmentation methods."
+  ],
+  "dct_identifier_sm": [
+    "720855_73894_115983",
+    "https://doi.org/10.5683/SP3/VRD09H"
+  ],
+  "dct_issued_s": "2024-05-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VRD09H\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Exploring the Feasibility of Individual Tree Segmentation Algorithms on Terrestrial LiDAR Data",
+  "gbl_mdModified_dt": "2025-04-18T02:57:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b119f039-3b74-577e-ad9d-e54de076c43f",
+  "locn_geometry": "ENVELOPE(-123.2444, -123.2439, 49.24975, 49.24948)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "These Soil Mapping Data Packages include 1. a Soil Map dataset which includes the equivalents to [Soil Project Boundaries](https://catalogue.data.gov.bc.ca/dataset/soil-mapping-soil-project-boundaries), [Soil Survey Spatial View](https://catalogue.data.gov.bc.ca/dataset/soil-survey-spatial-view) mapping polygons with attributes from the [Soil Name and Layer Files](https://catalogue.data.gov.bc.ca/dataset/soil-name-and-layer-files), plus + A Soil Site dataset which includes soil pit site information and detailed soil pit descriptions and any associated lab analyses, and + The Soil Data Dictionary which documents the fields and allowable codes within the data. The Soil Map geodatabase contains the 'best available' data ranging from 1:20,000 scale to 1:250,000 scale with overlapping data removed. The choice of the datasets that remain is based on connectivity to the soil attributes (soil name and layer files), map scale and survey date. (Note: the BC Soil Landscapes of Canada (BCSLC) 1:1,000,000 data has not been included in the Soil_Map or SIFT, but is available from: [CANSIS](http://sis.agr.gc.ca/cansis/nsdb/slc/index.html). (A complete soils data package with overlapping soil survey mapping and BCSLC is available on [request](mailto:TEI_Mail@gov.bc.ca). Note that the soil survey data with attributes can also be viewed interactively in the [Soil Information Finder Tool](The Soil Map dataset is also available for interactive map viewing or as KMZs from the [Soil Information Finder Tool website](https://www2.gov.bc.ca/gov/content/environment/air-land-water/land/soil-information-finder)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4e205b8d-f259-44a2-89ab-4d02d287136f"
+  ],
+  "dct_issued_s": "2020-04-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4e205b8d-f259-44a2-89ab-4d02d287136f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Soil Mapping Data Packages",
+  "gbl_mdModified_dt": "2026-09-09T18:30:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c613b0e-254e-52c0-a464-384674eec002",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

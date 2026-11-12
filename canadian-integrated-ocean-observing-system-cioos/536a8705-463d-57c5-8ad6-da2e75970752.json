@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.22692871093747, -127.80944824218746, 51.74233687689102, 51.40948589555509)",
+  "dcat_keyword_sm": [
+    "classification",
+    "other",
+    "remote-sensing",
+    "oceans",
+    "forest",
+    "lidar",
+    "rapideye",
+    "rainforest",
+    "calvert-island",
+    "watersheds",
+    "wetlands",
+    "downloadable-data",
+    "ecosystem-mapping",
+    "autre",
+    "airborne-coastal-observatory",
+    "temperate-forest",
+    "ecosystem"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Classification des écosystèmes basée sur le Lidar pour l'île Calvert"
+  ],
+  "dct_creator_sm": [
+    "Thompson, Shanley (University of Victoria).",
+    "Nelson, Trisalyn (University of Victoria).",
+    "Giesbrecht, Ian (Hakai Institute).",
+    "Frazer, G. W. (Hakai Institute).",
+    "Saunders, Sari (BC Ministry of Forests, Lands and Natural Resource Operations).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this work was to define and map a set of repeating ecohydrological classes on Calvert and Hecate Islands using remote sensing data and an unsupervised classification technique. The resulting map provides a new tool for characterizing the extent and internal properties of different ecosystem classes, for stratifying future study designs, and for evaluating the influence of terrestrial landscape characteristics on watershed processes.\n\n\"Traditionally, forest inventory and ecosystem mapping at local to regional scales rely on manual interpretation of aerial photographs, based on standardized, expert-driven classification schemes. These current approaches provide the information needed for forest ecosystem management but constrain the thematic and spatial resolution of mapping and are infrequently repeated. The goal of this research was to demonstrate the utility of an unsupervised, quantitative technique based on Light Detection And Ranging (LiDAR) data and multi-spectral satellite imagery for mapping local-scale ecosystems over a heterogeneous landscape of forested and non-forested ecosystems. We derived a range of metrics characterizing local terrain and vegetation from LiDAR and RapidEye imagery for Calvert and Hecate Islands, British Columbia. These metrics were used in a cluster analysis to classify and quantitatively characterize ecological units across the island. A total of 18 clusters were derived. The clusters were attributed with quantitative summary statistics from the remotely sensed data inputs and contextualized through comparison to ecological units delineated in a traditional expert-driven mapping method using aerial photographs. The 18 clusters describe ecosystems ranging from open shrublands to dense, productive forest and include a riparian zone and many wetter and wetland ecosystems. The clusters provide detailed, spatially-explicit information for characterizing the landscape as a mosaic of units defined by topography and vegetation structure. This study demonstrates that using various types of remotely sensed data in a quantitative classification can provide scientists and managers with multi- variate information unique from that which results from traditional, expert-based ecosystem mapping methods.\" - Abstract from Thompson et al. 2016.\n\nA complete explanation of methods is available in Thompson et al. 2016. \n\nA small number of data voids in the 2012 LiDAR coverage were present and were excluded from the analysis. Although the voids have since been filled with new LiDAR data acquired in 2014, the new data were not included in the analysis of Thompson et al. Other “gaps” in the spatial coverage of the final map are a result of the exclusion of non-vegetated areas (as guided by the Normalized Difference Vegetation Index (NDVI) and the provincial Freshwater Atlas (FWA): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater). In addition to small waterbodies, these non-vegetated areas include a few small areas at high elevation that were snow-covered at the time of the RapidEye image acquisition.",
+    "Le but de ce travail était de définir et de cartographier un ensemble de classes écohydrologiques répétitives sur les îles Calvert et Hécate à l'aide de données de télédétection et d'une technique de classification non supervisée. La carte qui en résulte fournit un nouvel outil pour caractériser l'étendue et les propriétés internes de différentes classes d'écosystèmes, pour stratifier les futurs plans d'études et pour évaluer l'influence des caractéristiques du paysage terrestre sur les processus des bassins versants.\n\n« Traditionnellement, l'inventaire des forêts et la cartographie des écosystèmes à l'échelle locale et régionale reposent sur l'interprétation manuelle de photographies aériennes, sur la base de schémas de classification standardisés pilotés par des experts. Ces approches actuelles fournissent les informations nécessaires à la gestion des écosystèmes forestiers mais limitent la résolution thématique et spatiale de la cartographie et sont rarement répétées. L'objectif de cette recherche était de démontrer l'utilité d'une technique quantitative non supervisée basée sur des données de détection et de télémétrie par la lumière (LiDAR) et des images satellites multispectrales pour cartographier les écosystèmes à l'échelle locale sur un paysage hétérogène d'écosystèmes forestiers et non forestiers. Nous avons dérivé une gamme de paramètres caractérisant le terrain et la végétation locaux à partir d'images LiDAR et RapidEye pour les îles Calvert et Hécate, en Colombie-Britannique. Ces paramètres ont été utilisés dans le cadre d'une analyse par grappes afin de classer et de caractériser quantitativement les unités écologiques de l'île. Au total, 18 clusters ont été dérivés. Les clusters ont été attribués à des statistiques récapitulatives quantitatives provenant des entrées de données de télédétection et contextualisées par comparaison avec des unités écologiques délimitées par une méthode de cartographie traditionnelle pilotée par des experts à l'aide de photographies aériennes. Les 18 groupes décrivent des écosystèmes allant des zones arbustives ouvertes à des forêts denses et productives et comprennent une zone riveraine et de nombreux écosystèmes humides et humides. Les clusters fournissent des informations détaillées et spatialement explicites permettant de caractériser le paysage comme une mosaïque d'unités définies par la topographie et la structure de la végétation. Cette étude montre que l'utilisation de différents types de données de télédétection dans une classification quantitative peut fournir aux scientifiques et aux gestionnaires des informations multivariées uniques par rapport à celles qui résultent des méthodes traditionnelles de cartographie des écosystèmes fondées sur des experts. » - Résumé de Thompson et al. 2016.\n\nUne explication complète des méthodes est disponible dans Thompson et al. 2016. \n\nUn petit nombre de données vides dans la couverture LiDAR de 2012 étaient présentes et ont été exclues de l'analyse. Bien que les vides aient depuis été comblés par de nouvelles données LiDAR acquises en 2014, les nouvelles données n'ont pas été incluses dans l'analyse de Thompson et al. D'autres « lacunes » dans la couverture spatiale de la carte finale sont dues à l'exclusion des zones non végétalisées (comme indiqué par l'indice de végétation par différence normalisée (NDVI) et l'atlas provincial des eaux douces (FWA) : https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater). Outre les petits plans d'eau, ces zones non végétalisées comprennent quelques petites zones en haute altitude qui étaient couvertes de neige au moment de l'acquisition de l'image RapidEye."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/18911dee-9ca0-408b-8999-28da3e3dde7a"
+  ],
+  "dct_issued_s": "2015-08-25",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/18911dee-9ca0-408b-8999-28da3e3dde7a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "LiDAR-based Ecosystem Classification for Calvert Island",
+  "gbl_mdModified_dt": "2026-09-22T21:17:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "536a8705-463d-57c5-8ad6-da2e75970752",
+  "locn_geometry": "ENVELOPE(-128.22692871093747, -127.80944824218746, 51.74233687689102, 51.40948589555509)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,37 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Lignes centrales de tracé des tronçons de rues.\r\n\r\n**Contexte de collecte**\r\n  Maintien par la division géomatique en collaboration avec le service du génie.\r\n\r\n**Méthode de collecte**\r\n  Cartographie assistée par ordinateur.\r\n\r\n**Attributs**\r\n\r\n* `ASSET_ID` (`integer`) : Identifiant\r\n* `Odonyme` (`varchar`) : Odonyme\r\n* `Juridiction` (`varchar`) : Juridiction\r\n* `Statut` (`varchar`) : Statut\r\n* `NIV_HIERARC` (`varchar`) : Niveau hiérarchique\r\n* `Circulation` (`varchar`) : Circulation\r\n* `Revetement` (`varchar`) : Revêtement\r\n* `NB_VOIE` (`integer`) : Nombre de voies\r\n* `LONGUEUR` (`numeric`) : Longueur\r\n* `Classe_affich` (`varchar`) : Classe d'affichage\r\n* `ODONYME_INT_A` (`varchar`) : Odonyme intersection A\r\n* `ODONYME_INT_B` (`varchar`) : Odonyme intersection B\r\n* `ADR_DEBUT_G` (`integer`) : Adresse début gauche\r\n* `ADR_FIN_G` (`integer`) : Adresse fin gauche\r\n* `ADR_DEBUT_D` (`integer`) : Adresse début droit\r\n* `ADR_FIN_D` (`integer`) : Adresse fin droite\r\n* `NOTES` (`varchar`) : Notes\r\n* `SOURCE` (`varchar`) : Source\r\n* `DATE_CREATION` (`smalldatetime`) : Créé le\r\n* `DATE_MODIFICATION` (`smalldatetime`) : Modifié le\r\n* `USER_MODIFICATION` (`varchar`) : Modifié par\r\n* `ODO_LONG_COMPLET` (`varchar`) : Odonyme long complet\r\n* `ODO_INDEX_COURT` (`varchar`) : Odonyme court index\r\n* `ODO_INDEX_LONG` (`varchar`) : Odonyme long index\r\n\r\n\r\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/f6bfea2758ee48d992840791c863e7d4/kQ-YtwdnUGOTS1BwMBkh7mm6yhaR0/r/833b4f9e305e4502b9f0a0cd9dc43892\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/579125c6-561b-4558-8d69-6832fec8a7ac"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Ville de Saint-Hyacinthe"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/579125c6-561b-4558-8d69-6832fec8a7ac\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Saint-Hyacinthe, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Loi, justice et sécurité publique",
+    "Gouvernement et finances",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Tronçons de rues - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2025-11-17T10:40:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "476f8d71-1d8a-5405-ba96-1decbdbd2ecc",
+  "schema_provider_s": "Données Québec"
+}

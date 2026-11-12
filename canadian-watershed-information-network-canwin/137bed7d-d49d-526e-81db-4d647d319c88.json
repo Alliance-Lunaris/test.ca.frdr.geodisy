@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "**NOTE: Not for operational use. This dataset is the result of an analysis (Aug 2018) of many input layers and as such the accuracy, currency, and completeness of the dataset cannot be relied upon for operational or management decision making.** Land designations that contribute to conservation are spatially-defined areas established through legislation or purchased for the protection of nature and cultural values, the conservation of biological diversity and ecosystem services and the management of natural resources. Over 40 land designations were divided into three broad categories: - **Protected Lands** includes all Parks & Protected Areas and Other Protected Lands with the primary purpose of the long-term conservation of nature and cultural values. - **Resource Exclusion Areas** includes all designations that fully exclude one or two resource activities for the purpose of conservation. - **Spatially Managed Areas** includes all spatial designations managing or limiting development or a resource activity for the purpose of conservation, or a spatial management regime in place to preserve specified elements of biodiversity but where activity is still allowed to occur. Land designations layers were combined into a single layer, with overlaps removed such that areas with overlapping designations were assigned to the highest conservation contribution category. **Data sources:** A list of the source datasets, including links to their sources, more information, and data processing steps is available [**here**](https://raw.githubusercontent.com/bcgov/designatedlands/v0.1.0/sources.csv). Details on methods are available [**here**](https://github.com/bcgov/designatedlands). Previous versions of the data are available [**here**](https://github.com/bcgov/designatedlands/releases)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e0b30537-5498-437b-b668-9fafe44bf903"
+  ],
+  "dct_issued_s": "2020-04-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e0b30537-5498-437b-b668-9fafe44bf903\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Land Designations that Contribute to Conservation in BC - Spatial Data",
+  "gbl_mdModified_dt": "2026-01-28T19:43:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "137bed7d-d49d-526e-81db-4d647d319c88",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

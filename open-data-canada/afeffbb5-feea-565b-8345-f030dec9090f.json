@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.4464, -122.6315, 54.8277, 47.7159)",
+  "dcat_keyword_sm": [
+    "Bottom substrate",
+    "Oceans",
+    "Réseau de zones de protection marine",
+    "Classifications écologiques",
+    "Biorégion du plateau Nord",
+    "Strait of Georgia Bioregion",
+    "Zones d’importance écologique et biologique (ZIEB)",
+    "Marine protected area network",
+    "Habitats",
+    "Northern Shelf Bioregion",
+    "Zone de protection marine (ZPM)",
+    "Substrat de fond",
+    "Southern Shelf Bioregion",
+    "Biorégion du détroit de Georgia",
+    "Ecological classifications",
+    "Marine Protected Area (MPA)",
+    "Océan",
+    "Ecologically and Biologically Significant Area (EBSA)",
+    "Biorégion du plateau Sud",
+    "Habitat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Le Système de classification écologique marine du Pacifique et son application aux biorégions des plateaux du Nord et du Sud"
+  ],
+  "dct_creator_sm": [
+    "Katie Gale."
+  ],
+  "dct_description_sm": [
+    "Description:\nBiophysical Units: \nUnder the Pacific Marine Ecological Classification System (PMECS; DFO 2016; Rubidge et al. 2016), biophysical units are areas of distinct physiographic and oceanographic conditions and processes that shape species composition at spatial extents of 1000s of km. \n\nGeomorphic units:\nGeomorphic units or geozones are discrete geomorphological structures at the scale of 100s of km that are assumed to have distinctive biological assemblages (e.g., plateaus, ridges, seamounts, canyons). Although the spatial scale of geomorphic units is nested within biophysical units, a single geomorphic unit such as a trough may span more than one biophysical unit. \n\nThe following 5 layers are included in this geodatabase:\n1. Biophysical_Units_L4A - Predicted PMECS Biophysical Units (Level 4A) output from the random forest analysis\n2. Biophysical_Units_L4B - Predicted PMECS Biophysical Units (Level 4B) output from the random forest analysis\n3. Biophysical_Units_ProbAssign_L4AB - Layer showing the probability that a grid cell was assigned to a given biophysical unit in the final random forest predictive modelling step\n4. Cluster_L4AB - Layer showing the output of species assemblage cluster analysis\n5. Geomorphic_Units - Geomorphic units for the BC coast that combines geomorphic units produced by Rubidge et al. 2016) and Proudfoot and Robb (2022).\n\nMethods:\nBiophysical Units:\nRubidge et al. (2016) used a two-step process to identify biophysical units in British Columbia. First, a cluster analysis based on the similarity of species composition was used to group sites with similar species into distinct biological assemblages. Second, a random forest analysis was used to identify environmental correlates of the biological assemblages identified by the cluster analysis and to predict and assign the biological assemblage present in areas with too few biological data. Two different similarity thresholds were used to identify two levels (4A, 4B) of biophysical units; see Rubidge et al. (2016) for details. Indicator species for each assemblage (biophysical unit) were also identified.\n\nGeomorphic units:\nRubidge et al. (2016) used the benthic terrain modeller (BTM) tool with broad and fine-scale benthic positioning index (BPI) parameters to define geomorphic units on the continental shelf in the Northern Shelf Bioregion and the continental slope in both the Northern Shelf Bioregion and Southern Shelf Bioregion. In 2022, geomorphic units were produced for the Strait of Georgia and Southern Shelf Bioregions following the same methods as Rubidge et al. (2016) (Proudfoot and Robb 2022). The geomorphic units produced as part of the PMECS process were merged with the geomorphic units produced for the Strait of Georgia and Southern Shelf bioregions to produce a continuous spatial data product representing geomorphic units for the Canadian Pacific continental shelf and slope. After merging, the geomorphic units produced in 2016 were unchanged (i.e., they are consistent with the original geomorphic units described in Rubidge et al. 2016).\n\nData Sources:\nFrom Rubidge et al. (2016): Species data was taken from Fisheries and Oceans Canada (DFO) standardized fisheries-independent research surveys: groundfish trawl and long-line (2003-2013), Tanner Crab trawl and trap (2000–2006), and Dungeness Crab trap (2000–2014). Environmental data came from NASA, the Canadian Hydrographic Service, Fisheries and Oceans Canada, Bio-ORACLE, and elsewhere (details in Rubidge et al. 2016). From Proudfoot and Robb (2022): bathymetry data came from Natural Resources Canada (details in Proudfoot and Robb 2022).\n\nUncertainties:\nThe data is intended for use at the bioregional scale, and caution should be used for finer-scale analyses.",
+    "Description:\nUnités biophysiques:\nDans le Système de classification écologique marine du Pacifique (PMECS; DFO 2016; Rubidge et al. 2016), les unités biophysiques sont des zones de conditions et de processus physiographiques et océanographiques distincts qui forment la composition des espèces dans des étendues spatiales de milliers de kilomètres. \n\nUnités géomorphologiques:\nLes unités géomorphologiques, ou géozones, sont des structures géomorphologiques discrètes à une échelle de centaine de kilomètres qui sont présumées contenir des assemblages biologiques distincts (ex. plateaux, dorsales, monts, canyons). Alors que l’échelle spatiale des unités géomorphologiques s’inscrit dans les unités biophysiques, une seule unité géomorphologique, par exemple une dépression, peut regrouper plus d’une unité biophysique. \n\nLes cinq couches suivantes sont comprises dans cette géodatabase:\nUnités_Biophysiques_L4A – Extrant prévu d’unités biophysiques (niveau 4A) du SCEMP à partir de l’analyse en forêt aléatoire\nUnités_ Biophysiques_L4B – Extrant prévu d’unités biophysiques (niveau 4B) du SCEMP à partir de l’analyse en forêt aléatoire\nUnités_Biophysiques_AttribProb_L4AB – Couche montrant la probabilité qu’une cellule de grille a été assignée à une unité biophysique donnée à la dernière étape de modélisation prédictive en forêt aléatoire\nCluster_L4AB – Couche montrant l’extrant de l’analyse du groupement de l’assemblage d’espèces\nUnités morphologiques – Geomorphic units for the BC coast that combines geomorphic units produced by Rubidge et al. 2016) and Proudfoot and Robb (2022).\n\nMéthodes :\nUnités biophysiques:\nRubidge et al. (2016) ont utilisé un processus en deux étapes pour identifier les unités biophysiques en Colombie-Britannique. Une analyse de groupement fondée sur la similarité de la composition des espèces a d’abord été utilisée pour regrouper les sites d’espèces similaires en assemblages biologiques distincts. Ensuite, une analyse en forêt aléatoire a servi à identifier les corrélats environnementaux des assemblages biologiques identifiés au moyen de l’analyse par groupement et à prédire et à attribuer l’assemblage biologique présent dans les zones où il y a trop peu de données biologiques. Deux seuils de similarité ont été utilisés pour identifier deux niveaux (4A, 4B) d’unités biophysiques; consulter Rubidge et al. (2016) pour obtenir des détails. Les espèces indicatrices pour chaque assemblage (unité biophysique) ont aussi été identifiées.\n\nUnités géomorphologiques:\nRubidge et al. (2016) ont utilisé l’outil de modélisation de terrain benthique (BTM) et des paramètres d’indice de position benthique (BPI) à grande et à petite échelles pour définir des unités géomorphologiques sur le plateau continental dans la biorégion du plateau continental du Nord, ainsi que sur le talus continental dans les biorégions des plateaux du Nord et du Sud. En 2022, des unités géomorphologiques ont été produites pour les biorégions du détroit de Georgia et du plateau Sud en appliquant les mêmes méthodes que Rubidge et al. (2016) (Proudfoot et Robb 2022). Les unités géomorphologiques produites dans le cadre du processus du Système de classification écologique marine du Pacifique ont été fusionnées avec les unités géomorphologiques produites pour les biorégions du détroit de Georgia et du plateau Sud afin de générer un produit de données spatiales continues représentant les unités géomorphologiques du plateau continental et du talus continental du Pacifique canadien. Après la fusion, les unités géomorphologiques produites en 2016 sont demeurées inchangées (c.-à-d. qu’elles sont conformes aux unités géomorphologiques initialement décrites dans Rubidge et al. 2016).\n\nSources de données :\nTiré de Rubidge et al. 2016 : Les données sur les espèces ont été tirées des relevés de recherche normalisés indépendants des pêches de Pêches et Océans Canada (MPO) : poissons de fond au chalut et à la palangre (2003-2013), crabe de Tanner au chalut et au casier (2000-2006) et crabe dormeur au casier (2000-2014). Les données environnementales proviennent de la NASA, du Service hydrographique du Canada, de Pêches et Océans Canada, de Bio-ORACLE et d’ailleurs (détails dans Rubidge et al. 2016). Tiré de Proudfoot et Robb (2022) : Les données de bathymétrie provenaient de Ressources naturelles Canada (détails dans Proudfoot et Robb 2022).\n\nIncertitudes :\nLes données sont destinées à être utilisées à l’échelle de la biorégion, et il convient de faire preuve de prudence pour les analyses à une échelle plus petite."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/abbfe250-8202-4822-8bd1-aaaf393bbfd5"
+  ],
+  "dct_issued_s": "2021-03-30",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/abbfe250-8202-4822-8bd1-aaaf393bbfd5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Pacific Marine Ecological Classification System and its Application to the Northern and Southern Shelf Bioregions",
+  "gbl_mdModified_dt": "2026-03-24T08:13:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "afeffbb5-feea-565b-8345-f030dec9090f",
+  "locn_geometry": "ENVELOPE(-134.4464, -122.6315, 54.8277, 47.7159)",
+  "schema_provider_s": "Open Data Canada"
+}

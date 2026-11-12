@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Stationnement",
+    "Information gouvernementale",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of public parking lots on the territory of the city of Shawinigan.\n\n[Link to the complete Isogeo sheet] (https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/2046d9f1f3034b3cac62ad11ec6c40cf?lock)\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Collection method**\n\nLocation at the corresponding address\n\n**Attributes**\n\n* `objectid` (`integer`): \n\n* `number` (`char`): Number\n\n* `name` (`char`): Name\n\n* `location` (`char`): Location\n\n* `nb_place_24_hrs` (`integer`): Number of seats 24 hours\n\n* `disabled` (`char`): Disabled\n\n* `vignette` (`char`): Thumbnail\n\n* `regulation` (`char`): Regulation\n\n* `terminal_electric` (`char`): Electrical terminal\n\n* `nb_place_2_hrs` (`integer`): Number of seats 2h\n\n* `reserve_electrique` (`char`): For electric cars only\n\n* `st_area (shape) `(`double`): \n\n* `st_length (shape) `(`double`): \n\n* `duration` (`char`): \n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polygonale des stationnements publics sur le territoire de la ville de Shawinigan.\n\n[Lien de la fiche complète Isogeo](https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/2046d9f1f3034b3cac62ad11ec6c40cf?lock)\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n\nLocalisation à l’adresse correspondante\n\n**Attributs**\n\n* `objectid` (`integer`) : \n\n* `numero` (`char`) : Numéro\n\n* `nom` (`char`) : Nom\n\n* `localisation` (`char`) : Localisation\n\n* `nb_place_24_hrs` (`integer`) : Nombre de places 24h\n\n* `handicape` (`char`) : Handicapé\n\n* `vignette` (`char`) : Vignette\n\n* `reglement` (`char`) : Réglement\n\n* `borne_electrique` (`char`) : Borne électrique\n\n* `nb_place_2_hrs` (`integer`) : Nombre de places 2h\n\n* `reserve_electrique` (`char`) : Réservé aux voitures électriques\n\n* `st_area(shape)` (`double`) : \n\n* `st_length(shape)` (`double`) : \n\n* `duree` (`char`) :"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/77695f35-882e-452c-b0d6-d302b2f23b1c"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/77695f35-882e-452c-b0d6-d302b2f23b1c\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Stationnements publics (polygones) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-12T17:39:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f1c86c67-2242-5c81-89e5-d57ad5443874",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.668, -96.4855, 56.344, 50.7412)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Manitoba's Forest Management Licence Area (FML) Boundaries – Version 4.  \n  \n  The Forest Act provides for the establishment of Forest Management Licences to provide a continuous supply of timber to the forest industry. A Forest Management Licence, granted for a period of not more than 20 years, may be renewed for further periods. The Forest Management Licence describes the land upon which trees may be cut, the volume of wood that may be harvested, and other terms and conditions. There are currently three Forest Management Licences in Manitoba. Timber management and forest renewal are the responsibilities of Manitoba Conservation on Crown Forest Land outside of Forest Management Licence areas, and within Forest Management Licence areas where the wood is used by a facility other than that operated by the Forest Management Licensee. Version 4 of Manitoba's Forest Management Licence (FML) boundaries incorporates minor edits made to the BDY_MB_FMU_PY feature class, ensuring coincident line work with the provincial boundary and provincial forests. Version 3 of Manitoba's Forest Management Licence (FML) boundaries includes FML-2 and FML-3. Previous boundaries associated with FML-1 and IWSAs have been removed. To update and improve the positional accuracy of Manitoba's Forest Management Licence (FML) boundaries, written descriptions of FML areas were referenced along with line work from Forest Land Inventories (FLI), Forest Resource Inventories (FRI) and Manitoba's township fabric to improve p rovincial FML boundaries. Boundary line work for all of the following feature classes were topologically checked for coincident line work: 1. BDY_MB_FMU_PY (Provincial FMUs); 2. Provincial Boundary; 3. BDY_MB_FML_PY (Provincial Forest Management Licence Areas); 4. BDY_MB_FOREST_SECTION_PY (Provincial Forest Sections); 5. BDY_MB_PROV_FOREST_PY (Provincial Forests)   The dataset includes the following fields /Les ensembles de données comprennent les champs suivants Name / Nom Alias Description FML FML Forest Management Licence Area number Numéro de zone de gestion forestière visée par une licence FML_NAME FML Name / Nom Forest Management Licence Area name Nom de zone de gestion forestière visée par une licence AREA_HA Area / Surface (Hectares) Area in hectares La surface en hectares   Limites des zones de gestion forestière du Manitoba visées par une licence – Version 4"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca3ea831-5098-acbd-0806-30b637e19098"
+  ],
+  "dct_issued_s": "2024-03-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ca3ea831-5098-acbd-0806-30b637e19098\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Forest Management License Areas (FML) – Version 4",
+  "gbl_mdModified_dt": "2025-02-05T19:04:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fea838d7-0e73-5520-a8b4-321cb5e6fd83",
+  "locn_geometry": "ENVELOPE(-101.668, -96.4855, 56.344, 50.7412)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

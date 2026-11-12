@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -40.0, 90.0, 35.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The data used in this compilation come from the Canadian Gravity Database (CGDB), which is managed by the Canadian Geodetic Survey (CGS), Surveyor General Branch. CGDB includes more than 755 000 observations, including some 232 000 observations on land. The distribution of the land data represents an average of one gravity point per 40 km². The gravity maps, which are gridded to a 2-km interval with a blanking radius of 20 km, currently include data acquired between 1944 and 2015. CGS and partners continue to supplement the CGDB each year. The surveys are conducted using relative gravimeters that measure the gravity difference between two locations. On the landmass, gravity has been measured primarily using static gravimeters. Although measurements at some offshore locations have been collected using static gravimeters on the ocean floor, most are acquired using dynamic gravimeters aboard moving vessels. The relative nature of the gravimeters require that surveys be tied to base (control) stations with known absolute gravity. The base stations are part of the Canadian Gravity Standardization Network (CGSN), which is tied to the International Gravity Standardization Network 1971 (IGSN71). Today, the traditional base stations are being replaced by new base stations that are measured with an absolute gravimeter having an accuracy of 2µGal (2x10-8 m/s²). All relative gravity measurements are integrated into the IGSN71 datum to create a coherent dataset at the global scale. Normal (theoretical) gravity is calculated using the Geodetic Reference System 1980 (GRS80; https://doi.org/10.1007%2FS001900050278). Bouguer anomalies, which include reductions of the elevation and topographical mass to sea level, are calculated using a vertical gravity gradient of ~0.3086 mGal/m (change slightly with latitude and elevation) and a crustal density of 2670 kg/m³."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5a4e46fe-3e52-57ce-9335-832b5e79fecc"
+  ],
+  "dct_issued_s": "2017-05-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5a4e46fe-3e52-57ce-9335-832b5e79fecc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada - Gravity data compilation",
+  "gbl_mdModified_dt": "2020-05-05T17:33:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b6a137ea-4071-53c7-b06f-6567c0c8e091",
+  "locn_geometry": "ENVELOPE(-141.0, -40.0, 90.0, 35.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

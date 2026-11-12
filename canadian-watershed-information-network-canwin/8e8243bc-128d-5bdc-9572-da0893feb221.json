@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Forest Drought Risk Assessment Tool (ForDRAT) provides estimates of stand-level drought risk for various BC tree species (Interior only at this point). Drought risk estimates are provided across different biogeoclimatic units and relative soil moisture regimes for both current and future climates. The data are currently provided in a spreadsheet, with the following columns: 1. BGC: Biogeoclimatic zone, subzone and variant. 2. Period: Data are provided for three historical periods: (i) 1961-1990 climate normal period; (ii) 1971-2000; and (iii) 1981-2010. Projected drought risk is provided for three future periods: (i) 2020 (2011-2040); (ii) 2050 (2041-2070); and (iii) 2080 (2071-2100). 3. SMR_text: Text description of relative soil moisture regime. 4. SMR: Integer code of relative soil moisture regime. 5. AET_PET: Mean annual ratio of actual to potential evapotranspiration. 6. The remaining columns provide estimated drought risk by species. Species codes are as follows: (i) Pl = lodgepole pine; (ii) Sx = hybrid white spruce; (iii) Fd = Douglas-fir (interior variety); (iv) Bl = subalpine fir; (v) Cw = western redcedar; (vi) Hw = western hemlock; (vii) Lw = western larch; (viii) Py = ponderosa pine; (ix) Ac = black cottonwood; and (x) At = trembling aspen. More species will be added over time. Details on ForDRAT development are provided in the following resources: DeLong et al. 2022: http://library.nrs.gov.bc.ca/digipub/Tr141.pdf DeLong et al. 2019: https://www.for.gov.bc.ca/hfd/pubs/Docs/Tr/TR125.pdf Foord et al. 2017: https://www.for.gov.bc.ca/hfd/pubs/Docs/En/En119.htm Nitschke and Innes. 2008: https://www.sciencedirect.com/science/article/abs/pii/S0304380007004061?via%3Dihub"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ab4dea99-9827-46de-a240-5c22af506564"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ab4dea99-9827-46de-a240-5c22af506564\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Forest Drought Risk Assessment Tool",
+  "gbl_mdModified_dt": "2026-01-28T19:42:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8e8243bc-128d-5bdc-9572-da0893feb221",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

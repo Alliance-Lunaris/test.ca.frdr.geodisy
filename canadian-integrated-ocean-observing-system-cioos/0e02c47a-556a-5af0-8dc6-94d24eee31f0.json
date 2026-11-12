@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "dcat_keyword_sm": [
+    "radiometer",
+    "oceansurfaceheatflux",
+    "polarization",
+    "sea-ice",
+    "oceans",
+    "flux-de-chaleur-oceanique-de-surface",
+    "emissions",
+    "dielectric",
+    "seaice",
+    "frequency",
+    "arcticnet",
+    "amundsen-gulf",
+    "glace-de-mer",
+    "microwave",
+    "radiation",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Températures de luminosité des micro-ondes passives basées sur la surface - Arctique canadien lors de l'étude de terrain réalisée en 2009 par ArcticNet et un partenariat industriel"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Isleifson, Dustin.",
+    "Hocheim, Klaus.",
+    "Asplin, Matthew.",
+    "Gupta, Mukesh.",
+    "Hwang, Phil."
+  ],
+  "dct_description_sm": [
+    "Continuous measurements of emissivity at 89 and 37 GHz frequencies in vertical and horizontal polarizations at a fixed elevation angle of 55 degrees during transit and scanning elevation angles of 30-150 degrees at every station were acquired. The radiometers were installed at the 200 level on the CCGS Amundsen icebreaker on the port side. Generally the instruments acquired data at the fixed elevation angle during transit, and 3-5 scans were performed at every station along with auxiliary data collection (GPS data, geographic location of the station, photographs of the same field of view, air temperature, wind data, atmospheric conditions, surface characteristics, etc.). The acquired data are in binary format which is produced for every scan and fixed modes. The time in the data logger is generally set to UTC. An example filename would be 'RADDAT-2007-11-06-122647.DAT'.",
+    "Des mesures continues de l'émissivité aux fréquences de 89 et 37 GHz dans des polarisations verticales et horizontales à un angle d'élévation fixe de 55 degrés pendant le transit et des angles d'élévation de balayage de 30 à 150 degrés à chaque station ont été acquises. Les radiomètres ont été installés au niveau 200 sur le brise-glace CCGS Amundsen, à bâbord. En général, les instruments ont acquis des données à un angle d'élévation fixe pendant le transit, et 3 à 5 scans ont été effectués à chaque station, ainsi que la collecte de données auxiliaires (données GPS, localisation géographique de la station, photographies du même champ de vision, température de l'air, données sur le vent, conditions atmosphériques, caractéristiques de la surface, etc.). Les données acquises sont au format binaire qui est produit pour chaque mode de numérisation et pour les modes fixes. L'heure de l'enregistreur de données est généralement réglée sur UTC. Un exemple de nom de fichier serait « RADDAT-2007-11-06-122647.DAT »."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/e3f0f4f5-5438-4207-bbba-9e4206e44a06"
+  ],
+  "dct_issued_s": "2015-01-16",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/e3f0f4f5-5438-4207-bbba-9e4206e44a06\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Surface-based Passive Microwave Brightness Temperatures - Canadian Arctic during the 2009 ArcticNet / Industrial Partnership Field Study",
+  "gbl_mdModified_dt": "2026-07-31T16:46:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0e02c47a-556a-5af0-8dc6-94d24eee31f0",
+  "locn_geometry": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0078023760429, -88.99186510100117, 59.99947501643445, 48.99891171503216)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "boundary",
+    "Canada",
+    "Regional Health Authority",
+    "Health",
+    "Province of Manitoba",
+    "Regions",
+    "RHA",
+    "Manitoba",
+    "service",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>Within Manitoba there are five Regional Health Authorities (or &quot;RHAs&quot;) responsible for the delivery of health services in five specific areas of the province described in the legislation as &quot;health regions.&quot; (In practice, the terms &quot;health region&quot; and &quot;RHA&quot; are often used interchangeably to describe these geographic areas.). This file contains boundaries for the health regions for each Regional Health Authority in Manitoba.</p><p><u>Fields included</u> (<b>Alias</b> (Field Name): Field description.)</p><p><b>RHA Code</b> (RHACODE): Two-digit numeric code which uniquely identifies a specific legislatively defined RHA</p><p><b>RHA Name</b> (RHAName): This field contains a simple name for each RHA, suitable for use as a label, in English. </p><p><b>Nom de l'office régionale de la santé</b> (RHANomFr): This field contains a simple name for each RHA, suitable for use as a label, in French. </p><p><b>RHA Area - total (sq km)</b> (RHAArea): The calculated geodesic area, in square kilometres, of the area within a given RHA's boundaries.</p><p><b>RHA Area - excludes major lakes (sq km)</b> (LandArea): The calculated geodesic area, in square kilometres, of the area within a given RHA's boundaries, with the area of major lakes excluded. For population density calculations, we recommend the use of this area value. The following major lakes have been excluded: Lake Winnipeg, Lake Manitoba, Lake Winnipegosis, and Cedar Lake.</p>"
+  ],
+  "dct_identifier_sm": [
+    "f73a8ed3aa6d4d02b5d1ae259fbe33b5",
+    "https://www.arcgis.com/home/item.html?id=f73a8ed3aa6d4d02b5d1ae259fbe33b5"
+  ],
+  "dct_issued_s": "2018-11-15",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-regional-health-authorities\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba Regional Health Authorities",
+  "gbl_mdModified_dt": "2022-10-26T16:00:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bb4c06d1-b309-5156-afc0-3cc4f97bc7dc",
+  "locn_geometry": "ENVELOPE(-102.0078023760429, -88.99186510100117, 59.99947501643445, 48.99891171503216)",
+  "schema_provider_s": "Data MB"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Désastre naturel",
+    "Embâcle",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère de la Sécurité publique du Québec."
+  ],
+  "dct_description_sm": [
+    "Cartes de glace produites pour la prévention des inondations par embâcle et la surveillance des glaces de rivières lors de la crue printanière, de redoux hivernaux ou encore lors de problématiques d'embâcles de frasil.\r\n\r\nLes cartes sont dérivées d’images satellitaires radar, donc disponibles quelque soit la couverture nuageuse, provenant de plusieurs sources différentes, en utilisant des algorithmes pour classer les pixels en type de couvert de glace. Les données ne sont traitées et affichées que sur les principales rivières à risque.\r\n\r\nLa date de prise de vue et la région approximative couverte par les données est indiquée dans le nom de la couche. Les données sont ajoutées plusieurs fois par semaine, mais la fréquence de revisite de chaque rivière peut varier entre 2j et 2 semaines. \r\n\r\nLes satellites et algorithmes utilisés selon les périodes sont résumés dans cette liste:\r\n\r\n* __Préfixe des images__ : période couverte ; satellite source; résolution des cartes produites ; algorithme utilisé \r\n* __R2__ : 2018 - 2022 ;  Radarsat 2 ; 7m ;  IceMap-R\r\n* __RCM__ : 2024 - maintenant ; Radarsat Constellation Mission ; 5m ; IceMap-R version 2024 \r\n* __S1__ : 2018 - maintenant; Sentinel 1 ; 12.5m ; algorithme propriétaire Arctus\r\n \r\nLes différentes classes de la légende permettent de différencier les types de glace suivants :\r\n\r\n*  __Eau (bleu foncé)__ : eau libre\r\n\r\n*  __Eau / Glace lisse (bleu)__ : combinaison d’eau sur glace, ou de radeaux de frasil espacés\r\n\r\n* __Glace lisse  (cyan)__ :  ou glace noire, le terme exact de ce type de glace est « glace columnaire », en raison de la forme verticale et allongée des cristaux qui la compose. La glace noire est une glace généralement transparente puisqu’elle ne contient que peu ou pas de bulles d’air. Elle se forme par refroidissement, en eau plutôt calme, d’où son appellation parfois de « glace thermique ». Sa surface est très lisse.\r\n\r\n* __Glace consolidée (rose pâle)__ : elle comprend la glace de frasil ou la glace de neige. La glace de frasil se forme en eau turbulente et très froide. Composée de fins cristaux arrondis. Ces grains s’accumulent et remontent à la surface pour former des radeaux de glace en mouvement. Ces radeaux finissent par être suffisamment rapprochés pour geler ensemble (glace agglomérée). Contient beaucoup de bulles d’air. Sa surface est légèrement à moyennement rugueuse. \r\n\r\n* __Glace consolidée avec amoncellements (rose foncé)__: couvert de glace formé par l’empilement et le gel de diverses formes de glace en mouvement. blocs qui se superposent ou des morceaux de glace détachés à un endroit et qui s’empilent à un autre. Surface moyennement rugueuse à très rugueuse.\r\n\r\nLes images de Radarsat-2 et RCM sont obtenues grâce à un partenariat entre Sécurité publique Canada et le MSP. \r\n\r\nL'algorithme IceMap-R développé par l'INRS permet d'identifier le type de glace en fonction de la rugosité interne de la glace (présence de bulles d'air) et de la rugosité de la surface du couvert de glace (présence de blocs et d'amoncellement). La version initale était utilisable pour Radarsat 2. Les cartes de glace RCM 2022 et 2023 sont données à titre idicatif (nouvel algorithme en rodage), seules les données depuis 2024 sont traitées avec l'algorithme Icemap-R adapté à RCM.\r\n\r\nDepuis 2018, le MSP utilise également les images de Sentinel-1, un satellite radar de l'Agence spatiale européenne dont la résolution est de 10 m, rééchantillonné à 12,5m pour les cartes de glace. Les images sont ensuite traitées par la firme Arctus qui utilise un algorithme propriétaire.\r\n\r\nLa sortie des différents algorithmes a été reclassée pour obtenir une légende comparable. Il est possible que des données historiques aient présenté une autre classification. Jusqu'en 2022, la légende variait entre l'hiver et le dégel. \r\n\r\n\r\nLe service web contient également des images satellitaires visibles issues des satellites Landsat (les préfixes des images sont alors L8, L9) ou Sentinel 2 (préfixe S2). Dans ce cas des composées colorés (fausses couleurs pour bénéficier des bandes infrarouges notamment) sont utilisés pour visualiser au mieux la présence de glace. À partir de 2024, le composé coloré S2 utilisé est le suivant :\r\n\r\n* Rouge : bande 8A (Proche Infrarouge - VNIR) 20m (rééchantillonnée à 10m)\r\n* Vert :  bande 3  (Vert) 10m \r\n* Bleu : bande 2  (Bleu) 10m"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/4a05016f-fa46-4b1d-94cf-ff45b4cb9391"
+  ],
+  "dct_issued_s": "2013-04-09",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/4a05016f-fa46-4b1d-94cf-ff45b4cb9391\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Cartes de glace",
+  "gbl_mdModified_dt": "2026-04-23T14:12:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "23454c25-e0ff-512c-ab0c-a9587266758a",
+  "schema_provider_s": "Données Québec"
+}

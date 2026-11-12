@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-85.65, -76.37, 75.43, 78.08)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "Amplicon Sequencing",
+    "Proteomics",
+    "Oceans",
+    "Arctic Ocean",
+    "other",
+    "Rubisco",
+    "Oxygène",
+    "Phytoplankton",
+    "subSurfaceSalinity",
+    "phytoplanktonBiomassAndDiversity",
+    "subSurfaceTemperature",
+    "Baffin Bay",
+    "oxygen",
+    "nutrients",
+    "seaSurfaceTemperature",
+    "Biomasse et diversité de phytoplancton",
+    "Salinité de surface",
+    "Jones Sound",
+    "seaSurfaceSalinity",
+    "Nares Strait",
+    "Température de surface",
+    "Salinité sous la surface",
+    "Nutriments",
+    "Biogeochemistry",
+    "Autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données biogéochimiques du détroit de Jones et du détroit de Nares, 2021"
+  ],
+  "dct_creator_sm": [
+    "Ice2Ocean Team."
+  ],
+  "dct_description_sm": [
+    "This August 2021 dataset provides an assessment of phytoplankton communities, Rubisco protein abundance, and associated environmental conditions from Arctic marine ecosystems, with a focus Jones Sound and Nares Strait. This metadata accompanies the publication By White et al. 2025, \"*Shifting phytoplankton ecological strategies along a continuum of tidewater glacier retreat*\". The dataset includes multiple components:\n\n**Phytoplankton Rubisco Protein Data**  \nDataset: *Rubisco_data_meta_CAA_PPCC_06052024.csv*  \nDescription: *Quantitative measurements of Rubisco peptides derived from mass spectrometry-based proteomics, including peptide-specific abundances across multiple Arctic stations. Metadata includes associated environmental parameters such as macronutrient concentrations (nitrate, phosphate, silicate) and trace metals (iron, cadmium, manganese).*\n\n**Chlorophyll-a and Environmental Tracer Data**  \nDataset: *chla_tracer_data_rubisco_CAA_PPCC.csv*  \nDescription: *Profiles of chlorophyll-a fluorescence, oxygen concentration, temperature, salinity, and turbidity for pairing with Rubisco data.*\n\n**Phytoplankton 16S Community Composition (ASVs)**  \nDataset: *formated_ASVs_chl_CAA_PPCC_04242024.csv*  \nDescription: *Amplicon sequencing data resolving the taxonomic identity of phytoplankton and microbial communities, including assigned ASVs (amplicon sequence variants) and associated metadata.*\n\n**Phytoplankton Taxonomy**  \nDataset: *formated_phytoref_chl_CAA_PPCC_04242024.csv*  \nDescription: *Taxonomy associated with ASVs as assigned via PhytoREF.*\n\n**Environmental Metadata from Arctic Stations**  \nDataset: *devon_metadata_microbial_2021_5m_meaned_complete_06_05_2024.2.csv*  \nDescription: *Hydrographic, chemical, and ecological metadata from multiple sampling sites, including glacier proximity, depth, nutrients, and CTD data.*\n\n[Ocean CTD profiles from Jones Sound, Nunavut and Adjacent Waters collected during The Ice2Ocean project](https://catalogue.ogsl.ca/en/dataset/ca-cioos_d68e578b-2835-44a0-a7d2-fa3fa6d6911a)  are also available.",
+    "Cet ensemble de données d'août 2021 fournit une évaluation des communautés de phytoplancton, de l'abondance des protéines Rubisco et des conditions environnementales associées des écosystèmes marins de l'Arctique, en mettant l'accent sur Jones Sound et le détroit de Nares. Ces métadonnées accompagnent la publication de White et al. 2025, « *Shifting phytoplancton ecological strategies along a continuum of tidewater glacier retreat* ». L'ensemble de données comprend plusieurs composants :\n \n**Données sur la protéine Rubisco du phytoplancton**  \nEnsemble de données : *Rubisco_data_meta_CAA_PPCC_06052024.csv*  \nDescription : *Mesures quantitatives des peptides de Rubisco dérivées de la protéomique basée sur la spectrométrie de masse, y compris les abondances spécifiques aux peptides dans plusieurs stations arctiques. Les métadonnées incluent les paramètres environnementaux associés tels que les concentrations de macronutriments (nitrate, phosphate, silicate) et de métaux traces (fer, cadmium, manganèse).*\n \n**Données sur la chlorophylle-A et les traceurs environnementaux**  \nEnsemble de données : *chla_tracer_data_rubisco_CAA_PPCC.csv*  \nDescription : *profils de fluorescence de la chlorophylle-a, de concentration en oxygène, de température, de salinité et de turbidité à associer aux données de Rubisco.*\n \n**Composition de la communauté du phytoplancton 16S (ASV)**  \nEnsemble de données : *formated_ASVs_chl_CAA_PPCC_04242024.csv*  \nDescription : *données de séquençage d'amplicons permettant de déterminer l'identité taxonomique du phytoplancton et des communautés microbiennes, y compris les ASV (variants de séquences d'amplicons) attribués et les métadonnées associées.*\n \n**Taxonomie du phytoplancton**  \nEnsemble de données : *formated_phytoref_chl_CAA_PPCC_04242024.csv*  \nDescription : *Taxonomie associée aux ASV telle qu'attribuée via PhytoRef.*\n\n**Métadonnées environnementales provenant des stations arctiques**  \nEnsemble de données : *devon_metadata_microbial_2021_5m_meaned_complete_06_05_2024.2.csv*  \nDescription : *métadonnées hydrographiques, chimiques et écologiques provenant de plusieurs sites d'échantillonnage, y compris la proximité des glaciers, la profondeur, les nutriments et les données CTD.*\n\n[Les profils CTD océaniques de Jones Sound, au Nunavut et des eaux adjacentes, collectés dans le cadre du projet Ice2Ocean](https://catalogue.ogsl.ca/fr/dataset/ca-cioos_d68e578b-2835-44a0-a7d2-fa3fa6d6911a) sont aussi disponible."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/ceb07c6c-0832-469d-a39f-bdcecb9b09be"
+  ],
+  "dct_issued_s": "2025-02-27",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/ceb07c6c-0832-469d-a39f-bdcecb9b09be\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Biogeochemistry Data From Jones Sound and Nares Strait, 2021",
+  "gbl_mdModified_dt": "2026-07-31T16:38:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9a287364-3116-580b-be5c-6a3127039f32",
+  "locn_geometry": "ENVELOPE(-85.65, -76.37, 75.43, 78.08)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

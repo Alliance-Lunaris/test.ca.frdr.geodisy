@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-129.586, -125.982, 59.986, 51.993)",
+  "dcat_keyword_sm": [
+    "BurnP3+",
+    "PSTA",
+    "Wildfire",
+    "Topography",
+    "Wildfires",
+    "Accuracy",
+    "Fuel Types",
+    "British Columbia",
+    "Threat Modelling",
+    "North"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Stapleton, Madeline (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "A need for accurate and comprehensive regional and local scale wildfire threat models has emerged due to increasing wildfire severity and frequency across Canada. These smaller-scale, detailed models will allow for more confident decisions to be made with regards to resource allocation for wildfire prevention, preparedness and mitigation strategies. In British Columbia, the Provincial Strategic Threat Analysis (PSTA) is the current wildfire threat model used to classify wildfire risk. A new threat model, BurnP3+, is being tested as an alternative method for predicting wildfire threat across the province. This study compared the two models at regional and local scales, using seven study areas located across northeastern BC. Various visual, descriptive and spatial analyses were conducted to determine if the older, more general, PSTA model is still accurately evaluating wildfire threat or if the more detailed, stochastic, BurnP3+ is better overall and to assess the influence of a variety of topographical features and fuel types on their threat rating dissemination. It was found that slope, elevation, aspect, heat load index (HLI) and the topographic wetness index (TWI) had little impact on the threat rating assignments for both models compared to the fuel types which detected specific fuels, primarily C-2, driving the allocations of higher threat ratings. The more equal weights applied to the BurnP3+ input layers resulted in a more inclusive, varied threat assignment, in contrast to the PSTA where the high weight applied to its head fire intensity (HFI) input layer influenced higher threat ratings overall. BurnP3+ was determined to be better suited for detailed local analysis as it is more precise in its threat assignment and representation of on the ground wildfire probability, however, the PSTA is still successful in identifying any areas that are deemed to have the possibility of developing high intensity wildfires."
+  ],
+  "dct_identifier_sm": [
+    "1147979_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/9U7Q0G"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/9U7Q0G\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Chetwynd, British Columbia, Canada",
+    "Doig River, British Columbia, Canada",
+    "Fort Nelson, British Columbia, Canada",
+    "Fort St. James, British Columbia, Canada",
+    "Halfway River, British Columbia, Canada",
+    "Mackenzie, British Columbia, Canada",
+    "Tumbler Ridge, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Comparison of the BurnP3+ and Provincial Strategic Threat Analysis Wildfire Threat Models: Determining the influence of topographical features and fuel types on their resulting threat rating assignments and the accuracy of their predictions in Northeastern British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:35:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "68f314be-1be2-5a45-bc82-431811b674de",
+  "locn_geometry": "ENVELOPE(-129.586, -125.982, 59.986, 51.993)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Canadian Homogenized Surface Air Temperature – Version 3.1 (CanHomT V3.1)\n\nThis dataset is an update of the Third Generation Homogenized Temperature dataset (Vincent et al. (2020), extended through 2023.  It was developed for climate trend analysis and includes long-term daily maximum, minimum, and mean temperature series for 780 stations (776 locations) in Canada. The key enhancement in V3.1 is the inclusion of both Original and Adjusted data, together with their associated data flags and the source station climate ID, providing improved traceability, reproducibility, and transparency. Key processing steps include:\n•\tMerging observations from nearby sites to create long records\n•\tQuality control of data \n•\tAdjusting daily minimum temperatures since July 1961 for the observing-time (climatological day definition) change at 96 principal stations (Vincent et al., 2009)\n•\tDetecting non-climatic shifts in annual and seasonal average temperature data series using homogeneity tests with reference and station metadata. \n•\tApplying Quantile-Matching (QM) adjustments with reference data (including parallel observations) to correct non-climatic changes (Vincent et al., 2018; Wang et al., 2010).\nParallel observations —simultaneous measurements from old and new instruments or locations—were used whenever available because they provide the most reliable basis for data homogenization. Adjustments made without suitable reference data carry greater uncertainty, and this increased uncertainty should be quantified and clearly communicated (WMO, 2020).\n\nThe QM method adjusts the entire distribution of data in one segment to match another (Wang et al., 2026; Vincent et al., 2018; Wang & Feng, 2013; Wang et al. 2010), ensuring that distribution changes—including variance shifts—at identified changepoints are homogenized. \n\nThe gridded version of monthly CanHomT V3.1, called CanGridT mlyV3.1 [https://open.canada.ca/data/en/dataset/781e02cc-6c1b-462e-b61b-f96c607b23bd], was found to represent Canada’s warming trend reasonably well since 1900, despite changes in data availability over time (Wang et al., 2026, see their Figure S3).  \n\nReferences\nVincent, L.A., M.M. Hartwell and X.L. Wang, 2020: A Third Generation of Homogenized Temperature for Trend Analysis and Monitoring Changes in Canada’s Climate. Atmosphere-Ocean, 58(3), 173–191. https://doi.org/10.1080/07055900.2020.1765728.\nVincent, L.A., E.J. Milewska, R. Hopkinson and L. Malone, 2009: Bias in minimum temperature introduced by a redefinition of the climatological day at the Canadian synoptic stations. J. Appl. Meteor. Climatol, 48, 2160-2168. DOI: 10.1175/2009JAMC2191.1.\nVincent, L.A., E.J. Milewska, X. L. Wang, and M. M. Hartwell, 2018. Uncertainty in homogenized daily temperatures and derived indices of extremes illustrated using parallel observations in Canada, Intl. J. Climatol., 38:2, 692-707. DOI: 10.1002/JOC.5203.\nWang, X. L. and Y. Feng, published online July 2013: RHtestsV4 User Manual. Climate Research Division, Atmospheric Science and Technology Directorate, Science and Technology Branch, Environment Canada. 28 pp. [Available online at https://github.com/ECCC-CDAS] DOI: 10.13140/RG.2.2.17309.17125. \nWang, X. L., H. Chen, Y. Wu, Y. Feng, and Q. Pu, 2010: New techniques for detection and adjustment of shifts in daily precipitation data series. J. Appl. Meteor. Climatol., 49, 2416-2436. DOI: 10.1175/2010JAMC2376.1.\nWMO. (2020). Guidelines on Homogenization (2020 edition). World Meteorological Organization. WMO-No. 1245. https://library.wmo.int/records/item/57130-guidelines-on-homogenization?offset=1.\nWang, X. L., Feng, Y., Zwiers, F. W., & Cheng, V. Y. S. (2026). Precipitation trends in version 2 of the Canadian homogenized monthly precipitation dataset. Atmosphere-Ocean, 1–16, https://doi.org/10.1080/07055900.2026.2617861."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fa10c7d6-2308-4d13-9db6-60686c86646a"
+  ],
+  "dct_issued_s": "2026-07-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fa10c7d6-2308-4d13-9db6-60686c86646a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Homogenized Surface Air Temperatures – Version 3.1 (CanHomT V3.1)",
+  "gbl_mdModified_dt": "2026-08-04T18:31:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ee597bb0-cbfc-5554-885f-76a184b6856c",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

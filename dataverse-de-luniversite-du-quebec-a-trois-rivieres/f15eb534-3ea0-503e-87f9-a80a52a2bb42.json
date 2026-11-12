@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.1390991, -65.2360992, 49.6910019, 45.1990013)",
+  "dcat_keyword_sm": [
+    "Hydrology",
+    "Flood prediction",
+    "Soil freezing",
+    "Snowmelt",
+    "Spring floods"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kinnard, Christophe (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-4553-5258"
+  ],
+  "dct_description_sm": [
+    "The file is a comma-separated file (csv). Each basin is identified by a 5 digit code (basinid) referring to the stream gauge number of the Cnetre d'expertise hydrique du Québec (CEHQ), a name (basinname), and a simplified identification number (ID ranging from 1 to 12) that refers to the published article. The name of each variable is given with its respective units and follows the nomenclature of the article, see Table 3.",
+    "This database includes the amplitude and timing of annual spring floods, as well as several antecedent hydroclimatic variables (\"flood drivers\"), for 12 river catchments in southern Québec, Canada, as publised in the article \"Mechanisms of spring freshet generation in southern Quebec, Canada\" published in 2024 in the Canadian Water Resources Journal."
+  ],
+  "dct_identifier_sm": [
+    "743639_412017",
+    "https://doi.org/10.5683/SP3/D1EOTG"
+  ],
+  "dct_issued_s": "2024-07-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/D1EOTG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Annual spring flood characteristics and hydroclimatic drivers in southern Québec",
+  "gbl_mdModified_dt": "2024-07-02T12:12:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f15eb534-3ea0-503e-87f9-a80a52a2bb42",
+  "locn_geometry": "ENVELOPE(-74.1390991, -65.2360992, 49.6910019, 45.1990013)",
+  "pcdm_memberOf_sm": [
+    "RIVE"
+  ],
+  "schema_provider_s": "Dataverse de l'Université du Québec à Trois-Rivières"
+}

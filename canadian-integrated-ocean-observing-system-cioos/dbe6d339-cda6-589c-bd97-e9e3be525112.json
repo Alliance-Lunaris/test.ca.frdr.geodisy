@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-55.15, -53.85, 47.11, 47.94)",
+  "dcat_keyword_sm": [
+    "important-habitat",
+    "seagrasscoverandcomposition",
+    "remote-sensing",
+    "oceans",
+    "habitats-important",
+    "plantes-aquatique",
+    "composition-et-couverture-des-herbiers-marins",
+    "sea-grass",
+    "placentia-bay",
+    "teledetection",
+    "baie-de-plaisance"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartes de distribution de lzostère obtenues en 2020 avec des drones dans la baie de plaisance, Terre-Neuve"
+  ],
+  "dct_creator_sm": [
+    "le bris, arnault (Fisheries and Marine Institute of Memorial University of Newfoundland)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains raster files of eelgrass distribution at three sites (Swift Current, North Harbour, and Bay de L’Eau) in Placentia Bay, Newfoundland. This dataset was collected in the summer and falls 2020 and published in 2023. The shapefiles were created using the procedure detailed in Prystay et all. 2013: 10.1139/facets-2022-0149. First, aerial images of eelgrass beds were collected using drone and a systematic survey design. Images were then combined to create orthomoisaics. Finally, orthomosaics were analyzed using an automatic classification method to distinguished eelgrass from other substrate type (sediment, seaweed). Classification was informed and validated using validation points. It is important to understand that the raster files are estimation of eelgrass distribution from aerial images. Errors may have occurred during the habitat classification. This dataset is to be used for noncommercial purposes only.",
+    "Ce jeu de données contient des rasters de la distribution de zostère à trois sites (Swift Current, North Harbour et Bay de L'Eau) dans la baie de Plaisance, à Terre-Neuve. Ces données ont été recueilli à l'été et à l'automne 2020 et publié en 2023. Les shapefiles ont été créés en utilisant la procédure détaillée dans Prystay et all. 2013 : 10.1139/facettes-2022-0149. Les images aériennes des herbiers de zostères ont été recueillies à l'aide d'un drone et d'un plan de relevé systématique. Les images ont ensuite été combinées pour créer des orthomosaïques. Enfin, les orthomosaïques ont été analysées à l'aide d'une méthode de classification automatique pour distinguer la zostère marine des autres types de substrat (sédiments, algues). La classification a été informée et validée à l'aide de points de validation. Il est important de comprendre que les raster sont une estimation de la distribution des zostères à partir d'images aériennes. Des erreurs peuvent s'être produites lors de la classification de l'habitat. Cet ensemble de données doit être utilisé à des fins non commerciales uniquement."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/8d59ee0f-e418-4fa8-8c1d-7d3b6ed8459a"
+  ],
+  "dct_issued_s": "2020-07-06",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/8d59ee0f-e418-4fa8-8c1d-7d3b6ed8459a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial 4.0 https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "dct_title_s": "Maps of eelgrass (Zostera marina) collected using drone in Placentia Bay, Newfoundland in 2020",
+  "gbl_mdModified_dt": "2026-09-04T17:29:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dbe6d339-cda6-589c-bd97-e9e3be525112",
+  "locn_geometry": "ENVELOPE(-55.15, -53.85, 47.11, 47.94)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.088495, -67.158122, 49.328075, 48.44)",
+  "dcat_keyword_sm": [
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Occurrence; Sampling; Biodiversity; Beam trawl; Snow crab",
+    "Estuaire du Saint-Laurent; Forestville; Baie-Comeau; Matane",
+    "Occurrence; Échantillonnage; Biodiversité; Chalut; Crabe des neiges",
+    "St. Lawrence Estuary; Forestville; Baie-Comeau; Matane",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biodiversité du relevé du crabe des neiges au chalut dans l'estuaire du Saint-Laurent (2019)"
+  ],
+  "dct_creator_sm": [
+    "Claude Nozères."
+  ],
+  "dct_description_sm": [
+    "A research survey on snow crab (Chionoecetes opilio) was conducted from July 7 to July 26, 2019 in the Estuary St. Lawrence River between Forestville, Baie-Comeau and Matane. The main objective of this survey was to assess the abundance of snow crab and benthic species associated with snow crab habitat. Only data for benthic species associated with snow crab habitat are presented in this dataset.  \n  \n  Data were collected according to a fixed station sampling design consisting of 66 stations, between 31 and 279 meters depth. Specimens were collected using a beam trawl with a total width of 2.8 meters and a total height of 0.76 meters. The codend was lined with a 16 millimeter stretched mesh net in order to harvest the small individuals. The hauls were made at a target speed of 2 knots and a target duration of 15 minutes. Start and end positions were recorded to calculate the distance traveled on each tow using the geosphere library in R. The average tow distance was approximately 25 m. The area covered at each tow was the product of the trawl opening and the distance traveled.  \n  \n  The two files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"Activity_Information\" file includes generic activity information, including date and location. The \"occurrence_taxon\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. To obtain the abundance and biomass assessment, contact Cedric Juillet (cedric.juillet@dfo-mpo.gc.ca).  \n  \n  For quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"ScientificnameID\" field of the occurrence file. Data quality checks were performed using the R obistools and worrms libraries. All sampling locations were spatially validated.",
+    "Un relevé de recherche sur le crabe des neiges (Chionoecetes opilio) a été réalisé du 7 au 26 juillet 2019 dans l'estuaire du Saint-Laurent entre Forestville, Baie-Comeau et Matane. L’objectif principal de ce relevé était d’évaluer l’abondance du crabe des neiges et des espèces benthiques associées à l’habitat du crabe des neiges. Seules les données des espèces benthiques associées à l’habitat du crabe des neiges sont présentées dans ce jeu de données.  \n  \n  Les données ont été récoltées selon un plan d'échantillonnage à stations fixes constitué de 66 stations, entre 31 et 279 mètres de profondeur. Les spécimens ont été récoltés à l’aide d’un chalut à perche d’une largeur totale de 2.8 mètres et une hauteur totale de 0.76 mètre. Le cul du chalut était doublé avec un filet de maille étirée de 16 millimètres afin de récolter les petits individus. Les traits ont été réalisés à une vitesse visée de 2 nœuds et d'une durée visée de 15 minutes. Les positions début et fin ont été notées pour calculer la distance parcourue à chaque trait à l'aide de la bibliothèque geosphere de R. \"\"\"La distance moyenne des traits était d’environ 25 m.\"\"\" La superficie couverte à chaque trait était le produit de l’ouverture du chalut et de la distance parcourue.  \n  \n  Les deux fichiers fournis (format DarwinCore) sont complémentaires et sont reliés par la clé « IDactivité ». Le fichier «Information_activité» comprend les informations génériques de l'activité, notamment la date et la localisation. Le fichier «occurrence_taxon» comprend la taxonomie des espèces observées, identifiées à l’espèce ou au niveau taxonomique le plus bas possible. Pour obtenir l’évaluation de l’abondance et de la biomasse, communiquez avec Cédric Juillet (cedric.juillet@dfo-mpo.gc.ca).  \n  \n  Pour les contrôles de qualité, tous les noms taxonomiques ont été vérifiés sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues. La correspondance WoRMS a été placée dans le champ « IDnomScientifique » du fichier d'occurrence. Les contrôles de la qualité des données ont été effectués à l'aide des bibliothèques R obistools et worrms. Tous les emplacements d'échantillonnage ont été validés spatialement."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/97dac757-2ef6-4144-b7d9-a0d8d51f8319"
+  ],
+  "dct_issued_s": "2021-10-26",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/97dac757-2ef6-4144-b7d9-a0d8d51f8319\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Biodiversity of the snow crab trawl survey in the St. Lawrence Estuary (2019)",
+  "gbl_mdModified_dt": "2025-02-17T19:54:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cba69872-18e0-5de7-b965-07d5e97c00e2",
+  "locn_geometry": "ENVELOPE(-69.088495, -67.158122, 49.328075, 48.44)",
+  "schema_provider_s": "Open Data Canada"
+}

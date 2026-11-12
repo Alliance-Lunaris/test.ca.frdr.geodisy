@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Météorologie",
+    "Précipitation",
+    "Climat",
+    "Climate",
+    "Meteorology",
+    "Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données horaires sur les précipitations ajustées en fonction du biais lié au vent provenant du réseau d’observations en surface automatisé d’ECCC (CanAdjAutoP hly)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Precipitation measurements in the Environment and Climate Change Canada (ECCC) surface network are a necessary component for monitoring weather and climate and are required for flood and water resource forecasting, numerical weather prediction and many other applications that impact the health and safety of Canadians. Beginning in the late 1990s, the ECCC surface network began a transition from manual to automated precipitation measurements. Advantages to increased automation include enhanced capabilities for monitoring in remote locations and higher observation frequency at lower cost. However, transition to automated precipitation gauges has resulted in new challenges to data quality, accuracy, and homogenization. Automated weighing precipitation gauges used in the ECCC operational network, because of their physical profile, tend to measure less precipitation falling as snow because lighter particles (snow) are deflected away from the collector by the wind flow around the gauge orifice. This phenomenon of wind-induced systematic bias is well documented in the literature. The observation requires an adjustment depending on gauge and shield configuration, precipitation phase, temperature, and wind speed.\n\r\n\rHourly precipitation, wind speed, and temperature for 397 ECCC automated surface weather stations were retrieved from the ECCC national archive. Climate Research Division (CRD) selected this sub-set of stations because they are critical to the continuity of various climate analysis. The observation period varies by station with the earliest data series beginning in 2001 (with most beginning in 2004). The precipitation data was quality controlled using established techniques to identify and flag outliers, remove spurious observations, and correct for previously identified filtering errors. The resulting hourly precipitation data was adjusted for wind bias using the WMO Solid Precipitation Inter-Comparison Experiment (SPICE) Universal Transfer Function (UTF) equation. A full description of this data set, including the station locations, data format, methodology, and references are included in the repository.\n\r\n\rThere are now multiple versions of this dataset available, with the later versions being the most up to date and employing the most advanced adjustment techniques. Information on versioning is included in the documentation.",
+    "Les mesures des précipitations du réseau d’observations en surface d’Environnement et Changement climatique Canada (ECCC) sont essentielles à la surveillance des conditions météorologiques et climatiques, à la prévision des inondations et des ressources en eau, à prévision numérique du temps et à plusieurs autres applications qui ont une incidence sur la santé et la sécurité des Canadiens. À partir de la fin des années 1990, le réseau d’observations en surface d’ECCC a commencé à passer des mesures manuelles des précipitations à des mesures automatisées. Les avantages d’une automatisation accrue comprennent des capacités de surveillance améliorées dans les endroits éloignés et une fréquence d’observation plus élevée à moindre coût. Cependant, le passage à des pluviomètres automatisés a entraîné de nouveaux défis en ce qui concerne la qualité, l’exactitude et l’homogénéisation des données. En raison de leurs caractéristiques physiques, les pluviomètres à pesée automatisés utilisés dans le réseau opérationnel d’ECCC ont tendance à mesurer moins de précipitations tombant sous forme de neige, étant donné que les particules plus légères (neige) sont éloignées du collecteur par le vent autour de l’orifice du pluviomètre. Ce phénomène de biais systématique induit par le vent est bien documenté dans la littérature. L’observation nécessite un ajustement en fonction de la configuration du pluviomètre et de l’écran pluviométrique, de la phase de précipitation, de la température et de la vitesse du vent.\n\r\n\rLes données sur les précipitations horaires, la vitesse du vent et la température de 397 stations météorologiques de surface automatisées d’ECCC ont été extraites des archives nationales d’ECCC. La Division de la recherche climatique (DRC) a sélectionné ce sous-ensemble de stations parce qu’elles sont essentielles à la continuité de diverses analyses climatiques. Les périodes d’observation varient en fonction de la station, les séries de données les plus anciennes commençant en 2001 (la plupart commençant en 2004). Les données sur les précipitations ont fait l’objet d’un contrôle de la qualité à l’aide de techniques établies pour détecter et signaler les valeurs aberrantes, éliminer les observations fallacieuses et corriger les erreurs de filtrage déjà relevées. Les données horaires sur les précipitations ainsi obtenues ont été ajustées en fonction du biais lié au vent à l’aide de l’équation « fonction de transfert universelle » (Universal Transfer Function [UTF]) de l’expérience de comparaison des mesures des précipitations solides (Solid Precipitation Inter-Comparison Experiment [SPICE]) de l’OMM. Une description complète de cet ensemble de données, y compris l’emplacement des stations, le format des données, la méthodologie et les références, est incluse dans le dépôt.\n\r\n\rIl existe aujourd’hui plusieurs versions de cet ensemble de données, les dernières étant les plus récentes et utilisant les techniques d’ajustement les plus avancées. Des renseignements sur les versions sont fournis dans la documentation."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e7b145ce-b277-481e-818e-f7e5af48c5e8"
+  ],
+  "dct_issued_s": "2021-11-26",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e7b145ce-b277-481e-818e-f7e5af48c5e8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Hourly wind-bias-adjusted precipitation data from the ECCC automated surface observation network (CanAdjAutoP hly)",
+  "gbl_mdModified_dt": "2025-10-23T14:11:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "49e1dc9b-94b6-58db-a328-9f94ce4ab57b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,62 @@
+{
+  "dcat_keyword_sm": [
+    "Landsat-8",
+    "Fraîcheur",
+    "Urbain",
+    "Environnement",
+    "Santé",
+    "Imagerie satellitaire",
+    "Schéma",
+    "Forêt",
+    "Chaleur",
+    "HackQC22",
+    "Ilot",
+    "Arbre",
+    "Intelligence artificielle",
+    "Température",
+    "Publique",
+    "ICU",
+    "ICFU",
+    "Changements climatiques",
+    "Géomatique",
+    "Aménagement",
+    "Télédétection",
+    "Cartographie",
+    "Développement"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "DSETT, Territoire, évaluation des impacts et adaptation au climat."
+  ],
+  "dct_description_sm": [
+    "Les données présentées sur cette page concernent la cartographie 2013-2014 des écarts de température, les cartes de classification de ces écarts de température (soit les îlots de chaleur et fraicheur urbains) et la carte de l’indice d’intensité d’îlots de chaleur urbains. Ces différentes cartes sont détaillées ci-dessous :\r\n\r\n-\tLa cartographie des __Écarts de température en °C__ représente la différence de température en ville par rapport à un boisé à proximité. Elle a été produite à l’échelle de l’écoumène du Québec (recensement de 2016, 167 764 km<sup>2</sup>). Cette cartographie, fournie sur une grille d’une résolution spatiale de 15 m, a été réalisée avec un modèle prédictif d’apprentissage automatique construit à partir de données satellitaires Landsat-8 fournies par le *United States Geological Survey (USGS)* ainsi qu’à partir d’autres variables géospatiales comme l’hydrographie et la topographie.\r\n\r\n-\tLa cartographie des classes d’écarts de température de surface, soit des __Îlots de chaleur et de fraîcheur urbains (ICFU)__ a été réalisée pour les *[centres de population du recensement de 2021](https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/pop/pop-fra.htm)* (CTRPOP) ayant au moins 1 000 habitants et une densité d’au moins 400 habitants par km<sup>2</sup> auxquels est ajoutée une zone tampon de 2 km. Elle couvre ainsi l’ensemble des grands centres urbains, soit 14 072 km<sup>2</sup>. La méthode de catégorisation des ICFU est le classement en 9 niveaux des écarts de température prédits pour chaque centre de population. Les classes 8 et 9 sont considérées comme étant des __Îlots de chaleur urbains__ et les classes 1, 2 et 3 comme des __Îlots de fraîcheurs urbains__. \r\nLes valeurs d’intervalles pour chaque classe et chaque centre de population sont présentées dans le fichier de métadonnées de production. Puisque les températures de surface ont été analysées à l’échelle de l’écoumène du Québec, mais que les intervalles des classifications ont été calculée pour chaque centre de population individuellement, les écarts de température regroupés dans les différentes classes varient d’une région à l’autre. Ainsi, il existe des différences observées dans les écarts de température prédits entre le Nord et le Sud du Québec et selon les réalités urbaines. Par exemple, un écart de température de 2°C peut être présent dans la classe 1 (plus frais) dans un centre de population situés dans le Sud du Québec, mais peut être présent dans la classe 9 (très chaud) dans un centre de population du Nord du Québec. Il est donc important d’interpréter l’identification des îlots de chaleur en relation avec la donnée d’écart de température relatif produite à l’échelle de l’écoumène du Québec.\r\n\r\n-\tLa carte __Indice d’intensité d’îlots de chaleur urbains (SUHII)__ représente l’indice Surface Urban Heat Island Intensity (SUHII). Cet indice est calculé pour chaque *[îlot de diffusion](https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/db-id/db-id-fra.htm)* (ID) de Statistique Canada inclus dans les *[centres de population du recensement de 2021](https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/pop/pop-fra.htm)* (CTRPOP). Il met en évidence les zones avec une intensité plus élevée des îlots de chaleur, par calcul d’une moyenne pondérée à partir des classes des écarts de température, accordant plus de poids aux classes les plus chaudes. Ce poids est proportionnel au numéro de la classe (p. ex. une surface de la classe 9 possède 9 fois plus d’importance dans l’indice que la même surface avec une classe 1).\r\n\r\nCes cartographies ainsi que celles de *[2020-2022](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2020-2022)* sont utilisées pour l’*[Analyse de changement entre la cartographie des îlots de chaleur/fraîcheur 2013-2014 et 2020-2022](https://www.donneesquebec.ca/recherche/dataset/analyse-de-changement-ilots-chaleur-fraicheur-et-indice-intensite-ilots-chaleur-urbains)*.\r\n\r\nPour plus de détails sur la création des différentes cartes ainsi que sur leurs avantages, limites et utilisations potentielles, consultez la *[Technote](https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2013-2014/resource/0696b7d8-b02f-4fcf-9876-1a3cec0587cd)* (version vulgarisée) et/ou le *[rapport méthodologique]( https://www.donneesquebec.ca/recherche/dataset/ilots-de-chaleur-fraicheur-urbains-et-ecarts-de-temperature-relatifs-2013-2014/resource/a33969ba-143a-4524-88c3-8ec7485676b1)* (version complète).\r\n\r\nLa production de ces données a été coordonnée par l’Institut national de santé publique du Québec (INSPQ) et réalisée par le laboratoire de télédétection forestière du Centre d’Enseignement et de Recherche en Foresterie (CERFO), financé dans le cadre du *[Plan d’action 2013-2020 sur les changements climatiques](https://www.environnement.gouv.qc.ca/changementsclimatiques/plan-action.asp)* du gouvernement du Québec intitulé Le Québec en action vert 2020."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/0512ae16-1273-46e2-ae09-a87a80437079"
+  ],
+  "dct_issued_s": "2022-10-26",
+  "dct_publisher_sm": [
+    "Institut national de santé publique du Québec (INSPQ)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/0512ae16-1273-46e2-ae09-a87a80437079\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Éducation et recherche",
+    "Santé",
+    "Infrastructures",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Îlots de chaleur/fraîcheur urbains, écarts de température et indice d’intensité d’îlots de chaleur urbains 2013-2014",
+  "gbl_mdModified_dt": "2026-07-24T18:20:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eac06ff8-c323-55c5-869e-a3ac56207298",
+  "schema_provider_s": "Données Québec"
+}

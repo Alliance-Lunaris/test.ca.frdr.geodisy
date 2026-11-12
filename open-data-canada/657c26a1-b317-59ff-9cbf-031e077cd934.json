@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "dcat_keyword_sm": [
+    "Eaux souterraines",
+    "Water surface",
+    "Glace",
+    "Land surface",
+    "Hydropattern",
+    "Land Use",
+    "Eau de surface",
+    "Land Cover",
+    "Surface water",
+    "hydrosphère",
+    "Hydrosphere",
+    "Utilisation des Terres",
+    "Paysages",
+    "Hydropattern",
+    "Landscapes",
+    "Couverture des Terres",
+    "Earth Sciences",
+    "Sciences de la Terre",
+    "Surface de l'eau",
+    "Cours d'eau",
+    "Ground Water",
+    "Ice",
+    "Rivers",
+    "Surface émergée"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Composites multispectraux sans nuages des canaux 1 à 5 de l’AVHRR sur le Canada à une résolution spatiale de 1 km, produits tous les 10 jours depuis janvier 1985"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The Canadian long term satellite data record (LTDR) derived from 1-km resolution Advanced Very High Resolution Radiometer (AVHRR) data was produced by the Canada Center for Remote Sensing (CCRS). Processing included: geolocation, calibration, and compositing using Earth Observation Data Manager (Latifovic et al. 2005), cloud screening (Khlopenkov and Trishchenko, 2006), BRDF correction (Latifovic et. al., 2003), atmosphere and other corrections as described in Cihlar et. al. (2004). For temporal analysis of vegetation cross-sensor correction of Latifovic et al. (2012) is advised. Data collected by the AVHRR instrument on board the National Oceanic and Atmospheric Administration (NOAA) 9,11,14,16,17,18 and 19 satellites were used to generate Canada-wide 1-km 10-day AVHRR composites. Data are available starting in 1985. It is important to note that there are three types of AVHRR sensors: (i) AVHRR-1 flown onboard TIROS-N, NOAA-6, NOAA-8, and NOAA-10; (ii) AVHRR-2 flown onboard NOAA-7, NOAA-9, NOAA-11, NOAA-12, and NOAA-14; and (iii) AVHRR-3 currently operational onboard NOAA-15, NOAA-16, NOAA-17, NOAA-18 and NOAA-19. The AVHRR-1 has four channels, AVHRR-2 has five channels and the AVHRR-3 has six channels, although only five channels of AVHRR-3 can be operational at any one time. As such, channels 3A (1.6 m) and 3B (3.7 m) work interchangeably. The processing procedure was designed to minimize artefacts in AVHRR composite images. There are thirty six 10-day image composites per year. The following three processing levels are provided:  P1) top of atmosphere reflectance and brightness temperature, P2) reflectance at surface and surface temperature and P3) reflectance at surface normalized to a common viewing geometry (BRDF normalization). The processing level P1 and P2 are provided for all 36 composites while level P3 is provided for 21 composites from April – October.",
+    "L’archive canadienne de données satellitaires à long terme (ADSLT) a été produite par le Centre canadien de télédétection (CCT) à partir de données à une résolution de 1 km du capteur AVHRR (radiomètre perfectionné à très haute résolution). Le traitement de ces données comprenait la géolocalisation, l’étalonnage et la production de composites au moyen du gestionnaire de données d’observation de la Terre (Latifovic et coll., 2005), le filtrage des nuages (Khlopenkov et Trishchenko, 2006), la correction BRDF (Latifovic et coll., 2003), ainsi que la correction atmosphérique et les autres corrections décrites par Cihlar et coll. (2004). Pour l’analyse temporelle de la végétation, la correction intercepteurs de Latifovic et coll. (2012) est recommandée. Les données recueillies par l’instrument AVHRR à bord des satellites 9, 11, 14, 16, 17, 18 et 19 de la National Oceanic and Atmospheric Administration (NOAA) ont été utilisées pour produire des composites AVHRR sur 10 jours couvrant le Canada, à une résolution de 1 km. Les données sont disponibles à partir de 1985. Il est important de noter qu’il existe trois types de capteurs AVHRR : (i) l’AVHRR-1, à bord des satellites TIROS-N, NOAA-6, NOAA-8 et NOAA-10; (ii) l’AVHRR-2, à bord des satellites NOAA-7, NOAA-9, NOAA-11, NOAA-12 et NOAA-14; et (iii) l’AVHRR-3, actuellement opérationnel à bord des satellites NOAA-15, NOAA-16, NOAA-17, NOAA-18 et NOAA-19. Le capteur AVHRR-1 possède quatre canaux, l’AVHRR-2 en possède cinq et l’AVHRR-3 en possède six, bien que seulement cinq de ses canaux puissent fonctionner simultanément. En effet, les canaux 3A (1,6 µm) et 3B (3,7 µm) sont interchangeables. La procédure de traitement a été conçue pour minimiser les artefacts dans les images composites AVHRR. On compte 36 composites sur 10 jours par année. Les trois niveaux de traitement suivants sont prévus : P1) réflectance au sommet de l’atmosphère et température de brillance; P2) réflectance à la surface et température de surface; et P3) réflectance à la surface normalisée selon une géométrie de visée commune (normalisation selon le facteur de réflectance bidirectionnelle [BRDF]). Les niveaux de traitement P1 et P2 sont prévus pour la totalité des 36 composites, tandis que le niveau P3 est prévu pour les 21 composites d’avril à octobre."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9045136a-d6e7-a825-491d-ee5dc77a2620"
+  ],
+  "dct_issued_s": "2018-02-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9045136a-d6e7-a825-491d-ee5dc77a2620\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Multi-Spectral Clear-Sky Composites of AVHRR Channels (1 - 5) Over Canada at 1 km Spatial Resolution and 10-Day Intervals Since January, 1985",
+  "gbl_mdModified_dt": "2026-09-29T19:01:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "657c26a1-b317-59ff-9cbf-031e077cd934",
+  "locn_geometry": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "schema_provider_s": "Open Data Canada"
+}

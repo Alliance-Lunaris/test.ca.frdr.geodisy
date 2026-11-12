@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Climat",
+    "Climate",
+    "Climatology",
+    "Climatologie",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Climatologie mensuelle par satellite de la température de la surface de la mer de la zone économique exclusive du Canada dans le Pacifique (2003-2020) - Résolution 1 km"
+  ],
+  "dct_creator_sm": [
+    "Lu Guan."
+  ],
+  "dct_description_sm": [
+    "Description:\nNight-time sea surface temperature (SST) was retrieved from the MODIS instrument on the Aqua satellite, with data distributed by the NASA Ocean Biology Processing Group, and averaged into monthly climatological composites. The data span the years 2003-2020; records were created at 1 km pixel resolution to be consistent with other satellite products.\n\nMethods:\nMODIS-Aqua night long-wave Sea Surface Temperature (SST) images were acquired from the NASA Ocean Biology Processing Group at processing Level-2 (version 2018), 1-km resolution, spanning the period 2003-01-01 to 2020-12-31. Image pixels were aligned and mapped to a regular grid using the SeaDAS program, retaining all pixels with a quality level of ‘1’ or lower, which is recommended for scientific analysis. The monthly mean value at all pixels was calculated for individual years, and used to produce maps of the monthly climatological mean and standard deviation of SST. Additionally, the number of occurrences of valid data at each pixel over the period of observation were calculated. Pixels with fewer than two occurrences over the entire period of observation were removed from these maps, and set to a NaN value in the tif files. A few small gaps between pixels (near the edges of individual images) were filled using the median value of surrounding pixels, provided there were greater than 4 values. Finally, all rasters were cropped to the Canadian Exclusive Economic Zone and assigned to the NAD83 geographic coordinate reference system (EPSG:4269), and have a final pixel resolution of approximately 0.01 degrees. The monthly mean, monthly standard deviation, and number of occurrences for all pixels are provided.\n\nData Sources:\nNASA Ocean Biology Processing Group. (2017). MODIS-Aqua Level 2 Ocean Color Data Version R2018.0. NASA Ocean Biology Distributed Active Archive Center. https://doi.org/10.5067/AQUA/MODIS/L2/OC/2018\n\nUncertainties:\nSatellite values have been evaluated against global datasets, and datasets of samples in the Pacific region (see references). However, uncertainties are introduced when averaging together images over time as each pixel has a differing number of observations. Short-lived or spatially limited events may be missed.",
+    "Description:\nLes données sur la température de la surface de la mer (SST) de nuit ont été tirées du MODIS sur le satellite Aqua; les données ont été distribuées par l’Ocean Biology Processing Group de la NASA, puis la valeur moyenne a été calculée en composites climatologiques mensuels. Les données couvrent les années 2003 à 2020; des dossiers ont été créés pour que la résolution de 1 km soit compatible avec les autres produits satellites.\n\nMéthodes:\nLes images nocturnes à grande longueur d’onde du satellite MODIS-Aqua représentant la température à la surface de la mer (SST) ont été acquises auprès de l’Ocean Biology Processing Group de la NASA au niveau de traitement 2 (version 2018); leur résolution est de 1 km et porte sur la période allant du 1er janvier 2003 au 31 décembre 2020. Les pixels des images ont été alignés et tracés sur une grille régulière à l’aide du programme SeaDAS, en conservant tous les pixels dont le niveau de qualité était de « 1 » ou inférieur, ce qui est recommandé pour les analyses scientifiques. La valeur moyenne mensuelle de tous les pixels a été calculée pour des années individuelles et utilisée pour produire des cartes de la moyenne climatologique mensuelle et de l’écart-type de la SST. En outre, on a calculé le nombre d’occurrences de données valides à chaque pixel pendant la période d’observation. Les pixels comprenant moins de deux occurrences pendant toute la période d’observation ont été supprimés de ces cartes et définis à une valeur NaN dans les fichiers tif. Quelques petits écarts entre les pixels (près des bords des images individuelles) ont été comblés à l’aide de la valeur médiane des pixels environnants, à condition qu’il y ait plus de quatre valeurs. Toutes les trames obtenues ont été recadrées à la zone économique exclusive canadienne et assignées au système de référence des coordonnées géographiques NAD83 (EPSG:4269), et ont une résolution finale en pixels d’environ 0,01 degré. La moyenne mensuelle, le facteur d’écart-type mensuel et le nombre d’occurrences pour tous les pixels sont fournis.\n\nSources de données:\nNASA Ocean Biology Processing Group. (2017). MODIS-Aqua Level 2 Ocean Color Data Version R2018.0. NASA Ocean Biology Distributed Active Archive Center. https://doi.org/10.5067/AQUA/MODIS/L2/OC/2018\n\nIncertitudes:\nLes valeurs obtenues par satellite ont été évaluées en fonction de jeux de données mondiaux et de jeux de données d’échantillons dans la région du Pacifique (voir les références). Cependant, des incertitudes sont engendrées lors du calcul groupé de la moyenne des images au fil du temps, car chaque pixel présente un nombre différent d’observations. Des événements de courte durée ou limités dans l’espace peuvent ne pas être pris en compte."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ecca47d7-835b-419f-91ae-ae4f601070a3"
+  ],
+  "dct_issued_s": "2021-08-04",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ecca47d7-835b-419f-91ae-ae4f601070a3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Monthly Satellite Sea Surface Temperature Climatology of the Canadian Pacific Exclusive Economic Zone (2003-2020) – 1 km Resolution",
+  "gbl_mdModified_dt": "2026-03-24T09:07:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f977f596-bd64-53c1-b123-8b0a873d7481",
+  "locn_geometry": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

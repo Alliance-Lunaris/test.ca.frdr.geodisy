@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(122.566667, 122.566667, 49.266667, 49.266667)",
+  "dcat_keyword_sm": [
+    "riparian buffer",
+    "riparian zone",
+    "Riparian Ecology",
+    "forest harvest",
+    "carbon dioxide",
+    "headwater streams",
+    "methane",
+    "nitrous oxide"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Silverthorn, Teresa (University of British Columbia). ORCID: https://orcid.org/0000-0001-6152-6573",
+    "Richardson, John (University of British Columbia). ORCID: https://orcid.org/0000-0001-8135-7447"
+  ],
+  "dct_description_sm": [
+    "The three .csv files contain GHG flux data for CO2, CH4, and N2O, respectively. The ID column contains a unique identifier based on the date, site, and chamber. The Date column contains the date that the gas sample was taken. The Week column contains a number corresponding to a week (1= week of May 23, 2019). The DIS_ND column indicated whether the chamber was located in a groundwater discharge zone (DIS) or not (ND). The Site indicates which of the 9 sites the GHG measurement was taken from. The Collar column indicates which of the 6 chambers at each site the GHG samples was taken from, and whether or not it was a DIS or ND chamber. The Treatment column indicates which of the three treatments the GHG measurement was taken from (R=reference, B=buffer, NB=no buffer). The M_W column indicates whether the GHG measurement was from the monthly sampling regime, or the weekly sampling regime (M=monthly, W=weekly).  The linear.f0 column indicates the flux rate of the given gas in units of mg CO2-C m-2 h-1, µg CH4-C m-2 h-1, and µg N2O-N m-2 h-1, respectively. The remaining columns to the right contain diagnostic information provided by the \"gasfluxes\" R package (see the package for more details about these).",
+    "This data supports the 2021 publication \"Forest management impacts on greenhouse gas fluxes from riparian soils along headwater streams\" in Ecosystems. \nAbstract: Increasing concentrations of atmospheric greenhouse gases (GHGs; CO2, CH4, N2O) causes climate change. Depending on the conditions, soils have the potential to store carbon or to be a source of GHGs to the atmosphere. Riparian soils in particular have high potential to store carbon, but also to be sources of CH4 and N2O. Headwater streams make up a large proportion of stream length in a drainage network, and their riparian zones have valuable ecosystem functions. In parallel, the riparian zones of headwater streams are particularly vulnerable to forest harvest. Studies of GHG fluxes from these unique ecosystems remain limited. Our objective was to quantify the effects of forestry practices and groundwater discharge (DIS) areas on GHG emissions from riparian forest soils in coastal British Columbia. We compared nine sites with three different forest management protocols: 1) harvesting with a riparian buffer, 2) no buffer, and 3) reference sites without harvesting. We measured gas fluxes, soil temperature, soil moisture and depth to the groundwater table alongside headwater streams monthly over one growing season. We found that CH4 uptake rates were 65% lower at the no buffer sites, and N2O emission rates were 52% lower at the no buffer sites, when compared to the reference sites. Additionally, CH4 uptake was 54% lower at DIS areas than in non-DIS areas. The results of our research help inform forest management by demonstrating that maintaining riparian buffers can be effective in protecting the ecosystem functions contributing to soil GHG fluxes."
+  ],
+  "dct_identifier_sm": [
+    "143514_73901",
+    "https://doi.org/10.5683/SP2/5KLUXO"
+  ],
+  "dct_issued_s": "2021-02-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/5KLUXO\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Forest management impacts on greenhouse gas fluxes from riparian soils along headwater streams",
+  "gbl_mdModified_dt": "2021-02-17T19:32:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9bf3bdb2-1041-5a15-b609-34fd42fa1b56",
+  "locn_geometry": "ENVELOPE(122.566667, 122.566667, 49.266667, 49.266667)",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

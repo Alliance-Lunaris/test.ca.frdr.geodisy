@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Géobase",
+    "Voie",
+    "SIRR",
+    "Réseau routier",
+    "Toponymie",
+    "PoleARTM",
+    "Route",
+    "Rue",
+    "Adresse",
+    "Sens"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "La géobase double se présente comme une projection du réseau filamentaire de la géobase qui simule approximativement les limites des trottoirs et bordures.  Les [pôles de géobase](/ville-de-montreal/geobase-pole), une représentation ponctuelle des côtés gauche et droit des tronçons segmentés du réseau routier, sont également disponibles sur le portail.\r\n\r\nL'[API de Planif-Neige](https://donnees.montreal.ca/ville-de-montreal/deneigement) fait référence à une version statique des données de la géobase double extraite en début de saison. Pour suivre les modifications apportées durant la saison hivernale, vous pouvez vous référer aux ensembles de données suivants: [Géobase - gestion tronçons](https://donnees.montreal.ca/ville-de-montreal/geobase-gestion-troncon) et [Géobase - tronçons détruits](https://donnees.montreal.ca/ville-de-montreal/geobase-troncon-detruit).\r\n\r\nEnsembles de données connexes:\r\n\r\n- [Géobase - réseau routier](http://donnees.montreal.ca/dataset/geobase)\r\n- [Géobase - pôles](http://donnees.montreal.ca/dataset/geobase-pole)\r\n- [Géobase - tronçons détruits](http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\r\n- [Géobase - gestion tronçons](http://donnees.montreal.ca/dataset/geobase-gestion-troncon)\r\n- [Géobase - noeuds](http://donnees.montreal.ca/dataset/geobase-noeud)\r\n\r\n __Avertissements__\r\n\r\n- Les données diffusées (Géobase - côtés de rue du réseau routier) doivent être utilisées en respectant la politique et la licence en matière de données ouvertes de la Ville de Montréal.\r\n- Les données diffusées (Géobase - côtés de rue du réseau routier) sont celles qui se trouvent en notre possession et ne sont pas nécessairement à jour sur l'ensemble du territoire.\r\n- Les données diffusées (Géobase - côtés de rue du réseau routier) sont fournies seulement à titre indicatif et ne devraient pas être utilisées aux fins de conception ou réalisation des travaux, ni aux fins de localisation des actifs.\r\n- La Ville de Montréal et la Division de la géomatique ne pourront pas être tenues responsables des imprécisions ou inexactitudes des données diffusées (Géobase - côtés de rue du réseau routier)."
+  ],
+  "dct_identifier_sm": [
+    "https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405"
+  ],
+  "dct_issued_s": "2014-12-03",
+  "dct_publisher_sm": [
+    "Ville de Montréal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://donnees.montreal.ca/dataset/88493b16-220f-4709-b57b-1ea57c5ba405\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Géobase double - côtés de rue du réseau routier",
+  "gbl_mdModified_dt": "2026-09-23T21:08:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2b1e4a30-0511-5fc6-8570-bdb2eb329488",
+  "schema_provider_s": "Montréal Données Ouvertes"
+}

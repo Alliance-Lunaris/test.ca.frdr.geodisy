@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 71.0, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Organic soils in the boreal forest commonly store as much carbon as the vegetation above ground. While recent efforts through the National Forest Inventory has yielded new spatial datasets of forest structure across the vast area of Canada’s boreal forest, organic soils are poorly mapped. In this geospatial dataset, we produce a map primarily of forested and treed peatlands, those with more than 40 cm of peat accumulation and over 10% tree canopy cover.  National Forest Inventory ground plots were used to identify the range of forest structure that corresponds to the presence of over 40 cm of peat soils.  Areas containing that range of forest cover were identified using the National Forest Inventory k-NN forest structure maps and assigned a probability (0-100% as integer) of being a forested or treed peatland according to a statistical model.  While this mapping product captures the distribution of forested and treed peatlands at a 250 m resolution, open, completely treeless peatlands are not fully captured by this mapping product as forest cover information was used to create the maps.  \n  \n    The methodology used in the creation of this product is described in:  \n  \n  Thompson DK, Simpson BN, Beaudoin A. 2016. Using forest structure to predict the distribution of treed boreal peatlands in Canada. Forest Ecology and Management, 372, 19-27. https://cfs.nrcan.gc.ca/publications?id=36751  \n  \n    This distribution uses an updated forest attribute layer current to 2011 from:  \n  \n  Beaudoin A, Bernier PY, Villemaire P, Guindon L, Guo XJ. 2017. Species composition, forest properties and land cover types across Canada’s forests at 250m resolution for 2001 and 2011. Natural Resources Canada, Canadian Forest Service, Laurentian Forestry Centre, Quebec, Canada. https://doi.org/10.23687/ec9e2659-1c29-4ddb-87a2-6aced147a990  \n  \n    Additionally, this distribution varies slightly from the original published in 2016 in that here slope data is derived from the CDEM: https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333  \n  \n    The above peatland probability map was further processed to delineate bogs vs fens (based on mapped Larix content via the k-NN maps), as well as an approximation of the extent of open peatlands using EOSD data.  The result is a 9-type peatland map with a more complete methodology as detailed in:  \n  \n    Webster, K. L., Bhatti, J. S., Thompson, D. K., Nelson, S. A., Shaw, C. H., Bona, K. A., Hayne, S. L., & Kurz, W. A. (2018). Spatially-integrated estimates of net ecosystem exchange and methane fluxes from Canadian peatlands. Carbon Balance and Management, 13(1), 16. https://doi.org/10.1186/s13021-018-0105-5  \n  \n    In plain text, the legend for the 9-class map is as follows:  \n  \n  value=\"0\" label=\"not peat\" alpha=\"0\"  \n  \n  value=\"1\" label=\"Open Bog\" alpha=\"255\" color=\"#0a4b32\"  \n  \n  value=\"2\" label=\"Open Poor Fen\" alpha=\"255\" color=\"#5c5430\"  \n  \n  value=\"3\" label=\"Open Rich Fen\" alpha=\"255\" color=\"#792652\"  \n  \n  value=\"4\" label=\"Treed Bog\" alpha=\"255\" color=\"#6a917b\"  \n  \n  value=\"5\" label=\"Treed Poor Fen\" alpha=\"255\" color=\"#aba476\"  \n  \n  value=\"6\" label=\"Treed Rich Fen\" alpha=\"255\" color=\"#af7a8f\"  \n  \n  value=\"7\" label=\"Forested Bog\" alpha=\"255\" color=\"#aad7bf\"  \n  \n  value=\"8\" label=\"Forested Poor Fen\" alpha=\"255\" color=\"#fbfabc\"  \n  \n  value=\"9\" label=\"Forested Rich Fen\" alpha=\"255\" color=\"#ffb6db\"  \n  \n  This colour scale is given in qml/xml format in the resources below.  The 9-type peatland map from Webster et al 2018 was further refined slightly following two simple conditions: (1) any 250-m raster cell with greater than 40% pine content is classified as upland (non-peat); (2) all 250-m raster cells classified as water or agriculture via the NRCan North American Land Cover Monitoring System (https://doi.org/10.3390/rs9111098) is also classified as non-peatland (value of zero in the 9-class map.  This mapping scheme was used at a regional scale in the following paper:  \n  \n    Thompson, D. K., Simpson, B. N., Whitman, E., Barber, Q. E., & Parisien, M.-A. (2019). Peatland Hydrological Dynamics as A Driver of Landscape Connectivity and Fire Activity in the Boreal Plain of Canada. Forests, 10(7), 534. https://doi.org/10.3390/f10070534  \n  \n    And is reproduced here at a national scale.    \n  \n  Note that this mapping product does not fully capture all permafrost peatland features covered by open canopy spruce woodland with lichen ground cover.  Nor are treeless peatlands near the northern treeline captured in the training data, resulting in unknown mapping quality in those regions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/62d63169-7739-4515-9178-8f628c32a9d4"
+  ],
+  "dct_issued_s": "2022-08-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/62d63169-7739-4515-9178-8f628c32a9d4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Distribution of peatlands in Canada using National Forest Inventory forest structure and ancillary land cover data (2011)",
+  "gbl_mdModified_dt": "2025-09-19T15:10:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3545c50e-bbdd-5118-9f3a-d2a956b18f4e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 71.0, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

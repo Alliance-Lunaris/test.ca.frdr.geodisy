@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2287263404578, -123.03279700689018, 49.292256818152964, 49.20395661145449)",
+  "dcat_keyword_sm": [
+    "historical",
+    "map"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>This map shows the location, building materials and footprint of buildings; the original water line where it differs from the 1912 shoreline; some proposed developments; electoral wards; legal land descriptions; lot sizes; street and lane widths; and old street names that had been recently changed.</p><p> In 1912, Vancouver, Point Grey and South Vancouver were three separate municipalities  District Lot 301 and Hastings Townsite had both been annexed by the City of Vancouver in 1911. All three municipalities are included in the map, but Stanley Park was not included.</p><p> The original paper map includes a third volume which covers New Westminster: this volume is not included in the dataset. </p><h3>Data Access<br></h3><p>The digitized maps are available in ECW and TIFF format. Links to individual tiles are available from the map view. </p><p>Alternately you can download a single \n      <a class=\"file-zip\" href=\"https://webtransfer.vancouver.ca/opendata/1912ecw/VancouverHistoricalMosaic.zip\">zipped ECW file of the entire mosaic map (1.07 GB)</a>. </p><h3>Attributes</h3><p>Please see page \n      <a href=\"https://opendata.vancouver.ca/pages/goads-fire-insurance-map-1912-attributes/\">Understanding Goad's fire insurance map. </a></p><h3>Coordinate system</h3><p>The map showing the location of individual tiles is in WGS84. </p><p>The ECW and TIFF files are projected in UTM Zone 10, NAD83 (CSRS).</p></div> <h3>Note</h3><div><p>This map is in the public domain.</p><p>Fire insurance maps are created to depict information used to determine fire insurance liability. These maps typically include information on the materials used in a building and, for commercial buildings, the business that operated there if that use affected fire risk.</p><p> Historical fire insurance maps are used today to aid research into the histories of neighbourhoods and individual properties, particularly the changes in site use over time.</p><p> This map was created by collecting information from approved Registered Plans filed with the Land Registry Office and on-site surveys. Please note that the street names reflect those of the day; many of the street names in the municipalities of Point Grey and South Vancouver were different before their amalgamation with Vancouver in 1929. Some streets in Point Grey also have current and historical names noted. After Point Grey separated from South Vancouver in 1908, some street names were changed.</p></div> <h3>Data currency</h3><div><p>Data current as of July 3, 1912. Georectification (a process converting scanned map images to a standard map coordinate system) performed December 2014.</p></div> <h3>Data accuracy</h3><div><p>The original map was not intended to be used as one large unit. We have attempted to align the streets with the current street grid where appropriate.</p><p> The street network in areas undeveloped in 1912 reflects what municipalities might have planned to build, but in some cases did not end up constructing. Of particular note are the University Endowment Lands and south-east Vancouver, where what this map depicts bears no relation to what was actually built when those areas were developed decades later. </p><p>In the map view, <span class=\"highlight\">the points represent a centre point in a polygon. Due to georectification (a process converting scanned map images to a standard map coordinate system), user may have to download adjacent section files in order to view the desired location.</span></p></div> "
+  ],
+  "dct_identifier_sm": [
+    "goads-fire-insurance-map-1912-georectified",
+    "https://opendata.vancouver.ca/explore/dataset/goads-fire-insurance-map-1912-georectified"
+  ],
+  "dct_issued_s": "2019-06-24",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/goads-fire-insurance-map-1912-georectified\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Geography and imagery"
+  ],
+  "dct_title_s": "Goad's Fire Insurance Map 1912 (georectified)",
+  "gbl_mdModified_dt": "2019-06-24T17:23:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c043e589-5728-556a-9a9d-fcff6e7830eb",
+  "locn_geometry": "ENVELOPE(-123.2287263404578, -123.03279700689018, 49.292256818152964, 49.20395661145449)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

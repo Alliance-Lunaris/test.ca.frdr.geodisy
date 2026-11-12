@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Batiment patrimonial",
+    "Histoire",
+    "Donnee ouverte",
+    "Culture",
+    "Patrimoine bati",
+    "Patrimoine"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polygonale de l'inventaire du patrimoine bâti sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n  Inventaire réalisé par la firme PatriArch en 2010, 2014, 2021.\n\n**Méthode de collecte**\n  Localisation à l'adresse, sur le bâtiment.\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `description` (`String`) : \n* `rapport` (`String`) : \n* `nom_batiment` (`String`) : \n* `liens_jpg` (`String`) : \n* `classe` (`String`) : \n* `lien_photo` (`String`) : \n* `piia` (`String`) : \n* `st_area(shape)` (`Double`) : \n* `st_length(shape)` (`Double`) : \n* `annee_inventaire` (`String`) : \n* `avis_de_categorisation` (`String`) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/062c8a3346ec4a05bd87ccc3fcbb838b\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/8c2a401b-1fd6-4780-939e-b75e2fde503c"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/8c2a401b-1fd6-4780-939e-b75e2fde503c\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs",
+    "Société et culture"
+  ],
+  "dct_title_s": "Bâtiments patrimoniaux - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-01T14:02:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7231fdcc-29b3-5d9b-9af2-627681375262",
+  "schema_provider_s": "Données Québec"
+}

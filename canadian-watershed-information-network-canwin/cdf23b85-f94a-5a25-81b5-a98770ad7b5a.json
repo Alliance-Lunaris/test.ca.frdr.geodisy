@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.0, -50.0, 70.0, 34.28)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "As part of the climate change research, data from the SPOT/VEGETATION instrument are systematically corrected for period 1998-2004 and provided in this archive. The VGT archive contains observations acquired by the VEGETATION sensors 1 and 2 onboard SPOT 4 and 5 satellites. Initial data type 10-day S10 composites provided by the Centre National d'Etudes Spatiales (CNES) and pre-processed at the Flemish Institute for Technological Research (VITO) in Belgium in full resolution (1km) were re-projected into standard Lambert conformal conic map projection and further corrected for bi-directional Reflectance Distribution Function (BRDF) effect and cloud contamination. Growing seasons 1998-2004 are presented with twenty 10-day composites from April 11, to October 31. Each composite contains four at-surface apparent reflectance bands: blue (0.43-0.47 mm), red (0.61-0.68 mm), near infrared (0.78-0.89 mm), and shortwave infrared (1.58-1.75mm) and two data layers containing normalized difference vegetation index (NDVI) and Cloud mask. The 10-day composite data were reprocessed following Canada Centre for Remote Sensing (CCRS) post-seasonal correction. This improved product is used in land cover and climate change studies to generate various high-level products such as Fraction of Photosynthetically Active Radiation (FPAR) and Leaf Area Index (LAI)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d6148a33-c23e-5960-9394-99e59a12c0c1"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d6148a33-c23e-5960-9394-99e59a12c0c1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada 1-km, 10-day, SPOT/VEGETATION composites for growing season-2001-03-31",
+  "gbl_mdModified_dt": "2022-02-22T22:55:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cdf23b85-f94a-5a25-81b5-a98770ad7b5a",
+  "locn_geometry": "ENVELOPE(-170.0, -50.0, 70.0, 34.28)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

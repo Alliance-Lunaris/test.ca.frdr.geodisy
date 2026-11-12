@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3952, -123.3216, 48.4505, 48.3936)",
+  "dcat_keyword_sm": [
+    "parcels",
+    "land",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<p>The Parcels (PID based) dataset is parcel geometry drawn by Parcel Identifier (PID).  A PID uniquely identifies a parcel in the Land Title Register of BC.  Strata lots are represented by an overlapping copy of the parent parcel.  Data gets copied to the Open Data Portal daily. </p><p>Parcel Types: Air Parcel (AP), Bare Land Strata Common Property (BLSCP), Bare Land Strata Lot (BLSL), Church Plan (CP), Land (LA), Lease (LE), Other (OTH), Park (PA), Strata Common Property (SCP), Strata Lot (SL).</p><p>The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description.  We update our data through scripts which does not trigger the &quot;last updated&quot; date to change.</p><p></p><p>Note: Attributes represent each field in a dataset, and some fields will contain information such as ID numbers.  As a result some visualizations on the tabs on our Open Data page will not be relevant.</p>"
+  ],
+  "dct_identifier_sm": [
+    "901cb49452d14dd2855fa701311f0545",
+    "https://www.arcgis.com/home/item.html?id=901cb49452d14dd2855fa701311f0545"
+  ],
+  "dct_issued_s": "2019-01-02",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::parcels-pid-based\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Parcels (PID based)",
+  "gbl_mdModified_dt": "2024-11-04T17:11:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6b4438eb-2398-5714-874a-ea63da4a21f7",
+  "locn_geometry": "ENVELOPE(-123.3952, -123.3216, 48.4505, 48.3936)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

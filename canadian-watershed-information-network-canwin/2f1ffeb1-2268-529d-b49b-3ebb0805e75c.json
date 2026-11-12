@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This mosaic is calculated over the North American domain with a horizontal spatial resolution of 1 km. This mosaic therefore includes all the Canadian and American radars available in the network and which can reach a maximum of 180 contributing radars. To better represent precipitation over the different seasons, this mosaic renders in mm/h to represent rain and in cm/h to represent snow. For the two precipitation types (rain and snow), we use two different mathematical relationships to convert the reflectivity by rainfall rates (mm/h rain cm/h for snow). This is a hybrid mosaic from DPQPE (Dual-Pol Quantitative Precipitation Estimation) for S-Band radars. For the US Nexrad radars, ECCC uses the most similar product from the US Meteorological Service (NOAA). This product displays radar reflectivity converted into precipitation rates, using the same formulas as the Canadian radars."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/37aecae5-7783-4274-b595-df02aa003ac3"
+  ],
+  "dct_issued_s": "2023-03-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/37aecae5-7783-4274-b595-df02aa003ac3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "North American Radar Composite (1 km)",
+  "gbl_mdModified_dt": "2025-03-11T21:04:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2f1ffeb1-2268-529d-b49b-3ebb0805e75c",
+  "locn_geometry": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

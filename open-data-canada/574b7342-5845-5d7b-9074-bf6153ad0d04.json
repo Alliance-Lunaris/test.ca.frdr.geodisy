@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Cultures",
+    "Climat",
+    "Climate",
+    "Agriculture",
+    "Crops",
+    "Remote sensing",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "IVDN maximal hebdomadaire de meilleure qualité"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "Each pixel value corresponds to the best quality maximum NDVI recorded within that pixel over the week specified. Poor quality pixel observations are removed from this product. Observations whose quality is degraded by snow cover, shadow, cloud, aerosols, and/or low sensor zenith angles are removed (and are assigned a value of “missing data”). In addition, negative Max-NDVI values, occurring where R reflectance > NIR reflectance, are considered non-vegetated and assigned a value of 0. This results in a Max-NDVI product that should (mostly) contain vegetation-covered pixels. Max-NDVI values are considered high quality and span a biomass gradient ranging from 0 (no/low biomass) to 1 (high biomass).",
+    "Chaque valeur de pixel correspond à l’IVDN maximal de « meilleure qualité » pour une semaine donnée. Les observations de pixels de mauvaise qualité sont supprimées de ce produit. Les observations dont la qualité est diminuée par la couverture neigeuse, les ombres, les nuages, les aérosols ou par des angles zénithaux faibles du capteur sont supprimées (et se voient attribuer la valeur « Données manquantes »). De plus, les valeurs négatives de l’IVDN maximal, obtenues lorsque la réflectance R est supérieure à la réflectance PIR, sont considérées comme étant exemptes de végétation et se voient attribuer une valeur de 0. On obtient ainsi un produit de l’IVDN maximal qui ne devrait contenir (en majeure partie) que des pixels couverts de végétation. Les valeurs de l’IVDN maximal sont jugées de grande qualité et couvrent un gradient de biomasse variant de 0 (aucune/faible biomasse) à 1 (biomasse élevée)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1ce83bef-5397-42b8-9839-6825ba48eaf0"
+  ],
+  "dct_issued_s": "2012-11-01",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1ce83bef-5397-42b8-9839-6825ba48eaf0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Weekly Best-Quality Maximum-NDVI",
+  "gbl_mdModified_dt": "2024-04-19T02:21:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "574b7342-5845-5d7b-9074-bf6153ad0d04",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

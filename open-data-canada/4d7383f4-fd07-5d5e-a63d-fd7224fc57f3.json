@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -110.0, 76.0, 67.5)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Arctic Ocean",
+    "Beaufort Sea",
+    "Mer de Beaufort",
+    "Océan",
+    "Océan Arctique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Concentration en chlorophylle-a mesurée par satellite dans la mer de Beaufort canadienne (1998-2020)"
+  ],
+  "dct_creator_sm": [
+    "Christine Michel."
+  ],
+  "dct_description_sm": [
+    "This record contains satellite-sensed chlorophyll-a concentration images of the Canadian Beaufort Sea at 1.1 km resolution. The dataset consists of 276 images, aggregated into two-week composites by calculating the mean value at each pixel, comprising years 1998 through 2020.\n\nThe dataset spans two ocean colour sensors, MODIS-Aqua and SeaWiFS. The Arctic Ocean Empirical algorithm was used to calculate chlorophyll-a concentration, after images were corrected for atmospheric effects using the NIR-SWIR switching algorithm, and Remote Sensing Reflectance (Rrs) were produced. A linear transform in log-10 space was applied to the chlorophyll-a concentration measured by SeaWiFS to improve its correlation with chlorophyll-a concentration measured by MODIS-Aqua.\n\nThe months of October through February were excluded from these datasets as the sun angle in winter is too low (e.g., polar night) for reliable data to be acquired, and the region is mostly covered in sea ice. \n\nFor further details, see Galley et al., 2022.",
+    "Cet enregistrement contient des images de la concentration en chlorophylle-a mesurée par satellite dans la mer de Beaufort canadienne à une résolution de 1.1 km. Le jeu de données est composé de 276 images, agrégées en composites de deux semaines, en calculant la valeur moyenne à chaque pixel, pour les années 1998 à 2020.\n\nLa série temporelle des données couvre deux capteurs de couleur de l'océan: MODIS-Aqua et SeaWiFS. L'algorithme «Arctic Ocean Empirical» a été utilisé pour calculer la concentration en chlorophylle-a, après que les images aient été corrigées des effets atmosphériques en utilisant l'algorithme de commutation NIR-SWIR et que la réflectance de télédétection (Rrs) ait été produite. Une transformation linéaire dans l'espace log-10 a été appliquée à la concentration en chlorophylle-a mesurée par SeaWiFS pour améliorer sa corrélation avec la chlorophylle-a mesurée par MODIS-Aqua.\n\nLes mois d'octobre à février ont été exclus de cet ensemble de données car l'angle du soleil en hiver est trop faible (ex., nuit polaire) pour que des données fiables puissent être acquises, et la région est principalement couverte de glace de mer. \n\nPour plus de détails, voir Galley et al. 2022."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ee27e86f-7b18-4e3f-8444-0c5efb6110a4"
+  ],
+  "dct_issued_s": "2022-02-11",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ee27e86f-7b18-4e3f-8444-0c5efb6110a4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Satellite-measured Chlorophyll-a concentration in the Canadian Beaufort Sea (1998-2020)",
+  "gbl_mdModified_dt": "2026-03-24T08:05:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4d7383f4-fd07-5d5e-a63d-fd7224fc57f3",
+  "locn_geometry": "ENVELOPE(-142.0, -110.0, 76.0, 67.5)",
+  "schema_provider_s": "Open Data Canada"
+}

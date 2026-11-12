@@ -1,0 +1,67 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.294315, 79.998474, 81.704529, 6.364209)",
+  "dcat_keyword_sm": [
+    "géophysique",
+    "seismic",
+    "marine",
+    "système d'information géographique",
+    "geology",
+    "geographic information system",
+    "Ocean floor",
+    "high resolution",
+    "earth sciences",
+    "Géophysique",
+    "Geology",
+    "sciences de la terre",
+    "Sismologie",
+    "geophysics",
+    "marin",
+    "géologie",
+    "Seismology",
+    "sub-bottom sounder",
+    "Geophysics",
+    "Fond marin",
+    "sidescan sonar",
+    "Géologie",
+    "haute résolution",
+    "sismique",
+    "sonar latéral",
+    "sonde de fond"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Répertoire de données sismiques maritimes nationales"
+  ],
+  "dct_creator_sm": [
+    "Sheila Hynes."
+  ],
+  "dct_description_sm": [
+    "The Geological Survey of Canada (Atlantic and Pacific) has collected marine survey field records on marine expeditions for over 50 years. This release makes available the results of an ongoing effort to scan and convert our inventory of analog marine survey field records (seismic, sidescan and sounder) to digital format. These records were scanned at 300 dpi and converted into JPEG2000 format. Typically, each of these files was between 1 to 2 gbyte in size before compression and compressed by a factor of 10:1. Empirical tests with a number of data sets suggest that there is minimal visual distortion of the scanned data at this level of compression. In this KML file, scanned data are available in a reduced-scale thumbnail format and a compressed full-resolution JPEG2000 format.",
+    "La Commission géologique du Canada (Atlantique et Pacifique) compile les données des relevés marins de terrain recueillies lors d'expéditions en mer depuis plus de 50 ans. Cette version rend disponibles en format numérique les résultats d'un travail continu de numérisation et de conversion de tout notre inventaire de relevés marins de terrain analogues (sismiques, balayage latéral et échosondeur). Ces données ont été numérisées à 300 ppp et converties en format JPEG2000. En général, la taille de chacun des fichiers était de 1 à 2 Go avant compression. Les fichiers ont été comprimés selon un coefficient de 10:1. D'après les tests empiriques exécutés à partir de plusieurs ensembles de données, la distorsion visuelle des données numérisées à ce niveau de compression est minime. Dans ce fichier KML, les données numérisées sont disponibles en format vignette à échelle réduite et en format JPEG2000 à haute définition comprimé."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e1fa0090-4b06-e476-5c71-e2326666a4d0"
+  ],
+  "dct_issued_s": "2020-07-07",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e1fa0090-4b06-e476-5c71-e2326666a4d0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canadian National Marine Seismic Data Repository",
+  "gbl_mdModified_dt": "2020-12-09T20:11:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "197ca560-0125-5ea7-a0fc-3375fccb424a",
+  "locn_geometry": "ENVELOPE(-144.294315, 79.998474, 81.704529, 6.364209)",
+  "schema_provider_s": "Open Data Canada"
+}

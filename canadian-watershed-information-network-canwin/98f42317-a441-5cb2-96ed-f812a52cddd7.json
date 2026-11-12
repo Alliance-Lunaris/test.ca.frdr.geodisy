@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Bicknell's Thrush (*Catharus bicknelli*) is a bird species that is endangered in Canada and vulnerable internationally. The range of this species is one of the most restricted in North America: more than 75% of the species' numbers are believed to be found in Quebec. There are a few models for mapping Bicknell's Thrush habitat. On the other hand, the latter come from low-resolution geospatial data and, for most of them, the variation explained in the presence of the species is mainly explained by altitude and latitude and little by habitat characteristics, which makes it difficult to precisely identify places with high potential for the species. Following the arrival of lidar data, new methods for characterizing forest structure make it possible to better characterize the habitat of the Bicknell's Thrush.\n\nThe distribution model, shared here, shows the probabilities of occurrence of Bicknell's Thrush using lidar data. It was calibrated with 139 occurrences (spatial accuracy of 10 m), each associated with 10 random locations in a buffer zone of 523 to 1,569 m, and then validated using an independent dataset of 3,928 listening points. This model is calibrated and validated using two independent Bicknell's Thrush inventory datasets conducted between 2011 and 2021.\n\nBased on the results of the model, two statistical thresholds were applied to guide decision-making. The probability of the species being present was highest in dense balsam fir stands at high altitudes. The top-ranked model also incorporated forest succession, with canopy height adjustment to account for tree growth since lidar data was acquired.\n\nFor more details, for example on the study area, the data used and the modeling carried out, consult the scientific article by Tremblay et al. (2025) [“Assessing *Catharus bicknelli* (Bicknell's Thrush) habitat dynamics: A high-resolution model based on LiDAR metrics”] (https://academic.oup.com/condor/article/127/4/1/8168976) (Open Source article).\n\n### #Qu What is an MRE? ####\n\nA species distribution model (MRE) aims to predict the range of a species or its probability of presence. For general information, see the [“Habitat Quality Assessment”] page (https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/faune/gestion-faune-habitats-fauniques/habitats-fauniques/evaluation-qualite-habitats). For a comparison of the different types of models, consult the document [“Difference between habitat quality score or key, habitat quality index and species distribution model”] (https://cdn-contenu.quebec.ca/cdn-contenu/faune/documents/habitats/difference-cote-cle-indice-qualite-habitat-modele-repartition-espece.pdf). \n\n### #MISES ON GUARD ####\n\n* ** __The article by Tremblay et al. (2025) should be cited when using this model (see “Documentation” section) __ . **\n\n* This model is linked to the [“*Compendium of standardized protocols for inventorying Bicknell's thrush and its habitat in the context of wind projects in Québec*”] (https://bibliotheque.cecile-rouleau.gouv.qc.ca/documents/archives/pgq/E5E86_A17_R42_2026.pdf) () from the Government of Quebec. Consult the compendium to find out how to apply the model to the Bicknell's thrush inventories required in the wind energy context.\n\n### #Documentation ####\n\nTREMBLAY, J.A., F. LESSARD, M. LESSARD, M. RIOPEL, M. RIOPEL, Y. AUBRY and A. DESROCHERS (2025). [Assessing *Catharus bicknelli* (Bicknell's Thrush) habitat dynamics: A high-resolution model based on LiDAR metrics] (https://academic.oup.com/condor/article/127/4/1/8168976), *Ornithological Applications*, 127: duaf040.\n\nMINISTRY OF THE ENVIRONMENT, CLIMATE CHANGE, WILDLIFE AND PARKS (2026). [Compendium of standardized inventory protocols for Bicknell's thrush and its habitat in the context of wind energy projects in Quebec] (https://bibliotheque.cecile-rouleau.gouv.qc.ca/documents/archives/pgq/E5E86_A17_R42_2026.pdf), Government of Quebec, Quebec, Quebec, 23 p. + appendices.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/55e74459-1894-4153-a9dc-84804971dac0"
+  ],
+  "dct_issued_s": "2026-03-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/55e74459-1894-4153-a9dc-84804971dac0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Distribution model (MRE) of Bicknell's thrush in Quebec",
+  "gbl_mdModified_dt": "2026-10-07T17:31:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "98f42317-a441-5cb2-96ed-f812a52cddd7",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

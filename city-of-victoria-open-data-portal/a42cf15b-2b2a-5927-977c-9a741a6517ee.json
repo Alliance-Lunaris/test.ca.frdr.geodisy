@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3952, -123.3216, 48.4505, 48.3936)",
+  "dcat_keyword_sm": [
+    "parcels",
+    "land",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<p>The Parcels (Folio based) dataset is the same parcels dataset used on VicMap. It combines attributes from our Tempest Land Records database with spatial information from our parcel polygons CAD data.  Strata lots are represented by an overlapping copy of the parent parcel.  Data gets copied to the Open Data Portal daily.  </p><p>The GISLINK field can be used to join attributes from our Address Points dataset, where there can be many addresses per parcel.  Each GISLINK relates to a specific parcel polygon.</p><p>Parcel Types: Air Parcel (AP), Bare Land Strata Common Property (BLSCP), Bare Land Strata Lot (BLSL), Church Plan (CP), Land (LA), Lease (LE), Other (OTH), Park (PA), Strata Common Property (SCP), Strata Lot (SL).</p><p>The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description.  We update our data through scripts which does not trigger the &quot;last updated&quot; date to change.</p><p></p><p>Note: Attributes represent each field in a dataset, and some fields will contain information such as ID numbers.  As a result some visualizations on the tabs on our Open Data page will not be relevant.<br /></p>"
+  ],
+  "dct_identifier_sm": [
+    "b611cac43dbe4a16a4075faf22516fd5",
+    "https://www.arcgis.com/home/item.html?id=b611cac43dbe4a16a4075faf22516fd5"
+  ],
+  "dct_issued_s": "2018-12-28",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::parcels-folio-based\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Parcels (Folio based)",
+  "gbl_mdModified_dt": "2024-11-04T17:12:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a42cf15b-2b2a-5927-977c-9a741a6517ee",
+  "locn_geometry": "ENVELOPE(-123.3952, -123.3216, 48.4505, 48.3936)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

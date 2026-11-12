@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.002676, -109.999988, 60.0, 53.0)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "LANDFORM",
+    "WETLAND",
+    "NORTH-SASKATCHEWAN-INTEGRATED-PLANNING-REGION",
+    "LOWER-ATHABASCA-INTEGRATED-PLANNING-REGION",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "UPPER-PEACE-INTEGRATED-PLANNING-REGION",
+    "SURFICIAL-GEOLOGY",
+    "UPPER-ATHABASCA-INTEGRATED-PLANNING-REGION",
+    "UAIPR",
+    "PEAT",
+    "NSIPR",
+    "LPIPR",
+    "LOWER-PEACE-INTEGRATED-PLANNING-REGION",
+    "UPIPR",
+    "LAIPR",
+    "SOILS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Landform de l'Inventaire des terres de l'Alberta (ALI) et de l'Inventaire des terres du Canada (CLI)"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset is produced for the Government of Alberta and is available to the general public. Please consult the Distribution Information of this metadata for the appropriate contact to acquire this dataset. Alberta Land Inventory (ALI) and Canada Land Inventory (CLI) Landform consists of a single polygon feature class with associated attributes. These attributes describe the landform polygons in terms of parent geologic material, surface form, generalized texture, and slope. The attribution includes the original ALI/CLI coding as well as the equivalent Physical Land Classification (PLC) codes. CLI and ALI landform polygons were photo interpreted in the 1960's and 70's. The linework was transferred to mylar overlay and 319 maps were published at a scale of 1:63360, using the National Topographic Series (NTS) maps as a base. The structure of the map symbols is slightly different for the two series. There is additional free-form text on the CLI landform maps to describe the direction of glacial movement and presence of specific geomorphic features such as eskers but the information is essentially the same for the two series. In some cases, a single base map may have both the initial CLI landform mapping on part of the map sheet and subsequent ALI landform mapping on the remainder of the same sheet. These published hardcopy maps and mylars were later scanned into .tif images and then processed into a single ArcInfo coverage. Scanned images were georeferenced, cleaned and vectorized. The resulting landform polygons were attributed and merged into a single coverage, using permanent water bodies from Alberta's Base Features Hydrography Polygons as a base. The ALI and CLI landform polygon feature class is derived from this merged coverage.",
+    "Cet ensemble de données est produit pour le gouvernement de l'Alberta et est accessible au grand public. Veuillez consulter les informations de distribution de ces métadonnées pour connaître le contact approprié pour acquérir cet ensemble de données. Le relief de l'Alberta Land Inventory (ALI) et de l'Inventaire des terres du Canada (CLI) se composent d'une seule classe d'entités polygonales avec des attributs associés. Ces attributs décrivent les polygones du relief en termes de matériau géologique parent, de forme de surface, de texture généralisée et de pente. L'attribution inclut le codage ALI/CLI original ainsi que les codes équivalents de classification physique des terres (PLC). Les polygones de relief CLI et ALI ont fait l'objet d'une interprétation photographique dans les années 1960 et 1970. Le tracé des lignes a été transféré sur une couche de mylar et 319 cartes ont été publiées à l'échelle 1:63360, en utilisant les cartes de la National Topographic Series (NTS) comme base. La structure des symboles cartographiques est légèrement différente pour les deux séries. Les cartes topographiques de la CLI contiennent du texte libre supplémentaire pour décrire la direction du mouvement glaciaire et la présence de caractéristiques géomorphologiques spécifiques telles que les eskers, mais les informations sont essentiellement les mêmes pour les deux séries. Dans certains cas, une carte de base unique peut comporter à la fois la cartographie initiale du relief CLI sur une partie de la feuille de carte et la cartographie du relief ALI ultérieure sur le reste de la même feuille. Ces cartes papier et ces mylars publiés ont ensuite été scannés en images .tif, puis traités en une seule couverture ArcInfo. Les images numérisées ont été géoréférencées, nettoyées et vectorisées. Les polygones de relief qui en ont résulté ont été attribués et fusionnés en une seule couverture, en utilisant comme base des plans d'eau permanents provenant des polygones hydrographiques des caractéristiques de base de l'Alberta. La classe d'entités polygonales de relief ALI et CLI est dérivée de cette couverture fusionnée.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/24de7b9c-30f0-4f56-bf47-cb5c62e369a2"
+  ],
+  "dct_issued_s": "2011-07-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/24de7b9c-30f0-4f56-bf47-cb5c62e369a2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Alberta Land Inventory (ALI) and Canada Land Inventory (CLI) Landform",
+  "gbl_mdModified_dt": "2026-08-19T16:07:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "243b57cd-e815-5d60-80ba-d2c111133d91",
+  "locn_geometry": "ENVELOPE(-120.002676, -109.999988, 60.0, 53.0)",
+  "schema_provider_s": "Open Data Canada"
+}

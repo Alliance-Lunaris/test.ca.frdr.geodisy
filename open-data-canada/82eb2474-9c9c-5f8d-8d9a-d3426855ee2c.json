@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -49.0, 59.0, 39.0)",
+  "dcat_keyword_sm": [
+    "Satellite",
+    "Satellites",
+    "Sol",
+    "Drainage",
+    "Drainage",
+    "Remote sensing",
+    "Hydrologie",
+    "Soil",
+    "Soil quality",
+    "Hydrology",
+    "Eau",
+    "Qualité des sols",
+    "Water",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Pourcentage de saturation en eau de la surface du sol"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "This data series represents the volumetric soil moisture (percent saturated soil) for the surface layer (<5 cm). The data is created daily and is averaged for the ISO standard week and month. The data is produced from passive microwave satellite data collected by the Soil Moisture and Ocean Salinity (SMOS) satellite and converted to soil moisture using version 6.20 of the SMOS soil moisture processor.  \n  \n  The data are produced by the European Space Agency and obtained under a Category 1 proposal for Level 2 soil moisture data. The data are gridded to a resolution of 0.25 degrees. Data quality flags have been applied to remove areas where rainfall is present during the acquisition, where snow cover is detected and when Radio Frequency Interference (RFI) is above an acceptable threshold.",
+    "Cette série de données représente l’humidité volumique du sol (pourcentage de saturation du sol) pour la couche superficielle (< 5 cm). Les données sont acquises quotidiennement, et la moyenne est établie pour la semaine et le mois en conformité avec la norme ISO. Les données sont produites à partir de données satellites en hyperfréquences passives recueillies par le satellite SMOS de mesure de l’humidité des sols et de la salinité des océans, puis converties en humidité du sol au moyen de la version 6.20 du processeur d’humidité du sol SMOS. Les données sont produites par l’Agence spatiale européenne et sont obtenues en vertu d’une proposition de catégorie 1 pour des données sur l’humidité du sol de niveau 2. Les données sont maillées à une résolution de 0,25 degré. Des indicateurs de la qualité des données ont été appliqués afin de retirer les zones où des précipitations étaient présentes au moment de l’acquisition ou où une couverture neigeuse était détectée ou lorsque l’interférence aux fréquences radioélectriques (RFI) était supérieure à un seuil acceptable."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c0ea8c27-e62e-45bc-b64c-d475650d84a2"
+  ],
+  "dct_issued_s": "2015-03-06",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c0ea8c27-e62e-45bc-b64c-d475650d84a2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Percent Saturated Surface Soil Moisture",
+  "gbl_mdModified_dt": "2025-10-15T12:21:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "82eb2474-9c9c-5f8d-8d9a-d3426855ee2c",
+  "locn_geometry": "ENVELOPE(-132.0, -49.0, 59.0, 39.0)",
+  "schema_provider_s": "Open Data Canada"
+}

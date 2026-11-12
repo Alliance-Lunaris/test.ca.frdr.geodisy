@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.26530773192644, -123.0122978053987, 49.31697106920183, 49.195496421307325)",
+  "dcat_keyword_sm": [
+    "aerial",
+    "imagery",
+    "photography",
+    "orthophoto"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>This dataset provides links to aerial imagery (orthophoto) taken in 2022 as individual tiled areas over the City of Vancouver.<br></p><p>An orthophoto is an aerial photograph that has been processed (via a scanning and rectification process) in such a way as to eliminate image displacement due to camera tilt and terrain relief, so that it represents every object as if viewed directly from above, as in a map which is usually in an orthographic projection. An orthophoto combines the visual properties of a photograph with the geometric qualities of a map and offers a realistic visualization of the landscape.</p><p>The City's orthophoto coverage includes the City, UBC, and the University Endowment Lands and parts of Richmond and the Vancouver International Airport (YVR) as well. The area is defined by the City's facet grid (see <a href=\"https://opendata.vancouver.ca/explore/dataset/facet-grid-boundaries/\">Facet Grid Boundaries</a>).</p><p>Since the 2015 orthophotos, resolution for our imagery is 7.5 cm. Orthophotos are in coordinate system UTM NAD83, Zone 10 (EPSG:26910).<br></p></div> <h3>Note</h3><div><p>​Atmospheric correction was not applied to this dataset.<br></p></div> <h3>Data currency</h3><div><p>​The 2022 orthophotos were captured between June 6, 2022 and July 1, 2022. This imagery is current as of these dates.​<br></p></div> <h3>Data accuracy</h3><div><p>​Imagery is accurate as of the dates it was taken although colours may or may not be exactly as occurred on that day as colours change from moment to moment due to sun and cloud cover.<br><br></p></div> "
+  ],
+  "dct_identifier_sm": [
+    "orthophoto-imagery-2022",
+    "https://opendata.vancouver.ca/explore/dataset/orthophoto-imagery-2022"
+  ],
+  "dct_issued_s": "2024-05-08",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/orthophoto-imagery-2022\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Geography and imagery"
+  ],
+  "dct_title_s": "Orthophoto imagery 2022",
+  "gbl_mdModified_dt": "2024-05-08T16:59:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9eedfba-9c9f-5d62-8166-1158190e3222",
+  "locn_geometry": "ENVELOPE(-123.26530773192644, -123.0122978053987, 49.31697106920183, 49.195496421307325)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

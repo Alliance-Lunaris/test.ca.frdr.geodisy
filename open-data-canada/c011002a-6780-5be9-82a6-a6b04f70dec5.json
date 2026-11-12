@@ -1,0 +1,79 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "terrestrial ecosystem mapping",
+    "ecosystem mapping",
+    "wildlife inventory",
+    "bioterrain mapping",
+    "terrain and ecosystems",
+    "STE",
+    "TEM",
+    "describing terrestrial ecosystems",
+    "BGC",
+    "TSM",
+    "slope stability",
+    "predictive ecosystem mapping",
+    "soil",
+    "ecology",
+    "Canada",
+    "Government information",
+    "DTEIF",
+    "bioterrain",
+    "erosion",
+    "terrain",
+    "Drainage",
+    "terrain stability mapping",
+    "sensitive ecosystem",
+    "PEM",
+    "WHR",
+    "TEIS",
+    "biogeoclimatic",
+    "STEWI",
+    "wildlife habitat rating",
+    "terrain mapping",
+    "SEI",
+    "ecosystem modelling",
+    "landslide",
+    "terrain stability",
+    "sensitive ecosystems inventory",
+    "sedimentation",
+    "ecosystem",
+    "TER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Attributs des polygones de cartographie du terrain (TER)"
+  ],
+  "dct_creator_sm": [
+    "Terrestrial Ecosystem Information (TEI) Mailbox."
+  ],
+  "dct_description_sm": [
+    "Terrain Mapping (TER) Polygon Attributes (STE_TER_ATTRIBUTE_POLYS_SVW) contains TER inventory polygons with key and amalgamated (concatenated) attributes derived from the Resource Inventory Standards Committee (RISC) standard attributes. This layer is derived from the [STE_TEI_POLY_ATTRIBUTES_SP](https://catalogue.data.gov.bc.ca/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad) layer by filtering on the PROJECT_TYPE attribute. Project types include: TEM, TEMNSS, TEMPRE, TEMSEI, TEMSET, TEMTSM, TSM, TSMREC, TSMDET, TIM, TBS, TBT, TIMSOI, TEMWHR, TEMSDM, TEMPRW, and PEMTBT. TER divides the landscape into units according to surficial materials, landforms and geomorphological processes using the Terrain Classification System for British Columbia. TER methods include manual air photo interpretation supported by selective field checking. Mapping criteria vary considerably between the terrain inventory, bioterrain, and terrain stability mapping projects contained in this layer. TER Polygon Attributes layer should be used in conjunction with [TER Project Boundaries](https://catalogue.data.gov.bc.ca/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996) which contain boundaries (study areas) and attributes describing each project (project level metadata), plus links to the locations of other data associated with the project (e.g., reports, polygon datasets, plotfiles, legends). TER inventory polygons with full RISC attributes can be accessed through the [Terrestrial Ecosystem Information (TEI) Data Distribution Packages](https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). **Current version**: v12 (2026-06-22)",
+    "Les attributs polygonaux de cartographie du terrain (TER) (STE_TER_ATTRIBUTE_POLYS_SVW) contiennent des polygones d'inventaire TER dotés d'attributs clés et d'attributs fusionnés (concaténés) dérivés des attributs standard du Resource Inventory Standards Committee (RISC). Cette couche est dérivée de la couche [STE_TEI_POLY_ATTRIBUTES_SP] (https://catalogue.data.gov.bc.ca/dataset/f2cd2cc3-5f58-481c-bf3c-64934acb6fad) en filtrant sur l'attribut PROJECT_TYPE. Les types de projets incluent : TEM, TEMNSS, TEMPRE, TEMSEI, TEMSET, TEMTSM, TSM, TSMREC, TSMDET, TIM, TBS, TBT, TIMSOI, TEMWHR, TEMSDM, TEMPRW et PEMTBT. Le TER divise le paysage en unités en fonction des matériaux de surface, du relief et des processus géomorphologiques à l'aide du système de classification des terrains de la Colombie-Britannique. Les méthodes TER comprennent l'interprétation manuelle de photos aériennes appuyée par une vérification sélective sur le terrain. Les critères de cartographie varient considérablement entre les projets d'inventaire du terrain, de bioterrain et de cartographie de la stabilité du terrain contenus dans cette couche. La couche TER Polygon Attributes doit être utilisée conjointement avec [TER Project Boundaries] (https://catalogue.data.gov.bc.ca/dataset/ad2f6d1e-cb53-4308-9263-e8deb731b996) qui contient les limites (zones d'étude) et les attributs décrivant chaque projet (métadonnées au niveau du projet), ainsi que des liens vers les emplacements d'autres données associées au projet (par exemple, des rapports, des ensembles de données polygonaux, des fichiers graphiques, des légendes). Les polygones d'inventaire TER dotés d'attributs RISC complets sont accessibles via les [packages de distribution de données d'information sur les écosystèmes terrestres (TEI)] (https://catalogue.data.gov.bc.ca/dataset/8fd15e4e-e7b1-4566-81d1-1ff8947bfd46). **Version actuelle** : v12 (2026-06-22)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/caf1ad28-9bd9-4b41-b2f8-928fff115855"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/caf1ad28-9bd9-4b41-b2f8-928fff115855\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Terrain Mapping (TER) Polygon Attributes",
+  "gbl_mdModified_dt": "2026-07-29T18:33:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c011002a-6780-5be9-82a6-a6b04f70dec5",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

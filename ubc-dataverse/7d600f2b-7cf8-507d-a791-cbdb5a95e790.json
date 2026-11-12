@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "inversion",
+    "Sex chromosomes",
+    "Zonotrichia atricapilla",
+    "Animal genomics",
+    "genotyping by sequencing (GBS)",
+    "Zonotrichia leucophrys",
+    "Avian evolution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "McCallum, Quinn (University of British Columbia). ORCID: https://orcid.org/0000-0002-4589-2060",
+    "Askelson, Kenneth (University of British Columbia).",
+    "Fogarty, Finola (University of British Columbia).",
+    "Natola, Libby (University of British Columbia, University of Lethbridge, Hakai Institute).",
+    "Nikelski, Ellen (University of British Columbia, University of Toronto).",
+    "Huang, Andrew (Environment Canada).",
+    "Irwin, Darren (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 6</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.bzkh189cw</p>\n<p><b>Storage size:</b> 867386295</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>When a single species evolves into multiple descendent species, some parts of the genome can play a key role in the evolution of reproductive isolation while other parts flow between the evolving species via interbreeding. Genomic evolution during the speciation process is particularly interesting when major components of the genome—for instance, sex chromosomes vs. autosomes vs. mitochondrial DNA—show widely differing patterns of relationships between three diverging populations. The golden-crowned sparrow (<em>Zonotrichia atricapilla</em>) and the white-crowned sparrow (<em>Zonotrichia leucophrys</em>) are phenotypically differentiated sister species that are largely reproductively isolated despite possessing similar mitochondrial genomes, likely due to recent introgression. We assessed variation in more than 45,000 single nucleotide polymorphisms (SNPs) to determine the structure of nuclear genomic differentiation between these species and between two hybridizing subspecies of <em>Z. leucophrys</em>. The two <em>Z. leucophrys</em> subspecies showed moderate levels of relative differentiation and patterns consistent with a history of recurrent selection in both ancestral and daughter populations, with much of the sex chromosome Z and a large region on the autosome 1A showing increased differentiation compared to the rest of the genome. The two species <em>Z. leucophrys</em> and <em>Z. atricapilla</em> show high relative differentiation and strong heterogeneity in the level of differentiation among various chromosomal regions, with a large portion of the sex chromosome (Z) showing highly divergent haplotypes between these species. Studies of speciation often emphasize mitochondrial DNA differentiation, but speciation between <em>Z. atricapilla</em> and <em>Z. leucophrys</em> appears primarily associated with Z chromosome divergence and more moderately associated with autosomal differentiation, whereas mitochondria appear highly similar due apparently to recent introgression. These results add to the growing body of evidence for highly heterogeneous patterns of genomic differentiation during speciation, with some genomic regions showing lack of gene flow between populations many hundreds of thousands of years before other genomic regions.</p>",
+    "<b>Methods</b><br /><h3><strong>Sample Collection</strong></h3>\n<p>For this project, we collected blood samples for genomic analysis from individuals of wild <em>Z. leucophrys</em> and <em>Z. atricapilla </em>in south-western British Columbia. The dataset includes a metadata file in .csv format, with locality, date and time of collection, measurements, barcodes, etc. associated with all samples.</p>\n<p>The first round of fieldwork was conducted at the Iona Island Bird Observatory (IIBO) in Richmond, British Columbia, in Spring 2019. Birds were captured passively in mist nets and banded as part of the station’s normal migration monitoring operations. We then took 10–40 μL of blood from the brachial vein of each bird of the target species and stored these samples in 500 μL of Queen’s Lysis Buffer (Seutin et al., 1991). We measured wing chord, tail length, tarsus length, mass, culmen length, beak depth, and beak width. A total of 19 <em>Z. atricapilla</em> and 14 <em>Z. leucophrys</em> of indeterminate subspecies were sampled during this initial period.</p>\n<p>The second round of field sampling focused on increasing the sample size of <em>Z. leucophrys</em> and was conducted between June 16 and 26, 2020 at the Vancouver Campus of the University of British Columbia (UBC). Singing birds were located, and a mist net was set up nearby. Song recordings of local <em>Z. leucophrys</em> were used to attract birds to the net. Once birds were captured, they were immediately removed, banded, sampled, and measured using the methods outlined above. We sampled an additional 16 breeding <em>Z. leucophrys</em> individuals during this collection period, all of the <em>pugetensis</em> subspecies based on their bill colour and location. Additionally, we took samples of pectoral muscle tissue from seven unprepared specimens from the freezer of the Cowan Tetrapod Collection at the Beaty Biodiversity Museum of UBC that had been salvaged from throughout BC.</p>\n<h3>Bioinformatics Pipeline</h3>\n<p>The dataset includes all the scripts used to process the raw GBS reads acquired from the Genome Quebec Innovation Centre.</p>\n<p>Reads were demultiplexed using custom scripts from Baute et al. (2016), and sequences were trimmed for quality using Trimmomatic (version 0.36; Bolger et al., 2014). The reads were then aligned to the <em>Taeniopygia guttata</em> reference genome version bTaeGut2.pat.W.v2 (Warren et al., 2010; Rhie et al., 2021; GenBank accession number GCA_008822105.2) using BWA-MEM (version 0.7.15; Li &amp; Durbin, 2009). The resulting SAM files were converted to BAM files using Picard (version 2.23.8; Broad Institute https://broadinstitute.github.io/picard/), and single-end and paired-end BAM files were combined using SAMtools (version 1.3.2; Li et al., 2009). Single Nucleotide Polymorphisms (SNPs) were identified using the HaplotypeCaller tool in GATK (version 3.8; McKenna et al., 2010), which produced a gvcf file for each individual. Individual g.vcf files were then combined into a single vcf file using the GenotypeGVCFs tool in GATK. We filtered genomic sites using VCFtools (version 1.16; Danecek et al., 2011), first by removing indels and SNPs with more than 2 alleles. Using a custom Perl script (Owens et al., 2016), we removed sites with a mapping quality lower than 20 and a heterozygosity above 0.6. We then filtered for individuals with more than 60% missing data using VCFtools, removing three <em>Z. atricapilla </em>and<em> three Z. leucophrys</em> from the dataset. Finally, we used VCFtools to filter out SNPs missing from more than 20% of individuals and SNPs with a minimum allele frequency of less than 0.05.</p>\n<p>A comparison of mean coverage for each individual across the sex chromosomes (W and Z) and a representative autosome (chromosome 3), revealed that coverage across the W chromosome was approximately three times higher than across the autosomes (Fig. S2). This was true for known female birds, as well as known males. Since females are heterogametic for the W chromosome and males are homogametic for the Z (Irwin, 2018), we expect coverage across the W to be roughly half that of autosomal coverage in females, and zero in males. These results indicate that many of the sequences from our short-read dataset that mapped to the Zebra Finch W chromosome cannot be from the <em>Zonotrichia</em> W chromosome. These likely represent sequences found on autosomes in <em>Zonotrichia</em>, but on the W chromosome in the Zebra finch, or repetitive elements found at high frequency in Zonotrichia, but infrequently in the Zebra Finch. After filtering and removal of the W sequences, a total of 45,986 SNPs were retained for analysis.</p>\n<h3>Analysis</h3>\n<p>Finally, this dataset contained all scripts used to analyze the SNP dataset. For detailed methods of these analyses, please refer to the associated article.</p>",
+    "<b>Usage notes</b><br /><p>The metadata file is in .csv format, which can be opened in any text editor.</p>\n<p>The files containing scripts used to process samples are in .txt format and can be opened in any text editor. These scripts were written in bash for use in a UNIX environment. They require they require additional scripts from scripts from Baute et al. (2016), and the programs Trimmomatic (version 0.36; Bolger et al., 2014), BWA-MEM (version 0.7.15; Li &amp; Durbin, 2009), Picard (version 2.23.8; Broad Institute <a href=\"https://broadinstitute.github.io/picard/\">https://broadinstitute.github.io/picard/</a>), SAMtools (version 1.3.2; Li et al., 2009), GATK (version 3.8; McKenna et al., 2010), VCFtools (version 1.16; Danecek et al., 2011), and Plink (version 1.9; Chang et al., 2015).</p>\n<p>The files containing scripts used for analyses were written in and require <em>R</em> (version 3.6.3; R Core Team), and the <em>R </em>package pcaMethods (version 1.78.0; Stacklies et al., 2007).</p>"
+  ],
+  "dct_identifier_sm": [
+    "704452_150149",
+    "https://doi.org/10.5683/SP3/WOAVK9"
+  ],
+  "dct_issued_s": "2024-01-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WOAVK9\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Pronounced differentiation on the Z chromosome and parts of the autosomes in crowned sparrows contrasts with mitochondrial paraphyly: implications for speciation",
+  "gbl_mdModified_dt": "2024-01-18T14:26:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d600f2b-7cf8-507d-a791-cbdb5a95e790",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

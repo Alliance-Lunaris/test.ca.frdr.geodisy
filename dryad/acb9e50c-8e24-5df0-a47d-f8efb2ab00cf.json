@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Ictalurus punctatus",
+    "Sander vitreus",
+    "Cyprinus carpio",
+    "fish movement",
+    "habitat use and survival"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Richard T., Kraus (Great Lakes Science Center).",
+    "Christopher M., Holbrook (Great Lakes Science Center).",
+    "Christopher S., Vandergoot (Great Lakes Science Center).",
+    "Taylor R., Stewart (University of Vermont).",
+    "Matthew D., Faust (Ohio Department of Natural Resources).",
+    "Douglas A., Watkinson (Fisheries and Oceans Canada).",
+    "Colin, Charles (Michigan State University).",
+    "Mark, Pegg (University of Nebraska–Lincoln).",
+    "Eva C., Enders (Fisheries and Oceans Canada).",
+    "Charles C., Krueger (Michigan State University)."
+  ],
+  "dct_description_sm": [
+    "1. Acoustic telemetry studies have frequently prioritized linear configurations of hydrophone receivers, such as perpendicular from shorelines or across rivers, to detect the presence of tagged aquatic animals.  This approach introduces unknown bias when receivers are stationed for convenience at geographic bottlenecks (e.g., at the mouth of an embayment or between islands) as opposed to deployments following a statistical sampling design.\r\n2. We evaluated two-dimensional acoustic receiver arrays (grids: receivers spread uniformly across space) as an alternative approach to provide estimates of survival, movement, and habitat use.  Performance of variably-spaced receiver grids (5–25 km spacing) was evaluated by simulating (1) animal tracks as correlated random walks (speed: 0.1–0.9 m/s; turning angle standard deviation: 5–30 degrees); (2) variable tag transmission intervals along each track (nominal delay: 15–300 seconds); and (3) probability of detection of each transmission based on logistic detection range curves (midpoint: 200–1500 m).  From simulations, we quantified i) time between successive detections on any receiver (detection time), ii) time between successive detections on different receivers (transit time), and iii) distance between successive detections on different receivers (transit distance).\r\n3. In the most restrictive detection range scenario (200 m), the 95th percentile of transit time was 3.2 days at 5 km grid spacing, 5.7 days at 7 km, and 15.2 days at 25 km; for the 1500 m detection range scenario, it was 0.1 days at 5 km, 0.5 days at 7 km, and 10.8 days at 25 km.  These values represented upper bounds on the expected maximum time that an animal could go undetected.  Comparison of the simulations with pilot studies on three fishes (walleye Sander vitreus, common carp Cyprinus carpio, and channel catfish Ictalurus punctatus) from two independent large lake ecosystems (lakes Erie and Winnipeg) revealed shorter detection and transit times than what simulations predicted.\r\n4. By spreading effort uniformly across space, grids can improve understanding of fish migration over the commonly employed receiver line approach, but at increased time cost for maintaining grids."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.hm60m7n",
+    "https://doi.org/10.5061/dryad.hm60m7n"
+  ],
+  "dct_issued_s": "2018-03-05",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.hm60m7n\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_title_s": "Data from: Evaluation of acoustic telemetry grids for determining aquatic animal movement and survival",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "acb9e50c-8e24-5df0-a47d-f8efb2ab00cf",
+  "schema_provider_s": "Dryad"
+}

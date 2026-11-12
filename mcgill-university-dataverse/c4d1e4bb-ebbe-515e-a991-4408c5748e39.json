@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Databank",
+    "COVID-19 Immunity Task Force",
+    "CITF",
+    "data governance",
+    "harmonization"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "CITF Data Management Team (McGill University)."
+  ],
+  "dct_description_sm": [
+    "This release corresponds to the frozen harmonized dataset version v1.0 (February 2026). Future releases will be versioned separately and assigned distinct persistent identifiers.",
+    "<p>This repository contains the code and supporting documentation used to support the harmonization and validation of the COVID-19 Immunity Task Force (CITF) national SARS-CoV-2 immunity datasets, Release v1.0. The materials are shared to support transparency and reproducibility. Individual-level participant data are not included.</p>\n\n<p><strong>Data quality and harmonization workflow code</strong></p>\n\n<p>The repository includes R code documenting the standardized data-quality and harmonization procedures applied to contributing study datasets. The workflow covers:</p>\n\n<ul>\n  <li>data ingestion from multiple file formats;</li>\n  <li>assessment of participant identifier completeness and validity;</li>\n  <li>identifier uniqueness checks where appropriate for the dataset structure;</li>\n  <li>duplicate-record detection;</li>\n  <li>missing-value standardization;</li>\n  <li>column-name cleaning;</li>\n  <li>date conversion and range checks;</li>\n  <li>numeric-range validation;</li>\n  <li>categorical-value review;</li>\n  <li>cross-file record linkage;</li>\n  <li>wide-to-long restructuring of repeated measurements; and</li>\n  <li>PostgreSQL operations used to write harmonized outputs to the relational database.</li>\n</ul>\n\n<p>The code was developed using R version 4.5.0. File paths and database connection parameters are represented by configurable placeholders and must be adapted to the user’s local environment. Database credentials, internal server addresses, and participant-level data are not included in the repository.</p>\n\n<p><strong>Validation rules</strong></p>\n\n<p>The repository includes documentation of the rule-based checks applied during harmonization and validation. The checks are organized into six stages:</p>\n\n<ol>\n  <li>data-ingestion checks;</li>\n  <li>schema and Core Data Element alignment;</li>\n  <li>serology metadata and plausibility checks;</li>\n  <li>internal-consistency checks;</li>\n  <li>cross-study comparability assessment; and</li>\n  <li>documentation, provenance, and version control.</li>\n</ol>\n\n<p>For each rule, the documentation describes the acceptance criterion and the action taken when the criterion is not met. These procedures constitute dataset-level quality control. They do not represent laboratory re-testing or independent biological validation of assay performance.</p>\n\n<p><strong>Metadata schemas</strong></p>\n\n<p>The repository includes the CITF Core Data Element schemas for the baseline questionnaire, vaccination, and serology harmonized domains. The schemas define the relevant variables, labels, value types, units, and permitted categories. Supporting serological assay metadata and code lists are included where relevant.</p>\n\n<p>Study-specific source variables are mapped to the CITF Core Data Elements according to defined rules for recoding, non-negativity, range constraints, date-component validation, duplicate handling, and assessment of the chronological consistency of repeated events. Study-reported event and vaccination-dose numbers are retained and are not reassigned solely on the basis of event dates.</p>\n\n<p><strong>Data management and access</strong></p>\n\n<p>Original study datasets were transferred through McGill University’s secure file-exchange environment, processed using the R-based harmonization workflow, and stored in a PostgreSQL relational database to support structured data management and release versioning.</p>\n\n<p>Access to restricted participant-level datasets requires a formal request to the CITF Data Access Office and is subject to applicable institutional approvals, consent conditions, governance requirements, and data-sharing agreements.</p>\n\n<p><strong>Release:</strong> v1.0<br>\n<strong>Release date:</strong> February 1, 2026</p>"
+  ],
+  "dct_identifier_sm": [
+    "1100786_412093_423675_1100755",
+    "https://doi.org/10.5683/SP3/EPL6JB"
+  ],
+  "dct_issued_s": "2026-09-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EPL6JB\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences",
+    "Other"
+  ],
+  "dct_title_s": "CITF Harmonization and Validation Code – Release v1.0",
+  "gbl_mdModified_dt": "2026-09-23T20:42:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c4d1e4bb-ebbe-515e-a991-4408c5748e39",
+  "pcdm_memberOf_sm": [
+    "CITF: COVID-19 Immunity Task Force // CITF Controlled Access Databank // Harmonized Dataset Descriptions"
+  ],
+  "schema_provider_s": "McGill University Dataverse"
+}

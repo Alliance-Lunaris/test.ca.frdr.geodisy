@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.337075, -56.237557, 48.911875, 43.42378)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides refined monthly climatological projections for six key ocean variables: surface and bottom temperature, surface and bottom salinity, mixed layer depth, and bottom current speed. The projections are provided for six Maritime Marine Protected Areas: the Gully, the Laurentian Channel, St. Anns Bank, Musquash Estuary, Banc-des-Américains, and Basin Head. These projections are based on downscaled outputs from 22 CMIP6 models under four emissions scenarios (SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5) for four 20-year periods spanning 2020 to 2099 (2020–2039, 2040–2059, 2060–2079, and 2080–2099).\n\nFor each model and scenario, 20-year climatological means were computed for each future period. These  climatologies were then aggregated to produce ensemble means and ensemble standard deviations for all variables. The released dataset includes only these ensemble summary fields and is provided as gridded data with dimensions longitude × latitude × scenario × time.\n\nCite this data as: Wang., Z. Data of High-resolution climate projection data for Marine Protected Areas in the Maritimes. Published: May 2026. Ocean Ecosystems Science Division, Maritimes Region, Fisheries and Oceans Canada, Dartmouth NS. https://open.canada.ca/data/en/dataset/fb4b3212-bca3-4192-8401-687faccc534b"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fb4b3212-bca3-4192-8401-687faccc534b"
+  ],
+  "dct_issued_s": "2026-06-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fb4b3212-bca3-4192-8401-687faccc534b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "High-resolution climate projection data for Marine Protected Areas in the Maritimes",
+  "gbl_mdModified_dt": "2026-06-15T12:31:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2d05bef2-3af6-54f7-93c7-ca74347db318",
+  "locn_geometry": "ENVELOPE(-67.337075, -56.237557, 48.911875, 43.42378)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-83.3482, -62.42883, 50.73279, 42.87447)",
+  "dcat_keyword_sm": [
+    "Analyse par sédimentation",
+    "C.F.C.S.",
+    "C.I.C.",
+    "Utilisation du sol",
+    "Land use",
+    "C.R.S.",
+    "Sedimentation analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Baud, Alexandre (McGill University). ORCID: https://orcid.org/0000-0001-6333-1067",
+    "Aulard, Candice (Université du Québec à Montréal).",
+    "Gregory-Eaves, Irene (McGill University). ORCID: https://orcid.org/0000-0002-0380-5061",
+    "Francus, Pierre (National Institute of Scientific Research, Centre Eau Terre Environnement, Institut National de la Recherche Scientifique, Geotop, INRS, Institut national de la recherche scientifique). ORCID: https://orcid.org/0000-0001-5465-1966",
+    "Huot, Yannick (Sherbrooke University, Université de Sherbrooke). ORCID: https://orcid.org/0000-0003-1793-761X",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159",
+    "Antoniades, Dermot (Université Laval, Université Laval Faculté de foresterie de géographie et de géomatique). ORCID: https://orcid.org/0000-0001-6629-4839",
+    "Fradette, Maxime (Université de Sherbrooke, Sherbrooke University).",
+    "Ghanbari, Hamid (Université Laval).",
+    "Smol, John Paul (Queen's University). ORCID: https://orcid.org/0000-0002-2499-6696"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement:  \nActivities:\ncumul_drymass;Cummulative dry mass of sediment;g/cm2\nmidpoint_depth;Midpoint depth of the discrete sediment interval relative to core top;cm\npb210;Isotopic activity for 210Pb;Bq/kg\npb210e;Error on isotopic activity for 210Pb;Bq/kg\npb214;Isotopic activity for 214Pb;Bq/kg\npb214e;Error on isotopic activity for 214Pb;Bq/kg\nbi214;Isotopic activity for 214Bi;Bq/kg\nbi214e;Error on isotopic activity for 214Bi;Bq/kg\ncs137;Isotopic activity for 137Cs;Bq/kg\ncs137e;Error on isotopic activity for 137Cs;Bq/kg\nam241;Isotopic activity for 241Am;Bq/kg\nam241e;Error on isotopic activity for 241Am;Bq/kg\n\nDates:\ncumul_drymass;Cummulative dry mass of sediment;g/cm2\nmidpoint_depth;Midpoint depth of the discrete sediment interval relative to core top;cm\nuns_210;Unsupported 210Pb activity;Bq/kg\nuns_210e;Error on unsupported 210Pb activity;Bq/kg\nsup_210;Supported 210Pb activity;Bq/kg\nsup_210e;Error on supported 210Pb activity;Bq/kg\nbinford;difference between unsupported 210Pb activity and error on unsupported activity;Bq/kg\ninventory;210Pbex deposit (or activity per unit surface area);Bq/m2\ninventorye;Error on 210Pbex deposit;Bq/m2\nage_cfcs;Age relative to core top (0 year) according to CFCS model;year\nyear_cfcs;Gregorian calendar year of the discrete sediment interval according to CFCS model;year\nerror_cfcs;CFCS model error on age;year\nage_crs;Age relative to core top (0 year) according to CRS model;year\nyear_crs;Gregorian calendar year of the discrete sediment interval according to CRS model;year\nerror_crs;CRS model error on age;year\nage_cic;Age relative to core top (0 year) according to CIC model;year\nyear_cic;Gregorian calendar year of the discrete sediment interval according to CIC model;year\nerror_cic;CIC model error on age;year\n\nRates:\ncumul_drymass;Cummulative dry mass of sediment;g/cm2\nmidpoint_depth;Midpoint depth of the discrete sediment interval relative to core top;cm\nmar_cfcs;Resulting sediment mass accumulation rates from CFCS model;g/cm2/year\nmar_cfcse;Error on resulting sediment mass accumulation rates from CFCS model;g/cm2/year\nmar_crs;Resulting sediment mass accumulation rates from CRS model;g/cm2/year\nmar_crse;Error on resulting sediment mass accumulation rates from CRS model;g/cm2/year\n\nPopulation:\nPop_1911;Estimated lake watershed population counts in 1911CE inferred from Canadian population census;inhabitants\nPop_1921;Estimated lake watershed population counts in 1921CE inferred from Canadian population census;inhabitants\nPop_1931;Estimated lake watershed population counts in 1931CE inferred from Canadian population census;inhabitants\nPop_1941;Estimated lake watershed population counts in 1941CE inferred from Canadian population census;inhabitants\nPop_1951;Estimated lake watershed population counts in 1951CE inferred from Canadian population census;inhabitants\nPop_1981;Estimated lake watershed population counts in 1981CE inferred from Canadian population census;inhabitants\nPop_1986;Estimated lake watershed population counts in 1986CE inferred from Canadian population census;inhabitants\nPop_1991;Estimated lake watershed population counts in 1991CE inferred from Canadian population census;inhabitants\nPop_1996;Estimated lake watershed population counts in 1996CE inferred from Canadian population census;inhabitants\nPop_2001;Estimated lake watershed population counts in 2001CE inferred from Canadian population census;inhabitants\nPop_2006;Estimated lake watershed population counts in 2006CE inferred from Canadian population census;inhabitants\nPop_2011;Estimated lake watershed population counts in 2011CE inferred from Canadian population census;inhabitants\nPop_2016;Estimated lake watershed population counts in 2016CE inferred from Canadian population census;inhabitants\n\nPrecipitation:\nPrecipitation;Yearly total precipitation estimated from Canadian meteorogical station data;mm\nYear;Gregorian calendar year associated with yearly total precipitation estimate;year\n\nTemperature:\nTemperature;Mean yearly temperature estimated from Canadian meteorogical station data;degree celsius\nYear;Gregorian calendar year associated with mean yearly temperature estimate;year",
+    "Radioisotopic and ancillary data (i.e., estimated temperature, precipitation and population in lake watersheds) for 37 lakes across Eastern Canada collected by the LakePulse Program in 2017"
+  ],
+  "dct_identifier_sm": [
+    "424843_281357_281358",
+    "https://doi.org/10.5683/SP3/Z14ONX"
+  ],
+  "dct_issued_s": "2022-12-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Z14ONX\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Radioisotopic and ancillary data (i.e., estimated temperature, precipitation and population in lake watersheds) for 37 Eastern Canadian lakes",
+  "gbl_mdModified_dt": "2023-12-08T14:12:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6679ee17-6beb-5336-a860-6d03ee2e461e",
+  "locn_geometry": "ENVELOPE(-83.3482, -62.42883, 50.73279, 42.87447)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

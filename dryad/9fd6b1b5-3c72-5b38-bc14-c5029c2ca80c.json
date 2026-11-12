@@ -1,0 +1,70 @@
+{
+  "dcat_keyword_sm": [
+    "Pthirus pubis",
+    "Genome sequencing",
+    "Pedicinus badii",
+    "Antarctopthirus microchir",
+    "Hoplopleura arboricola",
+    "Proechinopthirus fluctus",
+    "Holocene",
+    "Bothriometopus macrocnemus",
+    "Linognathus spicatus",
+    "gene assembly",
+    "Pthirus gorillae",
+    "present day",
+    "Haematopinus eurysternus",
+    "Stimulopalpus japonicus",
+    "Osborniella crotophagae",
+    "aTRAM",
+    "Pediculus humanus",
+    "Degeeriella rufa",
+    "Neohaematopinus pacificus",
+    "Pediculus schaeffi",
+    "Haematopinus\teurysternus",
+    "Bureelia antiqua",
+    "Pedicinus\tbadii"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Julie M., Allen (University of Illinois Urbana-Champaign, University of Nevada, Reno).",
+    "Bret, Boyd (University of Illinois Urbana-Champaign).",
+    "Nam-Phuong, Nguyen (University of Illinois Urbana-Champaign).",
+    "Pranjal, Vachaspati (University of Illinois Urbana-Champaign).",
+    "Tandy, Warnow (University of Illinois Urbana-Champaign).",
+    "Daisie I., Huang (University of British Columbia).",
+    "Patrick G. S., Grady (University of Illinois Urbana-Champaign).",
+    "Kayce C., Bell (University of New Mexico).",
+    "Quentin C.B., Cronk (University of British Columbia).",
+    "Lawrence, Mugisha (Conservation and Ecosystem Health Alliance).",
+    "Barry R., Pittendrigh (Michigan State University).",
+    "M., Soledad Leonardi (Instituto de Biología de Organismos Marinos, Centro Nacional Patagónico, Puerto Madryn, Argentina).",
+    "David L., Reed (Florida Museum of Natural History).",
+    "Kevin P., Johnson (University of Illinois Urbana-Champaign)."
+  ],
+  "dct_description_sm": [
+    "Novel sequencing technologies are rapidly expanding the size of data sets that can be applied to phylogenetic studies. Currently the most commonly used phylogenomic approaches involve some form of genome reduction. While these approaches make assembling phylogenomic data sets more economical for organisms with large genomes, they reduce the genomic coverage and thereby the long-term utility of the data. Currently, for organisms with moderate to small genomes (<1000 Mbp) it is feasible to sequence the entire genome at modest coverage (10−30×). Computational challenges for handling these large data sets can be alleviated by assembling targeted reads, rather than assembling the entire genome, to produce a phylogenomic data matrix. Here we demonstrate the use of automated Target Restricted Assembly Method (aTRAM) to assemble 1107 single-copy ortholog genes from whole genome sequencing of sucking lice (Anoplura) and out-groups. We developed a pipeline to extract exon sequences from the aTRAM assemblies by annotating them with respect to the original target protein. We aligned these protein sequences with the inferred amino acids and then performed phylogenetic analyses on both the concatenated matrix of genes and on each gene separately in a coalescent analysis. Finally, we tested the limits of successful assembly in aTRAM by assembling 100 genes from close- to distantly related taxa at high to low levels of coverage."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.26j38",
+    "https://doi.org/10.5061/dryad.26j38"
+  ],
+  "dct_issued_s": "2016-11-08",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.26j38\"}",
+  "dct_spatial_sm": [
+    "World Wide"
+  ],
+  "dct_title_s": "Data from: Phylogenomics from whole genome sequences using aTRAM",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9fd6b1b5-3c72-5b38-bc14-c5029c2ca80c",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.1107, -66.401, 50.1188, 48.5523)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset derives from a series of beam trawl tows conducted during several research surveys in coastal areas of the St. Lawrence Estuary, between Portneuf-sur-Mer and Pointe-des-Monts, and between June and October of 2019, 2020, 2021 and 2022. It contains catch data for fish and invertebrates (occurrence and catch weights by species), in trawl tows conducted at depths ranging from 10 to 50 meters. \n\nData were collected in various cruises:\n•\tJune 28th to July 5th 2019 (NGCC Leim)\n•\tSeptember 30th to October 9th 2019 (NGCC Leim)\n•\tOctober 1st to October 10th 2020 (NGCC Leim)\n•\tApril 22nd to May 5th 2021 (NGCC Perley)\n•\tOctober 15th to October 24th 2021 (NGCC Perley)\n•\tJune 24th to July 15th 2022 (NGCC LEIM)\n\nThe beam trawl used to generate this data set consists of a frame (width of 2.8 m, height of 0.8 m) equipped with a 6.5 m long net with 40 mm diamond mesh, which is lined with a net (skirt) of square mesh (5 mm) at the cod-end (length 2 m) and a protective apron (75 mm mesh) on the ventral portion. Three skid chains are linked at the base of the skates. Each station corresponds to a 5 to 10 minutes tow along an isobath at a speed of about 2 knots. At each haul, the trawl catch was placed on a sorting table on the deck and the organisms were sorted and identified at the best possible taxonomic resolution. Most taxa were independently weighed. Some invertebrates taxa were subsampled, counted and weighted in order to estimate their contribution (weight and number) to the total catch. Additionally, the first 30 fish of each species were measured and weighed individually.\n\nTaxonomic names were verified on the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match has been put in the scientificNameID field in the occurrence file. Data quality control was performed using the R packages obistools and worrms. All sampling locations were plotted on a map to perform a visual check confirming that the latitude and longitude coordinates were within the described sampling area. \n\nData acquired during the research surveys additionally included: 1) occurrence data on epibenthic invertebrates and submerged aquatic vegetation in photo samples from a drop camera system, 2) occurrence data on fish and invertebrate taxa in video samples collected using a baited underwater video system (BUV), 3) substrate classification based on drop camera photo samples, 4) oceanographic measurements of the water column from Seabird 19plus V2 profiling CTD (conductivity, temperature, depth, photosynthetic active radiation, pH, dissolved oxygen), 5) nutrients (NO2, NO3, NH4, PO4, SiO3) and dissolve organic carbon (DOC) concentrations, and 6) current speed and direction from tilt meters. The first two items are available as independent data on the OBIS portal. To obtain data from items 3-6 and/or biological data collected on fish and invertebrate taxa, please contact David Lévesque or Marie-Julie Roux.\n\nThe research surveys were undertaken by the Department of Fisheries and Oceans Canada as part of the baseline program of the Ocean Protection Plan. This initiative aimed to acquire environmental baseline data contributing to the characterization of important coastal areas and in support of evidence-based assessments and management decision-making for preserving marine ecosystems.\nWhich contribute to the elaboration of conservation objectives based on an ecosystem assessment approach for fishery stock assessment requires the development of sampling methods to maximize the data collection on the ecosystem, while minimizing the impact on organisms and the marine environment. This project aims at characterising the coastal ecosystem of the St. Lawrence Estuary between Portneuf-sur-Mer and Godbout (QC), including the physico-chemistry of water, phytoplankton, zooplankton, submerged vegetation, benthic habitats as well as assemblages of fish and invertebrates. Sampling was performed by combining conventional methods such as CTD profiling, zooplankton nets, and beam trawl, with non-extractive methods such as dropped photo cameras and stereoscopic baited video camera systems. The data collected will help define baseline ecosystem conditions in the study area; explore the links between environmental conditions, habitat structure and biological assemblages; identify important habitats for marine species; as well as the evaluation of the performance of visual sampling methods compared to conventional methods. The results will make it possible to optimize the seasonal or annual monitoring in order to better understand the direct and indirect effects of human activities in coastal environments.\n\nThis project was funded by the Department of Fisheries and Oceans Canada as part of the baseline program of the Ocean Protection Plan."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5755f7b7-80f4-472b-afbd-28a72bda6b0e"
+  ],
+  "dct_issued_s": "2023-11-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5755f7b7-80f4-472b-afbd-28a72bda6b0e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Fish and invertebrate assemblages in coastal areas of the St. Lawrence Estuary (north shore) sampled with a beam trawl",
+  "gbl_mdModified_dt": "2026-03-24T08:04:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "96998de4-ae78-550f-a515-c927130c304b",
+  "locn_geometry": "ENVELOPE(-69.1107, -66.401, 50.1188, 48.5523)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

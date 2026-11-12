@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "watershed",
+    "distribution",
+    "fish range",
+    "Government information",
+    "freshwater",
+    "fish presence",
+    "BC Watershed Atlas"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Aires de répartition des poissons provinciales - Bassins hydrographiques"
+  ],
+  "dct_creator_sm": [
+    "Dave McEwan."
+  ],
+  "dct_description_sm": [
+    "This file contains a representation of 3rd order watersheds developed for the 1:50,000 BC Watershed Atlas with each watershed polygon coded for occurrence of freshwater fish species (including anadromous salmon in their freshwater stages). The initial fish species codes for presence/absence in each watershed were derived from an GIS overlay of fish species occurrences within broadly defined fish regions for BC. This overlay of fish ranges describes the occurrences of fish species in 30 regions throughout the province. These broad species ranges were derived from McPhail and Carveth's 'Key to Freshwater Fish of BC' and refined further based on the most current expert opinion. Coding for watershed polygons based on this expert opinion was originally: 0= out of species range; 4 = core range; 5= introduced range; 6= peripheral range; 9= estuarine polygons only. A further refinement of watershed fish species coding was developed from actual observations of fish species in the lakes and rivers of British Columbia. This data comes from a number of fish inventory sources. Watersheds with known records of occurrence for each fish species were consequently recoded as such: 4, 5, 6, 9 now equal '1' if a museum record, and, 4, 5, 6, 9 now equal '2' for a less reliable record, and, 0 now equals '8'. for an out-of range record",
+    "Ce fichier contient une représentation des bassins versants de troisième ordre développés pour l'Atlas des bassins versants de la Colombie-Britannique au 1/50 000, chaque polygone du bassin versant étant codé pour la présence d'espèces de poissons d'eau douce (y compris le saumon anadrome au stade d'eau douce). Les codes initiaux des espèces de poissons pour la présence/l'absence dans chaque bassin hydrographique ont été dérivés d'une superposition SIG des occurrences d'espèces de poissons dans des régions poissonneuses largement définies en Colombie-Britannique. Cette superposition d'aires de répartition des poissons décrit les occurrences d'espèces de poissons dans 30 régions de la province. Ces vastes gammes d'espèces ont été dérivées du livre « Key to Freshwater Fish of BC » de McPhail et Carveth et ont été affinées en fonction de l'opinion d'experts la plus récente. Le codage des polygones des bassins hydrographiques basé sur cet avis d'expert était initialement le suivant : 0 = hors de l'aire de répartition de l'espèce ; 4 = aire de répartition principale ; 5 = aire de répartition introduite ; 6 = aire de répartition périphérique ; 9 = polygones estuariens uniquement. Le codage des espèces de poissons des bassins versants a été affiné à partir d'observations réelles d'espèces de poissons dans les lacs et les rivières de la Colombie-Britannique. Ces données proviennent de plusieurs sources d'inventaire des poissons. Les bassins versants pour lesquels la présence de chaque espèce de poisson a été enregistrée ont donc été recodés comme tels : 4, 5, 6, 9 sont désormais égaux à « 1 » s'il s'agit d'un enregistrement de musée, et 4, 5, 6, 9 sont désormais égaux à « 2 » pour un enregistrement moins fiable, et 0 est désormais égal à « 8 » pour un enregistrement hors des limites\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4e66ac86-aec6-4d79-8462-9e8daf0c0339"
+  ],
+  "dct_issued_s": "2011-10-12",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4e66ac86-aec6-4d79-8462-9e8daf0c0339\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Provincial Fish Ranges - Watersheds",
+  "gbl_mdModified_dt": "2026-01-28T20:03:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b6c63402-5e1b-54cf-a135-10dfbe112a0a",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

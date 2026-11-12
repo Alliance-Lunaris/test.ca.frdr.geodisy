@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The GNSS (Global Navigation Satellite System), or satellite positioning system, includes all satellite navigation systems. It allows you to know your location, anywhere in the country.\n\nTheoretical GNSS specifications estimate the accuracy of the position obtained from a receiver to be approximately 15 meters in planimetry and 25 meters in altimetry. By combining the data with that of another receiver placed on a known geodesic point, the accuracy of the obtained position can vary from a few centimeters to a few meters, depending on the type of receiver used.\n\nIn order to increase accuracy, the Government of Quebec records data continuously through a network of 18 GNSS stations. These stations are located on geodetic points that are free of any obstacles and capture data from the GPS and GLONASS constellations. Some of these stations receive signals from the Galileo constellation.\n\nThis data is available in the standard exchange format*Receiver Independent Exchange Format* (RINEX), version 2.11. This format is recognized by the majority of GNSS data processing software.\n\nThe data is accessible on the __ [ftp server] (ftp://ftp.mrn.gouv.qc.ca/Public/GPS)__) of the MRNF or using the __ [Interactive Map] (https://geodesie.portailcartographique.gouv.qc.ca/)__) of the geodetic network. It should be noted that only data from the last 366 days is kept.\n\nThe structure of the directories and files on the __ [ftp server] (ftp://ftp.mrn.gouv.qc.ca/Public/GPS)__) as well as the coordinates of the stations are presented in the document __ [GNSS sensor stations] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/Stations_GNSS.pdf)__.\n\n# #État GNSS stations##\n\nYou can consult the status of the stations in the document __ [Status of GNSS stations] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/État_Stations_GNSS.pdf)__. You will be notified if a station is in service, out of service, or if equipment maintenance is planned.\n\n# #GNSS in real time by cell phone\n\nThe government also offers GNSS data by cellular telephone, which allows centimetric positioning work to be carried out in real time. Users of georeferenced data can thus, with a single multi-frequency GNSS receiver equipped with a modem by cellular telephone, identify or implement any physical detail with an accuracy of a few centimeters in the NAD 83 reference system (SCRS) (period 1997.0).\n\nThe signal that contains this data is available to everyone. The range depends on telephone coverage, ionospheric conditions and especially on the instruments used. For more information on using GNSS in real time, see document __ [Guidelines for GNSS RTK/RTN Surveys in Canada] (http://publications.gc.ca/site/fra/9.822883/publication.html)__.\n\n# #Détails techniques\n\nThe transmission of GNSS data as well as the station's NAD 83 (SCRS) coordinates (period 1997.0) is transmitted by cellular telephony from an IP address on the Internet. Each station transmits its data in one of the following two formats: CMR+ or RTCM V3.2. The document __ [GNSS capture stations] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/Stations_GNSS.pdf)__) gives for each city the IP address of the CMR+ or RTCM V3.2 formats as well as the antenna model. It should be noted that the data is not broadcast according to the*Networked Transport of RTCM protocol via Internet Protocol* (NTRIP).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/74f2472e-5bb9-4d2d-8be5-0931c96eeeff"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/74f2472e-5bb9-4d2d-8be5-0931c96eeeff\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "GNSS data",
+  "gbl_mdModified_dt": "2026-10-07T18:05:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d17a714-e509-5c10-a204-5bb13c4944c1",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

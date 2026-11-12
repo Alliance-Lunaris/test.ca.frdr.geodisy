@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Geobase of the Quebec Hydrographic Network (GRHQ) is the common frame of reference for hydrography in Quebec. It is a detailed hydrographic network that can support numerous applications in land use planning, the environment and civil security.\n\nThe GRHQ is produced in partnership with the Ministry of the Environment, the Fight against Climate Change, Wildlife and Parks (MELCCFP) and the Ministry of Natural Resources and Forests (MRNF) using the following data:\n\n* The hydrographic classes from the Quebec Topographic Database (BDTQ) at the scale of 1/20,000 of the MERN for the south of the province;\n\n* CanVec's hydrographic classes at the scale of 1/50,000 from Natural Resources Canada for the north;\n\n* The continuity segments of the MELCCFP network;\n\n* The hydrographic division units of the MELCCFP;\n\n* The official toponyms from the TOPOS database of the Toponymy Commission. \n\nThe main components are:\n\n_Geometric network_\n\n* Points\n\n * Point components of the geometric network (hydrographic junctions).\n\n* Lines\n\n * Linear geometric network representing the continuity of flow across all types of hydrographic entities (linear and surface).\n\n_Thematic Information_\n\n* Points\n\n * Class of context entities represented in point form that enrich the thematic content of the various hydrographic components.\n\n* Lines\n\n * Class of context entities represented in linear form that enrich the thematic content of the various hydrographic components.\n\n * Class of linear entities representing the shores of hydrographic surfaces.\n\n* Surfaces\n\n * Class of context entities represented in surface form that enrich the thematic content of the various hydrographic components.\n\n * Class of surface entities representing hydrographic surfaces. \n\n \n\n_Management Units_\n\n* Surfaces\n\n * Class of surface entities representing hydrographic division units (UDHs).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/bfbdeb1d-8398-444b-ad78-ab81f9d14e60"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/bfbdeb1d-8398-444b-ad78-ab81f9d14e60\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Quebec Hydrographic Network Geobase (GRHQ)",
+  "gbl_mdModified_dt": "2026-10-07T17:32:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "531be455-fe28-529c-bbaa-479be59d4dfe",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

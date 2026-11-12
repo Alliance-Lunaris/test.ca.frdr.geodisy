@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "borders",
+    "STCA",
+    "public policy",
+    "immigration",
+    "refugees"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Nagata Aptana (University of Toronto). ORCID: https://orcid.org/0000-0002-4582-1625",
+    "Noelle Gomes (University of Toronto).",
+    "Yifan Li (University of Toronto).",
+    "Sunny Sien (University of Toronto).",
+    "Mio Sugiura (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "<b><u>About</u></b>\n<br></br>\nThe <em>Safe Third Country Agreement (STCA) Database</em> contains information on the presence, status and some outcomes of refugee claimants who entered Canada and were subject to the Safe Third Country Agreement with the United States of America at the Canada-US border from 2017 to 2024. Although these data were largely publicly-available, they were neither centralised, cleaned nor easily accessible for analysis by researchers and publics alike. Based on work by a group of researchers at Haven: the Asylum Lab supported by University of Toronto's Scholars in Residence Program (2024), we present centralised and processed data for the first time. \n<br></br>\n<b><u>Summary</u></b>\n<br></br>\nImplemented in 2004, the STCA places restrictions on the ability of refugee claimants to seek political asylum in Canada based on how they enter the country. Specifically, it mandates that those who arrive in the United States of America prior to entering Canada must seek refugee status there. One exception to the original STCA was that those who entered \"irregularly\" (i.e., between ports of entry); essentially, by entering Canada in this way, they could continue to seek refugee status as per international law. In 2023, the Governments of Canada and the USA implemented an additional protocol to the STCA which prevented this mode of seeking asylum unless the person in question made an unauthorised crossing and stayed in Canada for at least two weeks. In sum, the STCA has had major impacts on both the flows of and means by which refugee claimants trying to get to Canada to apply for political asylum do so.\n<br></br>\nDespite the importance of the STCA on refugee flows into Canada, as well as pending legal actions related to it (e.g., a Supreme Court challenge), there are few data sources attempting to measure its empirical effects. On this basis, we present The STCA Database to fill this gap. This data drop will be the first of a series related to the STCA as a whole. \n<br></br>\n<b><u>Data Structure</u></b>\n<br></br>\nWe structured the into a series of tables sourced from their original webpages. For more information on the data's structure and methodology for its construction (including to how to reproduce it), see \"README.md\". Tables are organised into corresponding comma-separated value (CSV) files, which can be opened in a variety of software packages, including but not limited to spreadsheet editors.\n<br></br>\n<b><u>Data Sources</u></b>\n<br></br>\nThese data were sourced from the following agencies in the Government of Canada. <b>The Royal Canadian Mounted Police (RCMP)</b> provided numbers on interceptions of asylum-seekers between ports of entry at th Canada-US border by geography and time. <b>The Canada Border Services Agency (CBSA)</b> and <b>Immigration, Refugees and Citizenship Canada (IRCC)</b> gave numbers cases of asylum seekers processed in their officers by mode of entry (i.e., on land, air, sea or inland), geography and time. Finally, <b>The Immigration and Refugee Board of Canada (IRB)</b> held numbers on outcomes of refugee claims made by those who made \"irregular border crossings\" by selected countries and time; we compared these outcomes to all refugee claims made with IRB, which were also provided with these data.\n<br></br>\nSome data were sourced using earlier versions of tables provided by the organisations listed above. To access them, we used the <em>Internet Archive's</em> WayBack Machine. This was necessary because some data which were previously available were later removed.\n<br></br>\nIf you use these data, please cite the original source at Aptana, Nagata, Gomes, Noelle, Li, Yifan, Sien, Sunny & Mio Sugiura. (2024). <em>The Safe Third Country Agreement (STCA) Database</em>. Borealis, <a href=\"https://doi.org/10.5683/SP3/WBSFPE\">https://doi.org/10.5683/SP3/WBSFPE</a>. Should you have any comments, questions or requested edits or extensions to The STCA Database, please contact Haven at <a href=\"kira.williams@utoronto.ca\">kira.williams@utoronto.ca</a>."
+  ],
+  "dct_identifier_sm": [
+    "746492_687352_746216",
+    "https://doi.org/10.5683/SP3/WBSFPE"
+  ],
+  "dct_issued_s": "2024-05-31",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WBSFPE\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "Safe Third Country Agreement Database",
+  "gbl_mdModified_dt": "2024-06-10T15:05:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37b2db71-f24f-518d-a96d-b0ef003386d0",
+  "pcdm_memberOf_sm": [
+    "Haven Lab // Safe Third Country Agreement Database"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

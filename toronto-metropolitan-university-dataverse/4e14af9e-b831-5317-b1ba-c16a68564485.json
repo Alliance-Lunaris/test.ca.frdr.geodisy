@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.14, -74.71, 55.25, 42.13)",
+  "dcat_keyword_sm": [
+    "Lake Depths",
+    "Bathymetry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hutchins, Ryan (Toronto Metropolitan University, University of Waterloo). ORCID: https://orcid.org/0000-0002-1696-4934",
+    "Young, Chloe (University of Waterloo)."
+  ],
+  "dct_description_sm": [
+    "Contains information licensed under the Open Government Licence – Ontario\nhttps://www.ontario.ca/page/open-government-licence-ontario",
+    "Lake depth plays a crucial role in understanding large-scale biogeochemical processes. The thickness of the hypolimnion, influenced by lake depth, is a key factor in oxygen dynamics and carbon processing within lakes. Furthermore, lake depth impacts seasonal ice-off dates and CO2 emissions. Bathymetry shapes lake mixing dynamics, which in turn regulate methane (CH4) emissions and phosphorus release from sediments. Consequently, landscape-scale biogeochemical studies of lake-dominated regions require extensive and accurate bathymetric data.\n\nIn Canada, more than a million lakes remain without detailed bathymetric data. However, between the 1940s and 1990s, the Ontario Ministry of Natural Resources and Forestry produced bathymetric maps for over 11,000 lakes across Ontario. These maps have been scanned and are publicly accessible via Ontario's Open Data Portal (https://data.ontario.ca/dataset/historic-bathymetry-maps). From these historical maps, maximum depths were manually extracted and compiled into this dataset.\n\nIn addition to maximum depths, lake geometry has been derived using lake polygons provided by the National Hydro Network (NHN) from Natural Resources Canada https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977). Morphometric metrics such as circularity, shoreline complexity, and relative depth were calculated from these polygons and the bathymetric data. This dataset offers a critical resource for understanding the geomorphological and biogeochemical dynamics of lakes across Ontario, Canada."
+  ],
+  "dct_identifier_sm": [
+    "844054",
+    "https://doi.org/10.5683/SP3/YJD7CE"
+  ],
+  "dct_issued_s": "2024-11-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YJD7CE\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Bathymetric features of Ontario lakes from historical maps",
+  "gbl_mdModified_dt": "2024-11-04T16:35:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4e14af9e-b831-5317-b1ba-c16a68564485",
+  "locn_geometry": "ENVELOPE(-95.14, -74.71, 55.25, 42.13)",
+  "schema_provider_s": "Toronto Metropolitan University Dataverse"
+}

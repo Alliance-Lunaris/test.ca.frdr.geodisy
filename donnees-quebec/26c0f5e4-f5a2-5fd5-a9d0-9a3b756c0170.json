@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Raquette",
+    "Raquette a neige",
+    "Activite hivernale",
+    "Sport",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polyligne des sentiers de raquette sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `nom_association` (`String`) : Association\n* `localisation` (`String`) : Localisation\n* `secteur` (`String`) : Secteur\n* `circuit` (`String`) : Numéro\n* `nom_circuit` (`String`) : Nom\n* `difficulte` (`String`) : Difficulté\n* `kilometres` (`Double`) : Kilométrage\n* `st_length(shape)` (`Double`) : Longueur\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/39fe5f10d99a4fd993488395df941928\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/3f137d4d-b156-4e77-afed-febd3d5352f4"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/3f137d4d-b156-4e77-afed-febd3d5352f4\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs"
+  ],
+  "dct_title_s": "Sentiers de raquette - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-01T14:02:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "26c0f5e4-f5a2-5fd5-a9d0-9a3b756c0170",
+  "schema_provider_s": "Données Québec"
+}

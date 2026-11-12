@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The SiIGsol-100m maps make it possible to document the spatial evolution of the properties of the mineral part of the soil at a spatial resolution of 100 m. These values were simulated by combining point observation data and spatially explicit covariates, derived from remote sensing data, using automated learning methods. These values should not be interpreted as an observation, but rather as the most likely value for a given distribution of observations and set of predictor variables. Soil property values are simulated for all non-urbanized land surfaces. All attributes whose value is likely to change with\nthe depth are available in 6 layers, which make it possible to translate the evolution of properties with depth. The depth limits used come from the GlobalSoilMap.net project mapping standard: 00-05 cm, 05-15 cm, 15-30 cm, 30-60 cm, 60-100 cm, and 100-200 cm. Map products are currently divided into 6 variables; the sand fraction, the silt fraction, the clay fraction, the pH, the cation exchange capacity and the proportion of organic matter. They cover the entire territory of the Province of Québecois located south of the 55th parallel.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4d6fabc3-b16f-43c3-8bc6-62233651558e"
+  ],
+  "dct_issued_s": "2022-11-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4d6fabc3-b16f-43c3-8bc6-62233651558e\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Siigsol-100m - Soil Properties Map",
+  "gbl_mdModified_dt": "2026-05-27T18:34:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0db1c252-4f97-5867-bf33-b79ca58489d1",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

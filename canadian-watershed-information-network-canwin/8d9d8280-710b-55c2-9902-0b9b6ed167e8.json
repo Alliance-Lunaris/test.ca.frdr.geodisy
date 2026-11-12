@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.877, -95.9727, 55.7829, 49.0051)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Feature point layer of the 124 Licence personal care homes (PCHs) in Manitoba.\n\nThis is a feature point layer of the 124 licensed personal care homes (PCHs) in Manitoba. All licensed PCHs in Manitoba are required to comply with minimum standards of care as set out in the Personal Care Home Standards Regulation under the Health Services Insurance Act. The Licensing and Compliance Branch of Manitoba Health Seniors and Active Living monitors compliance through regular review processes. PCH operators are required to take the necessary steps to address concerns identified in the course of reviews within specified time lines and must provide status updates until concerns have been addressed. PCH licences are reviewed and renewed annually and review findings are used to inform decision-making.    The dataset includes the following fields (Alias (Name): Description)    Regional Health Authority (Regional_Health_Authority): The name of the Regional Health Authority in which the facility is located.  Community (Community): The name of the community in which the facility is located.  Facility (Facility): The name of the licensed personal care home.  Facility Key (Facility_Key): Primary key used to query records in the Summary Reviews table.  Facility Label (Facility_Label): An abbreviated facility name suitable for use as a label in a map.  Address (Address): The street address of the facility.  Postal Code (Postal_Code): The postal code for the facility.  Phone Number (Phone_Number): The phone number for the facility.  For Profit (For_Profit): Yes / No Indicator  Not For Profit Board Owned and Operated (Not_For_Profit_Board_Owned_And_Operated): Yes / No Indicator  Not For Profit Regional Owned and Operated (Not_For_Profit_Regional_Owned_And_Operated): Yes / No Indicator  Language (Language): The designated language of the facility, either English or Bilingual.  Bed (Beds): The number of beds in the facility.  Status of Licence (Status_of_Licence): The status of the facility’s license. Possible values are Unencumbered, Under Review, or With Conditions.  Owner/Operator (Owner_Operator): The individual or company that owns the facility.  Website (Website): The URL for the website of the facility.  Latitude (Latitude): The latitudinal coordinate in decimal degrees.  Longitude (Longitude): The longitudinal coordinate in decimal degrees.   This feature point layer forms part of the data for the Manitoba Personal Care Home Reporting app."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b7943ef8-1cd2-0705-49f4-bd2105fc4d47"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b7943ef8-1cd2-0705-49f4-bd2105fc4d47\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Licence Personal Care Homes",
+  "gbl_mdModified_dt": "2026-09-02T11:01:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8d9d8280-710b-55c2-9902-0b9b6ed167e8",
+  "locn_geometry": "ENVELOPE(-101.877, -95.9727, 55.7829, 49.0051)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

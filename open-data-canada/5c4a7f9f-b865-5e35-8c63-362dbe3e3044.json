@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.73402, -47.71, 75.576, 41.224667)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Analyses de densité des noyaux de coraux et éponges à partir de prises faites lors de levés de navire scientifique (2016)"
+  ],
+  "dct_creator_sm": [
+    "OESD Data Request / DSEM Demande de donnés (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "Kernel density estimation (KDE) utilizes spatially explicit data to model the distribution of a variable of interest. It is a simple non-parametric neighbour-based smoothing function that relies on few assumptions about the structure of the observed data. It has been used in ecology to identify hotspots, that is, areas of relatively high biomass/abundance, and in 2010 was used by Fisheries and Oceans Canada to delineate significant concentrations of corals and sponges. The same approach has been used successfully in the Northwest Atlantic Fisheries Organization (NAFO) Regulatory Area. Here, we update the previous analyses with the catch records from up to 5 additional years of trawl survey data from Eastern Canada, including the Gulf of Saint Lawrence. We applied kernel density estimation to create a modelled biomass surface for each of sponges, small and large gorgonian corals, and sea pens, and applied an aerial expansion method to identify significant concentrations of these taxa. We compared our results to those obtained previously and provided maps of significant concentrations as well as point data co-ordinates for catches above the threshold values used to construct the significant area polygons. The borders of the polygons can be refined using knowledge of null catches and species distribution models of species presence/absence and/or biomass.",
+    "L’estimation de la densité par la méthode du noyau utilise des données spatialement explicites pour modéliser la distribution d’une variable d’intérêt. Il s’agit d’une simple fonction de lissage non paramétrique fondée sur la proximité qui repose sur quelques hypothèses quant à la structure des données observées. Elle a été utilisée en écologie pour déterminer des zones névralgiques, c’est-à-dire des zones où la biomasse ou l’abondance sont relativement élevées, et, en 2010, elle a été utilisée par Pêches et Océans Canada pour délimiter les concentrations importantes de coraux et d’éponges. La même approche a été utilisée avec succès dans la zone réglementaire de l’Organisation des pêches de l’Atlantique Nord-Ouest (OPANO). Dans le présent document, nous mettons à jour les analyses précédentes avec les registres des prises représentant jusqu’à cinq années de données supplémentaires tirées des relevés au chalut dans l’Est du Canada, y compris dans le golfe du Saint-Laurent. Nous avons appliqué l’estimation de la densité par la méthode du noyau afin de créer une surface de biomasse modélisée pour chacune des éponges, des petites et grandes gorgones et des pennatules, et appliqué une méthode d’expansion aérienne pour déterminer les concentrations importantes de ces taxons. Nous avons comparé nos résultats avec ceux obtenus antérieurement, et fourni des cartes des concentrations importantes ainsi que des coordonnées de données ponctuelles pour les prises dépassant les valeurs de seuil utilisées pour construire les zones polygones importantes. Les limites des polygones peuvent être affinées à l’aide de la connaissance des captures nulles et des modèles de répartition de la présence ou de l’absence des espèces ou de la biomasse."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fb1d1c3d-ba6e-4d0d-b629-f4f497edc10f"
+  ],
+  "dct_issued_s": "2017-06-29",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fb1d1c3d-ba6e-4d0d-b629-f4f497edc10f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Kernel Density Analyses of Coral and Sponge Catches from Research Vessel Survey Data (2016)",
+  "gbl_mdModified_dt": "2026-03-24T08:09:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5c4a7f9f-b865-5e35-8c63-362dbe3e3044",
+  "locn_geometry": "ENVELOPE(-79.73402, -47.71, 75.576, 41.224667)",
+  "schema_provider_s": "Open Data Canada"
+}

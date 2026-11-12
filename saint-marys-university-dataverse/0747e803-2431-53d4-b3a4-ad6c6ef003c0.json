@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Carbon Monoxide, MOPITT, Atmospheric Sciences, Environmental Sciences, Remote Sensing, Geography, Atmospheric Chemistry, Air Pollution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ashpole, Ian (Saint Mary's University). ORCID: https://orcid.org/0000-0002-0289-9158",
+    "Wiacek, Aldona (Saint Mary's University). ORCID: https://orcid.org/0000-0003-4181-2497"
+  ],
+  "dct_description_sm": [
+    "<p>The L3L and L3W products are available for public use, and are citable as follows:</p>\n\n<p><i>\"Ashpole, Ian; Wiacek, Aldona, 2022, \"Land- and water-only Level 3 products from MOPITT TIR-NIR Version 8 CO retrievals\", <a>https://doi.org/10.5683/SP3/ERCG2H</a>, Borealis, V1\"</i></p>\n\n<p>We request that in addition to citing the dataset, the following text is included in any data acknowledgement section:</p>\n\n<i>\"The L3L/L3W products are described in detail in Ashpole and Wiacek, 2022 (<a>https://doi.org/10.5194/amt-2022-90<a/>). These were created from original MOPITT Level 2 (MOP02J: <a>https://doi.org/10.5067/TERRA/MOPITT/MOP02J_L2.008</a>) and Level 3 (MOP03J: <a>https://doi.org/10.5067/TERRA/MOPITT/MOP03J_L3.008</a>) Version 8 products. The MOPITT Version 8 algorithm is described in Deeter et al., 2019 (<a>https://doi.org/10.5194/amt-12-4561-2019</a>).\"</i></p>\n\n<p>The creators of this dataset received funding from the Canadian Space Agency through the Earth System Science Data Analyses program (grant no. 16SUASMPTN), the Canadian National Science and Engineering Research Council through the Discovery Grants Program, and Saint Mary’s University.</p>",
+    "<p>This dataset contains alternative products to the official Level 3 (L3) product from Measurements of Pollution in the Troposphere (MOPITT) joint thermal infrared (TIR) – near infrared (NIR) Version 8 Carbon Monoxide (CO) retrievals (available here: <a>https://doi.org/10.5067/TERRA/MOPITT/MOP03J_L3.008</a>). The products are described and analysed in a paper in the journal Atmospheric Measurement Techniques by Ian Ashpole and Aldona Wiacek (2022, <a>https://doi.org/10.5194/amt-2022-90</a>). </p>\n\n<p>In short, whereas the official MOPITT L3 product is based on retrievals performed over both land AND water surface types, the products here are created separately from retrievals performed ONLY over land (“L3L”) OR water (“L3W”). The code for creating L3L and L3W is available here: <a>https://github.com/ianashpole/MOPITT_L3L_L3W</a> </p>\n\n<p>The version naming is consistent with the official MOPITT product version, although note that version 8 is the first version that these alternatives are produced for (i.e. although MOPITT product versions 1-7 exist, L3L and L3W do not). However, it is intended that L3L and L3W are created for MOPITT product versions after version 8.</p>\n\n<p>The dataset stored here consists of two main .zip archives:<br>\n<i>“MOPITT_v8.L3L.20010901_20190228.zip”</i><br>\n<i>“MOPITT_v8.L3W.20010901_20190228.zip”</i><br> \nWhen unzipped, each archive contains 6057 individual NetCDF (\".nc\") files that correspond to the daily L3L and L3W data products for the period 2001-09-01 to 2019-02-28, inclusive. Daily files represent the satellite instrument measurements for a single day. Users are referred to the <b>\"README.txt\"</b> file for a full description of the individual file contents. Note that when unzipped, the products require ~22.5 GB of data storage each (45 GB total for both L3L and L3W). Because of this, a single file from each product has been uploaded separately (file date = “20020801”; see below for naming convention) to facilitate user experimentation before unpacking the full L3L/L3W products. \nIndividual L3L/L3W NetCDF files are ~3.4 MB in size.</p>\n\n<p>The individual NetCDF files are named as follows:\n<i>MOPITT_v8.L3L.from_MOPO2J.selected_variables.YYYYMMDD.nc</i>\n(replace “L3L” with “L3W” in the filename for the corresponding L3W product.) \nThe date corresponds to the YYYYMMDD that the retrievals were made. E.g. the file <i>“MOPITT_v8.L3L.from_MOPO2J.selected_variables.20020801.nc”</i> corresponds to the L3L product for MOPITT retrievals made on August 1st 2002. \nVariables contained within the file are described in detail in the <b>\"README.txt\"</b> file.</p>\n\n<p>NetCDF is a common format for gridded geoscientific data, easily readable by all widely used scientific programming languages (e.g. Python, R, Matlab, IDL…), as well as dedicated command line tools (e.g. cdo, gdal). Panoply (<a>https://www.giss.nasa.gov/tools/panoply/</a>) is an alternative application for quickly plotting these data without the requirement of coding experience. Most GIS packages can also handle NetCDF data.</p>\n\n<p>An example python code for reading and plotting data from a single L3L file is available here: <a>https://github.com/ianashpole/MOPITT_L3L_L3W/blob/main/example_read_and_plot_MOPITT_L3L.ipynb</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "416475",
+    "https://doi.org/10.5683/SP3/ERCG2H"
+  ],
+  "dct_issued_s": "2022-11-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ERCG2H\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Land- and water-only Level 3 products from MOPITT TIR-NIR Version 8 CO retrievals",
+  "gbl_mdModified_dt": "2022-11-22T12:31:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0747e803-2431-53d4-b3a4-ad6c6ef003c0",
+  "schema_provider_s": "Saint Mary's University Dataverse"
+}

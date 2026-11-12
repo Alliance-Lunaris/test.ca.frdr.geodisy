@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Station Quality Index (IQS) maps provide a 25-year IQS value for white spruce, black spruce, and jack pine plantations at the scale of the forest polygon of the ecoforest map updated in 2022. These IQS values were estimated with non-parametric models called decision-making tree forests, which were parameterized from spatially explicit variables, derived from climate data, ecological classification, edaphic characteristics and attributes relating to the station. IQS values were estimated based on the current climate period for managed forest land and do not include climate projections. Data can be downloaded as a file in GeoPackage (GPKG) or CSV format. To know the details of the modeling approach used, you are invited to consult the SSRF-30 technical opinion by Barrette et al. (2023).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/19c00887-5800-49b7-b1f9-48f3467e2663"
+  ],
+  "dct_issued_s": "2024-11-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/19c00887-5800-49b7-b1f9-48f3467e2663\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Mapping of station quality indices for monospecific plantations of white spruce, black spruce and jack pine",
+  "gbl_mdModified_dt": "2026-05-27T18:10:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "629c7450-3b25-5186-8def-e26118a7b9df",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

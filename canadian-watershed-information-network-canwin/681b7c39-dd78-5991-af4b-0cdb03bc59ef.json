@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Data include a collection of annual land cover maps derived from MODIS 250 m spatial resolution remotely sensed imagery for the period 2000 to 2011. Processing of the time series was designed to reduce the occurrence of false change between maps. The method was based on change updating as described in Pouliot et al. (2011, 2013). Change detection accounted for both abrupt changes such as forest harvesting and more gradual changes such as recurrent insect defoliation. To determine the new label for a pixel identified as change, an evidential reasoning approach was used to combine spectral and contextual information. The 2005 MODIS land cover of Canada at 250 m spatial resolution described in Latifovic et al. (2012) was used as the base map. It contains 39 land cover classes, which for time series development was considered too detailed and was reduced to 25 and 19 class versions. The 19 class version corresponds to the North America Land Change Monitoring System (NALCMS) Level 2 legend as described in Latifovic et al. (2012). Accuracy assessment of time series is difficult due to the need to assess many maps. For areas of change in the time series accuracy was found to be 70% based on the 19 class thematic legend.\n\nThis time series captures the spatial distribution of dominant land cover transitions. It is intended for use in modeling, development of remote sensing products such as leaf area index or land cover based albedo retrievals, and other exploratory analysis. It is not appropriate for use in any rigorous reporting or inventory assessments due to the accuracy of the land cover classification and uncertainty as to the capture of all relevant changes for an application."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ce05e6ef-cd61-74a2-a65b-bb98a5301287"
+  ],
+  "dct_issued_s": "2018-09-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ce05e6ef-cd61-74a2-a65b-bb98a5301287\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "MODIS annual landcover time series of Canada (19 classes)",
+  "gbl_mdModified_dt": "2026-09-29T16:01:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "681b7c39-dd78-5991-af4b-0cdb03bc59ef",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Ecology",
+    "Lawn",
+    "Meta-analysis",
+    "Biodiversity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Watson, Christopher (Université du Québec à Trois-Rivières).",
+    "Carignan-Guillemette, Léonie (Université du Québec à Trois-Rivières).",
+    "Turcotte, Caroline (Université du Québec à Trois-Rivières).",
+    "Maire, Vincent (Département des Sciences de l’environnement, Université du Québec à Trois-Rivières, QC, Canada, Université du Québec à Trois-Rivières).",
+    "Proulx, Raphaël (Université du Québec à Trois-Rivières)."
+  ],
+  "dct_description_sm": [
+    "Data are provided \"as-is\". Please contact the authors for more details and information on use.",
+    "This data supports a meta-analysis investigating ecological impacts of intense lawn management (mowing). Raw data on invertebrate abundance and temperature data was collected by Léonie Carignan-Guillemette (2018) and Caroline Turcotte (2017) under the supervision of Raphaël Proulx and Vincent Maire (refer to Appendix S1 within related publication for more information). \r\n\r\nOther data was gathered and processed according to the following:\r\n\r\nWe searched the Scopus database on 8 February, 2019 with the following combinations of keywords: (lawn OR turf) AND mowing AND (urban OR city).\r\nGenerally, studies were ineligible when: full-text of the article was not available even after contacting the authors; mowing was incidental to the study and not an experimental factor; response variables were not ecologically relevant; confounding factors (e.g. fertilisation) could not be isolated; a non-urban context was used; or simulated data were presented.\r\n\r\nWe extracted the mean and statistical variation (standard deviation or standard error) for each response variable in control (less-intensively mown) and treatment (intensively mown) groups. Reported data were used when available. Otherwise, data were extracted from published figures using the Web Plot Digitizer tool. Where summary data on median, and interquartile range was presented, mean and standard deviation was estimated. Variables with multi-temporal data (e.g. soil moisture) were summarised using the mean and pooled standard deviation to provide an aggregated value per site per year. Where seasonal trends were evident in raw multi-temporal data (e.g. soil temperature), data was detrended using a polynomial function and analysis applied to the residuals."
+  ],
+  "dct_identifier_sm": [
+    "84197_412017",
+    "https://doi.org/10.5683/SP2/RRJTEN"
+  ],
+  "dct_issued_s": "2019-11-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/RRJTEN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Trois-Rivieres, Québec, Canada",
+    "Springfield, MA, United States",
+    "Bracknell, United Kingdom",
+    "Helsinki, Finland",
+    "Reading, United Kingdom",
+    "Tubingen, Germany",
+    "Rennes, France"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data used to support a meta-analysis investigating ecological effects of urban lawn management",
+  "gbl_mdModified_dt": "2019-11-20T13:51:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c67112b7-0203-5cb8-845e-ed68be58acfc",
+  "pcdm_memberOf_sm": [
+    "RIVE"
+  ],
+  "schema_provider_s": "Dataverse de l'Université du Québec à Trois-Rivières"
+}

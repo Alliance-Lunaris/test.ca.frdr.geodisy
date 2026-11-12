@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "Transmissible Spongiform Encephalopathy",
+    "white-tail deer",
+    "mule deer",
+    "prion",
+    "cervid",
+    "PRNP",
+    "chronic wasting disease"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Cullingham, Catherine (University of Alberta, Carleton University). ORCID: https://orcid.org/0000-0002-6715-0674",
+    "Bubac, Christine (Carleton University).",
+    "Russell, Ty (University of Alberta). ORCID: https://orcid.org/0000-0002-6611-9990",
+    "McKenzie, Debbie (University of Alberta). ORCID: https://orcid.org/0000-0002-9291-6977",
+    "Ball, Mark (Alberta Environment and Protected Areas; Fish and Wildlife Stewardship). ORCID: https://orcid.org/0000-0003-2931-9536",
+    "Pybus, Margo (Alberta Environment and Protected Areas; Fish and Wildlife Stewardship). ORCID: https://orcid.org/0000-0002-9199-7939",
+    "Coltman, David (Western University). ORCID: https://orcid.org/0000-0002-1268-2307"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the data and R-scripts associated with the publication \"PRNP allelic variation may suggest a selection response to chronic wasting disease infection in wild white-tailed deer\". There are six associated files, four datafiles, and two R-script files. The main dataset consists of genotypes of the PNRP gene for mule deer and white-tail deer in Alberta, which includes both CWD negative and positive deer. There are two paired data-script files, one set is the data to examine the relationship of allelic variation at the 96 locus in the white-tail deer PRNP gene, and the script contains code to examine what covariates explain the spatial variation in the locus at the wildlife management unit level. The second pair, contains all WTD individual genotypes for the 96 locus and the script contains code to examine whether the effects of the locus on CWD status are additive or dominant. The final file contains selection coefficient calculations for the 96 locus in WTD over time."
+  ],
+  "dct_identifier_sm": [
+    "867429_203119",
+    "https://doi.org/10.5683/SP3/NSV8OU"
+  ],
+  "dct_issued_s": "2025-10-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NSV8OU\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "AB, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Spatial and temporal patterns of prion gene variation are consistent with a response to chronic wasting disease induced selection in wild white-tailed deer",
+  "gbl_mdModified_dt": "2025-10-30T18:48:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c2075ec0-db2b-5124-9b00-321b7ffa9397",
+  "pcdm_memberOf_sm": [
+    "Chronic wasting disease project"
+  ],
+  "schema_provider_s": "University of Alberta Dataverse"
+}

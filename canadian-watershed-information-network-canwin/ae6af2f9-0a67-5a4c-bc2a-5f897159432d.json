@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays ensemble-based, medium-range precipitation forecasts from the Global Ensemble Prediction System (GEPS), offering a probabilistic view of future rainfall or snowfall over a 16‑day horizon. It aids in uncertainty analysis, risk assessment, and strategic resource planning.  \n  \n  Ensemble Approach: GEPS runs multiple perturbed members of ECCC’s GEM model, capturing a range of atmospheric evolutions and yielding probability distributions for precipitation. Global Domain: Similar coverage to the GDPS but focuses on ensemble mean, spreads, and probabilities rather than a single deterministic outcome. Longer-Range Outlook: Extends up to 16 days, supporting risk-based planning for potential floods, extended rainfall events, or dryness. Data Utility: Allows decision-makers to weigh confidence levels in precipitation scenarios, vital for water management, agriculture, and emergency contingency strategies."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/548e5050-8818-d98a-4415-4a8af270399f"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/548e5050-8818-d98a-4415-4a8af270399f\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "GEPS Forecasted Accumulated Precipitation - 384 hrs",
+  "gbl_mdModified_dt": "2025-10-15T12:17:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae6af2f9-0a67-5a4c-bc2a-5f897159432d",
+  "locn_geometry": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

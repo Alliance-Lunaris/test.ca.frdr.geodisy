@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Géophysique--Simulation par ordinateur",
+    "Méthode des éléments finis--Modèles mathématiques",
+    "Finite element modeling",
+    "Geophysics",
+    "Sondages (Mines)",
+    "Pétrologie--Analyse"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Nemati, Yasaman (Université Laval). ORCID: https://orcid.org/0009-0000-3555-0086"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the finite element models, simulation outputs, and associated scripts developed during a PhD study investigating the response of normal resistivity logging tools to vein and borehole fluid characteristics (Metal Earth Project).\n\nThe purpose of this dataset is to quantify how vein geometry, resistivity contrast between vein and host rock, borehole fluid resistivity, and electrode spacing influence apparent resistivity measurements (N-spacing configurations). The models were constructed to provide a physically constrained framework for interpreting borehole resistivity logs in structurally complex, vein-dominated orogenic gold systems.\n\nThe dataset includes:\n\nMesh files in .geo format, along with instructions on how to build the models and convert them to .mesh format\n\nScripts and input files required to reproduce the simulations and generate the plots\n\nResults of the final simulations in .csv format\n\nThese models allow systematic evaluation of boundary effects, depth of investigation differences between electrode spacings, and the influence of resistive and conductive veins on tool response.\n\nThe dataset is intended for researchers in borehole geophysics, numerical modeling, and petrophysical interpretation seeking reproducible forward-modeling frameworks for resistivity logging tools.\n\nNo sensitive or confidential information is included."
+  ],
+  "dct_identifier_sm": [
+    "1047338_77505",
+    "https://doi.org/10.5683/SP3/6PA2RP"
+  ],
+  "dct_issued_s": "2026-03-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/6PA2RP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Finite Element Models and Simulated Normal Resistivity Log Responses for Vein Geometry and Resistivity Contrast (Metal Earht project))",
+  "gbl_mdModified_dt": "2026-03-27T12:35:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "80e30d5f-01a4-58f4-99b8-3a843e51c920",
+  "pcdm_memberOf_sm": [
+    "Collection des étudiant(-e)s de l'Université Laval"
+  ],
+  "schema_provider_s": "Dataverse de l'Université Laval"
+}

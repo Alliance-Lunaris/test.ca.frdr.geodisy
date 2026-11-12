@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Precipitation measurements in the Environment and Climate Change Canada (ECCC) surface network are a necessary component for monitoring weather and climate and are required for flood and water resource forecasting, numerical weather prediction and many other applications that impact the health and safety of Canadians. Beginning in the late 1990s, the ECCC surface network began a transition from manual to automated precipitation measurements. Advantages to increased automation include enhanced capabilities for monitoring in remote locations and higher observation frequency at lower cost. However, transition to automated precipitation gauges has resulted in new challenges to data quality, accuracy, and homogenization. Automated weighing precipitation gauges used in the ECCC operational network, because of their physical profile, tend to measure less precipitation falling as snow because lighter particles (snow) are deflected away from the collector by the wind flow around the gauge orifice. This phenomenon of wind-induced systematic bias is well documented in the literature. The observation requires an adjustment depending on gauge and shield configuration, precipitation phase, temperature, and wind speed.\n\r\n\rHourly precipitation, wind speed, and temperature for 397 ECCC automated surface weather stations were retrieved from the ECCC national archive. Climate Research Division (CRD) selected this sub-set of stations because they are critical to the continuity of various climate analysis. The observation period varies by station with the earliest data series beginning in 2001 (with most beginning in 2004). The precipitation data was quality controlled using established techniques to identify and flag outliers, remove spurious observations, and correct for previously identified filtering errors. The resulting hourly precipitation data was adjusted for wind bias using the WMO Solid Precipitation Inter-Comparison Experiment (SPICE) Universal Transfer Function (UTF) equation. A full description of this data set, including the station locations, data format, methodology, and references are included in the repository.\n\r\n\rThere are now multiple versions of this dataset available, with the later versions being the most up to date and employing the most advanced adjustment techniques. Information on versioning is included in the documentation."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e7b145ce-b277-481e-818e-f7e5af48c5e8"
+  ],
+  "dct_issued_s": "2022-03-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e7b145ce-b277-481e-818e-f7e5af48c5e8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hourly wind-bias-adjusted precipitation data from the ECCC automated surface observation network (CanAdjAutoP hly)",
+  "gbl_mdModified_dt": "2025-10-23T14:11:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "45d9b034-46d0-500c-b79b-ac41979d5b1f",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

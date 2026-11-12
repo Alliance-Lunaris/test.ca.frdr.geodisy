@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Sport",
+    "Donnee ouverte",
+    "Equipement sportif",
+    "Terrain de sport",
+    "Msp",
+    "Infrastructure sportive"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des infrastructures sportives municipales (intérieures et extérieures) de la Ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _sport_ (_String_) : Sport\n* _nom_ (_String_) : Nom\n* _adresse_ (_String_) : Adresse\n* _url_ (_String_) : URL\n* _photo_ (_String_) : Photo\n* _photo_360_ (_String_) : Photo 360°\n* _secteur_ (_String_) : Secteur\n* _notes_ (_String_) : Notes\n* _identifiant_ (_String_) : \n* _nom_infra_ (_String_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/5d3ef8082c78491d879dd558f93c4416\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/0ddd3fba-419f-45af-91e1-7edcacd5056b"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/0ddd3fba-419f-45af-91e1-7edcacd5056b\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Infrastructures sportives - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1aec65fb-8858-5980-bb1d-4debaa9a4f74",
+  "schema_provider_s": "Données Québec"
+}

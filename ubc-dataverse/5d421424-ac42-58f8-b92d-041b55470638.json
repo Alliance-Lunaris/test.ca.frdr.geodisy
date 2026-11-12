@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Helianthella quinquenervis",
+    "environmental driver",
+    "earlier flowering",
+    "matrix model",
+    "Phenological shift",
+    "snowmelt"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Iler, Amy M. (Chicago Botanic Garden Glencoe Illinois).",
+    "Compagnoni, Aldo (Rice University).",
+    "Inouye, David W. (Rocky Mountain Biological Laboratory).",
+    "Williams, Jennifer L. (University of British Columbia).",
+    "CaraDonna, Paul J. (Chicago Botanic Garden Glencoe Illinois).",
+    "Anderson, Aaron (Rocky Mountain Biological Laboratory).",
+    "Miller, Tom E.X. (Rice University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/-j7yWMS3EbJhT20nghdqWM-aqEmW6AJCPUVlLjE-Bqk</p>\n<p><b>Storage size:</b> 1292132</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>1. Despite a global footprint of shifts in flowering phenology in response to climate change, the reproductive consequences of these shifts are poorly understood. Furthermore, it is unknown whether altered flowering times affect plant population viability.\r\n2. We examine whether climate change-induced earlier flowering has consequences for population persistence by incorporating reproductive losses from frost damage (a risk of early flowering) in population models of a subalpine sunflower (Helianthella quinquenervis). Using long-term demographic data for three populations that span the species’ elevation range (8–15 years, depending on the population), we first examine how snowmelt date affects plant vital rates. To verify vital rate responses to snowmelt date experimentally, we manipulate snowmelt date with a snow removal experiment at one population. Finally, we construct stochastic population projection models and Life Table Response Experiments for each population.\r\n3. We find that populations decline (λs < 1) as snowmelt dates become earlier. Frost damage to flower buds, a consequence of climate change-induced earlier flowering, does not contribute strongly to population declines. Instead, we find evidence that negative effects on survival, likely due to increased drought risk during longer growing seasons, drive projected population declines under earlier snowmelt dates.\r\n4. Synthesis. Shifts in flowering phenology are a conspicuous and important aspect of biological responses to climate change, but here we show that the phenology of reproductive events can be unreliable measures of threats to population persistence, even when earlier flowering is associated with substantial reproductive losses. Evidence for shifts in reproductive phenology, along with scarcer evidence that these shifts actually influence reproductive success, are valuable but can paint an incomplete and even misleading picture of plant population responses to climate change.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">HEQU_demography data</h4><div class=\"o-metadata__file-description\">Long-term demographic vital rates for Helianthella quinquenervis, across three study populations. The csv file was made in Excel. See README.txt file for detailed description of all variables.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snowmelt</h4><div class=\"o-metadata__file-description\">Data on first day of bare ground (snowmelt date, shown as day of year; 1 Jan = 1) from a long-term snow monitoring plot monitored by billy barr, near the mid-elevation study population described in the paper (The Rocky Mountain Biological Laboratory). snowmeltT1 refers to the date of melt in year t+1 and snowmeltTm1 refers to the date of melt in year t-1.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snow.removal.experiment</h4><div class=\"o-metadata__file-description\">Vital responses to experimental snow removal at one study population. The csv file was made in Excel. Variables are described in the associated README.txt file.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153421_150149",
+    "https://doi.org/10.5683/SP2/ZZHLLC"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/ZZHLLC\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Western USA",
+    "Montane"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Reproductive losses due to climate change-induced earlier flowering are not the primary threat to plant population viability in a perennial herb",
+  "gbl_mdModified_dt": "2021-05-19T19:15:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5d421424-ac42-58f8-b92d-041b55470638",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

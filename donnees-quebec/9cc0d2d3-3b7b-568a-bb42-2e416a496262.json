@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Donnee ouverte",
+    "District electoral",
+    "Vote",
+    "Conseiller municipal",
+    "Elections"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polygonale des districts électoraux pour les élections municipales, sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n  Données reçues d'une firme externe\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `district` (`String`) : District\n* `electeurs` (`SmallInteger`) : Électeurs\n* `superficie` (`Double`) : Superficie\n* `st_area(shape)` (`Double`) : \n* `st_length(shape)` (`Double`) : \n* `nom` (`String`) : Nom\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/9fde16999b734f5f8d3798536595f0a3\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/668b7750-b71a-4b4e-a0b2-c04a7710a2e4"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/668b7750-b71a-4b4e-a0b2-c04a7710a2e4\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_title_s": "Districts électoraux - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-02T15:31:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cc0d2d3-3b7b-568a-bb42-2e416a496262",
+  "schema_provider_s": "Données Québec"
+}

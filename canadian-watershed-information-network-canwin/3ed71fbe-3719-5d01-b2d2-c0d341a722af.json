@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-175.53005197, -46.68394067, 84.24101437, 7.81533417)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Geospatial climate change projections are critical for assessing climate change impacts and adaptations across a wide range of disciplines. Here we present monthly-based grids of climate change projections at a 2-km resolution covering Canada and the United States. These data products are based on outputs from the 6th Coupled Model Intercomparison Project (CMIP6) and include projections for 13 General Circulation Models (GCMs) , three Shared Socio-economic Pathways (SSP1 2.6, SSP2 4.5, and SSP5 8.5), four 30-year time periods (2011-2040, 2021-2050, 2041-2070, and 2071-2100), and a suite of climate variables, including monthly maximum and minimum temperature, precipitation, climate moisture index, and various bioclimatic summaries.  The products employ a delta downscaling method, which combines historical normal values at climate stations with broad-scale change projections (or deltas) from GCMs, followed by spatial interpolation using ANUSPLIN.  Various quality control efforts, described herein, were undertaken to ensure that the final products provided reasonable estimates of future climate."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2921339c-f5a0-4407-a243-663c2cddf78d"
+  ],
+  "dct_issued_s": "2024-11-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2921339c-f5a0-4407-a243-663c2cddf78d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Spatial datasets of CMIP6 climate change projections for Canada and the United States",
+  "gbl_mdModified_dt": "2024-11-05T18:00:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3ed71fbe-3719-5d01-b2d2-c0d341a722af",
+  "locn_geometry": "ENVELOPE(-175.53005197, -46.68394067, 84.24101437, 7.81533417)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

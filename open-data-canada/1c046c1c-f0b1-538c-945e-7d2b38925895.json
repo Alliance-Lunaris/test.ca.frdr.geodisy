@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Surface layer of public parking areas in the city.\n\n**Collection context**\n Updated by engineering department technicians.\n\n**Collection method**\n Technical drawing.\n\n**Attributes**\n\n* `ID_STAT` (`integer`): Identifier\n* `TYPE` (`varchar`): Type\n* `NB_CASE` (`integer`): Number of boxes\n* `NB_CASE_HDP` (`integer`): Number of HDP boxes\n* `PLACE` (`varchar`): Location\n* `AREA` (`numeric`): Area\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche de surfaces des aires de stationnement publics de la ville.\n\n**Contexte de collecte**\n Mise à jour par les techniciens du service du génie.\n\n**Méthode de collecte**\n Dessin technique.\n\n**Attributs**\n\n* `ID_STAT` (`integer`) : Identifiant\n* `TYPE` (`varchar`) : Type\n* `NB_CASE` (`integer`) : Nombre de cases\n* `NB_CASE_HDP` (`integer`) : Nombre de cases HDP\n* `LIEU` (`varchar`) : Lieu\n* `AIRE` (`numeric`) : Aire\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/47709d47-dd22-4ed4-8cd5-3d933be74559"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/47709d47-dd22-4ed4-8cd5-3d933be74559\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Aires de stationnement public - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T19:11:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1c046c1c-f0b1-538c-945e-7d2b38925895",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

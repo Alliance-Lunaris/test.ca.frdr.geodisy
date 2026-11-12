@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(52.0, 54.0, 82.0, 56.0)",
+  "dcat_keyword_sm": [
+    "ERA5",
+    "Tourbillon circumpolaire",
+    "Canadian Regional Climate Model",
+    "Temps (Météorologie)--Prévision--Norvège, mer de--Méthodes de simulation",
+    "forecast verification",
+    "Dépressions barométriques--Régions polaires--Méthodes de simulation",
+    "convection-permitting model",
+    "Physics—Meteorology. Climatology—Dynamic meteorology—Low pressure systems",
+    "polar mesoscale cyclone",
+    "polar low"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Moreno-Ibáñez, Marta (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-5703-4699",
+    "Laprise, René (UQAM | Université du Québec à Montréal).",
+    "Gachon, Philippe (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-0711-0822"
+  ],
+  "dct_description_sm": [
+    "This work was supported by the Discovery Grant program of the Natural Sciences and Engineering Research Council of Canada (NSERC) under Grant 707337, by the project “Marine Environmental Observation, Prediction and Response” (MEOPAR; http://meopar.ca) of the Networks of Centres of Excellence (NCE; http://www.nce-rce.gc.ca) of Canada, by the UQAM’s Faculty of Sciences under the programme “faculty financial support”, and by the excellence scholarship of the Trottier Family Foundation.\n\n<p>Computations were made on the supercomputer Beluga, managed by Calcul Québec and the Digital Research Alliance of Canada. The operation of this supercomputer is funded by the Canada Foundation for Innovation (CFI), Ministère de l’Économie et de l’Innovation du Québec (MEI) and the Fonds de recherche du Québec (FRQ).</p>\n\n<p><b>The source data we used to produce this dataset are:</b></p>\n\n<p>1. The European Centre for Medium-Range Weather Forecasts (ECMWF) ERA5 reanalysis (Hersbach et al., 2020). ERA5 is available through the Climate Data Store infrastructure. The licence to use Copernicus Products:\nhttps://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-products.pdf.\n\n<br>1.a) ERA5 hourly data on single levels from 1940 to present: \nHersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 hourly data on single levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.adbb2d47\nCopernicus Climate Change Service, Climate Data Store, (2023): ERA5 hourly data on single levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.adbb2d47\n\n<br>1.b) ERA5 hourly data on pressure levels from 1940 to present: \nHersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 hourly data on pressure levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.bd0915c6\nCopernicus Climate Change Service, Climate Data Store, (2023): ERA5 hourly data on pressure levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.bd0915c6\n\n<br>The dataset contains modified Copernicus Climate Change Service information. Neither the European Commission nor ECMWF is responsible for any use that may be made of the Copernicus information or data it contains.</p>\n\n<p>2. Observations from surface stations: The observations can be downloaded using MET Norway Frost API (https://frost.met.no/index.html). MET Norway’s data is published under a CC BY 4.0 licence (https://www.met.no/en/free-meteorological-data/Licensing-and-crediting).</p>\n\n<p>3. Observations from drifting buoys: The observations can be requested to Canada’s ISDM centre (https://www.dfo-mpo.gc.ca/science/data-donnees/drib-bder/index-eng.html). Reproduction for commercial redistribution is prohibited without prior written permission.</p>\n\n<p>4. AVHRR channel 4 observations from EUMETSAT (https://navigator.eumetsat.int/product/EO:EUM:DAT:METOP:AVHRRL1). This product is freely available to all users, world-wide, on a free and unrestricted basis. Information about EUMETSAT data licensing can be found here: https://www.eumetsat.int/eumetsat-data-licensing.</p>\n\n<p>5. MODIS channel 31 observations from NASA, available at LAADS DAAC (https://ladsweb.modaps.eosdis.nasa.gov/). According to NASA’s Data & Information Policy (https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/), “NASA commits to the full and open sharing of Earth science data obtained from NASA Earth observing satellites”.\n\n<br>5.a) MODIS Characterization Support Team (MCST), 2017. MODIS 1km Calibrated Radiances Product. NASA MODIS Adaptive Processing System, Goddard Space Flight Center, USA: http://dx.doi.org/10.5067/MODIS/MOD021KM.061\n5.b) MODIS Characterization Support Team (MCST), 2017. MODIS 1km Calibrated Radiances Product. NASA MODIS Adaptive Processing System, Goddard Space Flight Center, USA: http://dx.doi.org/10.5067/MODIS/MYD021KM.061<p>\n\n<p>6. VIIRS channel M15 observations from NASA, available at LAADS DAAC (https://ladsweb.modaps.eosdis.nasa.gov/). According to NASA’s Data & Information Policy (https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/), “NASA commits to the full and open sharing of Earth science data obtained from NASA Earth observing satellites”.\n\n<br>6.a) NPP_VMAES_L1 - VIIRS/NPP Moderate Resolution 6-Min L1 Swath SDR and GEO 750m\n<br>6.b) VJ102MOD - VIIRS/JPSS1 Moderate Resolution 6-Min L1B Swath 750m. http://dx.doi.org/10.5067/VIIRS/VJ102MOD.021</p>",
+    "This dataset contains:\n<br>1. The output of an ensemble of simulations of a polar low that developed over the Norwegian Sea on 25 March 2019. \n<br>2. The manually-obtained tracks of the polar low. \n<br> \n<p><br><b>1. Simulation output</b></p>\n\n<p>The simulations of the polar low were conducted with the convection-permitting Canadian Regional Climate Model version 6 (CRCM6/GEM4) driven by the reanalysis ERA5. The model has a grid mesh of 0.0225° and a vertical grid with 62 levels. The size of the model domain is 1004 x 1004 grid points, excluding the sponge zone, and the model top is at 2 hPa. The model was initialised every six hours from 23 March at 0000 UTC to 24 March at 1800 UTC, and the end date of the simulations was 26 March at 0600 UTC. </p>\n\n<p>This dataset contains the hourly output of these eight simulations. The 2D fields include several variables at screen level (temperature, dewpoint temperature, relative humidity, horizontal wind, wind gust) as well as sea level pressure,1 h accumulated precipitation, and surface sensible and latent heat fluxes. The 3D fields are geopotential height, temperature, relative humidity, horizontal wind, and the vertical velocity in pressure coordinate, and they are provided on 22 pressure levels from 1,000 to 10 hPa. </p>\n\n<p><br><b>2. Polar low tracks </b></p>\n\n<p>This dataset contains the different tracks of the polar low that have been obtained using the observations, the reanalysis ERA5 and the output of the eight simulations. The data provided are the time, latitude and longitude of the track points, as well as the sea level pressure minimum. For the track obtained using observations, the dataset also includes the distance between the track point and the closest surface station (which is the one that provides the value of the sea level pressure minimum). Only the sea level pressure observations from stations within 25 km from the PL centre are included. </p>"
+  ],
+  "dct_identifier_sm": [
+    "441802",
+    "https://doi.org/10.5683/SP3/6E3ITE"
+  ],
+  "dct_issued_s": "2023-04-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/6E3ITE\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Mer de Norvège"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Polar low developed in the Norwegian Sea on 25 March 2019 – Simulations with the Canadian Regional Climate Model (CRCM6/GEM4) and manual track",
+  "gbl_mdModified_dt": "2024-06-25T15:59:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1a87202c-3e80-518f-aa31-f2bdadda959d",
+  "locn_geometry": "ENVELOPE(52.0, 54.0, 82.0, 56.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

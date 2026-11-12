@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_keyword_sm": [
+    "Protected areas, Groundwater flow, Ecosystems"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Huggins, Xander (University of Victoria, Global Institute for Water Security, University of Victoria, University of British Columbia, Princeton University, Stockholm Resilience Centre). ORCID: https://orcid.org/0000-0002-6313-8299",
+    "Gleeson, Tom (University of Victoria).",
+    "Serrano, David.",
+    "Zipper, Sam.",
+    "Jehn, Florian.",
+    "Rohde, Melissa M..",
+    "Abell, Robin.",
+    "Vigerstol, Kari.",
+    "Hartmann, Andreas."
+  ],
+  "dct_description_sm": [
+    "Scripts used to produce data are archived in this repository and are also available on GitHub at: https://github.com/XanderHuggins/groundwatersheds-for-PAs\n<br><br>\n<strong> **Click Tree View below to display file structure** </strong>",
+    "<strong> This repository consists of: </strong> <br>\n1. A GeoTIFF (.tif) of groundwater-dependent ecosystem (GDE) types at 30 arcsecond resolution, globally <br>\n2. A GeoTIFF (.tif) of groundwatershed extents for GDEs within protected areas, derived globally at 30 arcsecond resolution <br>\n3. A GeoPackage (.gpkg) containing vector polygons of all contiguous protected areas included in the study with key summary statistics provided in the attribute data <br> \n4. An archive of the scripts used to perform all analysis, also located at the GitHub repository: https://github.com/XanderHuggins/groundwatersheds-for-PAs <br>\n5. A ReadMe file <br> \n<br>\n\n<strong> Associated paper's abstract: </strong> <br>\nProtected areas are a key tool for conserving biodiversity, sustaining ecosystem services and improving human well-being. Global initiatives that aim to expand and connect protected areas generally focus on controlling ‘above ground’ impacts such as land use, overlooking the potential for human actions in adjacent areas to affect protected areas through groundwater flow. Here, we assess the potential footprint of these impacts by mapping groundwatersheds for the world’s protected areas. We find that 85% of protected areas with groundwater-dependent ecosystems have groundwatersheds that are underprotected, meaning that some portion of the groundwatershed lies outside of the protected area. Half of all protected areas have a groundwatershed with a spatial footprint that lies mostly (i.e., at least 50%) outside of the protected area’s boundary. These findings highlight a widespread potential risk to protected areas from activities affecting groundwater outside protected areas, underscoring the need for groundwatershed-based conservation and management measures. Delineating groundwatersheds can catalyze needed discussions about protected area connectivity and robustness, and groundwatershed conservation and management can help protect groundwater-dependent ecosystems from external threats."
+  ],
+  "dct_identifier_sm": [
+    "435267_71619",
+    "https://doi.org/10.5683/SP3/P3OU3A"
+  ],
+  "dct_issued_s": "2023-03-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/P3OU3A\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data from: Overlooked risks and opportunities in groundwatersheds of the world’s protected areas",
+  "gbl_mdModified_dt": "2023-03-01T18:07:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fc88a46d-dc59-5c6f-977a-acdf2422c80a",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "pcdm_memberOf_sm": [
+    "UVic Research Data Collection"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

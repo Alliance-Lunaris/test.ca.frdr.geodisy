@@ -1,0 +1,33 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.746389154, -66.61800609399995, 45.97887944800004, 45.924436817000064)",
+  "dcat_keyword_sm": [
+    "Fredericton",
+    "sensors",
+    "IoT"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Fredericton."
+  ],
+  "dct_description_sm": [
+    "This layer is a view between the IoT Sensors feature layer and the table storing sensor information f<span>or the Decentlabs CO2 sensor. </span><br /><br />There is a 1-1 relationship between the sensor feature and the table resulting in only the most recent record of information displaying for the sensor.<br /><br />This layer gives access to published data from the City of Fredericton IoT sensors. The features represent static locations for each of the sensors while the attributes are updated in real-time."
+  ],
+  "dct_identifier_sm": [
+    "4ff5b3de95174ec8b7a319c7381e9875",
+    "https://www.arcgis.com/home/item.html?id=4ff5b3de95174ec8b7a319c7381e9875"
+  ],
+  "dct_issued_s": "2021-07-07",
+  "dct_publisher_sm": [
+    "City of Fredericton"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data-fredericton.opendata.arcgis.com/datasets/Fredericton::iot-sensors-decentlabs-lp8p\"}",
+  "dct_title_s": "IoT Sensors - Decentlabs LP8P",
+  "gbl_mdModified_dt": "2021-07-07T23:34:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a262e0ab-a890-5899-97fd-3f838cad778f",
+  "locn_geometry": "ENVELOPE(-66.746389154, -66.61800609399995, 45.97887944800004, 45.924436817000064)",
+  "schema_provider_s": "Fredericton Open Data"
+}

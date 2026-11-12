@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.1, -67.25, 48.59, 49.42)",
+  "dcat_keyword_sm": [
+    "Animalia",
+    "Metabarcoding",
+    "Invertebrate",
+    "Animalia",
+    "other",
+    "eDNA",
+    "COI",
+    "Metabarcoding",
+    "fish",
+    "COI",
+    "ADNe",
+    "Coastal Environmental Baseline Program",
+    "Quebec",
+    "Invertébré",
+    "poisson",
+    "Québec",
+    "Autre",
+    "Fleuve Saint-Laurent",
+    "Saint Lawrence River",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Utilisation du marqueur COI pour le développement d’une approche de caractérisation des espèces côtières à l’aide d’ADN environnemental (ADNe)"
+  ],
+  "dct_creator_sm": [
+    "Velasquez, Sandra (Pêches et Océans Canada, Fisheries and Oceans Canada).",
+    "Bourret, Audrey (Fisheries and Oceans Canada).",
+    "Gendreau, Yanick (Fisheries and Oceans Canada, Pêches et Océans Canada).",
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "Species characterization by environmental DNA (eDNA) is a method that allows the use of DNA released into the environment by organisms from various sources (secretions, faeces, gametes, tissues, etc.). It is a complementary tool to standard sampling methods for the identification of biodiversity. This project provides a list of invertebrate species whose DNA has been detected in water samples collected in 2018 using the mitochondrial marker COI.\n\nThe surveys were carried out in the summer of 2018 from August 11 to 14, between Forestville and Godbout (Haute-Côte-Nord) from the vessel CCGC Leim. Sampling was carried out between 9-52 meters depth in 40 stations with one sample par station. Two liters of water were filtered through a 1.2 µm fiberglass filter. DNA extractions were performed with the DNeasy Blood and Tissue extraction kit (Qiagen). Negative field, extraction and PCR controls were added at the different stages of the protocol. Libraries at the COI locus were prepared by Genome Quebec and sequenced on an Illumina MiSeq PE250 system. The bioinformatics analysis of the sequences obtained was carried out using an in-house analysis pipeline as reported in Bourret et al. 2022. A first step made it possible to obtain a molecular operational taxonomic unit table (MOTU) using the Cutadapt software for the removal of the adapters and the DADA2 R package for the filtration, fusion, chimera removal and data compilation. The MOTUs table was subsequently corrected by taking into account the negative controls, where the number of observations in the latter was removed from the linked samples. Singleton MOTUs have also been removed. Finally, the taxonomic assignments were carried out on the MOTUs using the IDTAXA classifier (present in the DECIPHIER R package) using a training set trained on the [COI reference bank for Gulf of St. Lawrence](https://github.com/GenomicsMLI-DFO/MLI_GSL-rl) and a threshold of 40. Detections with an “Unreliable due to gaps'' category were reported at the genus level only.\n\nThe file provided includes generic activity information, including site, station name, date, marker type, assignment types used for taxa identification, and a list of taxa or species. The list of taxa has been verified by a biodiversity expert from the Maurice-Lamontagne Institute.\n\nThis project was funded by Fisheries and Oceans Canada's Coastal Environmental Baseline Program under the Oceans Protection Plan. This initiative aims to acquire baseline environmental data that contributes to the characterization of significant coastal areas and supports evidence-based assessments and management decisions to preserve marine ecosystems. Consult the dataset also available on the [**Open Data Canada**](https://ouvert.canada.ca/data/en/dataset/6319d10d-2ea7-44af-bfde-20e2da053d5a) portal.",
+    "La caractérisation des espèces par l’ADN environnemental (ADNe) est une méthode qui permet d’utiliser l’ADN libéré dans l’environnement par les organismes de diverses sources (sécrétions, fèces, gamètes, tissus, etc.). C’est un outil complémentaire aux méthodes standards d’échantillonnage pour l’identification de la biodiversité. Ce projet fournit une liste d’espèces d’invertébrés dont l’ADN a été détecté dans des échantillons d’eau collectés en 2018 à l’aide du marqueur COI.\n\nLe relevé a été réalisé à l’été 2018 du 11 au 14 août, entre Forestville et Godbout (Haute-Côte-Nord) à partir du navire NGCC Leim. L’échantillonnage a été réalisé entre 9-52 mètres de profondeur dans 40 stations, avec un seul échantillon par station. Deux litres d’eau ont été filtrés sur un filtre en fibre de verre de 1.2 µm. Les extractions de l’ADN ont été effectuées avec le kit d’extraction *DNeasy Blood and Tissue (Qiagen)*. Des contrôles négatifs de terrains, d’extractions et de PCR ont été ajoutés aux différentes étapes du protocole. Les librairies au locus COI ont été préparées par Génome Québec et séquencées sur un système Illumina MiSeq PE250. L’analyse bio-informatique des séquences obtenues a été réalisée à l’aide d’un pipeline d’analyse maison tel que rapporté dans Bourret et al. (2022). Une première étape a permis l’obtention d’une table d’unité moléculaire opérationnelle de taxonomie (ou *Molecular operational taxonomic* unit, MOTU) à l’aide du logiciel Cutadapt pour le retrait des adaptateurs et du paquet R DADA2 pour la filtration, la fusion, le retrait des chimères et la compilation des données. La table de MOTUS a par la suite été corrigée en prenant compte des témoins négatifs, où le nombre d’observations dans ces derniers a été retiré des échantillons liés. Les MOTUs singletons ont également été retirés. Finalement, les assignations taxonomiques ont été effectuées sur les MOTUs à l’aide du classificateur IDTAXA (présent dans le paquet R DECIPHIER) en utilisant un *training set* entraîné sur la [banque de référence COI pour le golfe du Saint-Laurent](https://github.com/GenomicsMLI-DFO/MLI_GSL-rl) et un seuil de 40. Les détections avec une catégorie « *Unreliable due to gaps* » ont été rapportées au niveau du genre uniquement. \n\nLes fichiers fournis comprennent les informations génériques de l'activité, notamment le site, le nom de la station, la date, le type de marqueur, les types des assignations utilisées pour l’identification des taxons et une liste de taxons ou espèces . La liste de taxons a été vérifiée par un expert en biodiversité de l'Institut Maurice-Lamontagne. \n\nCe projet a été financé par le Programme sur les données environnementales côtières de référence de Pêches et Océans Canada dans le cadre du Plan de protection des océans. Cette initiative vise à acquérir des données environnementales de base qui contribuent à la caractérisation des zones côtières d’importance et appuient des évaluations fondées sur des preuves ainsi que les décisions de gestion afin de préserver les écosystèmes marins. Consultez le jeu de données aussi disponible sur le portail de [**Données Ouvertes Canada**](https://ouvert.canada.ca/data/fr/dataset/6319d10d-2ea7-44af-bfde-20e2da053d5a)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/27a6aea7-2c94-408e-a910-592c40d10083"
+  ],
+  "dct_issued_s": "2018-08-11",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/27a6aea7-2c94-408e-a910-592c40d10083\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Use of the COI Marker for the Development of an Approach for Characterizing Coastal Species Using Environmental DNA (eDNA)",
+  "gbl_mdModified_dt": "2026-07-31T16:34:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "67d183f9-1185-53bd-bbac-4292a3512724",
+  "locn_geometry": "ENVELOPE(-69.1, -67.25, 48.59, 49.42)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

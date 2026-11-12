@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0066, -88.9992, 59.9983, 49.0016)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Feature layer depicting the centre of quarter sections, parish lots and others in Manitoba. The purpose of this layer is to provide search criteria for Manitoba legal descriptions.  \n  \n  This feature layer is comprised of point locations that represent the centre of the bounds of the corresponding legal parcel. The types of legal descriptions include quarter sections (D.L.S.), river lots, parish lots, wood lots, outer two mile lots, and settlement lots. The point may not fall exactly on the centre of the legal parcel of land. This feature layer is meant as a search tool to locate the general location of the given legal description and it may not be exact. The points were initially derived from a variety of sources. Most of the points came from the Southern and Northern Grid of DLS section boundaries created by Sustainable Development. Fields included (Alias (Field Name): Field Description) OBJECTID (OBJECTID_1): Sequential unique whole numbers that area automatically generated Informal Legal Description (LEGAL_DESC): The informal legal description (No leading zeros on numbers). Formal Legal Description (LEGAL_DESC0): The formal legal description (Leading zeros on numbers). Type (TYPE): The type of legal division ('Quarter' = Quarter section, 'RL' = River lot, 'Lot' = Township lot, 'OT' = Outer two mile lot, 'PL' = Parish lot, 'SL' = Settlement lot, 'WL' = Wood lot). Quarter (QUARTER): Which DLS quarter section the point is referencing (NE, NW, SE or SW meaning respectfully North-east, North-west, South-east or South-west) Section (SECTION): The DLS section the point is referencing (1-36). Township (TOWNSHIP): The DLS township the point is referencing. Range (RANGE): The DLS range the point is referencing. Lot No. (LOT_NO): The lot number of the corresponding river, settlement, township, outer two mile or parish lot. Meridian (MERIDIAN): The meridian of the section (East 1, East 2 or West 1). Parish Name (PARISH_NAME): The name of the parish that the lot belongs to. Range Addition (RANGEADD): The added text for specific range values (if applicable)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6c85b7ba-8211-c5ad-8606-6cad0afe4b61"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6c85b7ba-8211-c5ad-8606-6cad0afe4b61\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Original Survey Legal Descriptions",
+  "gbl_mdModified_dt": "2025-03-19T12:10:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9aa2ddae-c65d-5b54-9b87-b29fb7092d7e",
+  "locn_geometry": "ENVELOPE(-102.0066, -88.9992, 59.9983, 49.0016)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

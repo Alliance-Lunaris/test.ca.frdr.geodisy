@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Gross biological volume - total (GBVTOT) is an expression of in-the-tree stem total volume (m3) on a per-hectare basis. Calculated from the ground to the tip. Available here as a raster (GeoTIF) with a 20 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.  Gross biological volume per hectare - total (GBVTOT) is an expression of in-the-tree stem total volume (m3) on a per-hectare basis. Calculations are made from the ground to the tip. GBVTOT is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 20 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing GBVTOT data in the following 50 m3/ha categories. Domain: [NULL, 0…1000]. RANGE LABEL RED GREEN BLUE 0 <= GBVTOT < 25 0 NA NA NA 25 <= GBVTOT < 75 50 63 81 181 75 <= GBVTOT < 125 100 66 101 160 125 <= GBVTOT < 175 150 68 121 138 175 <= GBVTOT < 225 200 71 140 117 225 <= GBVTOT < 275 250 74 160 96 275 <= GBVTOT < 325 300 85 178 79 325 <= GBVTOT < 375 350 123 191 74 375 <= GBVTOT < 425 400 161 203 70 425 <= GBVTOT < 475 450 198 216 66 475 <= GBVTOT < 525 500 236 229 61 525 <= GBVTOT < 575 550 255 226 53 575 <= GBVTOT < 625 600 255 209 40 625 <= GBVTOT < 675 650 255 191 28 675 <= GBVTOT < 725 700 255 174 16 725 <= GBVTOT < 775 750 255 156 3 775 <= GBVTOT < 825 800 253 139 9 825 <= GBVTOT < 875 850 251 121 20 875 <= GBVTOT < 925 900 249 103 31 925 <= GBVTOT < 975 950 246 85 43 975 <= GBVTOT <= 1000 1000 244 67 54 For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b346872-23ed-fb3f-b207-ba3d1e1d8672"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b346872-23ed-fb3f-b207-ba3d1e1d8672\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "FRI: Gross biological volume - total",
+  "gbl_mdModified_dt": "2025-02-05T19:20:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7b920954-1d74-5ddd-b3a6-5195077a5c25",
+  "locn_geometry": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

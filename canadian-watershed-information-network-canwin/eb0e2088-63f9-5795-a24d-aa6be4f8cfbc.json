@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-104.7361, -104.7349, 52.0006, 52.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "OTHERROAD_OFFICIAL provides the geospatial information of urban road network in the Province of Saskatchewan. It is one of the base layer used to create \"Roadseg\" layer for Saskatchewan Upgraded Road Network (SURN) and National Road Network (NRN). This data layer contains relatively up-to-date and accurate description of all urban roads in the province\n\nOTHERROAD_OFFICIAL consists of all the roads within the urban limits and any other roads those are not the part of RURALROAD_OFFICIAL and HIGHWAY_OFFICIAL. Original geometry of this layer is derived from National Road Network data layer. Urban Municipalities are responsible of the correctness and currentness of the Urban road network and Saskatchewan Ministry of Highways and Infrastructure (MHI) maintained OTHERROAD_OFFICIAL data layer/table according to the NRN standards. Unique Identifiers (NID) is associated with each line segment. \"OTHER_ROAD_ID\" is an auto generated unique ID for each road segment in OTHER_ROAD_OFFICIAL. \"NID\" National Identifier is used to manage the updates between data producer and data users. OTHERROAD_OFFICIAL data layer is one of the important data table for SURN, NRN, SASK911, CAR and other applications."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/840acb0a-e66c-2174-1402-d43cb56729ea"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/840acb0a-e66c-2174-1402-d43cb56729ea\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "OTHERROAD OFFICIAL",
+  "gbl_mdModified_dt": "2026-02-11T13:30:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb0e2088-63f9-5795-a24d-aa6be4f8cfbc",
+  "locn_geometry": "ENVELOPE(-104.7361, -104.7349, 52.0006, 52.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

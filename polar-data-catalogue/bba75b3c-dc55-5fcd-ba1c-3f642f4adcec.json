@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-87.0, -82.7, 74.0, 72.8)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ada Loewen."
+  ],
+  "dct_description_sm": [
+    "This dataset contains geospatial polyline (vector) data of fractures in landfast sea ice in Admiralty Inlet manually identified from satellite imagery from Dec 2017 - July 2023. Fractures in landfast sea ice in the Canadian Arctic range from a few cm to several km wide, and can be hazardous for sea ice users. Currently, few remote sensing methods identify fractures at spatial and temporal scales relevant for on-ice travellers, so we developed a method to identify fractures at scales relevant for sea ice travellers from remotely sensed data (interferometric synthetic aperture radar (InSAR), optical imagery) throughout the ice season (December to July). These features were validated using Inuit Qaujimajatuqangit and in-situ observations of fractures. This approach facilitated a broader understanding of how fractures appear across different types of remote sensing data and during various times of the year. Spatial and temporal patterns of fracture in Admiralty Inlet can be derived from this dataset. This dataset could also be used as training data for automated methods for fracture detection in satellite imagery."
+  ],
+  "dct_identifier_sm": [
+    "13410",
+    "https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=13410"
+  ],
+  "dct_issued_s": "2025-11-20",
+  "dct_license_sm": [
+    "https://www.polardata.ca/pdcinput/public/termsofuse"
+  ],
+  "dct_publisher_sm": [
+    "Polar Data Catalogue"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=13410\"}",
+  "dct_subject_sm": [
+    "Natural sciences -> Geospatial data",
+    "Social sciences, economics and policy -> Marine navigation",
+    "Natural sciences -> Satellite imagery",
+    "Natural sciences -> Sea ice",
+    "Northern communities -> Arctic Bay",
+    "Geographic locations -> Baffin Island"
+  ],
+  "dct_title_s": "Satellite-derived sea ice fracture locations in Admiralty Inlet, 2018-2023",
+  "gbl_mdModified_dt": "2026-07-21T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bba75b3c-dc55-5fcd-ba1c-3f642f4adcec",
+  "locn_geometry": "ENVELOPE(-87.0, -82.7, 74.0, 72.8)",
+  "schema_provider_s": "Polar Data Catalogue"
+}

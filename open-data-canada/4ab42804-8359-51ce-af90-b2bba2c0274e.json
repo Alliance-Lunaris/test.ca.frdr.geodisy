@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Climat",
+    "Climate"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ensemble de données Canadian Convective Parameters and Lightning Dataset, version 1 (CanCPLDv1)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The Canadian Convective Parameters and Lightning Dataset version 1 (CanCPLDv1) is a comprehensive multi-decade dataset designed to support studies on the future evolution of thunderstorms in North America. Simulating thunderstorms in climate models is challenging due to their small scale, the complexity of physical processes, and the need to parameterize processes within a model subgrid. Changes in thunderstorm activity can be inferred by identifying relevant environmental parameters, such as convective available potential energy, humidity, wind shear, etcetera, and by using statistical techniques to relate these proxies to thunderstorms. Climate model projections of these parameters can then be used with the statistical models to predict future changes in thunderstorm activity. In CanCPLDv1, historical thunderstorm activity is represented by 3-hourly cloud-to-ground and intra-cloud/cloud-to-cloud lightning flash totals from the Canadian Lightning Detection Network (CLDN) (regions north of 40°N on a 0.1° grid), and the thunderstorm environment by 201 convective storm parameters derived from the European Centre for Medium-Range Weather Forecasts reanalysis version 5 (ERA5) (3-hour intervals for all of North America on a 0.25° grid). Gridded CLDN and ERA5 data span the years from 1998-2023. Additionally, the same convective parameters are calculated from Coupled Model Intercomparison Project Phase 6 (CMIP6) HighResMIP climate model simulations at 6-hour intervals for 20-year periods corresponding to 1°C (recent past) and 2°C, 3°C, and 4°C levels of global warming above pre-industrial.",
+    "L’ensemble de données Canadian Convective Parameters and Lightning Dataset version 1 (CanCPLDv1) est un ensemble de données complet sur plusieurs décennies conçu pour appuyer les études sur l’évolution future des orages en Amérique du Nord. La simulation des orages dans les modèles climatiques est un défi en raison de leur petite échelle, de la complexité des processus physiques et de la nécessité de paramétrer les processus à l’intérieur d’une sous-maille du modèle. Les changements dans l’activité orageuse peuvent être déduits en déterminant les paramètres environnementaux pertinents, tels que l’énergie convective potentielle disponible, l’humidité, le cisaillement du vent, etc., et en utilisant des techniques statistiques pour lier ces indicateurs aux orages. Les projections de ces paramètres par l’entremise des modèles climatiques peuvent ensuite être utilisées avec les modèles statistiques pour prévoir les changements futurs de l’activité orageuse. Dans CanCPLDv1, l’activité orageuse historique est représentée par des totaux d’éclairs nuage-sol et intra-nuage, ou nuage-nuage, sur 3 heures provenant du Réseau canadien de détection de la foudre (RCDF) (une grille de 0,1 ° pour les régions au nord de 40 °N), et l’environnement orageux par 201 paramètres d’orages convectifs dérivés de la version 5 de la réanalyse du Centre européen pour les prévisions météorologiques à moyen terme (ERA5) (intervalles de 3 heures pour toute l’Amérique du Nord sur une grille de 0,25 °). Les données maillées CLDN et ERA5 couvrent la période de 1998 à 2023. En outre, les mêmes paramètres de convection sont calculés à partir des simulations du modèle climatique de la phase 6 du projet d’intercomparaison de modèles couplés (CMIP6) HighResMIP à des intervalles de 6 heures pour des périodes de 20 ans correspondant à des niveaux de réchauffement planétaire de 1 °C (passé récent) et de 2 °C, 3 °C et 4 °C par rapport aux niveaux préindustriels."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9a68a501-9a87-441a-8073-980ae68438ef"
+  ],
+  "dct_issued_s": "2024-11-11",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9a68a501-9a87-441a-8073-980ae68438ef\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Canadian Convective Parameters and Lightning Dataset version 1 (CanCPLDv1)",
+  "gbl_mdModified_dt": "2024-12-10T21:35:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4ab42804-8359-51ce-af90-b2bba2c0274e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

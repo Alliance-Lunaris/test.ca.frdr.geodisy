@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "Eau--Température",
+    "CH4 ebullitive flux",
+    "pCH4",
+    "Réservoirs (Lacs)",
+    "Eau--Oxygène dissous",
+    "Environmental technology. Sanitary engineering—Water supply for domestic and industrial purposes—Sources of water supply—Reservoirs—General works",
+    "CH4 degassing",
+    "water temperature",
+    "dissolved oxygen concentration",
+    "Québec (Province)--Bassin de la Romaine",
+    "CH4 diffusive flux",
+    "CH4 production",
+    "dissolved oxygen saturation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Maia Barbosa, Pedro (UQAM | Université du Québec à Montréal, Federal University of Juiz de Fora, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9858-964X",
+    "Stadler, Masumi (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-5048-8436",
+    "Rust, Felipe (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9700-6246",
+    "Bilodeau, François (Hydro-Quebec, Hydro-Quebec; INRS-Eau, Environment Department Hydro-Québec). ORCID: https://orcid.org/0000-0002-0771-2196",
+    "Tremblay, Alain (Hydro-Quebec). ORCID: https://orcid.org/0000-0002-8105-4072",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "There are different data files in the data repository: The file “bubble_data_peer_review” contains information regarding the funnels used for ebullitive fluxes, and contain the following variables and units – id = identification of each funnel installed; initialDate = The data in which the funnel was installed; finalDate = the date in which the funnels were recovered; timeDays = The number of days each funnel stayed in the field; reservoir = in which reservoir the funnel was installed; depth = the site depth, in meters, where the funnel was installed; volume = the volume of gas (ml) sampled from the funnel; volumeLperDayml = the volume of gas (ml) sampled per day; volumeLperDayL = the volume of gas (L) sampled per day; temp = water temperature during sampling; nMoles = number of moles; nMolesBottle = number of moles per funnel bottle; mmolm2d2 = the flux in mmol m-2 d-1. \nThe file “Degassing+River_Input_peer_review” contains information regarding degassing of CH4 and upstream CH4 contribution and contain the following variables and units: In the sheet Degassing – Reservoir = Which reservoir the flux refers to; Season = the season of the sampling (spring, summer or autumn); Med.CH4.conc. (mg/m3) = The median CH4 concentration in mg m-3; 1st.quartCH4conc.(mg/m3) = The first quartile of the CH4 concentration in mg m-3; 3rd quartCH4conc.(mg/m3) = The third quartile of the CH4 concentration in mg m-3; Discharge (m3/s) = the water discharge in m3 . s-1. In the sheet Upstream_Inputs -  Reservoir = Which reservoir the flux refers to; Season = the season of the sampling (spring, summer or autumn); Med.CH4.conc. (mg/m3) = The median CH4 concentration in mg m-3; 1st.quartCH4conc.(mg/m3) = The first quartile of the CH4 concentration in mg m-3; 3rd quartCH4conc.(mg/m3) = The third quartile of the CH4 concentration in mg m-3; Discharge (m3/s) = the water discharge in m3 . s-1. \nThe file “LaRomaine_mainFile_2022-10-07_peer_review” contains the general information from the sampling campaigns, with the following variables and units: sample.name = The name of the sample site; series = in which reservoir the site is located; year = year of the sampling; campaign = which season was the sampling (1 = spring, 2 = summer, 3 = autumn); julian.day = Which julian day was the sampling done; sampling date = the date when the sampling occurred; sample.type = in which depth was the sampling done (Reservoir = surface, Deep = bottom); lat = the site’s latitude; long = the site’s longitude; depth = the max depth of the sampling site (m); atm.pressure.ysi = the atmospheric pressure at the time of the sampling (millimeters of mercury); temp.water.ysi = water temperature during sampling (C°); do.perc.ysi = dissolved oxygen saturation (%); do.cor.ysi = dissolved oxygen percentage corrected for atmospheric pressure from YSI; do.conc.ysi = dissolved oxygen concentration (mg L-1); ph.ysi = pH value; wind.max = maximum wind speed (meters per second); wind.avg.kestrel = average wind speed (meters per second); temp.air.kestrel = Air temperature (C°); pressure.atm.kestrel = atmospheric pressure measured using kestrel (millibars or hectopascal); pch4.headspace = partial pressure of CH4 (micro atmosphere); flux.ch4_mmol_m2_d-1 = Diffusive CH4 flux (millimole per square meter per day).\nThe file “Mass_balance_for_peer_review” in the sheet Mass_balance_components, variables and units are: Reservoir = which reservoir the information is related to; Season = which season it refers to; FDCH4 = Diffusive CH4 flux (miligrams of CH4 per square meter per day); FBCH4 = Ebullitive flux of CH4 (miligrams of CH4 per square meter per day); Trib = Tributary inputs (milligram of CH4 per square meter per day); GW = groundwater contribution (milligram of CH4 per square meter per day); L.R = Upstream inputs (milligram of CH4 per square meter per day); Outflow = CH4 degassing (milligram of CH4 per square meter per day); MOX = CH4 oxidation (milligram of CH4 per square meter per day); ∆CH4 = CH4 accumulation in the hypolimnium ∆CH4; CH4prod = ecosystem CH4 production ∆CH4. In the sheet Mass_balance_short same information in a reduced form. In the sheet Fluxes - FDCH4 = Diffusive CH4 flux (miligrams of CH4 per square meter per day); FBCH4 = Ebullitive flux of CH4 (miligrams of CH4 per square meter per day); Degassing = CH4 degassing (milligram of CH4 per square meter per day); Total – Total CH4 flux (milligram of CH4 per square meter per day); FDCH4% = percentage of difssuive flux to total flux; FBCH4% = percentage of ebullitive flux to total flux; FTCH4% = percentage of degassing to total flux. In the sheet Fluxes_annual_avg = Each flux average for entire ice-free period, all in milligram of CH4 per square meter per day. In the sheet MOX = Reservoir = which reservoir; MOX = percentage of CH4 from the water column that was oxidized. \nThe file “Tributary_input_peer_review” contains data used to calculate tributary inputs, with the following variables and units: tributary.id = id given to each tributary; flacc.at.conf_npx = flow accumulation at confluence (number of grid cells); Strahler.ord.at.conf. = Strahler oreder of the tributary at the confluence; WS_area_m2 = Watershed are (square meters); WS_mean_slope = Watershed mean slope; length.of.tributary = the length of the tributary (kilometers); Reservoir = in which reservoir the tributary falls into; pco2_head = the partial pressure of CO2 (micro atmosphere); temp = water temperature (C°); ch4.head = partial pressure of CH4 (micro atmosphere).",
+    "Data from the La Romaine project, from 2015 to 2022, for different measurements including CH4 diffusive, ebullitive, and degassing emissions, CH4 concentration in the water, environmental variables, and carbon isotopic signatures. The purpose of the data was to do a complete mass balance of CH4 in three of the four reservoirs of the La Romaine complex, and to use this mass balance to estimate ecosystem CH4 production, which is a process rarely measured in aquatic systems due to its complexity, including logistics."
+  ],
+  "dct_identifier_sm": [
+    "1142221",
+    "https://doi.org/10.5683/SP3/MN85H2"
+  ],
+  "dct_issued_s": "2026-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MN85H2\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: A complete methane budget for three young boreal hydroelectric reservoirs in Quebec, Canada",
+  "gbl_mdModified_dt": "2026-04-17T18:39:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb7182c3-d10e-5074-8f48-da16fc36c4f0",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

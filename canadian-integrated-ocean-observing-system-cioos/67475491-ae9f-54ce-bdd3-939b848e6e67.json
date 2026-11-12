@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "dcat_keyword_sm": [
+    "oceansurfaceheatflux",
+    "sea-ice",
+    "oceans",
+    "flux-de-chaleur-oceanique-de-surface",
+    "infrared",
+    "emissions",
+    "heat",
+    "seaice",
+    "flux",
+    "arcticnet",
+    "amundsen-gulf",
+    "glace-de-mer",
+    "surface",
+    "transducer",
+    "radiation",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Température de surface de l'océan dans le golfe d'Amundsen mesurée par un transducteur infrarouge pendant l'été-automne 2009"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Galley, Ryan.",
+    "Gupta, Mukesh.",
+    "Hochheim, Klaus.",
+    "Warner, Kerri."
+  ],
+  "dct_description_sm": [
+    "The IR transducer is installed at the boat deck level on Amundsen on the port side of the ship (see http://www.amundsen.ulaval.ca/medias/pdf/boat_heli.pdf). The data recording is done on a separate storage module and then transferred to the backup drive. It can record the data at user specified time interval. The data file is an ASCII DAT file which can be processed either by the given software is any graph plotting program. The sensor is recording 24 hours a day.",
+    "Le transducteur infrarouge est installé au niveau du pont du bateau sur Amundsen, à bâbord du navire (voir http://www.amundsen.ulaval.ca/medias/pdf/boat_heli.pdf). L'enregistrement des données est effectué sur un module de stockage distinct, puis transféré sur le lecteur de sauvegarde. Il peut enregistrer les données à l'intervalle de temps spécifié par l'utilisateur. Le fichier de données est un fichier DAT ASCII qui peut être traité soit par le logiciel donné soit par n'importe quel programme de traçage graphique. Le capteur enregistre 24 heures sur 24."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/73956aee-647f-432b-a3f9-c92334ca7220"
+  ],
+  "dct_issued_s": "2015-03-26",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/73956aee-647f-432b-a3f9-c92334ca7220\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ocean surface temperature in the Amundsen Gulf measured by infrared transducer during summer-fall 2009",
+  "gbl_mdModified_dt": "2026-07-31T16:43:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "67475491-ae9f-54ce-bdd3-939b848e6e67",
+  "locn_geometry": "ENVELOPE(-135.0, -120.0, 73.0, 70.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

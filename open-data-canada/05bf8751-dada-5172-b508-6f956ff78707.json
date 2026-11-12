@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "SoE",
+    "parks and protected area",
+    "Government information",
+    "stateofenvironment",
+    "environment",
+    "land use"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Désignations de terres qui contribuent à la conservation en Colombie-Britannique - Données spatiales"
+  ],
+  "dct_creator_sm": [
+    "Andy Teucher."
+  ],
+  "dct_description_sm": [
+    "**NOTE: Not for operational use. This dataset is the result of an analysis (Aug 2018) of many input layers and as such the accuracy, currency, and completeness of the dataset cannot be relied upon for operational or management decision making.** Land designations that contribute to conservation are spatially-defined areas established through legislation or purchased for the protection of nature and cultural values, the conservation of biological diversity and ecosystem services and the management of natural resources. Over 40 land designations were divided into three broad categories: - **Protected Lands** includes all Parks & Protected Areas and Other Protected Lands with the primary purpose of the long-term conservation of nature and cultural values. - **Resource Exclusion Areas** includes all designations that fully exclude one or two resource activities for the purpose of conservation. - **Spatially Managed Areas** includes all spatial designations managing or limiting development or a resource activity for the purpose of conservation, or a spatial management regime in place to preserve specified elements of biodiversity but where activity is still allowed to occur. Land designations layers were combined into a single layer, with overlaps removed such that areas with overlapping designations were assigned to the highest conservation contribution category. **Data sources:** A list of the source datasets, including links to their sources, more information, and data processing steps is available [**here**](https://raw.githubusercontent.com/bcgov/designatedlands/v0.1.0/sources.csv). Details on methods are available [**here**](https://github.com/bcgov/designatedlands). Previous versions of the data are available [**here**](https://github.com/bcgov/designatedlands/releases).",
+    "**REMARQUE : Ne convient pas à une utilisation opérationnelle. Cet ensemble de données est le résultat d'une analyse (août 2018) de nombreuses couches d'entrée et, par conséquent, on ne peut pas se fier à sa précision, à son actualité et à son exhaustivité pour la prise de décisions opérationnelles ou de gestion.** Les désignations de terres qui contribuent à la conservation sont des zones définies dans l'espace établies par la législation ou achetées pour la protection de la nature et des valeurs culturelles, la conservation de la diversité biologique et des services écosystémiques et la gestion des ressources naturelles. Plus de 40 désignations de terres ont été divisées en trois grandes catégories : - **Terres protégées** comprennent tous les parcs et aires protégées et autres terres protégées dont l'objectif principal est la conservation à long terme de la nature et des valeurs culturelles. - **Les zones d'exclusion des ressources** incluent toutes les désignations qui excluent totalement une ou deux activités liées aux ressources à des fins de conservation. - Les **Zones gérées spatialement** incluent toutes les désignations spatiales gérant ou limitant le développement ou une activité liée aux ressources à des fins de conservation, ou régime de gestion spatiale en lieu destiné à préserver des éléments spécifiques de la biodiversité mais où l'activité est toujours autorisée. Les couches de désignation des terres ont été combinées en une seule couche, les chevauchements ayant été supprimés, de sorte que les zones présentant des désignations qui se chevauchaient ont été attribuées à la catégorie de contribution à la conservation la plus élevée. **Sources de données :** Une liste des ensembles de données sources, y compris des liens vers leurs sources, des informations supplémentaires et les étapes de traitement des données est disponible [**ici**] (https://raw.githubusercontent.com/bcgov/designatedlands/v0.1.0/sources.csv). Les détails des méthodes sont disponibles [**ici**] (https://github.com/bcgov/designatedlands). Les versions précédentes des données sont disponibles [**ici**] (https://github.com/bcgov/designatedlands/releases).\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e0b30537-5498-437b-b668-9fafe44bf903"
+  ],
+  "dct_issued_s": "2018-05-30",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e0b30537-5498-437b-b668-9fafe44bf903\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Land Designations that Contribute to Conservation in BC - Spatial Data",
+  "gbl_mdModified_dt": "2026-01-28T19:43:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "05bf8751-dada-5172-b508-6f956ff78707",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

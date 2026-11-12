@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 51.0)",
+  "dcat_keyword_sm": [
+    "Climat",
+    "Climate",
+    "Climate change",
+    "Couverture du sol",
+    "Hydrologie",
+    "Land cover",
+    "Satellite imagery",
+    "Imagerie satellite",
+    "Hydrology",
+    "Changement climatique",
+    "Arctique",
+    "Land management",
+    "Gestion des terres",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ensemble de données d’inventaire panarctique des milieux humides - version 1 (base de référence)"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset presents the first comprehensive, high-resolution (10-meter) wetland inventory map covering the entire 32.2 million square kilometers of the Pan-Arctic region, of which 14 million square kilometers (43%) is terrestrial and 18.4 million square kilometers (57%) is marine. Generated through advanced Earth Observation and machine learning techniques, the map was produced using multi-year (2020–2022), multi-source satellite imagery—including Sentinel‑1, Sentinel‑2, and ALOS PALSAR‑2—as well as various environmental features such as elevation. Over 1,000 wetland polygons were analyzed using an object-based random forest classification workflow on the Google Earth Engine cloud platform, achieving an average overall classification accuracy of 89%.\n\nThe mapping extent was defined according to the Arctic Council’s Conservation of Arctic Flora and Fauna (CAFF) boundary, resulting in the identification of 2,947,618 km² of wetlands, representing 20% of the land area within the Pan-Arctic region. This dataset establishes a consistent and authoritative baseline for pan-Arctic wetlands, leveraging the latest advances in Earth Observation, machine learning, and cloud computing. The Canadian Wetland Classification System was used and includes the major wetland classes: bog, fen, marsh, swamp, and water.\n\nThe overall wetlands coverage by country within the CAFF boundary was: Canada (27%), United States of America (i.e., Alaska 39%), Finland (31%), Iceland (8%), Norway (17%), Sweden (26%), Kingdom of Denmark (i.e., Greenland 1%), and the Russian Federation (21%).​\n\nDevelopment of this product was undertaken by Natural Resource Canada's Canada Centre for Mapping and Earth Observation and the Canadian Geospatial Data Infrastructure Division in collaboration with the Arctic Council’s CAFF biodiversity group, CAFF Wetland Experts Group, national organisations mandated to monitor wetlands, and Arctic National Mapping Agencies, and Canadian company C-CORE, integrating ground truth data collected from Alaska, Finland, Sweden, and the Kingdom of Denmark through partner agencies and digital image interpretation. More than 60,000 images (2020-2022), primarily covering summer periods, were processed to ensure robust results.\n\nThis dataset provides essential baseline information for Earth Observation monitoring  of climate change impacts and supports critical environmental surveillance for Arctic and remote northern communities.",
+    "Cet ensemble de données présente la première carte d’inventaire des milieux humides complète et à haute résolution (10 mètres) couvrant l’ensemble des 32,2 millions de kilomètres carrés de la région panarctique, dont 14 millions de kilomètres carrés (43 %) sont des milieux terrestres et 18,4 millions de kilomètres carrés (57 %) sont des milieux marins. Produite grâce à des techniques avancées d’observation de la Terre et d’apprentissage automatique, la carte a été élaborée à l’aide d’images satellitaires pluriannuelles (2020 2022) et multisources - notamment Sentinel 1, Sentinel 2 et ALOS PALSAR 2 - ainsi que de diverses caractéristiques environnementales telles que l’altitude. Plus de 1 000 polygones de milieux humides ont été analysés à l’aide d’un processus de classification aléatoire des forêts fondé sur les objets sur la plateforme infonuagique du moteur Google Earth, atteignant une précision de classification globale moyenne de 89 %.\n\nLes limites de la cartographie ont été définies en fonction des limites de Conservation de la flore et de la faune arctiques (CFFA) du Conseil de l’Arctique, ce qui a permis de relever 2 947 618 km² de milieux humides, soit 20 % de la superficie de la région panarctique. Cet ensemble de données établit une base de référence cohérente et faisant autorité pour les milieux humides panarctiques, en tirant parti des dernières avancées en matière d’observation de la Terre, d’apprentissage automatique et d’informatique en nuage. Le Système de classification des terres humides du Canada a été utilisé et comprend les principales classes de milieux humides : marécages, marais, tourbières oligotrophes, tourbières minérotrophes et terres humides à eau peu profonde ou libre.\n\nLa couverture globale des milieux humides par pays à l’intérieur des limites de CFFA était la suivante : Canada (27 %), États Unis d’Amérique (c. à d. Alaska 39 %), Finlande (31 %), Islande (8 %), Norvège (17 %), Suède (26 %), Royaume du Danemark (c. à d. Groenland 1 %) et Fédération de Russie (21 %). \n\nLe développement de ce produit a été entrepris par le Centre canadien de cartographie et d’observation de la Terre et la Division de l’infrastructure canadienne de données géospatiales de Ressources naturelles Canada, en collaboration avec le groupe de travail sur la biodiversité de CFFA du Conseil de l’Arctique, le groupe d’experts des milieux humides de CFFA, les organisations nationales chargées de surveiller les milieux humides, les organismes nationaux de cartographie de l’Arctique et l’entreprise canadienne C CORE, en intégrant des données de vérification sur le terrain obtenues en Alaska, en Finlande, en Suède et au Royaume du Danemark par le biais d’organismes partenaires et de l’interprétation d’images numériques. Plus de 60 000 images (2020 2022), couvrant principalement les périodes estivales, ont été traitées pour garantir des résultats concluants.\n\nCet ensemble de données fournit des renseignements de base essentiels pour la surveillance par observation de la Terre des répercussions des changements climatiques et appuie une surveillance environnementale essentielle pour les collectivités de l’Arctique et des régions nordiques éloignées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8b83fd58-5953-4b80-8009-94d44ff89844"
+  ],
+  "dct_issued_s": "2025-07-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8b83fd58-5953-4b80-8009-94d44ff89844\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Pan-Arctic Wetland Inventory Dataset Version 1 (baseline)",
+  "gbl_mdModified_dt": "2026-03-26T00:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "964e8223-3a45-504d-b4d7-56781bff4bc2",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 51.0)",
+  "schema_provider_s": "Open Data Canada"
+}

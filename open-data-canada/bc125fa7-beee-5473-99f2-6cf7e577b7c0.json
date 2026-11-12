@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.525, -55.99, 51.976, 45.738)",
+  "dcat_keyword_sm": [
+    "Porifera",
+    "éponges",
+    "Earth sciences",
+    "Sponges",
+    "Chenal Laurentien",
+    "Distribution",
+    "Benthic Habitat",
+    "Sciences de la terre",
+    "Golfe du Saint-Laurent",
+    "habitat benthique",
+    "Gulf of St. Lawrence",
+    "habitat",
+    "distribution",
+    "Laurentian Channel",
+    "Porifera",
+    "Habitat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Zones de concentration significative d'éponges dans le golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Section Gestion de données - Direction des avis, information et soutien scientifiques."
+  ],
+  "dct_description_sm": [
+    "Identification of significant concentrations of sponges in the Gulf of St. Lawrence biogeographic unit using Kernel density estimation (KDE).\n\nThis method was applied to create a modelled biomass surface for each taxa and an aerial expansion method was permitted to identify significant concentrations. Only geo-referenced biomass data have been used to identify the “hot spots”. The borders of the areas were refined using knowledge of null catches and species distribution models. Predictive models were produced using a random forest machine-learning technique. For more details, please refer to this report: \n\nKenchington, E., L. Beazley, C. Lirette, F.J. Murillo, J. Guijarro, V. Wareham, K. Gilkinson, M. Koen Alonso, H. Benoît, H. Bourdages, B. Sainte-Marie, M. Treble, and T. Siferd. 2016. Delineation of Coral and Sponge Significant Benthic Areas in Eastern Canada Using Kernel Density Analyses and Species Distribution Models. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/093. vi + 178 p.\n\nhttp://waves-vagues.dfo-mpo.gc.ca/Library/40577806.pdf\n\nThe present layer only contains the analysis results for sponges. \n\nPurpose:\n\nAs part of the Canada's commitment to the identification and protection of sensitive benthic marine ecosystems, maps of the location of significant concentrations of corals and sponges on the east coast of Canada were produced through quantitative analyses of research vessel trawl survey data, supplemented with other data sources where available. The taxa analyzed are sponges (Porifera), large and small gorgonian corals (Alcyonacea), and sea pens (Pennatulacea). However, only the sponges (Porifera) and sea pens (Pennatulacea) have been considered in the analysis concerning the Gulf of St. Lawrence biogeographic unit.",
+    "Identification des concentrations significatives d'éponges dans la bioregion du golfe Saint-Laurent selon l’estimation de la densité par la méthode du noyau (Kernel density estimation). \n\nCette méthode a été appliquée afin de créer une surface de biomasse modélisée pour chacun des taxons et une méthode d’expansion aérienne a été appliquée afin de déterminer les concentrations importantes. Seules les données de biomasses géoréférencées ont été utilisées pour identifier ces « points névralgiques ». Les limites des zones ont été affinées à l’aide de la connaissance des captures nulles et des modèles de répartition des espèces. Les modèles prédictifs ont été produits à l’aide d’algorithmes d’apprentissage automatique avec des forêts d’arbres décisionnels. Pour plus de détails, veuillez-vous référer à ce rapport : \n\nKenchington, E., L. Beazley, C. Lirette, F.J. Murillo, J. Guijarro, V. Wareham, K. Gilkinson, M. Koen Alonso, H. Benoît, H. Bourdages, B. Sainte-Marie, M. Treble, and T. Siferd. 2016. Delineation of Coral and Sponge Significant Benthic Areas in Eastern Canada Using Kernel Density Analyses and Species Distribution Models. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/093. vi + 178 p.\n\nhttp://waves-vagues.dfo-mpo.gc.ca/Library/40577806.pdf\n\nLa présente couche contient les résultats d'analyses pour les éponges uniquement.\n\nObjectif:\n\nDans la foulée de l’engagement du Canada visant l’identification et la protection des habitats benthiques vulnérables, des cartes de l’emplacement des concentrations importantes de coraux et d’éponges sur la côte est du Canada ont été produites au moyen d’analyses quantitatives des données des relevés au chalut effectués sur un navire scientifique ainsi que d’autres sources de données lorsque cela était possible. Les taxons analysés sont les éponges (Porifera), les grandes et petites gorgones (Alcyonacea) et les pennatules (Pennatulacea). Par contre, seules les éponges (Porifera) et les plumes de mer (Pennatulacea) sont considérées dans l’analyse concernant la biorégion du golfe Saint-Laurent."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/93d845fa-8f16-4a46-9084-2e368fc0e493"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/93d845fa-8f16-4a46-9084-2e368fc0e493\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Sponge significant concentration areas in the Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-03-24T08:32:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bc125fa7-beee-5473-99f2-6cf7e577b7c0",
+  "locn_geometry": "ENVELOPE(-69.525, -55.99, 51.976, 45.738)",
+  "schema_provider_s": "Open Data Canada"
+}

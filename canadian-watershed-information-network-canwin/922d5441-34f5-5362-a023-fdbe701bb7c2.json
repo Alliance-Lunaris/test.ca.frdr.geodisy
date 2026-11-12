@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Legally defined __Regional District__ polygons were drawn from metes and bounds descriptions as written in Letters Patent for Regional Districts in the province of British Columbia. In the event of a discrepancy in the data, the metes and bounds description will prevail. Although the boundaries were drawn based on the legal metes and bounds descriptions, they may differ from how regional districts and their member municipalities and electoral areas currently view and/or manage their boundaries. Where discrepancies are noted, the Ministry of Housing and Municipal Affairs (the custodian) enters into discussion with the local governments whose boundaries are affected. In order to effect a change to the boundary, Cabinet approval is required. This is done through an Order in Council (OIC). While discrepancies to administrative boundaries are being resolved, boundaries may be adjusted on an ongoing basis until the requested changes are completed. The OIC_YEAR and OIC_NUMBER fields indicate the year that the boundary was passed under OIC and its associated number. The AFFECTED_ADMIN_AREA_ABRVN identifies the administrative areas that are affected by the OIC. Please note that the Northern Rockies Regional Municipality appears to be a gap in the Regional District layer, but it is a municipality and can be found in the [Municipalities Layer](https://catalogue.data.gov.bc.ca/dataset/municipalities-legally-defined-administrative-areas-of-bc). A polygon dataset that includes all of the administrative areas currently in the __Administrative Boundaries Management System (ABMS)__ is available [here](https://catalogue.data.gov.bc.ca/dataset/legally-defined-administrative-areas-of-bc). A complimentary point dataset that defines the administrative areas is also available available [here](https://catalogue.data.gov.bc.ca/dataset/legally-defined-administrative-areas-of-bc-boundary-locations). Other individual datasets are available from the following records: https://catalogue.data.gov.bc.ca/dataset/municipalities-legally-defined-administrative-areas-of-bc https://catalogue.data.gov.bc.ca/dataset/electoral-areas-legally-defined-administrative-areas-of-bc https://catalogue.data.gov.bc.ca/dataset/province-of-british-columbia-legally-defined-administrative-areas-of-bc https://catalogue.data.gov.bc.ca/dataset/islands-trust-legally-defined-administrative-areas-of-bc https://catalogue.data.gov.bc.ca/dataset/local-trust-areas-legally-defined-administrative-areas-of-bc"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d1aff64e-dbfe-45a6-af97-582b7f6418b9"
+  ],
+  "dct_issued_s": "2020-06-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d1aff64e-dbfe-45a6-af97-582b7f6418b9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_title_s": "Regional Districts - Legally Defined Administrative Areas of BC",
+  "gbl_mdModified_dt": "2026-08-12T18:30:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "922d5441-34f5-5362-a023-fdbe701bb7c2",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

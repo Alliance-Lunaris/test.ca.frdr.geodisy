@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3926, -123.3233, 48.4488, 48.4062)",
+  "dcat_keyword_sm": [
+    "planning and development",
+    "development services",
+    "permits and licences",
+    "planning",
+    "building",
+    "permits",
+    "development",
+    "building permits"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<div><b>If the download button on the Open Data Portal is not working, <a href='https://maps.victoria.ca/CustomMaps/OpenData/BuildingPermits_60days.csv' target='_blank' rel='nofollow ugc noopener noreferrer'><font size='4'>click here to download the latest CSV file</font></a>.  Sometimes the portal gets stuck but this link still works.</b><br /></div><div><b><br /></b></div><div><div>Building Permits issued in the City of Victoria in the last 60 days. Includes business contact information for the Business, Builder, Electrician, or Plumber who applied for the permit.</div></div><div>Building Permits data are copied to the Open Data Portal daily.  </div><div>Building Permit Types include: building, electrical, plumbing, liquor, occupancy, sign, and miscellaneous. </div><div>Status Types included: Active, Cancelled, Completed, Expired, Holdback, In-Progress, New, On Hold, Received, Retired.</div><div><br /></div><div>Building permits may include: alternative solutions, awning, blasting, commercial, complex, demolition, excavation, fire alarm, interior only, noise exemption, residential (multi, single family, and duplex), and strip out.</div><div><br /></div><div>If a building permit's status is &quot;completed&quot;, then it means it has an occupancy permit, otherwise it would be cancelled or expired indicating that occupancy was not granted.  You can filter on the &quot;Status&quot; field to show all records that are &quot;Completed&quot;, and thus have an occupancy permit.</div><div><br /></div><div>Electrical permits may include: woodstove, commercial, fire alarm, entertainment, operating, residential, security/access, temporary service.</div><div><br /></div><div>Includes business contact information for the Business, Builder, Electrician, or Plumber who applied for the permit.</div><div><br /></div><div>Data are updated by city staff as needed, and automatically copied to the Open Data Portal. The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description.  We update our data through automated scripts which does not trigger the &quot;last updated&quot; date to change.</div>"
+  ],
+  "dct_identifier_sm": [
+    "0b7756af80534e0ca086f7575aa7bb5d",
+    "https://www.arcgis.com/home/item.html?id=0b7756af80534e0ca086f7575aa7bb5d"
+  ],
+  "dct_issued_s": "2024-02-22",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::building-permits-issued-in-the-last-60-days\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Building Permits Issued in the Last 60 Days",
+  "gbl_mdModified_dt": "2024-11-04T19:35:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c2c44983-e211-51cf-a2cf-0183d1f67d1c",
+  "locn_geometry": "ENVELOPE(-123.3926, -123.3233, 48.4488, 48.4062)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

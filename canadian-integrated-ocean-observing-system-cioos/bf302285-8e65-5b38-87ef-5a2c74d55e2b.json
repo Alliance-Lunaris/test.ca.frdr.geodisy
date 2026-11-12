@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "other",
+    "Salish Sea",
+    "depth",
+    "Autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Salish Sea NEMO Grille modèle, masque en maille 2D, v17-02"
+  ],
+  "dct_creator_sm": [
+    "Allen, Susan (UBC EOAS)."
+  ],
+  "dct_description_sm": [
+    "NEMO grid variable value for the u-v plane of the Salish Sea NEMO model Arakawa-C grid. The values are those calculated by NEMO from the input coordinates and bathymetry files. The variable names are those used by NEMO-3.6, see the NEMO-3.6 book (http://www.nemo-ocean.eu/Media/Files/NEMO_book_V3_6.pdf) for details, or the long_name attributes of the variables for succinct descriptions of the variables. The model grid includes the Juan de Fuca Strait, the Strait of Georgia, Puget Sound, and Johnstone Strait on the coasts of Washington State and British Columbia.",
+    "Valeur variable de grille NEMO pour le plan u-v de la grille Arakawa-C modèle NEMO de Salish Sea. Les valeurs sont celles calculées par NEMO à partir des coordonnées d'entrée et des fichiers bathymétriques. Les noms de variables sont ceux utilisés par NEMO-3.6, voir le livre NEMO-3.6 (http://www.nemo-ocean.eu/Media/Files/NEMO_book_V3_6.pdf) pour plus de détails, ou les attributs long_name des variables pour une description succincte des variables. La grille du modèle comprend le détroit Juan de Fuca, le détroit de Georgia, le détroit de Puget et le détroit de Johnstone sur les côtes de l'État de Washington et de la Colombie-Britannique."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/4385d38f-20ff-4973-b777-b55023913229"
+  ],
+  "dct_issued_s": "2017-09-30",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/4385d38f-20ff-4973-b777-b55023913229\"}",
+  "dct_rights_sm": [
+    "Apache License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0"
+  ],
+  "dct_title_s": "Salish Sea NEMO Model Grid, 2D Mesh Mask, v17-02",
+  "gbl_mdModified_dt": "2026-09-16T20:23:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bf302285-8e65-5b38-87ef-5a2c74d55e2b",
+  "locn_geometry": "ENVELOPE(-125.4, -121.6, 50.42, 47.07)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

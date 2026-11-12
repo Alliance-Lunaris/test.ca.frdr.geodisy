@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.3855, -122.5916, 55.783, 46.7766)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The shallow, coastal regions of the world’s oceans are highly productive ecosystems providing important habitat for commercial, forage, endangered, and iconic species. Given the diversity of ecosystem services produced or supported by this ecosystem, a better understanding of its structure and function is central to developing an ecosystem-based approach to management. However this region termed the ‘white strip’ by marine geologists because of the general lack of high-resolution bathymetric data - is dynamic, highly variable, and difficult to access making data collection challenging and expensive. Since substrate is a key indicator of habitat in this important ecosystem, we created a continuous substrate map of Bottom Patches (BoPs) from the best available bottom type data using an approach that is simple, quantitative, and transparent making it amenable to iterative improvement as data quality and availability improve. To provide subsequent analyses (such as habitat models) with some confidence in the defined bottom type values, we developed a corresponding confidence surface based on the agreement of, and distance between observations. Such data are critical to assessments of species distributions and anthropogenic risk. \n\nBottom patches (BoPs) have been created to represent bottom type for the entire Pacific Canadian coast from the high high water line to a depth of 50 metres (m). As a polygon representation, the BoPs describe patches of similar substrate prescribed by depth classes and the available field observations. In the areas where no observations are available, predicted bottom type values are used. The approach is described in Gregr et al. (2013), as a spatial framework for representing nearshore ecosystems. \n\nAccuracy of the bottom type depends on a multitude of factors but primarily the reliability and density of the bottom type observations. The horizontal accuracy of these data likely ranges from metres to 10s of metres because of the source data or data processing required. Areas with a higher data density, where the data show strong coherence, are understood to have higher accuracy. The BoPs use depth ribbons (polygons describing bathymetric ecozones) as an input. Depth ribbons for Pacific Canada were created from a high resolution (20 x 20 m2) bathymetry. Given the resolution of these data, processing was facilitated by dividing the Pacific Coast into 5 regions.\n\nThe West Coast of Vancouver Island, extending from Cape Sutil in the North past Port San Juan to the South, includes a total of 110,313 BoP polygons. Bottom Patches for Queen Charlotte Strait and Strait of Georgia regions were combined for a total of 235,754 BoP polygons. The North Central Coast region, extending from the Alaskan border in the North to Cape Caution in the South, includes a total of 431,639 BoP polygons. The Haida Gwaii region includes a total of 86,825 BoP polygons.\n\nThese data are intended for scientific research only. The developers (Fisheries and Oceans Canada, SciTech Environmental Consulting) are not responsible for damages resulting from any omissions or errors that may be contained in this dataset and expressly disclaims any warranty of fitness for any particular purpose. Developers shall not be liable for any losses, financial or otherwise, due to the use of these data. The user assumes the entire risk as to the suitability, results and performance of the dataset for their proposed use. Please credit SciTech and Fisheries and Oceans Canada as the source of the data in any maps, reports, or articles that are printed or published on paper or the Internet."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6cda0f8d-110e-423d-8d7a-bf8a40eaa26e"
+  ],
+  "dct_issued_s": "2018-10-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6cda0f8d-110e-423d-8d7a-bf8a40eaa26e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Nearshore Bottom Patches for Pacific Canada. Version 1.0",
+  "gbl_mdModified_dt": "2026-03-24T08:44:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe23d14a-26e8-5b1b-a212-b58cd0d2d29d",
+  "locn_geometry": "ENVELOPE(-135.3855, -122.5916, 55.783, 46.7766)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

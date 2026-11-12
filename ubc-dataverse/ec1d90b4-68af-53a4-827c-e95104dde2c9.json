@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.615, -122.5115, 49.373, 49.2381)",
+  "dcat_keyword_sm": [
+    "Error Mapping",
+    "Forest Metrics",
+    "Remote Sensing",
+    "LiDAR",
+    "Error Analysis",
+    "Vegetation Resource Inventory"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Xiao, Zijin (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Accurate forest resource inventory data is crucial for sustainable forest management. The provincial Vegetation Resource Inventory (VRI) dataset is the most widely used dataset in BC, but it was biased due to the data format and data collection methods. This study aims to quantify the error between VRI stand metrics and LiDAR-derived stand metrics in the Malcolm Knapp Research Forest (MKRF), and to assess the potential meaningful relationships between these errors and the geophysical metrics. The study applied both VRI and LiDAR data from 2022, including the stand metrics of crown density, stand height, and volume, and the geophysical metrics, including slope, elevation, aspect, potential solar radiation, and terrain wetness index (TWI). The error was calculated from the difference between VRI-held stand metrics and LiDAR-derived stand metrics. The paper used Pearson’s coefficient and a simple linear regression model to quantify the relationship between each type of stand error and geophysical factor. Both the errors and their relationships to geophysical factors were mapped to explore whether they exhibited clear spatial patterns. The correlation and regression analyses indicated that there was a significant correlation between height/volume and north-south aspect, slope, solar radiation, and TWI. The height was the stand metric that showed the strongest correlation with geophysical factors, where Pearson’s coefficients between height and slope and TWI were −0.47 and 0.48. The extreme errors were more likely to be found in the peripheral area or where multiple geophysical metrics together contributed to either overestimation or underestimation. The results provided general guidance for interpreting VRI-based forest data and identified priority areas that were most in need of high-resolution LiDAR updates."
+  ],
+  "dct_identifier_sm": [
+    "1124718_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/GXUQUX"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GXUQUX\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Maple Ridge, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Evaluating and Comparing the Performance of Current Vegetation Resource Inventory Data and LiDAR-Derived Stand Metrics Across Different Geospatial Features in Malcolm Knapp Research Forest, British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:33:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec1d90b4-68af-53a4-827c-e95104dde2c9",
+  "locn_geometry": "ENVELOPE(-122.615, -122.5115, 49.373, 49.2381)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.64218, -123.14497, 55.74497, 47.9226)",
+  "dcat_keyword_sm": [
+    "Modèle",
+    "gaussian random fields",
+    "Marine biology",
+    "Oceans",
+    "intégration des données",
+    "champs aléatoires gaussiens",
+    "Aquatic animals",
+    "Biologie marine",
+    "data integration",
+    "Animal aquatique",
+    "species distribution models",
+    "Océan",
+    "modèles de distribution des espèces",
+    "dungeness crab",
+    "crabe dormeur",
+    "Models"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Répartition du crabe dormeur à l’échelle de la côte"
+  ],
+  "dct_creator_sm": [
+    "Jessica Nephin."
+  ],
+  "dct_description_sm": [
+    "This dataset contains two geotiff layers. The first layer (1) represents the coastwide distribution of Dungeness crab as predicted from a geostatistical model. The model predicts the mean coastwide probability of Dungeness crab detection using trap sampling gear. The second layer (2) represent the uncertainty in those predictions. Detailed descriptions of these data products can be found in Nephin et al. (2023) and the code used to produce them can be found at https://gitlab.com/dfo-msea/dungeness-sdm/.\n\nThe objectives of this work was to model the habitat of Dungeness crab (_Metacarcinus magister_), a data-limited coastal marine species, to evaluate the efficacy of data integration when making predictions to geographic areas larger than the area covered by any one data source. In British Columbia, Dungeness crab are sampled regionally and sporadically with a variety of sampling gears and survey protocols, making them an ideal case study to investigate whether the integration of disparate surveys can improve habitat predictions. To that aim, we assemble data from dive, trawl, and baited-trap surveys to generate six candidate generalized linear mixed-effect models with spatial random fields. This dataset contains the mean (1) and difference (2) between the Survey-effect and Gear-effect model predictions.",
+    "Cet ensemble de données contient deux couches géotiff. La première couche (1) représente la répartition du crabe dormeur à l'échelle de la côte, telle qu'elle est prédite à partir d'un modèle géostatistique. Le modèle prédit la probabilité moyenne de détection du crabe dormeur sur l'ensemble de la côte à l'aide d'engins d'échantillonnage piégeants. La deuxième couche (2) représente l'incertitude associée à ces prévisions. Des descriptions détaillées de ces produits de données se trouvent dans Nephin et al. (2023) et le code utilisé pour les produire est disponible à l'adresse suivante : https://gitlab.com/dfo-msea/dungeness-sdm/.\n\nLes objectifs de ce travail étaient de modéliser l'habitat du crabe dormeur (_Metacarcinus magister_), une espèce marine côtière limitée aux données, afin d'évaluer l'efficacité de l'intégration des données lorsqu'on fait des prévisions pour des zones géographiques plus vastes que la superficie couverte par une source de données. En Colombie-Britannique, le crabe dormeur est échantillonné à l'échelle régionale et sporadique à l'aide d'une variété d'engins d'échantillonnage et de protocoles de relevé, ce qui en fait une étude de cas idéale pour déterminer si l'intégration de relevés disparates peut améliorer les prévisions de l'habitat. À cette fin, nous rassemblons des données provenant de relevés de plongée, de chalut et de pièges appâtés afin de produire six modèles linéaires à effets mixtes candidats généralisés avec des champs aléatoires spatiaux. Cet ensemble de données contient la moyenne (1) et la différence (2) entre les prévisions du modèle d'enquête et de l'effet d'engrenage."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c9c56d6b-afe6-4a5f-94e4-845c58f403bd"
+  ],
+  "dct_issued_s": "2024-03-04",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c9c56d6b-afe6-4a5f-94e4-845c58f403bd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Coastwide distribution of Dungeness crab",
+  "gbl_mdModified_dt": "2026-03-24T08:08:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8f92c31b-d817-579f-bac7-f735e0e80cb4",
+  "locn_geometry": "ENVELOPE(-134.64218, -123.14497, 55.74497, 47.9226)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "dcat_keyword_sm": [
+    "Géophysique",
+    "Sol",
+    "Forage",
+    "Géotechnique",
+    "Information gouvernementale",
+    "Investigation géotechnique",
+    "Transports Québec",
+    "Glissement de terrain",
+    "Sondage",
+    "MTMD",
+    "MTQ"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère des Transports et de la Mobilité durable."
+  ],
+  "dct_description_sm": [
+    "The term “geotechnical investigation site” refers to locations where geotechnical (surveys and instrumentation) and geophysical data are available. This data includes:\n\nGeotechnical investigation sites (site_inv_geotech_p): Geotechnical surveys produced by or for the Ministry from the 1990s, from the active database of the Directorate of Geotechnics and Geology (DGG). Data is added as it is validated.\n\nThis file is accompanied by a Stratigraphic Characteristics table (site_inv_geotech _STRATI.csv). This contains stratigraphic information for the majority of sites and can be linked to the location file using the “NO_UNIQUE” primary key.\n\nBDG geotechnical investigation sites (site_inv_geotech_bdg_p): Geotechnical drilling and drilling from an “inactive” database entrusted to the DGG by the Ministry of Natural Resources and Wildlife (MRNF), since the mid-1980s. These are drilling and survey data compiled by the MRNF in the 70s and 80s for “predictive” or “geotechnical soil suitability” mapping campaigns.\n\nAs it is an inactive database (not evolving), there are no updates to be expected.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Le terme « site d’investigation géotechnique » désigne les emplacements où des données géotechniques (sondages et instrumentations) et géophysiques sont disponibles. Ces données incluent :\n\nSites d’investigation géotechnique (site_inv_geotech_p) : Sondages géotechniques produits par ou pour le ministère à partir des années 1990, provenant de la banque de données active de la Direction de la géotechnique et géologie (DGG). Les données sont ajoutées au fur et à mesure de leur validation.\n\nCe fichier est accompagné d’une table de Caractéristiques stratigraphiques (site_inv_geotech _STRATI.csv). Celle-ci contient les informations stratigraphiques pour la majorité des sites et peut être reliée au fichier de localisation à l’aide de la clé primaire «NO_UNIQUE».\n\nSites d’investigation géotechnique BDG (site_inv_geotech_BDG_p) : Forages et sondages géotechniques provenant d’une banque de données « inactive » confiée à la DGG par le ministère des Ressources naturelles et de la Faune (MRNF), depuis le milieu des années 1980. Il s’agit de données de forages et sondages compilées par le MRNF dans les années 70 et 80 pour des campagnes de cartographie « prévisionnelle » ou « d’aptitude géotechnique des sols ».\n\nComme il s’agit d’une banque de données inactive (non évolutive), il n’y a aucune mise à jour à prévoir."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/75b512a3-864a-424c-838c-2bd37523219a"
+  ],
+  "dct_issued_s": "2019-11-05",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/75b512a3-864a-424c-838c-2bd37523219a\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Site d'investigation géotechnique",
+  "gbl_mdModified_dt": "2026-09-30T17:39:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c586c28d-3a91-5305-aa7a-71061a14266b",
+  "locn_geometry": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "schema_provider_s": "Open Data Canada"
+}

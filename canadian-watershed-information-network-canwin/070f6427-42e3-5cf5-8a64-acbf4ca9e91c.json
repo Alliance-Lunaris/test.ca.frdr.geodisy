@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nThe **dendrometric lidar map** presents various dendrometric characteristics useful in particular in forest planning. It is a product in vector format that is complementary to the results of forest compilations found in the [Original Ecoforest Map and Current Inventory Results] (https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) and in the [Results of forest compilations by forel] (https://www.donneesquebec.ca/recherche/dataset/compilations-forestieres-originales-par-forel-methode-k-nn). \n\nThe geometric entities defined from the lidar data are at a finer scale than those in the ecoforest map. The main variables predicted and accessible in the product are as follows:\n\n\n+ Usable volume per hectare by species, species group and certain diameter groups\n\n+ Volume per hectare distributed by product for certain species groups\n\n+ Basal area and number of stems per hectare for certain species groups\n\n+ Average usable volume per rod and average diameter for certain species groups\n\nThe volumes compiled in the lidar dendrometric map are variables distinct from the gross standing market volume predicted in the other forest compilation results, in the [Cubing rate and prediction models]\n\n] (https://www.donneesquebec.ca/recherche/dataset/tarif-de-cubage) and for the stems counted in the sample plots of the ecoforest inventory of southern Quebec, for example in the [Temporary sample plots of the fifth inventory] (https://www.donneesquebec.ca/recherche/dataset/placettes-echantillons-temporaires-du-cinquieme-inventaire). This distinct volume is here qualified as “usable” and it excludes woody material between 9.1 cm in diameter without bark and 9.1 cm with bark. The published literature clarifies the differences between volume variables.\n\nThis product is available for territories (planning unit, private forest development agency or residual forest territory) with a lidar acquisition and affecting the bioclimatic domains of fir to yellow birch, fir to white birch and spruce moss. Product coverage is not complete and will evolve over the years depending on the lidar acquisition.\n\n__ ⚠️ Notes: __\n\nIt is possible to use the [lidar dendrometric data preparation tool] (https://www.donneesquebec.ca/recherche/dataset/carte_dendrometrique_lidar/resource/d447ac59-8310-4fad-95f7-7495a3624466) to study one or more sectors at a finer scale than that of the ecoforest map. The [Lidar dendrometric tool user guide] (https://mrnf.gouv.qc.ca/nos-publications/guide-outil-dendrometrique-lidar/) presents the methodology for its application to meet the needs of operational forest harvest planning.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/02d6f853-b0fe-4aa4-bc73-dff0db45d8ae"
+  ],
+  "dct_issued_s": "2022-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/02d6f853-b0fe-4aa4-bc73-dff0db45d8ae\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Lidar dendrometric map",
+  "gbl_mdModified_dt": "2026-09-23T18:02:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "070f6427-42e3-5cf5-8a64-acbf4ca9e91c",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Ontario",
+    "georeferencing",
+    "historical maps",
+    "land use",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Penfound, Elissa (Ryerson University). ORCID: https://orcid.org/0000-0003-3419-6606",
+    "Vaz, Eric (Ryerson University, Toronto Metropolitan University). ORCID: https://orcid.org/0000-0003-1738-2677"
+  ],
+  "dct_description_sm": [
+    "Historic Maps of southern Ontario, between the years 1800-1970, were collected from oldmapsonline.org to measure for land use and land cover change in roughly 20-year intervals (1800, 1818, 1837, 1852, 1861, 1879, 1901, 1922, and 1955). \r\n\tEach historic map was georeferenced in QGIS with the georeferencer tool. The reference map used included a Great Lakes shapefile, an Ontario Lakes and Rivers shapefile and an Ontario Boundary shapefile. Bodies of water were used for the georeferencing to ensure consistency and accuracy over the extensive time period. 200 reference points were used for each map, 150 points were used for the initial georeferencing and an additional 50 points were added to account for errors. Each map was projected in the same coordinate reference system (EPSG:32617 – WGS 84 / UTM zone 17N). Once each map was georeferenced it was exported as a geo.tiff image. \r\n\tThe geo.tiff images were added to QGIS and present day (2011-2020) road network, rail network, municipality and county shapefile reference layers were layered on top of the geo.tiff images. When creating the historic road and rail network shapefile layers, lines were drawn over the reference (present-day) shapefile lines that corresponded with the road and rail lines on the historic geo.tiff maps. This was done to account for any distortion that remained from georeferencing. When creating the historic municipality point shapefile layers, points were drawn over the municipality points on the historic geo.tiff maps. To account for distortion from georeferencing, the drawn historic points were matched to the reference (present-day) shapefile points with the NNJoin (nearest neighbour join) algorithm. When creating the historic county/district polygon shapefile layers, reference (present-day) county polygons were duplicated and the boundaries edited to match the boundaries of the historic geo.tiff maps. Boundaries were not edited to align perfectly with the historic geo.tiff maps, but rather to mirror historic boundaries, but remain un-distorted. All non-spatial data was removed from the attribute tables of reference shapefiles used. \r\n\r\nMatch: Y (yes) or N (no) refers to whether or not the shapefile feature is based off of a feature in the present-day reference shapefile. Y indicates that it is based off of a feature in the present-day reference shapefile, N indicates that it is based off of the historic georeferenced map. \r\n\r\nRoad type: in the Ontario1955RoadLines shapefile roads are classified as 1, 2, 3, 4, or 5. See below for road type classifications.\r\n\r\n1 – dirt roads (unimproved)\r\n2 – graded roads (drained and maintained)\r\n3 – improved roads (gravel, stone, topsoil-sand clay)\r\n4 – paved roads (asphalt, concrete, surface-treated)\r\n5 – superhighways and toll highways (4 lanes or more)",
+    "This is a dataset of historic southern Ontario road (line), rail (line), municipality, (point) county (polygon) and district (polygon) shapefiles. The shapefiles were created based on georeferenced historic maps of Ontario from the years 1800, 1818, 1837, 1852, 1861, 1879, 1901, 1922, and 1955."
+  ],
+  "dct_identifier_sm": [
+    "126758",
+    "https://doi.org/10.5683/SP2/TCIKKQ"
+  ],
+  "dct_issued_s": "2020-09-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/TCIKKQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Historic Ontario Road, Rail, Municipality, County and District Shapefiles",
+  "gbl_mdModified_dt": "2020-10-01T19:55:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "25662d8b-4577-5230-a07b-547962f6322f",
+  "schema_provider_s": "Toronto Metropolitan University Dataverse"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Zone",
+    "Voirie",
+    "SIRR",
+    "Information gouvernementale",
+    "PoleARTM"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "The Roads database includes an inventory of road assets (roadways, blocks, intersections, sidewalks, curbs) with a spatial representation and various attached information.\n\nZone-type road assets represent regions located between other road assets and that are not part of the local or arterial road network. The areas are represented by polygons.\n\nAmong the information associated with a zone-like object is the type of zone, etc.\n\nRelated data is also available in separate sets on the portal:\n\n- [Road asset (complete database)] (/city-of-montreal/road-active)\n\n- [Roadway and intersection] (/city-of-montreal/voirie-causee-intersection)\n\n- [Sidewalk and island] (/city-of-montreal/voirie-trottoir-ilot)\n\n\n__Warnings__\n\n- The data released on road assets are those in the possession of the City's geomatics team and are not necessarily up to date throughout the territory.\n\n- The data released on road assets is provided for information purposes only and should not be used for the purposes of designing or carrying out works, or for the location of assets.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La base de données Voirie inclut l'inventaire des actifs de voirie (chaussées, îlots, intersections, trottoirs, bordures) avec une représentation spatiale et diverses informations attachées.\n\nLes actifs de voirie de type zone représentent les régions situées entre les autres actifs de voirie et qui ne font pas partie du réseau routier local ou artériel. Les zones sont figurées par des polygones.\n\nParmi les informations associées à un objet de type zone se trouvent le type de zone, etc.\n\nLes données connexes sont aussi disponibles dans des ensembles distincts sur le portail:\n\n- [Actif de voirie (base de données complète)](/ville-de-montreal/voirie-actif)\n\n- [Chaussée et intersection](/ville-de-montreal/voirie-chaussee-intersection)\n\n- [Trottoir et îlot](/ville-de-montreal/voirie-trottoir-ilot)\n\n\n__Avertissements__\n\n- Les données diffusées sur les actifs de voirie sont celles qui se trouvent en la possession de l'équipe géomatique de la Ville et ne sont pas nécessairement à jour sur l'ensemble du territoire.\n\n- Les données diffusées sur les actifs de voirie sont fournies seulement à titre indicatif et ne devraient pas être utilisées pour des fins de conception ou réalisation des travaux, ni pour la localisation des actifs."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6ece3ceb-f611-43bd-80ce-238f52a04928"
+  ],
+  "dct_issued_s": "2018-08-16",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6ece3ceb-f611-43bd-80ce-238f52a04928\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Zone hors voirie (Base de données des actifs de voirie)",
+  "gbl_mdModified_dt": "2026-09-30T17:37:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3c1b9520-1796-5989-8e61-5de9a93815b0",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

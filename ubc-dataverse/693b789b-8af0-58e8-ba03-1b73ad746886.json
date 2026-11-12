@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "multilocus simulations",
+    "alternation of generations",
+    "diplohaplontic",
+    "life cycle evolution",
+    "modifier model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Scott, Michael F. (University of British Columbia).",
+    "Rescan, Marie (French National Centre for Scientific Research)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/qhtJFwR1boS6LZSli2yTLVUe-esdN53NiGjCD07s4eU</p>\n<p><b>Storage size:</b> 70273</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Many organisms spend a significant portion of their life cycle as haploids and as diploids (a haploid–diploid life cycle). However, the evolutionary processes that could maintain this sort of life cycle are unclear. Most previous models of ploidy evolution have assumed that the fitness effects of new mutations are equal in haploids and homozygous diploids, however, this equivalency is not supported by empirical data. With different mutational effects, the overall (intrinsic) fitness of a haploid would not be equal to that of a diploid after a series of substitution events. Intrinsic fitness differences between haploids and diploids can also arise directly, for example because diploids tend to have larger cell sizes than haploids. Here, we incorporate intrinsic fitness differences into genetic models for the evolution of time spent in the haploid versus diploid phases, in which ploidy affects whether new mutations are masked. Life-cycle evolution can be affected by intrinsic fitness differences between phases, the masking of mutations, or a combination of both. We find parameter ranges where these two selective forces act and show that the balance between them can favor convergence on a haploid–diploid life cycle, which is not observed in the absence of intrinsic fitness differences.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">C++ code for the evolution of life cycle in a alternation model</h4><div class=\"o-metadata__file-description\">The program simulates the evolution of the relative length of the haploid and diploid phase in a haploid-diploid population subjected to deleterious mutations.</div><div class=\"o-metadata__file-name\">life_cycles_alternation.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151956_150149",
+    "https://doi.org/10.5683/SP2/LALFBD"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/LALFBD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Evolution of haploid–diploid life cycles when haploid and diploid fitnesses are not equal",
+  "gbl_mdModified_dt": "2021-05-20T00:16:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "693b789b-8af0-58e8-ba03-1b73ad746886",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Volume marchand brut",
+    "Forêt",
+    "DHP",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "HackQC18",
+    "DIF",
+    "Inventaire écoforestier",
+    "Essence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nTwo products are available to know the gross commercial volume of a tree according to its diameter at chest height (DHP) and its height. Their contents and the way of using them are different, but they both make it possible to obtain gross commercial volume values per tree. \n\nThe first product is the **LIN3 cubing rate**. It is presented in the form of a table where the values of the gross market volume can be extracted directly. These are local rates, i.e. the height used in the general rate equation (volume prediction models) is predicted by height-DHP relationships developed per survey unit.\n\nThe second product offers increased precision. It is presented in the form of several tables where the values of the gross commercial volume do not appear directly. Rather, the content of these tables is used to apply **models for predicting the height and gross commercial volume** of a tree. Height prediction models are also developed locally at the scale of survey units. The use of the product requires consultation of the document [“Models for predicting the height and gross commercial volume of trees - Method and use”] (https://mrnf.gouv.qc.ca/nos-publications/modele-prediction-hauteur-volume/).\n\nFinally, the **Predivol** tool allows users to more easily access prediction models for sample plots (PE) using a user-friendly interface that is independent of geographic information systems (GIS).\n\n** 📣 Recommendation of the Forest Inventory Directorate: ** it is preferable to use models to predict height and gross market volume in territories where they are available. A new height prediction model is available when a territory obtains the results of forest compilations. In the absence of these models, it is still possible to use the LIN3 cubing rate.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\nDeux produits sont offerts pour connaitre le volume marchand brut d'un arbre en fonction de son diamètre à hauteur de poitrine (DHP) et de sa hauteur. Leurs contenus ainsi que la façon de les utiliser sont différents, mais ils permettent autant l'un que l'autre d'obtenir des valeurs de volume marchand brut par arbre. \n\nLe premier produit est le **tarif de cubage LIN3**. Il se présente sous la forme d’une table où les valeurs du volume marchand brut peuvent être extraites directement. Il s’agit de tarifs locaux, c’est-à-dire que la hauteur utilisée dans l’équation du tarif général (modèles de prédiction du volume) est prédite par des relations hauteur-DHP développées par unité de sondage.\n\nLe deuxième produit offre une précision accrue. Il se présente sous la forme de plusieurs tables où les valeurs du volume marchand brut n'apparaissent pas directement. Le contenu de ces tables sert plutôt à appliquer des **modèles de prédiction de la hauteur et du volume marchand brut** d'un arbre. Les modèles de prédiction de la hauteur sont aussi développés localement à l’échelle d’unités de sondage. L’utilisation du produit nécessite la consultation du document [ « Modèles de prédiction de la hauteur et du volume marchand brut des arbres - Méthode et utilisation » ]( https://mrnf.gouv.qc.ca/nos-publications/modele-prediction-hauteur-volume/).\n\nEnfin, l’outil **PrediVol** permet aux utilisateurs et utilisatrices d’accéder plus facilement aux modèles de prédiction pour des placettes-échantillons (PE) à l’aide d’une interface conviviale et indépendante des systèmes d’information géographique (SIG).\n\n**📣 Recommandation de la Direction des inventaires forestiers :** il est préférable d’utiliser les modèles de prédiction de la hauteur et du volume marchand brut dans les territoires où ils sont disponibles. Un nouveau modèle de prédiction de la hauteur est disponible lorsqu’un territoire obtient des résultats de compilations forestières. En l'absence de ces modèles, il est toujours possible de recourir au tarif de cubage LIN3."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/24c8be98-a7d4-43e6-b7cb-a9c8c6808871"
+  ],
+  "dct_issued_s": "2016-06-07",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/24c8be98-a7d4-43e6-b7cb-a9c8c6808871\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Tarif de cubage et modèles de prédiction",
+  "gbl_mdModified_dt": "2026-09-30T18:01:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e260dbc0-2e46-56fd-99be-696e6680ea5b",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

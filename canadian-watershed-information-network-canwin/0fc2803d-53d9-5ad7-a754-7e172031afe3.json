@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Polygons and surfaces representing the extent of sidewalks on the territory of the city of Saint-Hyacinthe.\nTechnical drawing layer that does not represent the pedestrian network, but rather the sidewalk area.\n\n**Collection context**\n Technical drawing by civil engineering technicians.\nCollection by project from design plans or plans as built.\n\n**Collection method**\n Computer-aided technical drawings.\n\n**Attributes**\n\n* `ID_TROTTOIR_S` (`integer`): Identifier\n* `PRIVE` (`varchar`): Property\n* `TYPE` (`varchar`): Type\n* `ODO_INDEX_LONG` (`varchar`): Long odonym index\n* `ODO_INDEX_COURT` (`varchar`): Short odonym index\n* `ODO_LONG_COMPLETE` (`varchar`): Full long odonym\n* `ODO_COURT_COMPLETE` (`varchar`): Short odonym\n* `ODONYM` (`varchar`): Odonym\n* `COATING` (`nchar`): Coating\n* `ANNEE_INSTALL` (`nchar`): Year of installation\n* `LENGTH` (`numeric`): Length\n* `WIDTH` (`numeric`): Width\n* `AREA` (`numeric`): Area\n* `LOCATION` (`varchar`): Location\n* `NOTES` (`nvarchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad69be3f-52ff-46e2-b94e-8e09f611c4a1"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad69be3f-52ff-46e2-b94e-8e09f611c4a1\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Sidewalk surfaces - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T17:33:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0fc2803d-53d9-5ad7-a754-7e172031afe3",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

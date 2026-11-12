@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Mesoscale",
+    "Neurophotonics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lim, Diana (University of British Columbia).",
+    "LeDue, Jeffrey (University of British Columbia).",
+    "Murphy, Timothy H (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p>This package of sample data and matlab codes will process, filter, and average raw voltage sensitive dye images, generate a comprehensive connectivity matrix and a network diagram (as seen in Lim et al., 2012, 2014).</p>\r\n\r\n<p>Requirements: Matlab (with Bioinformatics Toolbox and Brain Connectivity Toolbox)</p>\r\n<p>Inputs: sample data; Matlab functions; Mask.tif (as included in .zip file)</p>\r\n<p>Outputs: dF/F0(%) VSD connectivity matrix; Figure of network properties as a function of threshold levels; Network diagram</p>\r\n\r\n<p>\r\nTo use this package: \r\n    <ol>\r\n        <li>Unzip data files and ensure all Matlab functions are in the same directory as the NetworkAnalysis_VSD.m</li>\r\n        <li>Open NetworkAnalysis_VSD.m with Matlab</li>\r\n        <li>In NetworkAnalysis_VSD.m, enter the folder name where the data is stored (line 5)</li>\r\n        <li>Execute code.</li>\r\n    </ol>\r\n</p>\r\n\r\n<p>\r\nSee corresponding articles: \r\nLim et al.(2012). In vivo Large-Scale Cortical Mapping Using Channelrhodopsin-2 Stimulation in Transgenic Mice Reveals Asymmetric and Reciprocal Relationships between Cortical Areas. Front Neural Circuits 6:11.\r\nLim et al.(2014). Optogenetic mapping after stroke reveals network-wide scaling of functional connections and heterogeneous recovery of the peri-infarct. J Neurosci 34:16455-16466.\r\n</p>\r\n\r\n<p>\r\nSee also: \r\nBrain connectivity toolbox: https://sites.google.com/site/bctnet/ \r\nRubinov and Sporns (2010). Complex network measures of brain connectivity: uses and interpretations. Neuroimage 52:1059-1069.\r\n</p>\r\n\r\n\r\n<p>Diana Lim and Jeffrey LeDue, University of British Columbia, 2015.</p>"
+  ],
+  "dct_identifier_sm": [
+    "77285_77194_77196",
+    "https://doi.org/10.5683/SP2/CCHOVV"
+  ],
+  "dct_issued_s": "2019-07-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/CCHOVV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Neurophotonics tutorial on making connectivity diagrams from Channelrhodopsin-2 stimulated data",
+  "gbl_mdModified_dt": "2019-07-24T17:35:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "aae65b7d-a440-513e-8a1c-e81e219b9c6d",
+  "pcdm_memberOf_sm": [
+    "The Dynamic Brain Circuits and Connections in Health and Disease research cluster // Timothy H Murphy"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

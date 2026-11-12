@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-62.77, -57.11, 51.54808067, 49.83)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A research survey on snow crab (Chionoecetes opilio) was conducted on the Lower North Shore of the Gulf of St. Lawrence between Havre-Saint-Pierre and Blanc-Sablon in 2018, 2022 and 2024. The main objective of this survey was to assess the abundance of snow crab and species associated with snow crab habitat. Only data for benthic and demersal species associated with snow crab habitat are presented in this dataset.\n\nData were collected according to a fixed station sampling design. A total of of 62 stations were sampled in 2018, 54 in 2022, and 46 in 2024, between 45 and 250 meters depth. Specimens were collected using a beam trawl with a total width of 2.8 meters and a total height of 0.76 meters. The codend was lined with a 16-17 millimeter stretched mesh net in order to harvest the small individuals. The hauls were made at a target speed of 2 knots and a target duration of 10 minutes depending on seabed conditions. Start and end positions were recorded to calculate the distance traveled on each tow using the geosphere library in R. The area covered at each tow was the product of the trawl opening and the distance traveled.\n\nThe two files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"Activity_Information\" file includes generic activity information, including date and location. The \"occurrence_taxon\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level.\n\nFor quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. All sampling locations were spatially validated.\n\nAbundance and density data for crabs under different size classes are available in a joint publication https://open.canada.ca/data/en/dataset/814e48c9-2dc7-4526-bd37-a4a120d66d6e"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8fbd81a4-ce4a-40e3-81f6-e2a5c44955de"
+  ],
+  "dct_issued_s": "2023-03-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8fbd81a4-ce4a-40e3-81f6-e2a5c44955de\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Biodiversity of the snow crab trawl survey on the Lower North Shore of the Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-09-24T20:00:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3f978dec-ebf8-51b3-ae33-d5ac8925631f",
+  "locn_geometry": "ENVELOPE(-62.77, -57.11, 51.54808067, 49.83)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

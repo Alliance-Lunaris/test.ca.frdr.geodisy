@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-136.0, -55.0, 76.0, 47.0)",
+  "dcat_keyword_sm": [
+    "atmosphere",
+    "clouds",
+    "oceansurfaceheatflux",
+    "oceans",
+    "flux-de-chaleur-oceanique-de-surface",
+    "beaufort-sea",
+    "cloudbase-height",
+    "and",
+    "arcticnet",
+    "amundsen-gulf",
+    "altitude",
+    "baffin-bay",
+    "canadian-arctic",
+    "atmospheric-composition",
+    "radiation",
+    "arcticnet",
+    "northwest-passage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données du célomètre prises dans la mer de Beaufort, dans le passage du Nord-Ouest, dans la baie de Baffin, dans l'Arctique canadien, ArcticNet 2016"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Candlish, Lauren.",
+    "Thériault, Nathalie."
+  ],
+  "dct_description_sm": [
+    "Raw backscatter data were collected from a CT25K ceilometer. A ceilometer is a device that uses a laser or other light source to determine the height of a cloud base. Ceilometers can also be used to measure the aerosol concentration within the atmosphere. Sampling took place from May to October 2016 in the Beaufort Sea, Northwest Passage, Baffin Bay (Canadian Arctic) during the cruise onboard the CCGS Amundsen icebreaker. The CT25K is designed to detect three cloud layers simultaneously up to around 18 000 ft, given suitable conditions. Besides cloud layers, it detects whether there is precipitation or other obstruction to vision. Output files were created hourly by the system and are in ASCII format.",
+    "Les données brutes de rétrodiffusion ont été collectées à partir d'un célomètre CT25K. Un célomètre est un appareil qui utilise un laser ou une autre source de lumière pour déterminer la hauteur d'une base nuageuse. Les célomètres peuvent également être utilisés pour mesurer la concentration d'aérosols dans l'atmosphère. L'échantillonnage a eu lieu de mai à octobre 2016 dans la mer de Beaufort, dans le passage du Nord-Ouest, dans la baie de Baffin (Arctique canadien) pendant la croisière à bord du brise-glace CCGS Amundsen. Le CT25K est conçu pour détecter trois couches nuageuses simultanément jusqu'à environ 18 000 pieds, dans des conditions appropriées. Outre les couches nuageuses, il détecte s'il y a des précipitations ou d'autres obstacles à la vision. Les fichiers de sortie ont été créés toutes les heures par le système et sont au format ASCII."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/62f30eef-e9ab-4e1a-9792-3309292fd43d"
+  ],
+  "dct_issued_s": "2017-09-15",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/62f30eef-e9ab-4e1a-9792-3309292fd43d\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ceilometer data taken in Beaufort Sea, Northwest Passage, Baffin Bay, Canadian Arctic, ArcticNet 2016",
+  "gbl_mdModified_dt": "2026-07-31T16:46:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d24781a3-0533-5ed9-ab83-a8086736fdaa",
+  "locn_geometry": "ENVELOPE(-136.0, -55.0, 76.0, 47.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

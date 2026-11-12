@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Anas strepera",
+    "Aythya ferina",
+    "Corine land cover",
+    "Podiceps nigricollis",
+    "Aythya fuligula",
+    "Global Consensus Land Cover",
+    "atlas data",
+    "Global Inland Water",
+    "Dibavod",
+    "Open street map",
+    "Anas crecca",
+    "Tachybaptus ruficollis",
+    "Podiceps cristatus",
+    "Spatial resolution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Petra, Šímová (Czech University of Life Sciences Prague).",
+    "Vítězslav, Moudrý (Czech University of Life Sciences Prague).",
+    "Jan, Komárek (Czech University of Life Sciences Prague).",
+    "Karel, Hrach (Czech University of Life Sciences Prague).",
+    "Marie-Josée, Fortin (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "While modelling habitat suitability and species distribution, ecologists must deal with issues related to the spatial resolution of species occurrence and environmental data. Indeed, given that the spatial resolution of species and environmental datasets range from centimeters to hundreds of kilometers, it underlines the importance of choosing the optimal combination of resolutions to achieve the highest possible modelling prediction accuracy. We evaluated how the spatial resolution of land cover/waterbody datasets (meters to 1 km) affect waterbird habitat suitability models based on atlas data (grid cell of 12×11 km). We hypothesized that the area, perimeter and number of waterbodies computed from high resolution datasets would explain distributions of waterbirds better because coarse resolution datasets omit small waterbodies affecting species occurrence. Specifically, we investigated which spatial resolution of waterbodies better explain the distribution of seven waterbirds nesting on ponds/lakes with areas ranging from 0.1 ha to hundreds of hectares. Our results show that the area and perimeter of waterbodies derived from high resolution datasets (raster data with 30 m resolution, vector data corresponding with map scale 1:10,000) explain the distribution of the waterbirds better than those calculated using less accurate datasets despite the coarse grain of the species data. Taking into account the spatial extent (global vs regional) of the datasets, we found the Global Inland Waterbody Dataset to be the most suitable for modelling distribution of waterbirds. In general, we recommend using land cover data of a resolution sufficient to capture the smallest patches of the habitat suitable for a given species’ presence for both fine and coarse grain habitat suitability and distribution modelling."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.q8m165t",
+    "https://doi.org/10.5061/dryad.q8m165t"
+  ],
+  "dct_issued_s": "2018-09-18",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.q8m165t\"}",
+  "dct_spatial_sm": [
+    "Czechia"
+  ],
+  "dct_title_s": "Data from: Fine scale waterbody data improve prediction of waterbird occurrence despite coarse species data",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a03f28fd-92c2-5a9c-85c7-4491bd8ef9a2",
+  "schema_provider_s": "Dryad"
+}

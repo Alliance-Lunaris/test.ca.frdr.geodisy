@@ -1,0 +1,46 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Baier, Florian (University of British Columbia).",
+    "Hong, Nansook (Australian National University).",
+    "Yang, Gloria (University of British Columbia).",
+    "Pabis, Anna (Uppsala University).",
+    "Miton, Charlotte M. (University of British Columbia).",
+    "Barrozo, Alexandre (Uppsala University).",
+    "Carr, Paul D. (Australian National University).",
+    "Kamerlin, Shina C. L. (Uppsala University).",
+    "Jackson, Colin J. (Australian National University).",
+    "Tokuriki, Nobuhiko (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/3oWonV71I1iVnRdTs11-veZr7BeF9FsamDu8DbQJZjQ</p>\n<p><b>Storage size:</b> 3023554</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Genetic variation among orthologous proteins can cause cryptic phenotypic properties that only manifest in changing environments. Such variation may impact the evolvability of proteins, but the underlying molecular basis remains unclear. Here, we performed comparative directed evolution of four orthologous metallo-β-lactamases toward a new function and found that different starting genotypes evolved to distinct evolutionary outcomes. Despite a low initial fitness, one ortholog reached a significantly higher fitness plateau than its counterparts, via increasing catalytic activity. By contrast, the ortholog with the highest initial activity evolved to a less-optimal and phenotypically distinct outcome through changes in expression, oligomerization and activity. We show how cryptic molecular properties and conformational variation of active site residues in the initial genotypes cause epistasis, that could lead to distinct evolutionary outcomes. Our work highlights th\r\ne importance of understanding the molecular details that connect genetic variation to protein function to improve the prediction of protein evolution.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Representative MD structures and setup files</h4><div class=\"o-metadata__file-description\">The data package contains: 1. PDB files with representative structures of top clusters, with clustering performed using RMSD as a similarity measure between the structures in simulated trajectories. 2. Topologies, input structures and files containing additional parameters and settings used in the simulations for each simulated system. 3. Sample inputs for a single MD run. Detailed description of the contents of the data package can be found in the README file.</div><div class=\"o-metadata__file-name\">Dryad_package.zip</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151576_1226260_150149",
+    "https://doi.org/10.5683/SP2/F1LWEC"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/F1LWEC\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Cryptic genetic variation shapes the adaptive evolutionary potential of enzymes",
+  "gbl_mdModified_dt": "2021-05-19T23:28:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fbcb2352-957f-53ec-b376-21aa530e05e9",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "e-bike trip",
+    "University of Waterloo",
+    "WeBike",
+    "e-bike",
+    "ISS4E"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "C. Gorenflo.",
+    "I.Rios.",
+    "L. Golab.",
+    "Costin Ograda-Bratu.",
+    "S. Huo.",
+    "S. Keshav."
+  ],
+  "dct_description_sm": [
+    "<p><b>Data Owner</b>: C. Gorenflo, I.Rios, L. Golab, S. Keshav </p>\n\n<p><b>Data Description</b>: This dataset contains data collected through the University of Waterloo’s WeBike field trial, which includes e-bike trips and battery charging sessions spanning from summer 2014 until spring 2017. 31 participants were each given an e-bike, and the e-bikes are monitored by our custom-built kit. The Samsung Galaxy S-III smart phone provides the angular speed and acceleration in all 3 axes through Android’s standard API; Phidget voltage sensor measures the battery voltage, a Phidget current transducer measures the battery charging current, a Digikey current transducer measures the battery discharge current, and a Digikey sensor measures the temperature of the battery. The smart phones are configured the smart phones to wake up for 4 seconds every minute and collect four data samples, one per second, from all the sensors. </p>\n\n<p>More information can be found at:  <a href=\"https://iss4e.ca/webike-software/\">https://iss4e.ca/webike-software/ </a>and <a href=\"https://iss4e.ca/webike-a-three-year-study-on-e-bikes-as-a-mode-of-sustainable-transport-in-a-canadian-city/\">https://iss4e.ca/webike-a-three-year-study-on-e-bikes-as-a-mode-of-sustainable-transport-in-a-canadian-city/</a></p>\n\n<p>To identify trip activities and battery charging sessions from the raw data in webike.json, you can follow the activity detection algorithm provided in Section 4.1 of Usage Patterns of Electric Bicycles: An Analysis of the WeBike Project, (<a href=\"https://www.hindawi.com/journals/jat/2017/3739505/\">https://www.hindawi.com/journals/jat/2017/3739505/</a>), and the scripts we used can be found at: <a href=\"https://github.com/iss4e\">https://github.com/iss4e.</a></p>\n\n<ul>\n<li><b>time</b>:\tTimestamp of the data collected  </li>\n<li><b>acceleration_x</b>:\tAcceleration in x axis  </li>\n<li><b>acceleration_y</b>:\tAcceleration in y axis  </li>\n<li><b>acceleration_z</b>:\tAcceleration in z axis  </li>\n<li><b>ambient_temperature</b>:\tAmbient Temperature  </li>\n<li><b>atmospheric_pressure</b>:\tAtmospheric Pressure  </li>\n<li><b>battery_temperature</b>:\tTemperature inside box (from a sensor in the telemetry box, in Celsius)  </li>\n<li><b>charging_current</b>:\tCharging current (using Phidget sensor, is reported as a float value. To convert reported value to Amperes use: Charging Current (in A) = Sensor Value * 0.05. Therefore, a sensor value of 400 implies a charging current \n  of 2 A)  </li>\n<li><b>code_version</b>:\tVersion of our software stack source code  </li>\n<li><b>discharge_current</b>:\tDischarging current (using ISS4E built sensor): Discharge Current (A) = (Sensor Value-504)*0.033 (the value 504 is the value displayed by the sensor for 0 Amps; it can vary slightly, +/- few units, so adjust accordingly)  </li>\n<li><b>gravitational_acceleration</b>:\tGravitational acceleration  </li>\n<li><b>gyroscope_x</b>:\tAngular speed in x axis  </li>\n<li><b>gyroscope_y</b>:\tAngular speed in y axis  </li>\n<li><b>gyroscope_z</b>:\tAngular speed in z axis  </li>\n<li><b>light_level</b>:\tLight level in lux  </li>\n<li><b>linear_acceleration_x</b>:\tLinear acceleration in x axis  </li>\n<li><b>linear_acceleration_y</b>:\tLinear acceleration in y axis  </li>\n<li><b>linear_acceleration_z</b>:\tLinear acceleration in z axis  </li>\n<li><b>magnetic_field_x</b>:\tMagnetic field in x axis  </li>\n<li><b>magnetic_field_y</b>:\tMagnetic field in y axis  </li>\n<li><b>magnetic_field_z</b>:\tMagnetic field in z axis  </li>\n<li><b>phone_battery_state</b>:\tThe state the battery of the phone is in  \n<li><b>proximity_sensor</b>:\tProximity Sensor  </li>\n<li><b>voltage</b>:\tBattery voltage (using phidget sensor, in V): The actual voltage is 32/22 times the value read by the sensor  </li>\n<li><b>phone_battery_percentage</b>:\tPercentage of battery left  </li>\n<li><b>phone_charging_or_full</b>:\tIs phone charging or full  </li>\n<li><b>phone_is_AC_charge</b>:\tDoes phone charge with AC adapter  </li>\n<li><b>phone_is_USB_charge</b>:\tDoes phone charge with USB  </li>\n<li><b>rotation_scalar</b>:\tRotation scalar  </li>\n<li><b>rotation_x</b>:\tRotation in x axis  </li>\n<li><b>rotation_y</b>:\tRotation in y axis  </li>\n<li><b>rotation_z</b>:\tRotation in z axis  </li>\n</ul>\n\n<p><b>Funding</b>: Cisco Systems and the Natural Science and Engineering Research Council of Canada (NSERC).</p>"
+  ],
+  "dct_identifier_sm": [
+    "130579",
+    "https://doi.org/10.5683/SP2/7OAETS"
+  ],
+  "dct_issued_s": "2020-11-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/7OAETS\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Webike",
+  "gbl_mdModified_dt": "2020-12-07T19:26:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "04f69253-44ec-512d-a5be-46edebfaff21",
+  "schema_provider_s": "University of Waterloo Dataverse"
+}

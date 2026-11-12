@@ -1,0 +1,77 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Amérique du Nord",
+    "Geographic data",
+    "Données géographiques",
+    "Hémisphère nord",
+    "remote sensing",
+    "Canada",
+    "zones humides",
+    "North America",
+    "Water management",
+    "Canada",
+    "gestion de l'eau",
+    "Remote sensing",
+    "Water conservation",
+    "Floods",
+    "Northern Hemisphere",
+    "Western Hemisphere",
+    "eau",
+    "Conservation de l'eau",
+    "wetlands",
+    "water management",
+    "water",
+    "fréquence d'inondation",
+    "Eau",
+    "inondations",
+    "télédétection",
+    "floods",
+    "Gestion de l'eau",
+    "Inondation",
+    "Hémisphère ouest",
+    "Zone humide",
+    "Landsat",
+    "Landsat",
+    "Water",
+    "Wetlands",
+    "Télédétection",
+    "inundation frequency"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartes des eaux de surface dynamiques du Canada à partir d'imagerie satellite Landsat de 1984 à 2023"
+  ],
+  "dct_creator_sm": [
+    "Thomas Rainville."
+  ],
+  "dct_description_sm": [
+    "Knowledge of the location of Earth’s surface water in time and space is critical to inform policy decisions on environment, wildlife, and human security. Dynamic surface water maps generally represent water occurrence, also referred to as inundation frequency, depicting the percentage of valid observations when water is detected at the surface. The location and duration of surface water varies from areas of permanent water with 100% inundation frequency where water is always observed, to areas of permanent land with 0% inundation where water never occurs. Between these two extremes are areas of ephemeral water that experience periodic flooding with inundation frequencies between 0-100%. National-scale dynamic surface water information was generated for years 1984-2023 at 30m spatial resolution from the historical Landsat archive over Canada. The complete dataset consists of annual water maps and derived products including inundation frequency and inter-annual wetting and drying trends calculated using per-pixel logistic regression. The complete dataset enables an assessment of the timing, duration, and trends towards wetting or drying at regional to national scales.  \n  \n  Associated publication:  \n  \n  https://www.sciencedirect.com/science/article/pii/S0034425722002358",
+    "Connaître l’emplacement des eaux de surface de la Terre dans le temps et l'espace est essentielle pour éclairer les décisions politiques en matière d'environnement, de faune, et de sécurité des personnes. Les cartes des eaux de surface dynamiques représentent généralement l'occurrence de l'eau, également appelée fréquence d'inondation, en représentant le pourcentage d'observations valides où l'eau est détectée à la surface. L'emplacement et la persistance de l'eau de surface varient de zones d'eau permanente avec une fréquence d'inondation de 100 % où l'eau est toujours observée, à des zones de terre permanente avec une fréquence d'inondation de 0 % où il n’y a jamais d'eau. Entre ces deux extrêmes se trouvent des zones d'eau intermittente qui connaissent des inondations périodiques avec des fréquences d'inondation comprises entre 0 et 100 %. Les cartes des eaux de surface dynamiques du Canada ont été générées à partir des archives historiques Landsat de 1984 à 2023 au-dessus du Canada, dont la résolution spatiale est de 30 m. Le jeu de données complet contient l'eau annuelle et les produits dérivés, y compris la fréquence d'inondation et les tendances inter-annuelles d'humidification et d'assèchement calculées à l'aide d'une régression logistique par pixel. Le jeu de données complet permet d'évaluer le moment, la durée, et les tendances à l'humidification ou à l'assèchement à l'échelle régionale et nationale.  \n  \n  Publication associée:  \n  \n  https://www.sciencedirect.com/science/article/pii/S0034425722002358"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/62de5952-a5eb-4859-b086-22a8ba8024b8"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/62de5952-a5eb-4859-b086-22a8ba8024b8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery",
+  "gbl_mdModified_dt": "2024-05-30T18:48:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8426b5b9-a90c-58e7-b798-2bc5cbef7a44",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

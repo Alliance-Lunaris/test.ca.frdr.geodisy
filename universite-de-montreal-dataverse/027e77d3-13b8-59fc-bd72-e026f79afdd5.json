@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(71.249, 71.249, 48.233, 48.233)",
+  "dcat_keyword_sm": [
+    "primary production",
+    "PARAFAC",
+    "bacterial metabolism",
+    "winter limnology",
+    "boreal lake"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kivilä, E Henriikka (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0003-3272-0128",
+    "Prėskienis, Vilmantas (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0002-8176-2263",
+    "Boulianne, Jean-Simon (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0009-0003-8006-4396",
+    "Rautio, Milla (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0002-2375-9082"
+  ],
+  "dct_description_sm": [
+    "The SIM_limnodata file includes following variables and respective units: Date (dd.mm.yy), Depth (m), Replicate (#), Black_ice (cm), White_ice (cm), Total_ice (cm), Snow (cm), Temperature (°C), specific conductivity - SpCond (µS/cm), dissolved oxygen saturation - O2sat (%), dissolved oxygen concentration - O2conc (mg/L), pH (no unit), total nitrogen - TN (mg/L), total phosphorus - TP (µg/L), soluble reactive phosphorus - SRP (µg/L), nitrate - NO3 (µg/L), dissolved inorganic carbon - DIC (mg/L), dissolved organic carbon - DOC (mg/L), specific ultraviolet absorbance at 254 nm - SUVA_254 (L/(mg C*m)), absorbance coefficient at 320 nm - a320 (m-1), absorbance coefficient at 440 nm - a440 (m-1), PARAFAC fluorophore 1 - C1 (R.U.), PARAFAC fluorophore 2 - C2 (R.U.), PARAFAC fluorophore 3 - C3 (R.U.), PARAFAC fluorophore 4 - C4 (R.U.), fluorescent dissolved organic matter - FDOM (R.U.), Chlorophyll-a - Chl_a (µg/L), bacterial respiration - BR (µgC/L/day), bacterial production - BP (µgC/L/day), bacterial growth efficiency - BGE (no unit), primary production - PP (mgC/m3/h), maximum primary production - Pmax (mgC/m3/h)\n\nThe SIM_raebox file includes following variables and respective units: Date (dd.mm.yy), Depth (m), Replicate (#), primary production measurement in each vial - PP_Rae (mgC/m3/h), incoming light per vial as percentage - PP_light% (%),  incoming light per vial as photoactive radiation - PAR (µmol (photons)/m2/s). PAR values for Apr 26th 2021 are estimated. All incubations were performed on days with full sun and represent the maximum primary production.",
+    "This dataset comprises limnological data from 5 depths under the ice of boreal lake Simoncouche during winter 2020-2021, as well as the respective overturns where sampling was conducted on integrated water column. Included information covers physico-chemical variables, nutrient concentrations, dissolved carbon quantity (DOC, DIC) and quality (spectral indices, PARAFAC), bacterial production, bacterial respiration and primary production. In addition to in situ measurements, maximum primary production and light-response curves were defined with incubations along a light gradient, this data is provided in a separate file. The available data is discussed in publication \"Variability in lake bacterial growth and primary production under lake ice: Evidence from early winter to spring melt\" http://doi.org/10.1002/lno.12447."
+  ],
+  "dct_identifier_sm": [
+    "659590_281357_281358",
+    "https://doi.org/10.5683/SP3/AWHLCK"
+  ],
+  "dct_issued_s": "2023-10-13",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AWHLCK\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Saguenay, Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Limnological data from lake Simoncouche (Saguenay, QC, Canada) during winter 2020-2021",
+  "gbl_mdModified_dt": "2023-12-08T13:37:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "027e77d3-13b8-59fc-bd72-e026f79afdd5",
+  "locn_geometry": "ENVELOPE(71.249, 71.249, 48.233, 48.233)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

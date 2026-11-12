@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.1, -123.04, 49.33, 49.29)",
+  "dcat_keyword_sm": [
+    "NDGRI",
+    "Lawn",
+    "Non-Lawn",
+    "RF Classification and the City of North Vancouver",
+    "Residential Lawns"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Arade, Rama (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Residential lawns represent a dominant but overlooked component of urban green infrastructure,\nwhile influencing biodiversity, habitat connectivity, and ecosystem function. Despite their\nwidespread presence, residential lawns are rarely quantified at the municipal scale due to limitations in spatial data and classification methods. This study aimed to identify, map, and quantify lawn coverage in the City of North Vancouver using high-resolution aerial imagery and remote sensing techniques. A Random Forest (RF) supervised classification method was applied to multi spectral imagery to distinguish between lawn and non-lawn land cover types. While the NDGRI index was derived from available spectral bands were used to improve classification accuracy, followed by pixel-based analysis to calculate total lawn area and percentage across the municipality. The North Vancouver orthophoto was clipped to the municipal boundary and converted into binary dataset to support area calculations and spatial distribution analysis. The results indicated that lawns covered approximately 21% of the total land cover of the City of North Vancouver. These findings highlight the ecological significance of residential lawns as part of urban green infrastructure and demonstrate usefulness of remote sensing for mapping fine-scale vegetation patterns. This study provides a framework for quantifying residential lawns and supports urban planning strategies aimed at improving biodiversity, reducing habitat fragmentation, and enhancing ecosystem services in rapidly growing municipalities like North Vancouver.\n\n\n\nResidential Lawns are lawns that located in residential areas such as houses and apartment complex's.\nNon-Lawn are surfaces such as housing infrastructure, gravel, and soil.\nA Lawn is area of land covered with grass or other growing plants.\nNDGRI stands for the Normalized Difference Green-Red Index, which is the vegetation indices used in this analysis.\nRF Classification refers to Random Forest Classification, a supervised machine learning technique used this analysis and throughout remote sensing. \nThe City of North Vancouver is the area of interest in this analysis and is municipality  located on the north shore of Burrard Inlet."
+  ],
+  "dct_identifier_sm": [
+    "1146114_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/BJWCXB"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BJWCXB\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "North Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Identifying and Quantifying Residential Lawns in North Vancouver, British Columbia",
+  "gbl_mdModified_dt": "2026-05-19T21:55:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "30295382-3bd3-55a4-9a0e-9f8bed3603cf",
+  "locn_geometry": "ENVELOPE(-123.1, -123.04, 49.33, 49.29)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

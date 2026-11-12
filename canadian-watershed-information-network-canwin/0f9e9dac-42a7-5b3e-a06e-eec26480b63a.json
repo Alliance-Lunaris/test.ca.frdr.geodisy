@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "In a context of numerous projects, Montreal has made every effort to improve the mobility of users, all modes of transport combined. The [MTL Trajet] application (https://ville.montreal.qc.ca/mtltrajet/) is one of the many measures put forward to better understand and facilitate travel in Montreal.\n\nThis set contains the filtered data collected during this study. The data is divided into two different sets to offer the maximum amount of data without compromising the confidentiality of users of the MTL Trajet application.\n\n__Points__\n\nThe “points_mtl_trip” data set includes each of the points, with an acceptable positioning quality, collected during the MTL Trajet travel survey. These points have been treated and filtered to remove all sensitive items on a user.\n\n__Rides__ \n\nThis file includes each of the paths obtained using the filtered data. This file is therefore an agglomeration of points into segments making it possible to define the routes of users. These segments were produced using the OSRM routing engine in order to identify points on the networks (lanes, bike paths, subway, suburban train). In order to protect the privacy of users of the application, the information allowing trips to be linked to users has been removed. These trips are then complete; on the other hand, it is impossible to determine whether two trips were made by the same user.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/955de068-9556-4aa1-980e-487b057bbc9d"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/955de068-9556-4aa1-980e-487b057bbc9d\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "MTL Trajet travel",
+  "gbl_mdModified_dt": "2026-10-07T18:01:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0f9e9dac-42a7-5b3e-a06e-eec26480b63a",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

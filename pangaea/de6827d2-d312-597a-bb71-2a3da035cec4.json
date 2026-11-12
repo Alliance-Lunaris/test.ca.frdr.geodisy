@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-41.79329999999999, -9.986017000000004, -49.051333, -54.181917)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bahl, Alexis A (University of British Columbia, Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia). ORCID: https://orcid.org/0000-0002-8575-2679",
+    "Lüskow, Florian (Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia, University of British Columbia, Uppsala University). ORCID: https://orcid.org/0000-0002-2100-7012",
+    "Konrad, Christian (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0001-6789-4801",
+    "Iversen, Morten Hvitfeldt (MARUM - Center for Marine Environmental Sciences, University Bremen, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-5287-1110",
+    "Pakhomov, Evgeny A (University of British Columbia, Department of Earth, Ocean & Atmospheric Sciences, University of British Columbia, Institute for the Oceans and Fisheries, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "This dataset reports depth-resolved abundances of meso- and macrozooplankton observed in situ by JellyCam, a low-light optical imaging system mounted on the ROSINA (Remotely ObServing INsitu camera for Aggregates) profiling platform, during RV Polarstern expedition PS133/1 in the Atlantic sector of the Southern Ocean (49-54°S, 10-42°W) in austral spring 2022. Six stations were profiled, each with one downcast and one upcast, giving 12 casts; ten casts covered 0-600 m and the two casts at station 14-18 covered 0-220 m. Every frame was screened by the lead analyst and every candidate organism was independently reviewed by a second analyst, who verified the detection and its taxonomic assignment and removed duplicate appearances of the same organism within each 1-m vertical window. 25,336 frames were captured and 2,512 verified detections retained, resolved to 12 taxonomic groups spanning gelatinous zooplankton (Ctenophora, Medusae, Siphonophora, Thaliacea) and crustacean and other non-gelatinous taxa. One record is one cast, one sampled 1-m depth interval and one taxonomic group; the grid is complete (7,200 records per 600-m cast, 2,640 per 220-m cast, 77,280 in total) and a zero is a sampled, reviewed non-detection, not a missing value, so zeros must be retained when averaging. Imaged volume is derived from the in-water optical calibration: an empirical pixel-to-length scale of 361 ± 18 µm per pixel, obtained from five Euphausia triacantha imaged by JellyCam and measured after net retrieval, gives a horizontal field of view of 0.7393 m across the 2048 × 1536 pixel sensor; combined with an in-water depth of field of 0.36 m this yields a sampling cross-section of 0.266148 m². Because the vertical field of view is aligned with the profiling direction, the instrument sweeps a continuous rectangular column: the imaged volume of a 1-m interval is 0.266148 m³ and the volume of a 600-m cast is 159.6888 m³ (58.55256 m³ for the two 220-m casts). Volumetric abundance is detections divided by cast volume; areal abundance is detections divided by the cross-sectional area. Each cast carries the diel classification recorded in the shipboard deployment log, which is the observed variable. The data were generated to quantify the systematic underestimation of fragile gelatinous zooplankton by net-based sampling relative to optical imaging, and to compare community composition and vertical structure across gears; the paired net (RMT-8, IKMT) abundances are archived in the companion dataset (doi:10.1594/PANGAEA.996153). Individual Salpa thompsoni characteristics from the same expedition are archived in doi:10.1594/PANGAEA.973501, and the ship CTD-Rosette physical oceanography in doi:10.1594/PANGAEA.962314. Each taxonomic group is linked to a WoRMS AphiaID (https://www.marinespecies.org)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.996149",
+    "https://doi.org/10.1594/pangaea.996149"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.996149\"}",
+  "dct_subject_sm": [
+    "PS133/1",
+    "Depth, water, bottom/maximum",
+    "Polarstern",
+    "Taxon/taxa, unique identification",
+    "gelatinous zooplankton",
+    "Cast number",
+    "Volume",
+    "Station label",
+    "Southern Ocean",
+    "zooplankton community",
+    "Time of day",
+    "Remotely ObServing INsitu camera for Aggregates",
+    "net sampling",
+    "Temperature, water",
+    "DATE/TIME",
+    "Direction",
+    "Speed, velocity",
+    "Taxon/taxa",
+    "optical imaging",
+    "Area",
+    "Number of individuals",
+    "Gear",
+    "Depth, bathymetric",
+    "DEPTH, water",
+    "Pair ID",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label"
+  ],
+  "dct_title_s": "Southern Ocean zooplankton community abundance from JellyCam optical imaging, RV Polarstern expedition PS133/1, austral spring 2022",
+  "gbl_mdModified_dt": "2026-09-18T03:55:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "de6827d2-d312-597a-bb71-2a3da035cec4",
+  "locn_geometry": "ENVELOPE(-41.79329999999999, -9.986017000000004, -49.051333, -54.181917)",
+  "schema_provider_s": "PANGAEA"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0176, -89.0, 60.0, 45.9314)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This is the web experience created using ArcGIS Web Experience Builder to portray the dynamic precipitation maps derived using various weather model data published by the Environment Canada, National Oceanic and Atmospheric Administration and European Centre for Medium-Range Weather Forecasts. It contains various precipitation layers for each of the models depicting various forecast periods / observation periods. The underlying data is updated regularly as the data gets published by ECCC/NOAA/ECMWF as per the publishing frequency.\n\nFollowing are the forecast weather models depicted in this Web Experience : HRDPS Model (High Resolution Deterministic Prediction System - Continental) for 24 and 48 hours of forecast periods. Regional Ensemble Prediction System (REPS) for 72 hours of forecast period hour. Regional Deterministic Prediction System (RDPS) for 84 hours of forecast period hour. Global Deterministic Prediction System (GDPS) for 168 and 240 hours of forecast periods. Global Forecast System (GFS) for 168 hours of forecast period. Global Ensemble Prediction System (GEPS) for 168 and 384 hours of forecast period. European Centre for Medium-Range Weather Forecasts for 168 hours of forecast periodAnd following are the observed weather models depicted in this Web Experience :High Resolution Deterministic Precipitation Analysis (HRDPA) with observation periods of the past 1 day, 3 days and 7 days.Special Thanks to Environment and Climate Change Canada, NOAA’s National Centers for Environmental Prediction, European Centre for Medium-Range Weather Forecasts"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b489e764-82f8-fe11-f202-1e1c1941aed9"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b489e764-82f8-fe11-f202-1e1c1941aed9\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Dynamic Precipitation Maps - Experience Builder - A Product of The Hydrologic Forecast Centre",
+  "gbl_mdModified_dt": "2026-06-12T13:12:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d26d5b16-4b58-536a-97e2-1549bfed873e",
+  "locn_geometry": "ENVELOPE(-120.0176, -89.0, 60.0, 45.9314)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

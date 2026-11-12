@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Please note that a web service is currently under development and will be launched in summer 2026. To be informed as soon as it is posted online and to stay up to date with geospatial news, subscribe to our newsletter [ActuGéo.] (https://mrnf.gouv.qc.ca/ministere/cartes-information-geographique/repertoire-services-web-donnees-geographiques/actugeo/)\n\nThe Quebec Road Network Reference System (RQRR) includes all roads in Quebec as well as several descriptive attributes relating to the characteristics of the road, in particular the following main components:\n\n* The name of the street (odonym)\n\n* Course management (e.g.: speeds, bans on turns, direction of traffic)\n\n* Structures\n\n* Address ranges\n\n* The name and code of the municipality\n\n* Road management\n\n* The date of creation, modification and withdrawal\n\n* Etc.\n\nThe RQRR is the result of the integration of data in collaboration with the municipal sector and production partners: Élections Québec, the Ministry of Municipal Affairs and Housing, and the Ministry of Transport and Sustainable Mobility.\n\nThis data includes municipal and higher road networks (highways, boulevards, etc.) geolocated. This repository is updated monthly, and is available in a single file format (*flat file*).\n\nA [CSV file] (https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/Odonymes_Renvois/CSV/Odonymes_renvois.csv) containing all the odonyms as well as the references is also available in the data section below. Referrals allow you to track changes in street names. \n\nThe RQRR can be used in addition to the [Quebec Address Repository (RQA)] (https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-des-adresses). \n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5d875628-c276-4f5b-9c76-d8c46ee20a66"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5d875628-c276-4f5b-9c76-d8c46ee20a66\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Quebec road network reference system",
+  "gbl_mdModified_dt": "2026-10-07T17:33:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b8057626-b84b-5113-968f-f9eb5c368490",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

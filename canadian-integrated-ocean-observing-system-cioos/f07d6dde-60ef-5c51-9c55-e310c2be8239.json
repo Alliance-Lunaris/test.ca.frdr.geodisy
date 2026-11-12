@@ -1,0 +1,63 @@
+{
+  "dcat_bbox": "ENVELOPE(-89.1118, -75.3632, 78.2218, 72.7845)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "Oceans",
+    "other",
+    "turbidity",
+    "ocean temperature",
+    "Canadian Arctic",
+    "CTD profiles",
+    "PAR",
+    "Oxygène",
+    "dissolved oxygen",
+    "subSurfaceSalinity",
+    "chlorophyll a",
+    "subSurfaceTemperature",
+    "Baffin Bay",
+    "oxygen",
+    "ocean salinity",
+    "Ausuittuq, Nunavut",
+    "Grise Fiord, Nunavut",
+    "Baffin Island",
+    "community-led environmental monitoring",
+    "Salinité sous la surface",
+    "ocean profiles",
+    "Jones Sound, Nunavut",
+    "Qikiqtaaluk Region",
+    "Autre",
+    "Ellesmere Island",
+    "Devon Island"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Profils CTD océaniques de Jones Sound, au Nunavut et des eaux adjacentes, collectés dans le cadre du projet Ice2Ocean"
+  ],
+  "dct_creator_sm": [
+    "Ice2Ocean Team."
+  ],
+  "dct_description_sm": [
+    "This dataset contains a compilation of conductivity, temperature, and depth (CTD) profiles collected in Jones Sound and surrounding waterways by the collaborative Ice2Ocean project from 2019 onwards. The data were collected to support various research projects investigating the physical oceanography of Jones Sound, northern Baffin Bay, and surrounding waterways, with a focus on understanding changing coastal ocean conditions in the High Arctic, glacier-ocean interactions, and ocean biogeochemistry.   \n\nProfiles were collected year-round as part of a partnership with the community of Ausuittuq (Grise Fiord) through augered holes in the sea ice at sites accessed by snowmobiles, or from small vessels during the open water season, including numerous local vessels, the polar yacht Vagabond, and the Government of Nunavut research vessel Nuliajuk. Full depth profiles of the water column were obtained along repeat transects by lowering an RBR CTD from the surface to the sea floor using a manual winch. The CTD was outfitted with external sensors for dissolved oxygen, chlorophyll a, turbidity, and photosynthetically-active radiation (PAR) and these fields are included in the dataset. Raw temperature and salinity data were processed in MATLAB by applying a low-pass filter and all fields were binned to 0.5 m depth bins. The external sensors fields have not undergone extensive quality control and require further assessment. Only downcasts are included in the dataset. Water bottle samples were collected at various depths at many of the CTD stations (bottle data is not included here).   \n  \nThe CTD data included in this archive is part of an ongoing field program and will be updated annually.  \n[Biogeochemistry data from Jones Sound and Nares Strait, 2021](https://catalogue.ogsl.ca/en/dataset/ca-cioos_9142525c-f0fd-4410-8461-3c496322a8b5) are also available.\n\nFor further information on this dataset please contact Andrew K. Hamilton ([akhamilton@ualberta.ca](mailto:akhamilton@ualberta.ca))",
+    "Cet ensemble de données contient une compilation des profils de conductivité, de température et de profondeur (CTD) collectés dans le détroit de Jones et les cours d'eau environnants par le projet collaboratif Ice2Ocean à partir de 2019. Les données ont été recueillies pour soutenir divers projets de recherche portant sur l'océanographie physique du détroit de Jones, du nord de la baie de Baffin et des voies navigables environnantes, dans le but de comprendre l'évolution des conditions océaniques côtières dans l'Extrême-Arctique, les interactions entre les glaciers et les océans et la biogéochimie des océans.   \n\nLes profils ont été recueillis toute l'année dans le cadre d'un partenariat avec la communauté d'Ausittuq (Grise Fiord) à travers des trous creusés dans la glace de mer sur des sites accessibles en motoneige, ou à partir de petits navires pendant la saison des eaux libres, y compris de nombreux navires locaux, le yacht polaire Vagabond et le navire de recherche du gouvernement du Nunavut Nuliajuk. Des profils de profondeur complets de la colonne d'eau ont été obtenus le long de transects répétés en abaissant un RBR CTD de la surface au fond de la mer à l'aide d'un treuil manuel. La CTD était équipée de capteurs externes pour l'oxygène dissous, la chlorophylle a, la turbidité et le rayonnement photosynthétiquement actif (PAR) et ces champs sont inclus dans l'ensemble de données. Les données brutes de température et de salinité ont été traitées dans MATLAB en appliquant un filtre 'Low-pass' et tous les champs ont été moyennés sur la profondeur avec un pas de 0,5m. Les mesures de capteurs externes n'ont pas fait l'objet de contrôles de qualité approfondis et nécessitent une évaluation plus approfondie. Seules les mesures de descente de la CTD sont incluses dans l'ensemble de données. Des échantillons d'eau de bouteilles ont été prélevés à différentes profondeurs dans de nombreuses stations CTD (les données sur les bouteilles ne sont pas incluses ici).   \n\nLes données CTD incluses dans cette archive font partie d'un programme de terrain en cours et seront mises à jour chaque année.\n[Les données biogéochimiques du détroit de Jones et du détroit de Nares, 2021](https://catalogue.ogsl.ca/fr/dataset/ca-cioos_9142525c-f0fd-4410-8461-3c496322a8b5) sont aussi disponibles.\n\nPour plus d'informations sur ce jeu de données, merci de contacter Andrew K. Hamilton ([akhamilton@ualberta.ca](mailto:akhamilton@ualberta.ca))"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a3cd310a-e09d-472b-9e32-4058c6ff2a6a"
+  ],
+  "dct_issued_s": "2019-07-29",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a3cd310a-e09d-472b-9e32-4058c6ff2a6a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ocean CTD Profiles From Jones Sound, Nunavut and Adjacent Waters Collected During The Ice2Ocean Project",
+  "gbl_mdModified_dt": "2026-07-31T16:37:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f07d6dde-60ef-5c51-9c55-e310c2be8239",
+  "locn_geometry": "ENVELOPE(-89.1118, -75.3632, 78.2218, 72.7845)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

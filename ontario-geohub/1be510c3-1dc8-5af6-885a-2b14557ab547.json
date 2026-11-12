@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-107.43408203124261, -62.565917968754526, 57.54417318055708, 40.23598410628098)",
+  "dcat_keyword_sm": [
+    "Digital Terrain Model",
+    "Digital Surface Model",
+    "spaceborne",
+    "FGD",
+    "Digital Elevation Model",
+    "Ministry of Natural Resources",
+    "Ontario Radar Digital Surface Model",
+    "MNR",
+    "Elevation",
+    "C-Band",
+    "ORDSM_en",
+    "Shuttle Radar Topography Mission",
+    "ODCSYNC",
+    "interferometric radar",
+    "Digital Data Information and Business Services Branch",
+    "GeospatialOntario",
+    "open data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "Zoom in on the map above and click your area of interest to determine which package(s) you require for download.\n<br /><br />\nThe Ontario Radar DSM has the following features:<br />\n<ul>\n<li>source data: 1 arc second spaceborne C-Band Interferometric Synthetic Aperture Radar (IFSAR) data</li>\n<li>MNR Lambert Conformal Conic Projection</li>\n<li>vertical datum in both EGM96 and CGVD28, separately</li>\n<li>elevation value: floating</li>\n<li>local Polynomial Interpolation from vector elevation points</li>\n<li>spatial resolution: 30 meter</li>\n<li>surface elevation model</li>\n<li>This product offers significant advancements in elevation data in the province.</li>\n</ul>\n\nRead the details about these advancements and other technical specifications, including data processing, major spatial characteristics of the Radar DSM, and the steps to generate the Northern Ontario Radar DSM.\n<br /><br />\n\n<strong>Additional Documentation</strong><br />\n<ul> \n<li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario%20Radar%20DSM%20-%20User%20Guide.docx' target='_blank' rel='nofollow ugc noopener noreferrer'>Ontario Radar DSM User Guide (Word)</a></li>\n<li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario Radar DSM - Vertical Accuracy Assessment.pdf' target='_blank' rel='nofollow ugc noopener noreferrer'>Ontario Radar DSM Accuracy Assessment (PDF)</a></li>\n<li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/OntarioRadarDSM_TileIndex.zip' target='_blank' rel='nofollow ugc noopener noreferrer'>Ontario Radar DSM Tile Index (Shapefile)</a></li>\n</ul>\n\n<strong>Product Packages</strong><br />\n<ul>\n<li><a href='https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/ON-Radar-DSM-North.zip' target='_blank' rel='nofollow ugc noopener noreferrer'>Ontario Radar DSM - North</a></li>\n<li><a href='https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/ON-Radar-DSM-South.zip' target='_blank' rel='nofollow ugc noopener noreferrer'>Ontario Radar DSM - South</a></li>\n</ul>\n\n<strong>Status</strong><br />\nCompleted: production of the data has been completed\n<br /><br />\n\n<strong>Maintenance and Update Frequency</strong><br />\nNot planned: there are no plans to update the data\n<br /><br />\n\n<strong>Contact</strong><br />\nOntario Ministry of Natural Resources - Geospatial Ontario, <a href='mailto:geospatial@ontario.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>geospatial@ontario.ca</a>"
+  ],
+  "dct_identifier_sm": [
+    "24902fc5947e464fa578b3d82fe9283e",
+    "https://www.arcgis.com/home/item.html?id=24902fc5947e464fa578b3d82fe9283e"
+  ],
+  "dct_issued_s": "2020-01-15",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/maps/mnrf::ontario-radar-digital-surface-model\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario"
+  ],
+  "dct_title_s": "Ontario Radar Digital Surface Model",
+  "gbl_mdModified_dt": "2026-08-13T14:06:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1be510c3-1dc8-5af6-885a-2b14557ab547",
+  "locn_geometry": "ENVELOPE(-107.43408203124261, -62.565917968754526, 57.54417318055708, 40.23598410628098)",
+  "schema_provider_s": "Ontario GeoHub"
+}

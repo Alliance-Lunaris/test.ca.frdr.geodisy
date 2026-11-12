@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.79750549, -51.71352112, 60.8826554, 42.54544227)",
+  "dcat_keyword_sm": [
+    "Scotian Shelf",
+    "plateau néo-écossais",
+    "Oceans",
+    "Environnement",
+    "Eaux côtières",
+    "d’exposition relative aux vagues",
+    "Newfoundland and Labrador",
+    "Océanographie",
+    "Fetch",
+    "Environment",
+    "Relative Wave Exposure",
+    "Bay of Fundy",
+    "baie de Fundy",
+    "Terre-Neuve-et-Labrador",
+    "Oceanography",
+    "Coastal waters",
+    "Coasts",
+    "Océan",
+    "fetch",
+    "Wind",
+    "Vent",
+    "Littoral"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indices de fetch et d’exposition relative aux vagues pour les zones côtières des biorégions du plateau néo-écossais-baie de Fundy et des plateaux de Terre-Neuve-et-Labrador"
+  ],
+  "dct_creator_sm": [
+    "NL Ecological Sciences / Sciences Ecologiques TNL (DFO/MPO)."
+  ],
+  "dct_description_sm": [
+    "Exposure to wind-driven waves manifests an important physical gradient in the coastal zone that influences a variety of physical and biological processes (i.e., species distribution). Fetch, the unobstructed distance over which wind-driven waves can build, is a popular proxy for wave exposure at a given location commonly used for site-specific evaluations. Here, we provide two measures of fetch (unweighted fetch, effective fetch) and three fetch-derived indices of wave exposure (sum fetch, minimum fetch, and a relative exposure index) covering the coastal zones of two Canadian bioregions (Scotian Shelf-Bay of Fundy, Newfoundland-Labrador Shelves). For each region, we calculated fetch and exposure indices for input points in an evenly spaced fishnet grid (see linked records below for datasets by region). We provide unweighted fetch lengths (m) for 32 compass headings per input point (11.25° intervals), and effective fetch lengths for 8 headings per point (45° intervals). Effective fetch is a weighted average of multiple fetch measures around a given heading that reduces the influence of irregular coastline shape on exposure estimates. We also include calculations of the summed and minimum unweighted fetch lengths for each point that provide coarse proxies of exposure and distance to land, respectively. The relative exposure index (REI), provided as regional spatial layers in raster format, provides a more accurate metric of exposure by combining effective fetch with modelled wind speeds (m s-1) and frequency data. Users may also use fetch calculations to derive their own exposure layers using alternative sources of wind data, indices, or formulations. Detailed methodology on the calculations for fetch, effective fetch and REI are outlined in the Supplementary Information below. Citation information and differences in data pre-processing methods and spatial resolution of the regional analyses are described in their respective data records. The broad spatial coverage and high resolution offered by these indices are suitable to support regional-scale modelling and planning exercises. In particular, these indices will be of value to ongoing Marine Spatial Planning efforts, which includes regional conservation planning, that seek to evaluate the distribution of coastal species and overlap with human activities.",
+    "L’exposition aux vagues poussées par le vent constitue un gradient physique important dans la zone côtière, qui influence une variété de processus physiques et biologiques (c.-à-d. la répartition des espèces). Le fetch, c’est-à-dire la distance sans obstacle sur laquelle les vagues poussées par le vent peuvent se former, est un indicateur populaire de l’exposition aux vagues à un endroit donné, couramment utilisé pour les évaluations propres à un site. Nous présentons ici deux mesures du fetch (fetch non pondéré, fetch effectif) et trois indices de l’exposition aux vagues dérivés du fetch (fetch total, fetch minimum et indice d’exposition relative) couvrant les zones côtières de deux biorégions canadiennes (plateau néo-écossais-baie de Fundy et plateaux de Terre-Neuve-et-Labrador). Pour chaque région, nous avons calculé les indices de fetch et d’exposition pour les points d’entrée dans une grille avec des cellules uniformément espacées (voir les documents connexes ci-dessous pour les ensembles de données par région). Nous fournissons un fetch non pondéré (m) pour 32 caps compas par point d’entrée (intervalles de 11,25°) et un fetch effectif pour 8 caps compas par point (intervalles de 45°). Le fetch effectif est une moyenne pondérée de plusieurs mesures de fetch autour d’un cap donné qui réduit l’influence de la forme irrégulière du littoral sur les estimations d’exposition. Nous incluons également les calculs du fetch total et minimal non pondéré pour chaque point qui fournissent des approximations grossières de l’exposition et de la distance à la terre, respectivement. L’indice d’exposition relative (IER), fourni sous forme de couches spatiales régionales en format de trame, fournit une mesure plus précise de l’exposition en combinant le fetch effectif avec les vitesses de vent modélisées (m s-1) et les données de fréquence. Les utilisateurs peuvent également utiliser les calculs de fetch pour déterminer leurs propres couches d’exposition en utilisant d’autres sources de données, d’indices ou de formulations relatives au vent. La méthodologie détaillée des calculs pour le fetch, le fetch effectif et l’IER est décrite dans les renseignements supplémentaires ci-dessous. Les renseignements sur les citations et les différences dans les méthodes de traitement préalable des données et la résolution spatiale des analyses régionales sont décrits dans leurs fiches de données respectives. La large couverture spatiale et la haute résolution offertes par ces indices permettent de soutenir les exercices de modélisation et de planification à l’échelle régionale. Plus particulièrement, ces indices seront utiles aux efforts actuels de planification spatiale marine, qui comprennent la planification régionale de la conservation, qui cherchent à évaluer la répartition des espèces côtières et le chevauchement avec les activités humaines."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9f43c64c-4cbc-4e54-8199-7765331445f3"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9f43c64c-4cbc-4e54-8199-7765331445f3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology",
+    "society_and_culture"
+  ],
+  "dct_title_s": "Fetch and relative wave exposure indices for the coastal zones of the Scotian Shelf-Bay of Fundy and Newfoundland-Labrador Shelves bioregions",
+  "gbl_mdModified_dt": "2026-03-24T09:02:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9f629cc-8570-5a38-9b83-6719b46a7499",
+  "locn_geometry": "ENVELOPE(-67.79750549, -51.71352112, 60.8826554, 42.54544227)",
+  "schema_provider_s": "Open Data Canada"
+}

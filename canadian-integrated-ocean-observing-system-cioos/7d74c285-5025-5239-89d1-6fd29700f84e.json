@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-81.59, -80.88, 75.77, 75.3)",
+  "dcat_keyword_sm": [
+    "ground-penetrating-radar",
+    "devon-island",
+    "ipy-glacier-response-to-global-warming",
+    "oceans",
+    "glaciers",
+    "gps",
+    "statistics",
+    "seaice",
+    "images",
+    "glace-de-mer",
+    "climate-change",
+    "belcher-glacier",
+    "bedrock",
+    "surface",
+    "canada",
+    "ice",
+    "ipy-glacier-response-to-global-warming",
+    "nunavut"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèles numériques d'élévation de la surface et du socle rocheux du glacier Belcher et carte de l'épaisseur de la glace"
+  ],
+  "dct_creator_sm": [
+    "Kavanaugh, Jeffrey.",
+    "Clavano, W.R.."
+  ],
+  "dct_description_sm": [
+    "Improved surface and bedrock DEMs have been produced for the Belcher Glacier using data from different sources, including in situ measurements, airborne soundings, and satellite images. Surface elevation is based on 2007 (late summer) SPOT5 HRS images.\n\nBed elevation values are derived from surface-based ground penetrating radar soundings conducted during the 2007 and 2008 summer field seasons. Airborne radar surveys in 2000 and 2005 by the Scott Polar Research Institute and the Center for Remote Sensing of Ice Sheets, respectively, provide ice thickness data. By subtracting ice thickness from surface elevation using the surface DEM, bedrock elevation values are derived. Additional bedrock elevation data for the seafloor in front of the terminus of Belcher Glacier were obtained from a bathymetric survey in 2006 by workers from Memorial University of Newfoundland and the University of New Brunswick working off the CCGS Amundsen.\n\nA 40-m grid is used as a map base. Bed elevation values were found for each point on the grid by applying a kernel that weighted values of surrounding points by distance. After finding a suitable semivariogram model, statistical interpolation (kriging) was performed to fill in the rest of the grid points to produce the bedrock DEM. As a check, a 1999 Landsat panchromatic image was used to force bedrock elevation to equal surface elevation within the boundaries of rock outcrops and thus ensure that ice thickness is zero throughout.",
+    "Des DEM améliorés de surface et de substrat rocheux ont été produits pour le glacier Belcher à l'aide de données provenant de différentes sources, notamment des mesures in situ, des sondages aéroportés et des images satellites. L'altitude de la surface est basée sur des images SPOT5 HRS de 2007 (fin de l'été).\n\nLes valeurs d'altitude du lit sont dérivées de sondages radar pénétrant le sol effectués en surface pendant les saisons estivales de terrain 2007 et 2008. Les relevés radar aéroportés effectués en 2000 et 2005 par le Scott Polar Research Institute et le Center for Remote Sensing of Ice Sheets, respectivement, fournissent des données sur l'épaisseur de la glace. En soustrayant l'épaisseur de la glace de l'altitude de la surface à l'aide du DEM de surface, les valeurs d'altitude du substrat rocheux sont dérivées. Des données supplémentaires sur l'altitude du substrat rocheux du fond marin devant le terminus du glacier Belcher ont été obtenues à partir d'un levé bathymétrique effectué en 2006 par des travailleurs de l'Université Memorial de Terre-Neuve et de l'Université du Nouveau-Brunswick travaillant à bord du NGCC Amundsen.\n\nUne grille de 40 m est utilisée comme base de carte. Les valeurs d'altitude du lit ont été déterminées pour chaque point de la grille en appliquant un noyau qui pondait les valeurs des points environnants en fonction de la distance. Après avoir trouvé un modèle de semi-variogramme approprié, une interpolation statistique (krigeage) a été réalisée pour remplir le reste des points de la grille afin de produire le DEM du socle rocheux. À titre de vérification, une image panchromatique Landsat de 1999 a été utilisée pour forcer l'élévation du substrat rocheux à une altitude égale à celle de la surface à l'intérieur des limites des affleurements rocheux et garantir ainsi que l'épaisseur de la glace est nulle partout."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/fcaf352b-55be-4dbd-9f4c-8687efe58f12"
+  ],
+  "dct_issued_s": "2012-06-08",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/fcaf352b-55be-4dbd-9f4c-8687efe58f12\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Belcher Glacier surface and bedrock digital elevation models and ice thickness map",
+  "gbl_mdModified_dt": "2026-10-05T22:15:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d74c285-5025-5239-89d1-6fd29700f84e",
+  "locn_geometry": "ENVELOPE(-81.59, -80.88, 75.77, 75.3)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.54575994825859, -78.95790433620931, 43.860378983865246, 43.542224810582105)",
+  "dcat_keyword_sm": [
+    "intake",
+    "vulnerability",
+    "TRSPA",
+    "SWP",
+    "surface water",
+    "VSA",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SW VSA Surface Water</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SW_VSA_SURFACE_WATER_FT</span></span></p><p style='margin:0 0 4 0;'><span>A feature representing a vulnerable scoring area (VSA) that affects Surface Water. A vulnerable score is a number, between 0.1 and 10, representing how easily a well or intake can become polluted with a contaminant. The higher the score, the greater the contamination risk. Both zones and scores are important to determine how the plan treats your proposed activity (i.e., landfill site). Shows how susceptible a drinking water source is to contamination. In general, WHPA and IPZ that score 8 and above are very vulnerable and certain activities will be prohibited or required to be managed more effectively. 0 - 3.9: water sources in this area are least vulnerable to contamination. 4 - 7.9: water sources in this area are less vulnerable to contamination. 8 - 10: water sources in this area are vulnerable to contamination. </span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OBJECTID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric identifier assigned to each feature.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPP_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>Vulnerable Scoring Area IPZ ID</span></span></p><p><span><span>VSA_IPZ_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The Intake Protection Zone identifier in the VSA surface water class. Foreign Key from IPZ layers.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>4</span></span></p></td><td><p><span><span>Vulnerability Score</span></span></p><p><span><span>VULNERABILITY_SCORE</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(3,1)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>Ranges from 0.8 to 10, with 10 being most vulnerable. Calculated by multiplying the area vulnerability score with the source vulnerability score.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>5</span></span></p></td><td><p><span>IPZ Type</span></p><p><span>IPZ_SCORE</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>VARCHAR(50)</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>No</span></p></td><td><p style='margin:4 0 4 0;'><span>The type of IPZ (1, 2, 3)</span></p></td></tr><tr><td><p style='text-align:Center;'><span>5</span></p></td><td><p><span>Name</span></p><p><span>IntakeName</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>VARCHAR(50)</span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span>No</span></p></td><td><p style='margin:4 0 4 0;'><span>Local intake area name.</span></p></td></tr></tbody></table><table><tbody><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr></tbody></table></div></div></div></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "be8b3a1a41f046ce851cfa8602e78890",
+    "https://www.arcgis.com/home/item.html?id=be8b3a1a41f046ce851cfa8602e78890"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-surface-water-vulnerable-scoring-areas\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Surface Water Vulnerable Scoring Areas",
+  "gbl_mdModified_dt": "2024-04-11T21:43:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "500c7340-83bf-5e96-b4b7-a07f88551917",
+  "locn_geometry": "ENVELOPE(-79.54575994825859, -78.95790433620931, 43.860378983865246, 43.542224810582105)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

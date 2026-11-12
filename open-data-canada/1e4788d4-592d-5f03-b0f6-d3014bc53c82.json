@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "dcat_keyword_sm": [
+    "chlorophylle-a",
+    "Oceans",
+    "Climat",
+    "Climate",
+    "Climatology",
+    "Biology",
+    "Climatologie",
+    "Chlorophyll-a",
+    "Océan",
+    "Biologie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Climatologie mensuelle par satellite de la chlorophylle-a de la zone économique exclusive du Canada dans le Pacifique (2003-2020) - résolution 1 km"
+  ],
+  "dct_creator_sm": [
+    "Lu Guan."
+  ],
+  "dct_description_sm": [
+    "Description:\nChlorophyll-a concentration (a proxy for phytoplankton biomass) was retrieved from the MODIS instrument on the Aqua satellite, with data distributed by the NASA Ocean Biology Processing Group, and averaged into monthly climatological composites. The data span the years 2003-2020 and this record includes data at 1 km pixel resolution.\n\nMethods:\nMODIS-Aqua Chlorophyll-a (Chl-a) was acquired from the NASA Ocean Biology Processing Group at processing Level-2 (version 2018), 1-km resolution, where Chl-a concentration was calculated using the OC3/OCI method. The months of January and December were excluded from this dataset, as data in the winter months at higher latitudes are missing due to low sun angle preventing acquisition. The pixels were aligned on a regular grid using the SeaDAS program, after which the monthly geometric mean value at all pixels was calculated for individual years. Finally, the geometric mean and geometric standard deviation factor of chlorophyll-a were calculated by month from these images. These methods of calculating mean and standard deviation were used due to the log-normal distribution of chlorophyll-a. The geometric standard deviation is a unitless factor, where the lower bound is the ratio of the geometric mean and geometric standard deviation, and the upper bound is the multiplication of the two. In addition to these variables, the number of occurrences of valid data at each pixel over the period of observation were calculated. Pixels with fewer than two occurrences over the entire period of observation were removed from these maps, and set to a NaN value in the tif files. A few small gaps between pixels (near the edges of individual images) were filled using the median value of surrounding pixels, provided there were greater than 4 values. Finally, all rasters were cropped to the Canadian Exclusive Economic Zone and assigned to the NAD83 geographic coordinate reference system (EPSG:4269), and have a final pixel resolution of approximately 0.01 degrees. The monthly geometric mean, monthly geometric standard deviation factor, and number of occurrences for all pixels are provided.\n\nData Sources:\nNASA Ocean Biology Processing Group. (2017). MODIS-Aqua Level 2 Ocean Color Data Version R2018.0. NASA Ocean Biology Distributed Active Archive Center. https://doi.org/10.5067/AQUA/MODIS/L2/OC/2018\n\nUncertainties:\nSatellite values have been evaluated against global datasets, and datasets of samples in the Pacific region (see references). However, uncertainties are introduced when averaging together images over time as each pixel has a differing number of observations. Short-lived or spatially limited events may be missed.",
+    "Description:\nLa concentration de chlorophylle-a (un indicateur de la biomasse du phytoplancton) a été tirée du MODIS sur le satellite Aqua; les données ont été distribuées par l’Ocean Biology Processing Group de la NASA, puis la valeur moyenne a été calculée en composites climatologiques mensuels. Les données couvrent les années 2003 à 2020 et ce dossier comprend des données à une résolution de 1 km.\n\nMéthodes :\nLes données du MPIDO-Aqua sur la chlorophylle-a (Chl-a) ont été acquises auprès du Ocean Biology Processing Group de la NASA au niveau de traitement 2 (version 2018), avec une résolution de 1 km; la concentration de Chl-a a été calculée selon la méthode OC3/OCI. Les mois de janvier et décembre ont été exclus de cet ensemble de données, car les données des mois d’hiver aux latitudes plus élevées sont manquantes en raison du faible angle du soleil, qui empêchait l’acquisition. Les pixels ont été alignés sur une grille régulière en utilisant le programme SeaDAS, après quoi la moyenne géométrique mensuel de la valeur de tous les pixels a été calculé pour les années. Enfin, la moyenne géométrique et le facteur d’écart-type géométrique de la chlorophylle-a, par mois, à partir de ces images. Ces méthodes de calcul de la moyenne et de l’écart-type ont été choisies en raison de la distribution log-normale de la chlorophylle-a. L’écart-type géométrique est un facteur sans unité, dont la limite inférieure est le rapport de la moyenne géométrique et de l’écart-type géométrique, et la limite supérieure est la multiplication des deux. En plus de ces variables, on a calculé le nombre d’occurrences de données valides à chaque pixel sur la période d’observation. Les pixels ayant moins de deux occurrences sur toute la période d’observation ont été retirés de ces cartes, et leur valeur définie à NaN dans les fichiers tif. Quelques petits écarts entre les pixels (près de la bordure des images individuelles) ont été remplis en utilisant la valeur médiane de entourant les pixels, il y avait plus de quatre valeurs. Toutes les trames obtenues ont été recadrées à la zone économique exclusive canadienne et assignées au système de référence des coordonnées géographiques NAD83 (EPSG:4269), et ont une résolution finale en pixels d’environ 0,01 degré. La moyenne géométrique mensuelle, le facteur d’écart-type géométrique mensuel et le nombre d’occurrences pour tous les pixels sont fournis.\n\nSources de données :\nNASA Ocean Biology Processing Group. (2017). MODIS-Aqua Level 2 Ocean Color Data Version R2018.0. NASA Ocean Biology Distributed Active Archive Center. https://doi.org/10.5067/AQUA/MODIS/L2/OC/2018\n\nIncertitudes:\nLes valeurs obtenues par satellite ont été évaluées en fonction de jeux de données mondiaux et de jeux de données d’échantillons dans la région du Pacifique (voir les références). Cependant, des incertitudes sont engendrées lors du calcul groupé de la moyenne des images au fil du temps, car chaque pixel présente un nombre différent d’observations. Des événements de courte durée ou limités dans l’espace peuvent ne pas être pris en compte."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e16b99f1-cc7d-4f2b-8661-6a1706ee7386"
+  ],
+  "dct_issued_s": "2021-04-28",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e16b99f1-cc7d-4f2b-8661-6a1706ee7386\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Monthly Satellite Chlorophyll-a Climatology of the Canadian Pacific Exclusive Economic Zone (2003-2020) - 1 km Resolution",
+  "gbl_mdModified_dt": "2026-03-24T08:42:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1e4788d4-592d-5f03-b0f6-d3014bc53c82",
+  "locn_geometry": "ENVELOPE(-140.0, -120.0, 56.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

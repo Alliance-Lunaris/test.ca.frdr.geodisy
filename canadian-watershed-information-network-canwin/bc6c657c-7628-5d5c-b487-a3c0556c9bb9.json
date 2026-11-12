@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.7425, -52.6952, 47.83333, 39.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "These datasets show commercial fisheries catch weight landings of directed fisheries and bycatch from the Scotian Shelf, the Bay of Fundy, and Georges Bank from NAFO Divisions 4VWX and the Canadian portions of 5Y and 5Z. Five-year composite maps (2019–2023) that aggregate catches for each map series are publicly available. The maps aggregate catch weight (kg) per 10 km2 hexagon grid cell for selected species, species groupings and gear types to identify important fishing areas. These maps can support decision making in coastal and oceans management, including marine spatial planning, environmental emergency response operations and protocols, Marine Stewardship Council certification processes, marine protected area networks, and ecological risk assessment.\n\nReported catch locations may have rounded coordinates or contain errors. Although some errors have been corrected, it is assumed that additional errors remain in the data. \n\nThese datasets have been filtered to comply with the Government of Canada's privacy policy. Privacy assessments were conducted to identify DFO unit areas containing data with less than five vessel IDs, licence IDs or fisher IDs. If this threshold was not met, catch weight locations were withheld from these unit areas to protect the identity or activity of individual vessels or companies.\nMaps were created for the following species, species groupings and gear types:\n\n1.\tGroundfish (all species)\n2.\tGroundfish Bottom Trawl\n3.\tGroundfish Bottom Longline\n4.\tGroundfish Gillnet\n5.\tGroundfish (seasonal composites)\n6.\tAtlantic Cod\n7.\tAtlantic Cod, Haddock and Pollock\n8.\tFlatfish\n9.\tAtlantic Halibut\n10.\tGreenland Halibut (Turbot)\n11.\tHagfish\n12.\tCusk\n13.\tDogfish\n14.\tRedfish\n15.\tRed Hake\n16.\tSilver Hake\n17.\tWhite Hake\n18.\tMonkfish\n19.\tSculpin\n20.\tSkate\n21.\tWolffish\n22.\tSquid\n23.\tHerring\n24.\tMackerel\n25.\tHerring and Mackerel Gillnet\n26.\tPurse Seine\n27.\tLarge Pelagics\n28.\tBluefin Tuna\n29.\tOther Tuna\n30.\tSwordfish\n31.\tSnow Crab\n32.\tOther Crab\n33.\tScallop\n34.\tScallop (seasonal composites)\n35.\tOffshore Clam\n36.\tShrimp Trawl\n37.\tShrimp Trap\n38.\tOffshore Lobster\n39.\tDisputed Zone Area 38B Lobster\n40.\tWhelk"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/30e31f61-97a8-4e87-a339-87bf6f138428"
+  ],
+  "dct_issued_s": "2025-12-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/30e31f61-97a8-4e87-a339-87bf6f138428\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Maritimes Region Fisheries Atlas: Catch Weight Landings Mapping (2019–2023)",
+  "gbl_mdModified_dt": "2026-03-24T08:06:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bc6c657c-7628-5d5c-b487-a3c0556c9bb9",
+  "locn_geometry": "ENVELOPE(-67.7425, -52.6952, 47.83333, 39.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

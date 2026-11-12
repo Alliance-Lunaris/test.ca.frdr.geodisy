@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Sectors targeted for urban densification.\nPolygons resulting from an analysis by the urban planning department and identified as areas conducive to urban densification.\n\n**Collection context**\n Areas determined by the urban planning department.\nManual analysis and limits according to an anthropogenic constraint, a street or a zoning limit.\n\n**Collection method**\n Technical drawing and computer-aided mapping.\n\n**Attributes**\n\n* `ID_ZONAGE` (`long`): Zoning ID\n* `NUM_ZONE` (`varchar`): Zone number\n* `GROUPE_USA` (`varchar`): Use group\n* `LABEL` (`varchar`): Label\n* `DATE_CREAT` (`date`): Creation date\n* `DATE_MODIF` (`date`): Date of modification\n* `USER_MODIF` (`varchar`): Modified by\n* `Source` (`varchar`): Source\n* `GRILLE_URL` (`varchar`): Grid of uses\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e46e95a-18ac-44be-a774-e75405ddf7de"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e46e95a-18ac-44be-a774-e75405ddf7de\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Densification islands targeted - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "72f9d0b5-f829-502c-a7a7-abdcc0674328",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

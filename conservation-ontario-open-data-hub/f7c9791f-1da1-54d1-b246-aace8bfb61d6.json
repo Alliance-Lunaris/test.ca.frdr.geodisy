@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.90679322203351, -79.55070517784988, 43.79614529282922, 43.6020427142208)",
+  "dcat_keyword_sm": [
+    "Service Backup: Not Required",
+    "Etobicoke",
+    "models",
+    "particle tracking",
+    "ECWP",
+    "groundwater",
+    "York Tier 3",
+    "Watershed Plan",
+    "Etobicoke Creek Watershed Plan",
+    "TEGWFM",
+    "TRCA",
+    "ESGRA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p><span>ESGRA are areas of land that are responsible for replenishing groundwater systems that directly support sensitive areas like coldwater streams and wetlands (LSRCA, 2014).</span></p><p><span>ESGRA methodology makes use of groundwater pathlines, tracked backward in time, originating from ecological features of interest. By tracking particles backward, ecological features that receive groundwater discharge (as predicted by the model) can be linked to areas on the land surface where discharging water originates (ORMGP, 2018). </span></p><p><span>1. ORMGP expanded York Tier 3 Water Balance Model to create TRCA Expanded Groundwater Flow Model (TEGWFM).</span></p><p><span>2. Reverse particle tracking was used to determine recharge pathways for ecologically significant featuers.</span></p><p><span>3. Various scenarios of mapping ESGRAs from particle endpoints were explored and ecological implications were evaluated.</span></p><p><span>This optimized scenario consists of a particle density threshold (kernel density) of 0.004, with an aggregate distance of 100m, and a minimum size threshold of 0.5ha.</span></p><p><span>Analysis was completed January - June 2019.</span></p><p><span /></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "c1b1d686addd4d75b7b23a010da5c10d",
+    "https://www.arcgis.com/home/item.html?id=c1b1d686addd4d75b7b23a010da5c10d"
+  ],
+  "dct_issued_s": "2022-01-07",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::ecwp-ecologically-significant-groundwater-recharge-areas-1\"}",
+  "dct_rights_sm": [
+    "TRCA Open Data License"
+  ],
+  "dct_title_s": "ECWP Ecologically Significant Groundwater Recharge Areas",
+  "gbl_mdModified_dt": "2025-08-08T18:53:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f7c9791f-1da1-54d1-b246-aace8bfb61d6",
+  "locn_geometry": "ENVELOPE(-79.90679322203351, -79.55070517784988, 43.79614529282922, 43.6020427142208)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

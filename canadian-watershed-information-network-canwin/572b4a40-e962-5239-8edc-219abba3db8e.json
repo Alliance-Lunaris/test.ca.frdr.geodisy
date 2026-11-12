@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This cartographic dataset of areas of importance for spring herring in the Magdalen Islands was produced by Fisheries and Oceans Canada (DFO) and the Magdalen Islands ZIP Committee, as part of the work to characterize the Magdalen Islands Lagoons Marine Refuge. The initiative aimed to document fishermen's ecological knowledge of spring herring, including good fishing areas and spawning grounds around the archipelago.\n\nThe data comes from interviews conducted between January and April 2024 with the most experienced fishermen in the archipelago. During the interviews, participants identified directly on digital maps the locations associated with four types of observations made throughout their careers: \n\n     • Question 8 —  Good fishing sites; \n     • Question 9 — Other observations of high concentrations of the resource; \n     • Question 13a — Spawning areas and;\n     • Question 13b — Other observations of signs of spawning. \n\nTo facilitate temporal contextualization, a four-period timeline (before 1996, 1996-2002, 2003-2006, and 2007-2021) was used.\n\nThe final product is a GeoPackage (.gpkg) containing 16 vector layers composed of four layers per observation type, each corresponding to one of the defined time periods. The polygons were classified according to the number of fishermen who reported each location, making it possible to assess the degree of overlap and the relative importance of the areas over time. The data are projected in NAD83 / MTM zone 4.\n\nFor more information on the methodology and data, see Burbank et al. (2025). Additional information specific to the Magdalen Islands lagoons is presented in Grégoire et al. (2026)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1bab335e-2f3f-4469-98f4-dd10e81c4d30"
+  ],
+  "dct_issued_s": "2026-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1bab335e-2f3f-4469-98f4-dd10e81c4d30\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Areas of importance for spring herring in the Magdalen Islands",
+  "gbl_mdModified_dt": "2026-05-15T17:00:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "572b4a40-e962-5239-8edc-219abba3db8e",
+  "locn_geometry": "ENVELOPE(-62.1, -61.35, 47.65, 47.15)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

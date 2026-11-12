@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.794738, -56.960551, 47.357835, 42.899201)",
+  "dcat_keyword_sm": [
+    "Enquête indépendante de la pêche",
+    "Oceans",
+    "Prévisions spatiales",
+    "fishery-independent survey",
+    "species distribution models",
+    "Northern shrimp",
+    "Modèles de répartition des espèces",
+    "Océan",
+    "Pandalus borealis",
+    "Crevette nordique",
+    "Pandalus borealis",
+    "spatial predictions"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Distribution automnale de la crevette nordique sur l'est du plateau néo-écossais"
+  ],
+  "dct_creator_sm": [
+    "Raphaël R. McDonald."
+  ],
+  "dct_description_sm": [
+    "The data layers (.tif) presented are the result of a delta negative binomial spatio-temporal generalized linear mixed model (i.e., a species distribution model) fit to the Northern shrimp (Pandalus borealis) data collected on the annual snow crab survey, which takes place yearly between August and December across the Scotian Shelf. This method accounts for the linear effects of depth and temperature on both presence/absence and positive relative abundances of Northern shrimp. The method further models latent spatial and spatio-temporal processes as random effects using Gaussian random fields with Matérn covariance matrices. The outputs are yearly spatial rasters of the predicted relative abundance of Northern shrimp across the domain covered by the snow crab survey. Given that this survey does not target shrimp, its selectivity and catchability in regards to Northern shrimp are unknown and the results remain on the scale of relative instead of absolute abundances. Reference: McDonald, R.R., Christie, K., and Glass, A. 2026. Using environmental and nontargeted data for the validation of a fishery-independent survey for northern shrimp (Pandalus borealis). Canadian Journal of Fisheries and Aquatic Sciences. 83: 1-12. https://doi.org/10.1139/cjfas-2026-0017\n\nCite this data as: McDonald, R.R., Christie, K., and Glass, A. (2026) Data of Fall Distribution of Northern Shrimp on Eastern Scotian Shelf. Published September 2026. \n\nPopulation Ecology Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/db03e07c-a344-4c1e-a8bd-529c5a7dc1d6",
+    "Les couches de données (.tif) présentées sont les résultats de l’ajustement d’un modèle linéaire généralisé à effets mixtes utilisant une distribution delta binomial négative (i.e., un modèle de distribution des espèces) aux données sur la crevette nordique (Pandalus borealis) collectionnées par le relevé annuel du crabe des neiges. Ce relevé prend place entre août et décembre annuellement sur le plateau néo-écossais. Cette méthode prend en compte l’effet linéaire de la profondeur et de la température sur la présence/absence ainsi que l’abondance relative positive de la crevette nordique. Cette méthode modélise également les processus spatiaux et spatio-temporels latents avec des champs aléatoires gaussiens et des matrices de covariance Matérn. Les résultats sont des trames spatiales annuelles des prédictions d’abondance relative de la crevette nordique sur le domaine couvert part le relevé du crabe des neiges. Étant donné que ce relevé ne vise pas la capture des crevettes, sa sélectivité et capturabilité en relation avec la crevette nordique sont inconnues et les résultats demeurent sur l’abondance relative et non absolue. Référence : McDonald, R.R., Christie, K., and Glass, A. 2026. Using environmental and nontargeted data for the validation of a fishery-independent survey for northern shrimp (Pandalus borealis). Canadian Journal of Fisheries and Aquatic Sciences. 83: 1-12. https://doi.org/10.1139/cjfas-2026-0017\n\nCiter ces données comme suit: McDonald, R.R., Christie, K., and Glass, A. (2026) Données de: Distribution automnale de la crevette nordique sur l'est du plateau néo-écossais. Date de publication: Septembre 2026. \n\nDivision de l’écologie des population, Pêches et Océans Canada, Dartmouth (Nouvelle-Écosse). https://open.canada.ca/data/fr/dataset/db03e07c-a344-4c1e-a8bd-529c5a7dc1d6"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/db03e07c-a344-4c1e-a8bd-529c5a7dc1d6"
+  ],
+  "dct_issued_s": "2026-08-25",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/db03e07c-a344-4c1e-a8bd-529c5a7dc1d6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Fall Distribution of Northern Shrimp on Eastern Scotian Shelf",
+  "gbl_mdModified_dt": "2026-10-13T12:01:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f08eda7-c6f0-5aef-882d-535377cd978e",
+  "locn_geometry": "ENVELOPE(-65.794738, -56.960551, 47.357835, 42.899201)",
+  "schema_provider_s": "Open Data Canada"
+}

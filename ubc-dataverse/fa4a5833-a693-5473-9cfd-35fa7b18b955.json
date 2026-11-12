@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.261463, -123.227864, 49.272926, 49.243289)",
+  "dcat_keyword_sm": [
+    "3D geoinformation",
+    "Urban Development",
+    "Sustainability Planning",
+    "LiDAR",
+    "Historical Landscape Change",
+    "Geospatial Analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wang, Nan (University of British Columbia). ORCID: https://orcid.org/0009-0003-1366-9942"
+  ],
+  "dct_description_sm": [
+    "This study addresses the lack of comprehensive 3D documentation of the University of British Columbia (UBC) Vancouver campus's architectural and ecological evolution from 2015 to 2024. By integrating 2D polygon shapefiles, Light Detection and Ranging (LiDAR) data, Digital Elevation Models, and open-source geographical data, an interactive time-slider enabled 3D model was developed to capture the campus's historical transformation. The methodology leverages LiDAR point clouds to extract detailed information on buildings, vegetation, and terrain, supplemented by satellite imagery and vector data for validation and calibration. Results reveal distinct spatial development patterns: stability in the academic core around Main Mall with maturing tree canopy, contrasted with significant residential expansion in peripheral areas, particularly the Wesbrook neighborhood. The visualization demonstrates UBC's implementation of sustainability policies, including Leadership in Energy and Environmental Design (LEED) certification standards for new construction, while balancing growth with ecological preservation. This model provides insights into the interplay between development and environmental planning, supporting evidence-based decision-making for campus planning while offering an educational tool for understanding the historical landscape changes. The approach establishes a replicable framework for similar historical landscape modeling efforts at other institutions seeking to integrate sustainability into their development strategies."
+  ],
+  "dct_identifier_sm": [
+    "898213_73894_115983",
+    "https://doi.org/10.5683/SP3/QBKO8S"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QBKO8S\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Historically Changed 3D University of British Columbia (UBC) Buildings and Landscapes",
+  "gbl_mdModified_dt": "2025-04-22T16:48:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa4a5833-a693-5473-9cfd-35fa7b18b955",
+  "locn_geometry": "ENVELOPE(-123.261463, -123.227864, 49.272926, 49.243289)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

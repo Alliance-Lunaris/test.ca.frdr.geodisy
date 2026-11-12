@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset includes daily averages of solar irradiance on tilted surfaces for all of Canada based on the period of 1998 - 2022.  \n  \n  Daily averages of solar irradiance are displayed on both a monthly and annual basis for ten different tilt and tracking methods relative to the ground (horizontal) and latitude of the location.  \n  \n   The daily averages were derived from multi-year satellite-derived solar resource datasets at an hourly temporal resolution and gridded geospatial resolution of approximately 10 km by 10 km.  \n  \n  The data can be used to further assess the potential of solar energy technologies in Canada, including solar photovoltaics (PV) for electricity and solar thermal for domestic hot water and space heating.  \n  \n    Maps of solar resource potential in Canada – Data Format  \n  \n   The data stored in these files includes the daily-average insolation on tilted surfaces in units of kW·hr/m² for a given period. Each band represents period, numbered in order: band 1 = Annual, band 2 = January, band 3 = February, ..., band 13 = December.  \n  \n  The period of averaging is the year 1998-2022, inclusive.  \n  \n  Four fixed tilted surfaces of 0° (horizontal), 30°, 60°, and 90° (vertical) relative to the horizontal plane:  \n  \n  -  fixed tilted surfaces of 0° (vertical) relative to the horizontal plane (H+ 00 S+00)  \n  \n  -  fixed tilted surfaces of 30° (vertical) relative to the horizontal plane (H+ 30 S+00)  \n  \n  -  fixed tilted surfaces of 60° (vertical) relative to the horizontal plane (H+ 60 S+00)  \n  \n  -  fixed tilted surfaces of 90° (vertical) relative to the horizontal plan (H+ 90 S+00)  \n  \n  Three fixed tilted surfaces of 0°, +15°, and -15°, relative to the local latitude:  \n  \n  -  fixed tilted surfaces of 0° relative to the local latitude (L+00 S+00)  \n  \n  -  fixed tilted surfaces of +15°, relative to the local latitude (L+00 S+00)  \n  \n  -  fixed tilted surfaces of -15°, relative to the local latitude (L+00 S+00)  \n  \n  -  A two-axis tracking surface that follows the sun throughout the day (T+00 T+00)  \n  \n  -  A single-axis tracking surface with the axis aligned north-south, tracking the sun east to west (A+00_S+90)  \n  \n  -  A single-axis tracking surface with the axis aligned east-west, tracking the sun's elevation (A+00_S+00)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ab9f334-1e24-468b-bdc5-c086b3c19c8a"
+  ],
+  "dct_issued_s": "2025-07-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ab9f334-1e24-468b-bdc5-c086b3c19c8a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Daily average solar irradiance on tilted surfaces for all of Canada",
+  "gbl_mdModified_dt": "2025-10-15T12:21:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a5e39c74-f1e6-52b5-807b-466c4c30cbbf",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

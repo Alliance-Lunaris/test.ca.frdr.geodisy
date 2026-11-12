@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Driving and roads",
+    "Infrastructure and Transportation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Enquête de 2006 sur les véhicules commerciaux : origine et destination"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "## General guidelines 1. The dataset contains trip origin, destination, commodity group, average daily trips, commodity weight and value. 2. The data represents activity by medium and heavy trucks only. 3. The origin and destination data is aggregated by counties in Ontario and province or state outside of Ontario. 4. The commodities are grouped into 32 groups and empty trucks. 5. The Commercial Vehicle Survey targets travel on provincial facilities. Therefore, coverage of intra-urban trips is incomplete, and should not be interpreted as representative. 6. Trip activity within the Greater Toronto Area municipalities is not representative. 7. The average trip distance is 440 km. Caution must be exercised with short distance trip activities. 8. All Origin-destination pairs with average trip activity of less than one trip per day have been suppressed. ## Field descriptions **Origin zone** : Trip Origin Zone Number - Zone aggregation is counties in Ontario and province/state for others 35XX - Ontario counties 70XX - U.S. States XX00-XX00 (except 3500) - Canadian Provinces **Origin name** : Trip Origin Name - county or province/state name **Destination zone** : Trip Destination Zone Number - Zone aggregation is counties in Ontario and province/state for others. Same numbering system as origins **Destination name** : Trip Destination Name - county or province/state name **Commodity group code** : Unique commodity group numeric code **Commodity group:** Descriptive name of the commodity group **Daily trips** : Average daily truck trips **Commodity weight** : Average daily commodity weight in kilograms (KG) **Commodity value** : Average daily value of the commodity in dollars ($) *[km]: kilometre",
+    "## Directives generales 1. Cet ensemble de donnees comprend l'origine et la destination du deplacement, le groupe de produit, les deplacements quotidiens moyens, le poids et la valeur du produit. 2. Les donnees se limitent aux deplacements des poids moyens et des poids lourds. 3. Les donnees relatives a l'origine et a la destination sont regroupees par comtes de l'Ontario et par province ou État a l'exterieur de l'Ontario. 4. Les produits sont regroupes en 32 groupes et camions vides. 5. L'enquete sur les vehicules commerciaux cible les deplacements sur les installations provinciales. Par consequent, les donnees sur les deplacements intra-urbains sont incompletes et ne doivent pas etre interpretees comme etant representatives. 6. Les deplacements au sein des municipalites de la region du grand Toronto ne sont pas representatifs. 7. La distance moyenne de deplacement est de 440 km. Il faut user de prudence en ce qui a trait aux deplacements sur de courtes distances. 8. Toutes les paires origine-destination comptant moins d'un deplacement par jour ont ete supprimees. ## Description des champs **Zone d 'origine :** Numero de la zone d'origine du deplacement - Le regroupement se fait par comte en Ontario et par province ou État dans les autres regions. 35XX - Comtes de l'Ontario 70XX - États des États-Unis XX00-XX00 (sauf 3500) - Provinces canadiennes **Nom du lieu d 'origine :** Nom du lieu d'origine du deplacement - Nom du comte, de la province ou de l'État **Zone de destination  :** Numero de la zone de destination du deplacement - Le regroupement se fait par comte en Ontario et par province ou État dans les autres regions. Meme systeme de numerotation que pour l'origine **Nom du lieu de destination  :** Nom du lieu de destination du deplacement - Nom du comte, de la province ou de l'État **Code du groupe de produit  :** Code numerique unique du groupe de produit **Groupe de produit  :** Nom descriptif du groupe de produit **D eplacements quotidiens :** Moyenne des deplacements quotidiens de camion **Poids du produit  :** Poids quotidien moyen du produit en kilogrammes (kg) **Valeur du produit  :** Valeur quotidienne moyenne du produit en dollars ($) *[km]: kilometre** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/cc38eb0b-c4fa-4bcb-8551-67c06e6b9500"
+  ],
+  "dct_issued_s": "2020-01-11",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/cc38eb0b-c4fa-4bcb-8551-67c06e6b9500\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "2006 Commercial Vehicle Survey: origin and destination",
+  "gbl_mdModified_dt": "2026-09-02T13:31:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44fbafab-62db-57f3-981d-10265d520e2c",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

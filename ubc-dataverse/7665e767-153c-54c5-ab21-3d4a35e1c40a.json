@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-107.58511915915807, -105.20952178032634, 36.91908157710573, 35.25741938038453)",
+  "dcat_keyword_sm": [
+    "Disturbance Ecology",
+    "Western Spruce Budworm",
+    "Google Earth Engine",
+    "Time Series",
+    "Landsat",
+    "New Mexico",
+    "Forest Resilience"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "van den Berg, Kate (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Western spruce budworm is one of the most widespread and destructive native forest defoliators in North America. As climate change intensifies, outbreaks are expected to become more severe, and spatially synchronized, increasing the risk of long-term forest decline. Developing remote sensing methods to detect where forests are resisting disturbance, recovering, or shifting into less resilient states is increasingly important for forest management. This study evaluated whether a satellite-based vegetation time series could be used to detect patterns of forest resistance and resilience to western spruce budworm outbreaks in 9 forest stands across northwestern New Mexico, USA.\nUsing annual Landsat imagery processed in Google Earth Engine, three vegetation health indices were analyzed: the Normalized Difference Vegetation Index, Moisture Stress Index, and Plant Senescence Reflectance Index. These indices were selected for their potential to detect canopy stress and defoliation in conifer forests. For each stand, disturbance magnitude, regime shift ratio, and recovery rate were calculated from time-series data.\nResults showed that disturbance and recovery patterns differed more strongly among vegetation indices than between high- and low-elevation forest types. Disturbance magnitude was significantly greater when measured using the Moisture Stress Index than the other indices, suggesting that drought-related canopy stress may be influencing spectral responses alongside insect defoliation. Expected elevation-based patterns in resilience were not consistently observed, indicating that outbreak impacts and recovery dynamics may be more complex than anticipated at this site.\nThis workflow also demonstrates a transferable approach for identifying spatial patterns of disturbance and recovery from openly accessible satellite time series, and indicates an opportunity to further explore remote sensing approaches for detecting complex forest resilience patterns of interacting insect and climate stress."
+  ],
+  "dct_identifier_sm": [
+    "1124729_73894_115983",
+    "https://doi.org/10.5683/SP3/GFENTQ"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GFENTQ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico, United States"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Remotely Sensed Resilience: Detecting Forest Resilience to Western Spruce Budworm Outbreaks Using Landsat Time Series",
+  "gbl_mdModified_dt": "2026-04-28T16:36:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7665e767-153c-54c5-ab21-3d4a35e1c40a",
+  "locn_geometry": "ENVELOPE(-107.58511915915807, -105.20952178032634, 36.91908157710573, 35.25741938038453)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

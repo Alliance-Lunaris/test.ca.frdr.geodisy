@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "outliers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gilbert, Kimberly J. (University of British Columbia).",
+    "Whitlock, Michael C. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/B-5uTNq7VSWYgsnFYlVG8TXybosi0GCLK_NwgUuU6BM</p>\n<p><b>Storage size:</b> 339309172</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>QST, a measure of quantitative genetic differentiation among populations, is an index that can suggest local adaptation if QST for a trait is sufficiently larger than the mean FST of neutral genetic markers. A previous method by Whitlock and Guillaume derived a simulation resampling approach to statistically test for a difference between QST and FST, but that method is limited to balanced data sets with offspring related as half-sibs through shared fathers. We extend this approach to (1) allow for a model more suitable for some plant populations or breeding designs in which offspring are related through mothers (assuming independent fathers for each offspring; half-sibs by dam), and (2) by explicitly allowing for unbalanced data sets. The resulting approach is made available through the R package QstFstComp.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SourceCode_DamModel</h4><div class=\"o-metadata__file-description\">Source code used when doing type I error testing of balanced or unbalanced half-sib dam model</div><div class=\"o-metadata__file-name\">DamModel_WorkingCopy.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SireModel_WorkingCopy</h4><div class=\"o-metadata__file-description\">Source code used when doing type I error testing of unbalanced half-sib sire model</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">TypeI_ErrorTest_DamBalanced</h4><div class=\"o-metadata__file-description\">R code to run the error testing of the balanced half-sib dam model over 1000 replicate datasets.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">TypeI_ErrorTest_DamUnbalanced</h4><div class=\"o-metadata__file-description\">R code to run the error testing of the unbalanced half-sib dam model over 1000 replicate datasets.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">TypeI_ErrorTest_SireUnbalanced</h4><div class=\"o-metadata__file-description\">R code to run the error testing of the unbalanced half-sib sire model over 1000 replicate datasets.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">NemoReplicates</h4><div class=\"o-metadata__file-description\">Zipped file containing the 1000 simulated replicate datasets from Nemo used for type I error testing.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153219_150149",
+    "https://doi.org/10.5683/SP2/9PBQES"
+  ],
+  "dct_issued_s": "2021-05-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/9PBQES\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: QST FST comparisons with unbalanced half-sib designs",
+  "gbl_mdModified_dt": "2021-05-20T15:13:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "760c47e1-dc1f-5fb4-85cb-dab698b4c00e",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

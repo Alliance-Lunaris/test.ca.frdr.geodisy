@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-156.14535, -38.69435, 73.7233886, 31.5413886)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "Orage",
+    "Fournir des services et des produits d'information sur les conditions météorologiques",
+    "Non Classifié",
+    "National (CA)",
+    "Storms",
+    "Foudre",
+    "Weather and Environmental Operations",
+    "Real-time",
+    "Deliver Weather Products and Services to Clients",
+    "Livrer des produits et des services météorologiques aux clients",
+    "Service météorologique du Canada",
+    "National (CA)",
+    "Unclassified",
+    "Opérations météorologiques et environnementales",
+    "Temps (Météorologie)",
+    "Tempête",
+    "Detection",
+    "Thunderstorm",
+    "Détection",
+    "Provide Weather Information Products and Services",
+    "Lightning",
+    "Temps réel",
+    "Meteorological Service of Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de densité de foudre"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The Canadian Lightning Detection Network (CLDN) provides lightning monitoring across most of Canada. The data distributed here represents a spatio-temporal aggregation of the observations of this network available with an accuracy of a few hundred meters. More precisely, every 10 minutes, the reported observations are processed in the following way: The location of observed lightning (cloud-to-ground and intra-cloud) in the last 10 minutes is extracted. Using a regular horizontal grid of about 2.5km by 2.5km, the number of observed lightning flashes within each grid cell is calculated. These grid data are normalized by the exact area of each cell (in km2) and by the accumulation period (10min) to obtain an observed flash density expressed in km-2 and min-1. A mask is applied to remove data located more than 250km from Canadian land or sea borders.",
+    "Le Réseau Canadien de Détection de la Foudre (RCDF) assure la surveillance de la foudre presque partout au Canada. Les données distribuées ici représentent une agrégation spatio-temporelle des observations de ce réseau ayant une précision de quelques centaines de mètres. Plus précisément, toutes les 10 minutes, les observations rapportées sont traitées de la façon suivante: L'emplacement des éclairs observés (nuage-sol et intra-nuageux) dans les 10 dernières minutes est extrait. À l'aide d'une grille horizontale régulière d'environ 2.5km par 2.5km, le nombre d'éclairs observés à l'intérieur de chacune des cellules de cette grille est calculé. Ces données sur grille sont normalisées par la surface exacte de chacune des cellules (en km2) et par la période d'accumulation (10min) pour obtenir une densité d'éclairs observés exprimée en km-2 et min-1. Un masque est appliqué afin de retirer les données situées à plus de 250km des frontières terrestres ou maritimes canadiennes."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/75dfb8cb-9efc-4c15-bcb5-7562f89517ce"
+  ],
+  "dct_issued_s": "2023-04-06",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/75dfb8cb-9efc-4c15-bcb5-7562f89517ce\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Lightning Density Data",
+  "gbl_mdModified_dt": "2025-10-15T15:07:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c1770eba-8a2a-5721-979c-cf5775d5742f",
+  "locn_geometry": "ENVELOPE(-156.14535, -38.69435, 73.7233886, 31.5413886)",
+  "schema_provider_s": "Open Data Canada"
+}

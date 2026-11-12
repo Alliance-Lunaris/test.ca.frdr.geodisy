@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-81.46025074, -63.83818043, 48.45509439, 41.75125779)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides the results obtained by Health Canada’s Radiological Monitoring Network (CRMN) for tritium content in atmospheric water vapor sampled from monitoring stations in Ontario, Quebec and New Brunswick. More information about the CRMN network can be found on the Health Canada website (see link below). The results provided are for tritium activity concentration, expressed in units of becquerels per cubic meter (Bq/m3). Atmospheric water is sampled monthly for determination of tritium content. The majority of such monitoring activity occurs in close proximity to nuclear power plants. Until 1996, Health Canada monitored the areas near Darlington, Bruce and Pickering in Ontario, Gentilly in Quebec, and Point Lepreau in New Brunswick. In 1996, Health Canada’s monitoring of the Ontario stations was terminated to avoid redundancy, since a similar initiative was underway through the Ontario Ministry of Labour. Currently, the CRMN monitors six sites in the vicinity of Point Lepreau, four sites in the vicinity of Gentilly, and a single site in the Greater Toronto Area. The average tritium concentration for the CRMN stations is 0.22 Bq/m3 for the time period from 2004 to 2013. This is consistent with results reported for other monitoring stations in close proximity to Canadian nuclear power stations, and the levels are considered to be safe from a health perspective. Note that the tritium values are measured using liquid scintillator measurements. This requires removing the background contribution from the measurement. The uncertainty associated with each measurement, can lead to reported values of less than zero. The map shows the approximate sampling location for each monitoring station. Stations are found within the associated location range."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/16348a20-02f4-4557-b68c-d1754e3026a4"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/16348a20-02f4-4557-b68c-d1754e3026a4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "The Canadian Radiological Monitoring Network – Tritium in Atmospheric Water Vapour",
+  "gbl_mdModified_dt": "2026-03-24T15:31:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1918d06d-dd38-5055-bec3-389973a6f218",
+  "locn_geometry": "ENVELOPE(-81.46025074, -63.83818043, 48.45509439, 41.75125779)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

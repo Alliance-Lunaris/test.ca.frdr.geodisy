@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.7228, -94.9224, 53.3963, 48.9415)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to give an accurate representation of the boundaries of lands closed to hunting in Manitoba.\n\nThe purpose of this dataset is to give an accurate representation of the boundaries of lands closed to hunting in Manitoba. These are defined as lands where hunting and trapping are either prohibited, or special restrictions are in place for certain species and areas are defined within the General Hunting Regulation (351/87), Moose Conservation Closure Regulation (122/2011), Hunting Seasons and Bag Limits Regulation (165/91), and Trapping of Wild Animals Regulation (245/90) of The Wildlife Act (C.C.S.M c. W130). Hunting and trapping prohibitions or restrictions are implemented in certain areas to ensure the conservation of species or enhance public safety. Fields included (Alias (Field Name): Field description) FID (OBJECTID): Sequential unique whole numbers that are automatically generated Id (Id): The number assigned to each restricted area (not currently being used) Name (Name): Name given to the restricted area Restrictions (Restrictions): Description of the restriction applied to the restricted area Director of Surveys Plan (D_of_S): Director of Surveys Plan number which pertains to the boundary of the restricted area Regulation (Regulation): The regulation title defined in The Wildlife Act Shape_Area (Shape_Area): Area of the feature in internal units squared Shape_Length (Shape_Length): Length of the feature in internal units"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/da975b99-692d-51ac-1a89-facd01dda78d"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/da975b99-692d-51ac-1a89-facd01dda78d\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Moose Conservation Closures",
+  "gbl_mdModified_dt": "2026-08-26T11:01:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "416d4ea9-1433-5f3c-a6d9-82e647bf9867",
+  "locn_geometry": "ENVELOPE(-101.7228, -94.9224, 53.3963, 48.9415)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

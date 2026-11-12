@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Statistiques",
+    "Socioeconomic data",
+    "income",
+    "Statistics",
+    "economy",
+    "Données socio-économiques",
+    "société",
+    "statistics",
+    "économie",
+    "revenu",
+    "shelter cost",
+    "ménages",
+    "statistiques",
+    "households",
+    "Recensement",
+    "Census",
+    "frais de logement",
+    "society"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Pourcentage de ménages propriétaires dépensant 30 % ou plus de leur revenu en frais de logement par division de recensement, 2016"
+  ],
+  "dct_creator_sm": [
+    "Statistics Canada | Statistique Canada."
+  ],
+  "dct_description_sm": [
+    "This service shows the proportion of average total income of households which is spent on shelter costs by census division. The data is from the Census Profile, Statistics Canada Catalogue no. 98-316-X2016001.  \n  \n  Shelter-cost-to-income ratio is calculated for private households living in owned or rented dwellings who reported a total household income greater than zero.  \n  \n  Private households living in band housing, located on an agricultural operation that is operated by a member of the household, and households who reported a zero or negative total household income are excluded.  \n  \n  The relatively high shelter-costs-to-household income ratios for some households may have resulted from the difference in the reference period for shelter costs and household total income data. The reference period for shelter cost data is 2016, while household total income is reported for the year 2015. As well, for some households, the 2015 household total income may represent income for only part of a year.  \n  \n  For additional information refer to the 2016 Census Dictionary for 'Total income' and 'Shelter cost'.  \n  \n  To have a cartographic representation of the ecumene with this socio-economic indicator, it is recommended to add as the first layer, the “NRCan - 2016 population ecumene by census division” web service, accessible in the data resources section below.",
+    "Ce service indique la proportion du revenu total moyen des ménages qui est dépensé en frais de logement par division de recensement. Les données proviennent du Profil du recensement, produit n° 98-316-X2016001 au catalogue de Statistique Canada  \n  \n  Le rapport des frais de logement au revenu est calculé pour les ménages privés habitant un logement appartenant à un membre du ménage ou un logement loué et ayant déclaré un revenu total du ménage supérieur à zéro.  \n  \n  Les ménages privés vivant en logement de bande, situés sur une exploitation agricole exploitée par un membre du ménage, et les ménages ayant déclaré un revenu total nul ou négatif sont exclus.  \n  \n  Les ratios relativement élevés des frais de logement au revenu de certains ménages peuvent être occasionnés par la différence de période de référence entre les données sur les frais de logement et les données sur le revenu total du ménage. La période de référence pour les données sur les frais de logement est l’année 2016, alors que le revenu total du ménage a été déclaré pour l’année 2015. De même, pour certains ménages, le revenu total en 2015 ne peut représenter le revenu que d’une partie de l’année.  \n  \n  Pour obtenir de plus amples renseignements, veuillez consulter le Dictionnaire du Recensement de la population de 2016 aux entrées « Revenu total » et « Frais de logement »  \n  \n  Pour avoir une représentation cartographique de l'écoumène avec cet indicateur socio-économique, il est recommandé d’ajouter comme première couche, le service web « RNCan - Écoumène de la population 2016 par division de recensement », accessible dans la section des ressources de données plus bas."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/78af96f9-caac-49bf-83bb-7d6a21676b6e"
+  ],
+  "dct_issued_s": "2019-03-01",
+  "dct_publisher_sm": [
+    "Statistics Canada | Statistique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/78af96f9-caac-49bf-83bb-7d6a21676b6e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "government_and_politics",
+    "society_and_culture"
+  ],
+  "dct_title_s": "Percentage of owner households spending 30% or more income on shelter costs by census division, 2016",
+  "gbl_mdModified_dt": "2022-01-31T17:41:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6427a15d-49bf-510d-81d6-6631ab9450c1",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "schema_provider_s": "Open Data Canada"
+}

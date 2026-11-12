@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.29, -56.49, 46.61, 51.86)",
+  "dcat_keyword_sm": [
+    "other",
+    "Mosaïcs",
+    "Mosaïques",
+    "Photos aériennes",
+    "Aerial photography",
+    "Autre",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mosaïques de photos aériennes des côtes du Québec (2015-2024)"
+  ],
+  "dct_creator_sm": [
+    "Direction régionale de la gestion des écosystèmes.",
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "The project of aerial photography acquisition and mosaics construction aims a better understanding of the eelgrass beds extends on the Quebec coasts. These mosaics will allow us to segment the images in order to create polygons of the extent of the eelgrass and thus monitor its growth over time.  \nThe photos captured vertically following the flight lines previously provided by the DFO were georeferenced and orthorectified with a ground resolution of 30 cm. The digital multispectral camera was placed on an aircraft at a constant altitude for the duration of the flight, to obtain a swath of at least 4 km on the ground. An overlap of 60% to 80% was requested in order to optimize the image during mosaicking.  \nCertain environmental criteria had to be respected to ensure images homogeneity. Shooting had to follow low tide as closely as possible, and be synchronized with the period of the day when the sun's elevation angle was greater than 25 degrees. Wind speed had to be less than 20 km/h, waves less than 1 meter high, and there had to be no cloud cover or fog under the aircraft.  Water turbidity had to be taken into account to ensure identification of eelgrass beds in the water. These flights were carried out to coincide with the eelgrass growth period.  \nSubsequently, the mosaics were created in ArcGis, taking care to select the right order of images to minimize specular reflection.",
+    "Le projet d'acquisition de photos aériennes et la construction de mosaïques, vise un meilleur savoir de l'étendue des herbiers de zostère des côtes du Québec. Ces mosaïques permettront de faire une segmentation des images afin de créer des polygones de l'étendue de la zostère et ainsi, suivre sa croissance dans le temps. \nCes mosaïques raster ont été construites avec les photos aériennes acquises par la division de la planification et conservation marine (DPCM), du MPO (Ministère Pêches et Océans Canada) région du Québec.  \nLes photos captées verticalement en suivant les lignes de vols préalablement fournies par le MPO ont été géoréférencées et orthorectifiées avec une résolution au sol de 30 cm. La caméra numérique multi-spectrale de type UltraCam Xp utilisée était placée sur un avion à 16 500 mètres d'altitude et permettait d'obtenir une fauchée d'au moins 4 km au sol. Un chevauchement de 60% à 80% était demandé afin d'optimiser l'image lors du mosaïquage.  \nCertains critères environnementaux devaient être respectés pour assurer l'homogénéité des images. La prise de photos devait suivre le plus près possible la marée basse, synchronisée avec la période du jour où l'angle d'élévation du soleil est supérieur à 25 degrés, une vitesse du vent inférieur à 20km/h, des vagues de moins de 1 mètre ainsi que des conditions de nébulosité et de brouillard nulles sous l'avion. La turbidité de l'eau devait être prise en compte pour assurer l'identification des herbiers de zostère dans l'eau.  \nLes vols devaient concorder avec la période de croissance de la zostère (Zostera marina).  \nPar la suite, les mosaïques ont été créées dans ArcGis en prenant soin de bien choisir l'ordre des images pour minimiser la réflexion spéculaire et la surbrillance des vagues."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/59e6ddb4-857e-4a97-bdb7-6d02fb91e56d"
+  ],
+  "dct_issued_s": "2015-07-15",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/59e6ddb4-857e-4a97-bdb7-6d02fb91e56d\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Aerial Photo Mosaics of the Coasts of Quebec (2015-2024)",
+  "gbl_mdModified_dt": "2026-07-31T16:35:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83c394e6-5d1f-5f7d-88b0-f522cedeb064",
+  "locn_geometry": "ENVELOPE(-72.29, -56.49, 46.61, 51.86)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

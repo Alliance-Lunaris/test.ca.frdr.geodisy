@@ -1,0 +1,93 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "dcat_keyword_sm": [
+    "Nouveau-Brunswick",
+    "Eaux souterraines",
+    "Water surface",
+    "Glace",
+    "Saskatchewan",
+    "Land surface",
+    "Yukon",
+    "Earth sciences",
+    "Hydropattern",
+    "Land Use",
+    "Canada",
+    "Ontario",
+    "Eau de surface",
+    "Manitoba",
+    "Québec",
+    "Canada",
+    "New Brunswick",
+    "Sciences de la terre",
+    "Territoires du Nord-Ouest",
+    "Land Cover",
+    "Nunavut",
+    "Surface water",
+    "Nouvelle-Écosse",
+    "Newfoundland and Labrador",
+    "hydrosphère",
+    "Alberta",
+    "Hydrosphere",
+    "Utilisation des Terres",
+    "Ontario",
+    "Northwest Territories",
+    "Terre-Neuve-et-Labrador",
+    "Nunavut",
+    "Paysages",
+    "British Columbia",
+    "Yukon",
+    "Hydropattern",
+    "Landscapes",
+    "Couverture des Terres",
+    "Nova Scotia",
+    "Earth Sciences",
+    "Colombie-Britannique",
+    "Sciences de la Terre",
+    "Prince Edward Island",
+    "Québec",
+    "Manitoba",
+    "Surface de l'eau",
+    "Cours d'eau",
+    "Île-du-Prince-Édouard",
+    "Alberta",
+    "Ground Water",
+    "Ice",
+    "Rivers",
+    "Saskatchewan",
+    "Surface émergée"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Images multispectrales composites du Canada sous ciel dégagé produites d'après les canaux (B1 à B7) d'observation des terres du MODIS/Terra à résolution spatiale de 250 m, 2000-03-01 to 2013-01-10"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The Moderate Resolution Imaging Spectroradiometer (MODIS ) is one of the most sophisticated sensors that is used in a wide range of applications related to land, ocean and atmosphere. It has 36 spectral channels with spatial resolution varying between 250 m and 1 km at nadir. MODIS channels 1 (B1, visible) and 2 (B2, near infrared) are available at 250 m spatial resolution, an additional five channels for terrestrial applications (bands B3 to B7) are available at 500 m spatial resolution, the other twenty-nine channels not included in this data set capture images with a spatial resolution of 1 km. The MODIS record begins in March 2000 and extends to present with daily measurements over the globe. This level 3 product for Canada was created from the following original Level 1 (1B) MODIS data (collection 5): a) MOD02QKM - Level 1B 250 m swath data, 5 min granules; b ) MOD02HKM - level 1B , 500 m swath data, 5 min granules; c) MOD03 - level 1 geolocation information, 1 km swath data, 5 min granules. All these data are available from the DAAC Earth Observing System Data Gateway (NASA http://ladsweb.nascom.nasa.gov/data/search.html). The terrestrial channels MODIS (B3 to B7) at 500 m spatial resolution were reduced to  250 m with an adaptive regression system and normalization described in Trishchenko et al. (2006, 2009), and the data were mapped using a Lambert Conformal Conic (LCC ) projection (Khlopenkov et al., 2008). These data were combined to form pan-Canadian images using a technique for detection of clear sky, clouds and cloud shadows with a maximum interval of 10 days (Luo et al., 2008). Atmospheric and sun-sensor geometry corrections have not been applied. For each date, data include forward and backward scattering observations as separate files. This allows data to be optimized for a given application. For general use, data from either forward or backward scattering or both should be used. Future release of the MODIS time series will correct the forward and backward scattering geometry to provide a single best observation for each pixel.",
+    "Le Spectroradiomètre imageur à résolution moyenne (MODIS) est un des capteurs les plus perfectionnés qui est utilisé dans un vaste éventail d’applications liées à la terre, à l’océan et à l’atmosphère. Il compte 36 canaux spectraux dont la résolution spatiale varie entre 250 m et 1 km au nadir. Les canaux du MODIS 1 (B1, visible) et 2 (B2, proche infrarouge) sont disponibles avec une résolution spatiale de 250 m, cinq autres canaux destinés aux applications terrestres (bandes B3 à B7) sont disponibles avec une résolution spatiale de 500 m et les vingt-neuf autres canaux qui ne sont pas inclus dans cet ensemble de données saisissent des images avec une résolution de 1 km. Les enregistrements du MODIS ont commencé en mars 2000 et ils se poursuivent par la saisie quotidienne de mesures sur l’ensemble du globe. Ce produit de niveau 3 montrant des scènes captées au-dessus du Canada a été créé à partir des données originales de niveau 1 (1B) suivantes du MODIS (collection 5) : a) MOD02QKM – données de niveau 1B, fauchée de 250 m, granules de 5 min, b) MOD02HKM – données de niveau 1B, fauchée de 500 m, granules de 5 min; c) MOD03 – information de géolocalisation de niveau 1, fauchée de 1 km, granules de 5 min. Toutes ces données sont disponibles dans le portail DAAC Earth Observing System Data Gateway de la NASA (http://ladsweb.nascom.nasa.gov/data/search.html). On a réduit l’échelle des canaux terrestres de 500 m du MODIS (B3 à B7) à une résolution spatiale de 250 m grâce à un système adaptatif de régression et de normalisation, décrit dans Trishchenko et al. (2006, 2009), puis les données ont été projetées de nouveau dans une projection conique conforme de Lambert (CCL) (Khlopenkov et al., 2008). Ces données ont été regroupées pour former des images pancanadiennes au moyen d’une technique de détection des ciels dégagés, des nuages et de l’ombre des nuages avec un intervalle maximum de 10 jours (Luo et al., 2008). Aucune correction atmosphérique ou correction de la géométrie Soleil-capteur n’a été appliquée.Pour chaque date, les données comprennent les observations en prodiffusion et en rétrodiffusion sous forme de fichiers distincts. Cela permet d’optimiser les données pour une application particulière. Dans les cas d’utilisation générale, on devrait utiliser les données en prodiffusion, celles en rétrodiffusion ou les deux. Une version ultérieure de la série temporelle du MODIS corrigera la géométrie de la prodiffusion et de la rétrodiffusion afin de fournir une observation idéale unique pour chaque pixel."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7c954356-a099-2925-5b00-023eb775b90f"
+  ],
+  "dct_issued_s": "2018-02-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7c954356-a099-2925-5b00-023eb775b90f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Multi-Spectral Clear-Sky Composites of MODIS/Terra Land Channels (B1 - B7) Over Canada at 250m Spatial Resolution, 2000-03-01 to 2013-01-10",
+  "gbl_mdModified_dt": "2022-02-26T15:26:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9c274532-b592-5cfd-8f3f-1a1e391cc0b1",
+  "locn_geometry": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "schema_provider_s": "Open Data Canada"
+}

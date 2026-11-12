@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Gaz à effet de serre",
+    "Réservoirs (Lacs)",
+    "Ecosystem Metabolism",
+    "Reservoirs",
+    "Greenhouse gases"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Maia Barbosa, Pedro (UQAM | Université du Québec à Montréal, Federal University of Juiz de Fora, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9858-964X",
+    "Bodmer, Pascal (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-7383-889X",
+    "Stadler, Masumi (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-5048-8436",
+    "Rust, Felipe (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9700-6246",
+    "Tremblay, Alain (Hydro-Quebec). ORCID: https://orcid.org/0000-0002-8105-4072",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and measurement units: sample.name, series = system, year, season, julian.day, sampling.date, lat. = latitude (decimal degrees), long. = longitude (decimal degrees), depth (m), secchi (m), distance.from.mouth (km), catchment.area (km2), atm.pressure.ysi (mmHg), temp.water (°C), do.perc.ysi (%), do.cor.perc.ysi = corrected for pressure (%), do.conc.ysi (mg/L), pH.ysi, wind.max.kestrel = maximum wind speed from Kestrel (m/s), wind.avg.kestrel = average wind speed (m/s), temp.air.kestrel = air temperature measured with Kestrel (°C), humidity.rel (%), chla = chlorophyl (ug/L), TP = total phosphorous (ug/L), TN = total nitrogen (mg/L), DOC = dissolved organic carbon (mg/L), DIC = dissolved inorganic carbon (mg/L), pco2.headspace (ppm), flux.co2 (mmol.m2.d-1), kco2.flux = kco2 from flux (m.d-1), k600 (m.d-1), d13Cco2 = isotopic signature of CO2 (‰), dO18.h2o = isotopic signature of oxygen in the water (‰), dO18.do = isotopic signature of oxygen in the dissolved oxygen (‰), gpp(v) = volumetric GPP (mg O2 m-3 d-1), er(v) = volumetric ER (mg O2 m-3 d-1), nep(v) = volumetric NEP (mg O2 m-3 d-1), gpp(a) = areal GPP (mg O2 m-2 d-1), er(a) = areal ER (mg O2 m-2 d-1), nep(a) = areal NEP (mg O2 m-2 d-1), p:er = GPP to ER ratio, nep(a)mgC = areal NEP in mg of carbon (mg C m-2 d-1), del.emiss = delta emission (mg C m-2 d-1), del.emiss.fick = delta emission from modeled fluxes (mg C m-2 d-1), fco2.fick = modeled CO2 flux (mmol. m-2 d-1)",
+    "Data was sampled during June (spring), August (summer), and October (fall) of 2017 and 2018, in different sites inside 3 reservoirs of the La Romaine complex (RO1, RO2, and RO3), as well as in the main river and some tributaries, and surrounding lakes. Environmental data, as well as water samples for O18 of water, and dissolved oxygen in the water were sampled in each site, each campaign. Isotopic data was used to estimate volumetric and areal rates of gross primary production (GPP), ecosystem respiration (ER), and the resulting net ecosystem production (NEP)."
+  ],
+  "dct_identifier_sm": [
+    "441457_281357_281358",
+    "https://doi.org/10.5683/SP3/HLTKAV"
+  ],
+  "dct_issued_s": "2023-02-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/HLTKAV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "La Romaine: metabolism and related environmental data [2017-2018]",
+  "gbl_mdModified_dt": "2023-12-08T14:26:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f5984b3a-b34b-5f79-b58d-67f6090b09ef",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

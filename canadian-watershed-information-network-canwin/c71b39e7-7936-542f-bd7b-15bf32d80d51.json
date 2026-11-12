@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer presents 7‑day and 10‑day accumulated precipitation forecasts from the Global Deterministic Prediction System (GDPS), aggregated by sub-basin. It is designed to help hydrologists, water resource managers, and emergency planners pinpoint watersheds facing higher rainfall or snowfall totals in the medium-to-long range, enabling proactive flood risk assessment, drought monitoring, and resource allocation.\n\nDeveloped by Environment and Climate Change Canada (ECCC), the GDPS is a global numerical weather prediction model running at approximately 15km resolution, updated twice daily (00Z and 12Z). This layer integrates 168-hour (7‑day) and 240-hour (10‑day) precipitation forecasts into sub-basin polygons, offering a comprehensive view of expected cumulative precipitation. By focusing on watershed boundaries, decision-makers can quickly gauge regional vulnerabilities to prolonged rainfall or snowfall events.Key highlights: Global Model Insight: Captures large-scale, multi-day weather systems (e.g., atmospheric rivers, persistent low-pressure systems). Sub-Basin Aggregation: Delivers averaged precip values per basin, simplifying hydrological analysis for flood or drought outlooks. Extended Outlook: Spanning from day 0 to day 10, covers both medium- and longer-term forecast horizons, essential for strategic planning and mitigation efforts. Typical Uses:Flood Forecasting – Identifying basins prone to heavy or prolonged precipitation. Water Resource Management – Adjusting reservoir release schedules or irrigation planning based on expected accumulations. Emergency Preparedness – Deploying resources or issuing advisories in vulnerable watersheds."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/37d947c0-7930-097f-0cff-ff511ea9b423"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/37d947c0-7930-097f-0cff-ff511ea9b423\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (GDPS - 168 hrs / 240 hrs)",
+  "gbl_mdModified_dt": "2026-03-25T11:31:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c71b39e7-7936-542f-bd7b-15bf32d80d51",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

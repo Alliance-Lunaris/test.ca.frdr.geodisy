@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Microbiome",
+    "High throughput screening",
+    "Pathogens",
+    "Stochastic processes",
+    "Ecology",
+    "Community assembly",
+    "Plant pathogens"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chen, Melissa (University of British Columbia). ORCID: https://orcid.org/0000-0002-5257-9355",
+    "Fulton, Leah (University of British Columbia).",
+    "Huang, Ivie (University of British Columbia).",
+    "Liman, Aileen (University of British Columbia).",
+    "Hossain, Sarzana (University of British Columbia).",
+    "Hamilton, Corri (University of Pittsburgh).",
+    "Song, Siyu (University of British Columbia).",
+    "Geissmann, Quentin (Aarhus University).",
+    "King, Kayla (University of British Columbia).",
+    "Haney, Cara (University of Pittsburgh)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 8</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.w9ghx3fxd</p>\n<p><b>Storage size:</b> 624242111</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>The likelihood that a host will be susceptible to infection is influenced by the interaction of diverse biotic and abiotic factors. As a result, substantial experimental replication and scalability are required to identify the contributions of and interactions between the host, and the environment, and biotic factors such as the microbiome. For example, pathogen infection success is known to vary by host genotype, microbiota strain identity and dose, and pathogen dose. Elucidating the interactions between these factors <em>in vivo </em>has been challenging because testing combinations of these variables quickly becomes experimentally intractable. Here, we describe a novel high throughput plant growth system (MYCroplanters) to test how multiple host, microbiota, and pathogen variables predict host health. Using an Arabidopsis-<em>Pseudomonas</em> host-microbiota-pathogen model, we found that host genotype and bacterial strain order of arrival predict host susceptibility to infection, but pathogen and microbiota dose can overwhelm these effects. Host susceptibility to infection is therefore driven by complex interactions between multiple factors that can both mask and compensate for each other. However, regardless of host or inoculation conditions, the ratio of pathogen to microbiota emerged as a consistent predictor of disease. Our results demonstrate that high-throughput<em> </em>tools like MYCroplanters can isolate interacting drivers host susceptibility to disease. Increasing the scale at which we can screen drivers of disease outcomes, such as microbiome community structure, will facilitate both disease predictions as well as engineering solutions for medicine and agricultural applications.</p>",
+    "<b>Methods</b><br /><p>This dataset includes all raw data generated from MYCroplanter experiments between January 2021 through March 2024. We have also included processing code (for image processing) and STL files for 3D printing MYCroplanters. </p>\n<h3>MYCroplanter data (01_Analysispath_compratio, 02_Analysispath_fluoranalysis, 03_Analysispath_priorityeffects)</h3>\n<p>MYCroplanters are custom 3D printed polylactic acid (PLA) micro-planters that grow <em>Arabidopsis thaliana</em> seedlings in 96-well plates. Sterile MYCroplanters (sterilized with chlorine gas) were placed in a 8x12 array germination tray on top of solid plant media containing 1/2X MS, 0.5% MES, 2% sucrose, 0.5% phytoagar, pH 5.8 (pH adjusted with 1M KOH). The germination tray were placed inside a standard single-well polystyrene plate. Sterile <em>A. thaliana</em> seeds (sterilized with 0.3% H2O2 + 70% EtOH and cold-stratified in advance for 2-5 days) were individually pipetted into each MYCroplanter such that seeds rest directly on the phytoagar below the mycroplanter. Plants were allowed to germinate between 5-7 days.</p>\n<p>At 5-7 days old, seedlings were inoculated with bacteria by transferring each mycroplanter into a 96-plate well pre-filled with 1/2X MS plant growth media and bacterial inoculant. Plates were sealed with 3M micropore tape and plants are kept in bacterial solution for 7 days. Growth conditions were approximately 110 µMol light in 12h/12h day/night conditions, at 23C.</p>\n<p>To collect plant health data, MYCroplanters were transferred to a custom 3D printed scanning tray at the end of the experiment, covered in a piece of glass, and inverted onto a Epson Perfection V850 Pro Photo Scanner. Reflective scans in 48-bit colour at a resolution of 600dpi were taken. Images were processed using a custom python script, which divided each scanned image into an 8x12 array and separated plants from the background using a green and red ratio filter. Fluorescence readings (where applicable) for mCrimson and Neon labelled bacterial strains were measured by a plate reader at 612/646 and 495/525 nm (excitation/emission), respectively. Cell counts (where applicable) were derived from serially diluting cultures from wells or plants (homogenized in MgSO4 buffer) and growing on LB or LB + antibiotics with X-gal. To differentiate strains, some strains had a lacZ genomic insertion. </p>\n<h3>Plate data (04_Analysispath_priorityplates)</h3>\n<p><em>A. thaliana </em>seedlings were sterilized using chlorine gas (300mL 6% bleach + 6mL HCl) for one hour and cold-stratified in water for 2 days. Seeds were germinated on vertical 1% phytoagar plates with 1/2MS 1/2MES 2% sucrose for 6 days. Seedlings were transferred to 1/2MS 1/2MES (no sucrose) 1% phytoagar plates, and allowed to acclimatize for one day before inoculations. For concurrent inoculations, 6µL total of 0.001OD cultures were added to the plant. For delayed inoculations, 6µL of 0.001 OD culture was inoculated on the first day, and 6µL of 0.001OD culture was inoculated on the second day. For <em>in vitro </em>treatments, cultures were spotted onto identical phytoagar plates with no plants growing. In each treatment, one of the strains included a lacZ genomic insertion. Relative abundances of CFUs were counted from serially diluted plates. </p>\n<h3>Supplemental data (05_SupplementalData)</h3>\n<p>A full description of methods can be found in our manuscript. In short, strains were tested for plasmid burden (via growth curves) and for plasmid loss (via CFU counts on selective and non-selective media). For growth curves, strains were grown in either LB (Luria broth) or plant growth media + succinate (0.5MS 0.5MES +succinate) at 28C and absorbance at 600nm was measured every 15 minutes to estimate increases in cell density. For plasmid loss experiments, strains were inoculated onto 5-day-old seedlings in MYCroplanters and incubated for 7 days. After 7 days, liquid cultures were spread onto non-selective media plates (LB) and individual CFUs were transferred to selective media plates (LB + tetracyclin) to determine what percentage of CFUs retained the plasmid (which conferres tetracyclin resistance).</p>\n<h3>Health score data (Healthscore_data)</h3>\n<p>Individuals ranked plant health of 10 sets of 10 plants by clicking and dragging plant images so that they were ordered least healthy (left) to most healthy (right); and by moving the vertical bar between where they considered plants 'healthy' (right) and 'not healthy' (left). Researchers then saved their rankings and returned their files. This data was used to determine whether the Health Scores calculated from scanned plant images were reasonable approximations of plant health, according to human experts.</p>"
+  ],
+  "dct_identifier_sm": [
+    "869520_150149",
+    "https://doi.org/10.5683/SP3/MXZ0MG"
+  ],
+  "dct_issued_s": "2025-01-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MXZ0MG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Order among chaos: high throughput MYCroplanters can distinguish interacting drivers of host infection in a highly stochastic system",
+  "gbl_mdModified_dt": "2025-01-16T14:19:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a9a686cc-b71e-5005-bb9d-66d6b5e152c8",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

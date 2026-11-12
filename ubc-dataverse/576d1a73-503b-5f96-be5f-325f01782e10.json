@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.0533, -110.423, 60.60766, 47.68929)",
+  "dcat_keyword_sm": [
+    "wildlife diet",
+    "dietary niche",
+    "Oncorhynchus",
+    "landscape ecology",
+    "pacific salmon"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Van Elslander, Jonathan (University of British Columbia, University of British Columbia, Okanagan). ORCID: https://orcid.org/0000-0003-4854-1124",
+    "Mowat, Garth (British Columbia Ministry of Water, Lands, and Resource Stewardship, University of British Columbia). ORCID: https://orcid.org/0000-0001-5576-2043",
+    "Bourbonnais, Mathieu (University of British Columbia, Okanagan, University of British Columbia). ORCID: https://orcid.org/0000-0002-8781-1978"
+  ],
+  "dct_description_sm": [
+    "A 1 kilometre resolution map of available salmon biomass in kilograms averaged over 1994 to 2021 for the entire province of British Columbia. NAD83/BC Albers projection (EPSG: 3005).\n\nCreated by linking the New Salmon Escapement Database System (Fisheries and Oceans Canada 2016, url: open.canada.ca/data/en/dataset/c48669a3-045b-400d-b730-48aafe8c5ee6) to the B.C. Freshwater Atlas (GeoBC 2010, url: www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater). Salmon escapement counts for the five major species of anadromous salmon (Oncorhynchus gorbusha, Oncorhynchus keta, Oncorhynchus kisutch, anadromous Oncorhynchus nerka, Oncorhynchus tschawytscha) were converted to biomass in kilograms based on average spawner mass data by species from Service et al. (Service et al. 2019, url: doi.org/10.1111/1365-2656.12932). These biomass measurements were then matched by water feature code to spatial features in the Freshwater Atlas. We then interpolated total salmon biomass for all five species, averaged over the time of our study (1994 to 2021) using a Stewart gravity model (Stewart 1942, url: doi.org/10.2307/2784954) with a span of 50 km and a beta (distance decay) coefficient of 1.7, creating an output raster with a 1km resolution. Due to the overwhelming influence of the lower Fraser River population estimates and potential sampling bias (as the population is sampled again in upstream reaches), we removed escapement data from the Lower Fraser."
+  ],
+  "dct_identifier_sm": [
+    "986965_73901",
+    "https://doi.org/10.5683/SP3/AMP2YN"
+  ],
+  "dct_issued_s": "2025-09-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AMP2YN\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Available salmon biomass for British Columbia (1994-2021) at 1km resolution",
+  "gbl_mdModified_dt": "2026-01-16T19:13:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "576d1a73-503b-5f96-be5f-325f01782e10",
+  "locn_geometry": "ENVELOPE(-139.0533, -110.423, 60.60766, 47.68929)",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Machine learning",
+    "State of health",
+    "Battery"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chen, Junran (McMaster University).",
+    "Manivanan, Manjula (McMaster University).",
+    "Kollmeyer, Phillip J. (McMaster University). ORCID: https://orcid.org/0000-0003-3576-672X"
+  ],
+  "dct_description_sm": [
+    "The provided code files are utilized to construct a convolutional neural network (CNN)-based state of health (SOH) estimator using data from Samsung 30T cylindrical 21700 cells. These files encompass essential functions: 1) Preprocessing of original data, including normalization and data splitting, 2) Training the CNN-based SOH estimator, and 3) Evaluating performance and generating result plots for the CNN-based SOH estimator. The comprehensive functionality of these files, as well as detailed discussion of results, are extensively covered in the IEEE Xplore publication titled \"A Convolutional Neural Network for Estimation of Lithium-Ion Battery State-of-Health during Constant Current Operation,\" and supplemented by the accompanying user guide \"CNN based SOH estimation code - Users Guide.pdf\".\n\nThe battery aging data used is also open source:\n“Fifteen minute fast charge aging dataset - Samsung 30T cells”, Borealis Data, 2023. https://doi.org/10.5683/SP3/UYPYDJ"
+  ],
+  "dct_identifier_sm": [
+    "446433",
+    "https://doi.org/10.5683/SP3/6AGUAW"
+  ],
+  "dct_issued_s": "2023-08-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/6AGUAW\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Convolutional Neural Network Battery SOH Estimation Example Code",
+  "gbl_mdModified_dt": "2023-08-23T16:47:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "46b849c3-db17-55ed-9f9e-68634f64718f",
+  "schema_provider_s": "McMaster University Dataverse"
+}

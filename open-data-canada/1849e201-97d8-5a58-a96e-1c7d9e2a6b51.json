@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.5335, -92.8438, 58.7297, 48.9723)",
+  "dcat_keyword_sm": [
+    "Property",
+    "Government information",
+    "Government",
+    "Province of Manitoba",
+    "Parcels",
+    "Municipality",
+    "Tax",
+    "Land",
+    "canada",
+    "Manitoba Government",
+    "Manitoba",
+    "Parcel Mapping",
+    "Property Assessment",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "ENTRÉE AU RÔLE"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "Boundary geometry and summary assessment data for all of the assessed property within the Province of Manitoba. Please visit the Manitoba Property Assessment website for more information www.gov.mb.ca/assessment\n\nBoundary geometry for all of the assessed property within the Province of Manitoba. Please visit the Manitoba Property Assessment website for more information www.gov.mb.ca/assessment. The purpose is to provide end users with a digital map of Manitoba's property assessment boundaries and summary assessment data. This data layer is suitable for GIS georeferencing. The Manitoba Property Assessment Information data reflects the most current mapping data available and was originally uploaded to Manitoba Maps as a feature layer on December 23, 2016. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated ROLL_NO: Identify property within a municipality ROLL_NO_TXT: Identify property within a municipality. Formatted with 3 decimals PROPERTY_ADDRESS: Civic address if the property has one. Otherwise short legal description-section/township/range or plan MUNI_NO: Manitoba municipality identifier number MUNICIPALITY: Manitoba municipality identifier number and legal name of municipality MUNI_NAME_WITH_TYP: Name of municipality suitable for alphabetical list including type ASMT_ROLL: Tax year and assessment roll version (Preliminary, Final, Tax) DWELLING_UNITS: Number of dwelling units on the property FRONTAGE_OR_AREA: size of property in either acres or feet of frontage TOTAL_VALUE: Assessed value of property as of tax year and assessment roll version",
+    "Géométrie des limites et données d'évaluation sommaires pour toutes les propriétés évaluées dans la province du Manitoba. Veuillez consulter le site Web d'évaluation foncière du Manitoba pour plus d'informations : www.gov.mb.ca/assessment\n\nGéométrie des limites de toutes les propriétés évaluées dans la province du Manitoba. Veuillez consulter le site Web d'évaluation foncière du Manitoba pour plus d'informations : www.gov.mb.ca/assessment. L'objectif est de fournir aux utilisateurs finaux une carte numérique des limites d'évaluation foncière du Manitoba et des données d'évaluation sommaires. Cette couche de données convient au géoréférencement SIG. Les données d'évaluation foncière du Manitoba reflètent les données cartographiques les plus récentes disponibles et ont été initialement téléchargées sur Manitoba Maps sous forme de couche d'entités le 23 décembre 2016. Champs inclus : OBJECTID : nombres entiers uniques séquentiels générés automatiquement ROLL_NO : Identifier une propriété au sein d'une municipalité ROLL_NO_TXT : Identifier une propriété au sein d'une municipalité. Formaté avec 3 décimales PROPERTY_ADDRESS : adresse municipale si la propriété en possède une. Autrement brève description légale : section, canton, rang ou plan MUNI_NO : Numéro d'identification de la municipalité du Manitoba MUNICIPALITÉ : Numéro d'identification de la municipalité du Manitoba et nom légal de la municipalité MUNI_NAME_WITH_TYP : Nom de la municipalité adapté à la liste alphabétique, y compris le type ASMT_ROLL : année d'imposition et version du rôle d'évaluation (préliminaire, final, fiscal) LOGEMENTS : nombre d'unités d'habitation sur la propriété FRONTAGE_OR_AREA : taille de la propriété en acres ou en pieds de la façade TOTAL_VALUE : valeur imposable de la propriété à l'année d'imposition et version du rôle d'évaluation\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1cf8672a-2258-2917-0c8e-4cb8eb6401d9"
+  ],
+  "dct_issued_s": "2016-12-15",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1cf8672a-2258-2917-0c8e-4cb8eb6401d9\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "ROLL ENTRY",
+  "gbl_mdModified_dt": "2026-03-11T11:31:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1849e201-97d8-5a58-a96e-1c7d9e2a6b51",
+  "locn_geometry": "ENVELOPE(-101.5335, -92.8438, 58.7297, 48.9723)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.08083580876412, -78.97479337519187, 43.972663970438724, 43.82338859582862)",
+  "dcat_keyword_sm": [
+    "Carruthers",
+    "Service Backup: Not Required",
+    "Plan",
+    "CTC",
+    "intrinsic vulnerability",
+    "highly vulnerable aquifer",
+    "groundwater",
+    "CCWP",
+    "Source Water Protection",
+    "HVA",
+    "surface water",
+    "Watershed",
+    "TRCA",
+    "Creek",
+    "2015"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p><span><span>Entity Name: SW Highly Vulnerable Aquifer</span></span></p><p><span><span>Table Name: SW_HIGHLY_VULNERABLE_AQUIFR_FT</span></span></p><p><span><span>An underground water supply, or aquifer, that can easily be contaminated because overlaying soil layers are thin or permeable.</span></span></p><table><tbody><tr><td><p></td><td><p><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p><span><span>DATATYPE</span></span></p></td><td><p><span><span>REQ</span></span></p></td><td><p><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p></td><td><p><span><span>HVA_ID</span></span></p><p><span><span>HVA_ID</span></span></p></td><td><p><span><span>NUMBER(12)</span></span></p></td><td><p><span><span>Yes</span></span></p></td><td><p><span><span>A unique numeric identifier assigned to each feature.</span></span></p></td></tr><tr><td><p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPP_ID</span></span></p></td><td><p><span><span>NUMBER(2)</span></span></p></td><td><p><span><span>Yes</span></span></p></td><td><p><span><span>Identifier for the source protection area that provided the original data about the feature. SPP_ID values range from 0 to 48 chosen from Lookup Table: SOURCE_PROT_AREA_LIST.</span></span></p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p></td><td><p><span><span>SHAPE</span></span></p><p><span><span>SHAPE</span></span></p></td><td><p><span><span>SDO_GEOMETRY</span></span></p></td><td><p><span><span>Yes</span></span></p></td><td><p><span><span>Geometry attribute.</span></span></p></td></tr></tbody></table><p><span><span>The CTC selected an advanced Aquifer Vulnerability Index (AVI) approach to delineate HVAs. This approach uses the interpreted products of geological and numerical models (three dimensional geologic layers) produced for the study area. Estimates of vertical and horizontal flow directions and flux are also considered. This advanced AVI approach is approved by the province. The AVI method produces a numerical index representing the relative vulnerability of an aquifer, based on the type and thickness of the soil above. The index quantifies the natural vulnerability of aquifers to sources of contamination at or near the surface, and through a translation process, categorizes groundwater vulnerability as high, medium, or low. The groundwater vulnerability is then converted into a vulnerability score, adn this score provides the ultimate expression of the groundwater vulnerability. Each aquifer is scored separately. The vulnerability of deeper aquifers take into account the protection afforded by overlying materials (aquifers and aquitards).</span></span></p><p><span><span>According to the AVI methodology, an area with a vulnerability score of 6 has a 'high' groundwater vulnerability and is therefore an HVA.</span></span></p><p><span /></p></div></div></div></p></p></p></p></p></p></p></p></p></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "951967d0327d4322a942560c8b325030",
+    "https://www.arcgis.com/home/item.html?id=951967d0327d4322a942560c8b325030"
+  ],
+  "dct_issued_s": "2021-03-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::ccwp-highly-vulnerable-aquifers\"}",
+  "dct_title_s": "CCWP Highly Vulnerable Aquifers",
+  "gbl_mdModified_dt": "2025-03-21T20:50:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dafb5a9e-5f77-5fbb-8693-ac06f8b87875",
+  "locn_geometry": "ENVELOPE(-79.08083580876412, -78.97479337519187, 43.972663970438724, 43.82338859582862)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

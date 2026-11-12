@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dcat_keyword_sm": [
+    "Événement",
+    "Aléa",
+    "Sinistre",
+    "Information gouvernementale",
+    "Sévérité",
+    "Sécurité civile"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des opérations."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to make it possible to locate civil security events recorded by the Operations Directorate of the Ministry of Homeland Security. It brings together in a structured way operational information related to completed claims that have had an impact on citizens, goods or services to the population since June 2020. Ongoing events are not shown.\n\nIt contains information concerning the date of reporting, the hazard, the municipality and the severity of the event.\n\nAttention:\n\nThe wording of the hazards was changed in 2026 (see list in the additional information).\n\nThe severity level changed in meaning in January 2026:\n\n* __Overview__ (formerly Unknown):\n\nNegligible or Surveillance, no disturbances. The minimum severity “On surveillance” isolates events under surveillance or in forecasting (as opposed to events with real impacts, i.e. where interventions and consequences materialize).\n\nThese events are separated into a layer called __Potential civil security events__. \n\nThe __Civil Security Events__ layer, on the other hand, excludes “On Watch” severity events. \n\n* __Minor__: Normal functioning of the community despite some minor disturbances, not requiring or \n\nrequiring limited mobilization of local resources, localized impacts, rapid recovery.\n\n* __Moderate__: Disruptions in community functioning requiring significant mobilization of local resources or existing agreements. Degradation or partial interruption of certain services and sectors of activity, specific media issue, several sectors affected.\n\n* __Significant__: Significant and long-lasting disruption to community functioning. Mobilization of external resources required for certain issues. Interruption or significant deterioration of the majority of services.\n\n* __Extreme__: Situation in which the community cannot function without significant external resource support, massive evacuation, considerable losses.\n\nFor points BEFORE 2026: the severity used is defined according to the Canadian Common Alert Protocol Profile (PC-PAC). It is used to characterize the severity level of an event based on the harm to the lives of people or damage to property. For more information on the PC-PAC, consult the Public Safety Canada website.\n\n* Extreme: extraordinary threat to life or property;\n\n \n\n* Important: significant threat to life or property; \n\n* Moderate: possible threat to life or property; \n\n* Minor: low or non-existent threat to life or property; \n\n* On monitoring/Unknown: severity unknown.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Ce jeu de données a pour but de permettre de localiser les événements de sécurité civile consignés par la Direction des opérations du ministère de la Sécurité intérieure. Il regroupe de façon structurée l’information opérationnelle reliée aux sinistres terminés ayant eu des conséquences sur les citoyens, les biens ou les services à la population depuis juin 2020. Les événements en cours ne sont pas présentés.\n\nOn y retrouve des informations concernent la date de signalement, l’aléa, la municipalité et la sévérité de l’événement.\n\nAttention :\n\nLe libellé des aléas a été changé en 2026 (voir liste dans les informations complémentaires).\n\nLe degré de sévérité a changé de signification en janvier 2026 :\n\n* __En surveillance__ (anciennement Inconnue):\n\nNégligeable ou Surveillance, aucune perturbation. La sévérité minimale “En surveillance” isole les événements en surveillance ou en prévision (par opposition aux événements avec des impacts réels c'est à dire où les interventions et conséquences se matérialisent).\n\nCes événements sont séparés dans une couche nommée __Événements de sécurité civile potentiels__ . \n\nLa couche __Événements de sécurité civile__ quant à elle, exclut les événements de sévérité \"En surveillance\". \n\n* __Mineure__ : Fonctionnement normal de la communauté malgré certaines perturbations mineures, ne nécessitant pas ou \n\nnécessitant une mobilisation limitée des ressources locales, impacts localisés, rétablissement rapide.\n\n* __Modérée__ : Perturbations du fonctionnement de la communauté nécessitant une mobilisation importante des ressources locales ou des ententes existantes. Dégradation ou interruption partielle de certains services et secteurs d’activité, enjeu médiatique spécifique, plusieurs secteurs touchés.\n\n* __Importante__ : Perturbation importante du fonctionnement de la communauté et de longue durée. Mobilisation de ressources externes requises pour certains enjeux. Interruption ou dégradation importante de la majorité des services.\n\n* __Extrême__ : Situation lors de laquelle la communauté ne peut pas fonctionner sans un soutien de ressources externes important, évacuation massive, pertes considérables.\n\nPour les points AVANT 2026 : la sévérité utilisée est définie selon le profil canadien du protocole d’alerte commun (PC-PAC). Il est utilisé pour caractériser le niveau de gravité d’un événement en fonction de l’atteinte à la vie de personnes ou de dommages à la propriété. Pour plus de renseignements sur le PC-PAC, consulter le site internet de Sécurité publique Canada.\n\n* Extrême : menace extraordinaire à la vie ou à la propriété;\n\n \n\n* Importante : menace importante à la vie ou à la propriété; \n\n* Modérée : menace possible à la vie ou à la propriété; \n\n* Mineure : menace faible ou inexistante à la vie ou à la propriété; \n\n* En surveillance/Inconnue : gravité inconnue."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae"
+  ],
+  "dct_issued_s": "2020-10-07",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Événements de sécurité civile",
+  "gbl_mdModified_dt": "2026-09-30T17:40:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1dc73b23-6e4a-5cef-b9b4-bc219f4ee614",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Open Data Canada"
+}

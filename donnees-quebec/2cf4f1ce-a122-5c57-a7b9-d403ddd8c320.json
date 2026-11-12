@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Crue",
+    "Catastrophe",
+    "Aléa",
+    "Carte",
+    "Crue printannière",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre des opérations gouvernementales."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données a pour but de localiser les événements liés aux inondations du printemps 2023 consignés par la Direction générale adjointe des opérations du ministère de la Sécurité publique. Toutes les données sont consultables sur une carte interactive et disponibles sous forme de services web WMS et WFS.\r\n\r\n> <font size=\"2\">Pour suivre en direct l'état des cours d'eau, veuillez vous référer à l'application [Vigilance - Surveillance de la crue des eaux](https://vigilance.geo.msp.gouv.qc.ca/)</font>\r\n\r\n### Liste des données disponibles :\r\n* **Polygones d'étendue d'eau libre dérivés de données satellitaires** : limites d’étendue des eaux libres dérivées d'images satellitaires radar.\r\n* **Localisation des événements d’inondation depuis le 14 avril 2023** : points localisant approximativement les événements d'inondation consignés par la Direction des opérations du ministère de la Sécurité publique à partir du 14 avril 2023 (dérivé du jeu de données [Événements de sécurité civile](https://www.donneesquebec.ca/recherche/dataset/evenements-de-securite-civile)).\r\n\r\n* **Municipalités touchées par des événements d'inondations depuis le 14 avril 2023** : représentation cartographique des municipalités touchées par des événements d'inondation depuis le 14 avril 2023.\r\n\r\n* **Image satellitaire Sentinel-2** : image satellitaire couvrant des secteurs inondés et présentée sous forme d’un composé coloré utilisant les longueurs d’ondes de l’infrarouge bande courte, du proche infrarouge et du rouge.\r\n\r\n###Note:\r\nLes acquisitions satellites de la mission de la Constellation RADARSAT (MCR) sont planifiées en collaboration avec Ressources naturelles Canada. Les images obtenues sont traitées par les services géomatiques d’urgence de Ressources naturelles Canada dans les meilleurs délais puis les polygones d'étendue d'eau libre sont diffusés en données ouvertes sur Données Canada et sur Données Québec. D’autres acquisitions optiques ou radars peuvent avoir été obtenues par le ministère de la Sécurité publique (MSP) de fournisseurs privés. Les acquisitions Sentinel-1 et Sentinel-2 diffusées en données ouvertes par l’agence spatiale européenne (ASE) ont été traitées par la firme Dromadaire Géo-Innovations."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/94857bac-3013-4f25-8e84-f40e01fccd11"
+  ],
+  "dct_issued_s": "2023-04-18",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/94857bac-3013-4f25-8e84-f40e01fccd11\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Cartographie des inondations du printemps 2023",
+  "gbl_mdModified_dt": "2026-04-21T20:25:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2cf4f1ce-a122-5c57-a7b9-d403ddd8c320",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.72, -57.28, 51.8, 46.69)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Krill is a generic name for crustaceans of the order Euphausiids, most of which are known to be Thysanoessa raschii and Meganyctiphanes norvegica in eastern Canada. Krill is an important food resource for many marine mammals, in particular the blue whale.\n\nThe maps show the points of high krill concentration per month from April to November. Each point gives the number of years of high aggregation probability (6 to 10 years). The data were produced from a mathematical model developed in Plourde et al. 2016. The model has allowed to calculate the probability of meeting a strong aggregation of krill over a period of 10 years. High krill aggregations are defined as the 95th percentile of predicted biomass in 10 x 10 km cells covering the Estuary and Gulf of St. Lawrence.\n\nAdditional Information:\n\nPlourde, S., Lehoux, C., McQuinn, I.H., and Lesage, V. (2016).  Describing krill distribution in the western North Atlantic using statistical habitat models. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/111. v + 34 p.\n\nMcQuinn, I.H., Gosselin, J.-F., Bourassa, M.-N., Mosnier, A., St-Pierre, J.-F., Plourde, S., Lesage, V., Raymond, A. 2016. The spatial association of blue whales (Balaenoptera musculus) with krill patches (Thysanoessa spp. and Meganyctiphanes norvegica) in the estuary and northwestern Gulf of St. Lawrence. DFO Can. Sci. Advis. Sec. Res. Doc. 2016/104. iv + 19 p. \n\nThe data are incomplete upstream of Pointe-des-Monts because of the lack of water height anomalies in the area (variable being used to predict aggregations of krill). A less number of years with a high aggregation of krill is thus represented but that should not be interpreted as a less favorable zone compared to areas East of Pointe-des-Monts."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/729fbd20-ddec-43a9-a7f5-2963031a387b"
+  ],
+  "dct_issued_s": "2019-04-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/729fbd20-ddec-43a9-a7f5-2963031a387b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Significant areas of krill in the Estuary and Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-04-28T13:30:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec49af52-bc79-59bd-bb8b-a39609af67c6",
+  "locn_geometry": "ENVELOPE(-68.72, -57.28, 51.8, 46.69)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

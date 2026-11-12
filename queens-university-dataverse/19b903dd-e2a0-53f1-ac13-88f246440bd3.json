@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "Deep Learning",
+    "Visual SLAM",
+    "Visual Odometry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bruno, Hudson (Queen's University. School of Computing). ORCID: https://orcid.org/0000-0002-0963-0637",
+    "Cabral, Kleber (Queen's University. School of Computing). ORCID: https://orcid.org/0000-0002-5536-4122",
+    "Givigi, Sidney (Queen's University. School of Computing). ORCID: https://orcid.org/0000-0002-3829-3545",
+    "Colombini, Esther (University of Campinas). ORCID: https://orcid.org/0000-0003-0467-3133"
+  ],
+  "dct_description_sm": [
+    "This is a dataset used in the experiments for the paper \"A comparison of deep learning-based visual odometry algorithms in challenging scenarios.\" The experiments were conducted using data collected by a Quanser QCAR equipped with a Realsense D435 camera. We only provide the RGB information with a resolution of 1920x1080 pixels. The robot's ground-truth pose information was gathered through an external Vicon motion capture system. \n\nThere are three sequences, sequence 1 is very simple as it involves no curves. The robot traveled approximately 3.13 meters in 15.5 seconds (103 frames) in this sequence. Sequence 2 contains a curve and the robot traveled for a distance of 7.73 meters in 40 seconds (242 frames). Sequence 3 is the most challenging one as it includes three curves. In this sequence, the robot traveled for a distance of 17.40 meters, taking about 66.6 seconds to complete the path (408 frames). \n\nAdditionally, for each sequence, there are 5 types of emulated failures: camera overexposure, camera underexposure, lens condensation, lens breakage, and lens dirt."
+  ],
+  "dct_identifier_sm": [
+    "841716",
+    "https://doi.org/10.5683/SP3/VIG3FC"
+  ],
+  "dct_issued_s": "2024-11-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VIG3FC\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Replication Data for: A comparison of deep learning-based visual odometry algorithms in challenging scenarios",
+  "gbl_mdModified_dt": "2024-11-01T13:47:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "19b903dd-e2a0-53f1-ac13-88f246440bd3",
+  "schema_provider_s": "Queen's University Dataverse"
+}

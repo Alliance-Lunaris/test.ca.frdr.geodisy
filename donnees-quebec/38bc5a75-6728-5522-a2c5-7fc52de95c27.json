@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Rtcs",
+    "Donnee ouverte",
+    "Arret de bus",
+    "Taxi",
+    "Carte interactive",
+    "Bus",
+    "Msp",
+    "Transport en commun",
+    "Autobus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des arrêts accès bus de la régie de transport en commun de Shawinigan (RTCS) sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n![Logo du RTCS](https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n**Méthode de collecte**\n  Localisation à l’adresse correspondante\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _zones_ (_String_) : Zone\n* _adresse_ (_String_) : Adresse\n* _coin_rue_ (_String_) : Coin de rue\n* _abri_bus_ (_String_) : Abri bus\n* _no_embarquement_ (_String_) : Numéro d'embarquement\n* _globalid_ (_GlobalID_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/f72cba67662b4b289105b52c5b7d412c\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/631b2590-f079-4e3b-b3b7-a9f678e77a72"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/631b2590-f079-4e3b-b3b7-a9f678e77a72\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport"
+  ],
+  "dct_title_s": "Arrets Accès bus (RTCS) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "38bc5a75-6728-5522-a2c5-7fc52de95c27",
+  "schema_provider_s": "Données Québec"
+}

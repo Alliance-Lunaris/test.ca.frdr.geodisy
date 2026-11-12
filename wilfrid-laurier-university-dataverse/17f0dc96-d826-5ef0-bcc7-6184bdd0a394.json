@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-146.43, -110.92, 66.81, 58.25)",
+  "dcat_keyword_sm": [
+    "Terrestrial Hydrosphere",
+    "Surface Water Processes/ Measurements",
+    "Aquatic Ecosystem",
+    "Inundation",
+    "Biosphere",
+    "Ecosystems",
+    "Wetlands",
+    "Surface Water"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Huang, C. (Northwest University). ORCID: https://orcid.org/0000-0002-8621-4581",
+    "Smith, Laurence C. (Brown University). ORCID: https://orcid.org/0000-0001-6866-5904",
+    "Kyzivat, E.D. (Brown University). ORCID: https://orcid.org/0000-0002-4748-2938",
+    "Fayne, J.V. (University of Michigan). ORCID: https://orcid.org/0000-0003-2352-546X",
+    "Spence, Christopher (Environment and Climate Change Canada, Environment and Climate Change Canada). ORCID: https://orcid.org/0000-0003-1059-2217"
+  ],
+  "dct_description_sm": [
+    "This record is for the dataset “ABoVE: Wetland Inundation Coverage at Yukon Flats, AK and PA Delta, Canada, 2017-2019” at <a href= \" https://doi.org/10.3334/ORNLDAAC/1901\">https://doi.org/10.3334/ORNLDAAC/1901</a>\n<p><p> \n\nThis dataset provides time series of wetland inundation coverage maps and corresponding inundation frequency maps at ~10-meter resolution estimated every 12 days during the free-water period (May to October) for the years 2017-2019 over the Yukon Flats (YK) portion of the Yukon River, Alaska, USA, and the Peace-Athabasca Delta (PAD), Alberta, Canada. Wetland inundation coverage was determined by a two-step modified decision-tree classification approach that first used Sentinel-1 C-band SAR to identify likely inundated areas across a study site and was followed by a decision-tree classification step with C-band SAR backscatter statistics thresholds to distinguish among different inundation components. The result of this process was five classes for each inundation map, namely Open Water (OW), Floating Plants (FP), Emergent Plants (EP), Flooded Vegetation (FV), and Dry Land (DRY). After all the individual (every 12 days) inundation coverage maps were derived for a study site, they were generalized to two-class maps which maintained only inundation status. These generalized maps were then stacked and summarized to produce the inundation frequency map for the site. In these maps, higher values signify more frequently inundated areas, with the maximum value representing permanently inundated pixels. The Sentinel-1 inundation mapping capability demonstrated here provided frequent, broad-scale mapping of different wetland inundation components. Integration of such products with process-based methane (CH4) models would improve simulation of CH4 emissions from wetlands. <p>\nThis dataset can be downloaded at <a href= \" https://doi.org/10.3334/ORNLDAAC/1901\">https://doi.org/10.3334/ORNLDAAC/1901</a>"
+  ],
+  "dct_identifier_sm": [
+    "720159_137_716466",
+    "https://doi.org/10.5683/SP3/DJYU6F"
+  ],
+  "dct_issued_s": "2024-12-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/DJYU6F\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "ABoVE: Wetland Inundation Coverage at Yukon Flats, AK and PA Delta, Canada, 2017-2019",
+  "gbl_mdModified_dt": "2024-12-11T17:39:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17f0dc96-d826-5ef0-bcc7-6184bdd0a394",
+  "locn_geometry": "ENVELOPE(-146.43, -110.92, 66.81, 58.25)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // LaurierGWFO"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

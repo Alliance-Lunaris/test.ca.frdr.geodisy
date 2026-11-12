@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "FGD",
+    "ORN",
+    "roads",
+    "Economy and Business",
+    "Government information",
+    "emergency services",
+    "Mapping and Information Resources Branch",
+    "streets",
+    "mapping",
+    "highways",
+    "Driving and roads",
+    "Ontario Road Network",
+    "Foundation Geospatial Data",
+    "Infrastructure and Transportation",
+    "Environment and Natural Resources",
+    "land use planning",
+    "transport"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Produit composite de la base de données Réseau routier de l’Ontario"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "The Ontario Road Network (ORN) Composite product is a segmented derivative of the ORN Road Net Element (ORNELEM) data class. You can use it for mapping and general spatial analysis. Road segment information includes: * addressing * full street name * alternate street name * speed limit * number of lanes * pavement status * road class * jurisdiction * route number * direction of traffic flow * shield type information The ORN is a provincewide geographic database of over 250,000 km of: * municipal roads * provincial highways * resource and recreational roads The ORN is the authoritative source of roads data for the Government of Ontario. This product is derived from the [ORN Road Net Element](https://geohub.lio.gov.on.ca/datasets/mnrf::ontario-road-network-orn-road-net-element/about) data class. It combines three types of geometry: * road elements * ferry connections * virtual roads This product also includes additional road feature layers including: * blocked passages * underpasses * toll points * structures",
+    "Le produit composite de la base de données Réseau routier de l’Ontario est un dérivé segmenté de la classe de la base de données Réseau routier de l’Ontario : Road Net Element (ORNELEM). Vous pouvez l’utiliser pour la cartographie et l’analyse spatiale générale. L’information sur les routes comprend : * Les adresses * Le nom de la route en entier * Le ou les autres noms de la route * La limite de vitesse * Le nombre de voies * L’état du revêtement * La classe de route * Le territoire de compétence * Le numéro de la route * Le sens de la circulation * L’information sur le type de protection La base de données Réseau routier de l’Ontario est une base de données géographique couvrant l’ensemble de la province et comprenant plus de 250 000 km de routes : * Routes municipales * Autoroutes provinciales * Chemins récréatifs et chemins d’accès aux ressources La base de données [Réseau routier de l’Ontario](https://geohub-fr.lio.gov.on.ca/datasets/mnrf::r%C3%A9seau-routier-de-lontario-road-net-element/explore) est la source de données de référence sur les routes pour le gouvernement de l’Ontario. Ce produit est dérivé de la classe de données Réseau routier de l’Ontario : Road Net Element. Il combine trois types de géométrie : * Éléments routiers * Liaisons par traversier * Routes virtuelles Ce produit comprend également des couches de caractéristiques routières supplémentaires, notamment : * Les passages bloqués * Les passages inférieurs * Les points de péage * Les structures** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f61ce160-e432-4f4d-a06c-508b3da384f9"
+  ],
+  "dct_issued_s": "2024-02-06",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f61ce160-e432-4f4d-a06c-508b3da384f9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Ontario Road Network (ORN) Composite",
+  "gbl_mdModified_dt": "2026-05-27T13:31:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40b138fd-cd1c-5b0c-9c25-d801850c4f60",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

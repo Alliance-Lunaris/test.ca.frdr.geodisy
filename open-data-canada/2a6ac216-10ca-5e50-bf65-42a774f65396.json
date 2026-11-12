@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.846114, -109.081415, 60.093061, 48.920871)",
+  "dcat_keyword_sm": [
+    "ARIS",
+    "LOCATION",
+    "HARVEST-AREA",
+    "CUTBLOCK",
+    "OPENING-NUMBER",
+    "Government information",
+    "DOWNLOADABLE-DATA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Numéros d'ouverture du système d'information sur la régénération GOA Alberta"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "The Alberta Regeneration Information System (ARIS) requires a unique identifier assigned to a cutblock to enable tracking within ARIS. This number is generated from a point roughly derived from the centre of the cutblock. The number is a concatenation of the point's legal description plus a grid cell number. The format is MRRTTTSSGG where M - Meridian, RR - Range, TTT - Township, SS - Section, GG - grid cell. The MRRTTSS information is derived with reference to the Alberta Township System. The grid cell is derived from a 10 by 10 grid that is overlaid on the section that the centre of the cutblock is contained in. Grid cells are numbered between 00 - 99 with the grid origin at the bottom left corner of the section and anchored to the centre of grid cell 00. The first digit represents the grid column and the second digit is the grid row of the 10 by 10 matrix. Note that in some cases a letter may be appended to the end of the opening number where an opening number had to be split between two cutblocks for some reason. For example, cutblocks may have the same basic opening number but one is differentiated from the other with one having an A and the other having a B appended to the end of the base opening number.This dataset contains all the potential opening numbers in the Green Area of the province, either as a whole or by Forest Management Unit (FMU).",
+    "Le système d'information sur la régénération de l'Alberta (ARIS) nécessite un identifiant unique attribué à un bloc de coupe pour permettre le suivi dans ARIS. Ce nombre est généré à partir d'un point dérivé approximativement du centre du bloc de coupe. Le numéro est une concaténation de la description légale du point et d'un numéro de cellule de la grille. Le format est MRRTTTSSGG où M est le méridien, RR le rang, TTT le canton, SS la section, GG la cellule de la grille. Les informations MRRTTSS sont dérivées en référence au système des cantons de l'Alberta. La cellule de la grille est dérivée d'une grille de 10 x 10 qui est superposée à la section dans laquelle se trouve le centre du bloc de coupe. Les cellules de la grille sont numérotées entre 00 et 99, l'origine de la grille étant située dans le coin inférieur gauche de la section et ancrée au centre de la cellule 00. Le premier chiffre représente la colonne de la grille et le deuxième chiffre est la ligne de la grille de la matrice 10 x 10. Notez que dans certains cas, une lettre peut être ajoutée à la fin du numéro d'ouverture lorsqu'un numéro d'ouverture a dû être partagé entre deux blocs pour une raison ou une autre. Par exemple, les blocs de coupe peuvent avoir le même numéro d'ouverture de base, mais l'un est différencié des autres, l'un ayant un A et l'autre un B ajouté à la fin du numéro d'ouverture de base. Cet ensemble de données contient tous les numéros d'ouverture potentiels dans la zone verte de la province, soit dans leur ensemble, soit par unité de gestion forestière (FMU).\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9fef910a-5f56-45ff-988f-738035a8ebfe"
+  ],
+  "dct_issued_s": "2017-11-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9fef910a-5f56-45ff-988f-738035a8ebfe\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "GOA Alberta Regeneration Information System Opening Numbers",
+  "gbl_mdModified_dt": "2026-03-04T20:10:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2a6ac216-10ca-5e50-bf65-42a774f65396",
+  "locn_geometry": "ENVELOPE(-120.846114, -109.081415, 60.093061, 48.920871)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.13696302901963, -79.54766993173322, 43.989261275614325, 43.48322951870999)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Boundaries",
+    "locate",
+    "street name",
+    "Address",
+    "mapping",
+    "unit",
+    "street number",
+    "geocode",
+    "location"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>This is the primary address point file for the Region of Peel, covering all three municipalities. The dataset includes the main address (\"prime address\") as well as associated unit addresses, when known. The address data covers all types of addresses (residential, commercial, industrial, greenspace, etc.). Various data sources feed the address point database, such as employment surveys, development applications, day-to-day Regional work, and the local municipalities.</SPAN></P><P><SPAN>Addresses are first placed on the parcel and then their location is more refined as more data or updated imagery is available. A majority of the addresses are placed on the building centroid. Units may be placed in no particular order or location on a building, but if enough information is available they may be placed at the location of the actual unit in the building.</SPAN></P><P><SPAN>The ROPADRID field is a unique identifier for each address, LINK_ID provides the ROPSTSEGID of the related street segment, and SIDE_OF_RD provides the side of the street the address is on.</SPAN></P></DIV></DIV></DIV>"
+  ],
+  "dct_identifier_sm": [
+    "4fc1e07e426a4ef3b69a5a517dcd0bb2",
+    "https://www.arcgis.com/home/item.html?id=4fc1e07e426a4ef3b69a5a517dcd0bb2"
+  ],
+  "dct_issued_s": "2019-11-21",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::address-points\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Address Points",
+  "gbl_mdModified_dt": "2025-06-20T04:11:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "71305bc4-58aa-5527-9be0-b38315d1d9a8",
+  "locn_geometry": "ENVELOPE(-80.13696302901963, -79.54766993173322, 43.989261275614325, 43.48322951870999)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.9139, -121.2121, 55.9076, 48.045)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nData on recreational boating are needed for marine spatial planning initiatives in British Columbia (BC). Vessel traffic data are typically obtained by analyzing automatic identification system (AIS) vessel tracking data, but recreational vessels are often omitted or underrepresented in AIS data because they are not required to carry AIS tracking devices. Transport Canada’s National Aerial Surveillance Program (NASP) conducted aerial surveys to collect information on recreational vessels along several sections of the BC coast between 2018 and 2022. \n\nRecreational vessel sightings were modeled against predictor variables (e.g., distance to shore, water depth, distance to, and density of marinas) to predict the number of recreational vessels along coastal waters of BC.\n\nThe files included here are:\n--A Geodatabase (‘Recreational_Boating_Data_Model’), which includes: (1) recreational vessel sightings data collected by NASP in BC and used in the recreational vessel traffic model (‘Recreational_Vessels_PointData_BC’); (2) aerial survey effort (or number of aerial surveys) raster dataset (‘surveyeffort’); and (3) a vector grid dataset (2.5 km resolution) containing the predicted number of recreational vessels per cell and predictor variables (‘Recreational_Boating_Model_Results_BC).\n--Scripts folder which includes R Markdown file with R code to run the modelling analysis (‘Recreational_Boating_Model_R_Script’) and data used to run the code.\n\nMethods:\nData on recreational vessels were collected by NASP during planned aerial surveys along pre-determined routes along the BC coast from 2018 to 2022. Data on non-AIS recreational vessels were collected using video cameras onboard the aircraft, and data on AIS recreational vessels using an AIS receiver also onboard the aircraft. Recreational boating predictors explored were: water depth, distance to shore, distance to marinas, density of marinas, latitude, and longitude. Recreational vessel traffic models were fitted using Generalized Linear Models (GLM) R packages and libraries used here include: AED (Roman Lustrik, 2021) and MASS (Venables, W. N., Ripley, 2002), pscl package (Zeileis, Kleiber, and Jackman, 2008) for zeroinfl() and hurdle() function. Final model was selected based on the Akaike’s information criterion (AIC) and the Bayes’ information criterion (BIC). An R Markdown file with code use to run this analysis is included in the data package in a folder called Script. \n\nSpatial Predictive Model: The selected model, ZINB, consist of two parts: one with a binomial process that predicts the probability of encountering a recreational vessel, and a second part that predicts the number of recreational vessels via a count model. The closer to shore and to marinas, and the higher the density of marinas, the higher the predicted number of recreational vessels. The probability of encountering recreational vessels is driven by water depth and distance to shore. For more information on methodology, consult metadata pdf available with the Open Data record.\n\nReferences:\nSerra-Sogas, N. et al. 2021. Using aerial surveys to fill gaps in AIS vessel traffic data to inform threat assessments, vessel management and planning. Marine Policy 133: 104765. https://doi.org/10.1016/j.marpol.2021.104765\n\nData Sources:\nRecreational vessel sightings and survey effort: Data collected by NASP and analyzed by Norma Serra to extract vessel information and survey effort (more information on how this data was analyzed see SerraSogas et al, 2021). \nBathymetry data for the whole BC coast and only waters within the Canadian EEZ was provided by DFO – Science (Selina Agbayani). The data layer was presented as a raster file of 100 meters resolution. Coastline dataset used to estimate distance to shore and to clip grid was provided by DFO – Science (Selina Agbayani), created by David Williams and Yuriko Hashimoto (DFO – Oceans). \nMarinas dataset was provided by DFO – Science (Selina Agbayani), created by Josie Iacarella (DFO – Science). This dataset includes large and medium size marinas and fishing lodges. The data can be downloaded from here: Floating Structures in the Pacific Northwest - Open Government Portal (https://open.canada.ca/data/en/dataset/049770ef-6cb3-44ee-afc8-5d77d6200a12)\n\nUncertainties:\nModel results are based on recreational vessels sighted by NASP and their related predictor variables and not always might reflect real-world vessel distributions. Any biases caused by the opportunistic nature of the NASP surveys were minimized by using survey effort as an offset variable."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fed5f00f-7b17-4ac2-95d6-f1a73858dac0"
+  ],
+  "dct_issued_s": "2023-07-07",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fed5f00f-7b17-4ac2-95d6-f1a73858dac0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Recreational Vessel Traffic Model for British Columbia",
+  "gbl_mdModified_dt": "2026-03-24T08:03:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1806011c-e4aa-5a8c-863b-16b127c6ab78",
+  "locn_geometry": "ENVELOPE(-133.9139, -121.2121, 55.9076, 48.045)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-130.44526, 130.405411, 46.433346, -46.453511)",
+  "dcat_keyword_sm": [
+    "GIS",
+    "Bathymetry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Stephen Lougheed (Queen's University). ORCID: https://orcid.org/0000-0003-1466-3668"
+  ],
+  "dct_description_sm": [
+    "The data recorded was cleaned using Depthstar with the ‘Smart Filters’ Sonar Threshold set to 0.1 and the Moving Average Threshold set to 0.5. Additional anomalies that were not cleaned by the ‘Smart Filters’ were deleted manually. The data was georeferenced with the Sound Reduction Method set to WLRS, Sound Velocity Correction set to Nearest in Time and Position Source set to Precise Point Positioning. The cleaned data points were first processed by TIN to Raster to produce a smoother layer before interpolation. The resulting layer was then interpolated using Natural Neighbour in Spatial Analyst with the cell size left optional. The cleaned data points were first processed by TIN to Raster to produce a smoother layer before interpolation. The resulting layer was then interpolated using Natural Neighbour in Spatial Analyst with the cell size left optional.",
+    "This raster shows a large portion of Lake Opinicon’s bathymetry and can be used in studies requiring precise depths of the lake. The raster has a cell size of 3 and 3 meters and was created using the Hydroball medium-shallow model. The points were then interpolated into a raster in ArcMap using Natural Neighbor (Spatial Analyst). This file could be accessed by using the free software QGIS."
+  ],
+  "dct_identifier_sm": [
+    "115293_87",
+    "https://doi.org/10.5683/SP2/WMME5K"
+  ],
+  "dct_issued_s": "2020-07-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/WMME5K\"}",
+  "dct_rights_sm": [
+    "This dataset is made available with limited information on how it can be used. You may wish to communicate with the Contact(s) specified before use."
+  ],
+  "dct_spatial_sm": [
+    "Elgin, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Lake Opinicon Bathymetry",
+  "gbl_mdModified_dt": "2024-07-26T14:58:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "46ebb0d4-4487-512d-84ed-03e1fd9051b4",
+  "locn_geometry": "ENVELOPE(-130.44526, 130.405411, 46.433346, -46.453511)",
+  "pcdm_memberOf_sm": [
+    "Queen's University Biological Station Data Archive Dataverse"
+  ],
+  "schema_provider_s": "Queen's University Dataverse"
+}

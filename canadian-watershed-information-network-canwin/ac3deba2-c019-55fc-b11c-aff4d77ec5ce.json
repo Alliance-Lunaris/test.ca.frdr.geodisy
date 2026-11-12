@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "High-resolution statistically downscaled climate indices relevant to climate change impacts in Canada are available at a 10 km spatial resolution and an annual temporal resolution for 1951-2100.  The climate indices are based on model projections from 24 global climate models (GCMs) that participated in the Coupled Model Intercomparison Project Phase 5 (CMIP5). To address the needs of different user groups in Canada, agroclimate indices and other indices that were proposed by the Canadian adaptation community through a series of consultations are provided. This range of climate indices are of relevance to adaptation planning for different sectors in Canada, such as human and ecological health, agriculture and energy. Available for download are indices that represent the counts of the number of days when temperature or precipitation exceeds (or is below) a threshold value; the lengths of episodes when a particular weather/climate condition occurs; and indices that accumulate temperature departures above or below a fixed threshold.\r\n\r\nMulti-model datasets of the statistically downscaled climate indices for historical simulations and three emission scenarios, RCP2.6, RCP4.5 and RCP8.5, are available. Both multi-model ensembles and individual model output are available for download. The fifth, 25th, 50th (median), 75th and 95th percentiles of the annual ensembles are available for each climate index, from 1951-2100.\r\n\r\nNote: Projections among climate models can vary because of differences in their underlying representation of earth system processes. Thus, the use of a multi-model ensemble approach has been demonstrated in recent scientific literature to likely provide better projected climate change information.\r\n\r\nFurther, projected future changes by statistically downscaled products are not necessarily more creditable than those by the underlying climate model outputs. In many cases, especially for absolute threshold-based indices, projections based on downscaled data have smaller spread because of the removal of model biases. However, this is not the case for all indices. Downscaling from GCM resolution to the fine resolution needed for impacts assessment increases the level of spatial detail and temporal variability to better match observations. Since these adjustments are GCM dependent, the resulting indices could have wider spread when computed from downscaled data as compared to those directly computed from GCM output. In the latter case, it is not the downscaling procedure that makes future projection more uncertain; rather, it is indicative of higher variability associated with finer spatial scale."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0a896af8-f2be-4cf5-a745-2e1792db04a1"
+  ],
+  "dct_issued_s": "2019-04-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0a896af8-f2be-4cf5-a745-2e1792db04a1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Statistically downscaled climate indices",
+  "gbl_mdModified_dt": "2022-02-21T14:54:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ac3deba2-c019-55fc-b11c-aff4d77ec5ce",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

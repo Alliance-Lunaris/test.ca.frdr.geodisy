@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.33804341, -75.26894237, 45.52470405999999, 44.96797983)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "traffic",
+    "Community",
+    "walk",
+    "collisions",
+    "Health and Safety",
+    "car",
+    "bike",
+    "A city that is more connected with reliable safe and accessible mobility options",
+    "pedestrian"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><b>Update frequency:</b><span style='font-family:inherit; font-size:medium;'> Annually</span><br /></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><br /></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><b>Accuracy:</b></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><br /></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'>The City of Ottawa provides this information in good faith but provides no warranty, nor accepts any liability arising from any incorrect, incomplete or misleading information or its improper use.</font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><br /></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><b><i>Collision Data Accuracy:</i></b></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='font-family:inherit; font-size:medium;'><br /></span></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='font-family:inherit; font-size:medium;'>Each reportable collision occurring on public roadways is sent to the City of Ottawa and is validated at least once.  </span><span style='font-family:inherit; font-size:medium;'>Approximately 50% of the records are validated once again by a senior staff. Additionally, many queries are run on the database looking for errors.</span></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><br /></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font size='3' style='font-family:inherit;'><b><i>X &amp; Y Accuracy:</i></b></font></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='font-family:inherit; font-size:medium;'><br /></span></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='font-family:inherit; font-size:medium;'>Collisions are pinned according to information provided by the officer on the Motor Vehicle Collision Report.  </span>In some cases, insufficient information was provided, and the collision location is an estimate. </div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><b>Attributes:</b></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><ul><li>X and Y coordinate format is projected in MTM Zone 9, NAD83 (CSRS)</li><li>KML and CSV/XLS formats are projected in latitude, longitude (WGS84)</li><li>Date</li><li>Time</li><li>Location description (RD1 @ RD2 or RD from RD 1 to RD 2)</li><li>Classification of collision (non-fatal, fatal, property damage only)</li><li>Collision location (Intersection, non-intersection, at/near private driveway)</li><li>Road surface condition (Ice, wet, dry snow...)</li><li>Environment (Clear, rain, snow…)</li><li>Light (daylight, dawn, dusk…)</li><li>Initial impact type (Angle, turning movement, rear-end…)</li><li>Traffic control (stop, traffic signal, no control…)</li><li>No. of Bicycles</li><li>No. of Motorcycles</li><li><span style='font-family:inherit; color:black;'>Max Injury (Highest injury level in the collisions)</span></li><li><span style='font-family:inherit; color:black;'>No. of Injuries          </span></li><li><span style='font-family:inherit; color:black;'>No. of Minimal (Person did not go to hospital when leaving the scene of the collision)         </span></li><li><span style='font-family:inherit; color:black;'>No. of Minor (Person went to hospital and was treated in the emergency room, but not admitted) </span></li><li><span style='font-family:inherit; color:black;'>No. of Major (Person admitted to hospital.  Includes person admitted for observation.  This could be either life threatening or non-life threatening)</span></li><li><span style='font-family:inherit; color:black;'>No. of Fatal (Person killed immediately or within 30 days of the motor vehicle collision)</span></li><li>Latitude and longitude</li></ul><div style='font-family:inherit;'><strong>Contact</strong>: <a href='mailto:zac.brydges@ottawa.ca' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:inherit;' target='_blank' rel='nofollow ugc noopener noreferrer'>Transportation Data Collection &amp; Analytics</a></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "9a91a607e0854bb68371980d29835574",
+    "https://www.arcgis.com/home/item.html?id=9a91a607e0854bb68371980d29835574"
+  ],
+  "dct_issued_s": "2022-01-26",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::2019-tabular-transportation-collision-data\"}",
+  "dct_title_s": "2019 Tabular Transportation Collision Data",
+  "gbl_mdModified_dt": "2024-07-08T18:11:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "08826b7f-bc2e-5b93-abec-50d30ae13965",
+  "locn_geometry": "ENVELOPE(-76.33804341, -75.26894237, 45.52470405999999, 44.96797983)",
+  "schema_provider_s": "Open Ottawa"
+}

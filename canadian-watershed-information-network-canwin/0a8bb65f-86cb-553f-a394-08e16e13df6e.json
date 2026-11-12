@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-168.0, -52.6, 83.2, 41.4)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A vector representation of stream networks is a crucial dataset for the modelling the surface water and groundwater components of the hydrologic cycle. For many usages a crucial attribute of the drainage network is a digital topology and hierarchal stream order attribute (e.g., Strahler stream order). In Canada jurisdictional stream networks are available for the provinces and territories and nationally for Canada in the National Hydrological Network (NHN) dataset. Unfortunately, the NHN data lacks the same topological and attribute information that is available for numerous provinces due to standardization for the entire country. For Canada1Water it was also necessary to have a harmonized dataset with the United States, for both the southern transboundary watersheds and the Alaskan watersheds. This report documents the processes completed to upgrade the topological and graph network support for NHN and provide continuous connectivity with US datasets. It also highlights and corrects a number of stream density and stream order issues that occur within Canada across provincial and territorial borders and NTS tiles. All vector processing was completed in RivEX software extension for ArcMap. Following complete topological correction stream classification was assigned and a table of the node graph network developed. Additional work was then completed to normalize stream density particularly amongst low-order streams between British Columbia and the Yukon and amongst local NTS tiles in Quebec and Ontario. Corrected NHN Strahler stream order assignment was validated against a number of provincial and watershed datasets, all of which already have Strahler stream order attributed. These datasets are the same underlying digitized vector data, so there are no differences in node or polyline positions. Strahler stream order assignment validation was only done by visual comparison as due to differences in vector segments a statistical comparison is complicated. The transboundary integrated C1W stream network with complete classification provides a seamless national dataset to support transdisciplinary studies (fisheries, wildlife, health, pesticide and nutrient issues, mining impact, ecosystem restoration, numeric modelling) that involve a knowledge of stream distribution and ranking."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1c0e8a4e-952c-cd7a-1be8-29691aea2cd1"
+  ],
+  "dct_issued_s": "2025-02-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1c0e8a4e-952c-cd7a-1be8-29691aea2cd1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada1Water Classification of the National Hydro Network: Stream Order and Graph Refinement",
+  "gbl_mdModified_dt": "2025-02-17T19:33:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a8bb65f-86cb-553f-a394-08e16e13df6e",
+  "locn_geometry": "ENVELOPE(-168.0, -52.6, 83.2, 41.4)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-168.0, -59.0, 78.0, 65.0)",
+  "dcat_keyword_sm": [
+    "Modélisation",
+    "North Atlantic",
+    "analyse de sensibilité",
+    "sensitivity analysis",
+    "Climat",
+    "iron cycle",
+    "Climate",
+    "cycles biogéochimiques",
+    "biogeochemical cycles",
+    "Pacifique Nord",
+    "cycle du fer",
+    "North Pacific",
+    "Modelling",
+    "modélisation de l'océan",
+    "Atlantique Nord",
+    "Arctique",
+    "ocean modeling",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Résultats de la simulation d’un modèle biogéochimique océanique pancanadien englobant les océans Atlantique Nord, Pacifique Nord et Arctique"
+  ],
+  "dct_creator_sm": [
+    "James Christian."
+  ],
+  "dct_description_sm": [
+    "Data Description:\n\nMonthly mean simulation results from Canada's three Oceans model (sensitivity experiments--2017). Experiment codes can be matched to specific parameter sets following Table 1 in Christian et al 2026 from Canadian Technical Report of Fisheries and Aquatic Sciences 3721.\n\nAbstract from the report:\n\nA numerical ocean model with biogeochemistry has been developed for a domain that spans Canada's three oceans: the Atlantic, Pacific and Arctic. The domain extends to 26°N in the Atlantic and 44°N in the Pacific, and spans the full width of each basin as well as the whole of the Arctic Ocean. The resolution is moderate to high (≈0.25°, 75 levels). A series of simulations was conducted to assess the best choices for biogeochemical model parameters across the diverse regions, using a variety of validation data sets including satellite ocean colour (surface chlorophyll and particulate organic carbon, integrated primary production), surface underway pCO2, and depth profiles of oxygen and nitrate concentration from ships and Argo floats. An extensive set of parameter sensitivity experiments was conducted which are documented in detail here, with a focus on zooplankton grazing and phytoplankton and zooplankton mortality (linear and quadratic) parameters, and particle sedimentation rates. Sensitivity to many of the parameter adjustments examined is low, but the experiments conducted span the range from weak seasonal biological drawdown of surface inorganic carbon and nutrients, to excessively large drawdown and thermocline oxygen demand. Further, the general nonlinearity of the model response to parameter adjustments is shown by similar parameter sets having very different effects on different data metrics. In addition, the model solution's general insensitivity to some phytoplankton processes (exudation, chlorophyll photooxidation) that are neglected in the 'base case' model simulation is demonstrated. An optimal set of parameters for this domain is proposed, but it is possible that there are unexplored regions of the parameter space that could improve performance, especially if additional observational constraints are applied.",
+    "Description des données:\n\nCet ensemble de données est constitué de résultats moyens mensuels des simulations des trois océans du Canada: l'Atlantique, le Pacifique et l'Arctique (expériences de sensibilité-2017). Les codes d'expérience peuvent être associés à des ensembles de paramètres spécifiques conformément au tableau 1 de l'article de Christian et al. (2026), tiré du Rapport technique canadien sur les pêches et les sciences aquatiques n° 3721.\n\nRésumé du rapport:\n\nUn modèle numérique océanique intégrant la biogéochimie a été développé pour un domaine couvrant les trois océans du Canada: l’Atlantique, le Pacifique et l’Arctique. Ce domaine s'étend jusqu'à 26°N dans l'Atlantique et 44°N dans le Pacifique, et englobe toute la largeur de chaque bassin ainsi que l'océan Arctique dans son intégralité. La résolution est moyenne à élevée (≈0,25°, 75 niveaux). Une série de simulations a été menée afin d’évaluer les paramètres biogéochimiques optimaux pour ces différentes régions, à l’aide de divers ensembles de données de validation, notamment la couleur de l’océan par satellite (chlorophylle de surface et carbone organique particulaire, production primaire intégrée), la pCO₂ de surface en navigation et les profils de concentration d’oxygène et de nitrate mesurés par des navires et des flotteurs Argo. Un ensemble complet d'expériences de sensibilité paramétrique a été réalisé et est documenté en détail ici. Ces expériences portent principalement sur le prédation du zooplancton, la mortalité du phytoplancton et du zooplancton (variations linéaire et quadratique) et les taux de sédimentation des particules. La sensibilité à de nombreux ajustements de paramètres étudiés est faible, mais les expériences menées couvrent un large éventail de situations, allant d'une faible consommation biologique saisonnière du carbone inorganique et des nutriments en surface à une consommation excessive et à une forte demande en oxygène au niveau de la thermocline. De plus, la non-linéarité générale de la réponse du modèle aux ajustements de paramètres est mise en évidence par le fait que des ensembles de paramètres similaires produisent des effets très différents sur différentes métriques. En outre, l'insensibilité générale de la solution du modèle à certains processus phytoplanctoniques (exsudation, photo-oxydation de la chlorophylle) négligés dans la simulation du modèle de référence est démontrée. Un ensemble optimal de paramètres pour ce domaine est proposé, mais il est possible que des régions inexplorées de l'espace des paramètres permettent d'améliorer les performances, notamment en appliquant des contraintes d'observation supplémentaires."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e9d40535-b21f-4363-b5f6-57e761a230df"
+  ],
+  "dct_issued_s": "2026-06-08",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e9d40535-b21f-4363-b5f6-57e761a230df\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Simulation results of a Canada-wide ocean biogeochemical model including the North Atlantic, North Pacific and Arctic Oceans",
+  "gbl_mdModified_dt": "2026-06-19T20:04:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37cd7ae6-f8eb-5908-8b4d-8d5dd25209b2",
+  "locn_geometry": "ENVELOPE(-168.0, -59.0, 78.0, 65.0)",
+  "schema_provider_s": "Open Data Canada"
+}

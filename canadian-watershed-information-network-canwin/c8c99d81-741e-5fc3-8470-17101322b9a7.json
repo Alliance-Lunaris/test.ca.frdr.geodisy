@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.3, -134.8, 60.9, 60.6)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "We documented seasonal and daily activity patterns of Common Nighthawk (Chordeiles minor) near Whitehorse, Yukon, to evaluate the appropriateness at higher latitudes of national survey protocols for this species. Nighthawk vocalizations and audible aerial displays were detected at four locations using automated sound recording units (SM2+ Song Meters, Wildlife Acoustics) from June to August 2013-2014. \r\n\r\nWe used two 5-minute recording segments for each hour, spaced 30 minutes apart, from at least one hour before sunset to at least one hour after sunrise. In 2013, we made a 5-minute recording every 30 minutes, while in 2014 we made a one-hour recording every hour and extracted two 5-minute segments from each recording for analysis.\r\n\r\nWe developed a “recognizer” using Songscope software to automatically scan the 5-minute recording segments and detect “peent” calls. If at least one peent call was detected on a segment, then the spectrogram of that segment was visually scanned by a technician who counted occurrences of the “boom” sound, an audible flight display that is thought to be indicative of nesting territory. For every recording segment with peent calls detected, the previous and subsequent segments were also visually scanned by the technician and booms counted, even if no peent calls were detected by the Songscope recognizer on those recording segments. If the recognizer did not detect peent calls at a site for several nights, we did not scan subsequent recordings from that site. In total, 7296 5-minute recording segments were analysed."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fc1c477b-8270-47e7-a5e5-cbb61192a903"
+  ],
+  "dct_issued_s": "2024-03-12",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fc1c477b-8270-47e7-a5e5-cbb61192a903\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Common Nighthawk (Chordeiles minor) daily and seasonal activity in southern Yukon",
+  "gbl_mdModified_dt": "2024-03-15T19:19:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c8c99d81-741e-5fc3-8470-17101322b9a7",
+  "locn_geometry": "ENVELOPE(-135.3, -134.8, 60.9, 60.6)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Point layer of the registration points (centroids) of the evaluation units of the graphic matrix.\n\n**Collection context**\n Update provided by the evaluator or evaluation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID` (`integer`): Identifier\n* `ADM01A` (`varchar`): Municipality code\n* `SI0317A` (`smalldatetime`): Registration date\n* `SI0317B` (`integer`): Representation scale\n* `SI0317C` (`varchar`): Registration\n* `SI0317D` (`varchar`): Location\n* `SI0102C` (`varchar`): Section\n* `SI0103C` (`varchar`): Division\n* `UNIT_V` (`varchar`): Neighborhood unit\n* `NOTES` (`varchar`): Notes\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelle des points d'immatriculation (centroïdes) des unités d'évaluation de la matrice graphique.\n\n**Contexte de collecte**\n Mise à jour fournie par l'évaluateur ou le service de l'évaluation.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID` (`integer`) : Identifiant\n* `ADM01A` (`varchar`) : Code de municipalité\n* `SI0317A` (`smalldatetime`) : Date d'inscription\n* `SI0317B` (`integer`) : Échelle de représentation\n* `SI0317C` (`varchar`) : Immatriculation\n* `SI0317D` (`varchar`) : Emplacement\n* `SI0102C` (`varchar`) : Section\n* `SI0103C` (`varchar`) : Division\n* `UNIT_V` (`varchar`) : Unité de voisinage\n* `NOTES` (`varchar`) : Notes\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/affe47fb-d12f-4c8d-ad1c-c091e56bb3fc"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/affe47fb-d12f-4c8d-ad1c-c091e56bb3fc\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Point d'immatriculation de l'unité d'évaluation - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c7a4691e-8433-5fba-9824-26d1d65490bf",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

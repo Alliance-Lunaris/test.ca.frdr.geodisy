@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\n**Change in forest cover detected by satellite imagery** is a provincial polygonal vector database produced using automated analysis of Sentinel-2 satellite imagery. This analysis aims to detect changes in forest cover throughout southern Quebec. \n\nThe database includes disturbances of anthropogenic or natural origin, identified from images acquired during the summer period and analyzed at a resolution of 10 m × 10 m. It only contains detectable disturbances for which **no official information** was available at the time of the analysis. To determine if a disturbance is already known, the analysis compares the detected changes to the following official databases:\n\n+ Harvesting and other silvicultural interventions\n\n+ Forest fires\n\n+ Epidemic, wind and ice storm\n\n+ Forest infrastructures \n\nPolygons remain in the product as long as no official source confirms the nature or origin of the disturbance. As soon as official information becomes available, the element is removed from the diaper during the next release of the product. \n\nThe analysis of the detected change is carried out once a year, during the months of October and November, using Sentinel-2 satellite imagery captured between June and September.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/56b92582-1317-4648-ba82-2cd564768998"
+  ],
+  "dct_issued_s": "2026-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/56b92582-1317-4648-ba82-2cd564768998\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Change in forest cover detected by satellite imagery",
+  "gbl_mdModified_dt": "2026-10-07T18:03:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e11028e7-183a-589d-a6d1-cfba3e4bbc05",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

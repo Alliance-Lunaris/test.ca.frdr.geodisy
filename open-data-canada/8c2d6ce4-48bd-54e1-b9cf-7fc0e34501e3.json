@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "agclimat",
+    "Agriculture",
+    "CH",
+    "Terre agricole",
+    "Cultures",
+    "Précipitation",
+    "agclimate",
+    "Agriculture",
+    "Crops",
+    "Température",
+    "Precipitation",
+    "Temperature",
+    "CH",
+    "Farmlands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Unités thermiques de croissance (maïs)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "Crop Heat Units (CHU) are calculated on a daily basis, using the maximum and minimum temperatures in order to account for a crop’s negative response to higher temperatures.  \n  \n  The formula used to calculate the CHU value for a day is:   \n  \n  (1.8 × (Minimum Temperature − 4.4) + 3.33 × (Maximum Temperature − 10) − 0.084 × (Maximum Temperature − 10)²) ÷ 2.0  \n  \n  CHU values are only accumulated during the Growing Season, April 1 through October 31.",
+    "Les unités thermiques de croissance (UTC) sont calculées quotidiennement à l’aide des températures maximale et minimale afin de tenir compte de la réaction négative d’une culture à des températures plus élevées.  \n  \n  Voici la formule utilisée pour calculer la valeur de l’UTC pour une journée :   \n  \n  (1,8 × [température minimale - 4,4] + 3,33 × [température maximale - 10] - 0,084 × [température maximale - 10]²) ÷ 2,0  \n  \n  Les valeurs d’UTC s’accumulent uniquement durant la saison de croissance, du 1er avril au 31 octobre."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/07875f11-c342-4450-bdaa-0cdeaf43c0c9"
+  ],
+  "dct_issued_s": "2017-05-08",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/07875f11-c342-4450-bdaa-0cdeaf43c0c9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Crop (corn) heat units",
+  "gbl_mdModified_dt": "2025-07-21T21:51:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8c2d6ce4-48bd-54e1-b9cf-7fc0e34501e3",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

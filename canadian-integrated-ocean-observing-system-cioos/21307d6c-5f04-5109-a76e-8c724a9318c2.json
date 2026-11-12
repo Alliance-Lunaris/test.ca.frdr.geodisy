@@ -1,0 +1,68 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.41154, -57.0818, 51.323833, 44.250167)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "water density",
+    "CTD",
+    "courant marin",
+    "conductivité",
+    "conductivity",
+    "pressure",
+    "fluorescence",
+    "Courants de surface",
+    "subSurfaceSalinity",
+    "subSurfaceTemperature",
+    "oxygen",
+    "water temperature",
+    "seaSurfaceTemperature",
+    "profondeur",
+    "pression",
+    "sea currents",
+    "Salinité de surface",
+    "seaSurfaceSalinity",
+    "Température de surface",
+    "surfaceCurrents",
+    "Salinité sous la surface",
+    "salinité",
+    "depth",
+    "salinity",
+    "CTD",
+    "fluorescence",
+    "oxygène",
+    "densité eau",
+    "température de l'eau",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Système de Gestion des Données Océanographiques (SGDO) de l'Institut Maurice Lamontagne"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada.",
+    "Section, Data Management (Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "Through all its programs and collaborations, the Department of Fisheries and Oceans (DFO) of Canada has acquired a very large amount of scientific data relating to the marine environment over the years. The Quebec region of DFO, particularly the Maurice Lamontagne Institute (MLI) located in Mont-Joli, is responsible for the data collected in the estuary and Gulf of St. Lawrence. The data management team compiles, qualifies, and archives all information collected on oceanographic conditions in the SGDO.\n\n**CTD data**\n\nThe CTD (Conductivity, Temperature, Depth) is a device commonly used in oceanography to measure water conditions at a given location from the sea surface to the bottom. The primary device allows temperature and salinity profiles to be produced. Other sensors are frequently added to obtain additional information on the water column, such as dissolved oxygen concentration, fluorescence, turbidity, and pH.\n\n**ADCP data**\n\nThe ADCP (Acoustic Doppler Current Profiler) is a device used to measure marine currents. The speed and direction of the current are recorded simultaneously for several layers of water by Doppler effect, hence its name. When the ADCP is wetted, a time series of current profiles at a given location is obtained. When the ADCP is attached to the hull of a moving ship, we obtain both a temporal and spatial portrait of the currents.\n\n*Addition of other data types to come*",
+    "Le Ministère des Pêches et Océans (MPO) du Canada, à travers tous ses programmes et collaborations, a acquis, au fil des ans, un très grand nombre de données scientifiques en relation avec le milieu marin. La région du Québec du MPO, plus particulièrement l’Institut Maurice-Lamontagne (IML) situé à Mont-Joli, a la responsabilité des données récoltées dans l’estuaire et le golfe du St-Laurent. L’équipe de la gestion des données compile, qualifie et archive toutes les informations recueillies sur les conditions océanographiques dans le SGDO. \n\n**Données CTD**\n\nLe CTD (Conductivity, Temperature, Depth) est un appareil couramment utilisé en océanographie pour mesurer les conditions de l’eau à un endroit donné de la surface de la mer vers le fond. L’appareil de base permet de faire des profils de température et salinité. D’autres senseurs y sont fréquemment ajoutés pour obtenir des informations supplémentaires sur la colonne d’eau telles que la concentration en oxygène dissous, la fluorescence, la turbidité et le pH.\n\n**Données ADCP**\n\nL’ADCP (Acoustic Doppler Current Profiler) est un appareil utilisé pour mesurer les courants marins. La vitesse et la direction du courant sont enregistrés simultanément pour plusieurs couches d’eau par effet Doppler, d’où son appellation. Lorsque l’ADCP est mouillé, une série temporelle de profils courantométriques à un endroit donné est obtenue. Lorsque l’ADCP est fixé à la coque d’un navire en mouvement, on obtient alors un portrait à la fois temporel et spatial des courants.\n\n*Ajout d'autres types de données à venir*"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/4c652c6c-2391-49ab-9866-4aae2acc10f2"
+  ],
+  "dct_issued_s": "2024-05-24",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/4c652c6c-2391-49ab-9866-4aae2acc10f2\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Oceanographic Data Management System (ODMS) from the Maurice Lamontagne Institute",
+  "gbl_mdModified_dt": "2026-07-31T16:35:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "21307d6c-5f04-5109-a76e-8c724a9318c2",
+  "locn_geometry": "ENVELOPE(-75.41154, -57.0818, 51.323833, 44.250167)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

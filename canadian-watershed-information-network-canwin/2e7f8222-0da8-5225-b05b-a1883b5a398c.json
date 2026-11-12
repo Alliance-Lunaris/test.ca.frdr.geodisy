@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.51536765, -51.7458364, 71.7742487, 41.31156278)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Building on the initial effort (“Database of Open Water Areas in River Ice for Provinces of Manitoba, Ontario, Quebec, and the Maritimes - Potential Locations For River Hydrokinetic Energy Extraction Identified Through Optical Satellite Imager”; weblink: https://search.open.canada.ca/openmap/d9823004-29aa-40e2-aa47-9c54cf88c309), a follow-up research project has led to the publication of this extensive analysis encompassing the entirety of Canada’s major freezing rivers. This work has applied advanced image processing and classification algorithms to the selected images, elevating the classification and analysis to a higher level of accuracy and providing a more comprehensive dataset for exploring river hydrokinetic energy prospects across the country.  \n  \n  This dataset identifies open water areas within ice-covered major Canadian rivers, aiming to evaluate potential hydrokinetic resources. The data is derived from high-resolution optical satellite imagery obtained from Landsat and Sentinel satellites corresponding to National Research Council (NRC) 2014 flow data of river reaches with water depths of at least 10 meters and a flow velocity of a minimum of 0.5 meters per second. Using advanced image processing and machine learning algorithms, the dataset efficiently differentiates between ice-covered and open water regions, providing a reliable basis for assessing hydrokinetic energy potential in the identified areas.  \n  \n  Disclaimer:  \n  \n  This dataset is subject to the following limitations:  \n  \n  •\tLandsat and Sentinel optical satellite images are high-resolution, but they may contain resolution errors, possible distortions, and inaccuracies in depicting on-ground conditions.   \n  \n  •\tDespite advanced image processing and machine learning algorithms, errors or biases may exist.   \n  \n  •\tThe dataset's reliability is also influenced by the NRC flow data.  \n  \n  Therefore, users should view this dataset as a preliminary assessment tool, not a definitive guide for decision-making or investment in hydrokinetic projects. It is strongly recommended to validate its accuracy and suitability for specific applications through additional research and studies.   \n  \n  By accessing and using this dataset, users acknowledge and accept these disclaimers. The providers of this dataset explicitly absolve themselves of any responsibility or liability for any consequences arising from the use, reliance upon, or interpretation of this dataset. Users are advised that their use of the dataset is at their own risk, and they assume full responsibility for any actions or decisions made based on the information contained therein. This disclaimer is in accordance with applicable laws and regulations, and by accessing or utilizing the dataset, users agree to release the providers of this dataset from any legal claims, damages, or liabilities that may arise from such use."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/61b4e576-9f3a-49a1-9546-b29be14787a4"
+  ],
+  "dct_issued_s": "2024-03-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/61b4e576-9f3a-49a1-9546-b29be14787a4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hydrokinetic Resource Mapping - Optical Satellite Imagery Analysis of Open Water Regions in Ice-Covered Canadian Rivers",
+  "gbl_mdModified_dt": "2024-03-25T17:40:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2e7f8222-0da8-5225-b05b-a1883b5a398c",
+  "locn_geometry": "ENVELOPE(-140.51536765, -51.7458364, 71.7742487, 41.31156278)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

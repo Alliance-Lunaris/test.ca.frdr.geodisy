@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2612603538, -123.2270612425, 49.2730726117, 49.2457516066)",
+  "dcat_keyword_sm": [
+    "energy demand",
+    "Energy Consumption",
+    "urban heat",
+    "climate change",
+    "shade coverage",
+    "shade mapping",
+    "LiDAR",
+    "Statistical Analysis",
+    "Shade Simulation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kuugaayeng, Isaac (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "The upsurge of climate change has exacerbated the urban heat island (UHI) effect, leading to severe consequences for human health, urban livability, and energy demand. Rising temperatures significantly increase the demand for cooling energy, as the cooling load of buildings is heavily influenced by the amount of solar radiation reaching their surfaces. One of the most effective and sustainable strategies is urban greening. These interventions can take various forms, including street trees, urban parks, and vegetation surrounding buildings, all of which contribute to heat relief and improved urban resilience. Trees offer a wide range of ecosystem benefits that improve the climate and habitability of cities, including public spaces, by acting as natural shading and wind-shielding elements around buildings. By blocking solar radiation, trees help lower the energy needed for cooling, especially in buildings with poor window-to-wall ratios.\nThis project contributes to the Neighborhood Climate Action Plan (NCAP) goals by quantifying tree shade on buildings on the University of British Columbia campus and analyzing its impact on building energy demand. Using high-resolution Using high-resolution Light Detection and Ranging (LiDAR) data and sun position data, a Digital Surface Model was created to represent campus elevation, and hillshade analysis was employed to simulate shade coverage at 15-minute intervals. Findings revealed that there is a negative correlation between shade coverage and cooling energy demand, highlighting the effectiveness of tree shading as a cooling strategy, as buildings with more shade tend to have lower cooling loads. Also, the analysis, although statistically significant, revealed that other confounding factors affect energy demand in a building, including the age of the building, occupancy level and behaviour, shape and orientation of the building.\nThe findings highlight the importance of strategic tree planting in urban environments to mitigate the urban heat island effect and enhance energy efficiency. Integrating tree shading into urban planning policies is essential for fostering sustainable and climate-resilient communities. Future research should incorporate real-time occupancy and equipment usage data, quantify transpiration contributions alongside shading effects and how the age of buildings can influence their energy demand over time."
+  ],
+  "dct_identifier_sm": [
+    "898203_73894_115983",
+    "https://doi.org/10.5683/SP3/GD0D5L"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GD0D5L\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "The Impact of Tree Shade on Building Cooling Energy Demand During Summer",
+  "gbl_mdModified_dt": "2025-04-22T16:48:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5f53cf7-29f9-537d-94b5-ffeae16e4089",
+  "locn_geometry": "ENVELOPE(-123.2612603538, -123.2270612425, 49.2730726117, 49.2457516066)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

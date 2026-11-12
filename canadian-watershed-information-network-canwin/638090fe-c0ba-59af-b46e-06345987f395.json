@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.1592, -101.3167, 55.0469, 51.803)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Softwood (PCTSWD) is an estimate of the proportional basal area in softwoods. Available here as a softwood per cent raster (GeoTIF) with a 10 m pixel resolution. Note: Hardwood (HWD) proportion is derived as 100 less softwood.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.  Softwood (PCTSWD) is an estimate of the proportional basal area in softwoods. PCTSWD is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 10 m pixel resolution. Note: Hardwood (HWD) proportion is derived as 100 less softwood. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing PCTSWD data in the following 10 per cent categories. Domain: [NULL, 0…100]. RANGE LABEL RED GREEN BLUE 0 <= PCTSWD < 5 0 251 221 64 5 <= PCTSWD < 15 10 226 210 63 15 <= PCTSWD < 25 20 202 198 62 25 <= PCTSWD < 35 30 177 187 62 35 <= PCTSWD < 45 40 152 175 60 45 <= PCTSWD < 55 50 128 164 60 55 <= PCTSWD < 65 60 103 152 59 65 <= PCTSWD < 75 70 78 141 58 75 <= PCTSWD < 85 80 53 129 58 85 <= PCTSWD < 95 90 29 118 57 95 <= PCTSWD <= 100 100 4 106 56 For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/3d4fea25-7e4d-5b37-dcc4-e1909c36e872"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/3d4fea25-7e4d-5b37-dcc4-e1909c36e872\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "FRI: Softwood",
+  "gbl_mdModified_dt": "2025-12-10T13:10:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "638090fe-c0ba-59af-b46e-06345987f395",
+  "locn_geometry": "ENVELOPE(-110.1592, -101.3167, 55.0469, 51.803)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

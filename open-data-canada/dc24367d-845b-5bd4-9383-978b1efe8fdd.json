@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Chauffage solaire",
+    "Solar heating",
+    "Solar energy",
+    "Énergie solaire"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartes du potentiel solaire du Canada"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset includes daily averages of solar irradiance on tilted surfaces for all of Canada based on the period of 1998 - 2020. The solar irradiance data is available in the following layers at a resolution of about 0.1°x0.1° (~10 km grid spacing) for all of Canada (i.e., 41.6 to 83.1°N, and 52.6 to 141.0°W):  \n  \n  - Four fixed tilts, relative to the horizontal plane, of 0° (horizontal), 30°, 60°, and 90° (vertical)  \n  \n  - Three fixed tilts, relative to the local latitude 0°, +15°, and -15°  \n  \n  - A two-axis tracking surface  \n  \n  For each tilt angle, the irradiance values are in kWh/m2 (per day) for the selected time period.  \n  \n  The data can be viewed as a map service and by downloading the tabular data included.  \n  \n  Refer to the supporting documentation and dataset for more information.",
+    "Ces données comprennent les moyennes quotidiennes de l'irradiance solaire sur les surfaces inclinées pour l'ensemble du Canada durant la période de 1998-2020. Les données d'irradiation solaire sont disponibles dans les couches suivantes à une résolution d'environ 0,1°x0,1° (espacement de grille d'environ 10 km) pour l'ensemble du Canada (c.-à-d. de 41,6 à 83,1°N, et de 52,6 à 141,0°W) :  \n  \n  - Quatre inclinaisons fixes, par rapport au plan horizontal, de 0° (horizontal), 30°, 60°, et 90° (vertical)  \n  \n  - Trois inclinaisons fixes par rapport à la latitude locale : 0°, +15° et -15°.  \n  \n  - Une surface de suivi à deux axes  \n  \n  Pour chaque inclinaison, les valeurs d'irradiation sont exprimées en kWh/m2 (par jour) pour la période sélectionnée.  \n  \n  Les données peuvent être visualisées en tant que service cartographique et en téléchargeant les données tabulaires incluses.  \n  \n  Pour plus d'informations, se référer à la documentation d'appui et à l'ensemble de données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/99538aed-2c09-4188-bcea-5b200ca78d9a"
+  ],
+  "dct_issued_s": "2023-08-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/99538aed-2c09-4188-bcea-5b200ca78d9a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Maps of solar resource potential in Canada",
+  "gbl_mdModified_dt": "2024-02-15T18:31:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc24367d-845b-5bd4-9383-978b1efe8fdd",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

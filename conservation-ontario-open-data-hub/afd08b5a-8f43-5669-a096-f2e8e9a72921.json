@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.19406762429185, -79.51154198952653, 43.63519860979428, 43.20028881650409)",
+  "dcat_keyword_sm": [
+    "Physical Geography",
+    "Conservation Halton",
+    "All",
+    "Watershed"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<a href='https://gis.conservationhalton.net/doc/opendatahub/Metadata/CH_Metadata_Contours_5m_2002.pdf' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;' target='_blank' rel='nofollow ugc noopener noreferrer'>Click Here</a><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'> for metadata. These contours are not of survey quality, and contain all of the accuracies and inaccuracies identified in its source product, the TIN surface. </span><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Products derived from the TIN (i.e., contours) should be done with caution. Man-made features that span valley systems will create artificial contours along the sides of bridges, creating in effect, an embankment where none exists. </div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Similarly, where breaklines that identify the top/toe of slopes are absent, the 10m spacing between spot height elevations may not provide sufficient density to accurately calculate slopes in smaller valley systems. As one would expect, contours created using spot height elevations alone tend to result in the generation of undulating surfaces that may underestimate sharp changes in slope or fail to capture smallscale features.</span>5m contour data which was based on the 2002 FBS data"
+  ],
+  "dct_identifier_sm": [
+    "f5d5bb8ca25545cfa949094001ba3e33",
+    "https://www.arcgis.com/home/item.html?id=f5d5bb8ca25545cfa949094001ba3e33"
+  ],
+  "dct_issued_s": "2022-12-16",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::ch-contours-5m-2002\"}",
+  "dct_rights_sm": [
+    "Custom License"
+  ],
+  "dct_title_s": "CH Contours 5m (2002)",
+  "gbl_mdModified_dt": "2022-12-16T16:44:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "afd08b5a-8f43-5669-a096-f2e8e9a72921",
+  "locn_geometry": "ENVELOPE(-80.19406762429185, -79.51154198952653, 43.63519860979428, 43.20028881650409)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

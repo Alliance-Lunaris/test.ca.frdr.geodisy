@@ -1,0 +1,35 @@
+{
+  "dcat_bbox": "ENVELOPE(-179.6630568239043, 179.6630568239043, 85.02197647623295, -85.02197647623295)",
+  "dcat_keyword_sm": [
+    "Appels à candidatures",
+    "2020-2024"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ottawa Ouverte."
+  ],
+  "dct_description_sm": [
+    "<p>Ce jeu de données contient des Appels de Service (CFS) nécessitant une intervention mobile (ou dépêchée) de la Police d'Ottawa (OPS). Toutes les informations sont générées à partir du système de répartition assistée par ordinateur (CAD) de l'OPS afin de favoriser un rapport précis et en temps opportun.</p><p>Ce jeu de données n'inclut pas les appels administratifs ni les appels traités sans la dépêche d'agents.</p><p>Pour des raisons de confidentialité, les emplacements des appels ont été géomaskés jusqu'à l'intersection la plus proche. En raison des enquêtes policières en cours et des efforts internes de contrôle de la qualité des données, ces informations sont susceptibles de changer, y compris l'ajout, la suppression et la reclassification de toutes les données.</p><p>Date de création : 19 novembre 2025<br />Fréquence de mise à jour : Annuellement<br />Exactitude : La Police d'Ottawa fournit ces informations de bonne foi, mais n'offre aucune garantie et n'accepte aucune responsabilité découlant de toute information incorrecte, incomplète ou trompeuse ou de son utilisation inappropriée.</p><p>Attributs :<br />1. Priorité<br />2. Initié par<br />3. Année de réception<br />4. Date de réception<br />5. Quartier (ID ONS / Nom ONS)&nbsp;</p><p>6. Heure de réception</p><p>7. Heure de réception&nbsp;</p><p>Sources des appels&nbsp;</p><p>Les appels initiés par les citoyens sont reçus du public via :&nbsp;</p><ul><li>911&nbsp;</li><li>Téléphone&nbsp;</li><li>TDD (pour les appelants malentendants)&nbsp;</li><li>Contact en personne&nbsp;</li><li>Agences de surveillance&nbsp;</li></ul><p>Les appels initiés par les agents sont créés par les policiers de l’OPS lorsqu’ils identifient un incident nécessitant une attention policière.&nbsp;</p><p>Protocole de réponse aux appels L’OPS attribue un niveau de priorité à chaque appel. La priorité reflète la gravité de la situation et les considérations de sécurité pour le public et pour les agents intervenants. Les circonstances de l’incident déterminent le niveau de priorité. Il ne repose pas uniquement sur le type d’appel.&nbsp;</p><p>Niveaux de priorité :&nbsp;</p><ul><li>Priorité 1 : Tous les événements impliquant un danger imminent connu pour la vie.&nbsp;</li><li>Priorité 2 : Tous les événements nécessitant une réponse rapide de la police où il existe un risque de préjudice corporel grave.&nbsp;</li><li>Priorité 3 : Incidents pour lesquels il existe une croyance raisonnable qu'un retard prolongé dans la réponse pourrait mettre en danger des personnes, des biens ou des preuves.&nbsp;</li><li>Priorité 4 : Tous les autres incidents nécessitant une réponse mobile.&nbsp;</li><li>Priorité 5 : Diffusion radio uniquement.&nbsp;</li><li>Priorité 6 : Réponse alternative (Unité de rapport de police, Bureau d'information, Déclaration de collision, Police proactive).&nbsp;</li><li>Priorité 7 : File d'attente du dépôt des biens</li></ul><p>&nbsp;</p><p>Auteur: Service de police d’Ottawa (SPO)<br />Courriel de l’auteur: info@ottawapolice.ca<br />&nbsp;</p>"
+  ],
+  "dct_identifier_sm": [
+    "225605f84c664c2f97a16c3e4efd83eb",
+    "https://www.arcgis.com/home/item.html?id=225605f84c664c2f97a16c3e4efd83eb"
+  ],
+  "dct_issued_s": "2025-11-27",
+  "dct_publisher_sm": [
+    "Ottawa Ouverte"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://ouverte.ottawa.ca/datasets/ottawa::appels-durgence-dépêchés\"}",
+  "dct_rights_sm": [
+    "https://ouverte.ottawa.ca/pages/licence"
+  ],
+  "dct_title_s": "Appels d'urgence dépêchés",
+  "gbl_mdModified_dt": "2025-11-27T19:00:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9c30e8c5-f442-5c3e-ad26-92333bd45887",
+  "locn_geometry": "ENVELOPE(-179.6630568239043, 179.6630568239043, 85.02197647623295, -85.02197647623295)",
+  "schema_provider_s": "Ottawa Ouverte"
+}

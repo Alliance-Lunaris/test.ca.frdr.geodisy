@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.8857, -61.5, 50.8038, 47.4856)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The dataset represents known concentration areas of harvested or unharvested Arctic wedge clam (Mesodesma arctatum) in the Estuary and the Gulf of St. Lawrence, Quebec region. The dataset was created for the National Environmental Emergencies Centre (NEEC) for preparation and response purposes in case of an oil spill. Concentration areas were delimited using Fisheries and Oceans Canada (DFO) inventories conducted between 2000 and 2020 and data from various DFO research projects. For more information on how the data layer was built, see the metadata included in its shapefile (.shp), particularly the “Lineage” section.\n\nThis layer is dependent on the inventories carried out and thus only represents the known concentration areas of the Arctic wedge clam. It does not represent the general distribution of the species nor the extent to which fishing is allowed. Most of the information comes from inventories that did not necessarily target this species, therefore its distribution is undoubtedly wider than what is recorded in this layer. In addition, the extent of shellfish beds can change over time in response to, among others, harvesting and recruitment rates. \n\nSome beds were mapped based on DFO research project data which were compiled in a benthic biodiversity Access database. Polygons drawn around these data are not precise and may be reviewed. The polygons delimited based on inventory data are more precise but might underestimate the concentration areas because sampling was made where the target resource was known to be more abundant without necessarily sampling the entire bed. Nonetheless, the precision is sufficient for resource protection and management needs in case of an environmental incident. \n\nData sources and references:\n\nBourdages, H., P. Goudreau, J. Lambert, L. Landry et C. Nozères. 2012. Distribution des bivalves et gastéropodes benthiques dans les zones infralittorale et circalittorale des côtes de l’estuaire et du nord du golfe du Saint-Laurent. Rapp. tech. can. sci. halieut. aquat. 3004: iv + 103 p.\n\nBrulotte, S. Données non-publiées. Pêches et Océans Canada.\n\nBrulotte, S. 2011. Évaluation des stocks de mye commune des eaux côtières du Québec. Secr. can. de consult. sci. du MPO. Doc. de rech. 2011/44: x + 53 p.\n\nBrulotte, S. 2012. Évaluation des stocks de buccin des eaux côtières du Québec. Secr. can. de consult. sci. du MPO. Doc. de rech. 2012/058: xi + 106 p.\n\nBrulotte, S. et M. Giguère. 2003. Évaluation d'un gisement de mye commune (Mya arenaria) de l'embouchure de la rivière Mingan, Québec, Rapp. can. ind. sci. halieut. aquat. No. 2511: xi + 58.\n\nGendreau, Y. 2018. MS Access database on benthic biodiversity. Fisheries and Oceans Canada.\n\nGiguère, M., S. Brulotte et F. Hartog.2007. Évaluation de quelques gisements de mye commune (Mya arenaria) de la rive sud de l'estuaire du Saint-Laurent en 2005 et 2006. Rapp. can. ind. sci. halieut. aquat. No. 2738: xi + 107.\n\nGiguère, M., S. Brulotte, M. Boudreau et M.-F. Dréan. 2008. Évaluation de huit gisements de mye commune (Mya arenaria) de la rive nord de l’estuaire du Saint-Laurent de 2002 à 2008. Rapp. tech. can. sci. halieut. aquat. 2821 : x + 91 p.\n\nProvencher, L. Unpublished data. Fisheries and Oceans Canada.\n\nProvencher, L. et C. Nozères. 2011. Protocole de suivi des communautés benthiques de la zone de protection marine Manicouagan. Secr. can. de consult. sci. du MPO. Doc. de rech. 2011/051:iv +25 p."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b0633101-18e6-483a-b668-4e1f76789696"
+  ],
+  "dct_issued_s": "2022-05-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b0633101-18e6-483a-b668-4e1f76789696\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Known concentration areas of Arctic wedge clam in the Estuary and the Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-03-24T08:37:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7a2fea16-b48a-5cca-9576-6794f3afc64c",
+  "locn_geometry": "ENVELOPE(-69.8857, -61.5, 50.8038, 47.4856)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

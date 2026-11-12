@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Dataset of building footprints in the Yukon Territory. Building footprints were extracted from LiDAR orthophotos using deep learning. Manual corrections were applied to both erroneous and missed building extractions. The Regularize Building Footprint tool was used to reduce vertices and simplify the footprints. A tolerance of 1 was used, with a precision of 0.25.\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps). Discover more digital map data and interactive maps from Yukon’s digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e47a592d-9da7-473e-90be-2c7fe5b08090"
+  ],
+  "dct_issued_s": "2026-03-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e47a592d-9da7-473e-90be-2c7fe5b08090\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Building Footprints",
+  "gbl_mdModified_dt": "2026-10-07T15:34:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0833afc5-0ea2-5550-a783-1eeae533fde6",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

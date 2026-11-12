@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.2429, -30.3211, 70.2001, 38.1348)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Management",
+    "Écosystème",
+    "Pêcheries",
+    "Océan",
+    "Ecosystems",
+    "Fisheries",
+    "Gestion"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Pêche Commerciale dans l’Est du Canada"
+  ],
+  "dct_creator_sm": [
+    "Government of Canada; Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "Dataset of species/gear type commercial fisheries from 2014 to 2023 in the Eastern Canada Regions. Only fish harvested from the NL, Maritimes, Gulf, Quebec and Eastern Arctic regions are included (Species Sought).\n\nThe data was obtained from Statistical Services, Fisheries and Oceans Canada (DFO) and consists of commercial species/gear type landings data from 2014 to 2023 taken from Northwest Atlantic Fisheries Organization (NAFO) Subareas 0, 2, 3, 4 and 5 and fished in the NL, Maritimes, Gulf, Quebec and Eastern Arctic regions. The layer was created by overlaying a 2 minute hexagonal grid (approx. 10km2 cell) on species/gear type commercial fisheries point data and summing the total landings by weight reported for each cell over the ten year period. Therefore, the value of each grid cell is equal to the total species/gear type landings in kg from 2014 to 2023 for the area, and may represent many fishing events from several vessels over the ten year period. All landings are from Canadian vessels and does not include information pertaining to international fishing vessels (i.e., St. Pierre). Individuals should exercise caution when interpreting this data. Data has not been altered and is mapped from the original logbook entry for each record prior to amalgamation. Data may contain errors such as inaccurate or nonviable coordinates, landed weights and/or species identification. For example, cases of fishing events reported in a NAFO Division with corresponding coordinates falling outside that particular NAFO Division or fishing events which appear to be located on a land mass due to rounding errors in the original entries. Such cases were excluded from the dataset. Only one location is given for each fishing event; therefore, a fishing activity that would normally cover a large area (i.e., trawling) is only shown in a single location. Some species may not include all records or locations where activity is taking place due to regional differences in permissions for mapping, or because the fishery is only partially georeferenced (e.g. Lobster). The locations/areas shown should only be used as an estimation of fishing intensity and a general guide of where particular species/gear type fishing occurs. This dataset has been privacy screened to comply with the Government of Canada's privacy policy. Privacy assessments were conducted to identify NAFO unit areas containing data with less than five vessel IDs, license IDs and fisher IDs. If this threshold was not met, catch weight locations have been withheld from these statistical areas to protect the identity or activity of individual vessels or companies. In some instances, permissions were obtained to map species or gears with a limited number of vessels, licenses, or fisher ids. The withheld areas are indicated by the unit area that has been removed and given a weight of -9999.",
+    "Ensemble de données sur les pêches commerciales par espèce ou type d’engin de 2014 à 2023 dans les régions de l’Est du Canada. Seuls les poissons pêchés dans les régions de Terre-Neuve-et-Labrador, des Maritimes, du Golfe, du Québec et de l’Arctique de l’Est sont répertoriés (espèces recherchées).\n\nLes données ont été obtenues auprès des Services statistiques de Pêches et Océans Canada (MPO). Elles comprennent les données de 2014 à 2023 sur les débarquements commerciaux par espèce ou type d'engin en provenance des sous-zones 0, 2, 3, 4 et 5 de l’Organisation des pêches de l’Atlantique nord-ouest (OPANO) pour les poissons pêchés dans les régions de Terre-Neuve-et-Labrador, des Maritimes, du Golfe, du Québec et de l’est de l’Arctique. La couche a été créée en superposant une grille hexagonale de deux minutes (cellule d’environ 10 km2) sur les données ponctuelles des pêches commerciales par espèce ou type d'engin et en additionnant les débarquements totaux en poids déclarés pour chaque cellule sur la période de dix ans. Par conséquent, la valeur de chaque cellule de la grille est égale au total des débarquements par espèce ou type d'engin en kilogramme de 2014 à 2023 pour la zone, et peut représenter de nombreux événements de pêche provenant de plusieurs navires au cours de la période de dix ans. Tous les débarquements proviennent de bateaux canadiens et ne comprennent pas les informations relatives aux bateaux de pêche internationaux (p. ex. Saint-Pierre). La prudence est de mise lors de l’interprétation de ces données. Celles-ci peuvent contenir des erreurs telles que des coordonnées, des poids au débarquement ou des identifications d’espèces inexacts ou non fiables. Par exemple, si des événements de pêche ont été déclarés dans une division de l’OPANO alors que les coordonnées correspondantes se trouvaient en dehors de cette division particulière de l’OPANO, ceux-ci ont été exclus de l’ensemble de données. Un seul lieu est indiqué pour chaque événement de pêche, de sorte qu’une activité de pêche qui couvrirait normalement une vaste zone (p. ex. le chalutage) n’est représentée que dans un seul lieu. Les zones ou lieux indiqués ne doivent être utilisés que pour estimer l’intensité de la pêche et pour donner une idée générale des lieux où se pratique la pêche par espèce ou type d'engin. Cet ensemble de données a été soumis à un contrôle afin de respecter la politique relative à la protection des renseignements personnels du gouvernement du Canada. Des évaluations de la protection des renseignements personnels ont été menées afin de déterminer les zones unitaires de l’OPANO qui contiennent des données ayant moins de cinq identifications de navires, de permis et de pêcheurs. Si ce seuil n’était pas atteint, les emplacements et le poids des prises ont été retenus de ces zones afin de protéger l’identité ou l’activité des navires ou entreprises individuels. Les zones retenues sont indiquées par la zone unitaire qui a été retirée et à laquelle on a attribué un poids de -9999."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/502da2ef-bffa-4d9b-9e9c-a7425ff3c594"
+  ],
+  "dct_issued_s": "2026-01-06",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/502da2ef-bffa-4d9b-9e9c-a7425ff3c594\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Eastern Canada Commercial Fishing",
+  "gbl_mdModified_dt": "2026-03-24T08:10:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "84dbe231-fcfa-58f0-9a9e-79707062b245",
+  "locn_geometry": "ENVELOPE(-80.2429, -30.3211, 70.2001, 38.1348)",
+  "schema_provider_s": "Open Data Canada"
+}

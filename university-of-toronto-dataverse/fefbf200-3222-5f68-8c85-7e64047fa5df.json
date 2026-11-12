@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(79.4, 79.4, 43.66, 43.66)",
+  "dcat_keyword_sm": [
+    "weather, temperature, relative humidity, wind speed, wind direction, pressure, solar radiation, UV radiation, rainfall"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Colebatch, Orfeo (University of Toronto).",
+    "Strong, Kimberly (University of Toronto). ORCID: https://orcid.org/0000-0001-9947-1053"
+  ],
+  "dct_description_sm": [
+    "This dataset consists of meteorological measurements recorded at the University of Toronto Atmospheric Observatory (TAO) located at 43.66 north latitude (43 degrees, 39’, 36’’) and 79.40 west longitude (79 degrees, 24’, 0’’). The measurements were made with Davis Vantage Pro 2 Plus (Davis VP2+) weather stations located on the rooftop of the Burton Tower at the McLennan Physical Laboratories, 174 m above sea level and 61 m above street level (at 60 St. George Street, Toronto, ON, Canada).<BR>\n<P><P>\nData are provided as one file per year, consisting of comma-separated plain text.  Each file includes the following information: Date (dd/mm/yy), Time, Temp (C), Humidity, Dew point (C), Wind speed (m/s), Recent high gust (m/s), Average wind bearing (deg), Rainfall rate (mm/hr), Rainfall so far (mm), Sea level pressure (hPa), Rainfall counter (mm),Inside temp (C), Inside humidity, Current gust (m/s), Wind chill (C), Heat Index (C), UV Index, Solar Radiation (W/m^2), ET (mm), Annual ET (mm), Apparent temp (C), Max Solar radiation (W/m^2), Sun hours, Wind bearing (deg), RG-11 Rain, Rain Since Midnight (mm), Feels like (C), Humidex (C).<BR>\n<P>\nIt should be noted that these measurements are affected by the location of the weather station on the top of a 61 m building.  The wind measurements may be affected by two astronomical domes to the northwest and west and by a sun-tracker cover to the west. Wind measurements are also affected by the building itself and do not necessarily represent the true mean flow of the wind (nor the ground wind speed, which may be less than that on the rooftop). Temperatures are also affected by the height of the building and will typically be cooler than at ground level. Solar radiation measurements can be affected by the smoke plumes that waft off the steam plant tower to the south during winter months. Lastly this weather station is not calibrated regularly.<BR>\n<P>\nThe first Davis Vantage Pro+ Station was installed at TAO on 24 October 2001 and was replaced by a Davis Vantage Pro2+ on 5 February 2013.<BR>\n<P>\nThe Davis VP2+ wind anemometer was replaced on 24 March 2017.<BR>\n<P>\nThe Davis VP2+ data logging was switched from the propriety WeatherLink software to the community drive CumulusMX software on 25 February 2014.<BR>\n<P>\nThe data logging timestep was changed from 1 minute to 5 minutes on 12 April 2019 to avoid data loss when the logging computer stopped communicating with the station.<BR>\n<P>\nTwo new variables, \"Feels like (C)\" and \"Humidex (C)\", were added to the data log on 23 September 2020 at 13:11. The comma-separated data entries before this date are filled with \"n/a\" in place of these variables.<BR>\n<P>\nRelevant websites:<BR>\nhttps://www.atmosp.physics.utoronto.ca/TAO/<BR>\nhttps://www.atmosp.physics.utoronto.ca/TAO/Weather.html<BR>\nhttps://www.atmosp.physics.utoronto.ca/wstat/index.htm<BR>"
+  ],
+  "dct_identifier_sm": [
+    "1056723_104070",
+    "https://doi.org/10.5683/SP3/Y4IEVI"
+  ],
+  "dct_issued_s": "2026-04-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Y4IEVI\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Toronto, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "University of Toronto Atmospheric Observatory (TAO) Weather Data",
+  "gbl_mdModified_dt": "2026-04-24T17:41:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fefbf200-3222-5f68-8c85-7e64047fa5df",
+  "locn_geometry": "ENVELOPE(79.4, 79.4, 43.66, 43.66)",
+  "pcdm_memberOf_sm": [
+    "Kimberly Strong Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

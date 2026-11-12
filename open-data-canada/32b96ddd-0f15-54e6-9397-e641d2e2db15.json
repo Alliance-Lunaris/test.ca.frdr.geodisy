@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.704, -101.4006, 54.7642, 52.0023)",
+  "dcat_keyword_sm": [
+    "Provincial Forest",
+    "Boundaries",
+    "Imager",
+    "Ministry of Environment",
+    "Government information",
+    "Government of Saskatchewan",
+    "Raster",
+    "Crownland",
+    "Forest",
+    "Environment",
+    "Forestry",
+    "Forest Service",
+    "Forest Resources Management Regulations",
+    "Boundary",
+    "Saskatchewan Crown Resource Lands",
+    "Saskatchewan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Limite forestière provinciale"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "Represents the boundary line of Saskatchewan Crown resource lands designated as provincial forests as described in The Forest Resources Management Regulations, F-19.1 Reg 1, amended June 2020.  \n  \n  Boundaries of the Canwood, Nisbet, Fort a la Corne, Torch River, and Porcupine Provincial Forests are described, as well as the southern portion of the Northern Provincial Forest. Crown resource lands contained within these boundaries are designated as provincial forest. Certain lands have been deemed to be withdrawn from the provincial forest pursuant to subsection 12(4) of the Act. The Forest Resources Management Act The Forest Resources Management Regulations The provincial forest boundary is described by clauses and subclauses in The Forest Resources Management Regulations. Each provincial forest boundary description clause and subclause has a corresponding line feature in FORESTRY.PLANNING_Forest_Boundary. Clause descriptions position provincial forest boundary line features according to Saskatchewan’s Land Survey System by Township, Range, and Meridian. Subclause descriptions further positions provincial forest boundary line features within the clause. When a subclause describes the provincial forest boundary according to a water body or water course bank, line features are digitized from the Saskatchewan Geospatial Imagery Collaborative 2016 three-band (red, green, blue) SPOT 6 and 7 satellite imagery mosaic, pan-sharpened to 1.5 m resolution (IMAGERY.SGIC_SPOT_RGB_2016_Ref). In certain situation, applying this satellite imagery to the provincial forest boundary description results in a gap between land and water. In such cases, in order to maintain a contiguous boundary, a new line feature is created that has no corresponding clause and subclause in The Forest Resources Management Regulations. These “Land to Water Gap” features are identified as such in the SUBCLAUSE_DESCR field. When a subclause describes the provincial forest boundary according to the Saskatchewan Land Survey System, line features are extracted from Information Services Corporation CADASTRE data (CADASTRE.SG_SECTION, .SG_QUARTERSECTION, .SG_LEGALSUBDIVISION, .surface, .boundary, .right_of_way). By convention, the west boundary of a line feature is defined by the vector west of the road allowance and the south boundary of a line feature is defined by the vector south of the road allowance. In certain situation, applying this convention to the provincial forest boundary description results in a gap created by an adjacent east or north road allowance. In such cases, in order to maintain a contiguous boundary, a new line feature is created that has no corresponding clause and subclause in The Forest Resources Management Regulations. These “Road Allowance Gap” features are identified as such in the SUBCLAUSE_DESCR field. In spite of west / south boundary road allowance convention, when a road allowance forms the boundary of the provincial forest, in FORESTRY.PLANNING_Forest_Boundary, the line feature is drawn such that the road allowance is excluded from the provincial forest.",
+    "Représente la ligne de démarcation des terres ressources de la Couronne de la Saskatchewan désignées comme forêts provinciales, comme décrit dans le Règlement sur la gestion des ressources forestières, F-19.1 Reg 1, modifié en juin 2020.  \n  \n  Les limites des forêts provinciales de Canwood, de Nisbet, de Fort à la Corne, de Torch River et de Porcupine sont décrites, ainsi que la partie sud de la forêt provinciale du Nord. Les terres consacrées aux ressources de la Couronne situées à l'intérieur de ces limites sont désignées comme forêts provinciales. Certaines terres ont été considérées comme retirées de la forêt provinciale conformément au paragraphe 12 (4) de la Loi. La Loi sur la gestion des ressources forestières Le Règlement sur la gestion des ressources forestières Les limites de la forêt provinciale sont décrites par des articles et des paragraphes du Règlement sur la gestion des ressources forestières. Chaque clause et sous-clause de description des limites des forêts provinciales possède une caractéristique linéaire correspondante dans Forestry.Planning_Forest_Boundary. Les descriptions des clauses positionnent les caractéristiques des limites des forêts provinciales selon le système d'arpentage des terres de la Saskatchewan par canton, rang et méridien. Les descriptions des sous-clauses positionnent davantage les caractéristiques des limites des forêts provinciales dans la clause. Lorsqu'un paragraphe décrit la limite de la forêt provinciale en fonction d'un plan d'eau ou d'une rive de cours d'eau, les caractéristiques linéaires sont numérisées à partir de la mosaïque d'images satellites SPOT 6 et 7 à trois bandes (rouge, vert, bleu) de la Saskatchewan Geospatial Imagery Collaborative 2016, avec une résolution panoramique de 1,5 m (Imagery.SGIC_SPOT_RGB_2016_REF). Dans certaines situations, l'application de cette imagerie satellite à la description des limites de la forêt provinciale entraîne la création d'un écart entre la terre et l'eau. Dans de tels cas, afin de maintenir une limite contiguë, une nouvelle entité linéaire est créée sans clause ni sous-clause correspondante dans le Règlement sur la gestion des ressources forestières. Ces caractéristiques « écart entre la terre et l'eau » sont identifiées comme telles dans le champ SUBCLAUSE_DESCR. Lorsqu'une sous-clause décrit les limites de la forêt provinciale conformément au système d'arpentage des terres de la Saskatchewan, les caractéristiques linéaires sont extraites des données CADASTRES de l'Information Services Corporation (CADASTRE.SG_SECTION, .SG_QUARTERSECTION, .SG_LEGALSUBDIVISION, .surface, .boundary, .right_of_way). Par convention, la limite ouest d'un élément linéaire est définie par le vecteur à l'ouest de l'emprise routière et la limite sud d'un élément linéaire est définie par le vecteur au sud de l'emprise routière. Dans certaines situations, l'application de cette convention à la description des limites de la forêt provinciale entraîne la création d'un espace par une réserve routière adjacente à l'est ou au nord. Dans de tels cas, afin de maintenir une limite contiguë, une nouvelle entité linéaire est créée sans clause ni sous-clause correspondante dans le Règlement sur la gestion des ressources forestières. Ces caractéristiques « écart d'allocation routière » sont identifiées comme telles dans le champ SUBCLAUSE_DESCR. Malgré la convention d'allocation routière entre l'ouest et le sud, lorsqu'une réserve routière constitue la limite de la forêt provinciale, dans Forestry.planning_forest_boundary, la ligne est dessinée de telle sorte que l'emprise routière soit exclue de la forêt provinciale.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/3147241d-98dc-4fca-7270-2e686d865566"
+  ],
+  "dct_issued_s": "2021-03-10",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/3147241d-98dc-4fca-7270-2e686d865566\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "government_and_politics",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Provincial Forest Boundary Line",
+  "gbl_mdModified_dt": "2025-02-05T19:09:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "32b96ddd-0f15-54e6-9397-e641d2e2db15",
+  "locn_geometry": "ENVELOPE(-109.704, -101.4006, 54.7642, 52.0023)",
+  "schema_provider_s": "Open Data Canada"
+}

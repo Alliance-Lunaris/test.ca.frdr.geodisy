@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.1668, -73.15517, 45.55309, 45.55038)",
+  "dcat_keyword_sm": [
+    "Atmosphère--Mesure",
+    "Météo hivernale",
+    "Velocity",
+    "Météorologie--Mesure",
+    "Lidar",
+    "Halo Photonics Stream Line XR",
+    "Réserve naturelle Gault-de-l'Université McGill (Québec)",
+    "Physics—Meteorology. Climatology—Special topics, A-Z—Computer network resources",
+    "Doppler Lidar",
+    "Backscatter",
+    "Vitesse Doppler",
+    "Winter weather",
+    "Atmospheric measurements",
+    "Rétrodiffusion--Mesure",
+    "Vitesse--Mesure",
+    "Doppler velocity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sauvageau, Amélie (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0009-0004-9728-8406",
+    "Thompson, Hadleigh (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-5145-5951",
+    "Thériault, Julie M (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-6534-5083",
+    "Bigras, Ève (McGill University)."
+  ],
+  "dct_description_sm": [
+    "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Doppler Lidar Dataset Summary</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      margin: 2em;\n      line-height: 1.6;\n    }\n    h2 {\n      color: #2c3e50;\n    }\n    ul {\n      margin-top: 0;\n    }\n  </style>\n</head>\n<body>\n\n  <h2>English Summary</h2>\n  <p>\n    This dataset contains Doppler Lidar observations collected at the <strong>Gault Nature Reserve of McGill University</strong> using a <strong>Halo Photonics Stream Line XR</strong> instrument in stare mode.\n    The data are stored in <strong>NetCDF4</strong> format. It includes a time series of atmospheric measurements with <strong>400 range gates</strong> per profile.\n  </p>\n  <p>\n    These observations were made as part of the <strong>WHAFFERS field campaign</strong>, which aimed to better understand atmospheric phenomena through high-frequency remote sensing.\n  </p>\n  <p>Key variables include:</p>\n  <ul>\n    <li><strong>Doppler velocity</strong> (<code>dv</code>) and its <strong>error estimate</strong> (<code>errdv</code>)</li>\n    <li><strong>Backscatter intensity</strong> (<code>intensity</code>) and <strong>attenuated backscatter coefficient</strong> (<code>beta</code>)</li>\n    <li><strong>Instrument orientation</strong>: azimuth (<code>azi</code>) and zenith angle (<code>zenith</code>)</li>\n    <li><strong>Geolocation</strong>: latitude (<code>lat</code>), longitude (<code>lon</code>), sensor altitude (<code>zsl</code>)</li>\n    <li><strong>Signal and instrument parameters</strong>: wavelength (<code>wl</code>), pulse duration (<code>pd</code>), range gate length (<code>lrg</code>), PRF (<code>prf</code>), Nyquist frequency (<code>nqf</code>), velocity resolution (<code>resv</code>)</li>\n    <li><strong>Time and range bounds</strong> for each measurement</li>\n  </ul>\n  <p>\n    The <code>dv</code>, <code>errdv</code>, <code>intensity</code>, and <code>beta</code> variables are 2D arrays (time × range) with detailed metadata.\n  </p>\n\n  <hr>\n\n  <h2>Résumé en français</h2>\n  <p>\n    Ce jeu de données contient des observations de <strong>Lidar Doppler</strong> acquises à la <strong>Réserve naturelle Gault de l’Université McGill</strong> \n\nà l’aide d’un instrument <strong>Halo Photonics Stream Line XR</strong> en mode de pointage fixe (stare mode). Les données sont enregistrées au format <strong>NetCDF4</strong> et comprennent une série temporelle de mesures atmosphériques avec <strong>400 portes de distance</strong> par profil.\n  </p>\n  <p>\n    Ces observations ont été recueillies dans le cadre de la <strong>campagne de terrain WHAFFERS</strong>, visant à mieux comprendre les phénomènes atmosphériques grâce à la télédétection haute fréquence.\n  </p>\n  <p>Les principales variables sont :</p>\n  <ul>\n    <li><strong>Vitesse Doppler</strong> (<code>dv</code>) et son <strong>erreur estimée</strong> (<code>errdv</code>)</li>\n    <li><strong>Intensité du rétrodiffusé</strong> (<code>intensity</code>) et <strong>coefficient de rétrodiffusion atténué</strong> (<code>beta</code>)</li>\n    <li><strong>Orientation de l’instrument</strong> : azimut (<code>azi</code>) et angle zénithal (<code>zenith</code>)</li>\n    <li><strong>Localisation géographique</strong> : latitude (<code>lat</code>), longitude (<code>lon</code>), altitude du capteur (<code>zsl</code>)</li>\n    <li><strong>Paramètres du signal et de l’instrument</strong> : longueur d’onde (<code>wl</code>), durée d’impulsion (<code>pd</code>), longueur des portes de distance (<code>lrg</code>),\n        fréquence de répétition des impulsions (<code>prf</code>), fréquence de Nyquist (<code>nqf</code>), résolution de vitesse (<code>resv</code>)</li>\n    <li><strong>Limites de temps et de distance</strong> pour chaque mesure</li>\n  </ul>\n  <p>\n    Les variables <code>dv</code>, <code>errdv</code>, <code>intensity</code> et <code>beta</code> sont des tableaux 2D (temps × distance) accompagnés de métadonnées détaillées.\n  </p>\n\n</body>\n</html>"
+  ],
+  "dct_identifier_sm": [
+    "905332",
+    "https://doi.org/10.5683/SP3/GSVS5L"
+  ],
+  "dct_issued_s": "2025-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GSVS5L\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Mont-Saint-Hilaire, Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "WHAFFERS LiDAR STARE Dataset Summary",
+  "gbl_mdModified_dt": "2025-05-01T20:15:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8445636a-9272-5107-a20c-e9aa068a9238",
+  "locn_geometry": "ENVELOPE(-73.1668, -73.15517, 45.55309, 45.55038)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

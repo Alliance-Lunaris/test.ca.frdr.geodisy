@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Salticidae",
+    "Plexippina",
+    "Taxonomy",
+    "Iranattus",
+    "Molecular systematics",
+    "Systematics",
+    "Maximum likelihood estimation",
+    "ultraconserved elements",
+    "Phylogenetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Marathe, Kiran (University of British Columbia). ORCID: https://orcid.org/0000-0002-7364-3475",
+    "Maddison, Wayne (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.ht76hdrpz</p>\n<p><b>Storage size:</b> 25244722</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>The jumping spider genus <em>Iranattus</em> Prószyński, 1992 has been placed in the Harmochirina based on morphology. We use phylogenomic evidence based on ultraconserved element  (UCE) data to show that it belongs instead in the subtribe Plexippina.</p>",
+    "<b>Methods</b><br /><p>We used target enrichment UCE sequencing, dual-indexed TruSeq-style libraries were prepared following methods used previously (e.g. Maddison et al. 2020b). Targeted enrichment using the RTA_v2 probeset (Zhang et al. 2023) was performed using the myBaits v. 4.01 protocol (Arbor Biosciences, &lt;https://arborbiosci.com/wp-content/uploads/2023/06/myBaits_Manual_v5.03.pdf&gt;). Libraries were sequenced on partial lanes of illumina NovaSeq 6000 S4 runs with 150-bp paired end reads.</p>\n<p>Raw demultiplexed reads were processed with PHYLUCE v. 1.6 (Faircloth 2016), quality control and adapter removal were performed with Illumiprocessor wrapper (Faircloth 2013), and assemblies were created with SPAdes v. 3.14.1 (Nurk et al. 2013) using options at default settings. The UCE loci were recovered using RTA_v2 probeset (Zhang et al. 2023). The recovered loci were aligned with MAFFT using L-INS-i option (Katoh and Standley 2013). The aligned UCE loci were then trimmed with Gblocks (Castresana 2000, Talavera and Castresana 2007) using –b1 0.5, –b2 0.7, –b3 8, –b4 8, –b5 0.4 setting and re-aligned with MAFFT using L-INS-i option within Mesquite v. 3.81 (Maddison and Maddison 2023b). As in the analysis of Maddison et al. (2020), suspected paralogous loci were deleted based on branch lengths in RAxML (Stamatakis 2014) inferred gene trees. Loci represented in fewer than 10 taxa total were deleted.</p>"
+  ],
+  "dct_identifier_sm": [
+    "723794_150149",
+    "https://doi.org/10.5683/SP3/ZEJBTC"
+  ],
+  "dct_issued_s": "2026-05-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZEJBTC\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Ultraconserved element data for phylogenomic placement of the jumping spider genus Iranattus Prószyński, 1992 (Salticidae, Plexippini, Plexippina)",
+  "gbl_mdModified_dt": "2026-05-21T17:45:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "db8e7295-b62c-5b22-b282-6a5825ac34f4",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-13.48852, -10.75338, 47.98843, 37.49732)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Schumacher, Mia (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0009-0007-5920-0719",
+    "Brix-Elsig, Saskia (German Center for Marine Biodiversity Research, Research Institute Senckenberg).",
+    "Taylor, James (Senckenberg am Meer, Wilhelmshaven). ORCID: https://orcid.org/0000-0001-6938-5680",
+    "Mensing, Rebecca (University of Ottawa)."
+  ],
+  "dct_description_sm": [
+    "Swath sonar bathymetry data used for that dataset was recorded during RV SONNE during cruise SO280 using Kongsberg EM 710 multibeam echosounder. The cruise took place between 08.01.2021 - 07.02.2021 in the Atlantic Ocean. Data were recorded throughout the whole time spend outside EEZs, the survey around Mt. Josephine took place on the 30.1. &amp; 31.1.2021. The approximate average depth of the submitted dataset is around 1000m. To enhance MBES data accuracy, sound velocity profile casts were conducted in the vicinity of the working area prior to the survey using CTD rosette. Data were manually edited for false measurements using Qimera. The data product is a gridded geotiff with 10m resolution (negative values), WGS84 as vertical datum and UTM28N as a projection of one of the study areas at Mount Josephine. The data processing and provision was accomplished within work package 2 of the EU Horizon 2020 project iAtlantic- Integrated Assessment of Atlantic Marine Ecosystem in Space and Time and the IceAge project."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.955826",
+    "https://doi.org/10.1594/pangaea.955826"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.955826\"}",
+  "dct_subject_sm": [
+    "Raster cell size",
+    "Latitude, southbound",
+    "Latitude, northbound",
+    "Swath-mapping system Simrad EM710 (Kongsberg Maritime AS)",
+    "UTM Northing, Universal Transverse Mercator",
+    "UTM Zone, Universal Transverse Mercator",
+    "Binary Object (Media Type)",
+    "Multibeam bathymetry",
+    "Longitude, eastbound",
+    "Horizontal datum, projection stored in file",
+    "Horizontal datum",
+    "Binary Object",
+    "Longitude, westbound",
+    "SO280",
+    "File content",
+    "Icelandic marine Animals: Genetics and Ecology (IceAge)",
+    "Binary Object (File Size)",
+    "UTM Easting, Universal Transverse Mercator",
+    "Integrated Assessment of Atlantic Marine Ecosystems in Space and Time (iAtlantic)",
+    "Bathymetry",
+    "Elevation, maximum",
+    "Sonne_2",
+    "Elevation, minimum"
+  ],
+  "dct_title_s": "Multibeam bathymetry processed data (Kongsberg EM710 entire dataset) of RV SONNE during cruise SO280",
+  "gbl_mdModified_dt": "2026-06-02T01:36:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "63645395-e44a-5792-96d8-7ae9e3d45ce3",
+  "locn_geometry": "ENVELOPE(-13.48852, -10.75338, 47.98843, 37.49732)",
+  "schema_provider_s": "PANGAEA"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "dcat_keyword_sm": [
+    "CCU",
+    "CSCU",
+    "Sécurité Publique",
+    "911",
+    "Urgences",
+    "Information gouvernementale"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction générale de la sécurité incendie et des télécommunications d’urgence, MSI."
+  ],
+  "dct_description_sm": [
+    "__9-1-1 service (cellular coverage) __\n\nThe purpose of this information layer is to notify users about telephone respondents for 9-1-1 emergency communications. It indicates areas where cellular devices can be used, and identifies the emergency communications center that will be reached during a 9-1-1 cellular call.\n\n__Servicing emergency communications center agreements using an administrative emergency number (10 digits) __\n\nThe purpose of this information layer is to notify users about telephone respondents during 9-1-1 emergency calls with a 10-digit number. It indicates the emergency communications center that answers a call made using a satellite or wired telephone for areas that do not have cellular coverage or 9-1-1, and where the user must dial a 10-digit administrative emergency number.\n\nInformation for both layers is captured and updated by the 9-1-1 and Emergency Telecommunications Directorate of the Ministry of Homeland Security.\n\n___Precision:__ The layers of 9-1-1 Service and Service Agreements are complementary. 9-1-1 Service is based on the municipal administrative boundaries at which cellular coverage has intersected. Conversely, the Service of Agreements is based on the municipal administrative boundaries from which cellular coverage has been subtracted in order to represent areas that do not have 9-1-1 coverage and therefore require the use of a ten-digit administrative emergency number. _**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Desserte 9-1-1 (couverture cellulaire)__\n\nCette couche d’informations a pour but d'aviser les utilisateurs sur les répondants téléphoniques pour les communications d'urgence 9-1-1. Elle indique les zones où les appareils cellulaires peuvent être utilisés, et identifie le centre de communications d’urgence qui sera rejoint lors d’un appel cellulaire au 9-1-1.\n\n__Desserte des ententes des centres de communications d’urgence à l’aide d’un numéro d’urgence administratif (10 chiffres)__\n\nCette couche d'informations a pour but d'aviser les utilisateurs sur les répondants téléphoniques lors de communications d'urgence 9-1-1 avec un numéro à dix chiffres. Elle indique le centre de communications d’urgence qui répond à un appel logé à l’aide d'un téléphone satellite ou filaire pour les zones n'ayant pas de couverture cellulaire, ni de 9-1-1, et où l’utilisateur doit composer un numéro d’urgence administratif à dix chiffres.\n\nL'information pour les deux couches est saisie et mise à jour par la Direction du 9-1-1 et des télécommunications d’urgence du ministère de la Sécurité intérieure.\n\n___Précision :__ Les couches de la Desserte 9-1-1 et de la Desserte des ententes sont complémentaires. La Desserte 9-1-1 est basée sur les limites administratives municipales auxquelles la couverture cellulaire a été intersectée. À l’inverse, la Desserte des ententes est basée sur les limites administratives municipales auxquelles la couverture cellulaire a été soustraite afin de représenter les zones n'ayant pas de couverture 9-1-1 et nécessitant donc l'utilisation d'un numéro d'urgence administratif à dix chiffres._"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6a052cb5-42e6-4735-8626-02f62f1294d0"
+  ],
+  "dct_issued_s": "2015-03-25",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6a052cb5-42e6-4735-8626-02f62f1294d0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Desserte des centres d'urgences 9-1-1",
+  "gbl_mdModified_dt": "2026-09-30T17:40:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "da4cfd0f-8886-5980-aa60-7b13b3e6ad08",
+  "locn_geometry": "ENVELOPE(-90.2178, -46.7822, 64.2855, 42.8632)",
+  "schema_provider_s": "Open Data Canada"
+}

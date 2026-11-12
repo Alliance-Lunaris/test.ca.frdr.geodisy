@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Point layer of public and private standpipes.\n\n**Collection context**\n Maintenance by the engineering department.\n\n**Collection method**\n Computer-aided drawing.\n\n**Attributes**\n\n* `ASSET_ID` (`integer`): Identifier\n* `NO_BF` (`varchar`): Number\n* `FIC_JOINT` (`varchar`): Attached file\n* `BF_TYPE` (`varchar`): Type\n* `NO_CIVIC` (`varchar`): Civic number\n* `ODO_COURT_COMPLET` (`varchar`): Full short odonym\n* `ODO_INDEX_LONG` (`varchar`): Long index odonym\n* `LOCATION` (`varchar`): Location\n* `SECTEUR_DESC` (`varchar`): Sector\n* `MODELE` (`varchar`): Model\n* `DATE_INSTALLE` (`integer`): Installed on\n* `ELEV_RADIER` (`numeric`): Radius elevation\n* `ELEV_SURF` (`numeric`): Surface elevation\n* `PRESSURE_STAT` (`integer`): Static pressure\n* `DEBIT` (`integer`): Rate\n* `NOTES` (`varchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `COORD_XY` (`varchar`): Coordinates\n* `LOC_ROTATION` (`numeric`): Symbol rotation\n* `BF_MOUCHE` (`nchar`): Mouth\n* `DRAINAGE` (`nchar`): Drainage\n* `DRAINAGE_INSPECTION` (`nchar`): Drainage inspection\n* `INSPECTE_BY` (`nchar`): Inspected by\n* `DATE_INSPECTION` (`smalldatetime`): Inspected the\n* `NFPA_TEXT` (`varchar`): NFPA code\n* `NFPA_DESC` (`varchar`): NFPA description\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7185f1a1-3d97-48ad-a6e8-2461e7abcc15"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7185f1a1-3d97-48ad-a6e8-2461e7abcc15\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Fountains - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:40:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f16f8551-9ee4-550a-b879-b3618c90ec57",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

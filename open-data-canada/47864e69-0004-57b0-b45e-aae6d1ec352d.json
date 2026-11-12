@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.975, -92.1897, 59.9989, 49.0)",
+  "dcat_keyword_sm": [
+    "Angler",
+    "Angling",
+    "Fishing",
+    "AIS",
+    "River",
+    "Lake",
+    "Government information",
+    "Boat launch",
+    "Province of Manitoba",
+    "Aquatic Invasive Species",
+    "Fish",
+    "Contour",
+    "canada",
+    "Manitoba Government",
+    "Bathymetry",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur les plans d'eau du Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This point feature layer contains both general and detailed information on waterbodies in Manitoba which are associated with the Lake Information for Anglers program.  \n  \n  The point data contained within this layer represent the centroids of waterbodies in Manitoba. The layer describes a number of different attributes about a waterbody including, where available: average depth, aquatic invasive species information, regulatory links, presence of contours, waterbody specific PDF, fish assessment information, species information and coordinates. The waterbody data layer, along with related information, can be found at the Manitoba Lake Information For Anglers app. The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit Manitoba Fisheries. The dataset includes the following fields (Alias (Name): Description) Waterbody ID (WATERBODY_ID): Unique identifier for an individual waterbody. Waterbody Name (WATERBODY_NAME): Name of the waterbody. Surface Area (km2) (SURFACE_AREA): Surface area of the waterbody in square kilometres. Average Depth (m) (AVERAGE_DEPTH_M): Average depth of a waterbody, if bathymetric data is available. Secchi (SECCHI): Indicates whether data exists for secchi depth in the waterbody (YES/NO). Secchi Depth (m) (SECCHI_DEPTH): Depth in meters of the visibility of a secchi disk. Fishing Division (FISHING_DIVISION): Indicates which fishing division the waterbody centroid is within. Fishing Division Special Area (SPECIAL_AREA): Indicates if the waterbody is within the special walleye areas (A or B). Please refer to the Angling Guide for details. UTM Zone (ZONE): Indicates which UTM zone the waterbody is in. Aquatic Invasive Species (AIS): Indicates the known or unknown presence of aquatic invasive species. Aquatic Invasive Species Control Zone (AIS_CONTROL_ZONE): Indicates which aquatic invasive species control zone a waterbody is within. High Quality Management (HIGH_QUALITY_MANAGEMENT): Indicates whether the waterbody falls under the high quality management angling regulations in Manitoba (TRUE/FALSE). HQM Description (HQM_DESCRIPTION): Indicates the high quality management provisions based on the fishing division the waterbody is in (only applies if the waterbody is a High Quality Management waterbody). Angling Regulations (SPECIAL_REGS): A note to see Manitoba Anglers’ Guide. Anglers' Guide (ANGLING_GUIDE): Contains a link (URL) to the Manitoba Anglers’ Guide. Waterbody Link (PRINTABLE_MAP): Contains a link to a PDF of waterbody contours and lake specific information for waterbodies that have bathymetric data. Boat Launch (BOAT_LAUNCH): Indicates whether the waterbody has a known boat launch (YES/NO). Launch Photo (LAUNCH_PHOTO): Indicates whether there is a launch photo for the waterbody (YES/NO). Boat Launch Photo (BOAT_LAUNCH_PHOTO): Contains a link (URL) that directs users to a photo of the launch. Stocked (STOCKED): Indicates whether the lake has been stocked with fish in the past (TRUE/FALSE). Species (SPECIES): A list of gamefish species that are known to have existed in the waterbody historically. Currently contains no info. Assessment (ASSESSMENT): Indicates whether an assessment PDF is available for the waterbody (YES/NO). Fisheries Assessment Link (FISHERIES_ASSESSMENT_LINK): Contains a link that directs users to a PDF document that contains information about species, fish age demographics, and master angler records. Contours (CONTOURS): Indicates whether contour data exists for the waterbody (YES/NO). Lat (DD) (LAT_DD): Latitudinal coordinates of the representative centroid of the waterbody in decimal degrees. Long (DD) (LONG_DD): Longitudinal coordinates of the representative centroid of the waterbody in decimal degrees.",
+    "Cette couche d'entités ponctuelles contient des informations générales et détaillées sur les plans d'eau du Manitoba qui sont associées au programme Lake Information for Anglers.  \n  \n  Les données ponctuelles contenues dans cette couche représentent les centroïdes des plans d'eau du Manitoba. La couche décrit un certain nombre d'attributs différents d'un plan d'eau, notamment, le cas échéant : la profondeur moyenne, les informations sur les espèces aquatiques envahissantes, les liens réglementaires, la présence de contours, le PDF spécifique au plan d'eau, les informations sur l'évaluation des poissons, les informations sur les espèces et les coordonnées. La couche de données sur les plans d'eau, ainsi que les informations connexes, se trouvent dans l'application Manitoba Lake Information For Anglers. Le projet a été lancé par la Direction de la faune et des pêches du Manitoba avec le financement du Fish and Wildlife Enhancement Fund. Les données sont fournies par la Direction de la faune et des pêches du Manitoba, les districts de pêche sportive de Swan Valley et du bassin hydrographique du Manitoba. Pour plus d'informations, visitez Manitoba Fisheries. L'ensemble de données comprend les champs suivants (Alias (nom) : Description) ID du plan d'eau (WATERBODY_ID) : identifiant unique pour un plan d'eau individuel. Nom du plan d'eau (WATERBODY_NAME) : Nom du plan d'eau. Superficie (km2) (SURFACE_AREA) : Superficie du plan d'eau en kilomètres carrés. Profondeur moyenne (m) (AVERAGE_DEPTH_M) : profondeur moyenne d'un plan d'eau, si des données bathymétriques sont disponibles. Secchi (SECCHI) : indique s'il existe des données sur la profondeur des secchi dans le plan d'eau (OUI/NON). Profondeur de Secchi (m) (SECCHI_DEPTH) : profondeur en mètres de visibilité d'un disque de Secchi. Division de pêche (FISHING_DIVISION) : indique dans quelle division de pêche se trouve le centroïde du plan d'eau. Zone spéciale de la division de pêche (SPECIAL_AREA) : indique si le plan d'eau se trouve dans les zones spéciales réservées au doré (A ou B). Veuillez consulter le Guide de pêche pour plus de détails. Zone UTM (ZONE) : indique dans quelle zone UTM se trouve le plan d'eau. Espèces aquatiques envahissantes (EAE) : indique la présence connue ou inconnue d'espèces aquatiques envahissantes. Zone de contrôle des espèces aquatiques envahissantes (AIS_CONTROL_ZONE) : indique dans quelle zone de contrôle des espèces aquatiques envahissantes se trouve un plan d'eau. Gestion de haute qualité (HIGH_QUALITY_MANAGEMENT) : indique si le plan d'eau est régi par les règlements de gestion de haute qualité de la pêche au Manitoba (TRUE/FALSE). Description HQM (HQM_DESCRIPTION) : indique les dispositions de gestion de haute qualité en fonction de la division de pêche dans laquelle se trouve le plan d'eau (s'applique uniquement si le plan d'eau est un plan d'eau relevant du système de gestion de haute qualité). Règlements sur la pêche à la ligne (SPECIAL_REGS) : Veuillez consulter le Guide de la pêche à la ligne du Manitoba. Guide de la pêche à la ligne (ANGLING_GUIDE) : contient un lien (URL) vers le Guide de la pêche à la ligne du Manitoba. Lien vers le plan d'eau (PRINTABLE_MAP) : contient un lien vers un PDF contenant les contours des plans d'eau et des informations spécifiques aux lacs pour les plans d'eau contenant des données bathymétriques. Boat Launch (BOAT_LAUNCH) : indique si le plan d'eau possède une rampe de mise à l'eau connue (OUI/NON). Photo de lancement (LAUNCH_PHOTO) : indique s'il existe une photo de lancement pour le plan d'eau (OUI/NON). Photo de lancement du bateau (BOAT_LAUNCH_PHOTO) : contient un lien (URL) qui dirige les utilisateurs vers une photo du lancement. Stocké (STOCKÉ) : Indique si le lac a été ensemencé de poissons par le passé (VRAI/FAUX). Espèces (ESPÈCES) : Liste des espèces de poissons-gibier dont on sait qu'elles ont toujours existé dans le plan d'eau. Ne contient actuellement aucune information. Évaluation (ÉVALUATION) : indique si une évaluation PDF est disponible pour le plan d'eau (OUI/NON). Lien d'évaluation des pêches (FISHERIES_ASSESSMENT_LINK) : contient un lien qui dirige les utilisateurs vers un document PDF contenant des informations sur les espèces, les données démographiques relatives à l'âge des poissons et les dossiers des maîtres pêcheurs. Contours (CONTOURS) : indique s'il existe des données de contour pour le plan d'eau (OUI/NON). Lat (DD) (LAT_DD) : coordonnées latitudinales du centroïde représentatif du plan d'eau en degrés décimaux. Long (DD) (LONG_DD) : coordonnées longitudinales du centroïde représentatif du plan d'eau en degrés décimaux.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/50570d66-098b-beb2-169a-672ab5b8c12c"
+  ],
+  "dct_issued_s": "2020-10-01",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/50570d66-098b-beb2-169a-672ab5b8c12c\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "transport",
+    "society_and_culture",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Manitoba Waterbody Data",
+  "gbl_mdModified_dt": "2025-08-27T11:10:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "47864e69-0004-57b0-b45e-aae6d1ec352d",
+  "locn_geometry": "ENVELOPE(-101.975, -92.1897, 59.9989, 49.0)",
+  "schema_provider_s": "Open Data Canada"
+}

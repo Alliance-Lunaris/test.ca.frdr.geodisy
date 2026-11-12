@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "Fournir des services et des produits d'information sur les conditions météorologiques",
+    "Météorologie",
+    "Internationale",
+    "Radar",
+    "International",
+    "Weather and Environmental Operations",
+    "Temps",
+    "Remote sensing",
+    "Deliver Weather Products and Services to Clients",
+    "Livrer des produits et des services météorologiques aux clients",
+    "Service météorologique du Canada",
+    "Meteorology",
+    "Atmospheric conditions",
+    "Opérations météorologiques et environnementales",
+    "Radar",
+    "Temps (Météorologie)",
+    "Télédétection",
+    "Provide Weather Information Products and Services",
+    "Conditions atmosphériques",
+    "Meteorological Service of Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Composite radar nord-américaine (1 km)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "This mosaic is calculated over the North American domain with a horizontal spatial resolution of 1 km. This mosaic therefore includes all the Canadian and American radars available in the network and which can reach a maximum of 180 contributing radars. To better represent precipitation over the different seasons, this mosaic renders in mm/h to represent rain and in cm/h to represent snow. For the two precipitation types (rain and snow), we use two different mathematical relationships to convert the reflectivity by rainfall rates (mm/h rain cm/h for snow). This is a hybrid mosaic from DPQPE (Dual-Pol Quantitative Precipitation Estimation) for S-Band radars. For the US Nexrad radars, ECCC uses the most similar product from the US Meteorological Service (NOAA). This product displays radar reflectivity converted into precipitation rates, using the same formulas as the Canadian radars.",
+    "La mosaïque est calculée sur le domaine nord-américain avec une résolution spatiale horizontale de 1 km. Cette mosaïque inclut donc tous les radars canadiens et américains disponibles dans le réseau et qui peuvent atteindre un maximum de 180 radars contributeurs. Afin de mieux représenter les précipitations pendant les différentes saisons, cette mosaïque est disponible en mm/h pour représenter la pluie et en cm/h pour représenter la neige. Pour les deux types de précipitations (pluie et neige), nous utilisons deux relations mathématiques différentes pour convertir la réflectivité en taux de précipitations (mm/h pour pluie et cm/h pour neige). Il s’agit d’une mosaïque basée sur le produit EQPDP (Estimation quantitative des précipitations à double polarisation) qui est disponible uniquement pour les radars en bande S. Pour les radars américains Nexrad, ECCC utilise le produit le plus similaire du service météorologique américain (NOAA). Ce produit est la réflectivité radar, qui est convertie en taux de précipitation en utilisant les mêmes formules que celles utilisées pour les radars canadiens."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/37aecae5-7783-4274-b595-df02aa003ac3"
+  ],
+  "dct_issued_s": "2024-11-28",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/37aecae5-7783-4274-b595-df02aa003ac3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "North American Radar Composite (1 km)",
+  "gbl_mdModified_dt": "2025-03-11T21:04:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6fcc05ed-0ad6-540e-9f35-ead07bea7847",
+  "locn_geometry": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.846114, -109.081415, 60.093061, 48.920871)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Alberta Regeneration Information System (ARIS) requires a unique identifier assigned to a cutblock to enable tracking within ARIS. This number is generated from a point roughly derived from the centre of the cutblock. The number is a concatenation of the point's legal description plus a grid cell number. The format is MRRTTTSSGG where M - Meridian, RR - Range, TTT - Township, SS - Section, GG - grid cell. The MRRTTSS information is derived with reference to the Alberta Township System. The grid cell is derived from a 10 by 10 grid that is overlaid on the section that the centre of the cutblock is contained in. Grid cells are numbered between 00 - 99 with the grid origin at the bottom left corner of the section and anchored to the centre of grid cell 00. The first digit represents the grid column and the second digit is the grid row of the 10 by 10 matrix. Note that in some cases a letter may be appended to the end of the opening number where an opening number had to be split between two cutblocks for some reason. For example, cutblocks may have the same basic opening number but one is differentiated from the other with one having an A and the other having a B appended to the end of the base opening number.This dataset contains all the potential opening numbers in the Green Area of the province, either as a whole or by Forest Management Unit (FMU)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9fef910a-5f56-45ff-988f-738035a8ebfe"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9fef910a-5f56-45ff-988f-738035a8ebfe\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "GOA Alberta Regeneration Information System Opening Numbers",
+  "gbl_mdModified_dt": "2026-03-04T20:10:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a7e1d8cf-70ca-5cba-97f4-1ffd662c56fe",
+  "locn_geometry": "ENVELOPE(-120.846114, -109.081415, 60.093061, 48.920871)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

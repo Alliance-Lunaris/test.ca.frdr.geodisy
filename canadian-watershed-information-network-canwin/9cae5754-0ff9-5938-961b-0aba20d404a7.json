@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-148.50785074, -46.02738199, 76.64849281, 40.07514221)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A National Forest Fire Behaviour Prediction (FBP) Fuel Type (FT) layer, representing fuel types as described in the Canadian Forest Fire Danger Rating System (CFFDRS) Canada-wide. This data is developed through the Spatialized Canadian National Forest Inventory (SCANFI) dataset, specifically the updated SCANFI version 2.0. The Fuel Type layer is produced at variable resolution to best meet the needs of users: 30m (default) and 100m (ideal for fire growth modelling).\nThe purpose of this dataset is to characterize Canadian forests into Fuel Types for use in various applications, including wildland fire management, research, fuel management, and more. This layer is primarily developed to support national scale applications and uses but can be utilized for localized landbases and adapted as required.\nThis data represents the most up-to-date national product and is updated annually prior to the start of the fire season to incorporate burned area and additional data from the previous year. This data will be updated annually and published online by April 30th of each year.\nNote: In this product Slash fuel types (S-1, S-2, and S-3) are not represented. Conifer Plantation (C-6) is not represented. \nRaster Grid Value 13 represents vegetated fuels without an effective match to an existing FBP Fuel Type under this ruleset. Grid Value 11 (corresponding to D-1 Leafless Aspen) is assumed to represent true Deciduous fuels as described in the FBP system."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/851e6a27-a250-41e6-9cd0-d7ff96455dd6"
+  ],
+  "dct_issued_s": "2026-07-08",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/851e6a27-a250-41e6-9cd0-d7ff96455dd6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian National Fire Behaviour Prediction (FBP) Fuel Type (FT) Layer - Current Year",
+  "gbl_mdModified_dt": "2026-07-23T13:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cae5754-0ff9-5938-961b-0aba20d404a7",
+  "locn_geometry": "ENVELOPE(-148.50785074, -46.02738199, 76.64849281, 40.07514221)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

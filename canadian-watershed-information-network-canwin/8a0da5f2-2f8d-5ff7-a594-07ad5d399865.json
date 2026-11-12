@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Roads database includes an inventory of road assets (roadways, blocks, intersections, sidewalks, curbs) with a spatial representation and various attached information.\n\nSidewalk-type road assets represent sidewalks and curbs juxtaposed with carriageways located in the public domain and that are part of the local or arterial road network. Sidewalks and curbs are represented by polygons differentiated by category and type. \n\nAmong the information associated with a sidewalk-type object is the date of construction, the date of survey, the type of sidewalk and curb, the materials of the sidewalk, the border and the developed strip, the presence of trees, the presence of a projection, the presence of a ledge, the presence of a bicycle lane, the use, etc.\n\nIsland-type road assets represent malls located in the public domain and which are juxtaposed to the local or arterial road network. The islands are represented by polygons that are differentiated by their configuration.\n\nAmong the information associated with an island-type object is the date of construction, the date of survey, the materials of the block and the border, the presence of trees, the type of island, etc.\n\nData is also available in separate sets on the portal to support several uses:\n\n- [Road asset (complete database)] (/city-of-montreal/road-active)\n\n- [Roadway and intersection] (/city-of-montreal/voirie-causee-intersection)\n\n- [Off-road zone] (/city-of-montreal/voirie-zone) \n\n__Warnings__\n\n- The data released on road assets are those in the possession of the City's geomatics team and are not necessarily up to date throughout the territory.\n\n- The data released on road assets is provided for information purposes only and should not be used for the purposes of designing or carrying out works or for the location of assets.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cbea9e7b-9808-42b3-ac05-7d4313a65f98"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cbea9e7b-9808-42b3-ac05-7d4313a65f98\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Sidewalk and block (Road Assets Database)",
+  "gbl_mdModified_dt": "2026-10-07T17:36:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a0da5f2-2f8d-5ff7-a594-07ad5d399865",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

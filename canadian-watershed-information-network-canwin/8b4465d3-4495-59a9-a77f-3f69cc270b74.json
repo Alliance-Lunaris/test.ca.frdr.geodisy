@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.2079, -95.0049, 53.8978, 48.8208)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to show end users where LiDAR data has been acquired by the Government of Manitoba.  \n  \n  LiDAR (Light Detection and Ranging) is a remote sensing technology that uses lasers to collect accurate, continuous elevation data over relatively large areas. These data are essential for activities such as forestry, flood risk management, land use planning, and natural resources management. The Manitoba Government is increasingly acquiring LiDAR data across the province.This layer was created on August 5, 2009 by Manitoba Sustainable Development and was updated on August 9, 2021.To  download LiDAR data from the Manitoba Land Initiative (MLI) site, follow this link: https://mli2.gov.mb.ca/dems/index_external_lidar.html Fields included ( Alias (Field Name): Field description.) ObjectID (OBJECTID) - Automatically generated feature numberAcquired  (ACQUIRED) - LiDAR data capture dateContractor  (CONTRACTOR) - Contractor nameContributor  (CONTRIB) - Manitoba Government departmentName (NAME) - Dataset nameCellsize (CELLSIZE) - Raster DEM cell sizeMLI (MLI) - Data available for download on the Manitoba Land Initiative site"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2bd40be2-8077-f1a1-6a07-b87f69793d03"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2bd40be2-8077-f1a1-6a07-b87f69793d03\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba LiDAR Tracker",
+  "gbl_mdModified_dt": "2025-02-05T19:05:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8b4465d3-4495-59a9-a77f-3f69cc270b74",
+  "locn_geometry": "ENVELOPE(-102.2079, -95.0049, 53.8978, 48.8208)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

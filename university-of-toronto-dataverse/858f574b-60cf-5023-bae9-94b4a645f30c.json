@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Health",
+    "Demography"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "<p><strong>Confidence intervals.&nbsp;</strong><span style=\"\"line-height: 1.6;\"\">Confidence intervals (CI) and coefficient of variation (CV) indicate the reliability of the estimates in the context of survey data, generally coming from a sample. In the context of administrative sources, their formulations reflect the year-to-year variability. In both cases, these data quality measures give an indication of the precision of a given estimate. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant.&nbsp;</span><span style=\"\"line-height: 1.6;\"\">Data with a coefficient of variation from 16.6% to 33.3% are to be used with caution and are identified as follows: (E). Data with a coefficient of variation greater than 33.3% are not published because they are too unreliable due to extreme sampling variability. They are identified as follows: (F).&nbsp;</span><span style=\"\"line-height: 1.6;\"\">Where applicable, CIs and CVs are provided along with data viewed on screen when you download. These attributes are also included when data are exported from the comprehensive download interface. Statistical significance flags (comparing regions to province/territory, Canada, and previous cycles) are also provided in the comprehensive download data base, currently calculated for data from the Canadian Community Health Survey (CCHS) only.</span></p>\n\n<p><strong>Different period estimates available</strong><br />\n<em><span style=\"\"line-height: 1.6;\"\">Canadian Community Health Survey data.&nbsp;</span></em><span style=\"\"line-height: 1.6;\"\">Most of the data from the Canadian Community Health Survey (CCHS) shown in the Health Profile are based on the 2008 cycle of CCHS core content (CANSIM table 105-0501), representing one year of collection, and a representative sample of approximately 65,000 Canadians. These estimates present the most up-to-date population health characteristics and will be produced yearly. In cases where high variability is noted especially for health regions with relatively small populations, CANSIM table 105-0502 includes estimates from 2007/2008 combined, 2005 and 2003. The two-year combined data are less current than annual estimates, but have higher precision (less variability), with a representative sample of approximately 130,000 Canadians.</span></p>\n\n<p><em>Vital Statistics and Cancer Registry data.&nbsp;</em>Health region level data based on births and deaths and cancer reflect three years combined. These sub-provincial estimates are produced occasionally and therefore do not reflect the latest available statistics from these sources and boundaries in some cases.&nbsp;More current annual data, at the Canada and province/territory level, are routinely disseminated and available in the following Statistics Canada publications: Births (84f0210xwe), Deaths (84f0211x), Causes of Death (84-208-x), Leading Causes of Deaths (84-215-x), Mortality Summary List of Causes (84f0209x), Life Tables, Canada, Provinces and Territories (84-537-x) and Cancer Incidence in Canada (82-231-x).&nbsp;The health regions level data based on births and deaths (life expectancy, mortality, and low birth weight) reflect boundaries in effect as of 2003 and therefore where significant changes have occurred, such as in Prince Edward Island and Ontario, no health region level data are shown.</p>\n\n<p><strong>Geographic coverage of the Canadian Community Health Survey (CCHS)</strong></p>\n\n<p><em>Prince Edward Island.&nbsp;</em>In November 2005 Prince Edward Island officially disbanded the four health regions. The three existing counties (census divisions) provide an alternative set of boundaries to retain relevant subprovincial CCHS data.</p>\n\n<p><em>Nova Scotia.&nbsp;</em>In Nova Scotia, data are only available for the six zones, which are aggregations of nine district health authorities (DHA). Zones 1, 3 and 4 are each comprised of two DHAs. The remaining three zones change in name only with the following small exception. Mount Uniacke area, previously part of Zone 3 is cut-off by new DHA 4 boundary. Statistics for this area (population 1,114) will be included with DHA 9 (Halifax area). As a result, there is high comparability between Zone 6 and DHA 9 and between Zone 3 and DHA 4/5.<br />\nZone 1 = 1211 District Health Authority (DHA) 1, 1212 District Health Authority (DHA) 2<br />\nZone 2 = 1213 District Health Authority (DHA) 3<br />\nZone 3 = 1214 District Health Authority (DHA) 4, 1215 District Health Authority (DHA) 5<br />\nZone 4 = 1216 District Health Authority (DHA) 6, 1217 District Health Authority (DHA) 7<br />\nZone 5 = 1218 District Health Authority (DHA) 8<br />\nZone 6 = 1219 District Health Authority (DHA) 9.</p>\n\n<p><em>Quebec.&nbsp;</em>No data available for \"\"Region du Nunavik\"\" and \"\"Region des Terres-Cries-de-la-Baie-James\"\".</p>\n\n<p><em>Ontario.</em>&nbsp;In Ontario, Public Health Units (PHU) administer health promotion and disease prevention programs. Local Health Integration Networks (LHIN) are responsible for planning, funding and administering health care programs and services across the province. Data are provided for both PHUs and LHINs. However, since the weights for the Canadian Community Health Survey sample are primarily based on PHUs, only estimates for rates (percentages) are available by LHIN in the profile. Special LHIN weights are available upon request. These weights will allow for more precise estimation at the LHIN level including the estimation of totals.</p>\n\n<p><em>Manitoba.&nbsp;</em>To avoid data suppression, northern regions in Manitoba have been grouped with neighbouring regions, as follows: Churchill Regional Health Authority (4690) is combined with Burntwood Regional Health Authority (4680) and referred to as Burntwood/Churchill (4685).</p>\n\n<p><em>Saskatchewan.</em>&nbsp;To avoid data suppression, northern regions in Saskatchewan have been grouped with neighbouring regions, as follows: Athabasca Health Authority (4713) is combined with Mamawetan Churchill River Regional Health Authority (4711) and Keewatin Yatthe Regional Health Authority (4712) and referred to as Mamawetan/Keewatin/Athabasca (4714).</p>\n\n<p><em>Nunavut.&nbsp;</em>The Canadian Community Health Survey is administered in Nunavut, using an alternative methodology that accommodates some of the operational difficulties inherent to remote locales. The 10 largest communities are Iqaluit, Cambridge Bay, Baker Lake, Arviat, Rankin Inlet, Kugluktuk, Pond Inlet, Cape Dorset, Pangnirtung, Igloolik.</p>",
+    "<p>Characteristics include: well-being, health conditions, health behaviours, health system, accessibility, environmental factors, deaths by cause, life expectancy, personal resources, living and working conditions, community characteristics. Includes counts and rates, high and low 95% confidence intervals, coefficient of variation, significance vis-a-vis Canada, province, peer group rate, and previous reference period.</p>"
+  ],
+  "dct_identifier_sm": [
+    "315847_36",
+    "https://doi.org/10.5683/SP3/WJRUPC"
+  ],
+  "dct_issued_s": "2022-03-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WJRUPC\"}",
+  "dct_rights_sm": [
+    "This dataset is licensed for use by University of Toronto faculty, students, and staff for academic research and teaching. Redistribution is prohibited."
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences"
+  ],
+  "dct_title_s": "Health profile, 2009",
+  "gbl_mdModified_dt": "2024-10-24T17:14:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "858f574b-60cf-5023-bae9-94b4a645f30c",
+  "pcdm_memberOf_sm": [
+    "Map & Data Library Dataverse"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3305, -75.2686, 45.525, 44.983)",
+  "dcat_keyword_sm": [
+    "light",
+    "Infrastructure",
+    "streets",
+    "pole"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<h2 style='color:#009B85;'><a href='https://survey123.arcgis.com/share/2506c5d0cc2548e79017e05250e50bbf?field:datasetid=975aedb8759a4630805a4643ee38e268&locale=en' target='_blank' rel='nofollow ugc noopener noreferrer'>Tell Us About Your Interest In This Map</a></h2><br /><div><strong>Accuracy</strong>: 0-2 meters.  Dataset is not complete.  Additional updates are pending.  Updates occur on a quarterly basis.  City lighting is not completely converted over to LED.  To view just the LED lights in the dataset, use the column Light_Sour and select LED.</div><div><div><br />\n<strong>Update Frequency</strong>: 4 times per year<br /><br />\n<strong>Attributes</strong>:</div><div><ul><li>SHAPE: XY point geometry\n</li><li>HEAD_STYLE: Type of street light hardware.\n</li><li>LIGHT_TYPE: Type of light used.\n</li><li>BRACKET_LENGTH: Length of street light bracket.\n</li><li>POLE_HEIGHT: Height of light pole.\n</li><li>POLE_TYPE: Material of pole.\n</li><li>WATTAGE: Light wattage.\n</li><li>STREET_NAME: Name of street.\n</li><li>LIGHT SOURCE: </li><ul><li><p style='display:inline !important;'>HPS – <a href='https://en.wikipedia.org/wiki/Sodium-vapor_lamp#High-pressure_sodium' rel='nofollow ugc'>High\nPressure Sodium</a></p></li><li>LED – <a href='https://en.wikipedia.org/wiki/LED_lamp' rel='nofollow ugc'>Light\nEmitting Diode</a></li><li>Light Bulb – Heritage light bulbs</li><li>LPS – <a href='https://en.wikipedia.org/wiki/Sodium-vapor_lamp#Low-pressure_sodium' rel='nofollow ugc'>Low\nPressure Sodium</a></li><li>MH – <a href='https://en.wikipedia.org/wiki/Metal-halide_lamp' rel='nofollow ugc'>Metal Halide</a></li><li>MV – <a href='https://en.wikipedia.org/wiki/Mercury-vapor_lamp' rel='nofollow ugc'>Mercury Vapour</a></li><li>N/A – Lighting receptable (e.g. power socket for Christmas\nlights)</li><li>U – Unknown Source</li></ul></ul>\n<strong>Contact</strong>: <a href='mailto:Barbara.Harrington@Ottawa.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>Streetlighting Section/Streetlighting Engineering Work Group</a></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "975aedb8759a4630805a4643ee38e268",
+    "https://www.arcgis.com/home/item.html?id=975aedb8759a4630805a4643ee38e268"
+  ],
+  "dct_issued_s": "2019-08-29",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::street-lights\"}",
+  "dct_title_s": "Street Lights",
+  "gbl_mdModified_dt": "2026-08-12T19:05:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37c1fe43-73d5-57ca-9af2-4b5ed0c2faf2",
+  "locn_geometry": "ENVELOPE(-76.3305, -75.2686, 45.525, 44.983)",
+  "schema_provider_s": "Open Ottawa"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(48.1013889, 49.1113889, -12.5391667, -13.8947222)",
+  "dcat_keyword_sm": [
+    "PlanetScope; mangroves; remote sensing; Madagascar; dynamics; supervised classification"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wu, JiaYu (University of British Columbia). ORCID: https://orcid.org/0009-0000-8823-1230"
+  ],
+  "dct_description_sm": [
+    "In response to the growing concerns about mangrove deforestation, recent studies have used various remote sensing technology like satellite imagery to measure the mangrove extent. In this work, we investigated the mangrove distribution in Northwestern Madagascar by using fine spatial imagery with a pixel size as small as 3m and compared it with the result of the traditional method based on relatively coarser Landsat data. Mangroves are an essential biodiverse ecosystem found along tropical and subtropical intertidal beaches, providing critical goods and services to coastal communities, and supporting diverse organisms. However, anthropogenic\nactivities have caused the loss of mangroves in Madagascar, necessitating a new mapping approach utilizing the fine spatial resolution map from Planet data to create a map with advanced detail. The quantitative result central to this work is the new multi-date map of the Tsimipaika- Ampasindava-Ambaro Bays (TAB) from 2020 to 2022, which provides advanced detail and direct comparison with the shift in local mangrove species. The classification maps are based on Random Forest and Maximum Likelihood algorithms, and all of them have an overall accuracy of over 85%. The dynamics of mangrove forests from 2020 to 2022 are quantified, with a 12.6% loss in closed-canopy mangroves, and a 24.1% loss in open-canopy mangroves I am overestimated. Limitations regarding the classification model are also found in this study, including the overestimation of open canopy mangroves caused by the shadow and the seamline in the base map. This result shows the potential of using fine-resolution satellite imagery in supervised land cover classification, and the corresponding challenges raised by the smaller pixel size."
+  ],
+  "dct_identifier_sm": [
+    "455748_73894_115983",
+    "https://doi.org/10.5683/SP3/LFR4Q0"
+  ],
+  "dct_issued_s": "2023-04-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LFR4Q0\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Using Planet data to classify mangrove subtypes in Northwestern Madagascar in 2020 and 2022",
+  "gbl_mdModified_dt": "2023-04-18T20:47:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c5a7b61c-32c2-5c14-aa72-b9c7e529c44f",
+  "locn_geometry": "ENVELOPE(48.1013889, 49.1113889, -12.5391667, -13.8947222)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

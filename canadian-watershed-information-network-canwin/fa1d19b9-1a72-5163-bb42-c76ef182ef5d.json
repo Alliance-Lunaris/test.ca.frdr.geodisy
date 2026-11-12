@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.0928, -95.9187, 50.749, 49.2475)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset shows official trails and points of interest within Wildlife Management Areas in Manitoba.  \n  \n  This dataset shows official trails and points of interest within Wildlife Management Areas (WMAs) in Manitoba. Trails The purpose of this layer is to show recognized trails in Manitoba's wildlife management areas (WMAs). These include designated trails for vehicles, and hiking, biking, and cross-country ski trails. Fields included (alias (field name): field description) OBJECTID (OBJECTID): sequential unique whole numbers that are automatically generated WMA (WMA_Name): wildlife management area name Trail Name (Trail_Name): trail name or number Type (Type): trail type (e.g., walking or biking) Restrictions (Restrictions): use restrictions for the trail Points of Interest The purpose of this layer is to show important points of interest within Manitoba's wildlife management areas (WMAs). These include watercraft access points, interpretative kiosks, trail heads, picnic areas, primitive toilets, and ecological features like snake dens. Fields included (alias (field name): field description) OBJECTID (OBJECTID): sequential unique whole numbers that are automatically generated WMA (WMA_Name): wildlife management area name Feature Name (Feat_Name): name of the point of interest Type (Type): type of feature (e.g., trailhead, interpretive centre) Details (Details): details about the point of interest More information (Info): link to additional information about the point of interest, when available"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/20860245-9be4-3e40-d34f-dbb2e12dcea8"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/20860245-9be4-3e40-d34f-dbb2e12dcea8\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Trails",
+  "gbl_mdModified_dt": "2025-02-05T19:12:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa1d19b9-1a72-5163-bb42-c76ef182ef5d",
+  "locn_geometry": "ENVELOPE(-101.0928, -95.9187, 50.749, 49.2475)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "TOPEX (acronym which means “topographical exposure”) is an index of topographic exposure. It reflects the influence of local topography on the degree of exposure to wind and on its behavior (Ruel et al. 2002). \n\nTOPEX data are presented in the form of a matrix file (raster) whose spatial resolution is 50 m with a projection in Nad 1983 Quebec Lambert. \n\nThis raster covers the entire territory of Quebec located approximately south of 52°40' and west of 61°10' and extends beyond the borders of Quebec by 75 to 125 m (in order to have values on the entire Quebec territory covered).\n\nTOPEX values were calculated using the Digital Terrain Model (DTM) from the NASA Shuttle Radar Topography Mission (SRTM). This MNT is provided in a WGS 84 projection (EPSG: 4326) with a resolution of one arcsecond (+/- 30 m). A mosaic of the SRTM tiles was created to then project the MNT into Lambert and resample it at 50 m.\n\nTOPEX can be used as an input in a windfall vulnerability assessment system. However, it should be borne in mind that this index does not take into account the wind channeling effect that may occur in certain places and that can influence windfall. In addition, other factors must be taken into consideration in order to carry out a complete analysis of the risk of windfall. \n\nRUEL, J.-C., S. J. MITCHELL and M. DORNIER, 2002. A GIS based approach to map wind exposure for windthrow hazard rating. Northern Journal of Applied Forestry, 19 (4): 183-187.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b592411-0d27-4d2d-9cba-ce669a767645"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b592411-0d27-4d2d-9cba-ce669a767645\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "TOPEX",
+  "gbl_mdModified_dt": "2026-10-07T18:04:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0f06b4a8-b83e-5da6-9756-a778b72a79fc",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

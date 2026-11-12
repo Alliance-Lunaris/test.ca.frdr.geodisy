@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Atmosphère",
+    "Météorologie",
+    "Base de données",
+    "Climat",
+    "Climate",
+    "Databases",
+    "Atmosphere",
+    "Meteorology",
+    "Terre",
+    "Écosystème",
+    "Eau",
+    "Ecosystems",
+    "Land",
+    "Water"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Évapotranspiration de la surface terrestre continentale du Canada"
+  ],
+  "dct_creator_sm": [
+    "Wang, Shusen."
+  ],
+  "dct_description_sm": [
+    "The datasets contain land surface evapotranspiration (ET, in mm of H2O) for Canada's landmass at a spatial resolution of 5-km and temporal intervals of a month and a year over a 24-year period of 2000-2023. The ET was produced by the Land Surface Model EALCO (Ecological Assimilation of Land and Climate Observations) developed at Natural Resources Canada. The EALCO model was run at a 30-minute time step. The monthly (or annual) ET in the datasets is the sum of the 30-minute ET values in a month (or a year). Dew and frost formations simulated by EALCO are included in the ET as negative values, so the ET represents the net water flux between land surface and the atmosphere. Details of the datasets and the EALCO ET modelling algorithms can be found in Wang (2007, Simulation of Evapotranspiration and Its Response to Plant Water and CO2 Transfer Dynamics. J. Hydrometeorology, 9, 426-443, doi: 10.1175/2007JHM918.1) and Wang et al. (2013, Spatial and seasonal variations in evapotranspiration over Canada’s landmass. Hydrol. Earth Syst. Sci., 17, 3561–3575, doi:10.5194/hess-17-3561-2013).",
+    "Les ensembles de données contiennent des données sur l’évapotranspiration à la surface terrestre (évapotranspiration [ET], en mm de H2O) pour la masse terrestre du Canada à une résolution spatiale de 5 km et à des intervalles temporels d’un mois et d’un an sur une période de 24 ans allant de 2000 à 2023. L’ET a été produite par le modèle de surface terrestre EALCO (Ecological Assimilation of Land and Climate Observations) mis au point par Ressources naturelles Canada. Le modèle EALCO a été exécuté à un pas de temps de 30 minutes. L’ET mensuelle (ou annuelle) dans les ensembles de données correspond à la somme des valeurs de l’ET aux 30 minutes dans un mois (ou une année). Les formations de rosée et de givre simulées par EALCO sont incluses dans l’ET sous forme de valeurs négatives, de sorte que l’ET représente le flux d’eau net entre la surface terrestre et l’atmosphère. Les détails des ensembles de données et des algorithmes de modélisation de l’ET par l’EALCO se trouvent dans Wang (2007, Simulation of Evapotranspiration and Its Response to Plant Water and CO2 Transfer Dynamics. J. Hydrometeorology, 9, 426-443, doi : 10.1175/2007JHM918.1) et dans Wang et coll. (2013, Spatial and seasonal variations in evapotranspiration over Canada’s landmass. Hydrol. Earth Syst. Sci., 17, 3561–3575, doi : 10.5194/hess-17-3561-2013)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0005301b-624e-4000-8dad-a1a1ac6b46c2"
+  ],
+  "dct_issued_s": "2013-09-23",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0005301b-624e-4000-8dad-a1a1ac6b46c2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Land Surface Evapotranspiration for Canada's Landmass",
+  "gbl_mdModified_dt": "2024-10-29T14:40:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c5a8ca40-f9fb-53ed-b07f-caa5d79402f5",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

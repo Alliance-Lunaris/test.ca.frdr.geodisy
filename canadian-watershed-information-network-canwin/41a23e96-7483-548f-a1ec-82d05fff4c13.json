@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "High-resolution false-color Landsat image composite of Canada's forested ecosystems (2022). This national image product represents the Composite to Change (C2C) proxy composite image derived from thousands of Landsat images acquired between July 1 and August 30, 2022. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). The overall process followed is described in (Hermosilla et al. 2016 ) with details on the generation of gap-free surface reflectance composites in ( Hermosilla et al. 2015). Following the motivation and rationale presented in White et al. (White et al. 2014), Landsat imagery is subjected to a series of processing steps to remove clouds and shadows as well as haze and other unwanted atmospheric effects. Year-on-year time series of Landsat imagery are interrogated to avoid missing values, and to ensure exhaustive spatial coverage of the national surface reflectance composites. False-colour 3-channel image (bands: shortwave infrared, SWIR1; near infrared; red)\nWhen using these data, please cite as: Hermosilla, T., M.A. Wulder, J.C. White, N.C. Coops, G.W. Hobart, L.B. Campbell, 2016. Mass data processing of time series Landsat imagery: pixels to data products for forest monitoring. International Journal of Digital Earth 9(11), 1035-1054 (Hermosilla et al. 2016 )."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a1c5bbe-05aa-4808-bcaf-179b2b09b8a0"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a1c5bbe-05aa-4808-bcaf-179b2b09b8a0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Image Composite (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "41a23e96-7483-548f-a1ec-82d05fff4c13",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

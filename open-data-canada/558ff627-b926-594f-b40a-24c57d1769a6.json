@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "dcat_keyword_sm": [
+    "projet avancé",
+    "commodité",
+    "Minerals",
+    "Geological maps",
+    "deposit",
+    "dépôt",
+    "showing",
+    "prospect",
+    "advanced project",
+    "minéral critique",
+    "resource assessment",
+    "prospect",
+    "évaluation des ressources",
+    "indice",
+    "critical mineral",
+    "Carte géologique",
+    "Minerai",
+    "commodity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mise à jour du potentiel national en graphite"
+  ],
+  "dct_creator_sm": [
+    "Julie Bourdeau."
+  ],
+  "dct_description_sm": [
+    "Here is a Pan-Canadian prospectivity model for flake graphite deposits. This model is derived from multiple forms of geodata (e.g., geology, structural, geophysics) that were spatially indexed. Feature extraction was performed using an autoencoder (deep learning). Predictive modelling was performed using the deep ensemble method. The model was trained using known graphite deposits and occurrences and their associated features. Furthermore, this model here has been updated with regional mineral occurrence/deposits datasets. The map shows regions of interest for exploration of flake graphite. Higher probability values highlight areas with an increased probability for flake graphite mineral system deposits and occurrences.",
+    "Voici un modèle de prospectivité canadien pour les gisements de graphite en paillettes. Ce modèle repose sur diverses données géospatiales (géologie, structure, géophysique, etc.) indexées spatialement. L'extraction des caractéristiques a été réalisée à l'aide d'un auto-encodeur (apprentissage profond), tandis que la modélisation prédictive a été effectuée selon la méthode d'ensemble par apprentissage profond ('deep learning'). Le modèle a été entraîné à partir de gisements et d'indices de graphite connus ainsi que de leurs caractéristiques associées. Par ailleurs, ce modèle a été mis à jour à l'aide de jeux de données régionaux relatifs aux indices et gisements minéraux. La carte présente les zones d'intérêt pour l'exploration du graphite en paillettes ; les valeurs de probabilité élevées mettent en évidence les secteurs où la probabilité de présence de gisements et d'indices associés à un système minéral de graphite en paillettes est plus forte."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b9c088d0-d514-bca5-afff-89d246b4913e"
+  ],
+  "dct_issued_s": "2026-08-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b9c088d0-d514-bca5-afff-89d246b4913e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Updated flake graphite national prospectivity",
+  "gbl_mdModified_dt": "2026-10-19T11:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "558ff627-b926-594f-b40a-24c57d1769a6",
+  "locn_geometry": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "schema_provider_s": "Open Data Canada"
+}

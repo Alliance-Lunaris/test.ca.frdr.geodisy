@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Supporting organizations (Charities)",
+    "Tax returns",
+    "Charities"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lars Nielsen (McMaster University, SEAL Lab, McMaster University).",
+    "Secure Empirical Analysis Lab (SEAL) (McMaster University)."
+  ],
+  "dct_description_sm": [
+    "<b>HOW TO USE THIS DATASET</b>: 0_README_T3010_Extract03-17.txt contains an overview of the dataset, provenance, and file structure.\n\n<b>To view folder structure of all files, including data files, documentation, and analysis code, click the \"Change View: Tree\" button.</b>",
+    "This dataset is a <b>legacy version</b> of T3010 Canadian Charity Returns Dataset containing year-by-year extracts of directors and trustees, donees, financials, programs, schedules, and section A_C from 2003-2017 as csv and stata files. This dataset might be more useful for researchers wanting to work with specific timespans or using more manual analysis. For a more complete dataset including documentation, syntax, and data from 2003-2022, go to Lars Nielsen; Secure Empirical Analysis Lab (SEAL), 2020, \"T3010 Canadian Charity Returns Master Dataset [2003-2022]\", https://doi.org/10.5683/SP2/QXWUAZ, Borealis V4. \n<p>\n<p>\n--------------------------------\n<p>\n<p>\nT3010 Canadian Registered Charity Information Returns data includes information about charities and public/private foundations, financial information, trustees and financial transactions between non-profits. The T3010 is the tax return that must be filed by all registered Canadian charities under the Income Tax Act. Canadian charities are actually tax-exempt, but the CRA collects T3010 data and renders it publicly available so that governments, private donors, and the general public know what charities are doing and how charities are using their resources. Original and more recent data can be requested from the <a href=\"https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/guidance-videos-forms/request-charities-listings.html\">Canada Revenue Agency (CRA) website</a>.\n<p>\n<p>\nSEAL's former Lab Manager Lars Nielsen processed and cleaned the datasets included in this Dataverse. On 2025-06-23 at the transition of SEAL into its next phase, SEAL Lab Manager Lily Wang transferred responsibility for this dataset to RDM Services. This included a formal email, the current Terms of Use Agreement users have signed to now, as well as the contract between Cardus Institute and McMaster. <a href=\"https://www.cardus.ca/\">Cardus</a> is a nonpartisan thinktank that contracted SEAL to clean the T3010 data.\n<p>\n<i>The information in this package contains public data submitted to the Canada Revenue Agency (CRA) by the respective registered charity in its Form T3010, Registered Charity Information Return. Please note that this data may have been manually entered by the CRA, and it has not necessarily been verified for accuracy or completeness by the CRA’s Charities Directorate. Statistics and data are produced or compiled by the CRA’s Charities Directorate for the sole purpose of providing the public with direct access to public information about registered charities in Canada. <b>The CRA is not responsible for the use and manipulation by any persons of this information.</b></i>"
+  ],
+  "dct_identifier_sm": [
+    "80769_80272",
+    "https://doi.org/10.5683/SP2/NSHJFT"
+  ],
+  "dct_issued_s": "2019-09-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/NSHJFT\"}",
+  "dct_rights_sm": [
+    "McMaster and Cardus grant you the right to reference the Data in any non-academic, non-research publication (including, electronic documents and/or applications) however you must include appropriate acknowledgment of McMaster. You agree and acknowledge that you will not make any statement regarding your use of the Data which suggests partnership with, sponsorship by, or endorsement by McMaster without McMaster’s prior written approval."
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "T3010 Canadian Charity Returns Legacy Extract Dataset [2003-2017]",
+  "gbl_mdModified_dt": "2026-04-06T15:04:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d575ac89-fab9-58ff-a9db-527517b7d741",
+  "pcdm_memberOf_sm": [
+    "T3010 Canadian Charities Returns"
+  ],
+  "schema_provider_s": "McMaster University Dataverse"
+}

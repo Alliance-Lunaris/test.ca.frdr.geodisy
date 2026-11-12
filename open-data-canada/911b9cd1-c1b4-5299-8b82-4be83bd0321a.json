@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -110.0, 60.0, 49.0)",
+  "dcat_keyword_sm": [
+    "ALBERTA",
+    "HYDROCODING",
+    "ROUTES",
+    "WATERSHEDS",
+    "GEOSCIENTIFICINFORMATION",
+    "Government information",
+    "STRAHLER-ORDER",
+    "HYDROLOGY",
+    "ELEVATION",
+    "REACHES",
+    "INLANDWATERS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Bassins versants de base"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset is produced for the Government of Alberta and is available to the general public. Please consult the Distribution Information of this metadata for the appropriate contact to acquire this dataset. The Base Watersheds data was created by re-working and post-processing the digital elevation data from the Alberta Provincial Digital Elevation Model, the digital hydrography data from the Base Stream and Flow Representation Lines, the Base Waterbody Polygons and the Base Hydrography Point Events and the digital boundaries of the ATS Version 4.1 Alberta Provincial Boundary. The digital elevation data was hydrologically corrected using simplified versions of the Base Stream and Flow Representation Lines and the Base Waterbody Polygons. The digital watersheds were created using the hydrologically corrected filled Alberta Provincial Digital Elevation Model data as a base and the simplified versions of the Base Stream and Flow Representation Lines and the Base Waterbody Polygons as pour points. The routes were created from the raw and simplified versions of the Base Stream and Flow Representation Lines using the names or the longest stream as the base. Strahler Order coding was applied to the simplified version of the Base Stream and Flow Representation Lines and the Base Waterbody Polygons as well as the digital watersheds. Hydrocoding was applied to the routes. The reaches were not created but would be generated using the simplified version of the Base Stream and Flow Representation Lines as a base and the hydrologically corrected filled Alberta Provincial Digital Elevation Model plus the Base Hydrography Point Events to determine the breaks. The Base Watersheds consists of four data packages: Base Watersheds - Hydrologically Corrected Filled Digital Elevation Model (DEM), Base Watersheds - Simplified Hydrography, Base Watersheds - Watersheds and Base Watersheds - Routes. The four data packages are composed of: Base Watersheds Hydrologically Corrected Filled Digital Elevation Mode (DEM) Hydrologically Corrected Fully Filled Terrain Hydrologically Corrected Fully Filled 25 Metre Raster Hydrologically Corrected Fully Filled 100 Metre Raster Hydrologically Corrected Partially Filled Terrain Hydrologically Corrected Partially Filled 25 Metre Raster Hydrologically Corrected Partially Filled 100 Metre Raster Simplified Hydrography Simplified Linear Network Lines Simplified Linear Network Points Simplified Hydropolygons Simplified Linear Network Cross Reference Simplified Hydropolygons Cross Reference Strahler Order Coding Watersheds Fully Filled Watersheds Partially Filled Watersheds Strahler Order Coding Routes Single Line Network Routes Simplified Linear Network Routes Hydrocoding These feature datasets, feature classes and tables were generated using the Base Features Derived Watersheds and Hydrocoding Specifications documents. There are six documents in this collection: Overview Strahler Order Coding Filled Hydrologically Corrected Terrain Watersheds Hydrocoding Reaches Full descriptions of the individual datasets are included in the metadata for the four data packages.",
+    "Cet ensemble de données est produit pour le gouvernement de l'Alberta et est accessible au grand public. Veuillez consulter les informations de distribution de ces métadonnées pour connaître le contact approprié pour acquérir cet ensemble de données. Les données sur les bassins versants de base ont été créées en retravaillant et en post-traitant les données d'altitude numériques du modèle numérique d'altitude de la province de l'Alberta, les données hydrographiques numériques des lignes de représentation des cours d'eau et des flux de base, les polygones du plan d'eau de base et les événements des points hydrographiques de base, ainsi que les limites numériques de la frontière provinciale de l'Alberta, version 4.1 de l'ATS. Les données d'altitude numériques ont été corrigées hydrologiquement à l'aide de versions simplifiées des lignes de représentation du cours d'eau et du débit de base et des polygones de base du plan d'eau. Les bassins hydrographiques numériques ont été créés à l'aide des données du modèle numérique d'élévation de la province de l'Alberta, complétées sur le plan hydrologique, comme base comme base, et en utilisant les versions simplifiées des lignes de représentation des cours d'eau et des polygones de base du plan d'eau comme points d'écoulement. Les itinéraires ont été créés à partir des versions brutes et simplifiées du flux de base et des lignes de représentation du flux en utilisant les noms du flux le plus long comme base. Le codage de l'ordre de Strahler a été appliqué à la version simplifiée des lignes de représentation des flux et des flux de base et des polygones de base du plan d'eau ainsi qu'aux bassins versants numériques. L'hydrocodage a été appliqué aux itinéraires. Les tronçons n'ont pas été créés mais seraient générés en utilisant la version simplifiée des lignes de représentation du cours d'eau et du débit de base comme base et le modèle numérique d'élévation numérique de la province de l'Alberta rempli hydrologiquement et les événements des points hydrographiques de base pour déterminer les ruptures. Les bassins versants de base se composent de quatre ensembles de données : bassins versants de base - Modèle altimétrique numérique rempli avec correction hydrologique (DEM), Bassins versants de base - Hydrographie simplifiée, Bassins versants de base - Bassins versants et Bassins versants de base - Routes. Les quatre ensembles de données sont composés des éléments suivants : Bassins versants hydrologiquement corrigé hydrologiquement Mode d'élévation numérique rempli (DEM) Terrain entièrement rempli Hydrologiquement Corrigé Hydrologiquement Raster de 25 mètres Corrigé hydrologiquement Raster de 100 mètres Corrigé hydrologiquement Corrigé hydrologiquement Corrigé Hydrologiquement Corrigé Hydrologiquement Raster de 25 mètres Raster simplifié Lignes de réseau linéaires simplifiées Points de réseau linéaires simplifiés Hydropolygones simplifiés Linéaires simplifiés Référence croisée des réseaux Hydropolygones simplifiés Référence croisée Ordre Strahler Codage des bassins versants Bassins versants entièrement remplis Bassins versants partiellement remplis Itinéraires de codage des ordres Strahler Itinéraires du réseau monoligne Itinéraires du réseau linéaire simplifiés Hydrocodage Ces ensembles de données, classes d'entités et tableaux ont été générés à l'aide des documents Caractéristiques de base, bassins versants dérivés et spécifications d'hydrocodage. Cette collection comprend six documents : Aperçu Strahler Order Coding Filled Hydrologiquement Corrected Terrain Watersheds Hydrocoding Reaches Des descriptions complètes des ensembles de données individuels sont incluses dans les métadonnées des quatre packages de données.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ce080147-db9d-4b42-8ca2-2e64b970a433"
+  ],
+  "dct_issued_s": "2018-11-01",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ce080147-db9d-4b42-8ca2-2e64b970a433\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Base Watersheds",
+  "gbl_mdModified_dt": "2026-03-04T19:03:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "911b9cd1-c1b4-5299-8b82-4be83bd0321a",
+  "locn_geometry": "ENVELOPE(-120.0, -110.0, 60.0, 49.0)",
+  "schema_provider_s": "Open Data Canada"
+}

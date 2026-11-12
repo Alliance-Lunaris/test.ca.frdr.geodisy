@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Bathymetry is the measurement of water depth in lakes. From the 1940s to the 1990s, the Ministry of Natural Resources and Forestry produced bathymetry maps for over 11,000 lakes across Ontario. The data can be used by the general public and GIS specialists for: * climate change modelling * fish monitoring and other ecological applications * hydrologic cycle modelling * recreational fishing maps * watershed-based water budgeting The maps were created using simple methods to determine lake depths. They were meant for resource management purposes only. Little effort was made to identify shoals and other hazards when creating these bathymetric maps. Since this data was collected, many constructed and naturally occurring events could mean that the depth information is now inaccurate, so these maps should not be used for navigational purposes. In many cases, these maps still represent the only authoritative source of bathymetry data for lakes in Ontario. __Technical information__ These maps are being converted to digital GIS line data which can be found in the [Bathymetry Line](https://geohub.lio.gov.on.ca/datasets/mnrf::bathymetry-line) data class. The [Bathymetry Index](https://geohub.lio.gov.on.ca/datasets/mnrf::bathymetry-index) data class identifies if GIS vector lines have been created and the location of mapped lakes. The historic paper maps have been scanned into digital files. We will add new digital files to this dataset if they become available. The digital files have been grouped and packaged by regions into 13 compressed (zipped) files for download. Note: package 99 contains scanned maps where the location shown on the map could not be determined."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/3a277f42-00f4-4b39-8343-364108825661"
+  ],
+  "dct_issued_s": "2022-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/3a277f42-00f4-4b39-8343-364108825661\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Historic bathymetry maps",
+  "gbl_mdModified_dt": "2026-10-07T13:33:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "46d5b259-e135-5fa8-bc80-d6b56a9e2410",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

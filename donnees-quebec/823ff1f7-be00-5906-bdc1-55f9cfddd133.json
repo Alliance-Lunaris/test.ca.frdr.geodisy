@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Infrastructure spatiale",
+    "Comptes environnement",
+    "Infrastructure géogrphique",
+    "Comptabilité des écosystèmes",
+    "Grilles vectorielles",
+    "Comptes des terres"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des statistiques sectorielles et du développement durable (DSSDD) et Direction de la gestion des données et de l’accès pour la recherche (DGDAR).."
+  ],
+  "dct_description_sm": [
+    "Le système de grilles vectorielles offre une infrastructure spatiale et statistique qui permet l’intégration de données environnementales et socioéconomiques. Son exploitation permet le croisement de différentes données spatiales à l’intérieur de mêmes unités de grille. Les résultats de projets obtenus à l’aide de ce système de grilles peuvent être plus facilement mis en relation.  \r\n\r\nCe système de grilles forme l’infrastructure géographique et statistique des [Comptes des terres du Québec méridional]( https://statistique.quebec.ca/fr/document/comptes-des-terres-du-quebec-meridional-regions-administratives-et-provinces-naturelles) de l’Institut de la statistique du Québec (ISQ). Il forme le contexte géospatial et statistique pour l’élaboration d’une comptabilité des écosystèmes au Québec.  \r\n\r\n**Dans l’objectif d’améliorer le système de grilles vectorielles et les Comptes des terres du Québec méridional et de mieux anticiper les futurs besoins des utilisateurs, nous souhaiterions être informés de leur utilisation (champ d’application, objectifs de l’utilisation, territoire, association avec d’autres produits, etc.). Vous pouvez nous écrire à l’adresse : maxime.keith@stat.gouv.qc.ca**.  \r\n\r\nCe système de grilles permet l’intégration spatiale de données diverses relatives, par exemple, aux populations humaines, à l’économie ou aux caractéristiques des terrains. L’ISQ souhaite encourager l’utilisation de ce système dans le cadre de projets qui nécessitent l’intégration de plusieurs sources de données, l’analyse de ces données selon différentes échelles spatiales et le suivi de ces données dans le temps. Les références géographiques fixes des grilles simplifient la compilation des statistiques selon différents découpages territoriaux et facilitent le suivi des changements dans le temps. En particulier, le système de grilles favorise la cohérence des données à l’échelle provinciale.  \r\n\r\nL’intersection spatiale de la grille et de la couche de données spatiales à intégrer permet de reporter l’information sous-jacente de la couche à l’intérieur de chaque cellule de la grille. Dans le cas des Comptes des terres du Québec méridional, l’intersection spatiale de la grille et de chacune des trois couches de couverture terrestre (années 1990, années 2000 et années 2010) a permis de reporter la couverture dominante à l’intérieur de chaque cellule de la grille. Le jeu de [fichiers matriciels des Comptes des terres du Québec méridional](https://www.donneesquebec.ca/recherche/fr/dataset/comptes-des-terres-du-quebec-meridional-changement-de-la-couverture-terrestre) est le résultat de cette intersection.  \r\n\r\n**Caractéristiques :**\r\nLe produit comprend deux grilles vectorielles : une formée de cellules de 1 km² (ou 1 000 m de côté), qui couvre tout le Québec, et une autre de cellules de 2 500 m² (ou 50 m de côté, soit un quart d’hectare), qui s’emboîte parfaitement dans la première et couvre le territoire québécois situé au sud du 52e parallèle. À noter que la nomenclature de ce système, conçue selon un plan cartésien, a été élaborée afin qu’il soit possible d’y intégrer des cellules à des résolutions plus fines (jusqu’à 5 mètres de côté).  \r\n\r\nDans son actualisation de 2026, le système de grille aux 50 m est morcelée en 331 parties de 50 km de côté afin de limiter à millions le nombre de cellules par partie de grille et ainsi de faciliter les traitements géospatiaux. Cette grille comprend un total d’environ 350 millions de cellules ou 875 000 km2. Elle est rétro compatible avec la grille aux 50 m diffusée par l’ISQ en 2018 (structure spatiale et identifiants uniques sont identiques, seul le morcellement est différent).\r\n\r\n**Informations attributaires des cellules de 50 m :**\r\n\r\n* ID_m50 : code unique de la cellule;\r\n\r\n* CO_MUN_2024 : code géographique de la municipalité de septembre 2024;\r\n\r\n* CERQ_NV2 : code de la région naturelle du cadre écologique de référence du Québec;\r\n\r\n* CL_COUV_T00, CL_COUV_T01a, CL_COUV_T01b, CL_COUV_T02 : codes des classes de couverture terrestre des cartes des années 1990, 2000 et 2010. \r\n\r\nRemarque : les années 2000 sont couvertes par deux cartes de couverture terrestre : CL_COUV_T01a et  CL_COUV_T01b. La première inventorie la couverture terrestre avant la réévaluation effectuée à l’aide de la carte des années 2010, alors que la seconde présente la couverture terrestre après ce processus de réévaluation.\r\n\r\n\r\n**Classes d’entités complémentaires :**\r\n  \r\n* INDEX_grille50m : index des parties de la grille;\r\n\r\n* decoupage_MUN_09_2024 : découpage des municipalités;\r\n\r\n* decoupage_MRC_09_2024 : découpage des MRC géographiques; \r\n\r\n* decoupage_RA_09_2024 : découpage des régions administratives. \r\nSource : Système sur les découpages administratifs [SDA] du ministère des Ressources naturelles et des Forêts [MRNF], septembre 2024, permet d’effectuer des compilations statistiques selon les découpages administratifs hiérarchiquement supérieurs à municipalités.\r\n\r\n* decoupage_CERQ_NV1_2018 : découpage du niveau 1 du CERQ, provinces naturelles;\r\n\r\n* decoupage_CERQ_NV2_2018 : découpage du niveau 2 du CERQ, régions naturelles.\r\nSource : ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs [MELCCFP].\r\n\r\n**Processus géospatiaux livrés avec la grille (uniquement avec le format de données FGDB, compatible avec ArcGis Pro) :**\r\n\r\n* ModelBuilder ArcGis Pro, permet l’intersection spatiale et la sélection de la valeur dominante d’un nouveau découpage géographique devant peupler la grille (Outils\u0001_ajout_decoupage_geographique);  \r\n\r\n* ModelBuilder ArcGis Pro, permet la compilation statistique de résultats selon différents découpages renseignés dans la grille (Outils\u0002_compilation_stat_grille50m).\r\n\r\nInformation complémentaire sur la grille dans le rapport [Comptes des terres du Québec méridional](https://statistique.quebec.ca/fr/fichier/comptes-des-terres-du-quebec-meridional-edition-revisee.pdf#page=46) paru en octobre 2018 (p. 46).  \r\nVisualisez les résultats des Comptes des terres du Québec méridional sur la [carte interactive](https://statistique.quebec.ca/cartovista/comptes_terres/index.html) de l'Institut de la statistique du Québec."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/0734819f-460a-4dcd-9699-5c4c398ab651"
+  ],
+  "dct_issued_s": "2019-02-21",
+  "dct_publisher_sm": [
+    "Institut de la statistique du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/0734819f-460a-4dcd-9699-5c4c398ab651\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Économie et entreprises",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Système de grilles vectorielles pour une infrastructure québécoise de données spatiales, mise à jour 2026",
+  "gbl_mdModified_dt": "2026-04-21T13:14:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "823ff1f7-be00-5906-bdc1-55f9cfddd133",
+  "schema_provider_s": "Données Québec"
+}

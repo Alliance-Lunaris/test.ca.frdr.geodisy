@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.0, -50.0, 63.0, 34.0)",
+  "dcat_keyword_sm": [
+    "Flood events",
+    "Inondations--Facteurs climatiques",
+    "North America",
+    "Transition extratropicale",
+    "Hydrometeorology",
+    "Climatology",
+    "Climatologie--Mensurations",
+    "Hydrology",
+    "Hydrométéorologie--Méthodes statistiques",
+    "River floods",
+    "Cyclones",
+    "Extratropical Cyclone"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gagnon, Clarence (Université Laval. Département de génie civil et de génie des eaux, Université Laval). ORCID: https://orcid.org/0009-0001-7112-2422",
+    "Nadeau, Daniel F. (Université Laval. Département de génie civil et de génie des eaux, CentrEau - Quebec Water Management Research Centre, Université Laval). ORCID: https://orcid.org/0000-0002-4006-2623",
+    "Di Luca, Alejandro (UQAM | Université du Québec à Montréal, Université du Québec à Montréal. Département des sciences de la terre et de l'atmosphère, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961",
+    "Brault, Benoit (Université Laval. Département de génie civil et de génie des eaux, Université Laval).",
+    "Hamon, Romane (Université Laval. Département de génie civil et de génie des eaux). ORCID: https://orcid.org/0000-0003-4438-6833",
+    "Roy, Nicolas L. (Université Laval. Département de génie civil et de génie des eaux). ORCID: https://orcid.org/0009-0004-0504-1327",
+    "Bourgault, Marc-André (Université Laval. Département de géographie, Université Laval). ORCID: https://orcid.org/0000-0002-7868-6167",
+    "Anctil, François (Université Laval. Département de génie civil et de génie des eaux, CentrEau - Quebec Water Management Research Centre, Université Laval). ORCID: https://orcid.org/0000-0003-4568-4883"
+  ],
+  "dct_description_sm": [
+    "<br><b>Related publication:</b> (Gagnon et al., 2025) <i>– in review</i>\n<br>\n<br><b>Sources of data and publications used to create the datasets:</b><br>\n<li><i>River sections data</i> (Centre d'Expertise Hydrique du Québec, 2025)</li>\n<li><i>Financial aid claims data</i>\n(Roy et al., 2024)</li>\n<li><i>Watersheds data</i>\n(Lehner and Grill, 2013; 2025)</li>\n<li><i>ERA5 ECMWF Precipitation data</i>\n(Hersbach et al., 2020; 2025)</li>\n<li><i>Extratropical cyclones data</i>\n(Chen et al., 2022a; 2022b)</li>",
+    "<p>In the past few decades, the province of Quebec in eastern Canada has experienced widespread and costly flood events, yet the contribution of extratropical cyclones to these floods remains unquantified. This dataset was created for the <i>\"Assessing the contribution of extratropical cyclones to river floods that caused property damage in Quebec, Canada\"</i> publication (in review) and aims to highlight the common characteristics of extratropical cyclones that have contributed to flooding in the province between January 1991 and December 2020. <br><br>\n\nUsing reconstituted river output data, watersheds, and governmental financial aid data, a 498-events local_floods dataset was created (on the watershed level). From these local floods, a 85-events regional_floods dataset was created, grouping local floods happening around the same time, but in different watersheds. <br>\n<br>\nA large domain, named <I>Baseline Southern Quebec</I>, was created to identify relevant extratropical cyclones to the study area and period. From this domain, 6,227 relevant <I>Baseline Southern Quebec</I> extratropical cyclones (which spent at least one hour inside the domain during the study period) were extracted from the NAEC Catalogue (Chen et al., 2022b). We created two datasets with information related to these <I>Baseline Southern Quebec</I> storms: one containing their entire lifetime tracks (NAEC_9120) and one with only their tracks while they were inside the <I>Baseline Southern Quebec</I> domain (NAEC_9120_BSQ).\n<br><br>\nAmong these <I>Baseline Southern Quebec</I> extratropical cyclones, 200 were identified as contributing to flood events (by being associated with high percentages of rainfall during flood events). These were labelled <I>flood ETCs</i>, and are presented in the flood_ETCs dataset. The rest of the identified <I>Baseline Southern Quebec</I> storms (<I>N</I> = 6,027) were labelled as <I>non-flood ETCs</I>. <br><br>\n\nAlternative scenarios from the <i>control</i> case were studied for spring (MAM) floods (<I>N</I> = 372). These other scenarios involve reducing the search radius for relevant storms (<I>radius</I>), reducing the time interval studied surrounding the flood events (<I>days</I>), and increasing the necessary threshold for being labelled as a flood ETC (<I>threshold</I>). For each of these alternative scenarios, flood_ETCs and local_floods datasets were produced.</p>"
+  ],
+  "dct_identifier_sm": [
+    "1014924_77505",
+    "https://doi.org/10.5683/SP3/98HDVT"
+  ],
+  "dct_issued_s": "2025-12-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/98HDVT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for \"Assessing the contribution of extratropical cyclones to river floods that caused property damage in Quebec, Canada\"",
+  "gbl_mdModified_dt": "2025-12-11T16:28:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0c061065-80b2-5f58-aa4f-22025f20358a",
+  "locn_geometry": "ENVELOPE(-95.0, -50.0, 63.0, 34.0)",
+  "pcdm_memberOf_sm": [
+    "Collection des étudiant(-e)s de l'Université Laval"
+  ],
+  "schema_provider_s": "Dataverse de l'Université Laval"
+}

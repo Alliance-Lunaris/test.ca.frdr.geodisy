@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "cryptophytes",
+    "Cryptista",
+    "endosymbiosis",
+    "Cryptophyceae",
+    "Nucleomorph",
+    "Endosymbiotic gene transfer",
+    "Chlorarachniophytes",
+    "Rhizaria",
+    "Nuclear pore"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Irwin, Nicholas A. T. (University of British Columbia).",
+    "Keeling, Patrick J. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Nucleomorph Nuclear Pore Data</h4><div class=\"o-metadata__file-description\">A zipped folder containing all the alignments (which contain newly identified nucleoporins and reference proteins), the phylogenetic trees (used to infer figures 1 and 2), the HMM models used for the search, signal peptide predictions for all the proteins in the alignments, and a text file with the phylogenetic models used for each tree (as selected in IQTree using ModelFinder).</div><div class=\"o-metadata__file-name\">nuclear_pore_data_dryad.zip</br></div></div>",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/EC8AdW5KPWAX7a5HtGdxXi0nztXJ-e51ZJCgupMgBCQ</p>\n<p><b>Storage size:</b> 3719413</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The nuclear pore complex (NPC) is a large macromolecular assembly situated within the pores of the nuclear envelope. Through interactions between its subcomplexes and import proteins, the NPC mediates the transport of molecules into and out of the nucleus and facilitates dynamic chromatin regulation and gene expression. Accordingly, the NPC constitutes a highly integrated nuclear component that is ubiquitous and conserved amongst eukaryotes. Potential exceptions to this are nucleomorphs: highly reduced, relict nuclei that were derived from green and red algae following their endosymbiotic integration into two lineages, the chlorarachniophytes and the cryptophyceans. A previous investigation failed to identify NPC genes in nucleomorph genomes suggesting that these genes have either been relocated to the host nucleus or lost. Here we sought to investigate the composition of the NPC in nucleomorphs by using genomic and transcriptomic data to identify and phylogenetically classify NPC proteins in nucleomorph-containing algae. Although we found NPC proteins in all examined lineages, most of those found in chlorarachniophytes and cryptophyceans were single copy, host-related proteins that lacked signal peptides. Two exceptions were Nup98 and Rae1, which had clear nucleomorph-derived homologues. However, these proteins alone are likely insufficient to structure a canonical NPC and previous reports revealed that Nup98 and Rae1 have other nuclear functions. Ultimately, these data indicate that nucleomorphs represent eukaryotic nuclei without a canonical NPC, raising fundamental questions about their structure and function."
+  ],
+  "dct_identifier_sm": [
+    "152008_150149",
+    "https://doi.org/10.5683/SP2/BV5JQP"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/BV5JQP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Extensive reduction of the nuclear pore complex in nucleomorphs",
+  "gbl_mdModified_dt": "2021-05-20T00:22:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c70c1be-ce6e-598d-8118-0d3177d67dc1",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

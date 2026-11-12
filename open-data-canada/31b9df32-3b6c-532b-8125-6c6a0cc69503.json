@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dcat_keyword_sm": [
+    "yukon",
+    "Government information",
+    "geoyukon",
+    "building-footprints",
+    "building",
+    "geoyukon-import",
+    "geoyukon-import-20260309",
+    "footprint"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Empreintes du bâtiment"
+  ],
+  "dct_creator_sm": [
+    "Government of Yukon | Gouvernement du Yukon."
+  ],
+  "dct_description_sm": [
+    "Dataset of building footprints in the Yukon Territory. Building footprints were extracted from LiDAR orthophotos using deep learning. Manual corrections were applied to both erroneous and missed building extractions. The Regularize Building Footprint tool was used to reduce vertices and simplify the footprints. A tolerance of 1 was used, with a precision of 0.25.\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps). Discover more digital map data and interactive maps from Yukon’s digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)",
+    "Ensemble de données sur l'empreinte des bâtiments dans le Territoire du Yukon. Les empreintes de bâtiments ont été extraites d'orthophotos LiDAR à l'aide d'un apprentissage en profondeur. Des corrections manuelles ont été appliquées aux extractions de bâtiments erronées et manquées. L'outil Regularize Building Footprint a été utilisé pour réduire les sommets et simplifier les empreintes. Une tolérance de 1 a été utilisée, avec une précision de 0,25.\n\nDistribué depuis [GeoYukon] (https://yukon.ca/geoyukon) par le [gouvernement du Yukon] (https://yukon.ca/maps). Découvrez d'autres données cartographiques numériques et des cartes interactives issues de la collection de données cartographiques numériques du Yukon.\n\nPour plus d'informations : [geomatics.help@yukon.ca] (mailto : geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e47a592d-9da7-473e-90be-2c7fe5b08090"
+  ],
+  "dct_issued_s": "2026-03-09",
+  "dct_publisher_sm": [
+    "Government of Yukon | Gouvernement du Yukon"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e47a592d-9da7-473e-90be-2c7fe5b08090\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Building Footprints",
+  "gbl_mdModified_dt": "2026-09-30T15:32:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31b9df32-3b6c-532b-8125-6c6a0cc69503",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Open Data Canada"
+}

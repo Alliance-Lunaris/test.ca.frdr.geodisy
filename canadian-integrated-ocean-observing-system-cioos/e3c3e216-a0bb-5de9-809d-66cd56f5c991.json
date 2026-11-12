@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.40006, -64.33691, 49.82506, 49.76397)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Coastal Environmental Baseline Program",
+    "réfléctance de télédétection",
+    "bathymetry",
+    "composés optiquement actifs",
+    "bathymetrie",
+    "seaSurfaceTemperature",
+    "optically active constituents",
+    "oceanColour",
+    "Couleur des océans",
+    "Salinité de surface",
+    "remote sensing reflectance",
+    "seaSurfaceSalinity",
+    "Température de surface",
+    "RQM"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réflectance de télédétection in situ de la baie Gamache, île d'Anticosti."
+  ],
+  "dct_creator_sm": [
+    "Mabit, Raphaël (Rimouski Marine Sciences Institute).",
+    "Bélanger, Simon (Université du Québec à Rimouski).",
+    "Bernatchez, Pascal (Université du Québec à Rimouski)."
+  ],
+  "dct_description_sm": [
+    "The primary variables of this dataset are the in situ remote sensing réflectance, the water leaving radiance, the diffuse attenuation coefficient of upwelling radiance, the water depth and canopy height of the submerged aquatic vegetation. Data was acquired around Gamache bay, Anticosti Island, from the jet-ski platform, in July 2022 and august 2023 (Thesis Chap. 1 of R. Mabit, 2026, and [Mabit et al., L&O methods, 2026](https://doi.org/10.1002/lom3.70053)). Data from the CTD (temperature, depth, salinity) and the SeaOWL (chlorophyll-a, fluorescence of dissolved organic matter, and volume scattering function at 700 nm) are included in the dataset. Metadata from the jet-ski inertial measurement unit are also included (latitude, longitude, altitude, pitch, roll, heading).",
+    "Les variables principales de ce jeu de données sont la réflectance de télédétection in situ, la luminance émergeant de l'eau, le coefficient d'atténuation diffus de la luminance ascendante,  la profondeur de l'eau et la hauteur de la canopée de la végétation aquatique submergée (Chap. 1 de la thèse de R. Mabit, 2026 et [Mabit et al., L&O methods, 2026](https://doi.org/10.1002/lom3.70053)). Les données ont été acquises autour de la baie Gamache, à l'île d'Anticosti, depuis la plateforme jet-ski, en juillet 2022 et en août 2023. Les données de la CTD (température, profondeur, salinité) et du SeaOWL (chlorophylle-a, fluorescence de la matière organique dissoute et fonction de diffusion volumique à 700 nm) sont incluses dans le jeu de données. Les métadonnées de l'unité de mesure inertielle du jet-ski sont également incluses (latitude, longitude, altitude, tangage, roulis, cap)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/921c72bd-07ca-46fe-a7a8-bf261c1ceff2"
+  ],
+  "dct_issued_s": "2022-07-01",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/921c72bd-07ca-46fe-a7a8-bf261c1ceff2\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution Share-Alike 4.0 https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "dct_title_s": "In Situ Remote Sensing Reflectance of Gamache Bay, Anticosti Island.",
+  "gbl_mdModified_dt": "2026-09-14T20:01:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e3c3e216-a0bb-5de9-809d-66cd56f5c991",
+  "locn_geometry": "ENVELOPE(-64.40006, -64.33691, 49.82506, 49.76397)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

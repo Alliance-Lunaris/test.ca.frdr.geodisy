@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-70.0, -59.0, 52.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Capelin",
+    "Elemental fingerprint",
+    "Otolith chemistry",
+    "LA-ICP-MS",
+    "Early-life stage"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Jac, Romaric (Institut des sciences de la mer, Université du Québec à Rimouski (UQAR) -  UMR DECOD (Ecosystem Dynamics and Sustainability), L’Institut Agro, Ifremer, INRAE). ORCID: https://orcid.org/0000-0002-7256-3473",
+    "Van Beveren, Elisabeth (Fisheries and Oceans Canada, Institut Maurice-Lamontagne). ORCID: https://orcid.org/0000-0002-9378-0215",
+    "Le Pape, Olivier (UMR DECOD (Ecosystem Dynamics and Sustainability), L’Institut Agro, Ifremer, INRAE). ORCID: https://orcid.org/0000-0002-7233-7951",
+    "Boudreau, Mathieu (Fisheries and Oceans Canada, Institut Maurice-Lamontagne).",
+    "Coussau, Lola (Fisheries and Oceans Canada, Institut Maurice-Lamontagne). ORCID: https://orcid.org/0000-0002-1032-7395",
+    "Sirois, Pascal (Département des Sciences Fondamentales, Université du Québec à Chicoutimi, Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0003-1272-5730",
+    "Robert, Dominique (Institut des sciences de la mer, Université du Québec à Rimouski (UQAR)). ORCID: https://orcid.org/0000-0002-0628-2841",
+    "Brosset, Pablo (UMR DECOD (Ecosystem Dynamics and Sustainability), L’Institut Agro, Ifremer, INRAE). ORCID: https://orcid.org/0000-0002-2561-6560"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the otolith core (natal-region) elemental chemistry of 927 capelin (Mallotus villosus) collected across the Gulf of St. Lawrence (GSL), Canada, between 2022 and 2024 (398 in 2022, 149 in 2023, and 380 in 2024). For each individual, the right sagittal otolith was analysed by Laser Ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICP-MS), and the core values of seven elements (Li, B, Mg, K, Zn, Sr, Ba) are reported as element-to-calcium ratios (Li, B, and Mg log-transformed). These seven elements were retained because they discriminate three regions within the GSL (Estuary, South, and SBi; see Jac et al., 2026). Fish were sampled from two sources: commercial fisheries (May-July, spawning period) and DFO scientific multispecies bottom-trawl surveys (August-September, post-spawning period). The dataset underpins the study of regional connectivity and partial residency of capelin in the GSL."
+  ],
+  "dct_identifier_sm": [
+    "1183553_1183552",
+    "https://doi.org/10.5683/SP4/X0CVNA"
+  ],
+  "dct_issued_s": "2026-07-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/X0CVNA\"}",
+  "dct_rights_sm": [
+    "ACCESS AND USE ARE RESTRICTED - THIS IS NOT OPEN DATA. These data are subject to Crown copyright / Crown rights (c) His Majesty the King in Right of Canada, as represented by the Minister of Fisheries and Oceans, 2026. The data are deposited for discovery and transparency, but they MAY NOT be downloaded, reused, redistributed, modified, or incorporated into other works WITHOUT the prior written authorization of Fisheries and Oceans Canada (DFO). Requests for authorization must be addressed to the contact persons listed above (Romaric Jac, UQAR; Elisabeth Van Beveren, DFO). Any authorized use MUST cite both references describing the data: Jac, R., Van Beveren, E., Boudreau, M., Coussau, L., Le Pape, O., Sirois, P., Robert, D., and Brosset, P. (under review). Regional connectivity and partial residency of capelin (Mallotus villosus) in the Gulf of St. Lawrence inferred from otolith chemistry. PLOS ONE. Jac, R., Coussau, L., van Beveren, E., Boudreau, M., Le Pape, O., Robert, D., ... Sirois, P. (2026). Multi-year stability of spatial patterns in capelin otolith-edge chemical fingerprints in the Gulf of St. Lawrence, Canada. Fisheries Research, 295, 107671. https://doi.org/10.1016/j.fishres.2026.107671"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Core otolith chemistry of capelin (Mallotus villosus) in the Gulf of St. Lawrence, 2022-2024",
+  "gbl_mdModified_dt": "2026-07-28T11:57:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "10da395b-2a78-58ef-a283-f0397f294376",
+  "locn_geometry": "ENVELOPE(-70.0, -59.0, 52.0, 45.0)",
+  "pcdm_memberOf_sm": [
+    "Dominique Robert - Collection Dataverse"
+  ],
+  "schema_provider_s": "Université du Québec à Rimouski"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides the results obtained by Health Canada’s Radiological Monitoring Network (CRMN) for airborne radioactivity content at monitoring stations across Canada. More information about the CRMN network can be found on the Health Canada website (see link below). \n\nThe results provided are activity concentration, uncertainty and the minimum detectable concentration for the naturally occurring radionuclides, beryllium-7 (7Be) and lead-210 (210Pb), and the anthropogenic (originating from human activity) radionuclides, cesium-134 (134Cs), cesium-137 (137Cs), and iodine-131 (131I). The data comes from the analysis of particulates accumulated in filter media, drawn by high-volume air samplers fixed in the field. Such data is typically dominated by natural radionuclides, such as 7Be and 210Pb. 7Be is a natural cosmogenic radionuclide that is produced in the upper atmosphere when cosmic rays bombard oxygen and nitrogen. 210Pb is also a natural radioisotope that results from the decay of uranium (238U) to radium (226Ra). 238U comes from the soil and eventually decays to 210Pb. Radon-222, which is a natural radioactive gas, is also a part of this decay chain. Radon moves through the soil and becomes diluted in the atmosphere. If a home is built on soil or rocks that contain uranium, radon can seep into homes and may accumulate to high levels. More information about the Health Canada radon program can be found on the Health Canada website. \n\nFor all our stations, the airborne radioactivity data shows a small increase in the activity concentration of 134Cs, 137Cs and 131I measured between March and May of 2011, attributable to the nuclear accident at the Fukushima-Daiichi Nuclear Power Station. It is important to note that, even at their respective peaks, the measured activity concentrations of 134Cs, 137Cs and 131I represent only a small fraction of typical background exposure from natural sources of radiation. Occasionally, other small increases in activity concentration of anthropogenic radionuclides are observed. Spikes in 137Cs activity are often associated with forest fires, which can lead to the re-suspension of 137Cs already present in the environment, most likely from atmospheric nuclear weapons testing in the 1960’s. Detection of small amounts of 131I is commonly associated with its medical use by hospitals.\n\nThe map shows the approximate sampling location for each monitoring station. Stations are found within the associated location range."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/21b821cf-0f1c-40ee-8925-eab12d357668"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/21b821cf-0f1c-40ee-8925-eab12d357668\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "The Canadian Radiological Monitoring Network – Airborne Radioactivity",
+  "gbl_mdModified_dt": "2026-03-24T15:31:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8e04655d-3784-5089-ad71-82a5d4135b2e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Richard Fernandes."
+  ],
+  "dct_description_sm": [
+    "The Global Climate Observing System has identified the need for systematic global daily snow cover data sets over land. Current in situ snow cover data sets have limited spatial coverage while satellite-based snow cover records have either limited historical extent or limited temporal and spatial resolution because of cloud cover or specific sensor availability. NOAA advanced very high resolution radiometer (AVHRR) data offers nearly complete daily global coverage of the Northern Hemisphere, extending back to the early 1980s with successors slated to continue into the next decade. This datasets is intended as a climate data record of snow cover extent for the majority of the northern hemisphere. The dataset emphasizes consistency in snow cover estimation over absolute accuracy. This is especially the case with spatial regions or temporal periods with ephemeral snow cover. The 5km gridded spatial resolution suggests that the data is suitable for regional to global studies (e.g., watershed averages or coarser) rather than a per-grid cell analysis. The daily temporal resolution together with the algorithm used for snow cover estimation in cloudy periods suggests the dataset is useful for tracking snow cover loss in spring but less so for tracking exact onset dates or single storm events. A second 1km resolution snow cover extent product for the western hemisphere northern regions includes more advanced algorithms that improve mapping performance under such conditions (https://www.polardata.ca/pdcsearch/PDCSearchDOI.jsp?doi_id=10966)."
+  ],
+  "dct_identifier_sm": [
+    "10967",
+    "https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=10967"
+  ],
+  "dct_issued_s": "2009-03-04",
+  "dct_license_sm": [
+    "https://www.polardata.ca/pdcinput/public/termsofuse"
+  ],
+  "dct_publisher_sm": [
+    "Polar Data Catalogue"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=10967\"}",
+  "dct_subject_sm": [
+    "Natural sciences -> Climate change",
+    "Natural sciences -> Snow melt",
+    "Natural sciences -> Climate",
+    "Geographic locations -> Global",
+    "Geographic locations -> Europe",
+    "Geographic locations -> Asia",
+    "Natural sciences -> Satellite imagery",
+    "Natural sciences -> Snow",
+    "Transdisciplinary -> CRYSYS",
+    "Geographic locations -> Canada"
+  ],
+  "dct_title_s": "Continuous daily snow cover estimates over Northern Hemisphere land surfaces during 1982-2004 from Advanced Very High Resolution Polar Pathfinder Data",
+  "gbl_mdModified_dt": "2014-07-30T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc24170f-2599-5fdd-b230-e510151318cc",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 45.0)",
+  "schema_provider_s": "Polar Data Catalogue"
+}

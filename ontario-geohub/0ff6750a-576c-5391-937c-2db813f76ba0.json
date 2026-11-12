@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "dcat_keyword_sm": [
+    "boundaries",
+    "Ministry of Natural Resources",
+    "MNR",
+    "forest research",
+    "Ontario Geospatial Data Exchange",
+    "ODCSYNC",
+    "Science and Research Branch",
+    "research plot",
+    "OGDE"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "<span style='text-indent:0px; text-decoration-style:initial; text-decoration-color:initial; display:inline !important;'>\n\n<div>DERIVED layer, based on research plot source features and attributes, which are deemed to have an active temporal requirement for Post-disturbance Notification within a designated area or polygon. The spatial features and attributes in this layer are sourced from 1) Research Point (RESPOINT), 2) Research Line (RESLINE), Research Poly (RESPOLY) data classes. The Temporal Constraint assesses the active status of source features and facilitates automated lifecycle management of the features included in this derived layer. </div>\n<div><br /></div>\nTemporal Constraint: POSTDISTURB_NOTIFY_END_DATE is greater than the date this layer was generated. The spatial extents of features in this derived layer are based on source feature extents, to which specified buffer distances have been added. <br />\nApplied Buffer: POSTDISTURB_NOTIFY_BUFFER_DIST field value (meters). <br />\nThis layer is regenerated at scheduled intervals, with the previous version of this layer archived and replaced by the newly generated version.</div>\n<div><br /></div>\n<div> <strong>Additional Documentation<br /></strong></div><div><ul><li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Research%20Plot%20Postdisturbance%20Notification%20-%20Data%20Description.pdf' target='_blank' rel='nofollow ugc noopener noreferrer'>Research Plot Postdisturbance Notification - Data Description (PDF)</a></li><li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Research%20Plot%20Postdisturbance%20Notification%20-%20Documentation.docx' target='_blank' rel='nofollow ugc noopener noreferrer'>Research Plot Postdisturbance Notification - Documentation (Word)</a></li>\n<li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Research-Plot-User-Guide.docx' target='_blank' rel='nofollow ugc noopener noreferrer'>Research Plot - User Guide (Word)</a></li>\n<li><a href='https://www.publicdocs.mnr.gov.on.ca/mirb/Research-Plot-FAQ.docx' target='_blank' rel='nofollow ugc noopener noreferrer'>Research Plot - FAQ (Word)</a></li>\n</ul></div> \n\n<div><strong>Status</strong><br /></div>\n\n<div>On going: data is being continually updated<br /></div> \n\n<div><br /></div>\n\n<div><strong>Maintenance and Update Frequency</strong><br /></div>\n\n<div>Monthly: data is updated each month<br /></div> \n\n<div><br /></div>\n\n<div><strong>Contact</strong><br /></div>\n\n<div>Calvin Julie, <a href='mailto:calvin.julie@ontario.ca' target='_blank' rel='nofollow ugc noopener noreferrer'>calvin.julie@ontario.ca</a></div>\n<div><br /></div>\n<div>The data referenced here is licensed under the Ontario Geospatial Data Exchange (OGDE) Agreement and is available to members of the OGDE for professional, non-commercial use only.  To find out more about the OGDE visit <a href='https://www.ontario.ca/page/land-information-ontario' target='_blank' rel='nofollow ugc noopener noreferrer'>Land Information Ontario</a> on Ontario.ca.</div></span>"
+  ],
+  "dct_identifier_sm": [
+    "986d5eddbb564ab986780fc9eec6ff80",
+    "https://www.arcgis.com/home/item.html?id=986d5eddbb564ab986780fc9eec6ff80"
+  ],
+  "dct_issued_s": "2019-04-02",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/documents/lio::research-plot-postdisturbance-notification-ogde\"}",
+  "dct_rights_sm": [
+    "Ontario Geospatial Data Exchange (OGDE) Terms and Conditions"
+  ],
+  "dct_title_s": "Research Plot Postdisturbance Notification (OGDE)",
+  "gbl_mdModified_dt": "2026-09-02T12:48:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0ff6750a-576c-5391-937c-2db813f76ba0",
+  "locn_geometry": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "schema_provider_s": "Ontario GeoHub"
+}

@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.06576861947822, -62.25797258514565, 45.20783523737137, 44.47507958227179)",
+  "dcat_keyword_sm": [
+    "Halifax",
+    "Parks",
+    "Facilities",
+    "Work Order",
+    "ROW",
+    "Infrastructure Asset Management",
+    "Halifax Open Data",
+    "Compliance",
+    "Maintenance"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "HRM Open Data."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div style='font-size:12pt;'><p><span>The dataset was created to show a spatial representation of Cityworks work orders.This data includes attributes of work orders recorded in the Cityworks system, including the type of work order, when they were received and closed, where they occurred, and how they were resolved.</span></p><p><span>This dataset must be used in conjunction with Cityworks Work Orders Custom Fields dataset, WORKORDERID can be used to relate the two tables, with a one to many relationship between work order and custom fields.</span></p><p><a target='_blank' href='https://hrm.maps.arcgis.com/sharing/rest/content/items/5ee276661c5444749fdc7b0b28cf4dee/data' rel='nofollow ugc noopener noreferrer'><span>Metadata</span></a></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "b37a99ad4dfa418996b617fd6d4f519b",
+    "https://www.arcgis.com/home/item.html?id=b37a99ad4dfa418996b617fd6d4f519b"
+  ],
+  "dct_issued_s": "2026-10-23",
+  "dct_publisher_sm": [
+    "HRM Open Data"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data-hrm.hub.arcgis.com/datasets/HRM::cityworks-work-orders-geolocated\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Cityworks Work Orders Geolocated",
+  "gbl_mdModified_dt": "2026-11-02T11:11:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "db91170d-24e7-513c-b961-bf1b80ccd2cc",
+  "locn_geometry": "ENVELOPE(-64.06576861947822, -62.25797258514565, 45.20783523737137, 44.47507958227179)",
+  "schema_provider_s": "Open Data Halifax"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-82.3764761728, -49.7723734758, 76.9342395824, 62.8496527853)",
+  "dcat_keyword_sm": [
+    "Baffin Bay",
+    "icebergs",
+    "sea ice",
+    "ANHA4",
+    "NEMO"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the model output used in _Marson et al. 2023/2024_. \r\nThe simulations were carried out with the Nucleus for European Modelling of the Ocean (NEMO) at 1/4 degree resolution over the Arctic and Northern Hemisphere Atlantic (ANHA) domain. The simulation labelled SIL differs from the CTL simulation only in the parameterization of the sea ice force over icebergs: while in CTL it is simply a drag force, in SIL sea ice above 90% concentration is capable of locking icebergs.\r\n\r\n**Please see the supplemental file below for a description of the data files and variables. This information can also be found under _Analytical Method Summary_ in the metadata.**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/06dcb72d-b105-4655-8aab-3c7af6f0e453"
+  ],
+  "dct_issued_s": "2023-11-08",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/06dcb72d-b105-4655-8aab-3c7af6f0e453\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Marine"
+  ],
+  "dct_title_s": "NEMO-ANHA4 Sea ice locking of icebergs",
+  "gbl_mdModified_dt": "2026-02-24T00:04:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0f4870fd-388f-5b38-9481-74746d6eb858",
+  "locn_geometry": "ENVELOPE(-82.3764761728, -49.7723734758, 76.9342395824, 62.8496527853)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

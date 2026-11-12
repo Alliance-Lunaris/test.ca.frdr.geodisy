@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides a Canada-wide map of vegetation height and the delineation of the northern forest limit. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS).  Vegetation height estimates were derived from ICESat-2 LiDAR observations, integrated with Landsat time series and topographic variables to model spatial patterns. The northern forest limit represents the transition between boreal forest and tundra, an ecologically significant zone for monitoring climate change impacts and biodiversity. Vegetation height was modeled for six time-periods including 1985-1995, 1990-2000, 1995-2005, 2000-2010, 2005-2015 and 2010-2021. Predictions for each time period represent the median conditions for that period. Predictions of height and the probability of canopy presence were generated using Random Forests models trained on spaceborne-lidar data collected by ICESat-2 from 2019-2021 and overlapping Landsat satellite imagery from 2010-2021. These Random Forests models were then applied to the entire archive of Landsat imagery, representing a period of ~35 years. This dataset provides spatially explicit prediction of vegetation height (m) along the Canadian northern forest limit at 30 m spatial resolution. Pixels with a low (< 50 %) probability of containing a vegetation canopy have been assigned a height of 0 m. The science and methods for this dataset were the result of a collaboration between the Canadian Forest Service of Natural Resources Canada, partnered with the Integrated Remote Sensing Studio (IRSS) in the Faculty of Forestry at the University of British Columbia. When using this data, please cite: Travers-Smith, H., Coops, N. C., Mulverhill, C., Wulder, M. A., Ignace, D., Lantz, T. C. (2024). Mapping vegetation height and identifying the northern forest limit across Canada using ICESat-2, Landsat time series and topographic data. Remote Sensing of Environment, 305, 114097. https://doi.org/10.1016/j.rse.2024.114097 (Travers-Smith et al. 2024). Additional details outlining application of the model to the time-series of Landsat data can be found here: Travers-Smith, H., Coops, N., Mulverhill, C., Wulder, M. A., Lantz, T. C., Ignace, D. (2025). Satellite observations reveal stable forest limits and shrub expansion across the Canadian forest-tundra ecotone. Environmental Research Letters, 20(10). https://doi.org/10.1088/1748-9326/adfc7f (Travers-Smith et al. 2025)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1819a8f8-9d11-4a37-bb4b-85227befc3e1"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1819a8f8-9d11-4a37-bb4b-85227befc3e1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Northern Forest Limit (1995-2021)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f6a637d1-2827-51b5-86a4-c59804e40431",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

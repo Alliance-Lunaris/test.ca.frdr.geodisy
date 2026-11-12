@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The PRECIP-ET (PRECIPET on images) is an extension of the PRECIP product (hence the use of ET in the product name). Compared to the previous PRECIP product, the PRECIP-ET performs a suite of additional quality control (QC) tests and tracks issues better. For example, Doppler filters might be rejecting moderate ground echoes in a particular area and thus weak meteorological echoes would not be detectible. In this case, PRECIP-ET would flag the missing data area, whereas PRECIP would simply treat the area as no echoes. This additional quality treatment is why we have migrated to PRECIP-ET in 2013, to get an improved service. The PRECIP-ET image is designed to show the precipitation close to the ground, by using Doppler technology processing for echoes within 128 km from the radar site for the C-Band radars and 240 km for the new S-Band radars. Doppler technology allows for better resolution of the precipitation echoes and also provides the ability to detect the movement of precipitation in relation to the radar (i.e. are the raindrops or snowflakes moving towards or away from the radar and at what speed). Beyond this 128 km limit, the echoes are displayed using the more conventional CAPPI processing."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d76c0f4e-af27-4f9c-b0b0-0eba5aca1d3b"
+  ],
+  "dct_issued_s": "2023-03-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d76c0f4e-af27-4f9c-b0b0-0eba5aca1d3b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weather Radar - PRECIP-ET",
+  "gbl_mdModified_dt": "2024-04-03T19:22:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c77e85c7-5a7b-56c9-9885-2653831b5425",
+  "locn_geometry": "ENVELOPE(-170.323855, -50.002855, 67.19061, 16.93461)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

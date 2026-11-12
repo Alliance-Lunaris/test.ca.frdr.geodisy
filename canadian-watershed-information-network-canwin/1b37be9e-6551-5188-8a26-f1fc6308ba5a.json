@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Ontario Road Network (ORN) Composite product is a segmented derivative of the ORN Road Net Element (ORNELEM) data class. You can use it for mapping and general spatial analysis. Road segment information includes: * addressing * full street name * alternate street name * speed limit * number of lanes * pavement status * road class * jurisdiction * route number * direction of traffic flow * shield type information The ORN is a provincewide geographic database of over 250,000 km of: * municipal roads * provincial highways * resource and recreational roads The ORN is the authoritative source of roads data for the Government of Ontario. This product is derived from the [ORN Road Net Element](https://geohub.lio.gov.on.ca/datasets/mnrf::ontario-road-network-orn-road-net-element/about) data class. It combines three types of geometry: * road elements * ferry connections * virtual roads This product also includes additional road feature layers including: * blocked passages * underpasses * toll points * structures"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f61ce160-e432-4f4d-a06c-508b3da384f9"
+  ],
+  "dct_issued_s": "2024-05-08",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f61ce160-e432-4f4d-a06c-508b3da384f9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Ontario Road Network (ORN) Composite",
+  "gbl_mdModified_dt": "2026-05-27T13:31:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1b37be9e-6551-5188-8a26-f1fc6308ba5a",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

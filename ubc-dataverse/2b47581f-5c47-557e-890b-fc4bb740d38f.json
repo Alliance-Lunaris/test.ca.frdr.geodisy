@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Ecological Genetics",
+    "Transcriptomics",
+    "Helianthus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Renaut, Sebastien (University of British Columbia).",
+    "Owens, Gregory L. (University of British Columbia).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">ann_arg_fst_map</h4><div class=\"o-metadata__file-description\">Contains: all SNPs kept in the H. annuus - H. argophyllus comparison, name of reference gene, position of SNP in gene, genotypes of all individuals, Fst, Fit, Fis, name, linkage group, position in centimorgan, unique position on map, number of nucleotides in gene, boolean value whether SNP is in the top5% most divergent.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">bol_exi_fst_map</h4><div class=\"o-metadata__file-description\">Contains: all SNPs kept in the H. exilis - H. bolanderi comparison, name of reference gene, position of SNP in gene, genotypes of all individuals, Fst, Fit, Fis, name, linkage group, position in centimorgan, unique position on map, number of nucleotides in gene, boolean value whether SNP is in the top5% most divergent.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">deb_pet_fst_map</h4><div class=\"o-metadata__file-description\">Contains: all SNPs kept in the H. debilis - H. petiolaris comparison, name of reference gene, position of SNP in gene, genotypes of all individuals, Fst, Fit, Fis, name, linkage group, position in centimorgan, unique position on map, number of nucleotides in gene, boolean value whether SNP is in the top5% most divergent.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">unique_SNP</h4><div class=\"o-metadata__file-description\">Contains a list of all SNPs found in either one of the three species pairs. List contains unique name (gene name and position concatenated) and the fst value for all three species pairs.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">unique_genes</h4><div class=\"o-metadata__file-description\">Contains list of all unique polymorphic genes found in either of the three species pairs, and the fst value for all three species pairs.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">ann_arg_fst_map_dnds.out</h4><div class=\"o-metadata__file-description\">Contains list of all polymorphic genes in H. annuus - H. argophyllus species pairs and dn, ds, dn/ds values.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">bol_exi_fst_map_dnds</h4><div class=\"o-metadata__file-description\">Contains list of all polymorphic genes in H. exilis - H. bolanderi species pairs and dn, ds, dn/ds values.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">deb_pet_fst_map_dnds</h4><div class=\"o-metadata__file-description\">Contains list of all polymorphic genes in H. debilis - H. petiolaris species pairs and dn, ds, dn/ds values.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">ann_arg_fst_map_cluster_nonoverlapping_windows</h4><div class=\"o-metadata__file-description\">Contains list for H. annuus - H. argophyllus of all unique positions in the genetic map, linkage groups, associated fst valuse, and other various statistics (not used in this study, but part of the original script).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">bol_exi_fst_map_cluster_nonoverlapping_windows</h4><div class=\"o-metadata__file-description\">Contains list for H. exilis - H. bolanderi of all unique positions in the genetic map, linkage groups, associated fst valuse, and other various statistics (not used in this study, but part of the original script).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">deb_pet_fst_map_cluster_nonoverlapping_windows</h4><div class=\"o-metadata__file-description\">Contains list for H. debilis - H. petiolaris of all unique positions in the genetic map, linkage groups, associated fst valuse, and other various statistics (not used in this study, but part of the original script).</div><div class=\"o-metadata__file-name\"></div></div>",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/W5-MYq1lSI6vtNEL4ep7vNs9JvURa-ZsqwrsvHz-WRE</p>\n<p><b>Storage size:</b> 200771520</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The repeated evolution of traits in organisms facing similar environmental conditions is considered to be fundamental evidence for the role of natural selection in moulding phenotypes. Yet, aside from case studies of parallel evolution and its genetic basis, the repeatability of evolution at the level of the whole genome remains poorly characterized. Here, through the use of transcriptome sequencing, we examined genomic divergence for three pairs of sister species of sunflowers. Two of the pairs (Helianthus petiolaris – H. debilis and H. annuus – H. argophyllus) have diverged along a similar latitudinal gradient and presumably experienced similar selective pressure. In contrast, a third species pair (H. exilis – H. bolanderi) diverged along a longitudinal gradient. Analyses of divergence, as measured in terms of FST, indicated little repeatability across the three pairs of species for individual genetic markers (SNPs), modest repeatability at the level of individual genes and the highest repeatability when large regions of the genome were compared. As expected, higher repeatability was observed for the two species pairs that have diverged along a similar latitudinal gradient, with genes involved in flowering time among the most divergent genes. Genes showing extreme low or high differentiation were more similar than genes showing medium levels of divergence, implying that both purifying and divergent selection contributed to repeatable patterns of divergence. The location of a gene along the chromosome also predicted divergence levels, presumably because of shared heterogeneity in both recombination and mutation rates. In conclusion, repeated genome evolution appeared to result from both similar selective pressures and shared local genomic landscapes."
+  ],
+  "dct_identifier_sm": [
+    "153524_1226260_150149",
+    "https://doi.org/10.5683/SP2/YZVBJN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/YZVBJN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Shared selective pressure and local genomic landscape lead to repeatable patterns of genomic divergence in sunflowers",
+  "gbl_mdModified_dt": "2021-05-19T19:48:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2b47581f-5c47-557e-890b-fc4bb740d38f",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

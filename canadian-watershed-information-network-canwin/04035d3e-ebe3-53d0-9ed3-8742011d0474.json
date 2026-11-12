@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.9, -73.51, 45.7, 45.5)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Footprint of buildings on Laval territory produced by the City of Laval.\n\nTo help understand the data, here are the descriptions of the fields used: ESPG: 32188\n\nField properties\n\nName Description Type References/Comments\n\nID_STRUCTURE Unique identifier of the Long building \n\nTYPE Indicates the type of building Text (50) Primary, secondary, agricultural, station, railway station\n\nBUILDING_NAME When appropriate, specify the name of the building Text (200) \n\nDATE_RELEASE Date of creation or geometric modification of the target entity. In the absence of information, it means that we do not have information available. Date: YYYY-MM-DD\n\nTYPE_RELEVE Defines by what technical means the digitization of the data was obtained. For example, the process could be geoprocessing or manual scanning. In the absence of information, it means that we do not have information available. Text (50) Value field:\n\nGeoprocessing\n\nLidar\n\nManual scanning\n\nPhotointerpretation (2D)\n\nPhotogrammetry (3D)\n\nField survey\n\nRemote Sensing\n\nAutomatic vectorization\n\nUndetermined\n\n\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2750835b-95d4-406a-89e5-f2f03504511e"
+  ],
+  "dct_issued_s": "2025-03-05",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2750835b-95d4-406a-89e5-f2f03504511e\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Building reference system — Ville de Laval",
+  "gbl_mdModified_dt": "2026-10-07T17:37:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "04035d3e-ebe3-53d0-9ed3-8742011d0474",
+  "locn_geometry": "ENVELOPE(-73.9, -73.51, 45.7, 45.5)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

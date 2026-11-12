@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "dcat_keyword_sm": [
+    "ECMWF",
+    "Forecast",
+    "Weather Models",
+    "Basins",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\">This layer aggregates ECMWF forecast precipitation over polygonal sub-basins. Each feature includes attributes for average accumulated precipitation, forecast run/valid times, and sub-basin identifiers. ECMWF is a leading global model offering medium-range (up to 10 days) forecasts at a high skill level. By focusing on sub-basins, this layer aids in local-scale decision-making—enabling more precise flood risk assessments, reservoir inflow estimates, and water resource planning across the region of interest.</span>"
+  ],
+  "dct_identifier_sm": [
+    "41a6f70b12bb4e408944e3638ef02a1e",
+    "https://www.arcgis.com/home/item.html?id=41a6f70b12bb4e408944e3638ef02a1e"
+  ],
+  "dct_issued_s": "2025-05-01",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-ecmwf-7-days\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (ECMWF -  7 Days)",
+  "gbl_mdModified_dt": "2026-09-14T07:41:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ad273cb5-e8b4-50f1-a0b8-a6e1f59438c9",
+  "locn_geometry": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "schema_provider_s": "Data MB"
+}

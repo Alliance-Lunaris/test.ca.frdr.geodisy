@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -53.0, 75.0, 42.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The data presented in the radioactivity map of Canada series (Buckle et al., 2014) depict the surface concentrations of three naturally-occurring radioactive elements: potassium (K, %), equivalent uranium (eU, ppm), and equivalent thorium (eTh, ppm); as well as five derived products: natural air absorbed dose rate (NADR, nGy/h) calculated from a linear combination of potassium, equivalent uranium, and equivalent thorium concetrations; the ratios eU/eTh, eU/K, and eTh/K; and the ternary map which uses false colour to illustrate the co-variation of the three measured elements (Broome et al., 1987). This compilation was produced with data from more than 370 airborne gamma-ray surveys flown or supervised by the Geological Survey of Canada between 1969 and 2011. Data was calibrated and acquired in accordance to standards in effect at the time each survey (see Darnley et al., 1975 and IAEA, 1991). Most of the data was acquired using 50 L of Sodium Iodide (NaI) detectors flown at a nominal terrain clearance of 120 m, but line spacings vary from 5000 m to 200 m depending on the specific survey. Potassium is measured directly from the 1460 keV gamma-ray photons emitted by Potassium-40. Uranium and thorium, however, are determined indirectly from gamma-ray photons emitted by daughter products Bismuth-214 (1765 keV) and Thallium-208 (2614 keV) respectively assuming equilibrium between daughter and parent isotopes. For this reason, gamma-ray spectrometric measurements of uranium and thorium are referred to as equivalent uranium (eU) and equivalent thorium (eTh). The measured gamma-rays originate from geological materials in the upper 30 cm of the Earth's surface and their intensity are directly related to the concentrations of K, U and Th in the rocks and minerals present. The geochemical information presented in this compilation is used to support bedrock and surficial geology mapping by outlining lithological variations. It can also indicate mineralization either by association of radio-elements as trace elements with economic minerals or through delineation of their enrichment or depletion due to geochemical alteration resulting from mineralization processes. Overall, this information also contributes to the characterization of the natural radiation environment. Futher information on data acquisition, processing and interpretation and on application can be found in IAEA-TECDOC-1363 (2003), and references therein. These data were also published as Geological Survey of Canada maps, in the Open Files series (7396-7403). References Broome, J., J.M. Carson, J.A. Grant, and K.L. Ford, 1987. A modified ternary radioelement mapping technique and its application to the south coast of Newfoundland, Geological Survey of Canada, Paper 87-14. https://doi.org/10.4095/122382 Buckle, J.L., J.M. Carson, K.L. Ford, R. Fortin and W.F. Miles, 2014, Radioactivity map of Canada, ternary radioelement map, Geological Survey of Canada, Open File 7397. https://doi.org/10.4095/293354 Darnley, A.G., E. M. Cameron and K. A. Richardson, 1975. The Federal-Provincial Uranium Reconnaissance Program, in Geological Survey of Canada, Paper 75-26, p. 49-71. https://doi.org/10.4095/102591 International Atomic Energy Agency, 1991. Airborne Gamma Ray Spectrometer Surveying, International Atomic Energy Agency, Technical Reports Series No. 323. https://www.iaea.org/publications/1427/airborne-gamma-ray-spectrometer-surveying International Atomic Energy Agency, 2003. Guidelines for radioelement mapping using gamma ray spectrometry data; International Atomic Energy Agency, Technical Reports Series No. 1363. https://www.iaea.org/publications/6746/guidelines-for-radioelement-mapping-using-gamma-ray-spectrometry-data"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/289c931c-a1b1-55f8-8d93-4d88e66f1810"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/289c931c-a1b1-55f8-8d93-4d88e66f1810\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada - Radiometric survey data compilation",
+  "gbl_mdModified_dt": "2020-05-05T17:34:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f70f0645-6380-54d5-9673-5313051cedbf",
+  "locn_geometry": "ENVELOPE(-141.0, -53.0, 75.0, 42.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

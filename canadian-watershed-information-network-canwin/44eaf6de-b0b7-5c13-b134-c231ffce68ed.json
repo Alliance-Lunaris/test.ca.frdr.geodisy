@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.2871, -122.3941, 56.197, 47.2019)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset is a contribution to the development of a kelp distribution vector dataset.\nBull kelp (Nereocystis leutkeana) and giant kelp (Macrocystis pyrifera) are important canopy-forming kelp species found in marine nearshore habitats on the West coast of Canada. Often referred to as a foundation species, beds of kelp form structural underwater forests that offer habitat for fishes and invertebrates. Despite its far-ranging importance, kelp has experienced a decline in the west coast of North America. The losses have been in response to direct harvest, increase in herbivores through the removal of predators by fisheries or diseases, increase in water turbidity from shoreline development as well as sea temperature change, ocean acidification, and increased storm activates. Understanding these impacts and the level of resilience of different kelp populations requires spatiotemporal baselines of kelp distribution. \n\nThe area covered by this dataset includes the BC coast and extends to portions of the Washington and Alaska coasts. This dataset was created using 137 British Admiralty (BA) charts, including insets, with scales ranging from 1:6,080 to 1:500,000, created between 1858 and 1956. All surveys were based on triangulation, in which a sextant or theodolite was used to determine latitude and angles, while a chronometer was used to help determine longitude.\n\nFirst, each BA chart was scanned by the Canadian Hydrographic Service (CHS) using the CHS Colortrac large format scanner, and saved as a Tagged Image Format at 200 DPI, which was deemed sufficient resolution to properly visualize all the features of interest. Subsequently, the scanned charts were imported into ESRI ArcMap and georeferenced directly to WGS84 using CHS georeferencing standards and principles (charts.gc.ca). In order to minimize error, a hierarchy of control points was used, ranging from high survey order control points to comparing conspicuous stable rock features apparent in satellite imagery. \n\nThe georeferencing result was further validated against satellite imagery, CHS charts and fieldsheets, the CHS-Pacific High Water Line (charts.gc.ca), and adjacent and overlapping BA charts.  Finally, the kelp features were digitized, and corresponding chart information (scale, chart number, title, survey start year, survey end year, and comments) was added as attributes to each feature.  \n\nGiven the observed differences in kelp feature representation at different scales, when digitizing kelp features, polygons were used to represent the discrete observations, and as such, they represent presence of kelp and not kelp area. Polygons were created by tracing around the kelp feature, aiming to keep the outline close to the stipe and blades.\n\nThe accuracy of the location of the digitized kelp features was defined using a reliability criterion, which considers the location of the digitized kelp feature (polygon) in relation to the local depth in which the feature occurs. For this, we defined a depth threshold of 40 m to represent a low likelihood of kelp habitat in areas deeper than the threshold.\nAn accuracy assessment of the digitized kelp features concluded that 99% of the kelp features occurred in expected areas within a depth of less than 40 m, and only about 1% of the features occurred completely outside of this depth."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/bac83470-bc8f-4065-8ef3-bf76463c4ef2"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/bac83470-bc8f-4065-8ef3-bf76463c4ef2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Historical distribution of kelp forests on the coast of British Columbia: 1858 - 1956",
+  "gbl_mdModified_dt": "2026-03-24T08:40:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44eaf6de-b0b7-5c13-b134-c231ffce68ed",
+  "locn_geometry": "ENVELOPE(-134.2871, -122.3941, 56.197, 47.2019)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

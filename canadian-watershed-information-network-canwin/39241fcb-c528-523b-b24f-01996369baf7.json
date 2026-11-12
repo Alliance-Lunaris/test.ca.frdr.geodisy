@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Fire weather refers to weather conditions that are conducive to fire. These conditions determine the fire season, which is the period(s) of the year during which fires are likely to start, spread and do sufficient damage to warrant organized fire suppression.  \n  \n  The length of fire season is the difference between the start- and end-of-fire-season dates. These are defined by the Canadian Forest Fire Weather Index (FWI; http://cwfis.cfs.nrcan.gc.ca/) start-up and end dates. Start-up occurs when the station has been snow-free for 3 consecutive days, with noon temperatures of at least 12°C. For stations that do not report significant snow cover during the winter (i.e., less than 10 cm or snow-free for 75% of the days in January and February), start-up occurs when the mean daily temperature has been 6°C or higher for 3 consecutive days. The fire season ends with the onset of winter, generally following 7 consecutive days of snow cover. If there are no snow data, shutdown occurs following 7 consecutive days with noon temperatures lower than or equal to 5°C.  \n  \n  Historical climate conditions were derived from the 1981–2010 Canadian Climate Normals. Future projections were computed using two different Representative Concentration Pathways (RCP). RCPs are different greenhouse gas concentration trajectories adopted by the Intergovernmental Panel on Climate Change (IPCC) for its fifth Assessment Report. RCP 2.6 (referred to as rapid emissions reductions) assumes that greenhouse gas concentrations peak between 2010-2020, with emissions declining thereafter. In the RCP 8.5 scenario (referred to as continued emissions increases) greenhouse gas concentrations continue to rise throughout the 21st century.  \n  \n  Provided layer: difference in projected fire season length for the medium-term (2041-2070) under the RCP 8.5 (continued emissions increases) compared to reference period across Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/99875416-4ef0-4dc1-889f-aa098beb7950"
+  ],
+  "dct_issued_s": "2017-05-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/99875416-4ef0-4dc1-889f-aa098beb7950\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Difference in fire season length - Medium-term (2041-2070) under RCP 8.5 compared to reference period",
+  "gbl_mdModified_dt": "2022-02-07T15:11:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "39241fcb-c528-523b-b24f-01996369baf7",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

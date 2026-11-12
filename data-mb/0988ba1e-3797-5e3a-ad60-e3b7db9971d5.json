@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.215063, -93.343159, 58.87947, 48.913416)",
+  "dcat_keyword_sm": [
+    "Development Plan",
+    "Canada",
+    "Planning",
+    "Government",
+    "Province of Manitoba",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>This dataset is comprised of boundary geometry representing the Development Plan Designations for all of the Development Plan bylaws (as defined in <em>The Planning Act</em>) in force and effect within the Province of Manitoba.</p> <p>Spatial referencing of the designations is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each designation. Dataset content is subject to:</p> <ol> <li>Ongoing changes in designated areas which are determined by amendments to adopted Development Plans or the adoption of new Development Plans. </li> <li>Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the Development Plan designation polygons. </li> </ol> <p>As of the publication date of this dataset, the following known issues remain: </p> <ol> <li>For designation boundaries that include water boundaries, the water boundary that best reflects the intended designation boundary was used.</li> <li>In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities. Please visit the Manitoba Municipal Relations website for more information at <a href='http://www.gov.mb.ca/mr'>www.gov.mb.ca/mr</a>.</li> </ol> <p>The Development Plan Designations data reflects the most current designations at the time of export and was uploaded to Manitoba Maps as a feature layer.</p> <p></p> <p><u>Fields Included:</u></p> <p>OBJECTID: Sequential unique whole numbers that are automatically generated <br /> DP_BYLAW: Number assigned by planning authority to identify a specific bylaw <br /> DPA_BYLAW: Number assigned to a bylaw that amends an existing development plan bylaw <br /> PLANNINGDISTRICT: Name of the Planning District establishing the bylaws <br /> PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office  <br /> ACRES: Area of each polygon expressed in acres  <br /> DES_NAME: Name of Designation as stated in the Development Plan bylaw  <br /> DES_CATEGORY: Designation category as interpreted by Municipal Relations  <br /> RES_MIN_ACRES_PER_LOT: Minimum acreage for a residential lot as defined by the Development Plan bylaw  <br /> RES_MAX_ACRES_PER_LOT: Maximum acreage for a residential lot as defined by the Development Plan bylaw  <br /> MUNI_NO: Manitoba municipality identifier number  <br /> MUNI_NAME: Name of municipality  <br /> AU_LIMIT: Animal Unit limit as set by the Development Plan Policy</p>"
+  ],
+  "dct_identifier_sm": [
+    "6fe6107e957d4a9e98d11f71fd13089a",
+    "https://www.arcgis.com/home/item.html?id=6fe6107e957d4a9e98d11f71fd13089a"
+  ],
+  "dct_issued_s": "2017-07-19",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-development-plan-designations\"}",
+  "dct_rights_sm": [
+    "DISCLAIMER: For data delivered on-line or by physical media by the Manitoba Government: Although extensive effort has been made to produce error free and complete data, all geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. These data may be subject to periodic change without prior notification. No Warranty: These data are provided as is, without any warranty, including but not limited to any guarantee as to their performance, merchantability, or fitness for any particular purpose. Liability: The entire risk as to the results of the use of these data is assumed by the user. The Manitoba Government is not responsible for any interpretation or conclusions based on these data made by those who acquire or use it. The Manitoba Government shall not be liable for any direct, indirect, special, incidental, compensatory or consequential damages or third party claims resulting from the use of these data, even if the Manitoba Government has been advised of the possibility of such potential loss or damage."
+  ],
+  "dct_title_s": "Manitoba Development Plan Designations",
+  "gbl_mdModified_dt": "2026-09-23T13:49:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0988ba1e-3797-5e3a-ad60-e3b7db9971d5",
+  "locn_geometry": "ENVELOPE(-102.215063, -93.343159, 58.87947, 48.913416)",
+  "schema_provider_s": "Data MB"
+}

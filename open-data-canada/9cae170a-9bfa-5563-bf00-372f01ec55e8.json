@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Arc Hydro quaternary watersheds",
+    "Economy and Business",
+    "Government information",
+    "watersheds",
+    "Environment and Natural Resources",
+    "Environment and energy",
+    "hydrologic modelling"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données hydrologiques intégrées de l’Ontario"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "Ontario Integrated Hydrology (OIH) data is used to generate watersheds and support provincial-scale hydrology applications including: * watershed generation * hydrologic modelling * watercourse network analysis Four key datasets are represented in each data package: * stream network (Enhanced Watercourse) * hydrology-enforced digital elevation model [DEM ] (Enforced DEM) * flow direction grid (Enhanced Flow Direction - EFDIR) * raster representation of the stream network (StreamGrid) __Technical information__ For the first time, OIH data is complete for the entire province making it possible to create a watershed for any location in Ontario. This includes areas flowing in from neighbouring provinces and Minnesota with the following exceptions: * points on the international border that drain to Lake Superior, south of Pigeon River * points on the international border that drain the Great Lakes connecting channels and St. Lawrence River stateside * points along the Ottawa River that drain from Quebec __Special note: North West package__ The North West package contains hydrography data for the entire Rainy River Basin, an area which straddles the international border between Canada and the United States. The data stateside originates from the National Hydrography Dataset (NHD) as of February/March 2014. This data has been harmonized with the Ontario Hydro Network (OHN) to create the Enhanced Watercourse and Integrated Waterbody layers found within the North West package. For more information on when the data was initially extracted and incorporated, refer to these fields stored in the attribute table of each vector layer in the geodatabase: * Effective Date (EFF_DATE) * Geometry Update Date (GEO_UPD_DT) The data stateside is a static snapshot of NHD intended to support regional modeling. Please refer to the [United States Geological Survey (USGS)](https://www.usgs.gov/core-science-systems/ngp/national-hydrography) website for the most current version of NHD. Data is updated after the completion of major updates to source data (such as OHN and/or the Provincial DEM).",
+    "Les données sont utilisées pour générer des bassins hydrographiques et appuyer les applications hydrologiques au niveau de la province tels : * la création de bassins hydrographiques * la modélisation hydrologique * l'analyse du réseau des cours d'eau Cinq ensembles de données clés sont représentés dans chaque ensemble de données : * réseau de cours d'eau (Enhanced Watercourse) * MAN axé sur l'hydrologie (Enforced DEM) * grille de la direction des débits (Enhanced Flow Direction) * trame de représentation du réseau des cours d'eau (Stream Grid) __Informations techniques__ Les données hydrologiques intégrées de l’Ontario sont complètes pour l’ensemble de la province, ce qui permet de créer un bassin hydrographique pour n’importe quel endroit en Ontario, y compris les régions qui se déversent des provinces voisines et du Minnesota, sauf dans les cas suivants : * les points de la frontière internationale qui s’écoulent dans le lac Supérieur, au sud de la rivière Pigeon; * les points de la frontière internationale où s’écoulent les voies interlacustres des Grands Lacs et le fleuve Saint-Laurent du côté des États-Unis; * les points le long de la rivière des Outaouais qui s’écoulent du Québec. __Note spéciale : l'ensemble Nord-Ouest__ L'ensemble « Nord-Ouest » contient des données hydrographiques pour l’ensemble du bassin de la rivière à la Pluie, une région qui chevauche la frontière internationale entre le Canada et les États-Unis. Les données du côté des États-Unis proviennent du National Hydrography Dataset (NHD) en date de février-mars 2014, qui a été harmonisé avec le Réseau de données hydrographiques de l’Ontario pour créer les couches des cours d’eau améliorées et des plans d’eau intégrées qui se trouvent dans l’ensemble Nord-Ouest. Pour en savoir plus sur le moment où les données ont été initialement extraites et intégrées, reporter aux champs stockés dans la table des attributs de chaque couche vectorielle dans la base de données géographiques : * Date d’entrée en vigueur (EFF_DATE) * Date de mise à jour de la géométrie (GEO_UPD_DT) Les données relatives aux États-Unis sont un instantané statique du NHD destiné à appuyer la modélisation régionale. Veuillez consulter le site Web du [United States Geological Survey [USGS]](https://www.usgs.gov/core-science-systems/ngp/national-hydrography) (en anglais seulement) pour obtenir la version la plus récente du NHD.** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ef0c4387-38ce-4adc-b761-f0506b82564e"
+  ],
+  "dct_issued_s": "2020-01-11",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ef0c4387-38ce-4adc-b761-f0506b82564e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Ontario Integrated Hydrology (OIH) data",
+  "gbl_mdModified_dt": "2026-03-25T13:39:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cae170a-9bfa-5563-bf00-372f01ec55e8",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

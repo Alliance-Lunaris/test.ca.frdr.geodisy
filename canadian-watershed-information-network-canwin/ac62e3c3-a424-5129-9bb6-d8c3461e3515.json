@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.782063, -46.38161, 62.281322, 40.184321)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The cloud-corrected representation of the NDVI using historical AVHRR and VIIRS satellite images at 1 kilometre resolution provides reliable, objective and timely information on the state of vegetation throughout Canada and the northern United States. The methodology applied to the images has remained the same as for the program formerly known as the Crop Condition Assessment Program (CCAP).  \n  \n  Since 1987, the National Oceanic and Atmospheric Administration (NOAA) series of satellites carrying the Advanced Very High-Resolution Radiometer (AVHRR) records images of the entire Earth's surface twice a day at 1kilometre resolution. This sensor captures two spectral bands (red and infrared) that have proven to be extremely useful for vegetation monitoring to produce the Normalized Difference Vegetation Index (NDVI). NDVI image composites on crop condition were produced by GeoManitoba until the end of the 2020 growing season. In 2021, Statistics Canada started producing the weekly composites using an application developed by Dr. Rasim Latifovic from National Resources Canada. Since 2022, due to the aging AVHRR sensor affecting the quality of the weekly composites, the team has transitioned to the NOAA-20 - Visible Infrared Imaging Radiometer Suite (VIIRS) satellite. VIIRS is a new-generation satellite with spectral characteristics comparable to those of its predecessor. To keep the NDVI values stable and continuous throughout the time series, the VIIRS composite values are normalized to obtain comparable NDVI values.  \n  \n  Additional computations were performed by Statistics Canada for Julian weeks 15 to 41 to remove residual clouds from the NDVI composites and statistical extractions by geographic regions using three different types of agricultural masks.   \n  \n  This dataset gives access to AVHRR images from 1987 to mid-2022 and VIIRS images from mid-2022 to present in GeoTIFF format and covers the agricultural land during the growing season of the field crops in Canada (Julian weeks 15 to 41). It also provides access to a database that contains the statistical NDVI by geographic regions (Townships, Census Consolidated Subdivisions (CCS), Census Divisions (CD) and Census Agricultural Regions (CAR)) and agricultural masks (Agriculture (AGR), Crop (CROP) and Pasture (PAS))."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/44ced2fa-afcc-47bd-b46e-8596a25e446e"
+  ],
+  "dct_issued_s": "2018-10-01",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/44ced2fa-afcc-47bd-b46e-8596a25e446e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Corrected representation of the NDVI using historical AVHRR and VIIRS satellite images (1 km resolution) from 1987 to present",
+  "gbl_mdModified_dt": "2024-12-06T14:22:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ac62e3c3-a424-5129-9bb6-d8c3461e3515",
+  "locn_geometry": "ENVELOPE(-143.782063, -46.38161, 62.281322, 40.184321)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.149439, -79.536791, 43.993104, 43.482371)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "Transportation",
+    "trucks",
+    "Open Data",
+    "traffic",
+    "goods movement",
+    "centreline",
+    "roads",
+    "regional road system",
+    "regional road",
+    "street",
+    "freight",
+    "strategic goods movement network",
+    "SGMN hierarchy",
+    "road",
+    "trucking",
+    "road class",
+    "Highways",
+    "freeways",
+    "transport"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p><span>This dataset contains polyline features representing the central lanes of Peel’s road network with Strategic Goods Movement Network (SGMN) designations. The Strategic Goods Movement Network is a systematic hierarchical truck route network throughout Peel. This network identifies primary and connector truck routes for safe and effective routing through the Region. This dataset includes the hierarchy information of roads designated as SGMN, and their SGMN classification.</span></p><p><span>Limitations in data: there is not a complete consistency in classification and definition of restrictions between the local municipalities. Therefore, this dataset might differ from similar datasets from the local municipalities of Brampton, Mississauga and Caledon.</span></p><p><span>The SGMN Study is available here: </span><a href='https://www.peelregion.ca/pw/transportation/goodsmovement/pdf/peel-final-technical-report.pdf' target='_blank'>Strategic Goods Movement Network Study Technical Report</a><span> (PDF).</span></p><p><b>Notes</b></p><p>This dataset is based off of the Single Line Street Network (SLSN)/Street Centre Line dataset and has the same data accuracy issues: This network is not entirely complete, as it has not been tested for robustness.</p><p></p><p>The SLSN dataset is constantly being updated with new and modified data and may no longer match the data found within this dataset.</p></div>"
+  ],
+  "dct_identifier_sm": [
+    "91bb5a97e74d49bd929aac628c5eaa27",
+    "https://www.arcgis.com/home/item.html?id=91bb5a97e74d49bd929aac628c5eaa27"
+  ],
+  "dct_issued_s": "2019-11-29",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::strategic-goods-movement-network\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Strategic Goods Movement Network",
+  "gbl_mdModified_dt": "2024-01-13T15:36:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c9c9dcad-a19d-5568-b255-f29540e70f02",
+  "locn_geometry": "ENVELOPE(-80.149439, -79.536791, 43.993104, 43.482371)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

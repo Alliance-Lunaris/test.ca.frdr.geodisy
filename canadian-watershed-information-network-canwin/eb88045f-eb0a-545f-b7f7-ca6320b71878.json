@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Global Ice-Ocean Prediction System (GIOPS) produces global sea ice and ocean analyses and 10 day forecasts daily. This product contains time-mean sea ice and ocean forecast fields interpolated to two grids. One of the grids is a 0.2° resolution regular latitude-longitude grid covering the global ocean (north of 80° S). The other grid is in north-polar stereographic projection with a 5-km spacing at the standard parallel 60° N and covers the Arctic Ocean and the neighbouring sub-polar seas. Data is available for 50 depths. The data files are in netCDF format and comply with the Climate and Forecast Conventions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dc3a7022-95e8-45a7-bf63-3d45b6cda0dc"
+  ],
+  "dct_issued_s": "2023-03-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dc3a7022-95e8-45a7-bf63-3d45b6cda0dc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Global Ice-Ocean Prediction System",
+  "gbl_mdModified_dt": "2025-10-16T14:22:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb88045f-eb0a-545f-b7f7-ca6320b71878",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

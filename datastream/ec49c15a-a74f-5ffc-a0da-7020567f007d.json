@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-93.9634, -93.557, 49.7751, 49.5864)",
+  "dcat_keyword_sm": [
+    " ice phenology",
+    " thickness",
+    " climate change",
+    "IISD Experimental Lakes Area",
+    " ice duration"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "IISD Experimental Lakes Area."
+  ],
+  "dct_description_sm": [
+    "The IISD Experimental Lakes Area (IISD-ELA) Ice Phenology and Thickness data package provides two types of ice data from multiple lakes in northwestern Ontario, Canada. Ice phenology is the timing of when lakes freeze over in the fall and thaw out in the spring, and ice cover duration for each winter. Ice thickness is the measured total depth of ice at locations on each of the frozen lakes.\n\nThe ice phenology data consists of a row for each ice-on date, ice-off date, and ice duration period for each lake, including the associated sampling method and any comments. The ice thickness table has a row for each total ice thickness measurement of a frozen lake on a specific date. Although this dataset includes data from a number of lakes, Lake 239 has the longest and most consistent data record, for both ice phenology and thickness.\n\nThis dataset on Lake Winnipeg DataStream is also published in parallel at the Environmental Data Initiative (EDI) repository (https://portal.edirepository.org/nis/revisionbrowse?scope=edi&amp;identifier=1785). The only differences are: the formatting of data and metadata, the inclusion on EDI of additional data for the individual layer measurements in the ice thickness dataset (snow, slush, white ice, and black ice), and the inclusion on EDI of three additional metadata files (a CSV table of location coordinates and record counts, a PDF information sheet for ice phenology, and a PDF information sheet for ice thickness). For additional data about our lakes, see our bathymetry data package:  https://portal.edirepository.org/nis/revisionbrowse?scope=edi&amp;identifier=1276"
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/fwlk-qb06"
+  ],
+  "dct_issued_s": "2024-10-24",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/fwlk-qb06\"}",
+  "dct_title_s": "IISD Experimental Lakes Area: Ice Phenology and Thickness",
+  "gbl_mdModified_dt": "2025-08-14T22:40:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec49c15a-a74f-5ffc-a0da-7020567f007d",
+  "locn_geometry": "ENVELOPE(-93.9634, -93.557, 49.7751, 49.5864)",
+  "schema_provider_s": "DataStream"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-100.0443368343, -95.2329585783, 54.2623477792, 49.9656068566)",
+  "dcat_keyword_sm": [
+    "Lake Winnipeg",
+    "Buoys"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada (Government of Canada)."
+  ],
+  "dct_description_sm": [
+    "Canadian meteorological buoy data are collected by Environment and Climate Change Canada. This subset consisting of Lake Winnipeg meteorological buoy data is extracted from two data streams from the [**Canadian Integrated Ocean Observing System (CIOOS)**](https://cioospacific.ca/) ERDDAP:\r\n\r\n 1. **Older buoy data** reporting via an old communication network:  [CIOOS ERDDAP](https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.html#_gl=1*1am31im*_ga*NjUwMzAzNTcuMTczMTA3NzEyMA..*_ga_B7XMBXNSYV*MTczMTA3NzEyMC4xLjAuMTczMTA3NzEyMC4wLjAuMA..)\r\n\r\n2. **Current buoy data** reporting in the new communication network:  [CIOOS ERDDAP](https://data.cioospacific.ca/erddap/tabledap/ECCC_MSC_BUOYS.html#_gl=1*138alek*_ga*MTI2MDIyNjI4Mi4xNzI4Mzk2MDk1*_ga_B7XMBXNSYV*MTczMDgyMDMzNS4xMS4xLjE3MzA4MjE5MTguMC4wLjA.)\r\n\r\nThese buoys are seasonal and are placed in the lake at the beginning of the open water season and removed before ice cover in the fall (approximately May-September).\r\n\r\n**Please see the log file under Supplemental below for important details and QC notes on the collection and streaming of this data.**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9a13011d-4a84-42f2-84fd-f4b07b5fa0ee"
+  ],
+  "dct_issued_s": "2022-02-23",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9a13011d-4a84-42f2-84fd-f4b07b5fa0ee\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Atmosphere",
+    "Marine",
+    "Surface Temperature"
+  ],
+  "dct_title_s": "Lake Winnipeg Buoy Data",
+  "gbl_mdModified_dt": "2026-10-01T10:42:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "354e3d55-efcb-5258-a23a-06d9433b19fe",
+  "locn_geometry": "ENVELOPE(-100.0443368343, -95.2329585783, 54.2623477792, 49.9656068566)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Transport",
+    "Circulation",
+    "Information gouvernementale",
+    "Mobilité",
+    "PoleARTM",
+    "SCAEC"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de la concertation des arrondissements et de l'expérience citoyenne."
+  ],
+  "dct_description_sm": [
+    "Data set geolocating traffic signs (road and parking) on Montreal territory.\n\nThe location and details of the traffic signs attached to the posts are available in the datasets [Road Signs (excluding parking)] (https://donnees.montreal.ca/dataset/panneaux-de-signalisation) and [Signage (on-street parking)] (https://donnees.montreal.ca/dataset/stationnement-sur-rue-signalisation-courant). The POTEAU_ID_POT identifier is shared between the various datasets and can be used to link them.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Ensemble de données géolocalisant les poteaux de signalisation (routière et stationnement) sur le territoire montréalais.\n\nL'emplacement et les détails concernant les panneaux de signalisation accrochés aux poteaux sont disponibles dans les jeux de données [Signalisation routière (excluant le stationnement)](https://donnees.montreal.ca/dataset/panneaux-de-signalisation) et [Signalisation (stationnement sur rue)](https://donnees.montreal.ca/dataset/stationnement-sur-rue-signalisation-courant). L'identifiant POTEAU_ID_POT est partagé entre les différents jeux de données et peut être utilisé pour les lier."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/59511eff-8924-4436-973d-f26c261d680e"
+  ],
+  "dct_issued_s": "2020-06-22",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/59511eff-8924-4436-973d-f26c261d680e\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Poteaux de signalisation",
+  "gbl_mdModified_dt": "2026-09-30T17:37:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5d9c3508-31f4-5290-80f2-c6f885a171c6",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

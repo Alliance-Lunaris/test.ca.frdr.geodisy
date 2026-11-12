@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dcat_keyword_sm": [
+    "drainage",
+    "geoyukon-import-20250714",
+    "waterbody",
+    "Government information",
+    "geoyukon",
+    "lakes",
+    "copper-grade",
+    "geoyukon-import"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Plans d'eau - 1 m"
+  ],
+  "dct_creator_sm": [
+    "Government of Yukon | Gouvernement du Yukon."
+  ],
+  "dct_description_sm": [
+    "The Waterbodies dataset is comprised of area features: lakes, intermittent waterbodies, islands, and rivers wide enough to be represented as an area feature (e.g. St. Lawrence River, Mackenzie River). In a few exceptional cases, islands had to be represented by \"holes\" in the polygons in the Waterbodies dataset. Some area features have been subdivided and several types of virtual linear features serve to separate them. Features in this dataset are linked (by an attribute) to their corresponding flow line in the Drainage Network Skeleton. Therefore the Waterbodies dataset may be used in conjunction with the Drainage Network Skeleton for analytical applications. The Islands dataset is comprised of area and linear features: islands within inland waters and the waterbodies and single line rivers within these islands. Oceanic islands are not included as they are part of the coastline component of the Drainage Network Skeleton dataset. The Islands dataset exists to complete the cartographic representation of Canadian hydrology. The Islands dataset is not logically connected with the Drainage Network Skeleton, and can not be used for analytical applications. It should be noted that flow lines of the Drainage Network Skeleton do not take into account of the existence of islands and therefore do not necessarily flow around them. In a few exceptional cases, islands had to be represented by \"holes\" in the polygons in the Waterbodies dataset. Some islands themselves contain waterbodies and rivers, not significant for network analysis. However, in order to support a complete cartographic representation such waterbodies and rivers have been added to the Islands dataset. The National Scale Frameworks Hydrology data consists of area, linear and point geospatial and attribute data for Canada's hydrology at a national scale. It provides a representation of Canada's surface water features, and data completeness reflects the content of the source, the original Vector Map level 0 (VMAP0) revision 4 hydrographic layers, except where revision editing has been performed. Key value-added characteristics include river flow direction, connectivity and the tagging of geographical name keys to selected rivers, lakes and islands included in the Concise Gazetteer of Canada.\n\nThe Atlas Frameworks are a set of integrated base map layers which form part of a larger National Scale Frameworks data collection. These data have been compiled at a scale of 1:1 000 000 with the primary goal being to indicate correct relative positioning with other framework layers rather than absolute positional accuracy.\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps) . Discover more digital map data and interactive maps from Yukon's digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)",
+    "L'ensemble de données Waterbodies comprend des caractéristiques de la zone : lacs, plans d'eau intermittents, îles et rivières suffisamment larges pour être représentées comme une caractéristique de la zone (par exemple, le fleuve Saint-Laurent, le fleuve Mackenzie). Dans quelques cas exceptionnels, les îles ont dû être représentées par des « trous » dans les polygones du jeu de données Waterbodies. Certaines entités surfaciques ont été subdivisées et plusieurs types d'entités linéaires virtuelles servent à les séparer. Les entités de ce jeu de données sont liées (par un attribut) à leur ligne de flux correspondante dans le squelette du réseau de drainage. Par conséquent, l'ensemble de données Waterbodies peut être utilisé conjointement avec le squelette du réseau de drainage pour des applications analytiques. L'ensemble de données sur les îles comprend des caractéristiques surfaciques et linéaires : les îles situées dans les eaux intérieures et les plans d'eau et les rivières à ligne unique de ces îles. Les îles océaniques ne sont pas incluses car elles font partie de la composante côtière du jeu de données Drainage Network Skeleton. L'ensemble de données sur les îles existe pour compléter la représentation cartographique de l'hydrologie canadienne. Le jeu de données Islands n'est pas connecté logiquement au squelette du réseau de drainage et ne peut pas être utilisé pour des applications analytiques. Il convient de noter que les lignes d'écoulement du squelette du réseau de drainage ne tiennent pas compte de l'existence d'îles et ne circulent donc pas nécessairement autour d'elles. Dans quelques cas exceptionnels, les îles ont dû être représentées par des « trous » dans les polygones du jeu de données Waterbodies. Certaines îles contiennent elles-mêmes des plans d'eau et des rivières, ce qui n'est pas significatif pour l'analyse du réseau. Cependant, afin de permettre une représentation cartographique complète, ces plans d'eau et ces rivières ont été ajoutés à l'ensemble de données des îles. Les données hydrologiques des cadres à l'échelle nationale comprennent des données géospatiales surfaciques, linéaires et ponctuelles et des données attributaires relatives à l'hydrologie du Canada à l'échelle nationale. Il fournit une représentation des caractéristiques des eaux de surface du Canada, et l'exhaustivité des données reflète le contenu de la source, les couches hydrographiques de la version 4 de la carte vectorielle originale de niveau 0 (VMAP0), sauf lorsque des modifications de révision ont été effectuées. Les principales caractéristiques à valeur ajoutée comprennent la direction du débit des rivières, la connectivité et le marquage des clés de dénomination géographique pour certains cours d'eau, lacs et îles inclus dans la nomenclature géographique concise du Canada.\n\nLes cadres de l'Atlas sont un ensemble de couches de cartes de base intégrées qui font partie d'une plus grande collecte de données des cadres à l'échelle nationale. Ces données ont été compilées à une échelle de 1:1 000 000 dans le but principal d'indiquer un positionnement relatif correct avec d'autres couches de charpente plutôt qu'une précision de positionnement absolue.\n\nDistribué depuis [GeoYukon] (https://yukon.ca/geoyukon) par le [gouvernement du Yukon] (https://yukon.ca/maps). Découvrez d'autres données cartographiques numériques et des cartes interactives issues de la collection de données cartographiques numériques du Yukon.\n\nPour plus d'informations : [geomatics.help@yukon.ca] (mailto : geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/585d2a22-e690-4202-ae57-cae9c5655b83"
+  ],
+  "dct_issued_s": "2016-06-10",
+  "dct_publisher_sm": [
+    "Government of Yukon | Gouvernement du Yukon"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/585d2a22-e690-4202-ae57-cae9c5655b83\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Waterbodies - 1M",
+  "gbl_mdModified_dt": "2026-09-30T16:03:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "87c565c2-59cd-549c-a525-ab77a9972758",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,43 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gallinger, Cailin (University of Western Ontario). ORCID: https://orcid.org/0000-0002-1465-7447",
+    "Williams, Jean-Pierre (University of California, Los Angeles). ORCID: https://orcid.org/0000-0003-4163-2760",
+    "Neish, Catherine (University of Western Ontario). ORCID: https://orcid.org/0000-0003-3254-8348",
+    "Powell, Tyler (Johns Hopkins University Applied Physics Laboratory). ORCID: https://orcid.org/0000-0003-3676-6561",
+    "Elder, Catherine (Jet Propulsion Laboratory, California Institute of Technology). ORCID: https://orcid.org/0000-0002-9993-8861",
+    "Ghent, Rebecca (Planetary Science Institute). ORCID: https://orcid.org/0000-0002-3173-6630",
+    "Hayne, Paul (University of Colorado Boulder). ORCID: https://orcid.org/0000-0003-4399-0449",
+    "Paige, David (University of California, Los Angeles). ORCID: https://orcid.org/0009-0001-6122-9904"
+  ],
+  "dct_description_sm": [
+    "<h2><b>Contents</b></h2>\nFor each crater region of interest (ROI), this dataset contains:\n\n<h3>Raw data:</h3>\n<ul>\n  <li>Bolometric temperatures and propagated uncertainties binned at 128 pixels per degree (ppd).</li>\n  <ul>\n      <li>For each original point-like observation in each detector, a Monte Carlo sampling of 100 points is projected through the calculated Diviner effective field-of-view (EFOV) onto an icosahedral mesh interpolated to the 256ppd LOLA/Kaguya TC merged DEM <a href=\"https://pgda.gsfc.nasa.gov/products/54\">(SLDEM2015)</a>; see description in <a href=\"https://doi.org/10.1016/j.icarus.2015.10.034\">Williams et al. (2016)</a> & <a href=\"https://doi.org/10.1016/j.icarus.2017.04.007\">Sefton-Nash et al. (2017)</a></li>\n      <li>Bolometric temperatures are calculated from the binned radiances in each of the seven Diviner thermal channels (ch. 3-9) using the algorithm of <a href=\"https://doi.org/10.1126/science.1187726\">Paige et al. (2010)</a></li>\n      <li>Data are in tabular text format separated by spaces and ordered by longitude, latitude, and (average) local time of each binned observation (0-24 hr, 0 = local midnight)</li>\n      <li>Bolometric temperatures and uncertainties are in units of kelvin</li>\n      <li>Additional data for each 128ppd bin include: solar distance at time of measurement (AU), average emission angle of the binned observation (degrees), and number of EFOV-projected data points within the bin</li>\n      <li>Bolometric temperatures are corrected for solar distance (normalized to 1 AU)</li>\n  </ul>\n</ul>\n\n<h3>GeoTIFF files:</h3>\n<ul>\n    <li><u>Multi-band files:</u></li>\n    <ul>\n        <li>RGB composite of model output in byte (0-255 normalized) and float (original model values) format, with separate folders for masked data (<i>H<sub>1param</sub></i> given in file name) and original two-parameter model output. Byte format files have a 2-98% stretch applied to each channel before mapping to final values.</li>\n    </ul>\n    <li><u>Single-band files:</u></li>\n    <ul>\n        <li>Individual files for <i>ΔT</i><sub>BOL</sub>, <i>I<sub>d,273K</sub></i>, and <i>H</i> for both masked and unmasked two-parameter model output (R, G, and B channels respectively in corresponding RGB composite file)</li>\n        <li>Best fit <i>H</i>-parameter values for the one-parameter model</li>\n        <li>Root-mean-square error (RMSE) between model and data (normalized by degrees of freedom) for both the one-parameter and two-parameter models</li>\n        <li>Reduced chi-squared values between model and data (weighted by bolometric temperature uncertainties) for both the one-parameter and two-parameter models</li>\n    </ul>\n</ul>\n\n\n<h3>Shapefiles:</h3>\n<ul>\n    <li>Shapefiles of the mask boundary between the one-parameter and two-parameter model results (<i>H<sub>1param</sub></i> values given in file name)</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "832828_832804_832805",
+    "https://doi.org/10.5683/SP3/CQ4FWQ"
+  ],
+  "dct_issued_s": "2024-09-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CQ4FWQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Astronomy and Astrophysics"
+  ],
+  "dct_title_s": "Replication Data for: Thermophysical diversity of young lunar crater ejecta revealed with LRO Diviner observations",
+  "gbl_mdModified_dt": "2024-12-02T22:24:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7ffadbd6-ae0a-5ca3-82a7-6a0f9a468417",
+  "pcdm_memberOf_sm": [
+    "Cailin Gallinger Dataverse // Thermophysical properties of lunar crater ejecta"
+  ],
+  "schema_provider_s": "Western University Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nTwo products are available to know the gross commercial volume of a tree according to its diameter at chest height (DHP) and its height. Their contents and the way of using them are different, but they both make it possible to obtain gross commercial volume values per tree. \n\nThe first product is the **LIN3 cubing rate**. It is presented in the form of a table where the values of the gross market volume can be extracted directly. These are local rates, i.e. the height used in the general rate equation (volume prediction models) is predicted by height-DHP relationships developed per survey unit.\n\nThe second product offers increased precision. It is presented in the form of several tables where the values of the gross commercial volume do not appear directly. Rather, the content of these tables is used to apply **models for predicting the height and gross commercial volume** of a tree. Height prediction models are also developed locally at the scale of survey units. The use of the product requires consultation of the document [“Models for predicting the height and gross commercial volume of trees - Method and use”] (https://mrnf.gouv.qc.ca/nos-publications/modele-prediction-hauteur-volume/).\n\nFinally, the **Predivol** tool allows users to more easily access prediction models for sample plots (PE) using a user-friendly interface that is independent of geographic information systems (GIS).\n\n** 📣 Recommendation of the Forest Inventory Directorate: ** it is preferable to use models to predict height and gross market volume in territories where they are available. A new height prediction model is available when a territory obtains the results of forest compilations. In the absence of these models, it is still possible to use the LIN3 cubing rate.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/24c8be98-a7d4-43e6-b7cb-a9c8c6808871"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/24c8be98-a7d4-43e6-b7cb-a9c8c6808871\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Cubing rate and prediction models",
+  "gbl_mdModified_dt": "2026-10-07T17:32:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17ccfcdd-18b2-58c6-95ac-e08a58353aff",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

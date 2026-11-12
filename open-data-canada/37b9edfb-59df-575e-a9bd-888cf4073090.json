@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.63727569, -68.4305954, 63.79079384, 63.70727478)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Buildings",
+    "GéoBase",
+    "Iqaluit",
+    "Change detection",
+    "GéoIA",
+    "Routes",
+    "Automatic Extraction",
+    "Intelligence artificielle",
+    "GeoBase",
+    "Roads",
+    "Extraction Automatique",
+    "Iqaluit",
+    "GeoAI",
+    "Earth Sciences",
+    "Artificial intelligence",
+    "Détection de changement",
+    "Sciences de la Terre",
+    "Bâtiments"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "GéoIA - Cas d’utilisation de détection de changement - Iqaluit"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Temporal analysis of changes in the Iqaluit region, Nunavut, based on GeoAI features automatically extracted from satellite images acquired in 2012 and 2022. Simple geospatial analysis intersecting GeoAI multidate building features enables the detection of buildings observed in 2022 that were not detected in 2012. The addition of new buildings is a good indicator of urban development and/or sprawl.\n\nGeoAI enables temporal coverage of various areas in Canada, thus providing a useful tool for change detection and trend analysis at high resolution. While the series is still fairly new, and such examples are limited for the time being, NRCan strives to gradually increase its GeoAI data offering for both spatial and temporal coverage.\n\nFor more information about the GeoAI - GeoBase Series, please visit the following link: https://open.canada.ca/data/en/dataset/74738ff5-5367-5958-9aee-98fffdcd1876",
+    "Analyse temporelle de changements dans la région d'Iqaluit, Nunavut, à partir des entités GeoAI extraites automatiquement des images satellites acquises en 2012 et 2022. Une simple analyse géospatiale croisant la base de données ouverte sur les immeubles de Statistique Canada, version 3 (BDOI v3), avec les bâtiments multi-dates de GéoIA permet de détecter les bâtiments observés en 2022 qui n'avaient pas été détectés en 2012. L'ajout de nouveaux bâtiments est un bon indicateur du développement urbain et/ou de l'étalement urbain.\n\nGéoIA permet une couverture temporelle de diverses régions du Canada, offrant ainsi un outil utile pour la détection des changements et l'analyse des tendances à haute résolution. Bien que la série soit encore relativement nouvelle et que les exemples soient pour l'instant limités, RNCan s'efforce d'augmenter progressivement son offre de données GéoIA, tant sur le plan spatial que temporel.\n\nPour plus d'informations sur le GéoIA - Série GéoBase, veuillez consulter le lien suivant: https://ouvert.canada.ca/data/fr/dataset/74738ff5-5367-5958-9aee-98fffdcd1876"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ef29513d-a007-408c-beba-65f86e7b5b01"
+  ],
+  "dct_issued_s": "2026-05-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ef29513d-a007-408c-beba-65f86e7b5b01\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "GeoAI - Change detection use case - Iqaluit",
+  "gbl_mdModified_dt": "2026-06-29T18:20:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37b9edfb-59df-575e-a9bd-888cf4073090",
+  "locn_geometry": "ENVELOPE(-68.63727569, -68.4305954, 63.79079384, 63.70727478)",
+  "schema_provider_s": "Open Data Canada"
+}

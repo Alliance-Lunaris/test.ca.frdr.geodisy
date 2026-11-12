@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The “Major Basins of the AAFC Watersheds Project - 2013” dataset is a geospatial data layer containing polygon features representing the 23 major basins of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project.   \n  \n  The Project is subdivided by ‘incremental gross drainage areas’ associated to individual hydrometric gauging stations. The maximum area that could contribute runoff to each gauging station, less that of its upstream neighbour(s) is called an ‘incremental gross drainage area’. Conceptually, the major basins are collections of the “incremental gross drainage areas” associated with particular major river or lake reach (for example, reaches of the Saskatchewan or Athabasca River). In practice, each major basin consists of the collection of incremental gross drainage areas, whose gauging stations’ numbers have collections of the same three first characters. For example, the Assiniboine River major basin contains the incremental gross drainage areas whose gauging station numbers start with 05J, 05M, or 05N."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/27c70cf8-2ad2-4c69-a529-90f91561b741"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/27c70cf8-2ad2-4c69-a529-90f91561b741\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Major Basins of the Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44b9fa59-455e-58ec-b448-91aa9cbc284c",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

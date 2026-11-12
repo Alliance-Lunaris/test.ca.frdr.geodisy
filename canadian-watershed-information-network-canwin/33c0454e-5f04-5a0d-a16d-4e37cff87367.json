@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A relative exposure index (REI), unweighted fetch, effective fetch, and other fetch-based indices (i.e., sum, minimum) were calculated for the Newfoundland and Labrador (NL) Shelves bioregion. Due to the extensive coastline of the study region, this analysis was conducted for a 5km buffered region along the coast at a spatial resolution of 250m. Detailed methods on the selection of input points for the NL bioregion are included below.\n\nMethods\nPreprocessing and input point selection:\nLand boundary files were obtained for Eastern Canada and the Canadian Arctic (NrCan 2017) at a scale of 1:50,000 as well as for Saint Pierre and Miquelon (Hijmans 2015), and the New England states (GADM 2012) however the scale at which these layers were produced is unknown. Land boundary files were merged into a single land polygon layer and watercourses reaching for in-land and/or above sea level were clipped from this polygon layer (Greyson 2021). A 5km buffer was generated around the NL provincial boundary. This buffer was then clipped by all land polygons to remove areas overlapping land polygons within the study area. All buffer segments intersecting the NAFO divisions within the NL bioregion were selected and the Union tool in ArcGIS Pro (v. 2.7.2) was used to fill-in gaps within the buffered area, creating a more continuous polygon. The buffered layer was then dissolved, and the NL provincial boundary polygon was erased from the buffered layer to create the study area polygon. A 250m fishnet was created and clipped to the study area (5km buffer layer) and the feature to point tool was used (with the “inside parameter checked”) to convert this grid into a point layer (approx. 1,000,000 points). The spatial resolution for all subsequent analyses was matched to the fishnet grid at 250m.\n\nReferences\nGADM database of Global Administrative Areas (2012). Global Administrative Areas, version 2.0. (accessed 2 December 2020). www.gadm.org\n\nGreyson, P (2021) Land boundary file for Eastern Canada, the Canadian Arctic, the New England States and Saint Pierre and Miquelon. [shapefile]. Unpublished data.\n\nHijmans, R. and University of California, Berkeley, Museum of Vertebrate Zoology. (2015). First-level Administrative Divisions, Saint Pierre and Miquelon, 2015. UC Berkeley, Museum of Vertebrate Zoology. Available at: http://purl.stanford.edu/bz573nv9230\n\nNatural Resources Canada (2017) Administrative Boundaries in Canada - CanVec Series - Administrative Features - Open Government Portal. (accessed 2 December 2020). https://open.canada.ca/data/en/dataset/306e5004-534b-4110-9feb-58e3a5c3fd97."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f1da3a6f-3515-447e-9a73-50c8299816ec"
+  ],
+  "dct_issued_s": "2022-07-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f1da3a6f-3515-447e-9a73-50c8299816ec\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Fetch and relative wave exposure indices for the coastal zone of the Newfoundland and Labrador Shelves bioregion",
+  "gbl_mdModified_dt": "2026-03-24T08:07:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33c0454e-5f04-5a0d-a16d-4e37cff87367",
+  "locn_geometry": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

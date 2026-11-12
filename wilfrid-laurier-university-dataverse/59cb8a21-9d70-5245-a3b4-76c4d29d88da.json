@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.3, -121.29, 61.3, 61.2)",
+  "dcat_keyword_sm": [
+    "Energy Balance",
+    "Peatland",
+    "Shortwave Radiation",
+    "Subarctic",
+    "Longwave Radiation",
+    "Permafrost"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Carpino, Olivia (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-6884-204X",
+    "Quinton, William L. (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0001-5707-4519"
+  ],
+  "dct_description_sm": [
+    "====DATA DICTIONARY====<BR>\nStation (Alphabetical)  -  Station Identification:<BR> \n\t&nbsp;&nbsp;&nbsp;&nbsp;Dense Plateau  -  a station on a densely forested plateau<BR> \n\t&nbsp;&nbsp;&nbsp;&nbsp;Sparse plateau  -  a station on a sparsely forested plateau<BR> \n\t&nbsp;&nbsp;&nbsp;&nbsp;Intermediate Plateau  -  a station on a plateau with intermediate forest density<BR> \n\t&nbsp;&nbsp;&nbsp;&nbsp;Wetland  -  a station in a wetland with no forest cover<BR> \nYear  -  Date variable<BR> \nMonth  -  Date variable<BR>\nDay  -  Date variable<BR>\nK_In_Daily  -  Daily Incoming Shortwave Radiation measured in MJ/m2<BR>\nK_Out_Daily  -  Daily Outgoing Shortwave Radiation measured in MJ/m2<BR>\nL_In_Daily  -  Daily Incoming Longwave Radiation measured in MJ/m2<BR>\nL_Out_Daily  -  Daily Outgoing Longwave Radiation measured in MJ/m2<BR>\nDate  -  Date variable. Collected by instrument<BR>\n<br>\n<br>\n====VERSION LOG====<BR>\n1.0 - 20210616 - New, Published Dataset.<BR>",
+    "This dataset includes data for the manuscript entitled, \"Long-term climate-influenced land cover change in discontinuous permafrost peatland complexes”. This study combines extensive geomatics data with ground-based meteorological and hydrological measurements to inform a new conceptual model of landscape evolution that accounts for the observed patterns of permafrost thaw-induced landcover change, and provides a basis for predicting future changes. Included here are four component radiation data from four sites, each representing a stage of landscape evolution. Specifically, incoming shortwave, outgoing shortwave, incoming longwave, and outgoing longwave radiation were measured (W/m2) at 30-minute intervals beginning as early as 2004 and continuing through 2019. The four sites instrumented and included in this dataset are: a densely forested plateau site (2007-2019), a sparsely forested plateau site (2015-2018), an intermediate forested plateau site (2014-2019), and a wetland site with no forest cover (2004-2019). Details of instrumentation are included in the aforementioned manuscript."
+  ],
+  "dct_identifier_sm": [
+    "127761_137_61989",
+    "https://doi.org/10.5683/SP2/JTIQDO"
+  ],
+  "dct_issued_s": "2021-06-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/JTIQDO\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Four Component Radiation Data at Scotty Creek, NWT, Canada 2004-2019",
+  "gbl_mdModified_dt": "2025-02-03T16:13:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "59cb8a21-9d70-5245-a3b4-76c4d29d88da",
+  "locn_geometry": "ENVELOPE(-121.3, -121.29, 61.3, 61.2)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // Scotty Creek Research Station"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

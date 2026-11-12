@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Thermal fault detection",
+    "Battery testing",
+    "Lithium-ion battery pack",
+    "Drive cycle testing",
+    "Air-cooled PHEV batteries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Naguib, Mina (McMaster University). ORCID: https://orcid.org/0000-0002-1878-1453",
+    "Kollmeyer, Phillip (McMaster University). ORCID: https://orcid.org/0000-0003-3576-672X",
+    "Chen, Junran (McMaster University). ORCID: https://orcid.org/0009-0007-4615-3255",
+    "Emadi, Ali (McMaster University). ORCID: https://orcid.org/0000-0002-0676-1455"
+  ],
+  "dct_description_sm": [
+    "This dataset is intended for training and validating lithium-ion battery pack thermal fault detection algorithms. It features an air-cooled lithium-ion battery pack (LIBP) extracted from a plug-in hybrid vehicle (PHEV). The pack comprises 72 series-connected SB Limotive cells, each with a nominal capacity of 5.2Ah. Thermal fault simulations were conducted, including coolant pump malfunctions, flow blockages, and sensor failures, during 6C charge cycles and drive cycle tests (HWFET, LA92, UDDS, and US06). Testing was performed in a thermal chamber at 25°C and 15°C using a D&V Electronics tester, with data collected via the Orion BMS."
+  ],
+  "dct_identifier_sm": [
+    "885718",
+    "https://doi.org/10.5683/SP3/THZTJC"
+  ],
+  "dct_issued_s": "2025-03-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/THZTJC\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Battery Pack with Introduced Faults Dataset - Air Cooled SBLimotive 5Ah",
+  "gbl_mdModified_dt": "2025-03-18T14:53:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "794014b7-1a62-5e4a-8bd4-273d2bf3c4ce",
+  "schema_provider_s": "McMaster University Dataverse"
+}

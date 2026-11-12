@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Landsat-derived forest age for Canada 2022\nSatellite-based forest age map for 2022 across Canada's forested ecozones at a 30-m spatial resolution. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Remotely sensed data from Landsat (disturbances, surface reflectance composites, forest structure) and MODIS (Gross Primary Production) are utilized to determine age. Age can be determined where disturbance can be identified directly (disturbance approach) or inferred using spectral information (recovery approach) or using inverted allometric equations to model age where there is no evidence of disturbance (allometric approach). The disturbance approach is based upon satellite data and mapped changes and is the most accurate. The recovery approach also avails upon satellite data plus logic regarding forest succession, with an accuracy that is greater than pure modeling. Given the lack of widespread recent disturbance over Canada's forests, the allometric approach is required over the greatest area (86.6%). Using information regarding realized heights and growth and yield modeling, ages are estimated where none are otherwise possible. Trees of all ages are mapped, with trees >150 years old combined in an - old tree - category.\n\nSee Maltman et al. (2023) for an overview of the methods, data, image processing, as well as information on agreement assessment using Canada's National Inventory (NFI). Maltman, J.C., Hermosilla, T., Wulder, M.A., Coops, N.C., White, J.C., 2023. Estimating and mapping forest age across Canada's forested ecosystems. Remote Sensing of Environment 290, 113529. ( Maltman et al. 2023)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a4116c0-5628-4e5e-88ca-bee3174eddf0"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8a4116c0-5628-4e5e-88ca-bee3174eddf0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Forest Age Approach (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f550d60b-53f8-5062-90f3-d8ed8fd7f4db",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

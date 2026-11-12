@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.44691875, -47.41566875, 83.43873406, 39.8990442)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Flood Susceptibility Mapping is a national map series that shows how likely different areas in Canada are to experience flooding. This updated version improves on an earlier one-time map by incorporating yearly and seasonal data, along with a larger set of known flood locations used for model training. These enhancements make it possible to assess how flood susceptibility varies from year to year, identify long-term trends, and detect years that were unusually wet or dry.\n\nThe system integrates a wide range of information, including land characteristics such as elevation, soil type, land cover, and vegetation, as well as seasonal weather variables such as rainfall and temperature. It also incorporates geographic context so the model can better capture spatial patterns.\n\nSeveral artificial intelligence (AI) models were evaluated, and the XGBoost algorithm was selected for its accuracy and reliability. The model was further calibrated so that the probabilities it produces better align with real-world conditions, with notable improvements in areas where flood susceptibility is moderate. To characterize uncertainty, the model was repeatedly tested using slightly different samples of the data.\n\nAnnual flood susceptibility maps are available for the years 2000 to 2023, along with some maps that show possible future climate conditions.\n\nUsing the yearly maps, “wet” and “dry” scores can be calculated for each watershed (drainage area) in Canada, and changes in flood susceptibility over time were assessed. Across the country, the number of areas showing higher wet conditions has generally increased. Many of the most significant changes occurred between 2009 and 2020, with 2017 emerging as a frequent turning point.\n\nThis collection contains: \n- **[Historic](https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77)** yearly maps (2000–2023) showing the calibrated probability of flood susceptibility. \n- **[Future](https://open.canada.ca/data/en/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)** climate scenarios of flood susceptibility. \n- A variety of **[decision ready maps](https://open.canada.ca/data/en/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)**, showing trends of increasing or decreasing flood susceptibility, (processed by NHN Work Unit), extreme wet and dry years and a 'flood envelope' and probable present day flood susceptibility. \n\nFuture development plans include extending the maps back to 1980 and examining how flood susceptibility may change under future climate scenarios.\n\nOverall, this dataset provides a consistent, Canada-wide view of where and when flood susceptibility has changed over the past two decades. It is intended for analyzing patterns and trends at regional and national scales, rather than predicting flooding at individual properties or supporting engineering or building design decisions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Collection - Flood Susceptibility Mapping",
+  "gbl_mdModified_dt": "2026-05-25T15:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b52ac96c-9300-5ce3-8e9a-80ee0b1212d1",
+  "locn_geometry": "ENVELOPE(-144.44691875, -47.41566875, 83.43873406, 39.8990442)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

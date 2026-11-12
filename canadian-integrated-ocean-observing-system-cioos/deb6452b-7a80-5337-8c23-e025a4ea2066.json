@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-77.0, -49.0, 54.44, 42.02)",
+  "dcat_keyword_sm": [
+    "Courants de surface",
+    "surfaceCurrents",
+    "SPCOG",
+    "CIOPS",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sous-ensemble de données de courant provenant du système de prévision côtier océan-glace (SPCOG)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada (Government of Canada).",
+    "Meteorological Service of Canada."
+  ],
+  "dct_description_sm": [
+    "**Extract of the [Meteorological Service of Canada Datamart](https://eccc-msc.github.io/open-data/msc-data/nwp_ciops/readme_ciops_en/):** *The Coastal Ice Ocean Predicton System (CIOPS) provides a 48 hour ocean and ice forecast over different domains (East, West, Salish Sea) four times a day at 1/36° resolution. A pseudo-analysis component is forced at the ocean boundaries by the [Regional Ice Ocean Prediction System (RIOPS)](https://eccc-msc.github.io/open-data/msc-data/nwp_riops/readme_riops_en/) forecasts and spectrally nudged to the RIOPS solution in the deep ocean. Fields from the pseudo-analysis are used to initialize the 00Z forecast, whilst the 06, 12 and 18Z forecasts use a restart files saved at hour 6 from the previous forecast. The atmospheric fluxes for both the pseudo-analysis and forecast components are provided by the [High Resolution Deterministic Prediction System (HRDPS)](https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_en/) blended both spatially and temporally with [...] the [Global Deterministic Prediction System (GDPS)](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps_en/) (for CIOPS-East) [...] for areas not covered by the HRDPS*\n\nThe data available in the SLGO catalog provide the vector **components of the current in x and y** directly from the model, as well as the calculated **magnitude** and **direction** of the currents. The dataset provides hourly data for the last three days and includes 48-hour forecasts derived from the latest model run. Spatially, the dataset covers the St. Lawrence Gulf (downstream of *Les Escoumins*, Qc, Canada), as well as a localized portion of the Northwest Atlantic. \n\nAn interactive visualization of this dataset is available via the SLGO's **[Nautilo app](https://nautilo.ca/)**",
+    "**Extrait du [datamart du Service météorologique du Canada](https://eccc-msc.github.io/open-data/msc-data/nwp_ciops/readme_ciops_fr/) :** *Le Système de prévision côtier océan-glace (SPCOG) effectue des prévisions de 48 heures pour l'océan et la glace marine pour différents domaines (Est, Ouest, mer de Salish) quatre fois par jour à une résolution de 1/36°. La composante de pseudo-analyse est forcée aux frontières océaniques par le [Système régional de prévision océan-glace (SRPOG)](https://eccc-msc.github.io/open-data/msc-data/nwp_riops/readme_riops_fr/) et utilise une méthode de pilotage spectral dans l'océan profond pour corriger les grandes échelles vers la solution du SRPOG. Les champs de la pseudo-analyse sont utilisés afin d'initialiser la prévision de 00Z, les prévisions des passes 06, 12 et 18Z sont initialisées à partir de fichier de redémarrage à l'heure 6 de la prévision précédente. Le forçage atmosphérique pour les deux composantes est fourni par le [Système à haute résolution de prévision déterministe (SHRPD)](https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_fr/) combiné spatialement et temporellement avec une composante non couplée du [Système global de prévision déterministe (SGPD)](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps_fr/) [...] (pour SPCOG-Est) pour les régions qui ne sont pas couvertes par le SHRPD.*\n\nLes données accessibles dans le catalogue de l'OGSL fournissent les **composantes vectorielles du courant en x et y** directement à partir du modèle, ainsi que la **magnitude** et la **direction** calculées des courants. Le jeu de données fournit des données horaires pour les trois derniers jours et comprend des prévisions à 48 heures dérivées de la dernière exécution du modèle. L'étendu du jeu de données concerne le golfe du Saint-Laurent (en aval des Escoumins, Qc, Canada), ainsi qu'une partie localisée de l'Atlantique Nord-Ouest.\n\nUne visualisation interactive du jeu de données est disponible au travers de **l'[application Nautilo](https://nautilo.ca/)** de l'OGSL"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/cea25730-24db-48e7-9375-31d13846c580"
+  ],
+  "dct_issued_s": "2026-03-30",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/cea25730-24db-48e7-9375-31d13846c580\"}",
+  "dct_rights_sm": [
+    "Environment and Climate Change Canada Data Servers End-use Licence https://eccc-msc.github.io/open-data/licence/readme_en/"
+  ],
+  "dct_title_s": "Subset of Coastal Ice Ocean Prediction System (CIOPS)",
+  "gbl_mdModified_dt": "2026-07-31T16:38:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "deb6452b-7a80-5337-8c23-e025a4ea2066",
+  "locn_geometry": "ENVELOPE(-77.0, -49.0, 54.44, 42.02)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

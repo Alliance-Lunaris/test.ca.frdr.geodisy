@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(171.9973, -71.72910000000002, -25.7166, -36.6312)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Achterberg, Eric Pieter (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0002-3061-2767",
+    "Kopte, Robert (Institut für Geowissenschaften, Christian-Albrechts-Universität, Kiel). ORCID: https://orcid.org/0000-0002-0822-2818",
+    "Galley, Christopher G (Memorial University of Newfoundland, University of Ottawa). ORCID: https://orcid.org/0000-0002-6045-777X"
+  ],
+  "dct_description_sm": [
+    "Upper-ocean velocities along the cruise track of RV SONNE cruise SO289 were continuously collected by a vessel-mounted Teledyne RD Instruments 75 kHz Ocean Surveyor ADCP. The transducer was located at 6.0 m below the water line. The instrument was operated in narrowband mode with 8 m bins and a blanking distance of 8.0 m, while 100 bins were recorded using a pulse of 1.43 s. The ship's velocity was calculated from position fixes obtained by the Global Positioning System (GPS). Heading, pitch and roll data from the ship's gyro platforms and the navigation data were used by the data acquisition software VmDas internally to convert ADCP velocities into earth coordinates. Accuracy of the ADCP velocities mainly depends on the quality of the position fixes and the ship's heading data. Further errors stem from a misalignment of the transducer with the ship's centerline. Data post-processing included water track calibration of the misalignment angle (-0.13° +/- 0.3581°) and scale factor (0.9969 +/- 0.0071) of the Ocean Surveyor signal. The average interval was set to 120 s.",
+    "Velocity quality flagging is based on following threshold criteria: abs(UC) or abs(VC) &gt; 1.5 m/s, rms(UC_z) or rms(VC_z) &gt; 0.3."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.946319",
+    "https://doi.org/10.1594/pangaea.946319"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.946319\"}",
+  "dct_subject_sm": [
+    "Vessel mounted Acoustic Doppler Current Profiler [75 kHz]",
+    "Current velocity, north-south",
+    "DAM Underway Research Data (DAM_Underway)",
+    "Echo intensity, relative",
+    "SO289",
+    "Pings, averaged to a double ensemble value",
+    "DataHub Earth and Environment of the Helmholtz Association (DataHub)",
+    "DATE/TIME",
+    "Seadatanet flag: Data quality control procedures according to SeaDataNet (2010)",
+    "Current velocity, east-west",
+    "Sonne_2",
+    "DEPTH, water",
+    "Quality flag, current velocity",
+    "LATITUDE",
+    "LONGITUDE"
+  ],
+  "dct_title_s": "ADCP current measurements (75 kHz) during RV SONNE cruise SO289",
+  "gbl_mdModified_dt": "2026-08-15T03:25:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "657b3fd3-a143-59e6-bafc-9df7bc88c392",
+  "locn_geometry": "ENVELOPE(171.9973, -71.72910000000002, -25.7166, -36.6312)",
+  "schema_provider_s": "PANGAEA"
+}

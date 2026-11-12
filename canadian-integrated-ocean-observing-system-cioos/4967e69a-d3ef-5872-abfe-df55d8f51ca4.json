@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.471, -70.008, 47.55, 45.257)",
+  "dcat_keyword_sm": [
+    "système de prévision hydrodynamique",
+    "Courants de surface",
+    "hydrodynamic prediction system",
+    "surfaceCurrents",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sous-ensemble de données de courant provenant du système de simulation hydrodynamique opérationnelle (SHOP)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada (Government of Canada).",
+    "Meteorological Service of Canada."
+  ],
+  "dct_description_sm": [
+    "**Extract of the [Meteorological Service of Canada Datamart](https://eccc-msc.github.io/open-data/msc-data/nwp_ohps/readme_ohps_en/):** *The Operational Hydrodynamic Prediction System (OHPS) is a 2D hydrodynamic prediction system for the St. Lawrence River and fluvial estuary. It helps to better understand flows impacting the St. Lawrence ecosystem and serves as a decision-making tool for the integrated management of the St-Lawrence. Three components are integrated in OHPS system. The first one \"steadysol\" conducts daily steady-state flow analyses, 4 times per day at 00Z, 06Z, 12Z and 18Z, respectively, over a simulation domain extending from Montreal to Trois-Rivières. The second and third components, i.e. \"analysis\" and \"forecast\", provide continuous analyses and 48-hrs forecasts, respectively, for unsteady flows over an extended St. Lawrence domain of which the upstream boundaries locate in Carillon and Beauharnois while the downstream tidal boundary is near Saint-Joseph-de-la-Rive, respectively, 4 times a day at 00Z, 06Z, 12Z and 18Z. The system provides high-resolution outcomes for various parameters such as water levels, depth-averaged velocities and derived attributes, over the simulated domains.*\n\nThe data available in the SLGO catalog provide the vector **components of the current in x and y** directly from the model's “analysis” and “forecast” modules, as well as the calculated **magnitude** and **direction** of the currents. The dataset provides hourly data for the last three days and includes 48-hour forecasts derived from the latest model run. Spatially, the dataset covers the St. Lawrence River from the *Lac Saint-Louis* upstream of Montreal (Qc, Canada) to *Île aux Coudres* (Qc, Canada). The data in the catalog has been converted by SLGO from its original polar stereographic grid to a regular grid in the WGS84 system.\n\nAn interactive visualization of this dataset is available via the SLGO's **[Nautilo app](https://nautilo.ca/)**",
+    "**Extrait du [datamart du Service météorologique du Canada](https://eccc-msc.github.io/open-data/msc-data/nwp_ohps/readme_ohps_fr/) :** *Le Système de simulation hydrodynamique opérationnelle (SHOP) est un système de prévision hydrodynamique 2D pour le fleuve Saint-Laurent et son estuaire fluvial. Il permet de mieux comprendre les flux ayant un impact sur l'écosystème du Saint-Laurent et sert d'outil d'aide à la décision pour la gestion intégrée du Saint-Laurent. Trois composantes sont intégrées au système SHOP. La première, \"steadysol\", effectue des analyses quotidiennes de l'écoulement en régime permanent, 4 fois par jour à 00Z, 06Z, 12Z et 18Z respectivement, sur un domaine de simulation s'étendant de Montréal à Trois-Rivières. Les deuxième et troisième composantes, soit \"analysis\" et \"forecast\", fournissent des analyses continues et des prévisions sur 48 heures, respectivement, pour les écoulements instationnaires sur un domaine étendu du Saint-Laurent dont les limites amont se situent à Carillon et Beauharnois alors que la limite de marée aval est près de Saint-Joseph-de-la-Rive, respectivement, 4 fois par jour à 00Z, 06Z, 12Z et 18Z. Le système fournit des résultats à haute résolution pour divers paramètres tels que les niveaux d'eau, les vitesses moyennées sur la profondeur et les attributs dérivés, sur les domaines simulés. Les produits sont disponibles au format NetCDF, qui fournit des ensembles de données.*\n\nLes données accessibles dans le catalogue de l'OGSL fournissent les **composantes vectorielles du courant en x et y** directement à partir des modules « analyse » et « prévision » du modèle, ainsi que l'**amplitude** et la **direction** calculées des courants. Le jeu de données fournit des données horaires pour les trois derniers jours et comprend des prévisions à 48 heures dérivées de la dernière exécution du modèle. Sur le plan spatial, l'ensemble de données couvre le fleuve Saint-Laurent, du lac Saint-Louis en amont de Montréal (Québec, Canada) à l'île aux Coudres (Québec, Canada). Les données du catalogue ont été converties par l'OGSL de leur grille stéréographique polaire d'origine en une grille régulière dans le système WGS84.\n\nUne visualisation interactive du jeu de données est disponible au travers de **l'[application Nautilo](https://nautilo.ca/)** de l'OGSL"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/794d6f79-76db-43df-89e9-c77d94e92c0e"
+  ],
+  "dct_issued_s": "2026-03-30",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/794d6f79-76db-43df-89e9-c77d94e92c0e\"}",
+  "dct_rights_sm": [
+    "Environment and Climate Change Canada Data Servers End-use Licence https://eccc-msc.github.io/open-data/licence/readme_en/"
+  ],
+  "dct_title_s": "Subset of Currents Data from the Operational Hydrodynamic Prediction System (OHPS)",
+  "gbl_mdModified_dt": "2026-07-31T16:36:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4967e69a-d3ef-5872-abfe-df55d8f51ca4",
+  "locn_geometry": "ENVELOPE(-74.471, -70.008, 47.55, 45.257)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

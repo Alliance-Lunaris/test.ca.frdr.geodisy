@@ -1,0 +1,91 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.1462322, -125.1462222, 48.83372222, 48.833712219999995)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Khodikian, Elissa (University of Toronto Scarborough, University of Toronto). ORCID: https://orcid.org/0000-0002-0018-1767",
+    "Roggatz, Christina C (University of Bremen). ORCID: https://orcid.org/0000-0002-8566-3078",
+    "Yoon, Gwangseok R (University of Toronto, University of Toronto Scarborough, University of New England). ORCID: https://orcid.org/0000-0001-5557-8692",
+    "Porteus, Cosima S (University of Toronto Scarborough, University of Toronto). ORCID: https://orcid.org/0000-0003-4730-4960"
+  ],
+  "dct_description_sm": [
+    "The acute, static, and fluctuating effects of acidification on the olfactory system were investigated in the coastal yellow shore crab (Hemigrapsus oregonensis (Dana, 1851)).This dataset is included in the OA-ICC data compilation maintained in the framework of the IAEA Ocean Acidification International Coordination Centre (see https://oa-icc.ipsl.fr). Original data were downloaded from the PANGAEA dataset (see Source). In order to allow full comparability with other ocean acidification data sets, the R package seacarb (Gattuso et al, 2024) was used to compute a complete and consistent set of carbonate system variables, as described by Nisumaa et al. (2010). In this dataset the original values were archived in addition with the recalculated parameters (see related PI). The date of carbonate chemistry calculation by seacarb is 2025-10-31."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.987144",
+    "https://doi.org/10.1594/pangaea.987144"
+  ],
+  "dct_issued_s": "2025-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.987144\"}",
+  "dct_spatial_sm": [
+    "Eagle Bay, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "ImageJ software",
+    "pH, total scale",
+    "pH meter, HANNA Instruments, Quebec, Canada, HI8424",
+    "Percent of time",
+    "Experiment",
+    "Temperature probe, HANNA Instruments, Quebec, Canada, HI1230B",
+    "Single species",
+    "North Pacific",
+    "Bottles or small containers/Aquaria (&lt;20 L)",
+    "Species, unique identification",
+    "Coast and continental shelf",
+    "Carbon dioxide",
+    "Hand net",
+    "Exposure time",
+    "Animalia",
+    "Partial pressure of carbon dioxide (water) at sea surface temperature (wet air)",
+    "Laboratory experiment",
+    "Arthropoda",
+    "Date/time analysis, experiment",
+    "Volume",
+    "Longitude of event 2",
+    "Latitude of event 2",
+    "Proportion",
+    "Cell surface area",
+    "Fugacity of carbon dioxide (water) at sea surface temperature (wet air)",
+    "pH, NBS scale",
+    "Calcite saturation state",
+    "Behaviour",
+    "Aragonite saturation state",
+    "Salinity",
+    "Date/Time of event",
+    "Other studied parameter or process",
+    "Carbonate ion",
+    "Alkalinity, total",
+    "Benthos",
+    "Species, unique identification (Semantic URI)",
+    "Calculated using seacarb after Nisumaa et al. (2010)",
+    "Ocean acidification",
+    "Type of study",
+    "Hemigrapsus oregonensis",
+    "Temperature, water",
+    "Bicarbonate ion",
+    "Species, unique identification (URI)",
+    "Fluorescence intensity",
+    "Ocean Acidification International Coordination Centre (OA-ICC)",
+    "Time in seconds",
+    "Carbon, inorganic, dissolved",
+    "Temperate",
+    "Salinity meter, HANNA Instruments, Quebec, Canada, HI98319",
+    "Experimental treatment",
+    "CO2 analyzer, QUBIT Systems, Ontario, Canada), S157-P",
+    "Dissolved Inorganic Analyzer, LI-COR Inc, Lincoln, NE, USA, LI-5350",
+    "Benthic animals",
+    "Event label",
+    "Carbonate system computation flag"
+  ],
+  "dct_title_s": "Seawater carbonate chemistry and olfactory behaviour of the yellow shore crab, Hemigrapsus oregonensis",
+  "gbl_mdModified_dt": "2026-05-20T01:19:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "800c7c6c-048a-554e-befa-576427d37b37",
+  "locn_geometry": "ENVELOPE(-125.1462322, -125.1462222, 48.83372222, 48.833712219999995)",
+  "schema_provider_s": "PANGAEA"
+}

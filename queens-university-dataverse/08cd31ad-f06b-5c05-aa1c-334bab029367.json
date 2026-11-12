@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Object Detection",
+    "Physical Adversarial Samples",
+    "Adversarial Defense",
+    "Datasets and Evaluation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Safarzadehvahed, Mahdieh (Queen's University. School of Computing).",
+    "Zulkernine, Mohammad (School of Computing, Queen's University, Queen's University. School of Computing).",
+    "Marques de Araujo, Paulo Ricardo (Queen's University. School of Computing).",
+    "Givigi, Sidney (Queen's University. School of Computing)."
+  ],
+  "dct_description_sm": [
+    "The IPRPAS dataset is designed to evaluate Object Detection Models (ODMs) against Resembling Physical Adversarial Samples (RPAS).\nWe present Images and Point Clouds of Resembling Physical Adversarial Samples (IPRPAS), a collection of annotated paired images and point clouds of printed, displayed, or projected RPASs in both indoor and outdoor scenarios. IPRPAS includes various common driving objects such as cars, traffic signs, traffic lights, and persons under different weather conditions, positions, distances, lighting conditions, and viewing angles. The dataset contains images from both left and right cameras, 3D point clouds in multiple formats (.pcd, .bin, .ply), object labels, and calibration files."
+  ],
+  "dct_identifier_sm": [
+    "869565",
+    "https://doi.org/10.5683/SP3/O8DLSU"
+  ],
+  "dct_issued_s": "2025-01-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/O8DLSU\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science",
+    "Engineering"
+  ],
+  "dct_title_s": "IPRPAS: A Dataset of Resembling Physical Adversarial Samples to Assess Object Detection in Intelligent Vehicles",
+  "gbl_mdModified_dt": "2025-03-11T17:46:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "08cd31ad-f06b-5c05-aa1c-334bab029367",
+  "schema_provider_s": "Queen's University Dataverse"
+}

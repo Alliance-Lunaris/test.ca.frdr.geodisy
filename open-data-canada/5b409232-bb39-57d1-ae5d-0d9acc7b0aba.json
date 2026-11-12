@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-137.631274, -122.84368, 55.979346, 47.729632)",
+  "dcat_keyword_sm": [
+    "Débarquements",
+    "Fishing",
+    "Mollusques et crustacés",
+    "Groundfish",
+    "Poisson de fond",
+    "Pêche",
+    "Landings",
+    "Commercial fisheries",
+    "Pêcheries",
+    "Shellfish",
+    "Fisheries",
+    "Pêches commerciales"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données carroyées du MPO sur la pêche commerciale – Diverses années"
+  ],
+  "dct_creator_sm": [
+    "Kevin Yang."
+  ],
+  "dct_description_sm": [
+    "These datasets show the general spatial distribution of commercial fishing harvest and landed values by fishery on a 1km x 1km planning grid. They aggregate key statistics around fleet specific fishing activity and catch in British Columbia (BC) within the exclusive economic zone (EEZ). These gridded data describe the annual average landed weight (Rounded KGs), and landed catch values (CAD $2016) of the subject fishery over the period. The data represented were created from logbook records and matched to prices from fish slips submitted to DFO by participants of BC’s commercial fishing fleets. The dataset is comprised of an aggregate of all species over 10, 9, or 5 years of fishing seasons, depending on the fishery. \n\nTo preserve potentially proprietary information, a privacy filtering Rule of Five has been applied to each planning unit (each 1km x 1km planning unit). If any planning units do not meet this minimum of 5 unique vessels/unique identifiers during the time span then they are flagged as being filtered and an average of all filtered planning units is applied.\n\nThe accompanying GeoDB contains two data layers, “all_fisheries_filtered_gridded “, which includes all of the commercial fisheries data in 1km x 1km grids, and “DFO_marine_bioregions_NSB_subregions”, which includes polygon feature boundaries for the federal marine bioregions and Northern Shelf bioregion sub-regions.\n\nThis dataset contains data for the following fisheries:\n- Bottom trawl (2012-2016)\n- Midwater trawl (2012-2016)\n- Shrimp by trawl (2007-2016)\n- Prawn trap (2007-2016)\n- Rockfish (2012-2016)\n- Sablefish (2007-2016)\n- Halibut (2007-2016)\n- Combo trips - halibut/sablefish (2007-2016)\n- Lingcod (2007-2016)\n- Green sea urchin (2006-2015)\n- Red sea urchin (2007-2015)\n- Sea cucumber (2008-2016)\n- Geoduck (2007-2015)",
+    "Ces ensembles de données montrent la répartition spatiale générale de la récolte de la pêche commerciale et des valeurs débarquées, par pêche, sur une grille de planification de 1 km x 1 km. Ils regroupent des statistiques clés sur les activités de pêche et les prises par flottille en Colombie-Britannique (C.-B.) dans la zone économique exclusive (ZEE). Ces données carroyées décrivent la moyenne annuelle du poids au débarquement (kg arrondis) et la valeur des prises débarquées ($CAD de 2016) de la pêche concernée au cours de la période. Les données représentées ont été créées à partir des enregistrements dans les journaux de bord et appariées aux prix figurant sur les talons de capture soumis au MPO par les participants des flottilles de pêche commerciale de la Colombie-Britannique. L’ensemble de données est constitué d’un agrégat de toutes les espèces sur 10, 9 ou 5 années de saisons de pêche, selon la pêche.\n\nAfin de préserver les renseignements potentiellement exclusifs, une règle de cinq a été appliquée à chaque unité de planification (chaque unité de planification de 1 km x 1 km) pour le filtre de confidentialité. Si une unité de planification ne respecte pas ce minimum de 5 navires/identificateurs uniques pendant la période considérée, elle est signalée comme étant filtrée et on applique une moyenne de toutes les unités de planification filtrées.\n\nLa base de données géospatiales d’accompagnement contient deux couches de données : “all_fisheries_filtered_gridded “, qui comprend toutes les données sur les pêches commerciales dans des grilles de 1 km x 1 km, et “DFO_marine_bioregions_NSB_subregions”, qui comprend les limites des polygones pour les biorégions marines fédérales et les sous-régions de la biorégion du plateau nord.\n\nCet ensemble de données contient des données pour les pêches suivantes :\n- Chalut de fond (2012 à 2016)\n- Chalut pélagique (2012 à 2016)\n- Crevette au chalut (2007 à 2016)\n- Casier à crevettes (2007 à 2016)\n- Sébaste (2012 à 2016)\n- Morue charbonnière (2007 à 2016)\n- Flétan (2007 à 2016)\n- Voyages combinés (flétan/morue charbonnière) (2007 à 2016)\n- Morue-lingue (2007 à 2016)\n- Oursin vert (2006 à 2015)\n- Oursin rouge (2007 à 2015)\n- Holothurie (2008 à 2016)\n- Panope (2007 à 2015)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a91e5a18-59f7-49ce-aa14-6f12c9f928ef"
+  ],
+  "dct_issued_s": "2022-08-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a91e5a18-59f7-49ce-aa14-6f12c9f928ef\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "DFO Gridded Commercial Fishing Data - Various Years",
+  "gbl_mdModified_dt": "2026-03-24T09:05:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5b409232-bb39-57d1-ae5d-0d9acc7b0aba",
+  "locn_geometry": "ENVELOPE(-137.631274, -122.84368, 55.979346, 47.729632)",
+  "schema_provider_s": "Open Data Canada"
+}

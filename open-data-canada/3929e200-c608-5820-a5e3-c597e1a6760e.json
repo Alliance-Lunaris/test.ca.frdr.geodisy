@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Observed Model",
+    "Province of Manitoba",
+    "Weather Models",
+    "HRDPA",
+    "SubBasins",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes observées dans le bassin (HRDPA - derniers 1 jour, 3 jours et 7 jours)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer depicts sub-basin average observed precipitation from the High Resolution Deterministic Precipitation Analysis (HRDPA). Offers insight into how much rain/snow actually fell across each watershed in the past observation period. Observation periods we are interested are for past 1 day, 3 days and 7 days.\n\nHRDPA is ECCC’s high-resolution precipitation analysis, merging gauge, radar, and HRDPS model data. This layer aggregates the final (or preliminary) HRDPA accumulations to sub-basin polygons. Each record indicates the average precipitation that truly occurred over each watershed, vital for verifying model forecasts, calibrating hydrological models, and conducting post-event analyses of flood or drought severity.",
+    "Cette couche polygonale représente les précipitations moyennes observées dans les sous-bassins à partir de l'analyse déterministe des précipitations à haute résolution (HRDPA). Donne un aperçu de la quantité de pluie/neige réellement tombée sur chaque bassin versant au cours de la dernière période d'observation. Les périodes d'observation qui nous intéressent concernent les derniers 1 jour, 3 jours et 7 jours.\n\nLe HRDPA est l'analyse des précipitations à haute résolution d'ECCC, qui fusionne les données de la jauge, du radar et du modèle HRDPS. Cette couche regroupe les accumulations HRDPA finales (ou préliminaires) en polygones de sous-bassin. Chaque enregistrement indique les précipitations moyennes qui se sont réellement produites sur chaque bassin versant, ce qui est essentiel pour vérifier les prévisions des modèles, calibrer les modèles hydrologiques et effectuer des analyses post-événements de la gravité des inondations ou des sécheresses.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d9e70be9-d6d1-06f0-c2f3-dbe131622fa9"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d9e70be9-d6d1-06f0-c2f3-dbe131622fa9\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Observed Basin-Average Accumulated Precipitation (HRDPA - Past 1 day, 3 days & 7 days)",
+  "gbl_mdModified_dt": "2026-07-29T11:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3929e200-c608-5820-a5e3-c597e1a6760e",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

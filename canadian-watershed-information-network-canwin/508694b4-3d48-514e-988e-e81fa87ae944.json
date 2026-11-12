@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.0, 21.0, 71.0, 43.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Geographic bathymetric grid data at 100 m x 100 m pixel resolution.\n\nDatum: WGS84\n\nCollaboration of Canada, the United States of America and the European Union as part of the Atlantic Ocean Research Alliance's second project under the Galway Statement. Project mapped the North Atlantic seafloor along a transect from Halifax, Canada to Tromsø, Norway to further the understanding of marine habitats, conservation and navigation. \n\nChief Scientist / Primary Investigator name: Paola Travaglini \n\nPlatform: CCGS Louis S. St- Laurent (Canadian heavy icebreaker)\n\nDevice 1 type: Multibeam echo-sounder (sonar)\n\nDevice 1 manufacturer: Kongsberg \n\nDevice 1 model: EM122, hull installed behind ice protection window \n\nData and Data format:\n\n100 m resolution grid of bathymetry\n\nBAG format: Bathymetric Attributed Grid Object\n\nNavigation and positioning:\n\n   Trimble GNSS receiver + antennas\n\n   Applanix POS/MV v5 inertial measuring system\n\n   Horizontal Datum: WGS84 (G1762) \n\nTidal correction:\n\nZero tide applied: tides are not well known for the major part of the data and tides over very deep water are generally negligible. \n\nSound Velocity Profile measurements:\n\nIn-situ sound velocity profiles were applied.\n\nNote on accuracy/S-44 survey standards:\n\nConsidering the intended output from this survey (IHO Order 1a - Areas shallower than 100 metres where under-keel clearance is less critical but features of concern to surface shipping may exist.) and using an average depth of 2000m as ‘d’ in the IHO Standard Equation - the allowable Total Vertical Uncertainty (TVU) must be < 26m which indeed the data has achieved (by comparison with overlapping datasets from other surveys/agency data).\n\nIHO Order 1a\n\nHorizontal positioning accuracy: 5.0 m + 5% of depth (95% Confidence level)(~105 m at a mean depth of 2000 m)\n\nVertical positioning accuracy: 2.5 m < 26 m  = Sqrt((0.5 m)^2+(0.013 x 2000 m)^2)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/981a18a3-6f0d-4109-b3d2-019589fad7c6"
+  ],
+  "dct_issued_s": "2017-06-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/981a18a3-6f0d-4109-b3d2-019589fad7c6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "CHS_LSSL_Galway2015 North_Atlantic_HFX_Tromso",
+  "gbl_mdModified_dt": "2026-10-07T17:01:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "508694b4-3d48-514e-988e-e81fa87ae944",
+  "locn_geometry": "ENVELOPE(-64.0, 21.0, 71.0, 43.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

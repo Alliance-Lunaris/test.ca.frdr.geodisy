@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays 84-hour accumulated precipitation forecasts from the Regional Deterministic Prediction System (RDPS), aggregated at the sub-basin level. This layer helps hydrologists, water resource managers, and emergency responders identify watersheds with potentially higher rainfall or snowfall, facilitating short-term flood risk analysis and operational planning.\n\nModel & Domain: The RDPS is Environment and Climate Change Canada’s regional numerical weather prediction model, running at ~10 km resolution to capture mesoscale weather patterns over Canada and adjacent regions. Forecast Integration: It produces short-range forecasts (up to 84 hours), updated 4 times daily with boundary conditions from the global GEM model (GDPS). Sub-Basin Aggregation: This layer averages forecasted precipitation across each sub-basin polygon, providing a convenient snapshot of expected accumulations for hydrological modeling and water management. Key Applications:Flood Forecasting – Identifying basins at risk of heavy runoff. Resource Allocation – Positioning crews and equipment in vulnerable watersheds. Planning – Adapting reservoir release schedules, urban drainage controls, and agricultural activities"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/96f7f50d-f3d7-a775-67e7-fa1d0cd295c2"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/96f7f50d-f3d7-a775-67e7-fa1d0cd295c2\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (RDPS - 84 hrs)",
+  "gbl_mdModified_dt": "2026-03-18T11:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "44d3ac7a-41da-55dd-9a92-6a6eac1e4b64",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

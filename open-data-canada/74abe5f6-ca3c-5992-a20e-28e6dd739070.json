@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.16023028, -57.56136972, 48.78665807, 44.28580691)",
+  "dcat_keyword_sm": [
+    "Egg production",
+    "Marine biology",
+    "Oceans",
+    "Mackerel",
+    "Production d'œufs",
+    "Maquereau",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Fisheries management",
+    "Biologie marine",
+    "Ressources halieutiques",
+    "Golfe du Saint-Laurent",
+    "Fisheries resources",
+    "Gestion des pêches",
+    "Pêcheries",
+    "Gulf of St. Lawrence",
+    "Océan",
+    "Fisheries",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Relevé Scientifique de Maquereau Bleu (Scomber scombrus) du Contingent Nord"
+  ],
+  "dct_creator_sm": [
+    "Caroline Lehoux."
+  ],
+  "dct_description_sm": [
+    "Since 1979, Fisheries and Oceans Canada has conducted near-annual mackerel egg surveys in the southern Gulf of St. Lawrence using a standardized methodology. This survey typically takes place over approximately 10 days in June and aims to quantify mackerel eggs, thereby contributing to the stock assessment of the northern contingent. Sampling is conducted at 66 fixed stations arranged in a predefined grid (see included image for station locations and names). Additional stations—following the same sampling methodology—have also been surveyed off of southwestern Newfoundland, eastern Cape Breton and south of Prince Edward Island, as well as in other regions. \n\nThe mackerel survey is often coordinated with the Atlantic Zone Monitoring Program (AZMP) for the Quebec region, which takes place around the same time using the same research vessel and similar equipment. While these two surveys are distinct, they are coordinated to complement each other.\n\nAt each station, a tow using 61 cm bongo nets (333 µm mesh size) is towed following a saw-tooth profile through the upper 50 m of the water column. Tows last approximately 10 minutes at a speed of roughly 2.5 knots. These tows target mackerel eggs and larvae but collect other species and plankton stages. The taxonomic identification and classification of the developmental stages of the samples are then carried out in the laboratory. The number of taxon counted varies between survey years, based on new species encountered and identified. Egg development stages (I–V) are recorded only for mackerel.\n\nThis dataset includes the records of all ichthyoplankton species sampled during the survey. It includes information for each sampling station, including gear specifications, species identifications, and life history stages. Each unique combination of COLLECTOR_STATION_NAME, COLLECTOR_EVENT_ID,  START_DATE, START_LAT and START_LON  represents a single sampling event, and all rows sharing this combination correspond to individual samples collected during that event.\n\nThe dataset covers the period from 1983 to 2024 and is updated annually as new data become available.\n\nIt is important to note that prior to 2023, nearly all species were systematically counted, with only a few exceptions where presence alone was recorded. However, since 2023, data collection has shifted to presence/absence for all species, except capelin larvae, herring larvae, and mackerel eggs and larvae, which continue to be counted.\n\nNote – raw data use with caution – please contact the author if you have any questions.\n\nThe data processing methods used for the stock assessment are described in detail in the following publication:\nLehoux, C., Van Beveren, E., and Plourde, S. 2024. Results of the Mackerel (Scomber scombrus L.) Egg Surveys Conducted in the Southern Gulf of St Lawrence from 1979 to 2022. DFO Can. Sci. Advis. Sec. Res. Doc. 2024/037. v + 47 p.\nhttps://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2024/2024_037-eng.html",
+    "Depuis 1979, Pêches et Océans Canada réalise presque chaque année des relevés d’œufs de maquereau dans le sud du Golfe du Saint-Laurent en utilisant une méthodologie standardisée. Ce relevé a généralement lieu sur une période d’environ 10 jours en juin et vise à quantifier les œufs de maquereau, contribuant ainsi à l’évaluation de stock du contingent nord. L’échantillonnage est effectué à 66 stations fixes disposées selon une grille prédéfinie (voir l’image incluse pour la position et les noms des stations). D’autres stations — suivant la même méthodologie d’échantillonnage — ont également été échantillonnées dans le sud-ouest de Terre-Neuve et au sud de l’Île-du-Prince-Édouard, ainsi que dans d’autres régions.\n\nLe relevé du maquereau est souvent coordonné avec le Programme de Monitorage de la Zone Atlantique (PMZA) pour la région du Québec, qui a lieu à la même période en utilisant le même navire de recherche et de l’équipement similaire. Bien que ces deux relevés soient distincts, ils sont organisés de manière complémentaire.\n\nÀ chaque station, un filet Bongo de 61 cm (avec mailles de 333 µm) est remorqué selon un profil en dents de scie dans les 50 premiers mètres de la colonne d’eau. Chaque trait dure environ 10 minutes à une vitesse d’environ 2,5 nœuds. Ces traits ciblent les œufs et les larves de maquereau, mais capturent d’autre espèces et stade de plancton. L’identification taxonomique et la classification des stades de développement des échantillons sont ensuite effectuées en laboratoire. Le nombre de taxon dénombré varie d’une année de relevé à l’autre, en fonction des nouvelles espèces rencontrées et identifiées. Les stades de développement des œufs (I à V) sont dénombrés uniquement pour le maquereau.\n\nCe jeu de données comprend les enregistrements de toutes les espèces d’ichtyoplancton échantillonnées pendant le relevé. Il contient des informations pour chaque station d’échantillonnage, incluant les spécifications de l’équipement, les identifications d’espèces et les stades développement. Chaque combinaison unique de NOM_STATION_COLLECTEUR, ID_EVENEMENT_COLLECTEUR, DATE_DEBUT, LAT_DEBUT et LON_DEBUT représente un événement d’échantillonnage, et toutes les lignes partageant cette combinaison correspondent aux échantillons individuels collectés lors de cet événement.\n\nLe jeu de données couvre la période de 1983 à 2024 et est mis à jour annuellement à mesure que de nouvelles données deviennent disponibles. \n\nIl est important de noter qu’avant 2023, presque toutes les espèces étaient systématiquement dénombrées, à l’exception de quelques cas où seule la présence était enregistrée. Cependant, depuis 2023, la collecte de données s’est limitée à la présence/absence pour toutes les espèces, sauf pour les larves de capelan, les larves de hareng et les œufs et larves de maquereau, qui continuent d’être dénombrés.\n\nRemarque – Utilisation des données brutes avec précaution – veuillez contacter l’auteure en cas de questions.\n\nLes méthodes de traitement des données utilisées pour l’évaluation du stock sont décrites en détail dans la publication suivante :Lehoux, C., Van Beveren, E., et Plourde, S. 2024. Résultats des relevés d’oeufs de maquereau (Scomber scombrus L.) dans le sud du golfe Saint-Laurent de 1979 à 2022. Secr. can. des avis sci. du MPO. Doc. de rech. 2024/037. v + 49 p.\nhttps://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2024/2024_037-fra.html"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e430541f-61f4-4bf4-939c-c1c325355c7d"
+  ],
+  "dct_issued_s": "2025-08-06",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e430541f-61f4-4bf4-939c-c1c325355c7d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Scientific Survey of the Northern Contingent Atlantic Mackerel (Scomber scombrus)",
+  "gbl_mdModified_dt": "2026-03-24T08:06:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "74abe5f6-ca3c-5992-a20e-28e6dd739070",
+  "locn_geometry": "ENVELOPE(-66.16023028, -57.56136972, 48.78665807, 44.28580691)",
+  "schema_provider_s": "Open Data Canada"
+}

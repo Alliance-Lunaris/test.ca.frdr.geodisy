@@ -1,0 +1,47 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lax, Gordon (Dalhousie University, University of British Columbia). ORCID: https://orcid.org/0000-0003-3986-3068",
+    "Kolisko, Martin (University of British Columbia, Czech Academy of Sciences, Academy of Sciences of the Czech Republic).",
+    "Eglit, Yana (Dalhousie University).",
+    "Lee, Won Je (Kyungnam University).",
+    "Yubuki, Naoji (University of Paris-Saclay).",
+    "Karnkowska, Anna (University of British Columbia, University of Warsaw).",
+    "Brian, Leander (University of British Columbia, University of British Columbia).",
+    "Burger, Gertraud (Université de Montréal).",
+    "Keeling, Patrick (University of British Columbia).",
+    "Simpson, Alastair (Dalhousie University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/deKL3tX3lqdV0ipUcI0CksVqt35VyQ38_3RrATI7NRY</p>\n<p><b>Storage size:</b> 393343545</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Euglenids are a well-known group of single-celled eukaryotes, with phototrophic, osmotrophic and phagotrophic members. Phagotrophs represent most of the phylogenetic diversity of euglenids, and gave rise to the phototrophs and osmotrophs, but their evolutionary relationships are poorly understood. Symbiontids, in contrast, are anaerobes that are alternatively inferred to be derived euglenids, or a separate euglenozoan group. Most phylogenetic studies of euglenids have examined the SSU rDNA gene only, which is often highly divergent. Also, many phagotrophic euglenids (and symbiontids) are uncultured, restricting collection of other molecular data. We generated transcriptome data for 28 taxa, mostly using a single-cell approach, and conducted the first multigene phylogenetic analyses of euglenids to include phagotrophs and symbiontids. Euglenids are recovered as monophyletic, with symbiontids forming an independent branch within Euglenozoa. Spirocuta, the clade of flexible euglenids that contains both the phototrophs (Euglenophyceae) and osmotrophs (Aphagea), is robustly resolved, with the ploeotid <em>Olkasia</em> as its sister group, forming the new taxon Olkaspira. Ploeotids are paraphyletic, although Ploeotiidae (represented by <em>Ploeotia</em> spp.), <em>Lentomonas</em>, and <em>Keelungia</em> form a robust clade (new taxon Alistosa). Petalomonadida branches robustly as sister to other euglenids in outgroup-rooted analyses. Within Spirocuta, Euglenophyceae is a robust clade that includes <em>Rapaza</em>, and Anisonemia is a well-supported monophyletic group containing Anisonemidae (<em>Anisonema</em> and <em>Dinema</em> spp.), ‘<em>Heteronema</em> II’ (represented by <em>H. vittatum</em>), and a clade of <em>Neometanema</em> plus Aphagea. Among ‘peranemid’ phagotrophs, <em>Chasmostoma</em> branches with included <em>Urceolus</em>, and <em>Peranema</em> with the undescribed ‘<em>Jenningsia</em> II’, while other relationships are weakly supported and consequently the closest sister group to Euglenophyceae remains unresolved. Our results are inconsistent with recent inferences that <em>Entosiphon</em> is the evolutionarily pivotal sister either to other euglenids, or to Spirocuta. At least three transitions between posterior and anterior flagellar gliding occurred in euglenids, with the phylogenetic positions and directions of those transitions remaining ambiguous.</p>",
+    "<b>Methods</b><br /><p>Single cells of phagotrophic euglenids were isolated into lysis buffer using hand-drawn glass pipettes and an inverted microscope. Subsequent cDNA generation followed Picelli et al. 2014 (SmartSeq2). Generated cDNA was then sequenced on either Illumina MiSeq (2x250bp PE) or HiSeq (2x150bp PE). Transcriptomes were assembled in a pipeline with rcorrector, trimmomatic, and rnaSPAdes. The phylogenomic analysis involved a pipeline published in Brown et al 2018 (also see Lax et al 2018), using 20 phylogenomic marker genes that were widely covered by most of the taxa analysed. All phylogenetic trees were generated with IQ-tree using LG+C60 or LG+C20 site-heterogeneous mixture models.</p>",
+    "<b>Usage notes</b><br /><p>Please see included README.txt for information.</p>"
+  ],
+  "dct_identifier_sm": [
+    "154197_150149",
+    "https://doi.org/10.5683/SP2/Z94ULR"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/Z94ULR\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Multigene phylogenetics of euglenids based on single-cell transcriptomics of diverse phagotrophs",
+  "gbl_mdModified_dt": "2021-05-19T21:35:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4555289a-5ebe-5b19-977f-3fac1c6ddead",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.25, -71.75, 46.65, 46.25)",
+  "dcat_keyword_sm": [
+    "HydroBudget model",
+    "Hydrogeology",
+    "R",
+    "Groundwater. Hydrogeology",
+    "Hydrogéologie",
+    "Recharge nappe",
+    "R (Langage de programmation)",
+    "Groundwater recharge",
+    "Eau souterraine--Alimentation",
+    "Recharge des aquifères souterrains"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dubois, Emmanuel (UQAM | Université du Québec à Montréal, EPFL, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-4896-6368",
+    "Larocque, Marie (UQAM | Université du Québec à Montréal, UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9906-3535",
+    "Gagne, Sylvain (UQAM | Université du Québec à Montréal).",
+    "Meyzonnat, Guillaume (UQAM | Université du Québec à Montréal)."
+  ],
+  "dct_description_sm": [
+    "Authors contributions:\nConceptualization: Emmanuel Dubois, Marie Larocque, Sylvain Gagné\nMethodology: Emmanuel Dubois, Marie Larocque, Sylvain Gagné, Guillaume Meyzonnat\nSofware: Emmanuel Dubois, Sylvain Gagné, Guillaume Meyzonnat\nVisualization, data curation, and formal analysis: Emmanuel Dubois\nWriting (original draft and review & editing): Emmanuel Dubois and Marie Larocque\nFunding acquisition and Supervision: Marie Larocque\n\nThe script was tested within the research team of Pr Larocque before making it publicly available.\n\nFor the application example of the Petite du Chene River, the climate data and river flow observations are provided for training purpose only and are not under a CC BY licence. Please refer to the access information section of the READ_ME.txt file or the TERMS tab for more detail.",
+    "HydroBudget (HB) is a spatially distributed groundwater recharge (GWR) model that computes a superficial water budget on grid cells with outputs aggregated into monthly time steps. It was developed as an accessible and computationally affordable model to simulate GWR over large areas (thousands of km2, regional-scale watersheds) and for long time periods (decades), in cold and humid climates.\nThe model is coded in R and was developed at UQAM by the team of Pr Marie Larocque’s research Chair (Water and land conservation) as part of a project funded by the Quebec Ministry of the Environment (Ministère de l’Environnement et de la Lutte contre les changements climatiques - MELCC). Results of GWR simulation over southern Quebec (Canada) with HB are presented in Dubois et al. (2021).\nLe model script is provided with an application example for the Petite du Chene River in southern Quebec and a User-guide.\nAs of July 2023, the further development of the HydroBudget model will be included in the rechaRge package. More information can be found here: https://www.epfl.ch/labs/lch/research/water-and-groundwater-management/recharge-an-r-package-for-integrated-groundwater-recharge-modelling-in-r/\nAdditionally, the development of the code can now be followed here: https://github.com/gwrecharge"
+  ],
+  "dct_identifier_sm": [
+    "234183",
+    "https://doi.org/10.5683/SP3/EUDV3H"
+  ],
+  "dct_issued_s": "2021-11-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EUDV3H\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "HydroBudget – Groundwater recharge model in R",
+  "gbl_mdModified_dt": "2023-07-26T19:46:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "50c4309b-4ebd-5103-b4f9-b55a6da3b4a8",
+  "locn_geometry": "ENVELOPE(-72.25, -71.75, 46.65, 46.25)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

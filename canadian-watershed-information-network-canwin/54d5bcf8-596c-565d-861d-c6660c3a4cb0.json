@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Eastern Population of the Harlequin Duck (Histrionicus histrionicus), breeds inland on rivers from northern New Brunswick to Nunavut, and winters in coastal areas from Newfoundland and Labrador to Maryland. In 2001, the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) downlisted the Harlequin Duck from “Endangered” to “Special Concern,” and in 2013 the species was re-assessed by COSEWIC and its status remained “Special Concern” (COSEWIC 2013). Harlequin Ducks tend to congregate in large groups in marine areas when moulting and wintering, making them susceptible to catastrophic events such as oil spills. These sea ducks are long-lived species with delayed breeding, which makes their populations slow to recover.\r\n\r\n\r\nThe Purple Sandpiper (Calidris maritima) is an arctic-breeding shorebird that winters in Atlantic Canada. While never assessed by COSEWIC, it has been upgraded from a low to high priority species in the Canadian Shorebird Conservation Plan (Hope et al. 2019). The reliability on trends for this species is low due to limited monitoring data, which highlights the need for increased monitoring. Purple Sandpipers and Harlequin Ducks occupy similar marine habitats during winter, allowing both species to be surveyed at the same time.\r\n\r\n\r\nThis dataset represents a compilation of dedicated Harlequin Duck (HADU) and Purple Sandpiper (PUSA) surveys in Atlantic Canada. Surveys were conducted by land, boat, helicopter, and plane, and range from September 1966 to 2024. Most surveys were led by the Canadian Wildlife Service, with collaboration from the provinces of Nova Scotia and New Brunswick. As future HADU or PUSA surveys are performed, they will be added to this database. Survey conditions are included in a separate file from the observations, and the observations are provided as both a CSV file and geospatial points layer. A geospatial polylines layer is included to measure survey coverage in Atlantic Canada. To request additional survey data for these species, please contact the Canadian Wildlife Service.\r\n\r\n\r\nCOSEWIC. 2013. COSEWIC assessment and status report on the Harlequin Duck Histrionicus histrionicus Eastern population in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. ix + 38 pp.\r\n\r\n\r\nHope, D.D, C. Pekarik, M.C. Drever, P.A. Smith, C. Gratto-Trevor, J. Paquet, Y. Aubry, G. Donaldson, C. Friis, K. Gurney, J. Rausch, A.E. McKellar & B. Andres. 2019. Shorebirds of conservation concern in Canada – 2019. Wader Study 126(2): 88–100."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e2587cf-303b-410e-b549-e7d42a8646c3"
+  ],
+  "dct_issued_s": "2025-04-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5e2587cf-303b-410e-b549-e7d42a8646c3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Harlequin Duck and Purple Sandpiper Survey Data Collection",
+  "gbl_mdModified_dt": "2025-04-15T17:10:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "54d5bcf8-596c-565d-861d-c6660c3a4cb0",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0066, -88.9992, 59.9983, 49.0016)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Government information",
+    "Government",
+    "Section",
+    "Original Survey",
+    "Province of Manitoba",
+    "River lot",
+    "canada",
+    "Manitoba",
+    "Legal Description"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Descriptions légales originales de l'enquête manitobaine"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "Feature layer depicting the centre of quarter sections, parish lots and others in Manitoba. The purpose of this layer is to provide search criteria for Manitoba legal descriptions.  \n  \n  This feature layer is comprised of point locations that represent the centre of the bounds of the corresponding legal parcel. The types of legal descriptions include quarter sections (D.L.S.), river lots, parish lots, wood lots, outer two mile lots, and settlement lots. The point may not fall exactly on the centre of the legal parcel of land. This feature layer is meant as a search tool to locate the general location of the given legal description and it may not be exact. The points were initially derived from a variety of sources. Most of the points came from the Southern and Northern Grid of DLS section boundaries created by Sustainable Development. Fields included (Alias (Field Name): Field Description) OBJECTID (OBJECTID_1): Sequential unique whole numbers that area automatically generated Informal Legal Description (LEGAL_DESC): The informal legal description (No leading zeros on numbers). Formal Legal Description (LEGAL_DESC0): The formal legal description (Leading zeros on numbers). Type (TYPE): The type of legal division ('Quarter' = Quarter section, 'RL' = River lot, 'Lot' = Township lot, 'OT' = Outer two mile lot, 'PL' = Parish lot, 'SL' = Settlement lot, 'WL' = Wood lot). Quarter (QUARTER): Which DLS quarter section the point is referencing (NE, NW, SE or SW meaning respectfully North-east, North-west, South-east or South-west) Section (SECTION): The DLS section the point is referencing (1-36). Township (TOWNSHIP): The DLS township the point is referencing. Range (RANGE): The DLS range the point is referencing. Lot No. (LOT_NO): The lot number of the corresponding river, settlement, township, outer two mile or parish lot. Meridian (MERIDIAN): The meridian of the section (East 1, East 2 or West 1). Parish Name (PARISH_NAME): The name of the parish that the lot belongs to. Range Addition (RANGEADD): The added text for specific range values (if applicable).",
+    "Couche d'entités représentant le centre des quartiers, des lots paroissiaux et d'autres parcelles du Manitoba. Le but de cette couche est de fournir des critères de recherche pour les descriptions légales du Manitoba.  \n  \n  Cette couche d'entités comprend des emplacements de points qui représentent le centre des limites de la parcelle légale correspondante. Les types de descriptions légales comprennent les quarts de section (D.L.S.), les lots fluviaux, les lots paroissiaux, les lots boisés, les lots extérieurs de deux milles et les lots de peuplement. Le point peut ne pas se situer exactement au centre de la parcelle de terrain légale. Cette couche d'entités est conçue comme un outil de recherche permettant de localiser l'emplacement général de la description légale donnée et elle peut ne pas être exacte. Les points ont été initialement dérivés de diverses sources. La plupart des points provenaient de la grille sud et nord des limites des sections DLS créée par le développement durable. Champs inclus (Alias (nom du champ) : Description du champ) OBJECTID (OBJECTID_1) : Nombres entiers uniques séquentiels qui sont générés automatiquement Description légale informelle (LEGAL_DESC) : La description légale informelle (pas de zéros en tête des chiffres). Description légale formelle (LEGAL_DESC0) : description légale officielle (zéros en tête des chiffres). Type (TYPE) : Type de division légale (« Quartier » = quart de section, « RL » = lot fluvial, « Lot » = lot de canton, « OT » = terrain extérieur de deux milles, « PL » = lot paroissial, « SL » = lot de peuplement, « WL » = lot boisé). Quartier (TRIMESTRE) : À quel quart de section DLS le point fait référence (NE, NW, SE ou SW, ce qui signifie respectivement nord-est, nord-ouest, sud-est ou sud-ouest) Section (SECTION) : La section DLS à laquelle le point fait référence (1-36). Canton (CANTON) : Le canton DLS auquel le point fait référence. Plage (RANGE) : plage DLS à laquelle le point fait référence. Numéro de lot (LOT_NO) : Numéro de lot de la rivière, de la colonie, du canton, du terrain de deux milles extérieurs ou de la paroisse correspondants. Méridien (MÉRIDIEN) : méridien de la section (Est 1, Est 2 ou Ouest 1). Nom de la paroisse (PARISH_NAME) : nom de la paroisse à laquelle appartient le lot. Ajout de plage (RANGEADD) : texte ajouté pour des valeurs de plage spécifiques (le cas échéant).  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6c85b7ba-8211-c5ad-8606-6cad0afe4b61"
+  ],
+  "dct_issued_s": "2019-10-09",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6c85b7ba-8211-c5ad-8606-6cad0afe4b61\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Manitoba Original Survey Legal Descriptions",
+  "gbl_mdModified_dt": "2025-03-19T12:10:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2285d628-369c-5ed3-ae34-334a0d173a7d",
+  "locn_geometry": "ENVELOPE(-102.0066, -88.9992, 59.9983, 49.0016)",
+  "schema_provider_s": "Open Data Canada"
+}

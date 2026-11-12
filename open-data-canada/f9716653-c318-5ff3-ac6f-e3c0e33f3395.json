@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "dcat_keyword_sm": [
+    "Eaux souterraines",
+    "Water surface",
+    "Glace",
+    "Land surface",
+    "Hydropattern",
+    "Land Use",
+    "Eau de surface",
+    "Land Cover",
+    "Surface water",
+    "hydrosphère",
+    "Hydrosphere",
+    "Utilisation des Terres",
+    "Paysages",
+    "Hydropattern",
+    "Landscapes",
+    "Couverture des Terres",
+    "Earth Sciences",
+    "Sciences de la Terre",
+    "Surface de l'eau",
+    "Cours d'eau",
+    "Ground Water",
+    "Ice",
+    "Rivers",
+    "Surface émergée"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mosaïque du Canada créée à l’aide de LANDSAT d’après la réflectance au sommet de l’atmosphère vers 2010"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Landsat Thematic Mapper (TM) and Enhanced Thematic Mapper (ETM+) sensors were used to generate the circa 2010 Mosaic of Canada at 30 m spatial resolution. All scenes were processed to Standard Terrain Correction Level 1T by the United States Geological Survey (USGS). Further processing performed by the Canada Centre for Remote Sensing  included conversion of sensor measurements to top of atmosphere reflectance, cloud and cloud shadow detection, re-projection, selection of best measurements, mosaic generation ,noise removal and quality control. To provide a clear sky measurement for each location in Canada, data from the years 2009, 2010, and 2011 were used, but 2010 was preferentially selected. Bands 3 (0.63-0.69 µm), 4 (0.76-0.90 µm), 5 (1.55-1.75 µm), and 7 (2.08-2.35 µm) are provided in this version as significant atmosphere effects strongly limit the quality of the blue (0.45-0.52 µm) and green (0.52-0.60 µm) bands. Multi-criteria compositing was used for the selection of the most representative pixel. For ETM+ onboard Landsat 7 a scan line malfunction caused missing lines of data in all scenes collected after May 2003. Atmosphere and target variability between scenes cause these lines to have significant radiometric differences in some cases. A Fourier transformation approach was applied to correct this occurrence. This mosaic was developed for land cover and biophysical mapping applications across Canada. Other applications of these data are also possible, but should consider the temporal and spectral limitations of the product. Research to enhance the spatial, spectral and temporal aspects are in development for future versions of moderate resolution products from historical Landsat sensors, Landsat 8, and Sentinel 2 data.",
+    "Les capteurs d’images du Thematic Mapper (TM) et de l’Enhanced Thematic Mapper (ETM+) du satellite LANDSAT ont été utilisés pour générer la mosaïque du Canada vers 2010, avec une résolution spatiale de 30 m. Toutes les scènes ont été traitées en fonction d’un niveau de correction de terrain standard 1T par le United States Geological Survey (USGS). Les autres traitements effectués par le Centre canadien de télédétection englobaient la conversion des mesures prises par les capteurs de la réflectance au sommet de l’atmosphère, la détection des nuages et des ombres de nuage, la reprojection, la sélection des meilleures mesures, la génération d’une mosaïque, l’élimination du bruit et le contrôle de la qualité. On a privilégié les données de l’année 2010, mais celles des années 2009 et 2011 ont également été utilisées pour fournir une mesure du ciel dégagé à chaque emplacement du Canada. Les bandes 3 (0,63-0,69 µm), 4 (0,76-0,90 µm), 5 (1,55-1,75 µm) et 7 (2,08-2,35 µm) sont fournies dans cette version, car les effets considérables de l’atmosphère limitent  de façon importante la qualité des bandes bleue (0,45-0,52 µm) et verte (0,52-0,60 µm). La composition à critères multiples a été utilisée en vue de la sélection du pixel le plus représentatif. Pour le capteur embarqué ETM+ de Landsat 7, une défaillance du balayage linéaire est responsable de l’absence de certaines lignes de données dans toutes les scènes recueillies après le mois de mai 2003. La variabilité de l’atmosphère et des cibles entre les scènes fait en sorte que ces lignes entrainent dans certains cas d’importants écarts radiométriques. Une formule reposant sur la transformée de Fourier a été appliquée pour corriger cette situation. Cette mosaïque a été préparée pour des applications touchant à la couverture terrestre et à la cartographie biophysique des différentes régions du Canada. Ces données peuvent aussi se prêter à d’autres applications, mais il faudra tenir compte des contraintes spectrales et temporelles du produit. Des recherches sont en cours afin d’améliorer les aspects spectraux et spatio-temporels des versions à venir de produits à résolution moyenne découlant de données historiques recueillies au moyen des capteurs LANDSAT et des satellites LANDSAT 8 et Sentinel 2."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/16052985-5af8-e991-40d5-6afbc3a90875"
+  ],
+  "dct_issued_s": "2018-02-16",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/16052985-5af8-e991-40d5-6afbc3a90875\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Landsat Circa 2010 Top of Atmosphere Reflectance Mosaic of Canada",
+  "gbl_mdModified_dt": "2026-04-29T18:44:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f9716653-c318-5ff3-ac6f-e3c0e33f3395",
+  "locn_geometry": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "schema_provider_s": "Open Data Canada"
+}

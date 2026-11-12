@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Neurodevelopmental disorders, Phenotypic reversibility, Temporal windows of gene function, Auxin-Inducible Degradation, Caenorhabditis elegans, Habituation, Multi-Worm Tracker https://sourceforge.net/projects/mwt/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kepler, Lexis D (University of British Columbia).",
+    "McDiarmid, Troy A (University of British Columbia). ORCID: https://orcid.org/0000-0002-4893-9733",
+    "Rankin, Catharine H (University of British Columbia). ORCID: https://orcid.org/0000-0002-1781-0654"
+  ],
+  "dct_description_sm": [
+    "The authors thank Dr. Kota Mizumoto for the rab-3p::TIR1 strain that was used for neuron specific degradation and the CGC (funded by National Institute of Health Office of Research Infrastructure Programs, P40 OD010440) for other strains used within this research. This project was supported by a Canadian Institutes of Health Research (CIHR) Doctoral Research Award to L.D.K; a Canadian Institutes of Health Research (CIHR) Doctoral Research Award to T.A.M.; and a CIHR project grant (CIHR MOP PJT-165947) to C.H.R.",
+    "<p>Raw and processed data for “Rapid Assessment of the Temporal Function and Phenotypic Reversibility of Neurodevelopmental Disorder Risk Genes in C. elegans”</p>\n<ul>\n<li>Preprint (BioRxiv): <a href=\"https://doi.org/10.1101/2021.10.21.465355\" class=\"uri\">https://doi.org/10.1101/2021.10.21.465355</a></li>\n<li>Analysis source code repository (Github): <a href=\"https://github.com/troymcdiarmid/reversibility/\" class=\"uri\">https://github.com/troymcdiarmid/reversibility/</a></li>\n</ul>\n<h4 id=\"abstract\">Abstract:</h4>\n<p>Hundreds of genes have been implicated in neurodevelopmental disorders. Previous studies have indicated that some phenotypes caused by decreased developmental function of select risk genes can be reversed by restoring gene function in adulthood. However, very few risk genes have been assessed for adult reversibility. We developed a strategy to rapidly assess the temporal requirements and phenotypic reversibility of neurodevelopmental disorder risk gene orthologs using a conditional protein degradation system and machine vision phenotypic profiling in Caenorhabditis elegans. Using this approach, we measured the effects of degrading and re- expressing orthologs of 3 neurodevelopmental risk genes EBF3, BRN3A, and DYNC1H1 across 30 morphological, locomotor, sensory, and learning phenotypes at multiple timepoints throughout development. We found some degree of phenotypic reversibility was possible for each gene studied. However, the temporal requirements of gene function and degree of phenotypic reversibility varied by gene and phenotype. The data reflects the dynamic nature of gene function and the importance of using multiple time windows of degradation and re-expression to understand the many roles a gene can play over developmental time. This work also demonstrates a strategy of using a high-throughput model system to investigate temporal requirements of gene function across a large number of phenotypes to rapidly prioritize neurodevelopmental disorder genes for re-expression studies in other organisms.</p>\n<p>Further details about this project, including a web version README.md file included here and the R code necessary to regenerate all of the figures and formal analyses in the manuscript using the data in this repository can be found at: https://github.com/troymcdiarmid/reversibility The R packages required for this project are listed at the beginning of each markdown at the github repository. The code in each markdown is used to analyze the data from one gene (several experiments per gene). See the bioRxiv for further details about the project.</p>\n<p>The “Reversibility” folder includes all of the raw and processed Multi-Worm Tracker (https://sourceforge.net/projects/mwt/) output files. The files are organized to have one folder per gene, each with several experiments per gene. Each experiment consists of multiple raw Multi-Worm-Tracker output files pertaining to each individual plate of worms that was tracker (these are the time stamped files). The organized morphology summary (data.smorph) and reversal feature summaries (data.srev) are also included in case the user does not want to regenerate them using the code at the associated github (link included above). (2022-03-15)</p>\n<p>For questions or comments specific to this repository, please contact:</p>\n<p>Troy A. McDiarmid - GitHub - <span class=\"citation\" data-cites=\"Troy_McD_UBC\">@Troy_McD_UBC</span></p>\n<p>Additional questions about the project, such as further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Catharine H. Rankin (crankin@psych.ubc.ca).</p>"
+  ],
+  "dct_identifier_sm": [
+    "309709_1226260_73901",
+    "https://doi.org/10.5683/SP3/NOZWXZ"
+  ],
+  "dct_issued_s": "2022-03-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NOZWXZ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Rapid Assessment of the Temporal Function and Phenotypic Reversibility of Neurodevelopmental Disorder Risk Genes in C. elegans",
+  "gbl_mdModified_dt": "2022-03-16T18:47:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "86760c0b-bf89-580f-bec7-1a7da2e603a2",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

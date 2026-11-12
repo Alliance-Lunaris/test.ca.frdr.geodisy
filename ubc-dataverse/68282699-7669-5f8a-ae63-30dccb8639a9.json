@@ -1,0 +1,40 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Broadley, Kate (University of Alberta). ORCID: https://orcid.org/0000-0003-1788-9187",
+    "Burton, Cole (University of British Columbia).",
+    "Boutin, Stan (University of Alberta).",
+    "Avgar, Tal (Utah State University, The University of British Columbia Okanagan, Biodiversity Pathways Ltd.). ORCID: https://orcid.org/0000-0002-8764-6976"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/HrBRnK5k41XkbNCUm4oyd00-WSMfjwQc4WN-1alEdQw</p>\n<p><b>Storage size:</b> 65916</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Camera-traps (CTs) are an increasingly popular tool for wildlife survey and monitoring. Estimating relative abundance in unmarked species is often done using detection rate as an index of relative abundance, which assumes a positive linear relationship with true abundance. This assumption may be violated if movement behavior varies with density, but the degree to which movement is density-dependent across taxa is unclear. The potential confounding of population-level relative abundance indices by movement depends on how regularly, and by what magnitude, movement rate and home-range size vary with density. We conducted a systematic review and meta-analysis to quantify relationships between movement rate, home range size, and density, across terrestrial mammalian taxa. We then simulated animal movements and CT sampling to test the effect of contrasting movement scenarios on CT detection rates. Overall, movement rate and home range size were negatively correlated with density and positively correlated with one another. The strength of the relationships varied significantly between taxa and populations.  In simulations, detection rates were related to true abundance but underestimated change, particularly for slower moving species with small home ranges. In situations where animal space use changes markedly with density, we estimate that up to thirty percent of a true change in abundance may be missed due to the confounding effect of movement, making trend estimation more difficult. The common assumption that movement remains constant across densities is therefore violated across a wide range of mammal species. When studying unmarked species using CT detection rates, researchers and managers should consider that such indices of relative abundance reflect both density and movement. Practitioners interpreting changes in detection rates should be aware that observed differences may be biased low relative to true changes in abundance, and that further information on animal movement may be required to make robust inferences on population trends.</p>",
+    "<b>Usage notes</b><br /><p>Data files are contained in the zipped folder <strong>BroadleyEtAl_EcolEvol_Data.zip</strong></p>\r\n\r\n<p><strong>MetaPercent_HRMovt.csv, MetaPercent_DensMovt.csv, and MetaPercent_DensHR.csv, </strong>contain data used to graph changes in density, movement rate, and home range size. Indicated are the author, species, each parameter as a percentage of that of the reference population (where the reference is the population with the lowest value for the parameter displayed on the x-axis), and the x-axis parameter as a fold change.</p>\r\n\r\n<p><strong>MetaForest_HRMovt.csv, MetaForest_DensMovt.csv, and MetaForest_DensHR.csv, </strong>contain data used to conduct the meta analysis (i.e., data for each study that provided sufficient statistical information for the given parameters).  Indicated are the author and species of the study, percent change in the given parameters for the two populations considered, N, test statistic type and value, and the standardized effect size (as a correlation coefficient).</p>\r\n\r\n<p><strong>SimulatedHitrateData.csv </strong>contains outputs from the movement simulations as described in the paper. The title of each column indicates the number of individuals, the scenario speed, the scenario home range size, and whether the data below represents the sum encounters with cameras, or the hitrate (detections/d). Each row represents an additional instance of the simulation.</p>"
+  ],
+  "dct_identifier_sm": [
+    "151690_150149",
+    "https://doi.org/10.5683/SP2/KIEGTP"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KIEGTP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Density-dependent space use affects interpretation of camera trap detection rates",
+  "gbl_mdModified_dt": "2021-05-19T23:34:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "68282699-7669-5f8a-ae63-30dccb8639a9",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

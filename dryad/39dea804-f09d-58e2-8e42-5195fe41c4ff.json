@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Full-sib families",
+    "Genomic selection",
+    "Exome Capture",
+    "Douglas-fir",
+    "Predictive model",
+    "Pseudotsuga menziesii Mirb. (Franco)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Frances R., Thistlethwaite (University of British Columbia).",
+    "Blaise, Ratcliffe (University of British Columbia).",
+    "Jaroslav, Klápště (University of British Columbia).",
+    "Ilga, Porth (Université Laval, University of British Columbia).",
+    "Charles, Chen (Oklahoma State University).",
+    "Michael U., Stoehr (Ministry of Forests).",
+    "Yousry A., El-Kassaby (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Background\r\nGenomic selection (GS) can offer unprecedented gains, in terms of cost efficiency and generation turnover, to forest tree selective breeding; especially for late expressing and low heritability traits. Here, we used: 1) exome capture as a genotyping platform for 1372 Douglas-fir trees representing 37 full-sib families growing on three sites in British Columbia, Canada and 2) height growth and wood density (EBVs), and deregressed estimated breeding values (DEBVs) as phenotypes. Representing models with (EBVs) and without (DEBVs) pedigree structure. Ridge regression best linear unbiased predictor (RR-BLUP) and generalized ridge regression (GRR) were used to assess their predictive accuracies over space (within site, cross-sites, multi-site, and multi-site to single site) and time (age-age/ trait-trait).\r\nResults\r\nThe RR-BLUP and GRR models produced similar predictive accuracies across the studied traits. Within-site GS prediction accuracies with models trained on EBVs were high (RR-BLUP: 0.79–0.91 and GRR: 0.80–0.91), and were generally similar to the multi-site (RR-BLUP: 0.83–0.91, GRR: 0.83–0.91) and multi-site to single-site predictive accuracies (RR-BLUP: 0.79–0.92, GRR: 0.79–0.92). Cross-site predictions were surprisingly high, with predictive accuracies within a similar range (RR-BLUP: 0.79–0.92, GRR: 0.78–0.91). Height at 12 years was deemed the earliest acceptable age at which accurate predictions can be made concerning future height (age-age) and wood density (trait-trait). Using DEBVs reduced the accuracies of all cross-validation procedures dramatically, indicating that the models were tracking pedigree (family means), rather than marker-QTL LD.\r\nConclusions\r\nWhile GS models’ prediction accuracies were high, the main driving force was the pedigree tracking rather than LD. It is likely that many more markers are needed to increase the chance of capturing the LD between causal genes and markers."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.vk048",
+    "https://doi.org/10.5061/dryad.vk048"
+  ],
+  "dct_issued_s": "2017-12-06",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.vk048\"}",
+  "dct_spatial_sm": [
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_title_s": "Data from: Genomic prediction accuracies in space and time for height and wood density of Douglas-fir using exome capture as the genotyping platform",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "39dea804-f09d-58e2-8e42-5195fe41c4ff",
+  "schema_provider_s": "Dryad"
+}

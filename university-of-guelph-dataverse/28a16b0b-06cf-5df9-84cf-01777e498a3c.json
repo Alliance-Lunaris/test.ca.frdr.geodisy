@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "biochemical simulations",
+    "dimers",
+    "monomers",
+    "protein folding",
+    "molecular dynamics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "De Moura, Dref (Department of Food Science. Ontario Agricultural College. University of Guelph and Biophysics Interdepartmental Group.).",
+    "Bryksa, Brian (Department of Food Science. Ontario Agricultural College. University of Guelph.). ORCID: https://orcid.org/0000-0001-5626-8012",
+    "Yada, Rickey (Department of Food Science. Ontario Agricultural College. University of Guelph and Biophysics Interdepartmental Group.)."
+  ],
+  "dct_description_sm": [
+    "<a href=\"https://www.gromacs.org/\">GROMACS</a> free and open-source software suite can be used to open and view the dataset files. All original files were created using GROMACS v 4.5. To resemble the MD trajectory files, use the GROMACS utility, \"trjcat\" with the supplied TPR files.",
+    "This study examines the underlying mechanics driving tertiary structure and quaternary conformational changes in silico of the saposin-like domain, the plant-specific insert, of a potato (Solanum tuberosum) aspartic protease as a function of pH. Umbrella sampling was used to determine the free energy change of dissociation of the plant-specific insert at acidic and neutral pH and revealed that a lower barrier to dissociation exists at neutral pH as compared to acidic pH. Furthermore, principal component analysis was used to characterize tertiary structure conformational changes at active (pH4.5)and neutral pH of monomeric plant-specific insert. The results indicate that the plant-specific insert may adopt a tertiary structure similar to the characteristic saposin-fold at neutral pH and suggests a potential new structural motif among saposin-like proteins at pH 4.5."
+  ],
+  "dct_identifier_sm": [
+    "349_139",
+    "https://doi.org/10.5683/SP3/KKTUEI"
+  ],
+  "dct_issued_s": "2014-07-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KKTUEI\"}",
+  "dct_rights_sm": [
+    "Users agree to use this dataset in accordance with the special permissions, citation requirements and conditions outlined within the dataset terms."
+  ],
+  "dct_spatial_sm": [
+    "Guelph, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Molecular dynamics simulations of the plant-specific insert dimer at pH 3.0",
+  "gbl_mdModified_dt": "2024-11-14T14:58:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "28a16b0b-06cf-5df9-84cf-01777e498a3c",
+  "pcdm_memberOf_sm": [
+    "Protein-protein interactions and folding dynamics of a plant aspartic protease saposin-like protein Dataverse"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

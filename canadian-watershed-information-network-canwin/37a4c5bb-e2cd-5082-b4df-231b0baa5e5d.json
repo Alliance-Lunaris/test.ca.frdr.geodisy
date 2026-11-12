@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The National Pollutant Release Inventory (NPRI) is Canada's public inventory of pollutant releases (to air, water and land), disposals and transfers for recycling.\n\r\n\rEach file contains data from 1993 to the latest reporting year. These CSV format datasets are in normalized or ‘list’ format and are optimized for pivot table analyses.\n\r\n\rHere is a description of each file: - The RELEASES file contains all substance release quantities. - The DISPOSALS file contains all on-site and off-site disposal quantities, including tailings and waste rock (TWR). - The TRANSFERS file contains all quantities transferred for recycling or treatment prior to disposal. - The COMMENTS file contains all the comments provided by facilities about substances included in their report. - The GEO LOCATIONS file contains complete geographic information for all facilities that have reported to the NPRI.\n\r\n\rPlease consult the following resources to enhance your analysis: - Guide on using and Interpreting NPRI Data: https://www.canada.ca/en/environment-climate-change/services/national-pollutant-release-inventory/using-interpreting-data.html - Access additional data from the NPRI, including datasets and mapping products: https://www.canada.ca/en/environment-climate-change/services/national-pollutant-release-inventory/tools-resources-data/exploredata.html\n\r\n\rSupplemental Information\n\r\n\rMore NPRI datasets and mapping products are available here: https://www.canada.ca/en/environment-climate-change/services/national-pollutant-release-inventory/tools-resources-data/access.html\n\r\n\r Supporting Projects: National Pollutant Release Inventory (NPRI)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/40e01423-7728-429c-ac9d-2954385ccdfb"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/40e01423-7728-429c-ac9d-2954385ccdfb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Bulk data files for all years – releases, disposals, transfers and facility locations",
+  "gbl_mdModified_dt": "2026-05-01T19:42:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "37a4c5bb-e2cd-5082-b4df-231b0baa5e5d",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

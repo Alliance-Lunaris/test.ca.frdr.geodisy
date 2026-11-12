@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This polygon layer shows the spatial distribution of forecasted accumulated precipitation across watershed sub‑basins using data derived from the Regional Ensemble Prediction System (REPS). In other words, it aggregates precipitation amounts—computed from processed REPS forecast output (converted from GRIB2 files into raster [TIF] format)—over defined watershed boundaries to provide a detailed view of expected rainfall over a typical 72‑hour forecast period. This information supports regional hydrological forecasting, flood risk analysis, and water resource management.\n\nREPS forecast data are first processed to extract the accumulated precipitation field (APCP) and converted into high‑resolution raster images. These “REPS APCP rasters” represent the spatial distribution of forecast precipitation (in millimeters) over the region. Next, using pre‑defined watershed or sub‑basin boundaries, zonal statistics are applied to compute the average precipitation for each sub‑basin. The final layer displays these averaged values as polygon features, highlighting variations in forecasted rainfall across different drainage areas. This approach helps users pinpoint regions that may receive higher or lower rainfall, thereby enhancing hydrological assessments and emergency planning."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fabc953a-5b67-11ff-7b8e-01cb96875d27"
+  ],
+  "dct_issued_s": "2025-06-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fabc953a-5b67-11ff-7b8e-01cb96875d27\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (REPS - 72 Hrs)",
+  "gbl_mdModified_dt": "2026-03-18T11:31:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "79996668-fd2b-557a-8417-cdfd49528aae",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

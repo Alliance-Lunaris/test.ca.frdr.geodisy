@@ -1,0 +1,67 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.001582, -110.004896, 60.000448, 48.996676)",
+  "dcat_keyword_sm": [
+    "RDIPR",
+    "ALBERTA",
+    "HABITAT",
+    "WETLAND",
+    "ECOLOGY",
+    "RED-DEER-INTEGRATED-PLANNING-REGION",
+    "FLOOD",
+    "NORTH-SASKATCHEWAN-INTEGRATED-PLANNING-REGION",
+    "LOWER-ATHABASCA-INTEGRATED-PLANNING-REGION",
+    "SOUTH-SASKATCHEWAN-INTEGRATED-PLANNING-REGION",
+    "RIPARIAN",
+    "Government information",
+    "UPPER-PEACE-INTEGRATED-PLANNING-REGION",
+    "UPPER-ATHABASCA-INTEGRATED-PLANNING-REGION",
+    "UAIPR",
+    "AQUATIC",
+    "STREAM",
+    "BIOTA",
+    "NSIPR",
+    "LPIPR",
+    "LOWER-PEACE-INTEGRATED-PLANNING-REGION",
+    "UPIPR",
+    "RIVER",
+    "SSIPR",
+    "DRAINAGE",
+    "SHORELINE",
+    "INLANDWATERS",
+    "LAIPR"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Lotic Riparian - Dérivé de l'ordre Strahler"
+  ],
+  "dct_creator_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta."
+  ],
+  "dct_description_sm": [
+    "This dataset is produced for the Government of Alberta and is available to the general public. Please consult the Distribution Information of this metadata for the appropriate contact to acquire this dataset. Riparian areas consist of the lands adjacent to streams, rivers, wetlands and lakes that are strongly influenced by the presence of water. They are often distinct from the surrounding landscape as the vegetation growth is very lush. These areas form a transition between dry land and open water and are characterized by the presence of hydrophilic vegetation and specific soil types. Riparian areas are usually very productive in terms of biomass and form critical wildlife habitat. Additionally, these areas often have standing water and are subjected to periodic flooding when high water levels fill the stream channel to the top of the bank. The term 'riparian' is derived from the Latin word for river bank. Riparian areas provide valuable food, shelter and travel corridors as well as an adjacent water source for wildlife and livestock. These zones are often densely vegetated and serve as stabilization against the erosive forces associated with lotic systems. Riparian areas provide filtration for surface runoff from the surrounding land and protect the water quality of flowing streams. They trap sediment and reduce the velocity of stream flow, thus reducing erosion in downstream areas. These areas provide detritus to their associated aquatic systems as well as a moderating effect on surface temperatures. The function of riparian areas in the landscape is regarded to be sufficiently critical that they are given special consideration in terms of the impact assessment resulting from human activities such as recreation, logging, oil and gas exploration, road construction and range management. Informatics Branch of Alberta Environment and Protected Areas, Government of Alberta has been assigned the task of developing a provincial map of riparian areas. This project represents the initial effort to map riparian areas for the province. The riparian areas map is intended as input into ALCES (A Landscape Cumulative Effects Simulator), which is software developed by Forem Technologies. ALCES is being used to project the cumulative effects of various types of human activity on the landscape. This is accomplished by generating aspatial snapshots of regions within the provincial landscape and assuming that the current level of human impact continues. The methodology involved creating variable buffers by Natural Region based on Strahler Order coding for streams that had been merged with the associated perennial lakes. Higher Strahler Order codes were associated with wider buffers and drier Natural Regions were associated with narrower buffers. The result was a geodatabase of polygons that were intended to represent potential lotic riparian areas but the accuracy was poor. Landsat information and the Base Features Digital Elevation Model were incorporated to a minimal degree as refinements to the coverage but did not result in any improvement in the spatial accuracy of the data. This dataset is not recommended for use in riparian analysis. The Lotic Riparian - Digital Elevation Model Derived dataset, which was released in October 2011, is a better representation of the location and extent of riparian areas.",
+    "Cet ensemble de données est produit pour le gouvernement de l'Alberta et est accessible au grand public. Veuillez consulter les informations de distribution de ces métadonnées pour connaître le contact approprié pour acquérir cet ensemble de données. Les zones riveraines comprennent les terres adjacentes aux ruisseaux, aux rivières, aux zones humides et aux lacs qui sont fortement influencées par la présence d'eau. Ils sont souvent distincts du paysage environnant car la végétation y est très luxuriante. Ces zones constituent une transition entre la terre ferme et l'eau libre et se caractérisent par la présence d'une végétation hydrophile et de types de sols spécifiques. Les zones riveraines sont généralement très productives en termes de biomasse et constituent un habitat faunique essentiel. De plus, ces zones ont souvent de l'eau stagnante et sont soumises à des inondations périodiques lorsque des niveaux d'eau élevés remplissent le chenal du ruisseau jusqu'au sommet de la rive. Le terme « riverain » est dérivé du mot latin désignant la rive d'un fleuve. Les zones riveraines fournissent de la nourriture, des abris et des couloirs de déplacement précieux, ainsi qu'une source d'eau adjacente pour la faune et le bétail. Ces zones sont souvent densément végétalisées et servent à stabiliser les systèmes lotiques contre les forces érosives. Les zones riveraines filtrent le ruissellement de surface provenant des terres environnantes et protègent la qualité de l'eau des cours d'eau. Ils piègent les sédiments et réduisent la vitesse du débit des cours d'eau, réduisant ainsi l'érosion dans les zones situées en aval. Ces zones fournissent des détritus aux systèmes aquatiques associés et ont un effet modérateur sur les températures de surface. La fonction des zones riveraines dans le paysage est considérée comme suffisamment critique pour faire l'objet d'une attention particulière en termes d'évaluation de l'impact résultant d'activités humaines telles que les loisirs, l'exploitation forestière, l'exploration pétrolière et gazière, la construction de routes et la gestion des parcours. La Direction de l'informatique de l'environnement et des aires protégées de l'Alberta du gouvernement de l'Alberta a été chargée d'élaborer une carte provinciale des zones riveraines. Ce projet représente l'effort initial visant à cartographier les zones riveraines de la province. La carte des zones riveraines est destinée à être saisie dans ALCES (A Landscape Cumulative Effects Simulator), un logiciel développé par Forem Technologies. ALCES est utilisé pour projeter les effets cumulatifs de différents types d'activités humaines sur le paysage. Ceci est réalisé en générant des instantanés spatiaux des régions du paysage provincial et en supposant que le niveau actuel d'impact humain se poursuit. La méthodologie impliquait la création de zones tampons variables par région naturelle sur la base du codage de l'ordre de Strahler pour les cours d'eau qui avaient été fusionnés avec les lacs pérennes associés. Les codes d'ordre de Strahler plus élevés étaient associés à des zones tampons plus larges et les régions naturelles plus sèches étaient associées à des zones tampons plus étroites. Le résultat a été une géodatabase de polygones destinée à représenter des zones riveraines lotiques potentielles, mais dont la précision était faible. Les informations Landsat et le modèle numérique d'élévation des caractéristiques de base ont été incorporés dans une mesure minimale pour affiner la couverture, mais n'ont entraîné aucune amélioration de la précision spatiale des données. L'utilisation de cet ensemble de données n'est pas recommandée pour l'analyse des zones riveraines. L'ensemble de données Lotic Riparian - Digital Elevation Model Derived, publié en octobre 2011, est une meilleure représentation de l'emplacement et de l'étendue des zones riveraines.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6808e6ac-bc44-4f48-a2fb-3f773531a1e0"
+  ],
+  "dct_issued_s": "2011-11-30",
+  "dct_publisher_sm": [
+    "Government of Alberta | Gouvernement de l'Alberta"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6808e6ac-bc44-4f48-a2fb-3f773531a1e0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Lotic Riparian - Strahler Order Derived",
+  "gbl_mdModified_dt": "2026-08-19T16:07:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "62255225-3b99-51a3-843f-657550ceedc5",
+  "locn_geometry": "ENVELOPE(-120.001582, -110.004896, 60.000448, 48.996676)",
+  "schema_provider_s": "Open Data Canada"
+}

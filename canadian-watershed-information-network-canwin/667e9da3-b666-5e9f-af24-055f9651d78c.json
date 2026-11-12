@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data contains information on active precipitation gauges in Ontario. These precipitation gauges: * measure how much rainfall/precipitation falls on the ground (mm) * are peripherals to hydrometric monitoring stations within the Ontario Hydrometric Network Rainfall and snowmelt are primary causes of flooding in Ontario. The lack of precipitation often causes low water and drought conditions. Data from the gauges is collected and maintained by the Surface Water Monitoring Centre (SWMC). The data supports SWMC and partner organization such as conservation authorities, on the local and provincial scale, with: * flood forecasting and warning * drought monitoring The SWMC transfers precipitation data to Environment and Climate Change Canada (ECCC). This happens through an automated process integrated into the SWMC corporate water and climate database. ECCC publishes and maintains a variety of datasets on their Meteorological Services of Canada Datamart, a publicly accessible source for meteorological and hydrological data. This data source has 24/7 operational service and provides support on a best effort basis during normal business hours. There are 30 days worth of precipitation data available on the MSC (Meteorological Services of Canada) Datamart. To access the data, input a date in the link. The links contained in the files will only work if you input a date within the past 30 days. The instructions below are for how to set up the link to access the data. __Setup the Link__ 1. Paste the link from either the Climate Stations or https://dd.weather.gc.ca/YYYYMMDD/WXO-DD/observations/swob-ml/partners/on_water. 2. Input the date to get the data. A section in the link is to identify the date in the format of “YYYYMMDD” (Y = year, M = month, D = day). The date must be within the past 30 days. 3. Download either the precipitation data (XML format) or stations (CSV format)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f7130012-beca-4de8-a57d-50c03ca323d0"
+  ],
+  "dct_issued_s": "2024-08-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f7130012-beca-4de8-a57d-50c03ca323d0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Precipitation data",
+  "gbl_mdModified_dt": "2025-08-13T13:11:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "667e9da3-b666-5e9f-af24-055f9651d78c",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

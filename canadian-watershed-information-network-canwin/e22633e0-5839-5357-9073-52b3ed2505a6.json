@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -122.0, 56.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset includes fifteen GeoTIFFs of Sea Surface Temperature (SST) organized into five distinct marine regions along Canada's Pacific coast, derived from Sentinel 3 satellite data for the period of April-September 2017. For each region, three GeoTIFFs are provided which represent the mean, maximum, and standard deviation values of SST (degrees Celcius). Jupyter notebooks with Python code used for data downloading and processing are also included for reference.\n\nThe primary objective of this dataset is to provide detailed, regional spatial information on SST for key areas of Canada's Pacific coast, including the nearshore environment. The data can be used for various applications including species distribution modelling.\n\nThis dataset is intended to fill the knowledge gap by providing high-resolution, spatially explicit regional SST data for Canada's Pacific coast. Existing datasets may not provide sufficient spatial resolution or may not include comprehensive statistical measures (mean, max, standard deviation) of SST for these specific areas.\n\nThe dataset is structured by region. For each of the five regions, a set of three related GeoTIFFs is provided, representing the mean, max, and standard deviation of SST. Within each regional set, the three layers share the same spatial reference system, resolution, and extent, making them suitable for direct use in analytical stacks (e.g., for species distribution models).\n\nThe Sentinel-3 satellites, part of the European Union's Copernicus Programme, are equipped with the Sea and Land Surface Temperature Radiometer (SLSTR) which measures SST among other parameters. The SST data products in this dataset are derived from Sentinel-3 satellite data.\n\nThe intent of the data is to represent the marine environment and so a mask that excludes land was applied during data download and extraction. The SST data products have been resampled using a bilinear interpolation from their native resolution to a 20 m resolution to provide more detailed spatial information."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/792f0243-ad14-41c0-b048-eca79a8efb37"
+  ],
+  "dct_issued_s": "2025-12-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/792f0243-ad14-41c0-b048-eca79a8efb37\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Pacific Coast Sentinel-3 Sea Surface Temperature",
+  "gbl_mdModified_dt": "2026-03-24T08:11:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e22633e0-5839-5357-9073-52b3ed2505a6",
+  "locn_geometry": "ENVELOPE(-135.0, -122.0, 56.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

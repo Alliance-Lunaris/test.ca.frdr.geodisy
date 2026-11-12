@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.13265424, -127.95907025, 51.69558793, 51.60936247)",
+  "dcat_keyword_sm": [
+    "other",
+    "hydrology",
+    "oceans",
+    "freshwater",
+    "watersheds",
+    "streamflow",
+    "inland-waters",
+    "discharge",
+    "stream",
+    "water",
+    "autre",
+    "river"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries chronologiques des rejets (2013-2017) — Île Calvert"
+  ],
+  "dct_creator_sm": [
+    "Korver, Maartje C. (Hakai Institute, McGill University).",
+    "Floyd, William (Malaspina College, Hakai Institute, British Columbia Ministry of Forests, Vancouver Island University).",
+    "Brunsting, Ray (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Version 3.0 of the discharge dataset is updated from the previous versions in the following ways: time-series data up to January 2018 are added; background calculations and stage data are no longer included (hence it is no longer called ‘stage-discharge time-series’); the datasheets have single tab, simple layouts compatible with programming languages; discharge rates (m3/s) as well as volumes (m3) are available; not only 5 minute, but also hourly, daily, monthly and yearly time formats are available. Furthermore, data analysis and rating curve plotting methods have been adapted, as described in detail below.",
+    "La version 3.0 de l'ensemble de données sur les rejets est mise à jour par rapport aux versions précédentes de la manière suivante : les données de séries chronologiques jusqu'en janvier 2018 sont ajoutées ; les calculs de fond et les données d'étape ne sont plus inclus (ce n'est donc plus appelé « série chronologique de décharge par étapes ») ; les fiches techniques ont un seul onglet, simple dispositions compatibles avec les langages de programmation ; des débits (m3/s) ainsi que des volumes (m3) sont disponibles ; non seulement 5 minutes, mais aussi des formats horaires, quotidiens, mensuels et annuels sont disponibles. En outre, les méthodes d'analyse des données et de traçage des courbes d'évaluation ont été adaptées, comme décrit en détail ci-dessous."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/38fabad7-d7d2-405f-aa4c-592ef064895f"
+  ],
+  "dct_issued_s": "2018-12-25",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/38fabad7-d7d2-405f-aa4c-592ef064895f\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Discharge Time Series (2013-2017) – Calvert Island",
+  "gbl_mdModified_dt": "2026-09-22T21:18:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "49af7855-3545-55c5-a846-7f8c47a19e0b",
+  "locn_geometry": "ENVELOPE(-128.13265424, -127.95907025, 51.69558793, 51.60936247)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

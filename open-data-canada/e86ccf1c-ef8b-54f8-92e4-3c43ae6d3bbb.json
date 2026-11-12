@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.0928, -95.9187, 50.749, 49.2475)",
+  "dcat_keyword_sm": [
+    "picnic area",
+    "wildlife",
+    "biking",
+    "Open Data",
+    "watercraft access",
+    "Government information",
+    "Wildlife Management Area",
+    "Environment",
+    "skiing",
+    "Province of Manitoba",
+    "hiking",
+    "designated trails",
+    "canada",
+    "Manitoba Government",
+    "interpretative kiosk",
+    "Manitoba",
+    "WMA",
+    "Public",
+    "ecological feature"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sentiers"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This dataset shows official trails and points of interest within Wildlife Management Areas in Manitoba.  \n  \n  This dataset shows official trails and points of interest within Wildlife Management Areas (WMAs) in Manitoba. Trails The purpose of this layer is to show recognized trails in Manitoba's wildlife management areas (WMAs). These include designated trails for vehicles, and hiking, biking, and cross-country ski trails. Fields included (alias (field name): field description) OBJECTID (OBJECTID): sequential unique whole numbers that are automatically generated WMA (WMA_Name): wildlife management area name Trail Name (Trail_Name): trail name or number Type (Type): trail type (e.g., walking or biking) Restrictions (Restrictions): use restrictions for the trail Points of Interest The purpose of this layer is to show important points of interest within Manitoba's wildlife management areas (WMAs). These include watercraft access points, interpretative kiosks, trail heads, picnic areas, primitive toilets, and ecological features like snake dens. Fields included (alias (field name): field description) OBJECTID (OBJECTID): sequential unique whole numbers that are automatically generated WMA (WMA_Name): wildlife management area name Feature Name (Feat_Name): name of the point of interest Type (Type): type of feature (e.g., trailhead, interpretive centre) Details (Details): details about the point of interest More information (Info): link to additional information about the point of interest, when available",
+    "Cet ensemble de données montre les sentiers officiels et les points d'intérêt dans les zones de gestion de la faune du Manitoba.  \n  \n  Cet ensemble de données montre les sentiers officiels et les points d'intérêt situés dans les zones de gestion de la faune (WMA) du Manitoba. Sentiers Le but de cette couche est de montrer les sentiers reconnus dans les zones de gestion de la faune (WMA) du Manitoba. Il s'agit notamment de sentiers réservés aux véhicules, ainsi que de sentiers de randonnée, de vélo et de ski de fond. Champs inclus (alias (nom du champ) : description du champ) OBJECTID (OBJECTID) : nombres entiers uniques séquentiels générés automatiquement WMA (WMA_Name) : nom de la zone de gestion de la faune Nom du sentier (Trail_Name) : nom ou numéro du sentier Type (Type) : type de sentier (par exemple, à pied ou à vélo) Restrictions (Restrictions) : restrictions d'utilisation pour les points d'intérêt des sentiers Le but de cette couche est de montrer les points d'intérêt importants du Manitoba zones de gestion de la faune (WMA). Il s'agit notamment de points d'accès pour les motomarines, de kiosques d'interprétation, de points de départ de sentiers, d'aires de pique-nique, de toilettes primitives et de caractéristiques écologiques telles que des tanières à serpents. Champs inclus (alias (nom du champ) : description du champ) OBJECTID (OBJECTID) : nombres entiers uniques séquentiels générés automatiquement WMA (WMA_Name) : nom de la zone de gestion de la faune Nom de la caractéristique (Feat_Name) : nom du point d'intérêt Type (Type) : type d'élément (par exemple, point de départ du sentier, centre d'interprétation) Détails (Détails) : détails sur le point d'intérêt Plus d'informations (Info) : lien vers des informations supplémentaires sur le point d'intérêt, lorsqu'il est disponible  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/20860245-9be4-3e40-d34f-dbb2e12dcea8"
+  ],
+  "dct_issued_s": "2021-04-08",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/20860245-9be4-3e40-d34f-dbb2e12dcea8\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Trails",
+  "gbl_mdModified_dt": "2025-02-05T19:12:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e86ccf1c-ef8b-54f8-92e4-3c43ae6d3bbb",
+  "locn_geometry": "ENVELOPE(-101.0928, -95.9187, 50.749, 49.2475)",
+  "schema_provider_s": "Open Data Canada"
+}

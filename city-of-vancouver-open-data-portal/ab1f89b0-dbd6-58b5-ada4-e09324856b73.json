@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.22360843420029, 3.283620458096266, 49.31047547142953, 4.236993170343339)",
+  "dcat_keyword_sm": [
+    "deconstruction",
+    "demolition",
+    "development",
+    "construction"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p>​Building permits are required for new buildings, additions or alterations to existing buildings, and for demolitions or salvage and abatement work.</p><p>As permit application processing is a collaboration between the customer / applicant and the City, this dataset has been updated with the elapsed time from the date at which an application generated a permit number to when the permit was first issued. Specifically, the fields PermitNumberCreatedDate and PermitElapsedDays (includes weekends and holidays) are available in all views as well as through data exports and API access. In addition to existing fields that allow this data to be grouped (PropertyUse, TypeofWork, SpecificUseCategory) we have created a new group field, PermitCategory, that focuses on higher volume, lower complexity project scopes.</p><p>This dataset includes information of all building permits issued by the City of Vancouver, starting in 2017. The data is based on permit issuance date and does not show current status of a permit or changes after a permit is originally issued.<br></p></div> <h3>Data currency</h3><div><p>​The extract for the current year is updated daily but the extract for prior year is static.<br></p></div> <h3>Data accuracy</h3><div><p>There may be addresses that do not return coordinates through the geocoding process (using BC Address Geocoder API). These Issued Building Permits do not appear on the Map. Please consult the Table view for a complete list of Issued building permits​​</p><p>There may be some loss of quality from data entry errors and omissions, in particular where the original application date was prior to May 2016 (when permit software changed).<br></p></div> <h3>Websites for further information</h3><div><ul><li>\n<a href=\"https://vancouver.ca/home-property-development/when-you-need-a-permit.aspx\">When you need a permit</a></li><li>\n<a href=\"https://vancouver.ca/home-property-development/building-permit.aspx\">Building permit</a></li><li>\n<a href=\"https://vancouver.ca/home-property-development/chief-building-official.aspx\">Chief Building Official and Vancouver Building By-law</a></li><li>\n<a href=\"https://vancouver.ca/home-property-development/statistics-on-construction-activity.aspx\">Statistics on Construction Activity</a></li><li>\n<a href=\"https://vancouver.ca/your-government/zoning-development-bylaw.aspx\">Zoning and Development By-law</a></li><li>\n<a href=\"https://shapeyourcity.ca/rezoning\">Active ​and archived rezoning applications</a><br></li><li>\n<a href=\"https://shapeyourcity.ca/development\">Active and achived development permit applications</a><br></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "issued-building-permits",
+    "https://opendata.vancouver.ca/explore/dataset/issued-building-permits"
+  ],
+  "dct_issued_s": "2026-09-14",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/issued-building-permits\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Property and development"
+  ],
+  "dct_title_s": "Issued building permits",
+  "gbl_mdModified_dt": "2026-09-14T13:51:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ab1f89b0-dbd6-58b5-ada4-e09324856b73",
+  "locn_geometry": "ENVELOPE(-123.22360843420029, 3.283620458096266, 49.31047547142953, 4.236993170343339)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

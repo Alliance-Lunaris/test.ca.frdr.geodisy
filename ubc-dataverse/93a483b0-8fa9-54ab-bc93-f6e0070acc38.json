@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Custom tabulation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Statistics Canada (Statisitcs Canada, imtd-E-1994, Statcan, Statistics Canada, StatCan, Government of Canada, Canada, Business Register Division, Health Statistics Division, Social and Aboriginal Division, Labour Satistics Division, Labour Statistics Division, Special Surveys Division, Centre for Housing and Income Statistics, Centre for Income and Socioeconomic Well-being Statistics)."
+  ],
+  "dct_description_sm": [
+    "<p>This dataset includes three tables which were custom ordered from Statistics Canada. There is a table each for Vancouver CMA, Montreal CMA, and Toronto CMA, and the tables contain variables regarding dwelling characteristics, tenure, and shelter cost. </p>\n\n<p>The dataset is in Beyond 20/20 (.ivt) format. The Beyond 20/20 browser is required in order to open it. This software can be freely downloaded from the Statistics Canada website: https://www.statcan.gc.ca/eng/public/beyond20-20 (Windows only). <br />\nFor information on how to use Beyond 20/20, please see:<br />\nhttp://odesi2.scholarsportal.info/documentation/Beyond2020/beyond20-quickstart.pdf <br />\nhttps://wiki.ubc.ca/Library:Beyond_20/20_Guide\n</p>\n\n<p><b>Custom order from Statistics Canada includes the following dimensions and variables:</b></p>\n\n<p>Geography: Montreal CMA, Vancouver CMA, Toronto CMA to the census tract level</p>\n\n<p>Total Shelter Cost: Under $500 to over $3000 in $500 intervals</p>\n\n<p>Shelter Cost to-Income Ratio: Spending less than 15%, 15-30%, 30-50%, 50% or more</p>\n\n<p>Tenure: Owner (including presence of mortgage), renter, subsidized housing, not subsidized housing</p>\n\n<p>Condominium Status: Condominium, not a condominium</p>\n\n<p>Household Size: 1 person, 2 persons, 3 or more people </p>\n\n<p>Number of Bedrooms: No bedroom or 1 bedroom, 2 or more bedrooms</p>\n\n<p>Structural Type: <br />\n-Single detached house<br />\n-Apartment with 5 or more stories<br />\n-Semi-detached house, row house or other single detached house<br />\n-Apartment or flat in a duplex<br />\n-Apartment, building with fewer than 5 stories</p>\n\n<p>Household Income: Median income and average income only</p>\n\n\n<p>Original file names:<br />\nEO3091_Table1_Montreal.ivt<br />\nEO3091_Table1_Toronto.ivt<br />\nEO3091_Table1_Vancouver.ivt</p>"
+  ],
+  "dct_identifier_sm": [
+    "77161_73885",
+    "https://doi.org/10.5683/SP2/7WR7FG"
+  ],
+  "dct_issued_s": "2019-09-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/7WR7FG\"}",
+  "dct_rights_sm": [
+    "This licence is issued on behalf of Her Majesty the Queen in Right of Canada, as represented by the Minister for Statistics Canada (\"Statistics Canada\") to you (an individual or a legal entity that you are authorized to represent). The following are terms governing your use of the Information. Your use of any Information indicates your understanding and acceptance of the terms below. If you do not agree to these terms, you may not use the Information. Statistics Canada may modify this licence at any time, and such modifications shall be effective immediately upon posting of the modified licence on the Statistics Canada website. Your use of the Information will be governed by the terms of the licence in force as of the date and time you accessed the Information. Definitions \"Information\" means the compilation of non-confidential results from any Statistics Canada activities, including data files, databases, public use microdata files, publications, tables, graphs, maps, reports and text for which Statistics Canada is the owner or a licensee of all intellectual property rights and made available to you in accordance with this licence, at cost or no cost, either on the Statistics Canada website or by other means as a result of a contract for goods or services. \"Value-added Products\" means any products you have produced by adapting or incorporating the Information, in whole or in part, in accordance with this licence."
+  ],
+  "dct_spatial_sm": [
+    "Toronto, Ontario, Canada",
+    "Montreal, Quebec, Canada",
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "2016 Census of Canada - Selected Characteristics for Housing - Vancouver, Toronto, Montreal CMAs at the Census Tract (CT) Level [custom tabulation] 001",
+  "gbl_mdModified_dt": "2021-04-09T16:50:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "93a483b0-8fa9-54ab-bc93-f6e0070acc38",
+  "pcdm_memberOf_sm": [
+    "Housing Research Collaborative"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

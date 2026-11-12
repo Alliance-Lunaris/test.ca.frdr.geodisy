@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-136.0, -76.5, 76.0, 69.5)",
+  "dcat_keyword_sm": [
+    "atmosphere",
+    "temperature",
+    "wind-speed",
+    "oceans",
+    "pressure",
+    "humidity",
+    "beaufort-sea",
+    "temperature-sous-la-surface",
+    "arcticnet",
+    "subsurfacetemperature",
+    "weather",
+    "canadian-arctic",
+    "canada",
+    "arcticnet",
+    "radio-telemetry",
+    "canada-andnorthwest-passage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Profils atmosphériques par radiosondage dans la baie de Baffin et le passage du Nord-Ouest, 2016"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Candlish, Lauren.",
+    "Thériault, Nathalie."
+  ],
+  "dct_description_sm": [
+    "Data are transmitted at a rate of one message per second via VHF radio (~400.00MHz). Each data message reports a value for pressure, temperature and humidity data (raw PTU data). GPS strings are also transmitted and are used to calculate upper-level wind speed and direction. All radiosonde data files are exported as a raw time series which will require quality assurance and post-processing.    \nBefore launch, the radiosonde's temperature, pressure and humidity sensors are calibrated using the Vaisala ground station calibration unit. Surface meteorological observations are also noted and recorded for each launch. Starting meteorological conditions are input into the sounding including: sea level pressure, air temperature, relative humidity, and wind speed and direction. Radiosondes were launched twice a day at 0000 UTC and 1200 UTC during leg 3a and 3b of the Amundsen cruise 2016, except when winds were stronger than 25 knots",
+    "Les données sont transmises à raison d'un message par seconde via la radio VHF (~400,00 MHz). Chaque message de données indique une valeur pour les données de pression, de température et d'humidité (données PTU brutes). Les chaînes GPS sont également transmises et sont utilisées pour calculer la vitesse et la direction du vent en altitude. Tous les fichiers de données de radiosondes sont exportés sous forme de séries chronologiques brutes, ce qui nécessitera une assurance qualité et un post-traitement. \nAvant le lancement, les capteurs de température, de pression et d'humidité de la radiosonde sont étalonnés à l'aide de l'unité d'étalonnage de la station au sol Vaisala. Les observations météorologiques de surface sont également notées et enregistrées pour chaque lancement. Les conditions météorologiques de départ sont entrées dans le sondage, notamment : la pression au niveau de la mer, la température de l'air, l'humidité relative, ainsi que la vitesse et la direction du vent. Des radiosondes ont été lancées deux fois par jour à 0 h 00 UTC et 12 h UTC pendant les étapes 3a et 3b de la croisière Amundsen 2016, sauf lorsque les vents soufflaient à plus de 25 nœuds."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b4788bff-3265-4093-a1fe-786f31a0987b"
+  ],
+  "dct_issued_s": "2017-09-15",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b4788bff-3265-4093-a1fe-786f31a0987b\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Radiosonde atmospheric profiles in Baffin Bay and the Northwest Passage, 2016",
+  "gbl_mdModified_dt": "2026-07-31T16:45:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "10eaa148-a413-56ce-823a-8f468896c0a2",
+  "locn_geometry": "ENVELOPE(-136.0, -76.5, 76.0, 69.5)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

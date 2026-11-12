@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Anhaus, Philipp (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0671-8545",
+    "Schiller, Martin (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0002-0506-2759",
+    "Planat, Noémie (McGill University).",
+    "Katlein, Christian (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung). ORCID: https://orcid.org/0000-0003-2422-0414",
+    "Nicolaus, Marcel (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven). ORCID: https://orcid.org/0000-0003-0903-1746"
+  ],
+  "dct_description_sm": [
+    "Conductivity, temperature, and pressure were measured by a Glider Payload CTD (SBE GPCTD, Seabird). Oxygen frequency was measured by an oxygen optode (SBE 43F DO, Seabird). Both instruments were mounted in the sensor skid of a remotely operated vehicle (ROV) during the ARTofMELT2023 expedition in May and June 2023. Data use manufacturer calibration. The Gibbs SeaWater (GSW) Oceanographic Toolbox of TEOS-10 was used to derive other hydrographic data. The conversion from oxygen frequency to dissolved oxygen concentration was performed using the OOI L2 data product DOCONCF (Vardaro, 2014)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.962391",
+    "https://doi.org/10.1594/pangaea.962391"
+  ],
+  "dct_issued_s": "2023-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.962391\"}",
+  "dct_subject_sm": [
+    "Conductivity",
+    "Sea-bird SBE Glider Payload CTD",
+    "Thermodynamic Equation Of Seawater - 2010 (TEOS-10)",
+    "Remote operated vehicle",
+    "Sea Ice Physics @ AWI (AWI_SeaIce)",
+    "Distance, relative, X",
+    "Calculated, using OOI L2 data product DOCONCF",
+    "Salinity",
+    "Survey ID",
+    "ARTofMELT2023",
+    "Sound velocity in water",
+    "Pressure, water",
+    "Remotely operated vehicle (ROV)",
+    "Sea ice",
+    "Oxygen",
+    "Density, mass density",
+    "Quality flag, position",
+    "Temperature, water",
+    "DATE/TIME",
+    "Frequency",
+    "Distance, relative, Y",
+    "Oden",
+    "DEPTH, water",
+    "Salinity, absolute",
+    "Atmospheric rivers and the onset of sea ice melt 2023 (ARTofMELT)",
+    "BEAST",
+    "FRontiers in Arctic marine Monitoring (FRAM)",
+    "Oxygen optode, Sea-Bird, SBE 43F"
+  ],
+  "dct_title_s": "Hydrographic data from ROV survey ARTofMELT2023/1_20-3 on 2023-05-20, survey 2",
+  "gbl_mdModified_dt": "2024-10-17T01:10:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa94e999-4461-5429-b0a1-3f1917c345a3",
+  "locn_geometry": "ENVELOPE(-1.0018056666700002, -1.00179566667, 79.4856851667, 79.48567516669999)",
+  "schema_provider_s": "PANGAEA"
+}

@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.35886383003793, -79.54038238472549, 44.0549027679104, 43.36001024802404)",
+  "dcat_keyword_sm": [
+    "WISKI",
+    "Water Temperature",
+    "Open data",
+    "CVC"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<p>This Integrated Watershed Monitoring Program (IWMP) dataset contains surface water temperature data from rivers and streams in the Credit River Watershed, stored and managed in the WISKI database. The dataset includes historical logger data from 82 active sites as well as real-time data from 11 active monitoring stations.</p><p><strong>🔗How to Access the Data</strong></p><p>Data can be downloaded through <a target='_blank' href='https://experience.arcgis.com/experience/70b71f3e35bf40c19915b067e213f3fd' rel='nofollow ugc noopener noreferrer'>CVC's Water Temperature Data Download</a> application. The application allows users to select one or more stations, specify a date range, and download data directly.</p><p>Click for Metadata here: <a target='_blank' href='https://camaps.maps.arcgis.com/sharing/rest/content/items/7912add0a27a46458267715696d24e58/data' rel='nofollow ugc noopener noreferrer'>WISKI - Water Temperature Metadata (2026)</a></p><p><strong>Important Notes</strong><br />•This data is for reference only and does not replace official water safety or flood warnings issued by Credit Valley Conservation.<br />•The times shown are in Eastern Standard Time (EST). Our system does not switch to Daylight Savings Time.<br />•Time is displayed in this format: yyyy-MM-dd'T'HH:mm:ss (For example: 2025-04-10T13:00:00).</p><p><br /><strong>Disclaimers</strong><br />•Data quality codes and datasets may change over time.<br />•Some data may have errors or gaps.<br />•Winter data may be affected by ice conditions.</p>"
+  ],
+  "dct_identifier_sm": [
+    "7912add0a27a46458267715696d24e58",
+    "https://www.arcgis.com/home/item.html?id=7912add0a27a46458267715696d24e58"
+  ],
+  "dct_issued_s": "2026-08-18",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/documents/camaps::water-temperature-data-download-2026\"}",
+  "dct_rights_sm": [
+    "CVC Open Data licence v1."
+  ],
+  "dct_title_s": "Water Temperature Data download (2026)",
+  "gbl_mdModified_dt": "2026-08-24T19:59:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c8bdd12f-2805-5b1a-ac93-a55b714bb926",
+  "locn_geometry": "ENVELOPE(-80.35886383003793, -79.54038238472549, 44.0549027679104, 43.36001024802404)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

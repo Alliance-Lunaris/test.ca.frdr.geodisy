@@ -1,0 +1,73 @@
+{
+  "dcat_bbox": "ENVELOPE(-94.295786, -74.457454, 49.039615, 42.341745)",
+  "dcat_keyword_sm": [
+    "water temperature",
+    "stream",
+    "flux",
+    "température de l'eau"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur la température du système d'information sur les eaux en écoulement"
+  ],
+  "dct_creator_sm": [
+    "DataStream.",
+    "Center for Community Mapping (CoMap).",
+    "Southern Ontario Stream Monitoring and Research Team (SOSMART).",
+    "Central Lake Ontario Conservation Authority.",
+    "Lake Simcoe Region Conservation Authority (LSRCA).",
+    "Kawartha Region Conservation Authority.",
+    "Toronto and Region Conservation Authority.",
+    "Conservation Halton.",
+    "Credit Valley Conservation.",
+    "Ganaraska Region Conservation Authority (GRCA).",
+    "Cataraqui Region Conservation Authority.",
+    "South Nation Conservation.",
+    "Rideau Valley Conservation Authority.",
+    "Mississippi Valley Conservation Authority.",
+    "Maitland Valley Conservation Authority.",
+    "Niagara Peninsula Conservation Authority.",
+    "Raisin Region Conservation Authority.",
+    "Quinte Conservation.",
+    "Government of Ontario, Ministry of the Environment, Conservation and Parks (MECP).",
+    "Government of Ontario, Ministry of Natural Resources and Forestry (OMNRF).",
+    "Geological Survey of Canada.",
+    "Azimuth Environmental Consulting.",
+    "Aquafor Beech Limited.",
+    "City of Ottawa.",
+    "York Peel Durham Management Team.",
+    "Rainy River First Nations.",
+    "EcoSpark.",
+    "Ontario Federation of Anglers and Hunters.",
+    "Prince Edward County Field Naturalists.",
+    "Ontario Streams.",
+    "Institute for Watershed Science, Trent University.",
+    "Cooperative Freshwater Ecology Unit, Laurentian University.",
+    "Sir Sandford Fleming College.",
+    "University of Toronto."
+  ],
+  "dct_description_sm": [
+    "This dataset includes monitored air and water temperature across Ontario since 1990. The data were collected by multiple organizations for a variety of purposes (collection organization names are listed in the Result Comment of this dataset). \n\nThis dataset includes only a portion of a larger dataset available on FWIS (https://www.comap.ca/fwis. ), which includes maximum air temperature and predicted maximum water temperature and a standardized water temperature, for records that meet the criteria for applying the algrorithms. The FWIS dataset represents a summary of the two module types from within OSAP that provide varying methods of measuring stream and air temperature. Those being the rapid and standard methods.  To fully apply the standard method water temperature is recorded between 3:45 and 5:00 when  maximum air temperature would be greater or equal to 24 C.  Such measures ensure that the stream is approaching maximum temperature for that day and enables summer maximum or standardized temperature to be calculated for the site. Air temperature at the site is also often recorded when the water temperature is recorded on site. It is used as a backup for analysis,  but is not necessary.  If either the maximum air temperature is lower than this value or the temperature is recorded outside this window, it is considered a rapid assessment value.  Users can conclude that the stream gets to a maximum of at least the value recorded but is likely to exceed this value at some point during the summer.  Note that many observations have been extracted from digital temperature recorders (the diagnostic method), with summer maximum temperatures extracted along with air temperature data from other sources.  These are generally identified as those records with more than one decimal point.  \n\nGuidance for the FWIS dataset methods are from:\nStanfield, L. W. (Ed.). 2010. Stream assessment protocol for southern Ontario.  Ontario Ministry of Natural Resources, internal publication.",
+    "Cet ensemble de données comprend la surveillance de la température de l'air et de l'eau en Ontario depuis 1990. Les données ont été collectées par plusieurs organisations à des fins diverses (les noms des organisations de collecte sont répertoriés dans le commentaire des résultats de cet ensemble de données). \n\nCet ensemble de données ne comprend qu'une partie d'un ensemble de données plus vaste disponible sur FWIS (https://www.comap.ca/fwis.), qui inclut la température maximale de l'air, la température maximale prévue de l'eau et une température de l'eau normalisée, pour les enregistrements qui répondent aux critères d'application des algorithmes. L'ensemble de données FWIS représente un résumé des deux types de modules de l'OSAP qui fournissent différentes méthodes de mesure de la température des flux et de l'air. Il s'agit des méthodes rapides et standard. Pour appliquer pleinement la méthode standard, la température de l'eau est enregistrée entre 3 h 45 et 5 h, lorsque la température maximale de l'air serait supérieure ou égale à 24 °C. Ces mesures garantissent que le cours d'eau approche de la température maximale pour ce jour-là et permettent de calculer la température maximale estivale ou normalisée pour le site. La température de l'air sur le site est également souvent enregistrée lorsque la température de l'eau est enregistrée sur le site. Il est utilisé comme sauvegarde pour l'analyse, mais n'est pas nécessaire. Si la température maximale de l'air est inférieure à cette valeur ou si la température est enregistrée en dehors de cette fenêtre, elle est considérée comme une valeur d'évaluation rapide. Les utilisateurs peuvent en conclure que le flux atteint au moins la valeur enregistrée, mais qu'il est susceptible de dépasser cette valeur à un moment donné au cours de l'été. Il convient de noter que de nombreuses observations ont été extraites d'enregistreurs de température numériques (la méthode de diagnostic), les températures maximales estivales étant extraites ainsi que les données de température de l'air provenant d'autres sources. Ils sont généralement identifiés comme les enregistrements comportant plus d'une décimale. \n\nLes directives pour les méthodes de jeu de données FWIS proviennent des sources suivantes :\nStanfield, L.W. (éd.). 2010. Protocole d'évaluation des cours d'eau pour le sud de l'Ontario. Ministère des Richesses naturelles de l'Ontario, publication interne."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/05cf6e89-20da-477a-aef2-f7fa2ddba350"
+  ],
+  "dct_issued_s": "2024-05-01",
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/05cf6e89-20da-477a-aef2-f7fa2ddba350\"}",
+  "dct_rights_sm": [
+    "Open Data Commons Attribution License 1.0 https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_title_s": "Flowing Waters Information System Temperature Data",
+  "gbl_mdModified_dt": "2026-07-31T15:59:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ede7a67d-9522-597a-bee6-3e4a31a41fbc",
+  "locn_geometry": "ENVELOPE(-94.295786, -74.457454, 49.039615, 42.341745)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -50.0, 81.0, 50.0)",
+  "dcat_keyword_sm": [
+    "temperature",
+    "wind-speed",
+    "oceans",
+    "canadian-arctic-archipelago",
+    "beaufort-sea",
+    "relative-humidity",
+    "temperature-sous-la-surface",
+    "meteorology",
+    "arcticnet",
+    "subsurfacetemperature",
+    "baffin-bay",
+    "wind-direction",
+    "arcticnet",
+    "northwest-passage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données météorologiques provenant des navires, 2016"
+  ],
+  "dct_creator_sm": [
+    "Papakyriakou, Tim.",
+    "Luque, Sebastian."
+  ],
+  "dct_description_sm": [
+    "During the ArcticNet annual cruises of the research icebreaker CCGS Amundsen, characteristics of the near-surface atmosphere (basic meteorological elements, incident radiation) are monitored.  Central to this integrated dataset, the following meteorological variables were recorded at 1 minute intervals (instrument used to collect each variable is in parentheses, and approximate instrument height above surface is indicated): wind speed (RM Young Wind Monitor 05106-10) - 16m height; wind direction (RM Young Wind Monitor 05106-10) -16m height; air temperature (Vaisala HMP45C) - 15m height; relative humidity (Vaisala HMP45C) -15m height; and, surface temperature (Apogee IR Transducer SI-111) - 8m height, atmospheric pressure.\n\nAll instruments were mounted on a meteorological tower on the bow of the research icebreaker CCGS Amundsen, except for the IR transducer SI-111, which was mounted on top of the gunwale at the ship's bow, overlooking the water surface.",
+    "Au cours des croisières annuelles ArcticNet du brise-glace de recherche CCGS Amundsen, les caractéristiques de l'atmosphère proche de la surface (éléments météorologiques de base, rayonnement incident) sont surveillées. Au cœur de cet ensemble de données intégré, les variables météorologiques suivantes ont été enregistrées à intervalles d'une minute (l'instrument utilisé pour collecter chaque variable est entre parenthèses et la hauteur approximative de l'instrument au-dessus de la surface est indiquée) : vitesse du vent (RM Young Wind Monitor 05106-10) - 16 m de hauteur ; température de l'air (Vaisala HMP45C) - 15 m de hauteur ; humidité relative (Vaisala HMP45C) MP45C) -15 m de hauteur ; et température de surface (transducteur infrarouge Apogee SI-111) - 8 m de hauteur, pression atmosphérique.\n\nTous les instruments étaient montés sur une tour météorologique située à la proue du brise-glace de recherche CCGS Amundsen, à l'exception du transducteur infrarouge SI-111, qui était monté au-dessus du plat-bord à la proue du navire, surplombant la surface de l'eau."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/14eb546c-bd61-42de-a2d7-8a5472e18ca0"
+  ],
+  "dct_issued_s": "2017-09-15",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/14eb546c-bd61-42de-a2d7-8a5472e18ca0\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ship-Based Meteorological Data, 2016",
+  "gbl_mdModified_dt": "2026-07-31T16:46:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe3b846c-827d-5add-97b3-a719e2200ea7",
+  "locn_geometry": "ENVELOPE(-140.0, -50.0, 81.0, 50.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

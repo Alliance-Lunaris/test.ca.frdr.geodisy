@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "rooftop photovoltaic panels",
+    "measurement campaign",
+    "urban climate",
+    "model development",
+    "regional climate modeling"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yin, Hang (School of Environmental Sciences. Ontario Agricultural College. University of Guelph.). ORCID: https://orcid.org/0000-0001-8607-2141",
+    "Krayenhoff, E. Scott (School of Environmental Sciences. Ontario Agricultural College. University of Guelph.). ORCID: https://orcid.org/0000-0002-4776-4353",
+    "Voogt, James (Department of Geography and Environment. Western University., Western University). ORCID: https://orcid.org/0000-0002-7975-0052",
+    "Heusinger, Jannik (Institute of Geoecology. Technische Universität Braunschweig.). ORCID: https://orcid.org/0000-0002-6178-5644",
+    "Aliabadi, Amir A. (School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0002-1002-7536"
+  ],
+  "dct_description_sm": [
+    "<p>This dataset contains the data and source code used to generate the figures in the article “Simulation of tilted rooftop photovoltaic panels at city scale: Novel measurements, model development and application in WRF” published in J Geophysical Res: Atmospheres.</p><p>City-wide deployment of rooftop photovoltaic (PV) panels has been proposed as an effective mitigation strategy since PV panels can shade the underlying surface and generate electricity. However, the effects of PV panels on near-surface air temperature are less conclusive. This study presents an upgraded physics-based rooftop PV numerical model UCRC-Solar and its implementation in the Weather Research and Forecasting (WRF), a widely used numerical weather prediction model. A full-year measurement campaign at the University of Western Ontario, London, Canada, was conducted to capture the surface-atmosphere exchange for a rooftop array of tilted PV panels. The upgraded UCRC-Solar was evaluated extensively both offline with the observed data and online in WRF against the newly collected PV module surface temperature and electricity production. Finally, WRF experiments with different PV configurations on flat roofs were explored in Toronto, Ontario, to study their impacts on the local climate.</p>"
+  ],
+  "dct_identifier_sm": [
+    "856205_16_41153_41158",
+    "https://doi.org/10.5683/SP3/FG4WC2"
+  ],
+  "dct_issued_s": "2024-12-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FG4WC2\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "London, Ontario, Canada",
+    "Toronto, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data and source code used for \"Simulation of tilted rooftop photovoltaic panels at city scale: Novel measurements, model development and application in WRF\"",
+  "gbl_mdModified_dt": "2025-06-19T17:17:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d44cbd21-96b1-55b2-ac73-8b1256356c33",
+  "pcdm_memberOf_sm": [
+    "Agri-environmental Research Data // Ontario Agricultural College // School of Environmental Sciences"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

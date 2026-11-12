@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.82236245234596, -123.75990411441286, 49.14565103136496, 49.11994226469548)",
+  "dcat_keyword_sm": [
+    "lidR",
+    "Airborne Laser Scanning",
+    "Remote Sensing",
+    "Forest",
+    "LiDAR",
+    "Landcover",
+    "British Columbia",
+    "Forest Inventory",
+    "Light Detection and Ranging",
+    "lidRmetrics",
+    "Mudge Island",
+    "Southern Gulf Islands",
+    "ALS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Swearingen, Hannah (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "In addition to the primary focus of using ALS metrics to estimate forest characteristics, this project developed landcover data for Mudge Island based on ALS metrics and air photo interpretation. Polygons for the coastal rocks, non-vegetated, non-forest vegetated, and forested area of Mudge Island were derived.",
+    "Airborne Laser Scanning (ALS) is an active remote sensing technology from which highly precise measurements of object locations can be derived. This study builds upon emerging literature suggesting ALS as a viable standalone data source for estimating forest characteristics by demonstrating methodology on the Coastal Douglas-fir-dominated forests of Mudge Island, British Columbia (BC), Canada. Pixel metrics for canopy height, heterogeneity, and vertical structure were extracted from a single ALS acquisition via the lidR and lidRmetrics packages in the R programming language. Metric correlation and dispersion were investigated, and smoothed metric quartiles were mapped to denote forest stands. Landcover extraction found 70.38% of Mudge Island to be forested by area. Metric dispersion suggests Mudge Island is dominated by highly homogeneous even-aged conifer stands. A trend towards a canopy relief ratio (CRR) greater than 0.50 indicates a full crown and little shrubbery or debris on the ground, a trait characteristic of middle-aged to mature conifer forests. Results align with field observations and air photo interpretations of Mudge Island, positing ALS metrics as a viable initial analysis for the remote estimation of forest characteristics. Future studies should employ data fusion and/or additional methods to refine the workflow herein presented and confirm findings with field validation techniques."
+  ],
+  "dct_identifier_sm": [
+    "1124727_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/BLGJRD"
+  ],
+  "dct_issued_s": "2026-07-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BLGJRD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Mudge Island, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Airborne Laser Scanning (ALS) Metrics for the Remote Estimation of Forest Characteristics on Mudge Island, Southern Gulf Islands, British Columbia (BC), Canada",
+  "gbl_mdModified_dt": "2026-07-28T16:57:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5fec7c82-72a9-518f-aeb6-8891ee9de902",
+  "locn_geometry": "ENVELOPE(-123.82236245234596, -123.75990411441286, 49.14565103136496, 49.11994226469548)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

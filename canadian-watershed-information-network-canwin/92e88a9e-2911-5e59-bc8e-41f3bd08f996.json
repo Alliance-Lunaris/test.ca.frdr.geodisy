@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The “Non-contributing Portions of the Incremental Gross Drainage Areas of the AAFC Watersheds Project – 2013” dataset is a geospatial data layer containing polygon features representing the areas within each incremental gross drainage area of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project that DO NOT contribute to average runoff.   \n  \n  The Project is subdivided by hydrometric gauging station. The maximum area that could contribute runoff to each gauging station, less that of its upstream neighbour(s) is called an “incremental gross drainage area”.   \n  \n  The “incremental gross drainage” areas can be subdivided into portions that either supply surface runoff to an average runoff, or do not. Those portions that are NOT part of the effective drainage area are called ‘non-contributing'."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a5cbed50-4a18-4658-b312-af13192bbaaf"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a5cbed50-4a18-4658-b312-af13192bbaaf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Non-Contributing Portions of the Incremental Gross Drainage Areas of the AAFC Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-07-21T21:52:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "92e88a9e-2911-5e59-bc8e-41f3bd08f996",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.466, -127.457, 54.765, 54.761)",
+  "dcat_keyword_sm": [
+    "Commercial Thinning",
+    "Forest Vegetation Simulator",
+    "Light Detection and Ranging",
+    "Least-Cost Path Analysis",
+    "Tree segmentation",
+    "Treetop Detection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jin, Ciyuan (University of British Columbia). ORCID: https://orcid.org/0009-0003-2055-8853"
+  ],
+  "dct_description_sm": [
+    "Commercial thinning balances the demand for timber supply and the growth of residual trees, making it an increasingly important forest management approach. Light Detection and Ranging (LiDAR) has become a useful remote sensing technique for efficiently designing commercial thinning scenarios. However, the impacts of commercial thinning on small-scale boreal forests and the potential use of LiDAR-derived data in thinning path design remain underexplored. This study was conducted in a pine forest in the Wetzin’kwa Community Forest, where the performance of LiDAR data in tree detection and diameter at breast height (DBH) estimation was assessed aided by field survey data and orthophotos. The study also examined the potential distribution of thinning paths using a least-cost path method and quantified the impact of thinning on residual trees using the Forest Vegetation Simulator (FVS) from 2025 to 2125, based on the dynamics of the height–DBH ratio and merchantable volume. The results showed that the DBH estimation model had limited explanatory power (R² = 0.21), while tree detection using LiDAR achieved promising accuracy (F1-score = 0.91). The thinning paths were evaluated as a cost layer to support decision-making for thinning operations. Among the three plots and thinning approaches, Plot 2, which applied a variable-density thinning method, showed better performance in merchantable volume growth, while plots with a fixed 40% thinning intensity demonstrated better stand health recovery. These findings highlight the importance of data quantity and validation for improving model accuracy, the challenges associated with pre-designing thinning paths, and the differing post-thinning outcomes under various thinning scenarios."
+  ],
+  "dct_identifier_sm": [
+    "1124764_73894_115983",
+    "https://doi.org/10.5683/SP3/9KWBQ5"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/9KWBQ5\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "LiDAR-Based Forest Thinning Design and Long-Term Impact Assessment in Wetzin’kwa Community Forest, British Columbia from 2025 to 2125",
+  "gbl_mdModified_dt": "2026-04-28T16:37:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6989cfaa-5eb5-517a-84e7-4a3476c48f44",
+  "locn_geometry": "ENVELOPE(-127.466, -127.457, 54.765, 54.761)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

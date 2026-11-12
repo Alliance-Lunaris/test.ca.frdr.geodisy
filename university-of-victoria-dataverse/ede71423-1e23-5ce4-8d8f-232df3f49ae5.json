@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.23609, -65.05, 50.30616, 49.57)",
+  "dcat_keyword_sm": [
+    "macrofauna",
+    "Gulf of St. Lawrence",
+    "coastal benthos",
+    "environmental indicators",
+    "ecological status"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dreujou, Elliot (nstitut des Sciences de la Mer, Université du Québec à Rimouski, Université du Québec à Rimouski, Institut Nordique De Recherche En Environnement Et En Santé Au Travail). ORCID: https://orcid.org/0000-0002-9885-2759",
+    "Desroy, Nicolas (Laboratoire Environnement Ressources de Bretagne Nord, Institut Français pour la Recherche et l'Exploitation de la Mer).",
+    "Carrière, Julie (Institut Nordique de Recherche en Environnement et en Santé au Travail).",
+    "Tréau de Coeli, Lisa (Québec-Océan, Biology Department, Laval University).",
+    "McKindsey, Christopher W (Maurice Lamontagne Institute, Fisheries and Oceans Canada, Fisheries and Oceans Canada).",
+    "Archambault, Philippe (Québec-Océan, Biology Department, Laval University, Université Laval)."
+  ],
+  "dct_description_sm": [
+    "<h3>General presentation</h3>\nThis repository presents the R code and associated data used in the article <em>Determining the ecological status of benthic coastal communities: a case study in an anthropized sub-Arctic area</em>.<br><br>\n\nDatasets include information about the stations sampled at Sept-Îles (Québec, Canada) in 2017. Data includes species biomass, density, taxonomy and traits of benthic macrofaunal species, with physico-chemical parameters at the sediment surface.<br><br>\n\nThe main research questions were to:\n<ol>\n<li>compare outcomes of various benthic environmental indicators</li>\n<li>understand how these indicators relate to habitat parameters for validation and to select appropriate applications</li>\n</ol>\n\n<hr>\n\n<h3>\nSpecific details</h3>\n<ul>\n<li>Variables, units and files are explained in files <strong>README.yml</strong> (this file is a basic text file formatted with a YAML language) and <strong>README.txt</strong>.</li>\n<li>Language and software used for the analyses: R (4.0.3)</li>\n</ul>\n\n<hr>"
+  ],
+  "dct_identifier_sm": [
+    "134666_74103",
+    "https://doi.org/10.5683/SP2/WDDDMI"
+  ],
+  "dct_issued_s": "2021-03-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/WDDDMI\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Sept-Îles, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data from: Determining the ecological status of benthic coastal communities: a case in an anthropized sub-Arctic area",
+  "gbl_mdModified_dt": "2025-06-17T18:27:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ede71423-1e23-5ce4-8d8f-232df3f49ae5",
+  "locn_geometry": "ENVELOPE(-67.23609, -65.05, 50.30616, 49.57)",
+  "pcdm_memberOf_sm": [
+    "CHONe II"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

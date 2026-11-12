@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Forecast",
+    "RDPS",
+    "Weather Models",
+    "Basins",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes prévues par bassin (RDPS - 84 heures)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer displays 84-hour accumulated precipitation forecasts from the Regional Deterministic Prediction System (RDPS), aggregated at the sub-basin level. This layer helps hydrologists, water resource managers, and emergency responders identify watersheds with potentially higher rainfall or snowfall, facilitating short-term flood risk analysis and operational planning.\n\nModel & Domain: The RDPS is Environment and Climate Change Canada’s regional numerical weather prediction model, running at ~10 km resolution to capture mesoscale weather patterns over Canada and adjacent regions. Forecast Integration: It produces short-range forecasts (up to 84 hours), updated 4 times daily with boundary conditions from the global GEM model (GDPS). Sub-Basin Aggregation: This layer averages forecasted precipitation across each sub-basin polygon, providing a convenient snapshot of expected accumulations for hydrological modeling and water management. Key Applications:Flood Forecasting – Identifying basins at risk of heavy runoff. Resource Allocation – Positioning crews and equipment in vulnerable watersheds. Planning – Adapting reservoir release schedules, urban drainage controls, and agricultural activities",
+    "Cette couche polygonale affiche les prévisions de précipitations cumulées sur 84 heures provenant du Système régional de prévision déterministe (RDPS), agrégées au niveau du sous-bassin. Cette couche aide les hydrologues, les gestionnaires des ressources en eau et les intervenants d'urgence à identifier les bassins versants présentant des précipitations ou des chutes de neige potentiellement plus importantes, facilitant ainsi l'analyse des risques d'inondation à court terme et la planification opérationnelle.\n\nModèle et domaine : Le RDPS est le modèle numérique régional de prévisions météorologiques d'Environnement et Changement climatique Canada, fonctionnant à une résolution d'environ 10 km pour capturer les modèles météorologiques à moyenne échelle au Canada et dans les régions adjacentes. Intégration des prévisions : il produit des prévisions à court terme (jusqu'à 84 heures), mises à jour 4 fois par jour avec les conditions aux limites du modèle mondial GEM (GDPS). Agrégation des sous-bassins : cette couche fait la moyenne des précipitations prévues sur chaque polygone de sous-bassin, fournissant un instantané pratique des accumulations attendues pour la modélisation hydrologique et la gestion de l'eau. Principales applications : prévision des inondations — Identification des bassins présentant un risque de ruissellement important. Allocation des ressources — Positionnement des équipes et de l'équipement dans les bassins versants vulnérables. Planification — Adaptation des calendriers de libération des réservoirs, des contrôles du drainage urbain et des activités agricoles\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/96f7f50d-f3d7-a775-67e7-fa1d0cd295c2"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/96f7f50d-f3d7-a775-67e7-fa1d0cd295c2\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (RDPS - 84 hrs)",
+  "gbl_mdModified_dt": "2026-03-18T11:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bb0c8eb1-5c8d-5e6c-baaf-47c2058e189e",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

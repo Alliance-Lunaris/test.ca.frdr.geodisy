@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Oncorhynchus mykiss gairdneri",
+    "Oncorhynchus mykiss",
+    "cardiac function",
+    "salmonid"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chen, Zhongqi (University of British Columbia, University of Idaho).",
+    "Farrell, Anthony P. (University of British Columbia).",
+    "Matala, Amanda (Columbia River Inter-Tribal Fish Commission).",
+    "Hoffman, Nicholas (Columbia River Inter-Tribal Fish Commission).",
+    "Narum, Shawn R. (Columbia River Inter-Tribal Fish Commission, University of Idaho)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/-8xuYMfcg63Tba952n8bPzXdN1YUa2pfB7etGqgiRms</p>\n<p><b>Storage size:</b> 516166481</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Temperature is a master environmental factor that limits the geographical distribution of species, especially in ectotherms. To address challenges in biodiversity conservation under ongoing climate change, it is essential to characterize relevant functional limitations and adaptive genomic content at population and species levels. Here, we present evidence for adaptive divergence in cardiac function and genomic regions in redband trout (Oncorhynchus mykiss gairdneri) populations from desert and montane streams. Cardiac phenotypes of individual fish were measured in the field with a custom-built electrocardiogram apparatus. Maximum heart rate and its rate limiting temperature during acute warming were significantly higher in fish that have evolved in the extreme of a desert climate compared to a montane climate. Association mapping with 526,301 single nucleotide polymorphisms (SNPs) across the genome revealed signatures of thermal selection both within and among ecotypes.  Among desert and montane populations, 413 SNPs were identified as putative outliers under natural selection and 20 of these loci showed significant association with average summer water temperatures among populations. Phenotypes for cardiac performance were variable within each ecotype and 207 genomic regions were strongly associated with either maximum heart rate or rate limiting temperatures among individuals. Annotation of significant loci provided candidate genes that underlie thermal adaptation, including pathways associated with cardiac function (IRX5, CASQ1, CAC1D and TITIN), neuroendocrine system (GPR17 and NOS) and stress response (SERPH). By integrating comparative physiology and population genomics, results here advance our knowledge on evolutionary processes of thermal adaptation in aquatic ectotherms.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">genotypes</h4><div class=\"o-metadata__file-description\">A total of 526,301 SNP markers were produced using PST-I RAD sequencing. They are genotyped in 115 individuals from six redband trout populations.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Genotypes of neutral loci in genepop format</h4><div class=\"o-metadata__file-description\">This file contains genotypes of 525,866 putative neutral loci for a total of 115 fish from six redband trout populations from southern Idaho</div><div class=\"o-metadata__file-name\">neutral_only_6pop.genepop</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Genotypes of outlier loci in genepop format</h4><div class=\"o-metadata__file-description\">This file contains genotypes of 435 putative adaptive loci for a total of 115 fish from six redband trout populations from southern Idaho</div><div class=\"o-metadata__file-name\">outlier_only_6pop.genepop</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">cardiac phenotypes</h4><div class=\"o-metadata__file-description\">Phenotype data file for 114 fish from six redband trout populations. Phenotype data of one fish was not collected.</div><div class=\"o-metadata__file-name\">cardiac phenotype.xlsx</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153102_150149",
+    "https://doi.org/10.5683/SP2/MAYUAT"
+  ],
+  "dct_issued_s": "2021-05-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/MAYUAT\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Southern Idaho"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Physiological and genomic signatures of evolutionary thermal adaptation in redband trout from extreme climates",
+  "gbl_mdModified_dt": "2021-05-20T15:07:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3d3ec08a-9e3f-5b63-8cf3-a666bfe08704",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

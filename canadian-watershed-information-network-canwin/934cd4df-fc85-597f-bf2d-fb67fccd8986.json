@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "River ice roughness products from the current calendar year in selected Canadian regions that have been designated for observation, monitored by Natural Resources Canada using satellite imagery for emergency response.  Coverage is not comprehensive nationwide. \n\nIn order to mitigate ice jam induced floods risks, Natural Resources Canada emergency geomatics service (EGS) may be activated by Canada’s emergency management authorities.  As new satellite imagery becomes available, NRCan will produce river ice roughness maps and update the dataset in near real time (4 hours).  This item contains record of the river ice roughness products generated in the current year.  For the complete archive, please refer to the [River Ice in Canada - Archive](https://open.canada.ca/data/en/dataset/5e6b40bf-299f-4e05-87c8-d10b9c8210f9) entry.\n\nThe river ice product is generated and validated on a best effort basis.  Various factors may affect the quality of the river ice roughness maps.  Those factors include but are not limited to: environmental condition at the time of acquisition, image resolution or the limitations of the methodology used. \n\nTo view a specific product, filter the data by date (UTC Date) and area of interest (AOI).  Links to download specific EGS product are available in the Resources section.\n\nDisclaimer:\nEmergency response authorities are the primary users of these satellite-derived river ice roughness map products. These products are generated to provide analysis and emergency response situational awareness and to facilitate decision-making during major flood events. The river ice roughness products are generated rapidly and limited time is available for editing and validation. The river ice roughness products reflect the river ice surface roughness conditions at the date/time of acquisition. While efforts are made to produce high quality products, near-real time products may contain errors due to the limited time available for validation and the limited availability of ground truthing data.\n\nLimitation of Liability:\nAccordingly, the information contained on this website is provided on an “as is” basis and Natural Resources Canada makes no representations or warranties respecting the information, either expressed or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose. Natural Resources Canada does not assume any liability in respect of any damage or loss based on the use of this website. In no event shall Natural Resources Canada be liable in any way for any direct, indirect, special, incidental, consequential, or other damages based on any use of this website or any other website to which this site is linked, including, without limitation, any lost profits or revenue or business interruption.\n\nParent Collection:\n- **[River Ice State in Canada - Cartographic Product Collection](https://open.canada.ca/data/en/dataset/d1fcb44f-5f86-4957-bdb4-e6fd1aa69283)**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8ca6f047-ddef-43d7-81c2-47654f4c69bd"
+  ],
+  "dct_issued_s": "2019-03-28",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8ca6f047-ddef-43d7-81c2-47654f4c69bd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "River Ice in Canada - Current Year",
+  "gbl_mdModified_dt": "2026-04-08T17:31:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "934cd4df-fc85-597f-bf2d-fb67fccd8986",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

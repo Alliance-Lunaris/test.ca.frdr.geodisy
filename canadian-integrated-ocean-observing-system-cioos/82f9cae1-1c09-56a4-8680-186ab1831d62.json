@@ -1,0 +1,65 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.4, -128.1, 52.09, 51.65)",
+  "dcat_keyword_sm": [
+    "ochrophyta",
+    "macrocystis-pyrifera",
+    "nereocystis",
+    "laminariaceae",
+    "laminariaceae",
+    "nearshore",
+    "macroalgalcanopycoverandcomposition",
+    "oceans",
+    "composition-et-couverture-de-la-canopee-de-macroalgues",
+    "giant-kelp",
+    "laminariales",
+    "phaeophyceae",
+    "macrocystis",
+    "kelp-forest",
+    "laminariales",
+    "bull-kelp",
+    "phaeophyceae",
+    "nereocystis-luetkeana",
+    "macrocystis-pyrifera",
+    "macrocystis",
+    "nereocystis",
+    "geospatial",
+    "chromista",
+    "kelp",
+    "chromista",
+    "nereocystis-luetkeana",
+    "ochrophyta"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries chronologiques de la superficie de la canopée de varech dérivées de relevés effectués par des systèmes aériens télépilotés (RPAS ou drones), côte centrale, Colombie-Britannique"
+  ],
+  "dct_creator_sm": [
+    "Reshitnyk, Luba (Hakai Institute).",
+    "Holmes, Keith (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This data package represents a time series of canopy area of giant kelp, Macrocystis pyrifera, and bull kelp, Nereocystis luetkeana, derived from remotely piloted aerial system (RPAS or drones) surveys, along with relevant metadata. The kelp canopy is composed of the portions of fronds, stipes and blades floating on the surface of the water. RPAS surveys are conducted annually at long-term monitoring sites surveyed by the Hakai Institute on the Central Coast of British Columbia, Canada. These data are collected as part of the Hakai Institute Habitat Mapping Program whose broader goal is to document and understand long-term trends of kelp forests dynamics and drivers at local, regional and coast-wide scales. The Hakai Institute started using drones in 2015 as part of this work in order to capture site-level data on kelp forest distribution for long-term ecological research. \n\nDrone surveys are conducted annually in July/August during low tide (<1.5 m, chart datum) and collect RGB (red-green-blue) imagery. Canopy area is derived from drone-derived orthomosaics using a machine learning tool, the Kelp-O-Matic, which automates the detection of extent of kelp canopy area present in high-resolution orthomosaics. Areal data are classified to species level. Outputs are reviewed by a trained analyst. Canopy area (m2) data are provided as vector features (shapefiles) in NAD83 UTM Zone 9 clipped to each site area of interest (AOI) to ensure the same areas are compared over time and then published to a geodatabase. \n\nThis data package includes a geodatabase which includes:\n- Polygon vector features of canopy kelp \n- Polygon vector features of the area of interest (AOI) of each monitoring site\n- A metadata report (.pdf) which describes methods for imagery collection, generating orthomosaics and delineating kelp extent.\n- Data dictionary (spreadsheet) which describes the attributes of the polygon vector features for canopy kelp.\n\nThis data package is freely available to everyone, following the principles of equitable access and benefit sharing. However, we expect all data users to give attribution to the data providers (read our data license) and the use of these data should happen in the light of fair use, i.e.: 1) respect the data providers, and provide helpful feedback on data quality, and 2) communicate and/or collaborate with the providers if you are considering using this dataset for manuscripts or other forms of reporting.",
+    "Ce paquet de données représente une série chronologique de la superficie du couvert végétal de varech géant, Macrocystis pyrifera, et de varech taureau, Nereocystis luetkeana, dérivée de relevés effectués par des systèmes aériens télépilotés (RPAS ou drones), ainsi que des métadonnées pertinentes. La canopée de varech est composée de parties de frondes, de stipes et de lames flottant à la surface de l'eau. Des relevés RPAS sont effectués chaque année sur des sites de surveillance à long terme étudiés par l'Institut Hakai sur la côte centrale de la Colombie-Britannique, au Canada. Ces données sont collectées dans le cadre du programme de cartographie de l'habitat de l'Institut Hakai dont l'objectif général est de documenter et de comprendre les tendances à long terme de la dynamique et des moteurs des forêts de varech aux échelles locale, régionale et côtière. L'Institut Hakai a commencé à utiliser des drones en 2015 dans le cadre de ces travaux afin de recueillir des données au niveau du site sur la distribution des forêts de varech pour des recherches écologiques à long terme. \n\nDes relevés par drone sont effectués chaque année en juillet/août à marée basse (<1,5 m, point de référence cartographique) et collectent des images RGB (rouge-vert-bleu). La surface de la canopée est dérivée d'orthomosaïques dérivées de drones à l'aide d'un outil d'apprentissage automatique, le Kelp-O-Matic, qui automatise la détection de l'étendue de la superficie de la canopée de varech présente dans les orthomosaïques à haute résolution. Les données relatives à la superficie sont classées par espèce. Les résultats sont examinés par un analyste qualifié. Les données sur la superficie de la canopée (m2) sont fournies sous forme d'entités vectorielles (fichiers de formes) dans la zone NAD83 UTM 9 découpées sur chaque zone d'intérêt (AOI) du site pour garantir que les mêmes zones sont comparées au fil du temps, puis publiées dans une géodatabase. \n\nCe package de données inclut une géodatabase qui inclut :\n- Caractéristiques vectorielles ponctuelles de la localisation des sites de surveillance.\n- Caractéristiques vectorielles polygonales du varech de la canopée \n- Caractéristiques vectorielles polygonales de la zone d'intérêt (AOI) de chaque site de surveillance\n- Un rapport de métadonnées (.pdf) qui décrit les méthodes de collecte d'images, de génération d'orthomosaïques et de délimitation de l'étendue du varech.\n- Dictionnaire de données (feuille de calcul) qui décrit les attributs des caractéristiques vectorielles polygonales du varech de la canopée.\n\nCe paquet de données est accessible gratuitement à tous, conformément aux principes d'accès équitable et de partage des avantages. Cependant, nous attendons de tous les utilisateurs de données qu'ils attribuent les noms aux fournisseurs de données (lisez notre licence de données) et l'utilisation de ces données doit se faire dans le respect d'une utilisation équitable, c'est-à-dire : 1) respecter les fournisseurs de données et fournir des commentaires utiles sur la qualité des données, et 2) communiquer et/ou collaborer avec les fournisseurs si vous envisagez d'utiliser cet ensemble de données pour des manuscrits ou d'autres formes de reporting."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e"
+  ],
+  "dct_issued_s": "2025-10-14",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia",
+  "gbl_mdModified_dt": "2026-09-16T20:22:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "82f9cae1-1c09-56a4-8680-186ab1831d62",
+  "locn_geometry": "ENVELOPE(-128.4, -128.1, 52.09, 51.65)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

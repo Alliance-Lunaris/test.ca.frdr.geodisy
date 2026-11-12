@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Greenland Sharks (Somniosus microcephalus) are estimated to have the highest longevity of any invertebrate (392 ± 120 years), making bycatch a significant concern (Nielsen et al. 2016). However, in the Newfoundland and Labrador (NL) region, accurate estimates of bycatch are not often available for the species (Simpson et al. 2021). To address this, species distribution models (SDMs) were generated to delineate habitat suitability for the species throughout the NL region in order to identify areas where a higher rate of bycatch is expected to occur.\n\nObservations of Greenland shark bycatch recorded by At-Sea Observers (ASOs) in NL (1983 – 2019), Spain (1999 – 2017), and by the Northwest Atlantic Fisheries Organization (NAFO) Secretariat (2014 – 2019) were compiled to generate a presence-only dataset. Multiple environmental variables were assessed for collinearity, and non-collinear variables (Bathymetry and mean monthly bottom temperature for March and November (1990 – 2015)) were retained for use in the SDM. MaxEnt (maximum entropy) software was used to model habitat suitability because it is a presence-only modelling program that is able to account for a lack of absence data by comparing the environmental conditions at occurrence locations to those at randomly selected background points. \n\nOverall, the results indicated that habitat suitability for Greenland Shark was highest in deeper waters along the shelf edge in NAFO Divisions 3OP, and the Laurentian Channel, but also extended along the edge of the Labrador shelf, the Grand Banks, and deeper areas along the continental shelf such as the Hawke Channel, Funk Island Deep, and the slopes of Saglek, Nain, and Hamilton Banks. Beyond the Economic Exclusive Zone (EEZ) and within the NAFO regulatory area (NRA), suitable habitat was also present within the Flemish Pass, and along the slope of the Flemish Cap and shelf edge in NAFO Divisions 3NO (Simpson et al. 2021). \n\nMore detailed information can be found in Simpson et al. 2021.\n\nReferences:\nNielsen, J., R. B. Hedeholm, J. Heinemeier, P. G. Bushnell, J. S. Christiansen, J. Olsen, C. B. Ramsey, R. W. Brill, M. Simon, K. F. Steffensen, J. F. Steffensen. 2016. Eye lens radiocarbon reveals centuries of longevity in the Greenland shark (Somniosus microcephalus). Science 353 (6300):702-704\n\nSimpson, M. R., Gullage, L., Konecny, C., Ollerhead, N., Treble, M.A., Nogueira, A., González-Costas, F. 2021. Spatial-temporal variation in Greenland shark (Somniosus microcephalus) bycatch in the NAFO Regulatory Area. NAFO SCR Doc. 21/028"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cb06a10b-5e4e-4682-91d1-22a22f55a488"
+  ],
+  "dct_issued_s": "2022-01-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cb06a10b-5e4e-4682-91d1-22a22f55a488\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Habitat Suitability of Greenland Shark (Somniosus microcephalus) in the Newfoundland and Labrador Region",
+  "gbl_mdModified_dt": "2026-03-24T09:06:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "78d448e7-08b1-5f04-b82f-59c699b133bf",
+  "locn_geometry": "ENVELOPE(-64.89711353, -47.67055371, 60.70776738, 44.01202698)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Knowledge of the location of Earth’s surface water in time and space is critical to inform policy decisions on environment, wildlife, and human security. Dynamic surface water maps generally represent water occurrence, also referred to as inundation frequency, depicting the percentage of valid observations when water is detected at the surface. The location and duration of surface water varies from areas of permanent water with 100% inundation frequency where water is always observed, to areas of permanent land with 0% inundation where water never occurs. Between these two extremes are areas of ephemeral water that experience periodic flooding with inundation frequencies between 0-100%. National-scale dynamic surface water information was generated for years 1984-2023 at 30m spatial resolution from the historical Landsat archive over Canada. The complete dataset consists of annual water maps and derived products including inundation frequency and inter-annual wetting and drying trends calculated using per-pixel logistic regression. The complete dataset enables an assessment of the timing, duration, and trends towards wetting or drying at regional to national scales.  \n  \n  Associated publication:  \n  \n  https://www.sciencedirect.com/science/article/pii/S0034425722002358"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/62de5952-a5eb-4859-b086-22a8ba8024b8"
+  ],
+  "dct_issued_s": "2022-04-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/62de5952-a5eb-4859-b086-22a8ba8024b8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery",
+  "gbl_mdModified_dt": "2024-05-30T18:48:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5890d0cb-701e-5013-b34c-f099293cb304",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

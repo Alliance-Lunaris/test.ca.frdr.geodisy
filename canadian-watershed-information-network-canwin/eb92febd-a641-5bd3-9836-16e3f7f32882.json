@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Coastal Infrastructure Vulnerability Index (CIVI) was jointly developed by DFO Science Branch, Small Craft Harbours (SCH) Program and the Economic Analysis and Statistics Directorate. The CIVI was designed with the intent of developing a climate change adaptation tool that would support management decisions regarding the long-term infrastructure planning for SCH sites.\nThe CIVI provides a numerical indication of the relative vulnerability of small craft harbour sites to the effects of climate change and was designed with three component sub-indices: Environmental Exposure (natural forces), Infrastructure, and Socio-economic.  \n\nThe spatial component for the coastline was derived from the CanVec 1:50,000 hydrographic layer (https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b).\nThis layer combines the 1:50,000 CanVec coastline of Canada with the following CIVI environmental exposure variables:\n\n- projected sea level rise (for the decades 2030, 2040,...2100) in meters\n- wave height (metres) and wind speed (metres/second)\n- change in sea ice coverage in Atlantic Canada from the 1970s to the 2000s\n\nSea level change:\nData for relative sea level change (SLC) were derived from the Intergovernmental Panel on Climate Change Fifth Assessment Report (IPCC 2014, AR5).  The projected relative sea level change under the high emission scenario (RCP8.5) was calculated for all years between 2006 and 2100.  Sea level change for the years 2030, 2040, 2050, 2060, 2070, 2080, 2090, and 2100 were used.\n\nWind Speed and Wave Height\nModelled hindcasts of yearly maximum wind speed (1990 - 2012) and wave height (1990- 2014) were used.  This dataset was generated from IFREMER wave hindcasts using the WAVEWATCH III model with wind data from NCEP Climate Forecast System Reanalysis (CFSR) (Saha  et al. 2010).  Two high resolution (10 minute) grids of Atlantic and Pacific maximum modeled wind speeds and maximum significant wave height were used for southern Canadian coastal areas while a coarser (30 minute) worldwide grid was used for the Arctic areas.  From these datasets the mean annual maximum wind speed over 23 years and the mean maximum significant wave height over 25 years were calculated.\n\nChange in sea ice coverage:\nSea ice data from the Canadian Ice Service were acquired for Atlantic and Arctic Canada, representing percent ice coverage for each week over four decades (1970s, 1980s, 1990, 2000s).  For each decade a single dataset was calculated to represent the sum of all weeks with ice coverage in excess of 50%, with a maximum possible score of 52 weeks for each decade.  To measure change in ice duration, the summary mapsheet from the 2000s was subtracted from the 1970s summary mapsheet.  The final dataset represents the change between the 1970s and 2000s in the number of weeks with ice concentrations greater than 50%.  A positive number indicates a reduction in weeks of ice coverage, a negative number an increase in ice coverage.\n\n\nThe data for individual small craft harbours included here contains predicted sea level change for the decades between 2030 and 2100, wave height, windspeed, change in sea ice coverage, population, and the final environmental exposure sub-index value (ESI).  \n\nThe population for each harbour is derived from the 2016 Census of Canada data for the Census subdivision (CSD) geographic unit.\n\nReference:\nRelative sea-level projections for Canada based on the IPCC Fifth Assessment Report and the NAD83v70VG national crustal velocity model\nhttps://doi.org/10.4095/327878 \n\nIPCC, 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1132 pp.\n\nCite this data as: Greenan B. and Greyson P. Coastal Environmental Exposure Layer. Published March 2022. Ocean Ecosystem Science Division, Fisheries and Oceans Canada, Dartmouth, N.S."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e6405791-c9b9-4246-a5ed-e5cf610075b5"
+  ],
+  "dct_issued_s": "2022-04-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e6405791-c9b9-4246-a5ed-e5cf610075b5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Coastal Environmental Exposure Layer",
+  "gbl_mdModified_dt": "2026-03-24T09:09:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb92febd-a641-5bd3-9836-16e3f7f32882",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

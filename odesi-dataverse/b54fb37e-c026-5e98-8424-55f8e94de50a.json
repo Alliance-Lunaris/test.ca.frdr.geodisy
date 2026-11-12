@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Attitude",
+    "Performance",
+    "Health care",
+    "Health",
+    "Government Focus",
+    "Opinions",
+    "Spending"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Health Canada (Canada, Government of Canada)."
+  ],
+  "dct_description_sm": [
+    "Notes: The process of cleaning the original data file mainly invovled correcting typos, reading the data file structure using SPSS and referencing coding available, assigning values to missing data, and adding and editing labels by using SPSS and R-programming. Some typos appeared in the original file, and some of the answers stored in the data file were not recorded exactly as the ones provided in the questionnaire (e.g. capitalization, full label names, etc.). R was used to select certain keywords in a column and assign a new value to all of the cells that includes that particular keywords (recoding in the variable; especially for some inconsistently coded variables, and mixed coded and open-ended variables). Assignment of all of the different responses for each question in the data file corresponded to the data dictionary provided by Health Canada. Additional problems were also corrected for the value lables (respondent answers) using SPSS. Some reformatting of the date from string to numeric was also performed. There were also some missing values in the data file that showed #NULL! or appeared blank, in such cases these were coded as missing and value labels were assigned to represent missing data using SPSS. In the questionnaire, the questions that some respondents refused to answer would also count as missing data. Finally, question text was added to the variables using the Nesstar Publisher tool, based on the questionnaire provided by Health Canada.;",
+    "<p>Canadians' Attitudes Toward the Health Care System is a one-time survey conducted between November and December, 2011. The main purposes of this study were to collect the views and attitudes of Canadians toward the health care system, to examine Canadians' health care priorities, and to generate discussion, ideas and possible initiatives that would lead to a more responsive health care system, in terms of Canadians' needs.</p> <p>The key research objectives of this study were to obtain Canadians' opinions on: <br>- the current state of the health care system; <br>- areas of concern for the system; <br>- suggestion for improving the system; <br>- expectation for improving the system; <br>- how they would like to be engaged and informed on health care issues.</p>"
+  ],
+  "dct_identifier_sm": [
+    "659359_655512",
+    "https://doi.org/10.5683/SP3/IJBRRL"
+  ],
+  "dct_issued_s": "2023-10-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IJBRRL\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "Canadians’ Attitudes Toward the Health Care System",
+  "gbl_mdModified_dt": "2023-10-03T20:05:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b54fb37e-c026-5e98-8424-55f8e94de50a",
+  "pcdm_memberOf_sm": [
+    "Other Canadian and Government Data"
+  ],
+  "schema_provider_s": "ODESI Dataverse"
+}

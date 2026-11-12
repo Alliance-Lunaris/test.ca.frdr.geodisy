@@ -1,0 +1,67 @@
+{
+  "dcat_keyword_sm": [
+    "Aoroides columbiae",
+    "Alvania sp.",
+    "seagrass",
+    "Marine",
+    "predator mediated coexistence",
+    "trophic interaction",
+    "Pontogeneia rostrata",
+    "Photis brevipes",
+    "Lacuna vincta",
+    "top down",
+    "current",
+    "prey",
+    "bottom up",
+    "Composition",
+    "Caprella sp.",
+    "Idotea resecata",
+    "Monocorophium acherusicum",
+    "Zostera marina",
+    "competitive exclusion"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Amundrud, Sarah L. (University of British Columbia).",
+    "Srivastava, Diane S. (University of British Columbia).",
+    "O'Connor, Mary I. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/Fu4mPRTXZ2EFMXvLBbopl1jCnBYuAi-0_Ijpr-hgIto</p>\n<p><b>Storage size:</b> 34257</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>1. Herbivore communities can be sensitive to changes in predator pressure (top-down effects) and resource availability (bottom-up effects) in a wide range of systems. However, it remains unclear whether such top-down and bottom-up effects reflect direct impacts of predators and/or resources on herbivores, or are indirect, reflecting altered interactions among herbivore species. 2. We quantified direct and indirect effects of bottom-up and top-down processes on an eelgrass (Zostera marina) herbivore assemblage. In a field experiment, we factorially manipulated water column nutrients (with Osmocote™ slow-release fertilizer) and predation pressure (with predator exclusion cages) and measured the effects on herbivore abundance, richness and beta diversity. We examined likely mechanisms of community responses by statistically exploring the response of individual herbivore species to trophic manipulations. 3. Predators increased herbivore richness and total abundance, in both cases through indirect shifts in community composition. Increases in richness occurred through predator suppression of common gammarid amphipod species (Monocorophium acherusicum and Photis brevipes), permitting the inclusion of rarer gammarid species (Aoroides columbiae and Pontogeneia rostrata). Increased total herbivore abundance reflected increased abundance of a caprellid amphipod species (Caprella sp.), concurrent with declines in the abundance of other common species. Furthermore, predators decreased beta diversity by decreasing variability in Caprella sp. abundance among habitat patches. 4. Osmocote™ fertilization increased nutrient concentrations locally, but nutrients dissipated to background levels within 3 m of the fertilizer. Nutrient addition weakly affected the herbivore assemblage, not affecting richness and increasing total abundance by increasing one herbivore species (Caprella sp.). Nutrient addition did not affect beta diversity. 5. We demonstrated that assemblage-level effects of trophic manipulations on community structure are the result of distinct and often indirect responses of herbivore species. These results underscore the importance of understanding herbivore–herbivore interactions in a system commonly subjected to both eutrophication and overfishing.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Abundances of individual eelgrass mesograzer species on Artificial Seagrass Units (ASUs)</h4><div class=\"o-metadata__file-description\">To examine the relative importance of bottom-up and top-down control of the eelgrass (Zostera marina) mesograzer community, nutrients (2 levels) and predators (3 levels) were manipulated in a full factorial experimental design (n = 10 replicates per treatment combination) for seven weeks (June 17 – July 28, 2011). 60 artificial seagrass units (ASUs) were randomly arranged in three rows, parallel to the shore in the subtidal Z. marina zone, and distributed such that ASUs were separated by 3 m within and between rows. ASUs were made of frayed rope (length = 35 cm) to mimic seagrass or branching algal habitat, and were used to sample mesograzers on a standard surface area. This data file gives the abundances of the eight mesograzers on ASUs for each treatment. Cage.Trt: the predator exclusion cage treatment (full = full cage/predator exclusion; partial = partial cage/predators have access/cage control; none = no cage/predator have access/control). Nut.Trt: the nutrient addition treatment (0 = no nutrients added; 1 = nutrients added (30 g Osmocote slow release fertilizer)).</div><div class=\"o-metadata__file-name\">data.grazers.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Water column nutrient concentrations in response fertilizer addition</h4><div class=\"o-metadata__file-description\">We experimentally tested the effectiveness of slow release fertilizer (Osmocote) for increasing nutrient concentrations at the scale of our replicates and not in adjacent replicates 3 m away. Plot: plot ID. nutrient trtm: nutrient treatment (Y = fertilizer satchel added; N3 is 3m away from fertilizer satchel, N7 = 7m away from satchel to measure ambient nutrient concentrations). dist.to.satchel.m = distance from fertilizer satchel in meters. init.nut.weight is dry mass of fertilizer pellets in g before placing it in the field, fin.nut.weight is final dry mass after three days at the study site. PO4.uM, SiO2.uM, and NOx.uM are nutrient concentrations measured in uM.</div><div class=\"o-metadata__file-name\">Nutrient.experiment.data.csv</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152467_1226260_150149",
+    "https://doi.org/10.5683/SP2/AVIUYO"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/AVIUYO\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Tsawwassen",
+    "British Columbia",
+    "49° 1’N",
+    "123° 5’W",
+    "Puget Sound"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Indirect effects of predators control herbivore richness and abundance in a benthic eelgrass (Zostera marina) mesograzer community",
+  "gbl_mdModified_dt": "2021-05-20T02:48:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ccff970c-5d1d-59f1-b020-eaad9a3237dc",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

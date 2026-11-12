@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "assortative mating",
+    "interbreeding",
+    "hybrid zone",
+    "Hybridization"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Irwin, Darren (University of British Columbia). ORCID: https://orcid.org/0000-0002-1050-5841",
+    "Schluter, Dolph (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/9qrQUKgKAcGc8vZ9NHoQpF5qVGZJjtumv4oLa_Ii1Mg</p>\n<p><b>Storage size:</b> 199691679</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p style=\"text-align:start;text-indent:0px;\"><span><span style=\"font-style:normal;\"><span><span style=\"font-weight:normal;\"><span style=\"letter-spacing:normal;\"><span><span><span style=\"white-space:normal;\"><span><span><span>It is thought that two species can coexist if they use different resources present in the environment, yet this assumes that species are completely reproductively isolated. We model coexistence outcomes for two sympatric species that are ecologically differentiated but have incomplete reproductive isolation. The consequences of interbreeding depend crucially on hybrid fitness. When hybrid fitness is high, just a small rate of hybridization can lead to collapse of two species into one. Low hybrid fitness can cause population declines, making extinction of one or both species likely. High intrinsic growth rates result in higher reproductive rates when populations are below carrying capacity, reducing the probability of extinction and increasing the probability of stable coexistence at moderate levels of assortative mating and hybrid fitness. Very strong but incomplete assortative mating can induce low hybrid fitness via a mating disadvantage to rare genotypes, and this can stabilize coexistence of two species at high but incomplete levels of assortative mating. Given these results and evidence that it may take many millions of years of divergence before related species become sympatric, we postulate that coexistence of closely-related species is more often limited by insufficient assortative mating than by insufficient ecological differentiation.</span></span></span></span></span></span></span></span></span></span></span></p>",
+    "<b>Methods</b><br /><p>This Dryad package contains data files and Julia and R code to run HZAM-Sym (Hybrid Zone with Assortative Mating, Sympatric case) simulations and to generate data figures shown in this paper:</p>\r\n\r\n<p>Irwin, D., and D. Schluter. <span><span style=\"font-style:normal;\"><span><span style=\"font-weight:normal;\"><span style=\"letter-spacing:normal;\"><span><span><span style=\"white-space:normal;\"><span><span><span>Hybridization and the coexistence of species. bioRxiv. </span></span></span></span></span></span></span></span></span></span></span>https://doi.org/10.1101/2021.04.04.438369</p>\r\n\r\n<p>Note that the first bioRxiv version of the above manuscript was based on only the R code, whereas the second version incorporates results of the same model written in and graphed using Julia.</p>\r\n\r\n<p>Please see that second version of the bioRxiv paper for a full description of the model that produced the data.</p>",
+    "<b>Usage notes</b><br /><p>The files in this package are each described below:</p>\r\n\r\n<p><strong>HZAM_Sym_Julia_V1.jl</strong><br>\r\nThis is the Julia code that can be used to run HZAM-Sym. This Julia version was used to generate the results panels used in the second version of the paper.</p>\r\n\r\n<p><strong>HZAM_Sym_Julia_Dryad_results.zip</strong><br>\r\nThis compressed folder (which should be unzipped before use) contains .pdf and .png files of results panels and .jld2 files containing Julia data summarizing results of the simulations run using the Julia version of HZAM-Sym (see above). See the HZAM_Sym_Julia_V1.jl file for explanation.</p>\r\n\r\n<p><strong>HZAM-Sym_release_1.0.R</strong><br>\r\nThis is the R code that can be used to run HZAM-Sym and generate the figures used in the paper (using the data files described below).</p>\r\n\r\n<p><strong>simulation_data_HZAM_files.zip</strong><br>\r\nThis compressed folder (which should be unzipped before use) contains 6,762 files containing output from HZAM-Sym simulations. The code in the latter part of the \"HZAM-Sym_release_1.0.R\" file uses these data files to produce figures in the paper.</p>"
+  ],
+  "dct_identifier_sm": [
+    "199730_150149",
+    "https://doi.org/10.5683/SP3/7FAP0B"
+  ],
+  "dct_issued_s": "2021-09-14",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/7FAP0B\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Hybridization and the coexistence of species: HZAM-Sym code and data files",
+  "gbl_mdModified_dt": "2021-09-14T16:10:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "42bc557e-21ca-5175-939f-fec761e23365",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

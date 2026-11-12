@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Événement",
+    "Aléa",
+    "Sinistre",
+    "Sévérité",
+    "Sécurité civile"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des opérations."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données a pour but de permettre de localiser les événements de sécurité civile consignés par la Direction des opérations du ministère de la Sécurité intérieure. Il regroupe de façon structurée l’information opérationnelle reliée aux sinistres terminés ayant eu des conséquences sur les citoyens, les biens ou les services à la population depuis juin 2020. Les événements en cours ne sont pas présentés.\r\n\r\nOn y retrouve des informations concernent la date de signalement, l’aléa, la municipalité et la sévérité de l’événement.\r\n\r\nAttention :\r\nLe libellé des aléas a été changé en 2026 (voir liste dans les informations complémentaires).\r\n\r\nLe degré de sévérité a changé de signification en janvier 2026 :\r\n\r\n* __En surveillance__ (anciennement Inconnue):\r\nNégligeable ou Surveillance, aucune perturbation. La sévérité minimale “En surveillance” isole les événements en surveillance ou en prévision (par opposition aux événements avec des impacts réels c'est à dire où les interventions et conséquences se matérialisent).\r\nCes événements sont séparés dans une couche nommée __Événements de sécurité civile potentiels__ . \r\nLa couche __Événements de sécurité civile__ quant à elle, exclut les événements de sévérité \"En surveillance\".  \r\n\r\n* __Mineure__ : Fonctionnement normal de la communauté malgré certaines perturbations mineures, ne nécessitant pas ou \r\nnécessitant une mobilisation limitée des ressources locales, impacts localisés, rétablissement rapide.\r\n\r\n* __Modérée__ : Perturbations du fonctionnement de la communauté nécessitant une mobilisation importante des ressources locales ou des ententes existantes. Dégradation ou interruption partielle de certains services et secteurs d’activité, enjeu médiatique spécifique, plusieurs secteurs touchés.\r\n\r\n* __Importante__ : Perturbation importante du fonctionnement de la communauté et de longue durée. Mobilisation de ressources externes requises pour certains enjeux. Interruption ou dégradation importante de la majorité des services.\r\n\r\n* __Extrême__ : Situation lors de laquelle la communauté ne peut pas fonctionner sans un soutien de ressources externes important, évacuation massive, pertes considérables.\r\n\r\nPour les points AVANT 2026 : la sévérité utilisée est définie selon le profil canadien du protocole d’alerte commun (PC-PAC). Il est utilisé pour caractériser le niveau de gravité d’un événement en fonction de l’atteinte à la vie de personnes ou de dommages à la propriété. Pour plus de renseignements sur le PC-PAC, consulter le site internet de Sécurité publique Canada.\r\n\r\n* Extrême : menace extraordinaire à la vie ou à la propriété;\r\n \r\n* Importante : menace importante à la vie ou à la propriété; \r\n\r\n* Modérée : menace possible à la vie ou à la propriété; \r\n\r\n* Mineure : menace faible ou inexistante à la vie ou à la propriété; \r\n\r\n* En surveillance/Inconnue : gravité inconnue."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae"
+  ],
+  "dct_issued_s": "2020-10-07",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/524cbe9b-9a96-42fb-bc7e-f9cdab3cffae\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Loi, justice et sécurité publique",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Événements de sécurité civile",
+  "gbl_mdModified_dt": "2026-09-24T20:20:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "648534ea-a18f-5af2-a8d9-89d14d1e9a74",
+  "schema_provider_s": "Données Québec"
+}

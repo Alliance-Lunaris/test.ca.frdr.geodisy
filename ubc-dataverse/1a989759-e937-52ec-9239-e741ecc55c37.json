@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Corallite",
+    "G matrix",
+    "Holocene",
+    "Favia fragum",
+    "genetic correlation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Carlon, David B (University of Hawaii at Manoa).",
+    "Budd, Ann F (University of Iowa).",
+    "Lippé, Catherine (University of Hawaii at Manoa).",
+    "Andrew, Rose L (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/tzmmm9jgpTtrWVuTbxN9o2GH9CUkv43aRweevF6Oxrw</p>\n<p><b>Storage size:</b> 391419</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Recent speciation events provide potential opportunities to understand the microevolution of reproductive isolation. We used a marker-based approach and a common garden to estimate the additive genetic variation in skeletal traits in a system of two ecomorphs within the coral species Favia fragum: a Tall ecomorph that is a seagrass specialist, and a Short ecomorph that is most abundant on coral reefs. Considering both ecomorphs, we found significant narrow-sense heritability (h²) in a suite of measurements that define corallite architecture, and could partition additive and non-additive variation for some traits. We found positive genetic correlations for homologous height and length measurements among different types of vertical plates (costosepta) within corallites, but negative correlations between height and length within, as well as between costosepta. Within ecomorphs, h² estimates were generally lower, compared to the combined ecomorph analysis. Marker-based estimates of h² were comparable to broad-sense heritability (H) obtained from parent-offspring regressions in a common garden for most traits, and similar genetic co-variance matrices for common garden and wild populations may indicate relatively small G × E interactions. The patterns of additive genetic variation in this system invite hypotheses of divergent selection or genetic drift as potential evolutionary drivers of reproductive isolation.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">adults</h4><div class=\"o-metadata__file-description\">Description of Dryad file \"adults.csv\" - This file contains the morphometric data and microsatellite genpotypes used to estimate heritability from wild populations. The dimensions are 70 columns x 128 rows. The first row is simply a column counter for the file. Rows > 1 contain data for a single coral colony. Columns 1-3 contain ecomorph, habitat, and site information. Note that the \"STRI Point\" site represents the lagoon environment in the manuscript, and the \"Playa paunch\" site represents the exposed reef environment. Columns 4-34 contain bookstein coordinates for the landmarks described in Appendix S1. Columns 35-41 contain linear distances (mm) also described in Appendix S1. Columns 46-71 contain microsatellite genotype information for each individual coral. The label in row 2 is the locus name. The two columns under each label contain the allele size in base pair of the SSR for each chromosome. I.e. column 42 contains the two allele sizes for locus \"D3\": this locus in homozygous as both alleles are 270 bp long. A \"0\" in these columns indicates the product did not amplify, which we interpret as a null allele (see text).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">common_garden</h4><div class=\"o-metadata__file-description\">Description of Dryad file \"common_garden.csv\" - This file contains the morphometric data and microsatellite genpotypes used to estimate heritability from a common garden. The dimensions are 70 columns x 266 rows. The first row is simply a column counter for the file. Rows > 1 contain data for a single coral colony grown in the common garden. Columns 1-4 contain ecomorph, habitat, site, and individual information. Note that the \"STRI Point\" site represents the lagoon environment in the manuscript, and the \"Playa paunch\" site represents the exposed reef environment.  Individual labels, e.g. \"DS14.1\", contain the following information: (i) first letter indicates habitat (D=reef, S= Seagrass), (ii) second letter indicates ecomorph (S= Short, T= Tall), (iii) following two digits indicate the dam identity, and (iv) the final digit indicates offspring identity.  Thus offpspring with the same dam identity are sibs. Columns 5-35 contain bookstein coordinates for the landmarks described in Appendix S1. Columns 36-42 contain linear distances (mm) also described in Appendix S1. Columns 43-70 contain microsatellite genotype information for each individual coral, inferred from the maternal dam, see text for details. The label in row 2 is the locus name. The two columns under each label contain the allele size in base pair of the SSR for each chromosome. I.e. column 42 contains the two allele sizes for locus \"D3\": this locus in homozygous as both alleles are 270 bp long. A \"0\" in these columns indicates the product did not amplify, which we interpret as a null allele (see text).</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">parent_offpsring</h4><div class=\"o-metadata__file-description\">Description of Dryad file \"parent_offspring.csv\" - This file contains the morphometric data for wild parents and their offspring grown in a common garden. The dimensions are 80 columns x 264 rows. The data is structures so that \"y-values\" the data prefixed by \"O\" in columns 42-80 can be regressed on \"x-values\" or the data prefixed by \"P\" in columns 5-41. The first row is simply a column counter for the file. Rows > 1 contain morphometric measurements for wild parents and common garden offspring. Columns 1-4 contain ecomorph, habitat, site, and dam information. Note that the \"STRI Point\" site represents the lagoon environment in the manuscrpt.  Dam labels, e.g. \"DS-14\", contain the following information: (i) first letter indicates habitat (D=reef, S= Seagrass), (ii) second letter indicates ecomorph (S= Short, T= Tall), (iii) a number > \"-\" indicating dam identity. Columns 5-42 contain bookstein coordinates and linear measurements for the maternal dam. Dam measurements have the prefix \"P\" added to the codes described in Appendix S1. Columns 42-80 contain bookstein coordinates and linear measurements for an individual offpspring. Offspring measurements have the prefix \"O\" added to the codes described in Appendix S1.</div><div class=\"o-metadata__file-name\">parrent_offpsring.csv</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153814_1226260_150149",
+    "https://doi.org/10.5683/SP2/QD1ICG"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/QD1ICG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Bocas del Toro",
+    "Panama"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: The quantitative genetics of incipient speciation: heritability and genetic correlations of skeletal traits in populations of diverging Favia fragum ecomorphs.",
+  "gbl_mdModified_dt": "2021-05-19T20:36:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1a989759-e937-52ec-9239-e741ecc55c37",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

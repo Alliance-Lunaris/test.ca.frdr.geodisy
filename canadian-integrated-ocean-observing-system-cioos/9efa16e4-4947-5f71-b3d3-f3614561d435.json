@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-93.9634, -93.557, 49.7751, 49.5864)",
+  "dcat_keyword_sm": [
+    "épaisseur",
+    "ice duration",
+    "climate change",
+    "changement climatique",
+    "IISD Experimental Lakes Area",
+    "thickness",
+    "phénologie des glaces",
+    "Région des lacs expérimentaux de l'IISD",
+    "ice phenology",
+    "durée de la glace"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Région des lacs expérimentaux de l'IISD : phénologie et épaisseur de la glace"
+  ],
+  "dct_creator_sm": [
+    "DataStream.",
+    "IISD Experimental Lakes Area."
+  ],
+  "dct_description_sm": [
+    "The IISD Experimental Lakes Area (IISD-ELA) Ice Phenology and Thickness data package provides two types of ice data from multiple lakes in northwestern Ontario, Canada. Ice phenology is the timing of when lakes freeze over in the fall and thaw out in the spring, and ice cover duration for each winter. Ice thickness is the measured total depth of ice at locations on each of the frozen lakes.\n\nThe ice phenology data consists of a row for each ice-on date, ice-off date, and ice duration period for each lake, including the associated sampling method and any comments. The ice thickness table has a row for each total ice thickness measurement of a frozen lake on a specific date. Although this dataset includes data from a number of lakes, Lake 239 has the longest and most consistent data record, for both ice phenology and thickness.\n\nThis dataset on Lake Winnipeg DataStream is also published in parallel at the Environmental Data Initiative (EDI) repository (https://portal.edirepository.org/nis/revisionbrowse?scope=edi&identifier=1785). The only differences are: the formatting of data and metadata, the inclusion on EDI of additional data for the individual layer measurements in the ice thickness dataset (snow, slush, white ice, and black ice), and the inclusion on EDI of three additional metadata files (a CSV table of location coordinates and record counts, a PDF information sheet for ice phenology, and a PDF information sheet for ice thickness). For additional data about our lakes, see our bathymetry data package:  https://portal.edirepository.org/nis/revisionbrowse?scope=edi&identifier=1276",
+    "L'ensemble de données sur la phénologie et l'épaisseur de la glace de la région des lacs expérimentaux de l'IISD (IISD-ELA) fournit deux types de données sur la glace provenant de plusieurs lacs du nord-ouest de l'Ontario, au Canada. La phénologie glaciaire est le moment où les lacs gèlent à l'automne et dégelent au printemps, et la durée de la couverture de glace pour chaque hiver. L'épaisseur de la glace est la profondeur totale mesurée de la glace à certains endroits sur chacun des lacs gelés.\n\nLes données de phénologie des glaces consistent en une ligne pour chaque date de début de glace, date de déglaçage et période de durée de glace pour chaque lac, y compris la méthode d'échantillonnage associée et les commentaires éventuels. Le tableau des épaisseurs de glace comporte une ligne pour chaque mesure de l'épaisseur totale de glace d'un lac gelé à une date précise. Bien que cet ensemble de données comprenne des données provenant d'un certain nombre de lacs, le lac 239 possède l'enregistrement de données le plus long et le plus cohérent, à la fois pour la phénologie et l'épaisseur de la glace.\n\nCet ensemble de données sur le lac Winnipeg DataStream est également publié en parallèle dans le référentiel de l'Environmental Data Initiative (EDI) (https://portal.edirepository.org/nis/revisionbrowse?scope=edi&identifier=1785). Les seules différences sont les suivantes : le formatage des données et des métadonnées, l'inclusion sur EDI de données supplémentaires pour les mesures des couches individuelles dans l'ensemble de données sur l'épaisseur de la glace (neige, neige fondante, glace blanche et glace noire) et l'inclusion sur EDI de trois fichiers de métadonnées supplémentaires (un tableau CSV contenant les coordonnées de localisation et le nombre d'enregistrements, une fiche d'information PDF pour la phénologie de la glace et une fiche d'information PDF pour l'épaisseur de la glace). Pour des données supplémentaires sur nos lacs, consultez notre dossier de données bathymétriques : https://portal.edirepository.org/nis/revisionbrowse?scope=edi&identifier=1276"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/7d88d6b8-878c-46bc-a64a-0ec03c0fa7ca"
+  ],
+  "dct_issued_s": "2024-10-24",
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/7d88d6b8-878c-46bc-a64a-0ec03c0fa7ca\"}",
+  "dct_rights_sm": [
+    "Open Data Commons Attribution License 1.0 https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_title_s": "IISD Experimental Lakes Area: Ice Phenology and Thickness",
+  "gbl_mdModified_dt": "2026-07-31T15:59:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9efa16e4-4947-5f71-b3d3-f3614561d435",
+  "locn_geometry": "ENVELOPE(-93.9634, -93.557, 49.7751, 49.5864)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

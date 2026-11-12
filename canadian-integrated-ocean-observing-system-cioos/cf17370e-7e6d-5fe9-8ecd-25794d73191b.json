@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.3704833984375, -124.75524902343749, 50.291094042311386, 49.9229354544957)",
+  "dcat_keyword_sm": [
+    "quadra",
+    "other",
+    "oceans",
+    "lidar",
+    "archaeology",
+    "discovery",
+    "island",
+    "dem",
+    "savery",
+    "autre",
+    "topography",
+    "geospatial"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données LiDAR des îles Discovery - 2014 - Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "LiDAR Research Group (University of Northern British Columbia).",
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Three LiDAR mission areas were flown on August 7th to cover all of Savary Island and portions of Quadra Island. The Quadra North West zone covers Small Inlet and Waiatt Bay / Octopus Islands area; Quadra South covers surge narrows to Village Lake and Heriot Bay.  \n\nDates: Aug. 7, 2014\nConducted by: UNBC LiDAR Research Group\nArea Covered: 8.75 km^2 (Savary Island), 14.35 km^2 (Quadra NW), 47.71 km^2 (Quadra South).\nFlight Height: 475 m\nProjection: UTM Zone 10\nDatum: CSRS NAD 83\nGeoid: Ellipdoid heights\nAverage Point Density: 12.5 pts / m2 (Savary Island), 18.2 pts / m2 (Quadra NW), 20.1 pts / m2 (Quadra South).\nLiDAR points were processed in CSRS NAD83 UTM Zone 10, but use ELLIPSOID heights. Conversion to CGVD28 was completed after DEM creation using GPS-H.\nScanner Type: Riegl VQ-580\nSupervisor: Brian Menounos\nTechnician: Rob Vogt\nPrecise trajectory for the plane is solved using PosPac MMS. A calibration line across the base station both before and after the survey was used to aid in forward and reverse processing of the trajectory.\nPrecise location for the base station was adjusted using NR Can's PPP. Position accuracy of the trajectory is ±3 cm.\n\nThere is a GNSS station established on Quadra Island as part of the Western Canada Deformation Array (WCDA) and the Canadian Active Control System (CACS). This station, approximately 40 km away, was used as the base station of flights of Savary Island. Further information on the station can be found at http://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M067000\nPrecise trajectory for the plane is solved using PosPac MMS. A calibration line across the base station both before and after the survey was used to aid in forward and reverse processing of the trajectory.\nPosition accuracy of the trajectory is ±5 cm.\nLiDAR points were processed in CSRS NAD83 UTM Zone 9, but use ELLIPSOID heights. Conversion\nto CGVD28 was completed after DEM creation using GPS-H. Attempts at converting the point cloud to\ngeoid heights resulted in a program crash.\n\nData outputs from the Discovery Island lidar survey include a digital surface model, las point cloud datasets, and digital elevation models.",
+    "Trois zones de mission LiDAR ont été effectuées le 7 août pour couvrir toute l'île Savary et certaines parties de l'île Quadra. La zone nord-ouest de Quadra couvre Small Inlet et Waiatt Bay/Octopus Islands ; Quadra South couvre les passages de marée menant au lac Village et à la baie Heriot. \n\nDates : 7 août 2014\nDirigé par : UNBC LiDAR Research Group\nSuperficie couverte : 8,75 km^2 (île Savary), 14,35 km^2 (Quadra NW), 47,71 km^2 (Quadra sud).\nHauteur de vol : 475 m\nProjection : UTM Zone 10\nDate : CSRS NAD 83\nGéoïde : hauteurs d'ellipdoïdes\nDensité moyenne des points : 12,5 points/m2 (île Savary), 18,2 points/m2 (Quadra NW), 20,1 pts /m2 (Quadra sud).\nLes points LiDAR ont été traités dans CSRS NAD83 UTM Zone 10, mais utilisent des hauteurs d'ELLIPSOÏDES. La conversion au CGVD28 a été achevée après la création du MNT à l'aide du GPS-H.\nType de scanner : Riegl VQ-580\nsuperviseur (e) : Brian Menounos\nTechnicien : Rob Vogt\nLa trajectoire précise de l'avion est résolue à l'aide du MMS PoSPAC. Une ligne d'étalonnage à travers la station de base avant et après le levé a été utilisée pour faciliter le traitement avant et arrière de la trajectoire.\nL'emplacement précis de la station de base a été ajusté à l'aide du PPP de NR Can. La précision de position de la trajectoire est de ±3 cm.\n\nUne station GNSS est installée sur l'île Quadra dans le cadre du Western Canada Deformation Array (WCDA) et du Système canadien de contrôle actif (CACS). Cette station, située à environ 40 km, a été utilisée comme station de base pour les vols de Savary Island. Vous trouverez de plus amples informations sur la station à l'adresse http://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M067000\nLa trajectoire précise de l'avion est résolue à l'aide du MMS PoSPAC. Une ligne d'étalonnage à travers la station de base avant et après le levé a été utilisée pour faciliter le traitement avant et arrière de la trajectoire.\nLa précision de position de la trajectoire est de ±5 cm.\nLes points LiDAR ont été traités dans la zone 9 UTM CSRS NAD83, mais utilisent des hauteurs d'ELLIPSOÏDES. Conversion\nau CGVD28 a été achevé après la création du MNT à l'aide du GPS-H. Tentatives de conversion du nuage de points en\ngeoid heights a provoqué un crash du programme.\n\nLes données issues du levé lidar de Discovery Island incluent un modèle numérique de surface, des jeux de données de nuages de points et des modèles numériques d'altitude."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/57770468-42a9-4654-bf7d-7672939ed002"
+  ],
+  "dct_issued_s": "2017-04-06",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/57770468-42a9-4654-bf7d-7672939ed002\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-09-22T21:20:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cf17370e-7e6d-5fe9-8ecd-25794d73191b",
+  "locn_geometry": "ENVELOPE(-125.3704833984375, -124.75524902343749, 50.291094042311386, 49.9229354544957)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

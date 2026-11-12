@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.511471, -117.511471, 51.251864, 51.251864)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Imbach, Benjamin (Université du Québec à Rimouski, Université de Sherbrooke). ORCID: https://orcid.org/0009-0009-1002-9900",
+    "Madore, Jean-Benoit (Université de Sherbrooke). ORCID: https://orcid.org/0000-0002-9336-7615",
+    "Jones, Andrew (Parks Canada, University of Michigan-Ann Arbor).",
+    "Brown, Catherine (Parks Canada)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains recordings from the Abbott weather station located in Glacier National Park, British Columbia, Canada. It is divided into two subdatasets: an hourly dataset and a 10 minute based dataset. The station is used primarily for winter avalanche forecasting; therefore, it is deactivated during summer months. The usual recording period begins in early October and ends in late May. Parks Canada staff visit and maintain the station multiple times each winter, and instruments are repaired and calibrated during the summer when required. For more details, refer to the Data and File Overview section in this README. File names indicate whether the data represent hourly or 10 minute recordings, and include the first and last timestamps contained in each file."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01517"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01517\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "-, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Mountain weather",
+    "Earth and related environmental sciences",
+    "Météorologie et temps",
+    "Sciences de l'atmosphère",
+    "Meteorology and weather",
+    "avalanche hazard assessment",
+    "climate",
+    "Winter weather station",
+    "Sciences de la Terre et sciences de l'environnement connexes",
+    "precipitation",
+    "Weather Station",
+    "snowfall",
+    "meteorological dataset",
+    "Atmospheric sciences"
+  ],
+  "dct_title_s": "Abbott historical weather station datasets, Glacier National Park, British Columbia, Canada.",
+  "gbl_mdModified_dt": "2026-09-01T08:22:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7a9d506a-5183-56de-9277-0329a310828e",
+  "locn_geometry": "ENVELOPE(-117.511471, -117.511471, 51.251864, 51.251864)",
+  "schema_provider_s": "Glacier National Park Weather, Snow, and Avalanche Collection, British Columbia, Canada"
+}

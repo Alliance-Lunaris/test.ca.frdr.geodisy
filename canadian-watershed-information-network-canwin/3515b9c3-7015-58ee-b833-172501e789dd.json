@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This publication contains a raster maps at 250 m resolution of the merchantable volume (m3/ha) of the mature Canadian forest available for harvesting in the next 20 years (2011 to 2031). The maps were produced from remote sensing products at a spatial resolution of 250 m on the MODIS pixel grid and 30 m on the Landsat pixel grid. More specifically, we used forest attribute data at the 250 m pixel for the years 2001 and 2011 (Beaudoin et al 2014 and 2018) combined with forest cover changes for the years 1985 to 2015 at 30 m (Guindon et al. 2017 and 2018). The map of mature forests in Canada was prepared at the forest management unit (FMU) level and therefore exclude private lands.    \n  \n  To be considered mature (i.e. available for cutting in the next 20 years), the forest pixels of Beaudoin et al. (2018) was to have a merchantable volume per ha equal to or greater than 80% of the average merchantable volume of the pixels that were harvested between 2001 and 2011 per forest management unit.   \n  \n  A scientific article gives additional details on the methodology:  Barrette J, Paré D, Manka F, Guindon L, Bernier P, Titus B. 2018. Forecasting the spatial distribution of logging residues in Canada’s managed forests. Can. J. For. Res. 48:   http://www.nrcresearchpress.com/doi/10.1139/cjfr-2018-0080  \n  \n  Reference for this dataset: Barrette J, Paré D, Manka F, Guindon L, Bernier P, Titus B. 2018. Forecasting the spatial distribution of logging residues in Canada’s managed forests. Natural Resources Canada, Canadian Forest Service, Laurentian Forestry Centre, Quebec, Canada. https://doi.org/10.23687/dd94871a-9a20-47f5-825b-768518140f35"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dd94871a-9a20-47f5-825b-768518140f35"
+  ],
+  "dct_issued_s": "2018-10-01",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dd94871a-9a20-47f5-825b-768518140f35\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Map of the merchantable volume of the “mature forest” in Canada",
+  "gbl_mdModified_dt": "2022-02-22T23:10:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3515b9c3-7015-58ee-b833-172501e789dd",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.113, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

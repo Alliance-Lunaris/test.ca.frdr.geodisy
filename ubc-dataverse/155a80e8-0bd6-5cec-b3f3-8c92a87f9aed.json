@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Blepsias cirrhosus",
+    "microarray",
+    "hypoxia",
+    "Intertidal environment",
+    "Sculpins",
+    "Transcriptomics",
+    "Oligocottus maculosus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mandic, Milica (University of British Columbia).",
+    "Ramon, Marina L. (University of Southern California).",
+    "Gracey, Andrew Y. (University of Southern California).",
+    "Richards, Jeffrey G. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/yNn_rnSh60owqoE12v_pqNHkRRJ5a-mG1m5gQ2UAh1M</p>\n<p><b>Storage size:</b> 7449841</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Transcriptionally mediated phenotypic plasticity as a mechanism of modifying traits in response to an environmental challenge remains an important area of study. We compared the transcriptional responses to low-oxygen (hypoxia) of the hypoxia tolerant intertidal fish, the tidepool sculpin (Oligocottus maculosus) with the closely related hypoxia intolerant subtidal fish, the silverspotted sculpin (Blepsias cirrhosus) to determine if these species use different mechanisms to cope with hypoxia. Individuals from each species were exposed to environmental O2 tensions chosen to yield a similar level of tissue hypoxia and gene transcription was assessed in the liver over time. There was an effect of time in hypoxia, where the greatest transcriptional change in the silverspotted sculpin occurred between 3 to 24 hours in contrast to the tidepool sculpin where the largest transcriptional change occurred between 24 and 72 hours of hypoxia. A number of genes showed similar hypoxia-induced transcription patterns in both species (e.g. genes associated with glycolysis and apoptosis) suggesting they are involved in a conserved hypoxia response. A large set of genes showed divergent transcriptional patterns in the two species, including fatty acid oxidation and oxidative phosphorylation, suggesting that these biological processes may contribute to explaining variation in hypoxia tolerance in these species. When both species were exposed to a single environmental O2 tension, large transcriptional responses were seen in the hypoxia intolerant silverspotted sculpin while almost no response was observed in the hypoxia tolerant tidepool sculpin. Overall, divergent transcription patterns in response to both magnitude and duration of hypoxia provide insights into the processes that may determine an animal's capacity to tolerate frequent bouts of hypoxia in the wild.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Transcriptomic data for O. maculosus and B. cirrhosis</h4><div class=\"o-metadata__file-description\">Raw data of hybridization assays for both species of sculpin for all time-points at all O2 tensions. Available in ArrayExpress at http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3043/. When reusing these data, please include the following citation: Microarray data are available in the ArrayExpress database (www.ebi.ac.uk/arrayexpress) under accession number E-MTAB-3043.</div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Microarray Analysis of Variance</h4><div class=\"o-metadata__file-description\">The R script containing the code for microarray analysis of variance used in the r/maanova package.</div><div class=\"o-metadata__file-name\">MaanovaAnalysis.rtf</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Principal Component Analysis</h4><div class=\"o-metadata__file-description\">The R script containing the code for principal component analysis via the 'Easy Microarray data Analysis' package.</div><div class=\"o-metadata__file-name\">PrincipalComponentAnalysis.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Tidepool Sculpin Data File</h4><div class=\"o-metadata__file-description\">Tidepool sculpin coalesced data of hybridization assays.</div><div class=\"o-metadata__file-name\">TidepoolSculpinDataFile.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Tidepool Sculpin Design File</h4><div class=\"o-metadata__file-description\">Tidepool sculpin design data file for running r/maanova.</div><div class=\"o-metadata__file-name\">TidepoolSculpinDesignFile.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Silverspotted Sculpin Data File</h4><div class=\"o-metadata__file-description\">Silverspotted sculpin coalesced data of hybridization assays.</div><div class=\"o-metadata__file-name\">SilverspottedSculpinDataFile.txt</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Silverspotted Sculpin Design File</h4><div class=\"o-metadata__file-description\">Silverspotted sculpin design data file for running r/maanova.</div><div class=\"o-metadata__file-name\">SilverspottedSculpinDesignFile.txt</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151804_150149",
+    "https://doi.org/10.5683/SP2/WVTSDJ"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/WVTSDJ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Bamfield",
+    "British Columbia",
+    "Wizard's Rock (48°51.5′N; 125°9.4′W)"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Divergent transcriptional patterns are related to differences in hypoxia tolerance between the intertidal and the subtidal sculpins",
+  "gbl_mdModified_dt": "2021-05-19T23:48:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "155a80e8-0bd6-5cec-b3f3-8c92a87f9aed",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Transport",
+    "Réglementation municipale",
+    "Camion",
+    "Restriction",
+    "Réseau routier",
+    "Transports Québec",
+    "Contrôle routier",
+    "MTMD",
+    "Véhicule lourd",
+    "MTQ",
+    "Camionnage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère des Transports et de la Mobilité durable."
+  ],
+  "dct_description_sm": [
+    "Segments de route de la géobase d’Adresses Québec incluant les attributs relatifs à la réglementation du camionnage émis par les municipalités. L’intégration des mises à jour est effectuée périodiquement par le MTMD en collaboration avec les municipalités.\r\n\r\n- **Routes de transit**  « Légende : Transit (permis) » :\r\nRoutes dont l’accès est autorisé à tout véhicule lourd. Ces routes comportent un minimum de restrictions à la circulation des véhicules lourds. Le niveau de restriction minimale pour le camionneur sur ce réseau fait en sorte que ce dernier devrait être incité à l’emprunter le plus souvent possible. Ce réseau est à privilégier.\r\n\r\n- **Routes restreintes**  «  Légende : Restreint » : \r\nRoutes dont l’accès est autorisé à tout véhicule lourd. Toutefois, ces routes peuvent comporter certaines restrictions à la circulation des véhicules lourds. Exemple : Pont faisant l’objet d’une restriction de charge (visible dans la légende sous \"Limite de charge\"), hauteur libre restreinte, pente raide, route sinueuse et/ou étroite, etc. \r\n\r\n- **Routes interdites partiellement**  « Légende : Partiellement interdit» : Routes dont l’accès est interdit partiellement aux véhicules lourds. Les caractéristiques motivant une telle classification peuvent concerner :<br>\r\n*- Des périodes d’interdiction à circuler (Heures, jours);*<br>*- Une limite en ce qui a trait au nombre d’essieux autorisé;*<br>*- Une limite en ce qui concerne le poids des véhicules (tonnage);*<br>*- Une limite concernant la longueur des véhicules autorisés à circuler sur la route.*<br>\r\n\r\n- **Routes interdites**  « Légende : Interdit (sauf livraison locale) » : \r\nRoutes interdites au transit, sauf pour des besoins de livraison locale. Ces routes peuvent comporter des restrictions à la circulation des véhicules lourds. \r\nNote : Ces routes sont identifiées par le panneau de signalisation « Accès interdit aux véhicules lourds » auquel est joint un panonceau « Excepté livraison locale ».\r\n\r\n- **Routes non classifiées**  « Légende : Non classifié » : \r\nRoutes ne comportant aucune classification.\r\n\r\n- **Routes dont la classification n’est pas applicable**  « Légende : Non applicable » : \r\nGénéralement, pour les routes situées hors de la province de Québec.\r\n\r\n\r\nVeuillez noter que la signalisation sur le réseau routier a préséance sur ces données qui vous sont offertes en téléchargement et en consultation sur la carte interactive. Ces informations n'ont aucune valeur légale."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/1211010d-9ba0-422a-9910-a8dab0aef0f0"
+  ],
+  "dct_issued_s": "2012-06-27",
+  "dct_publisher_sm": [
+    "Ministère des Transports et de la Mobilité durable"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/1211010d-9ba0-422a-9910-a8dab0aef0f0\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport"
+  ],
+  "dct_title_s": "Réseau de camionnage",
+  "gbl_mdModified_dt": "2026-06-30T14:16:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cd9ac1de-882c-5303-9db5-5a0e6bba8dce",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Flood extent polygons from past years in selected Canadian regions that have been designated for observation, monitored by Natural Resources Canada using satellite imagery for emergency response. Coverage is not comprehensive nationwide.\n\nIn response to large flood events, Natural Resources Canada (NRCan), for the provision of emergency geomatics services, may be activated by Canada’s emergency management protocols.  As new satellite imagery becomes available, NRCan will extract flood extent polygons and update the dataset in near real time (4 hours).  This item contains the complete archive of all flood products generated since 2005, by NRCan's emergency geomatics services. For any data to the current year, please refer to the catalogue entry entitled: [Floods in Canada – Current]( https://open.canada.ca/data/en/dataset/b1afd8d2-6e14-4ec4-9a09-652221a6cb71).\n\nThe flood products generated are validated on a best effort basis.  Various factors may affect the quality of the flood polygons.  These factors include, but are not limited to, sensor type, image resolution, cloud cover or limitations of the flood polygon extraction method.  In this layer, where possible, a symbology is applied to the flood polygons based on the underlying land use classification, or is simply unclassified and shows the raw flood extent.  When using Web mapping services, to display a specific product, filter by date (UTC Date) and area of interest (AOI). Also, a link to download each product directly from the FTP site is available in the Resources section.  This prepackaged and compressed product contains a Shape file, a PDF file and a KMZ file.  \n\nFor more information on past flooding events, please refer to the catalog entry entitled: [Historical Flood Events (HFE)](https://geo.ca/flood-mapping/flood-map-gallery/historical-flood-events/)\n  \nDisclaimer:  \n Emergency response authorities are the primary users of these satellite-derived open water flood extent map products. These products are generated to provide analysis and emergency response situational awareness and to facilitate decision-making during major flood events. The open water flood extent products are generated rapidly and limited time is available for editing and validation. The flood products reflect the open water flood conditions at the date/time of acquisition. While efforts are made to produce high quality products, near-real time products may contain errors due to the limited time available for vector editing and validation. Please note that current algorithms do not map flooded areas under the forest canopy and are not optimized for urban flood mapping.  \n  \nLimitation of Liability:    \nAccordingly, the information contained on this website is provided on an “as is” basis and Natural Resources Canada makes no representations or warranties respecting the information, either expressed or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose. Natural Resources Canada does not assume any liability in respect of any damage or loss based on the use of this website. In no event shall Natural Resources Canada be liable in any way for any direct, indirect, special, incidental, consequential, or other damages based on any use of this website or any other website to which this site is linked, including, without limitation, any lost profits or revenue or business interruption.  \n\nParent Collection:\n- **[Floods in Canada - Cartographic Product Collection](https://open.canada.ca/data/en/dataset/08b810c2-7c81-40f1-adb1-c32c8a2c9f50)**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/74144824-206e-4cea-9fb9-72925a128189"
+  ],
+  "dct_issued_s": "2018-04-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/74144824-206e-4cea-9fb9-72925a128189\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Floods in Canada - Archive",
+  "gbl_mdModified_dt": "2026-02-27T12:30:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9fdf7d83-8cc0-59c6-9217-19e261ac8f96",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

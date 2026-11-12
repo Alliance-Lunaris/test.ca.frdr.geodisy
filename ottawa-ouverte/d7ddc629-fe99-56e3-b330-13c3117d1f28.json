@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.7679, -75.4902, 45.5049, 45.342)",
+  "dcat_keyword_sm": [
+    "transport",
+    "municipaux et sur rue",
+    "publics payants"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ottawa Ouverte."
+  ],
+  "dct_description_sm": [
+    "<p>Liste des distributrices Payez et affichez municipales pour le stationnement sur rue et des stationnements de la Ville, comprenant l’emplacement, le tarif et l’horaire.&nbsp;<br /><br /><strong>Exactitude</strong>: La liste ne comporte aucune erreur connue; il peut toutefois arriver que certaines distributrices ou certains stationnements soient inaccessibles pour diverses raisons (événements spéciaux, travaux de construction ou d’entretien, incidents).&nbsp;<br /><br /><strong>Fréquence des mises à jour</strong>: Au besoin&nbsp;<br /><br /><strong>Attributs</strong>:&nbsp;<br /><br />NOM_RUE : Nom de la rue sur laquelle se trouve la distributrice ou le stationnement.<br /><br />ET_ : Rue transversale marquant la fin de l’îlot où se trouve la distributrice (aucune donnée pour les parcs de stationnement).<br /><br />ENTRE_ : Rue transversale marquant le début de l’îlot où se trouve la distributrice (aucune donnée pour les parcs de stationnement).<br /><br />CÔTÉ_DE_RUE : Côté de la rue où se trouve la distributrice (ex. : N.S. signifie nord-sud).<br /><br />ID_Precise : Quatre premiers chiffres inscrits sur le devant de la distributrice.<br /><br />ID_fournisseur_stationnement : Identifiant inscrit sur le côté de la distributrice et servant à payer par téléphone.<br /><br />Adresse_municipale : Adresse approximative de la distributrice.<br /><br />Sur_ou_hors_rue : Emplacement sur rue ou hors rue (ex. : parc de stationnement).<br /><br />Nbre_de_places : Nombre de places (sauf pour le stationnement sur rue).<br /><br />Barème_tarifaire : Coût du stationnement.<br /><br />Jours_en_vigueur : Nombre de jours de la semaine où les tarifs sont en vigueur.<br /><br />Durée_maximale : Nombre d’heures maximal où un véhicule peut occuper une place à un moment donné.<br /><br />ID_GROUPE : Identifiant attribué à la place ou au parc de stationnement, habituellement désignant la rue et le côté de rue.<br /><br />ÉTAT : En service, supprimé, parcomètre recouvert, nouvelle distributrice.<br /><br />ID_affichage : Quatre derniers chiffres inscrits sur le devant de la distributrice.<br /><br />X : Coordonnées.<br /><br />Y: Coordonnées.<br /><br />Note : Autres notes (ex. : Payez à pied, fermé aux motocyclettes en hiver, etc.)&nbsp;<br /><br /><strong>Courriel de l'auteur</strong>: <a href='mailto:colin.palmer@ottawa.ca' rel='nofollow ugc'>Exploitation et Entretien des stationnements</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "a5d1f29635314d27b90d639d6fbf1fbd",
+    "https://www.arcgis.com/home/item.html?id=a5d1f29635314d27b90d639d6fbf1fbd"
+  ],
+  "dct_issued_s": "2021-02-09",
+  "dct_license_sm": [
+    "https://ottawa.ca/fr/hotel-de-ville/decouvrir-votre-ville/donnees-ouvertes"
+  ],
+  "dct_publisher_sm": [
+    "Ottawa Ouverte"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://ouverte.ottawa.ca/maps/a5d1f29635314d27b90d639d6fbf1fbd\"}",
+  "dct_title_s": "Liste des stationnements publics payants",
+  "gbl_mdModified_dt": "2026-04-10T18:59:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d7ddc629-fe99-56e3-b330-13c3117d1f28",
+  "locn_geometry": "ENVELOPE(-75.7679, -75.4902, 45.5049, 45.342)",
+  "schema_provider_s": "Ottawa Ouverte"
+}

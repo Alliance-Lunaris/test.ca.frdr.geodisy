@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Monitoring of sea ice dynamics is of vital importance to our overall understanding of how the Arctic cryosphere is responding to changes in the Earth's climate. With the recent launch of the RADARSAT Constellation Mission (RCM) in 2019 and the continuing operation of the Sentinel-1 (S1) fleet, these spaceborne synthetic aperture radar (SAR) platforms provide routine coverage of the pan-Arctic domain with their all-weather, cloud-penetrating imaging systems. Operating on overlapping pairs of images from these satellites, the Environment and Climate Change Canada Automated Sea Ice Tracking System (ECCC-ASITS) routinely monitors sea ice motion across the pan-Arctic domain. The findings of this analysis are summarized in the attached publication (Howell et al., 2022; see “Associated Publication” in data links).\r\n\r\nSea ice motion tracked by ECCC-ASITS is used to generate RCM/S1 Sea Ice Motion (RCMS1SIM) products for the pan-Arctic domain. These products provide information on sea ice velocity (speed and direction) as well as an estimate of uncertainty. There are currently two product lines; the first being generated on the 25km Equal-Area Scalable Earth Grid (EASE-Grid; https://nsidc.org/data/ease) v1.0 specification for a 7-day temporal window, and the second being generated on the 6.25km EASE-Grid v2.0 specification for a 3-day temporal window. Both products are available from March 2020 to present and are updated daily with a 2-day lag. These data are provided in Esri Shapefile (zip-compressed) and Network Common Data Form (NetCDF) data formats to support the widest-possible number of visualization and analysis use-cases. Further technical details on the products and variables within can be found in the documentation stored with the data."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/22aa3b41-425f-4f67-9747-f097c00e3eb1"
+  ],
+  "dct_issued_s": "2023-01-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/22aa3b41-425f-4f67-9747-f097c00e3eb1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "RADARSAT Constellation Mission / Sentinel-1 Sea Ice Motion (RCMS1SIM)",
+  "gbl_mdModified_dt": "2023-01-20T18:56:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "780a3cba-4d15-59d5-a238-73601b4a8f37",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

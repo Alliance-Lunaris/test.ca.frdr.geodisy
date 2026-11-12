@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.91216, -64.826834, 47.598614, 47.503844)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains results from an eelgrass classification for Tracadie Bay, New Brunswick. True colour aerial photography at 57 centimetre resolution was collected on September 2, 2009 by Nortek Resources of Thorburn, Nova Scotia (https://www.nortekresources.com/). Image classification was conducted using eCognition Developer v. 8 Software, which first segments the image into spectrally similar units, which were then classified manually. Additionally, the Department of Fisheries and Oceans (Gulf Region, Moncton, NB) conducted a visual field survey in the same field season at 101 sites. Approximately two-thirds of these sites were used to assist in image classification, while the remainder was used to assess accuracy. Three classes were identified:  \n  \n                 i. Good Quality Eelgrass: relatively dense, clean, green blades with minimal epiphytes or algal growth.   \n  \n                 ii. Medium Quality Eelgrass: predominately green blades that may have some epiphyte or algal growth. These stands can be less or equally dense as Good Quality Eelgrass, but the best grasses are certainly not as abundant.  \n  \n                 iii. Eelgrass Absent/Poor Quality: eelgrass is absent, or if it is present it is typically covered with epiphytes or other algae or dying or dead.   \n  \n  Eelgrass was classified correctly 79.3% of the time in a fuzzy accuracy assessment technique, whereby those classes that were ‘off’ by one class, e.g. Good Quality eelgrass classed as Medium Quality, were given half credit towards the overall accuracy. Of 29 sites that were within the classification area, 18 were correct, 10 were \"one-off\", and 1 was incorrect [(18 + (10/2))/ 29 = 0.793]."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6fd5f678-4f82-4837-8ba2-9fa2b9ec18b6"
+  ],
+  "dct_issued_s": "2024-07-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6fd5f678-4f82-4837-8ba2-9fa2b9ec18b6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Tracadie Bay Eelgrass Classification",
+  "gbl_mdModified_dt": "2024-07-15T11:20:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0d1f5bce-cf69-5c60-863f-5e48ba1dd307",
+  "locn_geometry": "ENVELOPE(-64.91216, -64.826834, 47.598614, 47.503844)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

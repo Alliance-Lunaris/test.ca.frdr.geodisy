@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.19513399999865, -78.43448499999867, 44.14859699999925, 43.72191599999926)",
+  "dcat_keyword_sm": [
+    "groundwater",
+    "Groundwater",
+    "CLOCA",
+    "HVRA",
+    "CLOCA_OpenData"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Central Lake Ontario Conservation Open Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div><a href='https://metadata.cacore.ca/Public/Details/id=273' rel='nofollow ugc' target='_blank'>Click to view Metadata</a> </div><div><u><font color='#000120'></font></u><u></u><u></u><br /></div><div></div><div><span style='color:rgb(51, 51, 51); font-family:&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;'><font size='3'>CLOCAGWIaa183 grid represents sum of ugsaa with ussaa to obtain total groundwater infiltration (gwiaa). This 2007 draft data set was generated using the PRMS surface water model by Earthfx for CLOCA's Tier 1 water budget contract/source water protection program (2007-2008). Values are in mm/a transient (long-term annual averages) for a 19-year period of record of 1981-1999. Annual and monthly average grids are also available (summed daily means). Spatial resolution is a 25m grid covering CLOCA watersheds. The south-west corner of the data set is omitted due to the original grid definition. Zonal Statistics (mean) for CLOCA Watershed was calculated and CLOCAgwiaa183 was extracted. Raster calculator was then used to extract 1.15 or 15% above the mean for the jurisdiction.</font></span><br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "4de99e28f3a44dec9ecd8591712063a3",
+    "https://www.arcgis.com/home/item.html?id=4de99e28f3a44dec9ecd8591712063a3"
+  ],
+  "dct_issued_s": "2018-12-06",
+  "dct_publisher_sm": [
+    "Central Lake Ontario Conservation Open Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://cloca-camaps.opendata.arcgis.com/datasets/camaps::cloca-high-volume-recharge-areas\"}",
+  "dct_rights_sm": [
+    "CLOCA Open Data License v1"
+  ],
+  "dct_title_s": "CLOCA High Volume Recharge Areas",
+  "gbl_mdModified_dt": "2026-01-12T15:51:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c8abb4d4-bb79-5127-bb24-8a0c7979eb50",
+  "locn_geometry": "ENVELOPE(-79.19513399999865, -78.43448499999867, 44.14859699999925, 43.72191599999926)",
+  "schema_provider_s": "Central Lake Ontario Conservation Open Data Portal"
+}

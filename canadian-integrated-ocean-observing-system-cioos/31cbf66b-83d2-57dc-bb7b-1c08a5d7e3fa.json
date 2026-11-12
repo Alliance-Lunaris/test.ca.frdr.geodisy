@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.1556, -61.312, 81.836, 73.8925)",
+  "dcat_keyword_sm": [
+    "nunavut---oaufq",
+    "lancaster-sound---oajns",
+    "oceansurfaceheatflux",
+    "and-baffin-bay---oabmi",
+    "oceans",
+    "ca",
+    "flux-de-chaleur-oceanique-de-surface",
+    "phytoplankton",
+    "photosynthesis",
+    "arcticnet",
+    "phytoplankton-viability",
+    "phytoplanktonbiomassanddiversity",
+    "photosynthetically-available-radiation-par",
+    "arcticnet",
+    "biomasse-et-diversite-de-phytoplancton",
+    "algae"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mesures par fluorométrie à fréquence de répétition rapide de la photophysiologie du phytoplancton dans l'archipel arctique canadien, août 2019"
+  ],
+  "dct_creator_sm": [
+    "Tortell, Philippe.",
+    "Sezginer, Yayla."
+  ],
+  "dct_description_sm": [
+    "We employed Fast Repetition Rate fluorometry (FRRF) for high-resolution mapping of phytoplankton photo-physiology in Lancaster Sound and Barrow Strait regions of the Canadian Arctic Archipelago. For exact details of sampling locations, see the Latitude and Longitude fields of this dataset. The sampling period took place onboard the CCGS Amundsen from Aug 2-14, 2019. Continuous ship-board measurements of Chlorophyll a (Chla) fluorescence transients were made using a Soliense LIFT FRRF with a 12 minute interval between sampling events using a single-turnover flash protocol. Within each sampling event, 40 Chla fluorescence transients were measured under low light (5 μmol photons per m-2 s-1), and 40 under high light (150 μmol photons per m-2 s-1) on an isolated sample from the ship’s seawater line. Each fluorescence transient has a 1s interval. Between sampling events, a pump custom fit to the FRRF flushed the sampling cuvette and was synchronized to stop pumping 5 minutes prior to the next measurement sequence to allow phytoplankton dark acclimation within the sampling cuvette. Thus, measurements were continuous and fully automated. Each fluorescence transient curve was fit to the biophysical model described by Kolber et al., 1998 to retrieve the following diagnostics of phytoplankton photo-physiology: UTC time of measurement, julian day of measurement, actinic light provided during flash measurements (μmol photons per m-2 s-1), model fit Chi sq, baseline fluorescence (relative units), maximum inducible fluorescence (relative units), functional absorption area of Photosystem II (Å2 Reaction Center II-1), the probability of energy transfer between reaction centers (fractional), the time constants for the three components of Qa reoxidation (μs) and their relative weights (fractional), the signal to noise ratio, and the surface PAR at time of measurements (μmol photons per m-2 s-1). Together, these parameters of phytoplankton light harvesting and utilization efficiency can be used to estimate phytoplankton photochemistry yields, which power the photosynthetic electron transport chain, and ultimately provide an upper limit for photosynthetic carbon uptake.",
+    "Nous avons utilisé la fluorométrie à fréquence de répétition rapide (FRRF) pour cartographier à haute résolution la photophysiologie du phytoplancton dans les régions du détroit de Lancaster et du détroit de Barrow, dans l'archipel arctique canadien. Pour plus de détails sur les emplacements d'échantillonnage, consultez les champs Latitude et Longitude de ce jeu de données. La période d'échantillonnage a eu lieu à bord du CCGS Amundsen du 2 au 14 août 2019. Des mesures continues à bord des navires des transitoires de fluorescence de la chlorophylle a (Chla) ont été effectuées à l'aide d'un Soliense LIFT FRRF avec un intervalle de 12 minutes entre les événements d'échantillonnage en utilisant un protocole flash à rotation unique. Au cours de chaque événement d'échantillonnage, 40 transitoires de fluorescence Chla ont été mesurés sous faible éclairage (5 μmol de photons par m-2 s-1) et 40 sous haute lumière (150 μmol de photons par m-2 s-1) sur un échantillon isolé de la ligne d'eau de mer du navire. Chaque transitoire de fluorescence possède un intervalle de 1 s. Entre les activités d'échantillonnage, une pompe adaptée au FRRF a vidé la cuvette d'échantillonnage et a été synchronisée pour arrêter le pompage 5 minutes avant la séquence de mesure suivante afin de permettre l'acclimatation du phytoplancton à l'obscurité dans la cuvette d'échantillonnage. Ainsi, les mesures étaient continues et entièrement automatisées. Chaque courbe transitoire de fluorescence a été ajustée au modèle biophysique décrit par Kolber et al., 1998 pour obtenir les diagnostics suivants de la photophysiologie du phytoplancton : heure UTC de mesure, jour julien de mesure, lumière actinique fournie lors des mesures flash (μmol de photons par m-2 s-1), ajustement du modèle Chi sq, fluorescence de base (unités relatives), fluorescence inductible maximale (unités relatives), zone fonctionnelle d'absorption du photosystème II (Å2 Reaction Center II-1), la probabilité de transfert d'énergie entre les centres de réaction (fractionnaire), le temps les constantes pour les trois composantes de la réoxydation du Qa (μs) et leur poids relatif (fractionnaire), le rapport signal/bruit et le PAR de surface au moment des mesures (μmol de photons par m-2 s-1). Ensemble, ces paramètres de collecte de lumière et d'efficacité d'utilisation du phytoplancton peuvent être utilisés pour estimer les rendements photochimiques du phytoplancton, qui alimentent la chaîne de transport d'électrons photosynthétiques et fournissent finalement une limite supérieure pour l'absorption de carbone par la photosynthèse."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/eba95106-7ee0-403e-ba3a-4aafb94f49be"
+  ],
+  "dct_issued_s": "2024-07-18",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/eba95106-7ee0-403e-ba3a-4aafb94f49be\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Fast Repetition Rate fluorometry-based measurements of phytoplankton photo-physiology in the Canadian Arctic Archipelago, Aug 2019",
+  "gbl_mdModified_dt": "2026-07-31T16:44:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31cbf66b-83d2-57dc-bb7b-1c08a5d7e3fa",
+  "locn_geometry": "ENVELOPE(-95.1556, -61.312, 81.836, 73.8925)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

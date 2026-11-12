@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.782063, -46.38161, 62.281322, 40.184321)",
+  "dcat_keyword_sm": [
+    "Saison de croissance",
+    "AVHRR",
+    "Agricultural assistance",
+    "growing season",
+    "Agriculture",
+    "Agriculture statistics",
+    "Satellite images",
+    "CCAP",
+    "Statistiques de l'agriculture",
+    "Agriculture",
+    "PEEC",
+    "NDVI",
+    "Satellite imagery",
+    "Aide à l'agriculture",
+    "Plants",
+    "Imagerie satellite",
+    "Plante",
+    "Résolution",
+    "IVDN",
+    "AVHRR",
+    "Images satellites",
+    "Resolution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Représentation corrigée de l'IVDN à partir des images satellitaires AVHRR et VIIRS (résolution de 1 km) historiques de 1987 à aujourd'hui"
+  ],
+  "dct_creator_sm": [
+    "INFOSTATS."
+  ],
+  "dct_description_sm": [
+    "The cloud-corrected representation of the NDVI using historical AVHRR and VIIRS satellite images at 1 kilometre resolution provides reliable, objective and timely information on the state of vegetation throughout Canada and the northern United States. The methodology applied to the images has remained the same as for the program formerly known as the Crop Condition Assessment Program (CCAP).  \n  \n  Since 1987, the National Oceanic and Atmospheric Administration (NOAA) series of satellites carrying the Advanced Very High-Resolution Radiometer (AVHRR) records images of the entire Earth's surface twice a day at 1kilometre resolution. This sensor captures two spectral bands (red and infrared) that have proven to be extremely useful for vegetation monitoring to produce the Normalized Difference Vegetation Index (NDVI). NDVI image composites on crop condition were produced by GeoManitoba until the end of the 2020 growing season. In 2021, Statistics Canada started producing the weekly composites using an application developed by Dr. Rasim Latifovic from National Resources Canada. Since 2022, due to the aging AVHRR sensor affecting the quality of the weekly composites, the team has transitioned to the NOAA-20 - Visible Infrared Imaging Radiometer Suite (VIIRS) satellite. VIIRS is a new-generation satellite with spectral characteristics comparable to those of its predecessor. To keep the NDVI values stable and continuous throughout the time series, the VIIRS composite values are normalized to obtain comparable NDVI values.  \n  \n  Additional computations were performed by Statistics Canada for Julian weeks 15 to 41 to remove residual clouds from the NDVI composites and statistical extractions by geographic regions using three different types of agricultural masks.   \n  \n  This dataset gives access to AVHRR images from 1987 to mid-2022 and VIIRS images from mid-2022 to present in GeoTIFF format and covers the agricultural land during the growing season of the field crops in Canada (Julian weeks 15 to 41). It also provides access to a database that contains the statistical NDVI by geographic regions (Townships, Census Consolidated Subdivisions (CCS), Census Divisions (CD) and Census Agricultural Regions (CAR)) and agricultural masks (Agriculture (AGR), Crop (CROP) and Pasture (PAS)).",
+    "La représentation corrigée de l'IVDN retirant un maximum de nuages résiduels à partir d'images satellites historiques AVHRR et VIIRS à une résolution de 1 kilomètre fournit des renseignements fiables, objectives et à jour sur l'état de la végétation dans l'ensemble du Canada et du nord des États-Unis. La même méthodologie utilisée pour le programme anciennement connu sous le nom de Programme d'évaluation de l'état des cultures (PEEC) est appliquée aux images composites.  \n  \n  Depuis 1987, la série de satellites de la National Oceanic and Atmospheric Administration (NOAA) portant le radiomètre avancé à très haute résolution (AVHRR) enregistre deux fois par jour des images de l'ensemble de la surface terrestre à une résolution d'un kilomètre. Ce capteur capture deux bandes spectrales (rouge et infrarouge) qui se sont révélées extrêmement utiles pour la surveillance de la végétation et produisent l'indice de végétation par différence normalisée (IVDN). Les images composites IVDN sur l'état des cultures ont été produites par GeoManitoba jusqu'à la fin de la saison de croissance 2020. En 2021, Statistique Canada a commencé à produire des images composites hebdomadaires à l'aide d'une application développée par Rasim Latifovic de Ressources naturelles Canada. Depuis 2022, en raison du vieillissement du capteur AVHRR qui affecte la qualité des composites hebdomadaires, l'équipe est passée au satellite NOAA-20 - Visible Infrared Imaging Radiometer Suite (VIIRS). VIIRS est un satellite de nouvelle génération dont les caractéristiques spectrales sont comparables à celles de son prédécesseur. Pour que les valeurs de l’IVDN restent stables et continues tout au long de la série temporelle, les valeurs composites des images VIIRS sont normalisées pour obtenir des valeurs de l’IVDN comparables.  \n  \n  Des calculs supplémentaires ont été effectués par Statistique Canada pour les semaines juliennes 15 à 41 afin d'éliminer les nuages résiduels des composites IVDN et d’extraire des statistiques par régions géographiques à l'aide de trois différents types de masques agricoles.   \n  \n  Ce jeu de données donne accès aux images AVHRR de 1987 à mi-2022 et aux images VIIRS de mi-2022 à aujourd'hui en format GeoTIFF et couvre le territoire agricole pendant la saison de croissance des grandes cultures au Canada (semaines juliennes 15 à 41). Il donne également accès à une base de données contenant les statistiques de l’IVDN par régions géographiques (cantons, subdivisions de recensement unifiées (SRU), divisions de recensement (DR) et régions agricoles de recensement (RAR)) et masques agricoles (agriculture (AGR), cultures (CROP) et pâturages (PAS))."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/44ced2fa-afcc-47bd-b46e-8596a25e446e"
+  ],
+  "dct_issued_s": "2018-09-01",
+  "dct_publisher_sm": [
+    "Statistics Canada | Statistique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/44ced2fa-afcc-47bd-b46e-8596a25e446e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Corrected representation of the NDVI using historical AVHRR and VIIRS satellite images (1 km resolution) from 1987 to present",
+  "gbl_mdModified_dt": "2024-12-06T14:22:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4a386437-98c8-5186-ad41-52de5929cee0",
+  "locn_geometry": "ENVELOPE(-143.782063, -46.38161, 62.281322, 40.184321)",
+  "schema_provider_s": "Open Data Canada"
+}

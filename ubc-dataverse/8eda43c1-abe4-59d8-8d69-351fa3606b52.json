@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.2504, -122.2246, 51.7378, 51.7247)",
+  "dcat_keyword_sm": [
+    "Forest Canopy Height, Synthetic Aperture Radar (SAR), Optical Imagery, Light Detection and Ranging (LiDAR), Random Forest (RF), Support Vector Machine (SVM)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Miao, Zhengpeng (University of British Columbia). ORCID: https://orcid.org/0009-0006-0640-135X"
+  ],
+  "dct_description_sm": [
+    "In this study, the accuracy of forest canopy height estimation was assessed using Synthetic Aperture Radar (SAR), including backscatter and Polarimetric SAR (PolSAR), as well as optical indices derived from optical imagery, and Random Forest (RF) and Support Vector Machine (SVM) models were applied by using canopy heights derived from Light Detection and Ranging (LiDAR) as a reference for validation. Accurate measurement of canopy height is critical for effective forest management, biodiversity conservation, and climate change analysis, so this study attempted to address the challenges posed by traditional measurement methods, which are time-consuming and limited in scope. SAR with its all-weather, day and night imaging capability, has the distinct advantage of being able to continuously monitor forest canopy dynamics over a wide area, thus overcoming the spatial time and cost constraints of ground-based observations. Approaches in this study involved pre-processing of SAR and LiDAR data to reduce inherent data inaccuracies, as well as calculating optical indices to facilitate indirect estimation of canopy height. This study provided a comparative assessment of the performance of RF and SVM models using various data integrations, highlighted the higher accuracy was achieved through the synergistic combination of PolSAR and optical indices. The results showed that the data-integrated approach improved the accuracy of canopy height estimation, with the RF model performing slightly better than the SVM model in terms of prediction under the optimal data configurations of the two models in this study. These findings support the advanced application of incorporating remote sensing techniques, validated against LiDAR benchmarks, as a viable strategy for refining forest canopy height estimation, thereby providing insights for forest management and ecological modelling programs."
+  ],
+  "dct_identifier_sm": [
+    "720820_73894_115983",
+    "https://doi.org/10.5683/SP3/ICDCDL"
+  ],
+  "dct_issued_s": "2024-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ICDCDL\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Comparative Analysis of Forest Canopy Height Estimation using Random Forest and Support Vector Machine Models with Synthetic Aperture Radar and Optical Imagery",
+  "gbl_mdModified_dt": "2025-04-18T01:58:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8eda43c1-abe4-59d8-8d69-351fa3606b52",
+  "locn_geometry": "ENVELOPE(-122.2504, -122.2246, 51.7378, 51.7247)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

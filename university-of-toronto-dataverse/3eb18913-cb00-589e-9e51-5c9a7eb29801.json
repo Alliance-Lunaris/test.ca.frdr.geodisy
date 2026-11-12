@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Atmospheric Chemistry Experiment",
+    "Fourier Transform Spectroscopy",
+    "Data Quality Assessment",
+    "ACE-FTS",
+    "Remote Sensing",
+    "Satellite"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Sheese, Patrick (University of Toronto).",
+    "Walker, Kaley (University of Toronto). ORCID: https://orcid.org/0000-0003-3420-9454"
+  ],
+  "dct_description_sm": [
+    "The data quality flag files are updated monthly as new Level 2 version 4.1/4.2 data are produced for ACE-FTS.",
+    "Data quality flags generated for the Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) Level 2 (L2) version 4.1/4.2 data products. These data quality flags are generated using the technique described in Sheese et al. (2015).",
+    "One netCDF file is produced for each species, isotopologue or parameter retrieved from the ACE-FTS spectra for version 4.1/4.2. Each file contains the data quality flags organized by occultation (orbit number and occultation type). Note, the ACE-FTS Level 2 version 4.1/4.2 profiles are not included in these files."
+  ],
+  "dct_identifier_sm": [
+    "124418_124369_124370",
+    "https://doi.org/10.5683/SP2/BC4ATC"
+  ],
+  "dct_issued_s": "2020-09-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/BC4ATC\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data Quality Flags for ACE-FTS Level 2 Version 4.1/4.2 Data Set",
+  "gbl_mdModified_dt": "2024-07-12T23:33:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3eb18913-cb00-589e-9e51-5c9a7eb29801",
+  "pcdm_memberOf_sm": [
+    "Kaley Walker Dataverse // ACE-FTS Data Quality Resources"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

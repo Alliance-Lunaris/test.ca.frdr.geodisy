@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "at risk",
+    "ecology",
+    "endangered",
+    "Canada",
+    "Government information",
+    "threatened",
+    "CDC",
+    "conservation data centre",
+    "rare",
+    "species",
+    "element occurrence",
+    "ecosystem"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Espèces et écosystèmes en péril - Événements accessibles au public - CDC"
+  ],
+  "dct_creator_sm": [
+    "CDC Data Requests."
+  ],
+  "dct_description_sm": [
+    "The B.C. Conservation Data Centre’s spatial view of publicly available, known locations of species and ecological communities at risk. This spatial view is split into the \"Publicly Available Occurrences\" layer and \"(Extirpated and Historical) Publicly Available Occurrences\" layer. The Extirpated and Historical layer includes element occurrences that have a last observation date greater than 40 years ago and element occurrences that are extirpated due to general habitat loss or degradation of the environment in the area. Use the field ‘Rank Description’ to differentiate between Historical and Extirpated element occurrences in this layer. All element occurrences are polygons: the size of the polygon usually reflects the locational uncertainty associated with the source data, represented with varying sized circles. Some polygons may be larger to reflect the actual area covered by the element occurrence. The field \"Representational Accuracy\" is used to communicate how accurately the polygon reflects the actual area covered by the element. If you do not find an element occurrence in your area of interest, this means there are none currently mapped in the CDC database. The best way to verify whether an area contains a species or ecosystem at risk is to have do a detailed assessment of the property during the appropriate season.",
+    "Vue spatiale du Centre de données sur la conservation de la Colombie-Britannique des emplacements connus et accessibles au public des espèces et des communautés écologiques en péril. Cette vue spatiale est divisée en une couche « Occurrences accessibles au public » et une couche « Occurrences accessibles au public (disparues et historiques) ». La couche historique et disparue comprend les occurrences d'éléments dont la dernière date d'observation remonte à plus de 40 ans et les occurrences d'éléments qui ont disparu en raison de la perte générale d'habitat ou de la dégradation de l'environnement dans la région. Utilisez le champ « Description du classement » pour différencier les occurrences d'éléments historiques et disparues dans cette couche. Toutes les occurrences d'éléments sont des polygones : la taille du polygone reflète généralement l'incertitude de localisation associée aux données sources, représentées par des cercles de tailles variables. Certains polygones peuvent être plus grands pour refléter la zone réelle couverte par l'occurrence de l'élément. Le champ « Précision de représentation » est utilisé pour indiquer avec quelle précision le polygone reflète la zone réelle couverte par l'élément. Si vous ne trouvez aucune occurrence d'élément dans la zone qui vous intéresse, cela signifie qu'il n'y en a aucune actuellement cartographiée dans la base de données du CDC. La meilleure façon de vérifier si une zone contient une espèce ou un écosystème en péril est de procéder à une évaluation détaillée de la propriété au cours de la saison appropriée.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0e035e55-f257-458f-9a96-80c01c69d389"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0e035e55-f257-458f-9a96-80c01c69d389\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Species and Ecosystems at Risk - Publicly Available Occurrences - CDC",
+  "gbl_mdModified_dt": "2026-01-28T20:01:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2beb9a8f-c1d7-56ef-8619-59b44a624d25",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Locations of sampling stations for stationary moorings deployed as part of the New Brunswick Coastal Monitoring Program. The moorings record high-resolution temperature, dissolved oxygen, salinity, and pH data at various depths, typically for several months.\n\n\n\nFor more information on CMAR and the Coastal Monitoring Program go to: https://cmar.ca/coastal-monitoring-program/Usage Considerations\n\nThis dataset is complementary to the New Brunswick Coastal Monitoring Program region datasets available on the Open Data Portal. It indicates the approximate location of stations with data available for download from the portal. Station coordinates are approximate because exact deployment coordinates change each time an installation is serviced. For exact deployment locations, see the corresponding region dataset. The Station Locations dataset contains the following columns: region: region in which the station is located (North or South). waterbody: waterbody in which the station is located. station: local area where the mooring was deployed. latitude: approximate latitude of the station in decimal-degrees. longitude: approximate longitude of the station in decimal-degrees./Emplacements des stations d'échantillonnage des mouillages fixes déployés dans le cadre du Programme de surveillance côtière du Nouveau-Brunswick. Ces mouillages enregistrent des données à haute résolution sur la température, l'oxygène dissous, la salinité et le pH à différentes profondeurs, généralement pendant plusieurs mois.\n\nPour plus d'information sur le CRAM et le Programme de surveillance côtière, consultez le site : https:"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6b18b648-8d52-3cfc-22a7-8f72936a953c"
+  ],
+  "dct_issued_s": "2026-10-07",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6b18b648-8d52-3cfc-22a7-8f72936a953c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - New Brunswick http://www.snb.ca/e/2000/data-E.html"
+  ],
+  "dct_title_s": "New Brunswick Water Quality Data: Station Locations",
+  "gbl_mdModified_dt": "2026-10-07T14:01:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a30c970-60a3-5a64-a16f-2ee431886fc7",
+  "locn_geometry": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

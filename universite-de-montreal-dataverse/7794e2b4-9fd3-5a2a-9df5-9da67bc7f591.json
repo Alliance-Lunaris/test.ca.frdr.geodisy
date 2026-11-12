@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.95, -72.72, 46.58, 46.12)",
+  "dcat_keyword_sm": [
+    "Courant",
+    "fluvial lake",
+    "Chimie",
+    "Biomass",
+    "Echo sounding",
+    "Sondage par ultrasons",
+    "Chemistry",
+    "submerged macrophyte",
+    "river",
+    "Biomasse",
+    "submerged aquatic vegetation",
+    "Water currents",
+    "velocity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Botrel, Morgan (Université du Québec à Rimouski, Université de Montréal). ORCID: https://orcid.org/0000-0001-6313-8996",
+    "Bertolo, Andrea (Université du Québec à Trois-Rivières, Centre de Recherche sur les Interactions Bassins Versants – Écosystèmes Aquatiques (RIVE), Université du Québec à Trois-Rivières, Trois-Rivières, Québec, Canada). ORCID: https://orcid.org/0000-0002-6018-816X",
+    "Maranger, Roxane (Université de Montréal, Groupe de Recherche Interuniversitaire en Limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2509-4678"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: SAV biomass (g/m2), Ca+ (calcium, µmol/L), CDOM (colored dissolved organic carbon, /cm), chla (chlorophyll a, µg/L), Cl- (chlorure, µmol/L), specific conductivity (µS/cm), cote_gleo (abundance of the epiphyte Gleotrichia pisum, 0 to 2), SAV cover (%), flow direction (°N), DOC (dissolved organic carbon, mg/L), sediment thickness (m), SAV height (m), K+ (potassium, µmol/L), Kpar (Extinction coefficient for visible light, /m), Litter (g/m2), Mg2+ (magnesium,  µmol/L), Na+ (sodium, µmol/L), NH4+ (ammonium, µg/L), NO3+NO2 (nitrate + nitrite, µg/L), O2 (dissolved oxygen, mg/L), O2 saturation (%), ORP (oxydo-reduction potential, mV), Par0 (photosynthetic radiation at water surface, µmol/m2/s), ParZ (photosynthetic radiation at depth z, µmol/m2/s), pH, pheopigments (µg/L), PO43- (phosphate, µmol/L), atmospheric pressure (hPa), water depth (m), Schnell (secchi in a tube, cm), Secchi depth (cm), SO42- (sulfate, µmol/L), SPM (suspended particulate matter, mg/L), TDN (total dissolved nitrogen, µg/L), TDP (total dissolved phosphorus, µg/L), air temperature (°C), water temperature (°C), TN (total nitrogen, µg/L), TP (total phosphorus, µg/L), wind speed (m/s), water velocity (m/s), plant volume (ml)",
+    "This dataset is the result of a large collaborative work lead by the GRIL from 2012 to 2015 on a submerged aquatic vegetation (SAV) meadow located downstream of two agricultural tributaries (Saint-François and Yamaska rivers) in Lake Saint-Pierre, a fluvial lake of the Saint Lawrence River. The data describe plants (as rake biomass and echosounding) and their environment, including water chemistry, current velocity as well as light, temperature and instantaneous meteo. Only echosounding data are  available in 2016 and sediments were collected in 2015.  Data are organized as a relational database and the GRIL_LSP_database.png provides keys and links between tables as well as data format. Data are in the tables mesure_integree, mesure_spatiale, mesure_verticale, plante_biomass_taxon, plante_recolte, plante_in_situ. The other tables are metadata about spatiotemporal locations and reported measures. Additional data (e.g. zooplankton, sediments) should eventually be made available and associated to this overall GRIL dataset."
+  ],
+  "dct_identifier_sm": [
+    "352548_281357_281358",
+    "https://doi.org/10.5683/SP3/BQFPL9"
+  ],
+  "dct_issued_s": "2022-09-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BQFPL9\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data on submerged aquatic vegetation and its water environment in Lake Saint-Pierre, Saint Lawrence River [2012-2016]",
+  "gbl_mdModified_dt": "2023-12-08T13:55:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7794e2b4-9fd3-5a2a-9df5-9da67bc7f591",
+  "locn_geometry": "ENVELOPE(-72.95, -72.72, 46.58, 46.12)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

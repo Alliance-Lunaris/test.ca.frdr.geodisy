@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.472011, -70.007794, 47.536744, 45.256503)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Operational Hydrodynamic Prediction System (OHPS) is a 2D hydrodynamic prediction system for the St. Lawrence River and fluvial estuary. It helps to better understand flows impacting the St. Lawrence ecosystem and serves as a decision-making tool for the integrated management of the St-Lawrence. Three components are integrated in OHPS system. The first one \"steadysol\" conducts daily steady-state flow analyses, 4 times per day at 00Z, 06Z, 12Z and 18Z, respectively, over a simulation domain extending from Montreal to Trois-Rivières. The second and third components, i.e. \"analysis\" and \"forecast\", provide continuous analyses and 48-hrs forecasts, respectively, for unsteady flows over an extended St. Lawrence domain of which the upstream boundaries locate in Carillon and Beauharnois while the downstream tidal boundary is near Saint-Joseph-de-la-Rive, respectively, 4 times a day at 00Z, 06Z, 12Z and 18Z. The system provides high-resolution outcomes for various parameters such as water levels, depth-averaged velocities and derived attributes, over the simulated domains. The products are available in the NetCDF format, which provides datasets. The published datasets of \"steadysol\" is over an irregular triangulated mesh, while the datasets of \"analysis\" and \"forecast\" are over a Polar Stereographic grid."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d9f3ee0-05b8-457e-8b58-38673760a1a9"
+  ],
+  "dct_issued_s": "2025-05-13",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d9f3ee0-05b8-457e-8b58-38673760a1a9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Operational Hydrodynamic Prediction System (OHPS)",
+  "gbl_mdModified_dt": "2025-10-15T12:11:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d1dabb39-0bc9-57a0-a7c6-7452a814cc76",
+  "locn_geometry": "ENVELOPE(-74.472011, -70.007794, 47.536744, 45.256503)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,60 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Nosach, Roman (University of Saskatchewan).",
+    "Bowling, Hailey (University of Saskatchewan).",
+    "Hamonic, Glenn (University of Saskatchewan). ORCID: https://orcid.org/0000-0001-5188-131X",
+    "Parra, Juan (University of Saskatchewan). ORCID: https://orcid.org/0000-0001-6770-3032",
+    "Schmidt, Ty (University of Nebraska–Lincoln). ORCID: https://orcid.org/0000-0002-3590-4056",
+    "Psota, Eric (University of Nebraska–Lincoln). ORCID: https://orcid.org/0000-0002-7836-298X",
+    "Mote, Benny (University of Nebraska–Lincoln). ORCID: https://orcid.org/0000-0003-2234-8844",
+    "Harding, John (University of Saskatchewan). ORCID: https://orcid.org/0000-0002-8741-0402"
+  ],
+  "dct_description_sm": [
+    "This dataset contains behavioral, clinical, and physiological data collected from a controlled experimental study investigating the effects of porcine reproductive and respiratory syndrome virus (PRRSV) infection on pigs. We conducted the study at the University of Saskatchewan between July and August 2020, using 24 five-week-old pigs housed in a biosafety level 2 (BSL2) animal care facility. Pigs were assigned to either a PRRSV-infected group or a control group receiving sterile saline, allowing comparison of behavioral and physiological responses following infection.\r\n\r\nWe monitored the animals using the NUtrack Livestock Monitoring System, an automated video-based tracking platform that recorded pig movement, posture, feeding, and drinking behavior. We collected data at 15-minute intervals during both disrupted and non-disrupted activity periods. We provide measurements of distance travelled, rotational movement, time spent lying laterally or sternally, standing, sitting, feeding, and drinking. We also incorporate human observation scores assessing respiratory signs, skin lesions, responsiveness, appetite, fecal consistency, and fever. The dataset also includes physiological and laboratory-derived variables such as rectal temperature, serum viral load, thyroid hormone concentrations (T3 and T4), body weight, and derived metrics including hormone area-under-the-curve calculations and multiple behavioral ratios."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01677"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01677\"}",
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Dedication (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "Saskatoon, Saskatchewan, Canada"
+  ],
+  "dct_subject_sm": [
+    "behavioral biomarkers",
+    "swine",
+    "experimental infecion",
+    "veterinary epidemiology",
+    "survival analysis",
+    "Veterinary sciences, not elsewhere classified",
+    "animal health",
+    "Sciences vétérinaires",
+    "swine disease",
+    "automated behavior analysis",
+    "pig behavior",
+    "Sciences vétérinaires, non classé ailleurs",
+    "Betaarterivirus americense",
+    "NUtrack",
+    "livestock monitoring",
+    "PRRSV",
+    "porcine reproductive and respiratory syndrome virus",
+    "computer vision",
+    "animal welfare",
+    "Veterinary sciences"
+  ],
+  "dct_title_s": "Behavioral, clinical and physiological monitoring data from pigs infected with Porcine Reproductive and Respiratory Virus (PRRSV)",
+  "gbl_mdModified_dt": "2026-09-08T18:59:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a6bebc8d-7d59-5838-ba5e-faed5763d527",
+  "schema_provider_s": "USask Research Data"
+}

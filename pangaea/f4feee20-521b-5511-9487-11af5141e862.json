@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-106.08491, -105.81492, 69.26015, 69.20125)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Machemin, Gaël (Université de Sherbrooke, Université Laval). ORCID: https://orcid.org/0009-0000-4992-3947",
+    "Bouchard, Frédéric (Université Laval, Université de Sherbrooke, Universite de Sherbrooke Faculté de Médecine et des Sciences de la Santé). ORCID: https://orcid.org/0000-0001-9687-3356",
+    "Coulombe, Stéphanie (Département de géographie, Université de Montréal Polar Knowledge Canada, Polar Knowledge Canada).",
+    "Didier, David (Université Laval, Université du Québec à Rimouski).",
+    "Pascaud, Loek (Université de Sherbrooke, Université Laval).",
+    "Joyeux, Adèle (Université de Sherbrooke, Université Laval)."
+  ],
+  "dct_description_sm": [
+    "This dataset comprises a series of high-resolution geospatial raster layers representing the environmental factors used to model soil-erosion susceptibility in High-Arctic watersheds, along with the resulting model outputs. The rasters include K (soil), C (vegetation), LS (topography), R (precipitation), I (ice content) factors derived from remote-sensing data and GIS-based processing steps described in the associated article. All rasters are georeferenced (in EPSG:2957 - NAD83(CSRS) / UTM zone 13N) and harmonized to a common projection and resolution. These layers offer a reproducible basis for erosion modelling and enable further geospatial analyses of landscape sensitivity in Arctic environments."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.988255",
+    "https://doi.org/10.1594/pangaea.988255"
+  ],
+  "dct_issued_s": "2026-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.988255\"}",
+  "dct_subject_sm": [
+    "remote sensing",
+    "Model output, GeoTIFF format (File Size)",
+    "File content",
+    "Model output, GeoTIFF format",
+    "Multiple investigations",
+    "Permafrost",
+    "erosion rates"
+  ],
+  "dct_title_s": "High-resolution remote sensing raster dataset from the Cambridge Bay watershed, Nunavut, Canada",
+  "gbl_mdModified_dt": "2026-10-14T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f4feee20-521b-5511-9487-11af5141e862",
+  "locn_geometry": "ENVELOPE(-106.08491, -105.81492, 69.26015, 69.20125)",
+  "schema_provider_s": "PANGAEA"
+}

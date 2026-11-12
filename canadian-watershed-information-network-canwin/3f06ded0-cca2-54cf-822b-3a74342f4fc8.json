@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.3405, -55.4753, 52.1023, 45.825)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Fisheries and Oceans Canada (DFO) has conducted an annual summer multidisciplinary scientific bottom trawl survey  in the Estuary and the northern Gulf of St. Lawrence since 1984. Over the years this survey has been conducted on four vessels: the MV Lady Hammond (1984-1990), the CCGS Alfred Needler (1990-2005), the CCGS Teleost (2004-2021) and the CCGS Cabot (2022- on going). It is important to note that the objectives, the methods used and the identification of the species during these surveys have improved over time in response to DFO requests and mandates. The data are therefore not directly comparable between these surveys. The specificities of the missions onboard the CCGS Alfred Needler are described below.\n\nObjectives:\n\n1. Assess groundfish and northern shrimp population abundance and condition\n\n2. Assess environmental conditions\n\n3. Conduct a biodiversity inventory of benthic and demersal megafauna\n\n4. Monitor the pelagic ecosystem\n\n5. Collect samples for various research projects\n\nSurvey description\n\nThe survey covers the divisions 4R, 4S, 3Pn and the northern part of division 4T of the Northwest Atlantic Fisheries Organization (NAFO). This survey follows a stratified random sampling design and the fishing gear used on the CCGS Alfred Needler is a URI shrimp trawl (81'/114'). Standard trawling tows last 25 minutes, starting from the time the trawl touched the sea floor. Towing speed is 3 knots.\n\nData\n\nFor each fishing tow, the catch is sorted and weighed by taxa; individuals are then counted and biological data are collected on a subsample. For fish, crab and squid, size and weight are measured by individual and, for some species, sex, gonad maturity, and the weight of certain organs (stomach, liver, gonads) are also evaluated. The soft rays of the anal fin are counted for redfish, and the otoliths are collected for several species such as witch flounder, Atlantic cod, Greenland halibut and Atlantic halibut. A roughly 2-kg shrimp sample is sorted and weighed by species (and by stage of maturity for northern shrimp). The shrimps are measured individually. The other invertebrates are counted (no individual measurements) and photographed.\n\nThe biological data are divided into 4 files: a “Stations” file containing set information, a “Catches” file containing catches per set for all species caught, a “Carbio” file containing biological and morphometric measurements per individual all species measured except shrimps, and a “Freql” file containing the length frequency of fish. The columns source_info, no_survey, nbpc and station_number serve as a common key linking the four datasets. To further link the “Captures” and the “Carbio” files to the species level (for fish and certain invertebrate species), use the columns source_info, no_survey, nbpc, station_number, strap_code, and category. \n\nFurther shrimp biological and morphometric data are available but are not presented here in order to simplify data presentation. For access to the complete information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca). \n\nData collection methods and sampling protocols have varied over the years. These changes may affect the comparability of the data across sampling periods. For more information about the protocols used, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca).\n\nIt's important to note that this is raw data. Only sets considered successful are retained. In each set, all species are kept, with a few exceptions. For more information, please contact the data management team (gddaiss-dmsaisb@dfo-mpo.gc.ca)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4eaac443-24a8-4b37-9178-d7cce4eb7c7b"
+  ],
+  "dct_issued_s": "2020-03-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4eaac443-24a8-4b37-9178-d7cce4eb7c7b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Annual multidisciplinary survey for assessing groundfish and shrimp in the Estuary and northern Gulf of St. Lawrence (CCGS Alfred Needler 1990 - 2005)",
+  "gbl_mdModified_dt": "2026-08-20T16:00:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3f06ded0-cca2-54cf-822b-3a74342f4fc8",
+  "locn_geometry": "ENVELOPE(-69.3405, -55.4753, 52.1023, 45.825)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

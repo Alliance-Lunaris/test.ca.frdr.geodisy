@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.8211, -100.7315, 60.0946, 51.498)",
+  "dcat_keyword_sm": [
+    "forestry",
+    "Government information",
+    "forest",
+    "fri",
+    "predictive ecosite map",
+    "forest service",
+    "environment",
+    "ministry of environment",
+    "ecozone",
+    "ecosite",
+    "boreal shield",
+    "pem",
+    "government of saskatchewan",
+    "saskatchewan",
+    "canada",
+    "taiga shield",
+    "boreal plain",
+    "forest resource inventory"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Carte prédictive de l'écosite de la Saskatchewan - v01"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "Predictive ecosite map of Saskatchewan's provincial forests and adjacent parks within the boreal plain, boreal shield and taiga shield ecozones: version 01.  \n  \n  Download: Here The Predictive Ecosite Map of Saskatchewan is based on the classifications of McLaughlan et al. (2010). This version (v01) is an interim proof-of-concept product and is not considered highly accurate or finalized. Ecosite prediction accuracy is anticipated to between 40% and 65%, depending on geographic location. For the boreal plain ecozone, ecosites were derived using a random forest imputation with the yaImpute package in R and mapped by L. Gelhorn (2014-07-24). Pixel values presented here are prefixed with a 2. Non-forest / non-water pixels are often assigned a BP28 ecosite code (228). For the boreal shield and taiga shield ecozones, ecosites were derived using a random forest imputation with the yaImpute package in R and mapped by S. Oldford (2019-11-20). Pixel values presented here are prefixed with a 3 and a 4, respectively. In the case of the taiga shield ecozone, there were limited sample plot data. To increase the sample size for modelling, the majority of taiga shield ecosites data are combined and modeled with boreal sheild ecosites using the ecozonal synonyms of McLaughlan et al. (2010). Ecosites TS01 (401), TS04 (404) and TS17 (417) were modeled as such because no ecozonal synonyms exist. This map is clipped to the Saskatchewan provincial forest and adjacent park boundaries. Water bodies are masked according to the 2015 Landcover Map of Canada of White et al. (2017) and have a pixel value of zero (0). References: McLaughlan, M.S., Wright, R.A. and Jiricka, R.D. (2010). Field guide to the ecosites of Saskatchewan’s provincial forests. Saskatchewan Ministry of Environment, Forest Service. Prince Albert, Saskatchewan. 343 pp. White, J.C., Wulder, M.A., Hermosilla, T., Coops, N.C. and Hobart, G.W. (2017). A nationwide annual characterization of 25 years of forest disturbance and recovery for Canada using Landsat time series. Remote Sensing of Environment. 192: 303-321.",
+    "Carte écosite prédictive des forêts provinciales de la Saskatchewan et des parcs adjacents dans les écozones de la plaine boréale, du bouclier boréal et du bouclier de la taïga : version 01.  \n  \n  Télécharger : Ici La carte prédictive des écosites de la Saskatchewan est basée sur les classifications de McLaughlan et al. (2010). Cette version (v01) est un produit de validation de concept provisoire et n'est pas considérée comme très précise ni finalisée. La précision des prévisions relatives aux écosites devrait se situer entre 40 % et 65 %, selon la situation géographique. Pour l'écozone de la plaine boréale, les écosites ont été dérivés à l'aide d'une imputation forestière aléatoire avec le package YaImpute en R et cartographiés par L. Gelhorn (2014-07-24). Les valeurs de pixels présentées ici sont précédées d'un 2. Un code d'écosite BP28 (228) est souvent attribué aux pixels non forestiers et non aquatiques. Pour les écozones du bouclier boréal et du bouclier de la taïga, les écosites ont été dérivés à l'aide d'une imputation forestière aléatoire avec le package YaImpute en R et cartographiés par S. Oldford (2019-11-20). Les valeurs de pixels présentées ici sont précédées d'un 3 et d'un 4, respectivement. Dans le cas de l'écozone du bouclier de la taïga, les données des placettes d'échantillonnage étaient limitées. Afin d'augmenter la taille de l'échantillon pour la modélisation, la majorité des données sur les écosites du bouclier de la taïga sont combinées et modélisées avec les écosites du bouclier boréal en utilisant les synonymes écozonaux de McLaughlan et al. (2010). Les écosites TS01 (401), TS04 (404) et TS17 (417) ont été modélisés comme tels car aucun synonyme d'écozone n'existe. Cette carte est découpée en fonction de la forêt provinciale de la Saskatchewan et des limites du parc adjacent. Les plans d'eau sont masqués conformément à la carte de la couverture terrestre du Canada de 2015 de White et al. (2017) et ont une valeur en pixels de zéro (0). Références : McLaughlan, M.S., Wright, R.A. et Jiricka, R.D. (2010). Guide pratique des écosites des forêts provinciales de la Saskatchewan. Ministère de l'Environnement de la Saskatchewan, Service des forêts. Prince Albert, Saskatchewan. 343 pages. White, J.C., Wulder, M.A., Hermosilla, T., Coops, N.C. et Hobart, G.W. (2017). Une caractérisation annuelle nationale de 25 années de perturbation et de rétablissement des forêts au Canada à l'aide de séries chronologiques Landsat. Télédétection de l'environnement. 192 : 303-321.  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e1c67541-f7a8-3133-53f8-001bb6eb815a"
+  ],
+  "dct_issued_s": "2024-05-17",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e1c67541-f7a8-3133-53f8-001bb6eb815a\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Predictive Ecosite Map of Saskatchewan - v01",
+  "gbl_mdModified_dt": "2025-02-05T19:07:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "396a6840-cec4-502b-8599-81cc4b8d9796",
+  "locn_geometry": "ENVELOPE(-110.8211, -100.7315, 60.0946, 51.498)",
+  "schema_provider_s": "Open Data Canada"
+}

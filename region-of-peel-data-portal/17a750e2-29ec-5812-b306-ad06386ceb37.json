@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.11294989660617, -79.55534743476515, 43.97007343795507, 43.49074763944047)",
+  "dcat_keyword_sm": [
+    "vehicle count",
+    "Transportation",
+    "trucks",
+    "Open Data",
+    "traffic",
+    "Automated Traffic Recorder (ATR)",
+    "regional road system",
+    "Performance",
+    "counts",
+    "cars",
+    "vehicles",
+    "Average Annual Daily Traffic (AADT)",
+    "automobiles",
+    "AADT",
+    "total volume of vehicles",
+    "transport"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p>Average Annual Daily Traffic (AADT) is the total volume of vehicles on a roadway for a 24-hour period. AADT’s are calculated from raw data which is collected by an Automated Traffic Recorder (ATR). ATR data is collected with pneumatic road tubes that are attached to the road and record traffic with a counting device that is attached to the road tubes. These tubes are installed on the road for at least one day but can be down for up to seven consecutive days.</p><p>For north/south roads (ex: Dixie Road), columns with NE show northbound traffic and columns named SW show southbound traffic. For east/west roads (ex: Bovaird Drive), columns named NE show eastbound traffic and columns named SW show westbound traffic.</p><p>Years with a 0 or no value as their count reflect that no count was taken for that year.</p><p>Station IDs consist of the Regional Road number (3 digits) followed by the chainage in metres (5 digits) from the easternmost or southernmost section of the Regional Road.  For example, Station ID 10709519 is on Regional Road 107 and is 9519 metres from it's start at Highway 50.</p></div>"
+  ],
+  "dct_identifier_sm": [
+    "844846e93de64ddd910c2b6e964105f1",
+    "https://www.arcgis.com/home/item.html?id=844846e93de64ddd910c2b6e964105f1"
+  ],
+  "dct_issued_s": "2019-11-28",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::traffic-count-stations\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Traffic Count Stations",
+  "gbl_mdModified_dt": "2025-02-25T05:17:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17a750e2-29ec-5812-b306-ad06386ceb37",
+  "locn_geometry": "ENVELOPE(-80.11294989660617, -79.55534743476515, 43.97007343795507, 43.49074763944047)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

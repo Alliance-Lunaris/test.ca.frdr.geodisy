@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "CP Territoires",
+    "code postal",
+    "géocodage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de la protection et de l’optimisation des données administratives (DPODA)."
+  ],
+  "dct_description_sm": [
+    "Le fichier CP Territoires (anciennement diffusé sous le nom AQgéopostal) est basé sur les données du Référentiel québécois des adresses (RQA) du ministère des Ressources naturelles et des Forêts (MRNF). Cette table élaborée par l’Institut de la statistique du Québec (ISQ) permet la correspondance des données par code postal avec différents découpages territoriaux du Québec (municipalités, municipalités régionales de comté [MRC], régions administratives, circonscriptions électorales provinciales, etc.). \r\n\r\nCP Territoires permet de géocoder les codes postaux du Québec. Le géocodage est une opération qui consiste à localiser précisément sur le territoire un phénomène selon ses caractéristiques; dans le cas présent, le code postal est la principale caractéristique étudiée.\r\nLe géocodage est une tâche qui peut être automatisée pour le traitement de plusieurs milliers d’observations.\r\n\r\nL’outil proposé se présente sous forme tabulaire. Il peut être facilement intégré dans la solution logicielle, ce qui permet de faire l’appariement de données selon un découpage administratif particulier.\r\n\r\nCP Territoires est actualisé trimestriellement à l’aide des données les plus récentes et des dernières versions des découpages administratifs."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/1a6267da-82ed-4ea0-b35d-9e9618a58ce7"
+  ],
+  "dct_issued_s": "2026-02-09",
+  "dct_publisher_sm": [
+    "Institut de la statistique du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/1a6267da-82ed-4ea0-b35d-9e9618a58ce7\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Gouvernement et finances"
+  ],
+  "dct_title_s": "Codes postaux et territoires – table de géolocalisation des codes postaux",
+  "gbl_mdModified_dt": "2026-08-25T12:53:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b7ff3adc-03ec-55a9-af3d-c26f87fc8c7c",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,35 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Anselma, Pier Giuseppe (Polytechnic University of Turin). ORCID: https://orcid.org/0000-0003-3576-672X",
+    "Kollmeyer, Phillip (McMaster University). ORCID: https://orcid.org/0000-0003-3576-672X",
+    "Lempert, Jeremy (McMaster University).",
+    "Zhao, Ziyu (McMaster University)."
+  ],
+  "dct_description_sm": [
+    "Three 2.5Ah LFP battery cells are cycled until they reached a very low SOH (70% for the 300k km case, 40% for the 206k km case, and 15% for the 95k km case).  The tests begin with an HPPC test and two repeated 1C discharge tests, which are followed by 300 repetitions of a power profile calculated for an HEV following the WLTP drive cycle. Each aging case has a different power profile, which is designed based off of an empirical aging model to acheive approximately 95,000 km, 206,000 km, or 300,000 km of driving before the cell ages to 80% SOH.  \n\nOne possible application of the dataset could be parameterizing/training and testing SOC or SOH estimation models for hybrid electric vehicles.  Since there are three cases which age at a different rate, two cases could be used to train a machine learning algorithm and the third case could be used to test it, for example.  For full details regarding the design of the tests see the Applied Energy paper \"Battery state-of-health sensitive energy management of hybrid electric vehicles: Lifetime prediction and ageing experimental validation\"."
+  ],
+  "dct_identifier_sm": [
+    "650455",
+    "https://doi.org/10.5683/SP3/23MFNE"
+  ],
+  "dct_issued_s": "2023-09-05",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/23MFNE\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Battery Aging Dataset for HEV Drive Cycles applied to 2.5Ah A123 LFP Cells",
+  "gbl_mdModified_dt": "2023-09-11T17:12:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4503184a-e7dc-5d02-9050-2655dacf5030",
+  "schema_provider_s": "McMaster University Dataverse"
+}

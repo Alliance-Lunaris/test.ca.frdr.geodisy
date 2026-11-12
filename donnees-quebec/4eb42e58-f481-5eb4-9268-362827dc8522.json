@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Lock-out",
+    "Travail",
+    "Arrêts",
+    "Jours-personnes perdus",
+    "Grève"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction des études et de l'information sur le travail."
+  ],
+  "dct_description_sm": [
+    "Le ministère du Travail rend dorénavant disponibles deux ensembles de données à partir des avis de grève et de lock-out qu’il reçoit.  \r\n\r\n[Pour consulter les données regroupées](/recherche/dataset/liste-des-arrets-de-travail-au-quebec).\r\n\r\n##Données non regroupées :<br />\r\nLes données non regroupées correspondent à la version « brute » des informations transmises au ministère du Travail sur chaque grève ou lock-out pris séparément, selon l’accréditation syndicale touchée. Celles-ci présentent chaque grève ou lock-out sans que les événements liés à une négociation commune aient été regroupés.<br /><br />\r\nCes données permettent de voir tous les événements enregistrés individuellement, même si certains font partie d’un même arrêt de travail, ainsi que les détails pour chaque accréditation concernée, ce qui donne un portrait plus détaillé de la situation.\r\n##Données regroupées : <br />\r\nLes regroupements consistent à comptabiliser plusieurs événements d’une négociation commune comme un seul arrêt de travail (un seul événement : arrêt de travail) lorsque ceux ci font partie d’une même négociation commune, même si cet événement concerne plusieurs accréditations syndicales ou employeurs. En effet, il arrive que plusieurs syndicats et employeurs négocient ensemble une seule convention collective.<br /><br />\r\nPour mieux refléter cette réalité, ces événements sont regroupés et comptés comme un seul arrêt de travail, lorsqu’il y a lieu, dans les statistiques du Ministère, même s’ils touchent plusieurs groupes. Les bilans annuels sur les arrêts de travail, publiés par le ministère du Travail, sont réalisés à partir de ces données regroupées.\r\n<br />\r\n<br />\r\nÀ noter que les données de l’année 2022 et suivantes sont préliminaires et actuellement en traitement au ministère du Travail.<br />\r\n<br />\r\nPour les années précédentes, les données finales sont présentées dans les [bilans annuels des arrêts de travail](https://www.travail.gouv.qc.ca/publications/bilans-statistiques-annuels/bilan-des-arrets-de-travail/) diffusés par le ministère du Travail."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/2b9c7a3c-f655-4e3a-9a53-cc28609e4801"
+  ],
+  "dct_issued_s": "2025-08-29",
+  "dct_publisher_sm": [
+    "Ministère du Travail"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/2b9c7a3c-f655-4e3a-9a53-cc28609e4801\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Économie et entreprises"
+  ],
+  "dct_title_s": "Liste non regroupée des arrêts de travail au Québec",
+  "gbl_mdModified_dt": "2026-08-27T16:41:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4eb42e58-f481-5eb4-9268-362827dc8522",
+  "schema_provider_s": "Données Québec"
+}

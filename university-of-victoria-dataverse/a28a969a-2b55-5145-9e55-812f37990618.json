@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.700315, -66.109298, 50.270467, 50.014384)",
+  "dcat_keyword_sm": [
+    "Coastal Ecosystem",
+    "R",
+    "Environmental quality",
+    "Ecosystem-Based Quality Index",
+    "Functional group",
+    "health",
+    "stressors",
+    "index",
+    "Gulf of St. Lawrence",
+    "coastal",
+    "benthos",
+    "Environmental quality",
+    "macroalgae"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ferrario, Filippo (Université Laval). ORCID: https://orcid.org/0000-0002-7587-2749",
+    "Archambault, Philippe (Québec-Océan, Biology Department, Laval University, Université Laval).",
+    "Johnson, Ladd Erik (Université Laval).",
+    "McKindsey, Christopher W. (Maurice Lamontagne Institute, Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "To be entered",
+    "This dataset provides scripts and data used to produce the study \"Ecosystem-Based Quality Index at the bay scale: assessing the status of a heterogeneous system in a functional framework.\" https://doi.org/10.1016/j.ecolind.2021.108260 .\n\nThe Ecosystem-Based Quality Index (EBQI), developed for the Mediterranean Sea, may be adaptable to other ecosystems due to its functional approach being closer to a methodological framework than a specialized index.\n\nThis work implement the shGSL-EBQI (shallow heterogeneous Gulf of St. Lawrence-EBQI)\n\nData provided here include:\n- field data on macro-epibenthic invertebrates, algal community, infauna, bioturbation, Organic matter and photosynthetic pigments content in sediment in the  Baie des Sept Îles (Québec, Canada).\n- potential environmental and anthropogenic drivers in the area\n- Scoring criteria, box scores, weighting schemes and model description datasets used to caculate the shGSL-EBQI.\n\nMethodological Information:\n\n- Macro epibentic Invertebrates, Macroalgal and Bioturbation data have been ectracted from georeferenced photomosaics realized using underwater imagery acquired by Filippo Ferrario using SCUBA (see paper for details). Data have been gathered in 2018 in the Bay of Sept-Îles (Québec, Canada)\n- Organic matter and Photosynthetic pigments (chlorophyll-a and pheopigments) were quantified from sediment collected in SCUBA (see paper for details). Data have been gathered in 2018 in the Bay of Sept-Îles (Québec, Canada)\n- Fishery data have been provided by David Beauchesne (CHONe). More information on data can be found in: Beauchesne et al 2020 (https://doi.org/10.3389/fmars.2020.00383)\n- Infauna data have been provided by Elliot Dreujou (CHONe). More information on data can be found in: Dreujou et al 2020 (https://doi.org/10.3390/w12092424)."
+  ],
+  "dct_identifier_sm": [
+    "128616_74103",
+    "https://doi.org/10.5683/SP2/10YQLA"
+  ],
+  "dct_issued_s": "2021-10-06",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/10YQLA\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: Ecosystem-Based Quality Index at the bay scale: assessing the status of a heterogeneous system in a functional framework.",
+  "gbl_mdModified_dt": "2021-10-06T17:04:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a28a969a-2b55-5145-9e55-812f37990618",
+  "locn_geometry": "ENVELOPE(-66.700315, -66.109298, 50.270467, 50.014384)",
+  "pcdm_memberOf_sm": [
+    "CHONe II"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

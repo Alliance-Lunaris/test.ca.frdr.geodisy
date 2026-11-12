@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-50.25668, -50.14766, 53.441, 53.38067)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dilmahamod, Ahmad Fehmi (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0003-1110-940X",
+    "Karstensen, Johannes (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0001-5044-7079",
+    "Hummels, Rebecca (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0002-3746-6213",
+    "Atamanchuk, Dariia (Dalhousie University). ORCID: https://orcid.org/0000-0002-9117-502X",
+    "Koelling, Jannes (University of Washington)."
+  ],
+  "dct_description_sm": [
+    "This data set contains quality-controlled observations from a GEOMAR mooring deployment. Depending on the mooring configuration, measurements may include pressure, temperature, conductivity, dissolved oxygen, and current velocity recorded by oceanographic instruments throughout the deployment period.Data Processing: Instruments equipped with pressure, temperature, conductivity, and oxygen sensors were calibrated in situ immediately before deployment and after recovery by attaching them to the CTD frame during CTD/O2 casts. Sensor readings were compared with calibrated CTDO2 observations during dedicated calibration stops lasting several minutes. Correction terms were derived from the differences between the moored instruments and the CTDO measurements and subsequently applied to the complete deployment records. Calibration-stop results were additionally validated using nearby CTD observations obtained during the deployment (CTD data of deployment cruise: https://doi.org/10.1594/PANGAEA.963942) and recovery cruises (CTD data of recovery cruise: https://doi.org/10.1594/PANGAEA.928976). This procedure enables the detection and correction of potential sensor drift and provides estimates of calibration and measurement uncertainties. Details of the deployment and recovery operations are documented in the corresponding cruise reports.",
+    "instrument = Label:kpo_1162_02 File:kpo_1162_instr_02.nc Type:Seabird MicroCat 37-IM with pressure SN:02712instrument = Label:kpo_1162_04 File:kpo_1162_instr_04.nc Type:Seabird MicroCat 37-SM SN:03196 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_05 File:kpo_1162_instr_05.nc Type:Nortek Aquadopp Seriell SN:P26209-32instrument = Label:kpo_1162_06 File:kpo_1162_instr_06.nc Type:Seabird MicroCat 37-SM SN:01942 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_07 File:kpo_1162_instr_07.nc Type:RBR RBR Concerto DO SN:52626 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_08 File:kpo_1162_instr_08.nc Type:Seabird MicroCat 37-SM SN:01317 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_09 File:kpo_1162_instr_09.nc Type:Nortek Aquadopp Seriell SN:P26209-23instrument = Label:kpo_1162_10 File:kpo_1162_instr_10.nc Type:Seabird MicroCat 37-SM with pressure SN:10690instrument = Label:kpo_1162_11 File:kpo_1162_instr_11.nc Type:Seabird MicroCat 37-SM with pressure SN:10704instrument = Label:kpo_1162_12 File:kpo_1162_instr_12.nc Type:Seabird MicroCat 37-IM SN:00945 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_13 File:kpo_1162_instr_13.nc Type:Nortek Aquadopp Seriell SN:P24543-02instrument = Label:kpo_1162_14 File:kpo_1162_instr_14.nc Type:RBR RBR Concerto DO SN:52635 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_15 File:kpo_1162_instr_15.nc Type:Seabird MicroCat 37-SM with pressure SN:10633instrument = Label:kpo_1162_16 File:kpo_1162_instr_16.nc Type:Seabird MicroCat 37-IM SN:07417 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1162_17 File:kpo_1162_instr_17.nc Type:Nortek Aquadopp Induktiv SN:P26209-05instrument = Label:kpo_1162_18 File:kpo_1162_instr_18.nc Type:Seabird MicroCat 37-SM with pressure SN:10700instrument = Label:kpo_1162_19 File:kpo_1162_instr_19.nc Type:Seabird MicroCat 37-SM with pressure SN:10691instrument = Label:kpo_1162_20 File:kpo_1162_instr_20.nc Type:Nortek Aquadopp Seriell SN:P26209-22instrument = Label:kpo_1162_21 File:kpo_1162_instr_21.nc Type:Seabird MicroCat 37-SM with pressure SN:10634instrument = Label:kpo_1162_22 File:kpo_1162_instr_22.nc Type:Seabird MicroCat 37-SM with pressure SN:10703instrument = Label:kpo_1162_23 File:kpo_1162_instr_23.nc Type:Nortek Aquadopp Seriell SN:P26209-31"
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.996590",
+    "https://doi.org/10.1594/pangaea.996590"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.996590\"}",
+  "dct_subject_sm": [
+    "Quality flag, water depth",
+    "Optimizing and Enhancing the Integrated Atlantic Ocean Observing System (AtlantOS)",
+    "Maria S. Merian",
+    "MSM54",
+    "Current velocity, north-south",
+    "MSM74",
+    "Quality flag, water pressure",
+    "Quality flag, water temperature",
+    "subpolar North Atlantic",
+    "North Atlantic Climate (NACLIM)",
+    "Mooring",
+    "physical data",
+    "Salinity",
+    "Pressure, water",
+    "Oxygen",
+    "Quality flag, oxygen",
+    "Temperature, water",
+    "DATE/TIME",
+    "Regional Atlantic Circulation and global Change II (RACE-II)",
+    "Quality flag, salinity",
+    "Current velocity, east-west",
+    "Sample code/label",
+    "DEPTH, water",
+    "Quality flag, current velocity"
+  ],
+  "dct_title_s": "Physical oceanography from mooring KPO_1162",
+  "gbl_mdModified_dt": "2026-10-02T04:07:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d87dd4c7-c70c-5e9f-b689-db23d91fa7d3",
+  "locn_geometry": "ENVELOPE(-50.25668, -50.14766, 53.441, 53.38067)",
+  "schema_provider_s": "PANGAEA"
+}

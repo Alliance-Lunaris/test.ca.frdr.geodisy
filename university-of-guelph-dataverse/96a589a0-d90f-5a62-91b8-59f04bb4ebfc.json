@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "soil biodiversity",
+    "forest–field, ecotone",
+    "arthropod eDNA",
+    "COI metabarcoding"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Castillo, Anibal (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0002-1537-0528",
+    "Jacobs, Shoshanah (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org/0000-0002-2103-3739",
+    "Steinke, Dirk (Centre for Biodiversity Genomics. University of Guelph., Department of Integrative Biology. College of Biological Science. University of Guelph., University of Guelph). ORCID: https://orcid.org/0000-0002-8992-575X",
+    "Smith, Alexander (Department of Integrative Biology. College of Biological Science. University of Guelph.). ORCID: https://orcid.org//0000-0002-8650-2575"
+  ],
+  "dct_description_sm": [
+    "This dataset contains environmental DNA (eDNA) metabarcoding data from leaf-litter samples collected across a temperate forest–field ecotone at the Dairy Bush, University of Guelph, Ontario, Canada. Ten leaf-litter samples (five from a forest habitat and five from an adjacent field habitat) were dried, ground into a fine powder, and subjected to DNA extraction using three commercial extraction protocols (Qiagen DNeasy® Blood and Tissue, Qiagen DNeasy® PowerSoil® Pro, and Zymo Quick-DNA™ Plant/Seed Miniprep). A 421 bp fragment of the mitochondrial cytochrome c oxidase I (COI) barcode region was amplified with the BF3+BR2 primer set and sequenced on an Illumina MiSeq platform. Bioinformatic processing was performed with the APSCALE pipeline, and taxonomic assignments were made using the Canadian Reference Library (CANREF22). The dataset includes sample metadata, taxonomic occurrence tables, and environmental variables associated with each sampling location. The repository contains all R scripts required to reproduce the statistical analyses and figures presented in the manuscript, including rarefaction analyses, diversity calculations, PERMANOVA, non-metric multidimensional scaling (nMDS) ordinations, and data visualizations. These data were generated to evaluate the effectiveness of leaf-litter eDNA metabarcoding for assessing terrestrial invertebrate biodiversity, compare DNA extraction methods, and examine differences in arthropod community composition across a forest–field environmental gradient."
+  ],
+  "dct_identifier_sm": [
+    "1183667_76_41151_41152",
+    "https://doi.org/10.5683/SP4/2GT4EP"
+  ],
+  "dct_issued_s": "2026-08-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/2GT4EP\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Guelph, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Replication data for: Assessment of leaf-litter invertebrate biodiversity using high throughput sequencing",
+  "gbl_mdModified_dt": "2026-08-20T19:08:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "96a589a0-d90f-5a62-91b8-59f04bb4ebfc",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // College of Biological Science // Department of Integrative Biology"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

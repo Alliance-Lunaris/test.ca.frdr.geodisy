@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.0271767069538, -78.97589699857187, 44.02890353207985, 43.5754303206801)",
+  "dcat_keyword_sm": [
+    "spill",
+    "floodplain",
+    "estimated",
+    "engineered",
+    "floodline",
+    "flood plain",
+    "regulatory",
+    "flood line",
+    "flooding",
+    "flood"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p><b>*NOTE:</b>  to obtain the feature as a polygon please click <font size='4'><i><a href='https://trca-camaps.opendata.arcgis.com/datasets/16356f40517d4e32aca9c86b257198e0/explore?location=43.801658%2C-79.499835%2C10.64' target='_blank' rel='nofollow ugc noopener noreferrer'>Floodline_TRCA_Polygon here</a><span>.</span></i></font></p><p>The regulatory flood plain is the approved standard used in a particular watershed to define the limit of the flood plain for regulatory purposes. This standard is defined by the Ontario Ministry of Natural Resources and Forestry. Within TRCA’s jurisdiction, the regulatory flood plain is based on the more severe of the Regional Storm (Hurricane Hazel, 1954), or the 100 year storm; whichever is greater. For most of our jurisdiction, it is Hurricane Hazel. A hydrology model simulates the effect of this amount of rainfall as if it were over each watershed, taking into account the topography, soil type, land-use, and other characteristics to determine how much water would end up in our rivers and streams. A hydraulic model then looks at where this water would go, and what areas would be inundated. The inundated area for the regulatory storm is called the regulatory flood plain.</p><p><span>The segments of this feature fall under catagories as defined by the 'Layer' field of the feature's attribute table and are as follows:</span></p><ul><li><p><span style='font-weight:bold;'>Floodline-Engineered </span><span>- the flood line from the finalized TRCA flood plain map. </span></p></li></ul><ul><li><p><span style='font-weight:bold;'>Floodline-Estimated </span><span>- the flood line from TRCA's estimated flood plain project. This flood line was created from a rough hydraulic model where the purpose was to define the regulatory flood plain in areas of the jurisdiction where there was a watercourse that met the criteria for flood plain mapping, but had not been modeled through previous study. This flood extent is intended for use as a criterion in TRCA regulation mapping and should not be used in place of a hydraulic analysis completed to TRCA standard.</span></p><p><span></span></p></li><li><p><span style='font-weight:bold;'>Floodline- Engineered Flood Study </span><span>- flood line acquired from a study not completed by the TRCA. These lines were specifically used with direction from the Planning and Development division for use in the Generic Regulation criteria layer and were complied from the submitted development application. </span></p><p><span></span></p></li><li><p><span style='font-weight:bold;'>Floodline-Spill Unmapped </span><span>- a flood plain spill exists where flood waters are not physically contained within the valley or stream corridor and exit into surrounding lands. As a consequence, the limit and depth of flooding are difficult to determine. Flood spill areas occur naturally or can occur as a result of downstream barriers to the passage of flood flows such as undersized bridges or culverts. Please refer to TRCA’s Living City Policies for further information on flood plain spills. This line segment does not represent the flood plain and is used only to indicate where the spill occurs.</span></p></li></ul><ul><li><p><span style='font-weight:bold;'>Floodline-Spill Screening Area - </span><span>properties in this area may be within the flood plain, or within a flood plain spill, and the corresponding sections of the Living City Policies may apply. Draft model information, or minimum floodproofing elevation requirements, may be available, or further studies may be required to determine if this property is impacted by a spill. Please contact TRCA Engineering Services for further information. </span></p><p><span></span></p></li><li><p><span style='font-weight:bold;'>Floodline-Update Pending - </span><span>the flood line from the finalized TRCA flood plain map but indicated as an area where there is currently an update in progress.</span></p><p><span></span></p></li><li><p><span style='font-weight:bold;'>Floodline-Undefined </span><span>- this segment indicates where the extent of the flood plain is beyond the boundary limits of the topographical data that was available at the time the flood plain map was created. <br /></span></p></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "33630fb21fcc400eb78eda205a90949c",
+    "https://www.arcgis.com/home/item.html?id=33630fb21fcc400eb78eda205a90949c"
+  ],
+  "dct_issued_s": "2025-07-15",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::floodline-trca-line\"}",
+  "dct_rights_sm": [
+    "Disclaimer: This feature (Floodline_TRCA_Line) does not constitute a regulatory flood plain map as formally approved by a qualified Professional Engineer and TRCA. This feature depicts a generalized representation of the regulatory flood plain and should not be relied upon for the precise limits of the regulatory flood plain. For confirmation of the precise flood plain limit and/or to obtain a copy of an up-to-date regulation flood plain map, please contact TRCA. Toronto and Region Conservation Authority does not warrant that the data is complete or current. Toronto and Region Conservation Authority may make changes to the data at any time without notice. Toronto and Region Conservation Authority does not, however, make any commitment to update the data. The availability of the Floodline_TRCA_Line feature (“Data”) does not constitute a scientific publication, ownership or intellectual property rights. The TRCA and its suppliers and distributors do not guarantee the quality, accuracy or completeness of any Data provided to any user of the Data (the “Recipient”).Thus, to the extent permitted by law, TRCA excludes all warranties. The Data and its use are provided “As is” without warranty of any kind, including, without limitation, the warranties of merchantability, fitness for a particular purpose, identity or ownership of data or information, or that the use of such data or information will not infringe any patent, intellectual property, or proprietary rights of any party. In no event shall Toronto and Region Conservation Authority be liable for any damages, losses or claims (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use this data. In accordance with scientific standards, appropriate acknowledgement of TRCA should be made in any publications or other disclosures concerning the Data. Toronto and Region Conservation Authority may revise these terms of use for its data at any time without notice. By using this data, you are agreeing to be bound by the then current version of these Terms and Conditions of Use."
+  ],
+  "dct_title_s": "Floodline_TRCA_Line",
+  "gbl_mdModified_dt": "2026-07-09T02:42:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "69b63bde-2d09-5c2c-adac-3420354e9668",
+  "locn_geometry": "ENVELOPE(-80.0271767069538, -78.97589699857187, 44.02890353207985, 43.5754303206801)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

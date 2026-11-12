@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -52.0, 60.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This is a legacy product that is no longer supported. It may not meet current government standards.  \n  \n  The Canadian Digital Surface Model (CDSM) is part of Natural Resources Canada's altimetry system designed to better meet the users' needs for elevation data and products. The 0.75-second (~20 m) CDSM consists of a derived product from the original 1-second (30 m) Shuttle Radar Topographic Mission (SRTM) digital surface model (DSM). In these data, the elevations are captured at the top of buildings, trees, structures, and other objects rather than at ground level.  \n  \n  A CDSM mosaic can be obtained for a pre-defined or user-defined extent. The coverage and resolution of a mosaic varies according to the extent of the requested area.  \n  \n  Derived products such as slope, shaded relief and colour shaded relief maps can also be generated on demand by using the Geospatial-Data Extraction tool. Data can then be saved in many formats.  \n  \n  The pre-packaged GeoTiff datasets are based on the National Topographic System of Canada (NTS) at the 1:50 000 scale; the NTS index file is available in the Resources section in many formats."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/768570f8-5761-498a-bd6a-315eb6cc023d"
+  ],
+  "dct_issued_s": "2017-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/768570f8-5761-498a-bd6a-315eb6cc023d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Digital Surface Model, 2000",
+  "gbl_mdModified_dt": "2023-06-10T17:49:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dfa57dfb-b1a4-55b8-b7fe-123236e20c32",
+  "locn_geometry": "ENVELOPE(-140.0, -52.0, 60.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Lakes",
+    "Bassins hydrographiques",
+    "Utilisation du sol",
+    "human impact",
+    "Land use",
+    "Lacs",
+    "Watersheds"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Paquette, Cindy (Université du Québec à Montréal, Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0002-2909-2485",
+    "Fradette, Maxime (Université de Sherbrooke, Sherbrooke University).",
+    "Huot, Yannick (Université de Sherbrooke, Sherbrooke University).",
+    "Gregory-Eaves, Irene (McGill University). ORCID: https://orcid.org/0000-0002-0380-5061",
+    "Beisner, Beatrix (University of Quebec at Montreal (UQAM), Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-6972-6887"
+  ],
+  "dct_description_sm": [
+    "Land use types: urban, mines, agriculture, pasture, forestry, managed grassland, water and natural landscape.\n\nUnits: Land use fractions (Relative watershed land use).\n\nHuman impact index, varying between 0 and 1, represents the mean of all the values across each cell in the raster layer of land use within a watershed (no units).",
+    "Land use fractions (urban, mines, agriculture, pasture, forestry, managed grassland, water and natural landscape) and associated human impact index in 101 lake watersheds sampled as part the NSERC Canadian Lake Pulse Network project. Land use and human impact index were calculated as described in Huot et al. (2019).\n\nLakes IDs with respective locations (longitude and latitude coordinates) and Continental Basin allocations can be found here: https://doi.org/10.5281/zenodo.4701262\n\nReference:\n\nHuot, Y., C. A. Brown, G. Potvin, and others. 2019. The NSERC Canadian Lake Pulse Network: A national assessment of lake health providing science for water management in a changing climate. Sci. Total Environ. 695: 133668. doi:10.1016/j.scitotenv.2019.133668"
+  ],
+  "dct_identifier_sm": [
+    "286413_281357_281358",
+    "https://doi.org/10.5683/SP3/OD7P4N"
+  ],
+  "dct_issued_s": "2022-02-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/OD7P4N\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Land use fractions and human impact index in 101 Canadian lake watersheds",
+  "gbl_mdModified_dt": "2023-12-08T13:40:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "874c0f35-1f8a-50ad-8263-c985c836a312",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

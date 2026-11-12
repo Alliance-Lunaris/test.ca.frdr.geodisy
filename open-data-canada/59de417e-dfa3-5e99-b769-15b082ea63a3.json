@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Cultures",
+    "Climate variables; biophysical parameters; canopy cover",
+    "Crops",
+    "Couverture du sol",
+    "Land cover",
+    "Arbre",
+    "Variables climatiques; paramètres biophysiques; couverture forestière",
+    "Trees"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice mensuel de la fraction du rayonnement absorbé sur le plan de la synthèse d'énergie absorbée au Canada à partir d'images satellites à moyenne résolution"
+  ],
+  "dct_creator_sm": [
+    "Richard Fernandes."
+  ],
+  "dct_description_sm": [
+    "Fraction of absorbed photosynthetically active radiation (fAPAR) quantified the absorbed by green foliage. fAPAR has been identified by the Global Climate Observing System as an essential climate variable required for ecosystem, weather and climate modelling and monitoring.  This product consists of a national scale coverage (Canada) of monthly maps of fAPAR during a growing season (May-June-July-August-September)  at 20m resolution.  \n  \n  References:  \n  \n  L. Brown, R. Fernandes, N. Djamai, C. Meier, N. Gobron, H. Morris, C. Canisius, G. Bai, C. Lerebourg, C. Lanconelli, M. Clerici, J. Dash. Validation of baseline and modified Sentinel-2 Level 2 Prototype Processor leaf area index retrievals over the United States IISPRS J. Photogramm. Remote Sens., 175 (2021), pp. 71-87, https://doi.org/10.1016/j.isprsjprs.2021.02.020. https://www.sciencedirect.com/science/article/pii/S0924271621000617  \n  \n  Richard Fernandes, Luke Brown, Francis Canisius, Jadu Dash, Liming He, Gang Hong, Lucy Huang, Nhu Quynh Le, Camryn MacDougall, Courtney Meier, Patrick Osei Darko, Hemit Shah, Lynsay Spafford, Lixin Sun, 2023.  \n  \n  Validation of Simplified Level 2 Prototype Processor Sentinel-2 fraction of canopy cover, fraction of absorbed photosynthetically active radiation and leaf area index products over North American forests,  \n  \n  Remote Sensing of Environment, Volume 293, https://doi.org/10.1016/j.rse.2023.113600.  \n  \n  https://www.sciencedirect.com/science/article/pii/S0034425723001517",
+    "L'indice de la fraction du rayonnement absorbé sur le plan de la synthèse d'énergie (fRPAA) absorbée par le feuillage vert. fRPAA a été identifié par le Système mondial d'observation du climat comme une variable climatique essentielle requise pour la modélisation et la surveillance des écosystèmes, du temps et du climat. Ce produit est constitué d'une couverture à l'échelle nationale (Canada) de cartes mensuelles de fRPAA pendant une saison de croissance (mai-juin-juillet-août-septembre) à une résolution de 20 m.  \n  \n  Références :  \n  \n  L. Brown, R. Fernandes, N. Djamai, C. Meier, N. Gobron, H. Morris, C. Canisius, G. Bai, C. Lerebourg, C. Lanconelli, M. Clerici, J. Dash. Validation of baseline and modified Sentinel-2 Level 2 Prototype Processor leaf area index retrievals over the United States IISPRS J. Photogramm. Remote Sens., 175 (2021), pp. 71-87, https://doi.org/10.1016/j.isprsjprs.2021.02.020. https://www.sciencedirect.com/science/article/pii/S0924271621000617  \n  \n  Richard Fernandes, Luke Brown, Francis Canisius, Jadu Dash, Liming He, Gang Hong, Lucy Huang, Nhu Quynh Le, Camryn MacDougall, Courtney Meier, Patrick Osei Darko, Hemit Shah, Lynsay Spafford, Lixin Sun, 2023.  \n  \n  Validation of Simplified Level 2 Prototype Processor Sentinel-2 fraction of canopy cover, fraction of absorbed photosynthetically active radiation and leaf area index products over North American forests,  \n  \n  Remote Sensing of Environment, Volume 293, https://doi.org/10.1016/j.rse.2023.113600.  \n  \n  https://www.sciencedirect.com/science/article/pii/S0034425723001517"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d708877c-56b8-4255-99e3-3c4abc54597d"
+  ],
+  "dct_issued_s": "2023-07-26",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d708877c-56b8-4255-99e3-3c4abc54597d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Monthly fraction of absorbed photosynthetically active radiation absorbed of Canada from Medium Resolution Satellite Imagery",
+  "gbl_mdModified_dt": "2025-11-13T15:40:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "59de417e-dfa3-5e99-b769-15b082ea63a3",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

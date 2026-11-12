@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Essences d'Arbres (1984-2022)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "In this dataset, we share maps of annual dominant tree species (also known as leading tree species) from 1984-2022 covering the entirety of Canada's 650 Mha forested ecosystems using Landsat time-series imagery at a 30-m spatial resolution.  It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Classifications are based on regionally representative Random Forests model using local training samples from Canada's National Forest Inventory (Hermosilla et al., 2024). Descriptive metrics provide information on spectral, geographic, climatic, and topographic characteristics. Initial annual tree species classifications were subjected to a time series post-classification process using the forward-backward Hidden Markov Model to improve the temporal consistency of tree species transitions within the time series. Assessment of the annual species maps using independent validation data resulted in an overall accuracy of 86.1% ± 0.14% (95%-confidence interval). These data allow consistent comparison of trends and rates of change in tree species composition nationally and across regions using a common time frame, spatial resolution, and analytical approach.\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Bater, C.W., Hobart, G.W., 2024. Characterizing long-term tree species dynamics in Canada's forested ecosystems using annual time series remote sensing data. Forest Ecology and Management, 122313. https://doi.org/10.1016/j.foreco.2024.122313 (Hermosilla et al. 2024)",
+    "Dans cet ensemble de données, nous présentons, pour chaque année entre 1984 et 2022, des cartes des essences d'arbres dominantes (également appelées principales essences d'arbres) dans l'ensemble des 650 millions d'hectares d'écosystèmes forestiers du Canada à l'aide d'une série temporelle d'images Landsat à une résolution spatiale de 30 m.  Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. Les classifications sont fondées sur un modèle de forêts aléatoires représentatif à l'échelle régionale qui utilise des échantillons d'apprentissage locaux provenant de l'Inventaire forestier national du Canada (Hermosilla et al., 2024). Les mesures descriptives fournissent des renseignements sur les caractéristiques spectrales, géographiques, climatiques et topographiques. Pour améliorer la cohérence temporelle de la transition entre les essences d'arbres d'une année à l'autre, les classifications annuelles initiales des essences d'arbres ont fait l'objet d'un processus de post classification de série temporelle à l'aide d'un modèle de Markov caché soumis à la procédure forward backward. L'évaluation des cartes annuelles des essences à l'aide de données de validation indépendantes indique une précision globale de 86,1 ± 0,14 % (intervalle de confiance à 95 %). Ces données permettent d'effectuer une comparaison cohérente des tendances et des taux de variation de la composition en essences d'arbres à l'échelle nationale et entre les régions grâce à une résolution spatiale, à une approche analytique et à un cadre temporel communs.\nHermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Bater, C.W., Hobart, G.W., 2024. Characterizing long-term tree species dynamics in Canada's forested ecosystems using annual time series remote sensing data. Forest Ecology and Management, 122313. https://doi.org/10.1016/j.foreco.2024.122313 (Hermosilla et al. 2024)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5b7e41cd-6be6-423f-aed1-0a26a82d75c5"
+  ],
+  "dct_issued_s": "2023-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5b7e41cd-6be6-423f-aed1-0a26a82d75c5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Annual Tree Species (1984-2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:02:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a9b8385-7e96-5839-b60e-f76a2c866f25",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

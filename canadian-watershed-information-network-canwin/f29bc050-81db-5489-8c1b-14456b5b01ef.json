@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-143.0, -47.0, 85.0, 39.05)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "**CHS NONNA data has been updated: April 1, 2026**\n\nThe Canadian Hydrographic Service (CHS) offers a complete inventory of bathymetric data free to the general public for non-navigational use called 'CHS NONNA' for the 'NON-NAvigational' purpose of the data. The product is available in a spatial resolution of 10 metres or 100 metres.\n\nTo directly access the CHS NONNA Data Portal please follow this link - https://data.chs-shc.ca/login\n\n(Note: The data portal is NOT compatible with Internet Explorer browser).\n\nTerms of Use\n\nThe Canadian Hydrographic Service (CHS) NONNA Data products are for NON-NAVIGATIONAL USE ONLY. Please see the Open Data Licence below and the CHS NONNA LICENCE viewable on https://data.chs-shc.ca/login and downloadable with the NONNA data, for the full terms and conditions governing the use of this data.\n\n----- PRODUCT DESCRIPTION -----\n\nThe CHS NONNA-10 NONNA-100 and NONNA Package Bathymetric Data products represent a consolidation of digital bathymetric sources managed by the CHS in Canadian jurisdiction.\n\nThe « NONNA » refers to NON-NAvigational.\n\nThe « 10 » or « 100 » references the approximate resolution (in metres) of the data.\n\nNONNA Packages\n\nA NONNA Package is a ZIP file containing a collection of NONNAP datasets to ease the download of large amounts of high resolution data. Packages are currently available for data sources of approximately 10 metre resolution.\n\nThe «P10 » refers to the Packages and approximate resolution (in metres)  of the data.\n\nThe CHS NONNA-10 individual product coverage (resolution)  is as follows:\n\n   - South of 68°N the products = 0.1° latitude X 0.1° longitude (0.0001 degrees)\n   - 68°N-80°N the products = 0.1° latitude X 0.2° longitude (0.0002 degrees)\n   - 80°N and north the products = 0.1° latitude X 0.4° longitude (0.0004 degrees)\n\nThe CHS NONNA-100 individual product coverage (resolution)  is as follows:\n\n   - South of 68°N the products = 1° latitude X 1° longitude (0.001 degrees)\n   - 68°N-80°N the products = 1° latitude X 2° longitude (0.002 degrees)\n   - 80°N and north the products = 1° latitude X 4° longitude (0.004 degrees)\n\nThe CHS NONNA-P10 Packages are ZIP files that contain product coverage (resolution) defined as:\n\n   - South of 68°N the products = 1° latitude X 1° longitude (0.0001 degrees)\n   - 68°N-80°N the products = 1° latitude X 2° longitude (0.0002 degrees)\n   - 80°N and north the products = 1° latitude X 4° longitude (0.0004 degrees)\n\n----- DATUM -----\n\nAll CHS NONNA data sources are horizontally referenced to the World Geodetic System 1984 (WGS84) ESPG:4326 and vertically referenced to Chart Datum (CD), a tidal or water level datum that is locally derived and, of which, the depth of water should seldom fall below. For more information on vertical references visit: https://tides.gc.ca/en/vertical-datum-chart-references\n\n----- DATA PRESENTATION -----\n\nCHS NONNA products adhere to the following naming convention: NONNAXXX_SouthwestCorner Example: \n\nNONNAP10_4360N07940W\n\n   - NONNAP10 = the product NONNAP10\n   - 4360N07940W = the southwest corner of the NONNA cell.\n\nThese products are available to view, query and download via the CHS NONNA Data Portal. The following formats are available for download:\n\n   - 32-bit GeoTIFF\n   - ASCII++ (XYZ)\n   - CSAR\n   - BAG\n\nThese formats can be opened using various GIS applications.\n\nAlternatively, the CHS NONNA products can be accessed via Web Map Service (WMS), Web Coverage Service (WCS) or Web Map Tile Service (WMTS) links: \n\n- WMS https://nonna-geoserver.data.chs-shc.ca/geoserver/wms?request=GetCapabilities\n- WMTS https://nonna-geoserver.data.chs-shc.ca/geoserver/gwc/service/wmts?request=GetCapabilities\n- WCS https://nonna-geoserver.data.chs-shc.ca/geoserver/wcs?request=GetCapabilities\n\n**Note**\n\nGaps in the data may be visible where modern surveys have not yet been conducted, the data is not updated to Chart Datum (CD) or where legacy data has not yet been digitized. In addition, there may be data sources removed from the Data Portal for further processing in the CHS’ Bathymetric Database, and will not be available until such work is complete.\n\nData sources included in the NONNA products may not have been subjected to the same level of quality assurance as those in official navigational products.\n\n**Help**\n\nNew users of the CHS NONNA Data Portal are encouraged to fully review the 'CHS NONNA Data Portal Guidance Document' (PDF) which is available below in the RESOURCES section of this page."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d3881c4c-650d-4070-bf9b-1e00aabf0a1d"
+  ],
+  "dct_issued_s": "2018-10-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d3881c4c-650d-4070-bf9b-1e00aabf0a1d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Hydrographic Service Non-Navigational (NONNA) Bathymetric Data",
+  "gbl_mdModified_dt": "2026-05-15T19:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f29bc050-81db-5489-8c1b-14456b5b01ef",
+  "locn_geometry": "ENVELOPE(-143.0, -47.0, 85.0, 39.05)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

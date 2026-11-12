@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Gross merchantable volume - total (GMVTOT) is an expression of merchantable stem total volume (m3) on a per-hectare basis. Available here as a raster (GeoTIF) with a 20 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.  Gross merchantable volume per hectare - total (GMVTOT) is an expression of merchantable stem volume (m3) on a per-hectare basis. Calculations are made assuming a cut-to-length scenario, and including all stem wood from a 30 cm stump height to an 8 cm top diameter (inside bark), with a minimum bole length of 5.1 m and a minimum log length of 2.4 m for softwood and 2.7 m for hardwood. GMVTOT is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 20 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing GMVTOT data in the following 50 m3/ha categories. Domain: [NULL, 0…1000]. RANGE LABEL RED GREEN BLUE 0 <= GMVTOT < 25 0 NA NA NA 25 <= GMVTOT < 75 50 63 81 181 75 <= GMVTOT < 125 100 66 101 160 125 <= GMVTOT < 175 150 68 121 138 175 <= GMVTOT < 225 200 71 140 117 225 <= GMVTOT < 275 250 74 160 96 275 <= GMVTOT < 325 300 85 178 79 325 <= GMVTOT < 375 350 123 191 74 375 <= GMVTOT < 425 400 161 203 70 425 <= GMVTOT < 475 450 198 216 66 475 <= GMVTOT < 525 500 236 229 61 525 <= GMVTOT < 575 550 255 226 53 575 <= GMVTOT < 625 600 255 209 40 625 <= GMVTOT < 675 650 255 191 28 675 <= GMVTOT < 725 700 255 174 16 725 <= GMVTOT < 775 750 255 156 3 775 <= GMVTOT < 825 800 253 139 9 825 <= GMVTOT < 875 850 251 121 20 875 <= GMVTOT < 925 900 249 103 31 925 <= GMVTOT < 975 950 246 85 43 975 <= GMVTOT <= 1000 1000 244 67 54For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b9c3e0f-9d8e-0770-7712-b304caa96c21"
+  ],
+  "dct_issued_s": "2023-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/5b9c3e0f-9d8e-0770-7712-b304caa96c21\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "FRI: Gross merchantable volume - total",
+  "gbl_mdModified_dt": "2025-02-05T19:21:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6af78d73-fc5e-5867-9903-c882c27ce4b3",
+  "locn_geometry": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.851625, -96.19460075, 55.74982657, 49.09874167)",
+  "dcat_keyword_sm": [
+    "school divisions",
+    "French Immersion Program",
+    "Education",
+    "single track",
+    "dual track",
+    "public schools",
+    "Manitoba",
+    "French",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div><font size='3'>Point feature layer showing locations of public schools in Manitoba that offer the French Immersion Program. This is an inclusive program intended for all students with various abilities and needs whose first language is not French. The goal of the Program is to develop proud, confident, engaged, plurilingual global citizens.</font></div><div><font size='3'><br /></font></div><div><font size='3'>For more information visit </font><a href='https://www.edu.gov.mb.ca/k12/schools/fr_imm.html' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Advanced Education, Skills and Immigration</a><font size='3'>.</font></div><div><font size='3'><br /></font></div><div><font size='3'>Fields included (<b>Alias </b>(Field Name): Field description)</font></div><div><ul><li><font size='3'><b>SCHOOL_FR_NAME </b>(SCHOOL_FR_NAME): Name of the school in French</font></li><li><font size='3'><b>SCHOOL_EN_PHONE_NBR </b>(SCHOOL_EN_PHONE_NBR): Phone number for the school</font></li><li><font size='3'><b>SCHOOL_FR_PHONE_NBR </b>(SCHOOL_FR_PHONE_NBR): Phone number for the school, in French format</font></li><li><font size='3'><b>DIV_NAME </b>(DIV_NAME): Name of the school division</font></li><li><font size='3'><b>DIV_FR_NAME </b>(DIV_FR_NAME): Name of the school division in French</font></li><li><font size='3'><b>DIV_EN_PHONE_NBR </b>(DIV_EN_PHONE_NBR): Phone number for the division</font></li><li><font size='3'><b>DIV_FR_PHONE_NBR </b>(DIV_FR_PHONE_NBR): Phone number for the division, in French format</font></li><li><b>SCHOOL_ADDR_LINE1 </b><span style='font-size:medium;'>(SCHOOL_ADDR_LINE1): Street address of school</span><br /></li><li><b>SCHOOL_ADDR_LINE2 </b><span style='font-size:medium;'>(SCHOOL_ADDR_LINE2): Second line, if required, of street address</span><br /></li><li><b>SCHOOL_FR_ADDR_LINE1 </b><span style='font-size:medium;'>(SCHOOL_FR_ADDR_LINE1): Street address of school in French</span><br /></li><li><b>SCHOOL_FR_ADDR_LINE2 </b><span style='font-size:medium;'>(SCHOOL_FR_ADDR_LINE2): Second line, if required, of street address in French</span><br /></li><li><b>SCHOOL_CITY_NAME </b><span style='font-size:medium;'>(SCHOOL_CITY_NAME): Name of the city or town that the school is located in</span><br /></li><li><b>SCHOOL_POSTAL_CODE </b><span style='font-size:medium;'>(SCHOOL_POSTAL_CODE): Postal code of the school</span><br /></li><li><b>TRACKS </b><span style='font-size:medium;'>(TRACKS): This field indicates the delivery model used by the school; either single track or dual track</span><br /></li><li><b>MIDDLE_IM </b><span style='font-size:medium;'>(MIDDLE_IM): This field indicates whether the school has a grade 4 entry point</span><br /></li><li><b>LATE_IM </b><span style='font-size:medium;'>(LATE_IM): This field indicates whether the school has a grade 6 or 7 entry point </span><br /></li><li><b>SCHOOL_LOW_GRADE_ENG </b><span style='font-size:medium;'>(SCHOOL_LOW_GRADE_ENG): The lowest grade offering the Program</span><br /></li><li><b>SCHOOL_LOW_GRADE_FR </b><span style='font-size:medium;'>(SCHOOL_LOW_GRADE_FR): The lowest grade, in French, offering the Program</span><br /></li><li><b>SCHOOL_HIGH_GRADE </b><span style='font-size:medium;'>(SCHOOL_HIGH_GRADE): The highest grade offering the Program</span><br /></li><li><b>GRADE_LIST_EN </b><span style='font-size:medium;'>(GRADE_LIST_EN): Comma separated list of grades available in the Program</span><br /></li><li><b>GRADE_LIST_FR </b><span style='font-size:medium;'>(GRADE_LIST_FR): Comma separated list of grades available in the Program, in French</span><br /></li><li><b>Latitude </b><span style='font-size:medium;'>(Latitude): Latitudinal coordinate of the school</span><br /></li><li><b>Longitude </b><span style='font-size:medium;'>(Longitude): Longitudinal coordinate of the school</span><br /></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "ea8389694fde4a2882b36af93904ff57",
+    "https://www.arcgis.com/home/item.html?id=ea8389694fde4a2882b36af93904ff57"
+  ],
+  "dct_issued_s": "2023-01-09",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::french-immersion-schools-in-manitoba\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "French Immersion Schools in Manitoba",
+  "gbl_mdModified_dt": "2026-05-07T15:57:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c7aba165-e14b-57af-af41-a7e000b7b0ad",
+  "locn_geometry": "ENVELOPE(-101.851625, -96.19460075, 55.74982657, 49.09874167)",
+  "schema_provider_s": "Data MB"
+}

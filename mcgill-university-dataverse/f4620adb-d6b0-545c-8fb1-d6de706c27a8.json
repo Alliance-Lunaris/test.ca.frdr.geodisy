@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.56034166666666, -75.44132777777779, 45.423852777777775, 45.3807)",
+  "dcat_keyword_sm": [
+    "peatland",
+    "remote sensing",
+    "bog",
+    "Mer Bleue",
+    "hyperspectral"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Soffer, Raymond (National Research Council Canada). ORCID: https://orcid.org/0000-0001-6279-5871",
+    "Arroyo-Mora, J. Pablo (National Research Council Canada). ORCID: https://orcid.org/0000-0003-0287-8960",
+    "Kalacska, Margaret (McGill University, McGIll University, McGill University). ORCID: https://orcid.org/0000-0002-1676-481X",
+    "Ifimov, Gabriela (National Research Council Canada).",
+    "Leblanc, George (National Research Council Canada). ORCID: https://orcid.org/0000-0001-8375-610X"
+  ],
+  "dct_description_sm": [
+    "See https://merbleue-lpv.geog.mcgill.ca/ for interactive viewing of the imagery and to place a download request.",
+    "The data available consist of airborne hyperspectral imagery acquired for the <i>Mer Bleue Arctic Surrogate Simulation Site (MBASSS) S2/L8 Data Product Validation Project</i> in 2016. MBASSS was a collaborative effort aimed at developing a systematic approach for ongoing assessment and validation of satellite based land information products from Landsat 8 OLI and Sentinel 2 satellites. The airborne systems used for this project were the CASI-1500 and SASI-644 hyperspectral instruments (ITRES Research, Calgary AB) installed in the National Research Council Canada Flight Research Lab (NRC-FRL) Twin Otter aircraft. Standard level 2 processed imagery is provided for download as rasters in ENVI Standard format. Imagery is available from April 20, May 11, May 24 and June 23, 2016 as a set of 12 individual flight lines per date. The imagery has been atmospherically corrected and during the geocorrection process, it has been resampled to 1 m pixel size. Currently CASI and SASI imagery are provided separately. Metadata for each flight line is provided in external ascii ENVI header files (*.hdr) and *.met files. The geocorrected imagery provided with pixel level information including pixel view zenith angle (off Nadir angle), DEM, view azimuth angle, radiance path distance, column and row numbers of pixels in non-geocorrected image file, and relative pixel offset between calculated and assigned pixel location. This information is provided in associated *.nad and *.nad.hdr files."
+  ],
+  "dct_identifier_sm": [
+    "341993_198018",
+    "https://doi.org/10.5683/SP3/RMGOIW"
+  ],
+  "dct_issued_s": "2022-07-07",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RMGOIW\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Mer Bleue QA4EO Airborne Hyperspectral Imagery",
+  "gbl_mdModified_dt": "2022-07-08T00:32:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f4620adb-d6b0-545c-8fb1-d6de706c27a8",
+  "locn_geometry": "ENVELOPE(-75.56034166666666, -75.44132777777779, 45.423852777777775, 45.3807)",
+  "pcdm_memberOf_sm": [
+    "Applied Remote Sensing Lab"
+  ],
+  "schema_provider_s": "McGill University Dataverse"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "fire regime",
+    "Poisson distribution",
+    "Fire frequency"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jean, Marchal (Canadian Forest Service, Université Laval).",
+    "Steven G., Cumming (Université Laval).",
+    "Eliot J. B., McIntire (University of British Columbia, Canadian Forest Service, Université Laval)."
+  ],
+  "dct_description_sm": [
+    "Predictive models of fire frequency conditional on weather and land cover are essential to assess how future cover-type distributions and weather conditions may influence fire regimes. We modelled the effects of bottom-up variables (e.g. land cover) and top-down variables (e.g. fire weather) simultaneously with data aggregated or interpolated to spatial and temporal units of 100 km2 and 1yr in the boreal forest of Québec, Canada. For models of human-caused fires, we used road density as a surrogate for human access and behaviour. We exploited the additive property of Poisson distributions to estimate cover-type specific fire count rates, which would normally not be possible with data of this spatial resolution. We used piecewise linear functions to model nonlinear relations between fire weather and fire frequency for each cover-type simultaneously. The estimated conditional rates may be considered as expected mean counts per unit area and time. It follows that these rates can be rescaled to arbitrary spatial and temporal extents. Our results showed fire frequency increased nonlinearly as aridity increased and more quickly in disturbed areas than other types. Road density exerted the strongest influence on the frequency of human-caused fires, which were positively correlated with road density. The estimates may be used to parameterize the fire ignition component of spatial simulation models, which often have a resolution different from that at which the data were collected. This is an essential step in incorporating biotic and abiotic feedbacks, land-cover dynamics, and climate projections into ecological forecasting. The insight into the power of Poisson additivity to reveal high-resolution ecological processes from low-resolution data could have applications in other areas of ecology."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.3rf1k",
+    "https://doi.org/10.5061/dryad.3rf1k"
+  ],
+  "dct_issued_s": "2016-03-16",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.3rf1k\"}",
+  "dct_spatial_sm": [
+    "Canada",
+    "Québec"
+  ],
+  "dct_title_s": "Data from: Exploiting Poisson additivity to predict fire frequency from maps of fire weather and land cover in boreal forests of Québec, Canada",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34391e43-e71f-5ffe-a8e1-20c64bb9147e",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "Genomics/Proteomics",
+    "Holocene",
+    "Entosphenus tridentatus",
+    "Life History Evolution",
+    "Ecological Genetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hess, Jon E. (Columbia River Inter-Tribal Fish Commission).",
+    "Campbell, Nathan R. (Columbia River Inter-Tribal Fish Commission).",
+    "Close, David A. (University of British Columbia).",
+    "Docker, Margaret F. (University of Manitoba).",
+    "Narum, Shawn R. (Columbia River Inter-Tribal Fish Commission, University of Idaho)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/dzXHZk_VOeSqN1Ano6fKWsQDSOMTaRrunuCOyNhLpqg</p>\n<p><b>Storage size:</b> 11574771</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Unlike most anadromous fishes that have evolved strict homing behaviour, Pacific lamprey (Entosphenus tridentatus) seem to lack philopatry as evidenced by minimal population structure across the species range. Yet unexplained findings of within-region population genetic heterogeneity coupled with the morphological and behavioural diversity described for the species suggest that adaptive genetic variation underlying fitness traits may be responsible. We employed restriction site–associated DNA sequencing to genotype 4439 quality filtered single nucleotide polymorphism (SNP) loci for 518 individuals collected across a broad geographical area including British Columbia, Washington, Oregon and California. A subset of putatively neutral markers (N = 4068) identified a significant amount of variation among three broad populations: northern British Columbia, Columbia River/southern coast and ‘dwarf’ adults (FCT = 0.02, P ≪ 0.001). Additionally, 162 SNPs were identified as adaptive through outlier tests, and inclusion of these markers revealed a signal of adaptive variation related to geography and life history. The majority of the 162 adaptive SNPs were not independent and formed four groups of linked loci. Analyses with matsam software found that 42 of these outlier SNPs were significantly associated with geography, run timing and dwarf life history, and 27 of these 42 SNPs aligned with known genes or highly conserved genomic regions using the genome browser available for sea lamprey. This study provides both neutral and adaptive context for observed genetic divergence among collections and thus reconciles previous findings of population genetic heterogeneity within a species that displays extensive gene flow.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Quality filtered genotypes of Pacific lamprey in GENEPOP format</h4><div class=\"o-metadata__file-description\">GENEPOP file: 518 Pacific lamprey individuals from 21 collections, genotyped with a set of 4,439 quality filtered SNPs from a larger dataset of 8,772 unique SNP loci identified using methods described by Hess et al. 2013. \"POP\" headings delineate collections of individuals and include collections names listed in Table 1, Hess et al. 2013.</div><div class=\"o-metadata__file-name\">Lamprey_4439Loci518IndGP_DRYAD.txt</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153146_150149",
+    "https://doi.org/10.5683/SP2/BLXOJV"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/BLXOJV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "British Columbia",
+    "California",
+    "Washington"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Population genomics of Pacific lamprey: adaptive variation in a highly dispersive species",
+  "gbl_mdModified_dt": "2021-05-20T03:29:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "baa9e52d-3b88-5e0c-8bd2-cf0c07e7ca8f",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

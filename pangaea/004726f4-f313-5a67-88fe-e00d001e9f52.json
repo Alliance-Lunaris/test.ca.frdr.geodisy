@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-20.188010000026306, -20.188000000026307, 74.23799999991412, 74.23798999991412)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rysgaard, Søren (Arctic Research Centre, Aarhus University, Aarhus University). ORCID: https://orcid.org/0000-0003-1726-2958",
+    "Boone, Wieter (Flanders Marine Institute).",
+    "Kirillov, Sergey A (Centre for Earth Observation Science, University of Manitoba, Winnipeg, Manitoba, Canada).",
+    "Dmitrenko, Igor (Centre for Earth Observation Science, University of Manitoba, Winnipeg, Manitoba, Canada). ORCID: https://orcid.org/0000-0001-8388-7839"
+  ],
+  "dct_description_sm": [
+    "Time series of currents, salinity (conductivity), temperature Chlorophyl-a and CDOM were obtained in the period May- June 2014 by use of a McLane ice-tethered profiler in Young Sound, Greenland. At YS05 (74.238 N, 20.188 W) the mooring consisted of a 600 kHz downward-looking Nortek Aquadopp ADCP and an SBE 52-MP CTD (accuracy temperature ±0.002 C and conductivity ±0.0003 Sm-1) and WetLab ECO triplet (Cholorphyll-a and CDOM). Velocities were corrected for magnetic deviation (18.5o). The water column sampling spanned between 1.5 and 30 m depth every 30 min. The ADCP was set to sample 80 bins (bin size of 0.5 m) and each bin consisted of a 1 min ensemble average of 60 pings. The first and last bins were centred at 1m and 41 m depth. Only bins between 2.5 and 30 m were adequately measured. For further details see Boone et al., 2017 (Circulation and fjord-shelf exchange during the ice-covered period in Young Sound-Tyrolerfjord, Northwest Greenland (74 N). Estuar. Coast. Shelf Sci., 15, 194-205. https://doi.org/10.1016/j.ecss.2017.06.021).",
+    "We gratefully acknowledge the contributions of the Canada Excellence Research Chair (CERC) and Canada Research Chair (CRC) programs. Support was also provided by the Natural Sciences and Engineering Research (NSERC) Council, the Canada Foundation for Innovation and the Aage V Jensen Foundations. This work is a contribution to the Arctic Science Partnership (ASP) asp-net.org."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.964980",
+    "https://doi.org/10.1594/pangaea.964980"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.964980\"}",
+  "dct_spatial_sm": [
+    "Young Sound, Greenland"
+  ],
+  "dct_subject_sm": [
+    "Fluorescence, colored dissolved organic matter",
+    "Young Sound-Greenland",
+    "Current velocity, north-south",
+    "Nortek Acoustic Wave and Current Profiler (AWAC)",
+    "ice-covered conditions",
+    "Mooring",
+    "Salinity",
+    "Pressure, water",
+    "Fluorescence, chlorophyll",
+    "Fluorometer, WET Labs ECO 3-Triplet",
+    "Hydrographic time series",
+    "Temperature, water",
+    "DATE/TIME",
+    "Current velocity, east-west",
+    "DEPTH, water",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label",
+    "Moored Profiler CTD, Sea-Bird, SBE 52-MP"
+  ],
+  "dct_title_s": "Mooring-based (YS05) data collected in the period May-June 2014 in Young Sound, Greenland",
+  "gbl_mdModified_dt": "2024-10-14T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "004726f4-f313-5a67-88fe-e00d001e9f52",
+  "locn_geometry": "ENVELOPE(-20.188010000026306, -20.188000000026307, 74.23799999991412, 74.23798999991412)",
+  "schema_provider_s": "PANGAEA"
+}

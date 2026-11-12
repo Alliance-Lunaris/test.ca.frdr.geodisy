@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Piezometric surface",
+    "Hydrogeology",
+    "Hydrogéologie",
+    "Groundwater",
+    "Surface piézométrique",
+    "Eau souterraine"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Surface piézométrique, Programme géoscientifique des eaux souterraines"
+  ],
+  "dct_creator_sm": [
+    "Francois Letourneau."
+  ],
+  "dct_description_sm": [
+    "Level below which soil or rock is saturated with water, in the well and at the time the level has been measured, expressed in m above the sea level. Groundwater levels measured are interpolated / extrapolated to obtain groundwater level on every cell of the hydrogeological unit raster. Surfer and ArcGis are the software usually used to create groundwater level raster. The dataset designates a raster with a groundwater level, for each cell of the hydrogeological unit.",
+    "Le niveau d'eau désigne le niveau en-dessous duquel le sol ou le socle est saturé d'eau, au site de mesure et au moment où le niveau a été mesuré. Le niveau de l'eau est exprimé en m au-dessus du niveau marin. Les niveaux d'eau souterraine sont mesurés et interpolés / extrapolés afin d'obtenir une valeur de niveau d'eau pour chaque cellule du raster, désignant l'unité hydrogéologique. Surfer et ArcGis sont généralement les logiciels employés pour générer des rasters de niveau d'eau souterraine. Le jeu de données désigne un raster avec des niveaux d'eau souterraine pour chaque cellule de l'unité hydrogéologique."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d330f080-2613-84f8-254e-620ed5fdf855"
+  ],
+  "dct_issued_s": "2016-03-31",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d330f080-2613-84f8-254e-620ed5fdf855\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Piezometric Surface, Groundwater Geoscience Program",
+  "gbl_mdModified_dt": "2020-05-05T17:45:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d6acacf4-3f81-5088-981d-2d6aaa244f59",
+  "locn_geometry": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.1, -132.8, 69.4, 68.3)",
+  "dcat_keyword_sm": [
+    "Aufeis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ensom, Timothy (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0001-7533-7079",
+    "Kokelj, Steven V. (Government of Northwest Territories). ORCID: https://orcid.org/0000-0002-2840-2605",
+    "Marsh, Philip (Wilfrid Laurier University, Cold Regions Research Centre, Wilfrid Laurier University, Waterloo). ORCID: https://orcid.org/0000-0002-3618-6893",
+    "van der Sluijs, Jurjen (Government of Northwest Territories). ORCID: https://orcid.org/0000-0002-9244-1756",
+    "Connon, Ryan (Wilfrid Laurier University, Government of Northwest Territories). ORCID: https://orcid.org/0000-0002-2420-3609"
+  ],
+  "dct_description_sm": [
+    "There are four files in this dataset. The \"HWSE.xlsx\" file contains average daily water surface elevations upstream and downstream of the bridges at Creeks 3 and 8 on the Inuvik-Tuktoyaktuk Highway during two years in the study period. These data were collected to understand pressure conditions in streambeds that develop due to freeze damming beneath highway bridges, which in turn cause icing and terrain heave in streams upstream of bridges during winter. The values in the file are in metres above sea level, using Ht2.0. The values are water surface elevation when there is no ice cover, and hydrostatic water surface elevation (HWSE) when there is ice cover on the stream. Figures in the Arctic Science publication associated with this data set indicate whether ice cover is present.<p><p>\n\nThe second file, \"ad_2mortho_ws_v3\", is a vector shapefile consisting of eight component files. The shapefile represents catchments equal to or larger than 0.1 square kilometre upstream of their intersection with the Inuvik-Tuktoyaktuk Highway. A more detailed description of the process used to prepare this shapefile is provided with Table S2 in the associated Arctic Science Publication. In the file name, \"ad\" refers to ArcticDEM, which is the digital elevation model available from the Polar Geospatial Centre. \"2m\" refers to the two-metre spatial resolution of the digital elevation model. \"ortho\" indicates that the elevations have been converted to orthometric from ellipsoidal. \"ws\" indicates watershed, and \"v3\" is retained to distinguish this shapefile from previous iterations.<p><p>\n\nThe third and fourth files, \"Creek8_Fall2022-Fall2023.mov\" and \"Creek8_Fall2024-Summer2025.mov\", are videos created from daily images taken by an automatic camera under Bridge 8 (km 8) north of Inuvik on the Inuvik-Tuktoyaktuk Highway. The camera faces upstream. The dashed red line in each video, aligned with the edge of the north abutment gabion baskets in fall, illustrates the heave and subsidence of the gabion baskets over the winter and spring. In the second video, the first yellow circle (present from the beginning) shows the starting position of the top of a specific stick in the stream. Additional circles are superimposed to show the position of the same stick every time it gains 75 cm in elevation. The main spruce tree in the distance gradually straightens up during the winter in each video. It tilts back towards the stream between 26 May and 3 June 2023 in the first video, and between 17 and 28 June 2025 in the second video. The movement of the gabion baskets, stream features, and tree are driven by the development and release of hydrostatic pressure in the stream system as described in the paper."
+  ],
+  "dct_identifier_sm": [
+    "1002878_137_62437",
+    "https://doi.org/10.5683/SP3/56UXRE"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/56UXRE\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: The Influence of Highway-Stream Crossings on Stream Temperature, Aufeis, and Terrain Dynamics in Continuous Permafrost",
+  "gbl_mdModified_dt": "2026-03-16T17:50:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4f53364e-7f75-5f0b-b36b-d2e84f62dc2e",
+  "locn_geometry": "ENVELOPE(-134.1, -132.8, 69.4, 68.3)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // Trail Valley Creek Research Station Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

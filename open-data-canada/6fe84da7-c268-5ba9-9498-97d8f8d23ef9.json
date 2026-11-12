@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Santé",
+    "Matière radioactive",
+    "background",
+    "rayonnement de fond",
+    "dose externe",
+    "Health",
+    "Radioactive materials",
+    "radiation monitoring",
+    "surveillance de la radioactivité ambiante",
+    "external dose",
+    "Radioactivity",
+    "Radioactivité",
+    "environmental radioactivity monitoring",
+    "surveillance radiologique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau canadien de surveillance radiologique – Dosimétrie environnementale"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset provides the background radiation dose results from Health Canada’s Canadian Radiological Monitoring Network (CRMN) monitoring sites. More information about the CRMN network can be found on the Health Canada website (see link below).\n\nThis background radiation data contains both “monitoring” and “transit” dosimeters starting in 2016. The historical background radiation dose data can be found on the Open Data portal. A transit dosimeter is sent along with the monitoring dosimeter to determine if there is a significant dose recorded by the dosimeter while it is in transit to the sampling station. The transit dosimeter is shipped out with a station monitor, and shipped back with the station monitor from the previous quarter. The monitoring dosimeters are deployed over a longer time (around three months) than the transit dosimeters (around 3 weeks). This difference largely explains the lower recorded dose values for the transit dosimeter. The results provided for the monitoring and transit dosimeters are expressed as ambient dose equivalent to a cesium source, in units of millisieverts (mSv). The measured dose rate is reported in mSv/day. The external dose can be attributed almost exclusively to natural radiation (of terrestrial and cosmic origin) with fluctuations based on several factors including location, soil characteristics, and seasonal changes. \n\nThe map shows the approximate sampling location for each monitoring station. Stations are found within the associated location range.",
+    "Cet ensemble de données fournit les résultats de l’analyse de la dose de rayonnement naturel des sites de surveillance du Réseau canadien de surveillance radiologique (RCSR) de Santé Canada. Pour plus de renseignements sur le RCSR, consultez le site web de Santé Canada (voir le lien ci-dessous).\n\nCes données sur le rayonnement naturel comprennent les dosimètres de « contrôle » et les dosimètres de « transport » depuis 2016. Les données historiques sur le rayonnement naturel sont accessibles sur le portail Données Ouvertes. Un dosimètre de transport est expédié avec le dosimètre de contrôle afin de déterminer si l’appareil a enregistré une dose importante durant le transport vers la station d’échantillonnage. Le dosimètre de transport est expédié avec un appareil de contrôle, puis renvoyé avec l’appareil de contrôle de la station qui contient les données du trimestre précédent. Les dosimètres de contrôle sont installés plus longtemps (environ trois mois) que les dosimètres de transport (environ trois semaines). Cette différence explique en grande partie les doses plus petites enregistrées par le dosimètre de transport. Les résultats présentés pour les dosimètres de contrôle et de transport sont exprimés en doses ambiantes étalonnées avec une source de césium en millisieverts (mSv). Le taux de dosage est mesuré en mSv/jour. La dose externe peut être attribuée presque exclusivement au rayonnement naturel (d’origine terrestre et cosmique) avec des variations dues à plusieurs facteurs, notamment l’emplacement, les caractéristiques du sol et les variations saisonnières.\n\nLa carte montre l’emplacement approximatif pour chaque station de surveillance. Les stations se trouvent dans le périmètre de localisation associé."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/67bedee8-beb0-4b3a-a1c6-24a4cda08afe"
+  ],
+  "dct_issued_s": "2021-03-29",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/67bedee8-beb0-4b3a-a1c6-24a4cda08afe\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "health_and_safety",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "The Canadian Radiological Monitoring Network – Environmental Dosimetry",
+  "gbl_mdModified_dt": "2026-03-24T15:31:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6fe84da7-c268-5ba9-9498-97d8f8d23ef9",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

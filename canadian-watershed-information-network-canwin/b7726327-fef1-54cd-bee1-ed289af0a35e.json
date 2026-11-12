@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Each pixel value corresponds to the difference (anomaly) between the mean “Best-Quality” Max-NDVI of the week specified (e.g. Week 18, 2000-2014) and the “Best-Quality” Max-NDVI of the same week in a specific year (e.g. Week 18, 2015). Max-NDVI anomalies < 0 indicate where weekly Max-NDVI is lower than normal. Anomalies > 0 indicate where weekly Max-NDVI is higher than normal. Anomalies close to 0 indicate where weekly Max-NDVI is similar to normal."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ea6b4be2-9826-47f3-a387-33ddf02592f4"
+  ],
+  "dct_issued_s": "2016-09-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ea6b4be2-9826-47f3-a387-33ddf02592f4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weekly Best-Quality Maximum - NDVI Anomalies",
+  "gbl_mdModified_dt": "2025-10-15T12:10:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b7726327-fef1-54cd-bee1-ed289af0a35e",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

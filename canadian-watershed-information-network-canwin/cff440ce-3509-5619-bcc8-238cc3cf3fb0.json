@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-100.0, -10.0, 85.0, 55.0)",
+  "dcat_keyword_sm": [
+    "Storms",
+    "climate change",
+    "Baffin Bay",
+    "Atmosphere",
+    "Climate model",
+    "Precipitation",
+    "Greenland"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "This dataset includes the data needed to reproduce the results and figures of the manuscript “Projections and Physical Drivers of Extreme Precipitation in Greenland & Baffin Bay”, submitted to Journal of Geophysical Research: Atmospheres. Two types of files are included: \r\n\r\n__A. CSV files__ of summaries for nine subregions: 6 Greenland watersheds and 3 Canadian islands. Greenland Subregions include Central West (‘CW’), Northeast (‘NE’), North (‘NO’), Northwest (‘NW”), Southeast (‘SE’), and Southwest (‘SW’). Canadian Subregions: Baffin Island (‘baffin’), Devon Island (‘devon’), and Ellesmere Island (‘ellesmere’)\r\n\r\n__B. NetCDF files__ with gridded fields of atmospheric parameters.The projection for all netCDF files is the 25-km EASE2 grid with a central latitude of 90°N and a central longitude of 0° (i.e., EPSG 6391). All data are provided on a 720 by 720 grid, which encompasses the entire Northern Hemisphere. However, precipitation data is set to NaN beyond the study region of (55°N-90°N, 130°W-25°E).\r\n\r\nInput datasets for these derived products include the fifth-generation atmospheric reanalysis from the ECMWF (ERA5; Hersbach et al., 2020) and a simulation of the second-generation Community Earth System Model (CESM2.2; Danabasoglu et al., 2020) run on a variable-resolution “ARCTIC” grid (Herrington et al., 2022). The historical and future simulations of this dataset are referred to as “VR-CESM HIST” and “VR-CESM FUT”. The version of CESM2.2 run on the default CESM grid is referred to as “CESM2.2” and only includes an historical (HIST) simulation. \r\n\r\nNote that the native grid for these datasets is different from the grid used for derived data products. A single spatial grid is used here to facilitate the combination / overlay of the data contained within the dataset. Cyclone detection is performed using version 13.2 of the CEOS/NSIDC Extratropical Cyclone Tracking algorithm (Crawford et al., 2021). Atmospheric rivers are detected using the algorithm from TempestExtremes v2.1 (Ullrich et al., 2021)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e31ea507-a9b1-4d22-a685-a55e696fd249"
+  ],
+  "dct_issued_s": "2024-04-02",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e31ea507-a9b1-4d22-a685-a55e696fd249\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Precipitation"
+  ],
+  "dct_title_s": "Projections and Physical Drivers of Extreme Precipitation in Greenland & Baffin Bay",
+  "gbl_mdModified_dt": "2026-02-24T00:04:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cff440ce-3509-5619-bcc8-238cc3cf3fb0",
+  "locn_geometry": "ENVELOPE(-100.0, -10.0, 85.0, 55.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

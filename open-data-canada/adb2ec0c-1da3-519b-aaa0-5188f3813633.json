@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Des Essences d'Arbres (2019)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "High-resolution map of leading tree species distribution for Canada’s forested ecosystems (2019). Leading tree species map produced from a 2019 Landsat image composite, geographic and climate data, elevation derivatives, and remote sensing derived phenology following the framework described in Hermosilla et al. (2022). Regional classification models were generated based on Canada’s National Forest Inventory using a 150x150 km tiling system. The leading tree species are defined by representing the most voted tree species from the Random Forests classification models (i.e. the class with the highest class membership probability).The data represents leading tree species of Canada's forested ecosystems in 2019. An image compositing window of August 1 ± 30 days was used to generate the best-available-pixel (BAP) image composites utilized as source data for the classification.\nThe science and methods developed to generate the information outcomes shown here, that track and characterize the history of Canada’s forests, were led by Canadian Forest Service of Natural Resources Canada, developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS), partnered with the University of British Columbia, augmented by processing capacity from Digital Research Alliance of Canada.\n\nFor an overview on the data, image processing, and methods applied, as well as information on independent accuracy assessment of the data, see Hermosilla et al. (2022) https://doi.org/10.1016/j.rse.2022.113276\n\nWhen using this data, please cite as: \nHermosilla, T., Bastyr, A., Coops, N.C., White, J.C., Wulder, M.A., 2022. Mapping the presence and distribution of tree species in Canada’s forested ecosystems. Remote Sensing of Environment 282, 113276.",
+    "Carte à haute résolution des essences d’arbres dominantes dans les écosystèmes forestiers du Canada (2019). La carte des essences d’arbres dominantes est produite au moyen d’une image composite de Landsat de 2019, de données géographiques et climatiques, de dérivés de l’altitude et de renseignements sur la phénologie dérivés de la télédétection, d’après le cadre décrit dans Hermosilla et al. (xxxx). Les modèles de classification régionale ont été produits à partir de l’inventaire forestier national du Canada, au moyen d’un système de pavés de 150 × 150 km. Les essences d’arbres dominantes correspondent aux essences auxquelles le plus grand nombre de votes est attribué par les modèles de classification en forêts d’arbres décisionnels (c’est-à-dire la classe associée à la plus forte probabilité d’appartenance à une classe). Les données représentent les essences dominantes dans les écosystèmes forestiers du Canada en 2019. Pour la composition d’images, on a retenu un intervalle d’environ 30 jours autour du 1er août pour produire les composites des meilleurs pixels allant servir comme données sources aux fins de classification.\nLa science et les méthodes mises en place pour générer les informations présentées ici, qui suivent et caractérisent l’histoire des forêts canadiennes, ont été dirigées par le Service canadien des forêts de Ressources naturelles Canada, en partenariat avec l’Université de la Colombie-Britannique, et ont été renforcées par la capacité de traitement de l’Alliance de recherche numérique du Canada.\n\nUn aperçu des données utilisées ainsi que du traitement des images et des méthodes appliquées est présenté dans Hermosilla et al. (2022) https://doi.org/10.1016/j.rse.2022.113276, de même que des renseignements sur l’évaluation indépendante de l’exactitude des données.\n\nLorsque vous utilisez ces données, veuillez en citer la source comme suit :\nHermosilla, T., Bastyr, A., Coops, N.C., White, J.C., Wulder, M.A., 2022. Mapping the presence and distribution of tree species in Canada’s forested ecosystems. Remote Sensing of Environment 282, 113276."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fcdcf0e7-fe84-46f0-9b39-5078341e9133"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fcdcf0e7-fe84-46f0-9b39-5078341e9133\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Tree Species (2019)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "adb2ec0c-1da3-519b-aaa0-5188f3813633",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

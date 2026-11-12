@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -50.0, 83.0, 40.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Precipitation is derived from water vapour in the air, and it includes all forms of moisture falling on the earth's surface. Condensed water vapour accumulates in clouds, and precipitation occurs when the constituent ice crystals or water droplets grow too large to resist gravitational attraction to earth. The atmospheric moisture lost through precipitation is replenished by transpiration from vegetation, and by evaporation from the soil and from water bodies. The oceans, which cover 71 per cent of the earth's surface, are the primary source, though large fresh water bodies may be important locally, particularly in more southern latitudes. The map shows the annual precipitation (in millimetres) based on the 30-year period 1941 – 1970. The map was prepared from measurements at stations in the national precipitation network. In 1974 this network consisted of about 2700 stations, however, many have been in existence for only short periods. For statistical analysis a long series of data is required. To begin the map, those stations having a complete 25-year record for the standard normal period 1941-1970 were selected. The average yearly precipitation value for each station was plotted on a 1:5,000,000-scale relief map. The density of stations was too coarse for isoline interpolation, particularly in arctic and mountainous regions. For additional detail, all stations with a continuous record of 10-24 years were then sorted from the archive file and scrutinized. It was possible in many cases to adjust the mean values to the 30-year normal period by assuming a constant difference between the short-period station and a nearby long-term reference station. The computed correction indices occasionally gave erroneous values however, even following elevation slope adjustments. It was assumed that these inconsistencies resulted from the reference station being too far distant or from dissimilarity in site characteristics. In the end, three sets of points were plotted, using colour codes to denote confidence. A station with a full record was considered accurate for that point; though isoline interpolation would take into account the surrounding terrain. A station with a shorter record, but which had been successfully adjusted, was considered almost as good as the long term station. Stations that could not be adjusted were treated as guidance points only. In remote areas greater reliance had to be allocated to these stations, but this was compensated by a more conservative approach to isoline selection. For reasons of scale the isoline interval is greater in the Western Cordillera than for the rest of Canada. Final modifications to the map were based on a review of previously constructed maps, and a survey of special precipitation measurements and research undertaken in mountainous and other imperfectly known regions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c65855e6-fe60-51b4-bc7b-5743bb03581f"
+  ],
+  "dct_issued_s": "2016-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c65855e6-fe60-51b4-bc7b-5743bb03581f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Annual precipitation",
+  "gbl_mdModified_dt": "2022-02-22T22:24:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9f93d49-b54a-5943-ad99-857b21b41f6d",
+  "locn_geometry": "ENVELOPE(-142.0, -50.0, 83.0, 40.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

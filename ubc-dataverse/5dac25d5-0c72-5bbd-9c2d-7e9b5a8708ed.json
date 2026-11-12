@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Climate change",
+    "American pika",
+    "local adaptation",
+    "gradient forest",
+    "genomic offset"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Schmidt, Danielle (University of British Columbia).",
+    "Russello, Michael (University of British Columbia). ORCID: https://orcid.org/0000-0002-9297-2485"
+  ],
+  "dct_description_sm": [
+    "<b>Methods</b><br /><p>VCF: folder of VCF files of the full dataset used for outlier detection (363_29709.vcf), the robust outlier dataset of 924 SNPs (363_924.recode.vcf), and the shuffled dataset of 924 robust outlier SNPs (363_924_shuffled.vcf)</p>\n<p>indv_info_update.txt: Text file of individual metadata used in R analyses</p>\n<p>site_info.txt: Text file of site metadata used in the R analyses</p>\n<p>Rcode_SchmidtRussello: R code used for data analysis </p>",
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.jsxksn0m4</p>\n<p><b>Storage size:</b> 2638955</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Climate change poses a significant threat to biodiversity, particularly in alpine ecosystems where species have already undergone elevational range shifts. Genomics can be used to estimate the adaptive potential of species, as well as the shift in adaptive genomic composition necessary for populations to adjust to climate change (<em>e.g.</em> genomic offset). Here, we investigated patterns of climate-mediated adaptive genetic variation and predicted the degree of genomic offset under multiple climate change scenarios for a sentinel alpine mammal, the American pika (<em>Ochotona princeps</em>). We collected genome-wide data (29,709 SNPs) from 363 individuals spanning the entire range in western North America and employed genotype-environment association analyses to identify 938 robust outlier SNPs, several of which were linked to genes previously associated with high elevation and hypoxia responses in various pika species (Ochotonidae). Adaptive genomic variation was most strongly influenced by mean warmest month temperature, followed by precipitation of the coldest quarter. Spatial patterns of genomic offset were heterogeneous, significantly predicted by levels of adaptive genetic variation, elevation and latitude. Sites within the Northern Rocky Mountains exhibited the highest genomic offset under projected climate change despite possessing high levels of adaptive genetic variation. As such, while our study provides an example of how genomic data can be used to explore the potential consequences of climate change, it further highlights the need for careful consideration of genomic offset values within their proper ecological context.</p>"
+  ],
+  "dct_identifier_sm": [
+    "880962_150149",
+    "https://doi.org/10.5683/SP3/TE8XPN"
+  ],
+  "dct_issued_s": "2025-02-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/TE8XPN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genomic vulnerability of a sentinel mammal under climate change",
+  "gbl_mdModified_dt": "2025-02-20T14:15:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5dac25d5-0c72-5bbd-9c2d-7e9b5a8708ed",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,59 @@
+{
+  "dcat_keyword_sm": [
+    "threespine stickleback",
+    "genetic coupling",
+    "Gasterosteus aculeatus",
+    "assortative mating"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Bay, Rachael A. (University of California System).",
+    "Arnegard, Matthew E. (University of British Columbia).",
+    "Conte, Gina L. (University of British Columbia).",
+    "Best, Jacob (University of British Columbia).",
+    "Bedford, Nicole L. (University of British Columbia).",
+    "McCann, Shaugnessy R. (University of British Columbia).",
+    "Dubin, Matthew E. (University of British Columbia).",
+    "Chan, Yingguang Frank (Stanford University).",
+    "Jones, Felicity C. (Stanford University).",
+    "Kingsley, David M. (Stanford University).",
+    "Schluter, Dolph (University of British Columbia).",
+    "Peichel, Catherine L. (University of Bern)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/3FjlxAFZW3Nj_-rBecPSnFcNkL1IhtKwiWwkstpC9bY</p>\n<p><b>Storage size:</b> 1365256</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Ecological speciation with gene flow is widespread in nature, but it presents a conundrum: how are associations between traits under divergent natural selection and traits that contribute to assortative mating maintained? Theoretical models suggest that genetic mechanisms inhibiting free recombination between loci underlying these two types of traits (hereafter, “genetic coupling”) can facilitate speciation. Here, we perform a direct test for genetic coupling by mapping both divergent traits and female mate choice in a classic model of ecological speciation: sympatric benthic and limnetic threespine stickleback (Gasterosteus aculeatus). By measuring mate choice in F2 hybrid females, we allowed for recombination between loci underlying assortative mating and those under divergent ecological selection. In semi-natural mating arenas in which females had access to both benthic and limnetic males, we found that F2 females mated with males similar to themselves in body size and shape. In addition, we found two quantitative trait loci (QTLs) associated with female mate choice that also predicted female morphology along the benthic-limnetic trait axis. Furthermore, a polygenic genetic model that explains adaptation to contrasting benthic and limnetic feeding niches also predicted F2 female mate choice. Together, these results provide empirical evidence that genetic coupling of assortative mating with traits under divergent ecological selection helps maintain species in the face of gene flow, despite a polygenic basis for adaptation to divergent environments.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">choice.all</h4><div class=\"o-metadata__file-description\">average mate choice for all 291 F2 females with parentage assignment >0.75 where 1=benthic and 0=limnetic</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">phenotypes.all</h4><div class=\"o-metadata__file-description\">raw X and Y values for 17 morphological landmarks in all F2 females, wild benthic males and wild limnetic males</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Morphology R script</h4><div class=\"o-metadata__file-description\">script for statistical analysis and visualization of morphological data</div><div class=\"o-metadata__file-name\">Morphology.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">landmarks R script</h4><div class=\"o-metadata__file-description\">functions used in Morphology.R for scaling</div><div class=\"o-metadata__file-name\">landmarks.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">pedigree.all</h4><div class=\"o-metadata__file-description\">parentage assignments for all genotyped offspring</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">purechoice.gen</h4><div class=\"o-metadata__file-description\">SNP genotypes for input to Rqtl for 200 F2 females with pure mate choice</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">purechoice.pheno</h4><div class=\"o-metadata__file-description\">scaled morphological landmarks, size, and mate choice values for 200 F2 females with pure mate choice in Rqtl format</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">all.gen</h4><div class=\"o-metadata__file-description\">SNP genotypes for input to Rqtl for 302 F2 females</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">all.pheno</h4><div class=\"o-metadata__file-description\">scaled morphological landmarks, size, and discriminant function values for 302 F2 females in Rqtl format</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">QTL R script</h4><div class=\"o-metadata__file-description\">script for plotting and identifying QTL for morphology and mate choice</div><div class=\"o-metadata__file-name\">QTL.R</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152101_150149",
+    "https://doi.org/10.5683/SP2/KFI90Z"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KFI90Z\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Paxton Lake",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Genetic coupling of female mate choice with polygenic ecological divergence facilitates stickleback speciation",
+  "gbl_mdModified_dt": "2021-05-20T02:28:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e4a82e8e-abad-562a-a833-5fcaad1eab72",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

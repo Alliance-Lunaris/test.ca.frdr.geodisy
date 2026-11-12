@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.423374, -123.265825, 48.528619, 48.402852)",
+  "dcat_keyword_sm": [
+    "Geomatics",
+    "LiDAR-Spectral Fusion",
+    "Individual Tree Crown",
+    "Random Forest Classification",
+    "Garry oak"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mcintyre, Kate (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "The Garry oak (Quercus garryana) ecosystem is among the most endangered in Canada, yet conservation efforts are hindered by a lack of high-resolution, publicly accessible spatial data. This study addressed this knowledge gap by developing an automated workflow to identify and map individual Garry oak crowns across the Greater Victoria region using a fusion of airborne laser scanning (ALS) and four-band multispectral imagery. This imagery was used to extract structural and spectral metrics to train a Random Forest classifier. Results indicated high model performance with an overall accuracy of 89.7% and a specificity of 96.2%. A sensitivity of 61.0% reflected the challenges of discriminating interlocking crowns within high density forested patches and the spectral diversity of non-native species in an urban environment. However, the model remained robust in open-canopy environments where the unique structural complexity and spectral signature of Garry oak are most distinct. The high specificity of the final output ensures a reliable baseline for land managers and provides a framework for future ground-truthing. This research provides the methodology for the development of the first individual tree level inventory for the region, establishing a non-invasive and scalable approach for monitoring endangered ecosystems, and informing targeted habitat restoration strategies."
+  ],
+  "dct_identifier_sm": [
+    "1146295_73894_115983",
+    "https://doi.org/10.5683/SP3/SNF4DC"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SNF4DC\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Victoria, Saanich, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Mapping Garry Oak (Quercus garryana) Using LiDAR and Multispectral Imagery in Greater Victoria",
+  "gbl_mdModified_dt": "2026-04-28T16:38:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb4249bf-8682-5ef9-8d2c-2a87c2570bbe",
+  "locn_geometry": "ENVELOPE(-123.423374, -123.265825, 48.528619, 48.402852)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

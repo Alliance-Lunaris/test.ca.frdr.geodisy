@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Anopheles mosquito",
+    "malaria",
+    "indoor residual spraying"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Acheson, Emily Sohanna (University of British Columbia).",
+    "Kerr, Jeremy Thomas (University of Ottawa)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/3TLNy1vUucDLg8jX8ld9vXQYmkTpBTB_fo-aMuhyN-w</p>\n<p><b>Storage size:</b> 3608879</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The global implementation of malaria interventions has averted hundreds of millions of clinical malaria cases in the last decade. This study assesses predicted Anopheles mosquito distributions across the United Republic of Tanzania before large-scale insecticide-treated net (ITN) rollouts and indoor residual spraying (IRS) initiatives to determine whether mosquito net usage by children under the age of five and IRS are targeted to areas where historical evidence indicates mosquitoes thrive. Demographic and Health Surveys data from 2011-2012 and 2015-2016 include detailed measurements of mosquito net and IRS use across Tanzania. Anopheline data are far less intensively collected, but we constructed a Maxent-built baseline mosquito habitat suitability (MHS) map (AUC=0.872) with Tanzanian Anopheles occurrence records from 1999-2003. This MHS model was tested against independently-observed georeferenced Plasmodium falciparum cases from the Malaria Atlas Project, with ~87% of cases from 1999-2003 (n=107) and ~84% of cases from 1985-2012 (n=919) occurring in areas of high predicted suitability for mosquitoes. We compared the validated MHS with subsequent malaria interventions using mixed effects logistic regression. Specifically, we assessed whether Anopheles habitat suitability related to the frequency that ≥1 child in a household reportedly slept under a mosquito net when that intervention later became widely available, and whether IRS was reportedly applied to dwellings over a one-year period. There was no evidence that mosquito net use the night before the survey related to MHS from 2011-2012 and marginally significant evidence (p<0.05) from 2015-2016 (β=1.466, 95% C.I.=0.848-2.103, marginal R2=0.020, respectively). However, the likelihood of IRS treatments rose relatively strongly in the 12 months prior to both surveys (β=13.466, 95% C.I.=10.488-16.456, marginal R2=0.144, and β=6.817, 95% C.I.=5.439-8.303, marginal R2=0.136, respectively). IRS treatments have therefore been targeted more effectively than mosquito nets toward areas where anopheline habitat suitability was previously found to be high.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Maxent_data</h4><div class=\"o-metadata__file-description\">This zipped file contains the ASCII files representing the environmental factors used to make the Maxent model and map.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Anopheles_c2001</h4><div class=\"o-metadata__file-description\">This CSV file contains the combined Anopheles mosquito coordinates, where mosquitoes were collected in Tanzania between 1999-2003, for the building of the Maxent model. These data, combined with the ASCII environmental files, will reproduce the Maxent model and map when used as input in the Maxent software.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152875_150149",
+    "https://doi.org/10.5683/SP2/GOA49L"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/GOA49L\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Tanzania"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Nets versus spraying: a spatial modelling approach reveals indoor residual spraying targets Anopheles mosquito habitats better than mosquito nets in Tanzania",
+  "gbl_mdModified_dt": "2021-05-19T18:01:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cafc4689-173c-5ff4-8d30-b6768605b63e",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

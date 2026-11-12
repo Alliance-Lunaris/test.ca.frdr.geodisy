@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The \"Total Gross Drainage Areas of the AAFC Watersheds Project - 2013\" dataset is a geospatial data layer containing polygon features representing the maximum area that could contribute surface runoff (total gross drainage areas) for each gauging station of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project.   \n  \n  These polygons overlap as upstream land surfaces form part of multiple downstream gauging stations’ total gross drainage areas.   \n  \n  Drainage area includes all land whose surface runoff contributes to the same drainage outlet or gauging station. Many gauging stations share the same headwaters, thus the overlapping areas (or polygons).  The majority of the drainage areas in this dataset have shared areas."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/67c8352d-d362-43dc-9255-21e2b0cf466c"
+  ],
+  "dct_issued_s": "2016-09-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/67c8352d-d362-43dc-9255-21e2b0cf466c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Total Gross Drainage Areas of the AAFC Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b9586e8d-3ca7-5772-a192-b5868f299073",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Réseau",
+    "Aqueduc",
+    "Voirie",
+    "Information gouvernementale",
+    "SE",
+    "Infrastructure",
+    "Actif",
+    "Égout",
+    "Eau"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de l'eau."
+  ],
+  "dct_description_sm": [
+    "This data set represents the interventions determined by the City of Montreal's Intervention Plan for the period 2023-2027. This planning, according to a division into unified sections (TU), includes both the infrastructure deficit and the maintenance needs during the period in question. The Intervention Plan is the result of a macroscopic analysis of physical and state data. \n\nMoreover, the capacity of the City and its boroughs to carry out is not unlimited; it is often determined by a combination of factors, including the availability of budgets, coordination needs, planning capacity as well as the capacity of the market to carry out this work. Consideration should also be given to the social and economic impacts of infrastructure work. These are all factors that may justify the delay of several interventions to later years.\n\nData is available in the following documents:\n\n- The summary table shows the classes of integrated interventions for the unified sections. For each section, a recommendation on the work is indicated if necessary. These tables help infrastructure managers to identify priority segments and sections. \n\n- The digital file presents the results of the Intervention Plan by segment unified in shapefile and geojson. It integrates the linear geometric elements that support the management data of all the assets analyzed in the intervention plan. The division of the unified section is usually done at roadway intersections and easement limits. \n\n- The map of integrated interventions presents opportunities for coordinating interventions between the three drinking water, sewage and road networks. \n\n- The data dictionary detailing the metadata of geospatial digital files\n\nFor more information on water management in Montreal, consult [the City of Montreal's website] (https://montreal.ca/unites/service-de-leau).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Cet ensemble de données représente les interventions déterminées par le Plan d'intervention de la Ville de Montréal pour la période 2023-2027. Cette planification, selon un découpage par tronçons unifiés (TU), inclut aussi bien le déficit d’infrastructures que les besoins de maintien durant la période visée. Le Plan d'intervention résulte d’une analyse macroscopique des données physiques et des données d’état. \n\nPar ailleurs, la capacité de réalisation de la Ville et de ses arrondissements n’est pas illimitée, elle est souvent déterminée par une combinaison de facteurs, dont la disponibilité des budgets, les besoins de coordination, la capacité de planification de même que la capacité du marché à réaliser ces travaux. Il faut également considérer les répercussions sociales économiques des travaux d’infrastructure. Ce sont autant de facteurs qui peuvent justifier le report de plusieurs interventions à des années ultérieures.\n\nLes données sont disponibles dans les documents suivants :\n\n- Le tableau de synthèse présente les classes d’interventions intégrées pour les tronçons unifiés. Pour chaque tronçon, une recommandation sur les travaux est indiquée si nécessaire. Ces tableaux aident les gestionnaires de ces infrastructures à identifier les segments et les tronçons prioritaires. \n\n- Le fichier numérique présente les résultats du Plan d’intervention par tronçon unifié en shapefile et geojson. Il intègre les éléments géométriques linéaires qui supportent les données de gestion de l’ensemble des actifs analysés dans le plan d’intervention. Le découpage du tronçon unifié se fait habituellement aux intersections de chaussée et aux limites de servitude. \n\n- La carte des interventions intégrées présente les opportunités de coordination des interventions entre les trois réseaux d'eau potable, d'égouts et de voirie. \n\n- Le dictionnaire de données détaillant les métadonnées des fichiers numériques géospatiales\n\nPour plus d'informations sur la gestion de l'eau de Montréal, consultez [le site web de la Ville de Montréal](https://montreal.ca/unites/service-de-leau)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5036e051-bd73-44ef-817e-b3893454d472"
+  ],
+  "dct_issued_s": "2024-08-05",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5036e051-bd73-44ef-817e-b3893454d472\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Résultats du Plan d'intervention des actifs des réseaux d'eau potable, d'égouts et de voirie (2023-2027)",
+  "gbl_mdModified_dt": "2026-09-30T17:34:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43566579-6294-5d95-8328-fec149cfd1f7",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

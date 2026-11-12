@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-97.6229, -96.9613, 49.8343, 48.9933)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "Emergency",
+    "River",
+    "EMO",
+    "Government information",
+    "Emergency Management",
+    "Province of Manitoba",
+    "Flood",
+    "2009",
+    "Red River",
+    "Manitoba Government",
+    "Water",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Inondation de la rivière Rouge - 2009"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "The purpose of this feature layer is to provide the 2009 overland flooding boundary in the Red River Valley.  \n  \n  This dataset shows the extent of peak overland flooding in the Red River Valley in 20 09 . Data is based on RADARSAT – 1 satellite imagery. During processing, the raw data set was resampled to 12.5 meter pixel resolution, then classified using PCI Geomatica software which is a specialized software designed to manipulate space born imagery. The final output depicting the flooding boundary is available as a TIFF or Shapefile. Launched in November 1995, RADARSAT-1 was a Canadian-led project which provided useful information to both commercial and scientific users in such fields as disaster management, agriculture, cartography, hydrology, forestry, oceanography, ice studies and coastal monitoring. Equipped with a powerful synthetic aperture radar (SAR) instrument, it acquired images of the Earth day or night, in all weather and through cloud cover, smoke and haze. As of March 2013, the satellite was declared non-operational and is no longer collecting data. Many applications were developed to take advantage of RADARSAT-1 capacity for detecting the presence of water. These included monitoring flooding and the build-up of river ice, and mapping the melting of snow-covered areas. When used for flood monitoring, RADARSAT-1 data helped assess the impact of flooding, predicted the extent and duration of floodwaters, analyzed the environmental impact of water diversion projects, and developed flood mitigation measures. Fields Included:FID : Internal feature numberNAME : Flooded area nameAREA_SQKM : Size of flooded area",
+    "Le but de cette couche d'entités est de fournir la limite des inondations de 2009 dans la vallée de la rivière Rouge.  \n  \n  Cet ensemble de données montre l'étendue du pic d'inondation terrestre dans la vallée de la rivière Rouge en 2009. Les données sont basées sur l'imagerie satellite RADARSAT-1. Au cours du traitement, l'ensemble de données brutes a été rééchantillonné à une résolution de 12,5 mètres de pixels, puis classé à l'aide du logiciel PCI Geomatica, un logiciel spécialisé conçu pour manipuler l'imagerie spatiale. Le résultat final illustrant la limite d'inondation est disponible au format TIFF ou Shapefile. Lancé en novembre 1995, RADARSAT-1 était un projet dirigé par le Canada qui a fourni des informations utiles aux utilisateurs commerciaux et scientifiques dans des domaines tels que la gestion des catastrophes, l'agriculture, la cartographie, l'hydrologie, la foresterie, l'océanographie, l'étude des glaces et la surveillance des côtes. Équipé d'un puissant instrument radar à synthèse d'ouverture (SAR), il a acquis des images de la Terre de jour comme de nuit, par tous les temps et à travers la couverture nuageuse, la fumée et la brume. En mars 2013, le satellite a été déclaré non opérationnel et ne collecte plus de données. De nombreuses applications ont été développées pour tirer parti de la capacité de RADARSAT-1 pour détecter la présence d'eau. Il s'agissait notamment de surveiller les inondations et l'accumulation de glace fluviale, et de cartographier la fonte des zones enneigées. Utilisées pour la surveillance des inondations, les données de RADARSAT-1 ont permis d'évaluer l'impact des inondations, de prévoir l'étendue et la durée des eaux de crue, d'analyser l'impact environnemental des projets de dérivation des eaux et d'élaborer des mesures d'atténuation des inondations. Champs inclus : FID : Numéro de caractéristique interneNom : Zone inondée NameArea_SQKM : Taille de la zone inondée  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8acf3105-9ea0-b3a4-a593-a88c922ed23b"
+  ],
+  "dct_issued_s": "2019-02-04",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8acf3105-9ea0-b3a4-a593-a88c922ed23b\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Red River Flood - 2009",
+  "gbl_mdModified_dt": "2025-02-05T19:07:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0c637acc-f0ea-5024-a56a-7b32b52d7f50",
+  "locn_geometry": "ENVELOPE(-97.6229, -96.9613, 49.8343, 48.9933)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Ruelle",
+    "Voirie",
+    "SIRR",
+    "Autoroute",
+    "Intersection",
+    "Bretelle",
+    "PoleARTM",
+    "Chemin",
+    "Chaussée",
+    "Accotement",
+    "Rue",
+    "Pavage"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "La base de données Voirie inclut l'inventaire des actifs de voirie (chaussées, îlots, intersections, trottoirs, bordures) avec une représentation spatiale et diverses informations attachées.\r\n\r\nLes actifs de voirie de type chaussée agrégée représentent les voies carrossables situées dans le domaine public et qui font partie du réseau routier local ou artériel. Les chaussées agrégées sont figurées par des polygones qui sont agrégés par type d'utilisation.\r\n\r\nParmi les informations associées à un objet de type chaussée se trouvent la date de construction, la date de resurfaçage, la date de relevé, les matériaux de la chaussée, le type de fondation, la présence de voie cyclable, l’utilisation, etc.\r\n\r\nLes actifs de voirie de type intersection représentent les croisements des voies carrossables situées dans le domaine public et qui font partie du réseau routier local ou artériel. Les intersections sont figurées par des polygones qui sont découpés en fonction du nombre d'axes de circulation.\r\n\r\nParmi les informations associées à un objet de type intersection se trouvent la date de construction, la date de resurfaçage, la date de relevé, les matériaux de l'intersection, le type de fondation, la présence de voie cyclable, etc.\r\n\r\nLes données sont aussi disponibles dans des ensembles distincts sur le portail pour supporter plusieurs utilisations:\r\n\r\n- [Actif de voirie (base de données complète)](/ville-de-montreal/voirie-actif)\r\n- [Trottoir et îlot](/ville-de-montreal/voirie-trottoir-ilot)\r\n- [Zone hors voirie](/ville-de-montreal/voirie-zone) \r\n\r\n__Avertissements__\r\n\r\n- Les données diffusées sur les actifs de voirie sont celles qui se trouvent en la possession de l'équipe géomatique de la Ville et ne sont pas nécessairement à jour sur l'ensemble du territoire.\r\n- Les données diffusées sur les actifs de voirie sont fournies seulement à titre indicatif et ne devraient pas être utilisées pour des fins de conception ou réalisation des travaux ni pour la localisation des actifs."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/a2810949-7335-49e2-84af-1c5da4ff6342"
+  ],
+  "dct_issued_s": "2018-08-15",
+  "dct_publisher_sm": [
+    "Ville de Montréal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/a2810949-7335-49e2-84af-1c5da4ff6342\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Infrastructures"
+  ],
+  "dct_title_s": "Chaussée agrégée et intersection (Base de données des actifs de voirie)",
+  "gbl_mdModified_dt": "2026-09-07T10:00:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "adccdf7b-d913-5d2f-b022-0be6013a2a41",
+  "schema_provider_s": "Données Québec"
+}

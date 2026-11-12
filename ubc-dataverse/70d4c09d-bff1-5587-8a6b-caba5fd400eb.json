@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Salticidae",
+    "Plexippina",
+    "Taxonomy",
+    "Molecular systematics",
+    "Systematics",
+    "Maximum likelihood estimation",
+    "Deccana",
+    "Deccana jayamangali",
+    "ultraconserved elements",
+    "Phylogenetics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Marathe, Kiran (University of British Columbia). ORCID: https://orcid.org/0000-0002-7364-3475",
+    "Maddison, Wayne (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.b8gtht7np</p>\n<p><b>Storage size:</b> 17394614</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>We describe a new plexippine genus, <em>Tenkana</em> supported by phylogenomic data from ultraconserved elements (UCE), four-gene Sanger sequences, and morphological evidence. We transfer two species currently placed within <em>Colopsus</em> Simon, 1902, to <em>Tenkana</em>. The phylogenomic data places <em>Tenkana</em> among the plexippines near <em>Hyllus</em> C. L Koch, 1846 and <em>Telamonia</em> Thorell, 1887, while the constrained four-gene phylogeny indicates that <em>Tenkana</em> is distinct from <em>Colopsus</em>. Additionally, we describe a new species, <em>Tenkana</em><em> jayamangali.</em></p>",
+    "<b>Methods</b><br /><p>(1) UCE data</p>\n<p>We used target enrichment UCE sequencing, dual-indexed TruSeq-style libraries were prepared following methods used previously (e.g. Maddison et al. 2020). Targeted enrichment using the RTA_v2 probeset (Zhang et al. 2023) was performed using the myBaits v. 4.01 protocol (Arbor Biosciences, &lt;https://arborbiosci.com/wp-content/uploads/2023/06/myBaits_Manual_v5.03.pdf&gt;). Libraries were sequenced on partial lanes of illumina NovaSeq 6000 S4 runs with 150-bp paired end reads.</p>\n<p>Raw demultiplexed reads were processed with PHYLUCE v. 1.6 (Faircloth 2016), quality control and adapter removal were performed with Illumiprocessor wrapper (Faircloth 2013), and assemblies were created with SPAdes v. 3.14.1 (Nurk et al. 2013) using options at default settings. The UCE loci were recovered using RTA_v2 probeset (Zhang et al. 2023). The recovered loci were aligned with MAFFT using L-INS-i option (Katoh and Standley 2013). The aligned UCE loci were then trimmed with Gblocks (Castresana 2000, Talavera and Castresana 2007) using –b1 0.5, –b2 0.7, –b3 8, –b4 8, –b5 0.4 setting and re-aligned with MAFFT using L-INS-i option within Mesquite v. 3.81 (Maddison and Maddison 2023). As in the analysis of Maddison et al. (2020), suspected paralogous loci were deleted based on branch lengths in RAxML (Stamatakis 2014) inferred gene trees. Loci represented in fewer than 10 taxa total were deleted.</p>\n<p>(2) Four-gene data</p>\n<p>We downloaded publicly available data (COI, 28S, 18S and Histone3) for <em>Colopsus </em>from Kanesharatnam and Benjamin's (2021) study. We appended bycatch data for the same four gene regions present among the sequence capture genomic assemblies from the UCE dataset to the four gene matrices of <em>C. cancellatus</em>, <em>C. ferruginus</em>, and <em>C. magnus</em>. We followed a bycatch protocol similar to that described by Maddison et al. (2020), constructing local BLAST databases from SPAdes (Nurk et al. 2013) assemblies of each taxon in the UCE dataset. These assemblies were queried with publicly available COI, 28S, 18S, and H3 sequences from 7 different salticid species (<em>Aelurillus </em>cf. <em>ater</em> (Kroneberg, 1875)<em>, Bianor maculatus</em> (Keyserling, 1883)<em>, Colopsus cancellatus, Colopsus ferruginus, Hyllus treleaveni</em> Peckham &amp; Peckham, 1902<em>, Pancorius athukoralai</em> Kanesharatnam &amp; Benjamin, 2021<em>, </em>and <em>Salticius scenicus</em> (Clerck, 1757)).</p>"
+  ],
+  "dct_identifier_sm": [
+    "843051_150149",
+    "https://doi.org/10.5683/SP3/ZXWU8J"
+  ],
+  "dct_issued_s": "2024-10-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZXWU8J\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Ultraconserved element data for phylogenomic analysis and four-gene Sanger dataset for phylogenetic analysis of Tenkana, a new genus of plexippine jumping spider (Salticidae, Plexippini, Plexippina)",
+  "gbl_mdModified_dt": "2024-10-24T13:21:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "70d4c09d-bff1-5587-8a6b-caba5fd400eb",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

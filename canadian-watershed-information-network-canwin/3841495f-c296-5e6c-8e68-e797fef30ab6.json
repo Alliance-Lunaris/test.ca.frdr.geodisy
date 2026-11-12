@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-112.267, -110.151, 59.261, 58.116)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A high-resolution digital elevation model (DEM) is key to assessing habitat conditions, surface water connectivity, developing hydraulic models, and environmental change in the Peace-Athabasca Delta (PAD), Northern Alberta. Note that in this instance, DEM is a representation of the ground surface elevations and is thus considered synonymous with a digital terrain model. As part of the Oil Sands Monitoring (OSM) Program, the PAD DEM v1 was derived solely from airborne LiDAR surveys carried out since 2000 through multiple projects with different partners and collaborators, with the bulk of the area surveyed in 2019. Hence, the vertical accuracy varies spatially depending on the technology/method used in individual aerial surveys, as well as if a pixel was filled in via interpolation due to a lack of LiDAR ground data returns in very dense deltaic floodplain vegetation. Furthermore, it does not include traditional ground-based elevation survey data and bathymetric elevations, nor surface water extents for the multiple lakes, wetlands and channels – addition of these data will form part of a planned future version of this DEM product. Given that the DEM has yet to be tested and is a work in progress, the quality, accuracy or completeness is not warranted. The PAD DEM v1 is provided as a 4 m horizontal resolution product that is projected to the UTM NAD83 (CSRS) Zone 12 coordinate system and is referenced to the Canadian Geodetic Vertical Datum of 2013 (CGVD2013) Epoch 2010."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/03568324-1a8b-4c00-8650-f5c35f6e0bff"
+  ],
+  "dct_issued_s": "2022-11-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/03568324-1a8b-4c00-8650-f5c35f6e0bff\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Peace-Athabasca Delta (PAD) Digital Elevation Model (DEM) Abstract",
+  "gbl_mdModified_dt": "2022-11-22T15:23:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3841495f-c296-5e6c-8e68-e797fef30ab6",
+  "locn_geometry": "ENVELOPE(-112.267, -110.151, 59.261, 58.116)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.007675, -52.487475, 83.222301, 41.676569)",
+  "dcat_keyword_sm": [
+    "Snow",
+    "neige dynamique de la neige glace climat saisonnier télédétection Landsat Sentinel-2 Canada",
+    "Neige",
+    "snow snow dynamics ice climate seasonal remote sensing Landsat Sentinel-2 Canada",
+    "Couverture du sol",
+    "Land cover"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Dynamique annuelle de la neige à 30 m (2018-2019 à 2024-2025) – Canada"
+  ],
+  "dct_creator_sm": [
+    "Bonney, Mitchell (University of Toronto, Natural Resources Canada)."
+  ],
+  "dct_description_sm": [
+    "This catalog contains annual 30 m spatial resolution snow dynamics metrics for each snow-year from 2018-2019 to 2024-2025 for all of Canada. We gather all Landsat and Sentinel-2 images collected over Canada and identify the status of each pixel observation on the image collection date: snow (and ice), non-snow (i.e., land, water), unclear (i.e., clouds, shadows). We built an algorithm to calculate snow cover metrics for each pixel during each winter: start date of the first (and biggest) snow period [startF, startB], end date of the last (and biggest) snow period [endL, endB], number of days with snow cover in total (or in the biggest snow period) [lengthT, lengthB], number of snow periods (i.e., separated times with multiple confirmed snow observations) [periods], and a status classification (e.g., continuous snow, snow free) [status]. We do not obtain a clear observation every day because of satellite orbit frequencies and clouds. This means that timing-based metrics are identified by the middle date between two clear observations, with uncertainty quantified as half the length of the gap (i.e., ± days) [startF_u, startB_u, endL_u, endB_u, lengthT_u, lengthB_u].",
+    "Ce catalogue présente, à une résolution spatiale de 30 m, les indicateurs annuels de la dynamique de la neige pour chaque hiver de 2018-2019 à 2024-2025, pour tout le Canada. Nous rassemblons toutes les images Landsat et Sentinel-2 acquises au-dessus du Canada et déterminons pour chaque pixel observe à la date de collecte, son état: neige (et glace), sans neige (c.-à-d. sol, eau) ou indéterminé (c.-à-d. nuages, ombres). Nous avons conçu un algorithme pour calculer, pour chaque pixel et pour chaque hiver, des indicateurs de couverture nivale : la date de début de la première (et de la plus grande) période de neige [startF, startB], la date de fin de la dernière (et de la plus grande) période de neige [endL, endB], le nombre total de jours avec couverture de neige (ou durant la plus grande période de neige) [lengthT, lengthB], le nombre de périodes de neige (c.-à-d. des intervalles distincts avec plusieurs observations confirmées de neige) [periods], ainsi qu’une classification de l’état (p. ex., neige continue, sans neige) [status]. Nous n’obtenons pas d’observation claire chaque jour en raison des fréquences orbitales des satellites et de la presence de nuages. Cela signifie que les indicateurs temporels sont déterminés par la date médiane entre deux observations claires, l’incertitude étant quantifiée comme la moitié de la durée de l’intervalle (c.-à-d., ± jours) [startF_u, startB_u, endL_u, endB_u, lengthT_u, lengthB_u]."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc"
+  ],
+  "dct_issued_s": "2025-10-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Annual 30 m snow dynamics (2018-2019 to 2024-2025) – Canada",
+  "gbl_mdModified_dt": "2026-09-03T16:00:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ec442898-cdc8-5def-bfa1-e83733c6da2b",
+  "locn_geometry": "ENVELOPE(-141.007675, -52.487475, 83.222301, 41.676569)",
+  "schema_provider_s": "Open Data Canada"
+}

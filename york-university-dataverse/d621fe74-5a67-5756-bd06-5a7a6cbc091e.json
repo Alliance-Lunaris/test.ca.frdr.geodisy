@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-111.623, -111.501, 57.046, 57.0267)",
+  "dcat_keyword_sm": [
+    "Air Quality",
+    "Air--Pollution--Mathematical models",
+    "Environmental studies",
+    "Pollution",
+    "Smokestack Plumes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gordon, Mark D (YORKU). ORCID: https://orcid.org/0000-0003-4896-4661",
+    "Gong, Wanmin (Environment and Climate Change Canada). ORCID: https://orcid.org/0000-0003-3635-0857",
+    "Makar, Paul (Environment and Climate Change Canada). ORCID: https://orcid.org/0009-0006-6149-8342"
+  ],
+  "dct_description_sm": [
+    "A copy of this dataset is deposited in Zenodo and can be accessed at <a href=\"https://zenodo.org/records/18087309\">https://zenodo.org/records/18087309</a>.",
+    "This repository consists of code extracted from the Global Environmental Multi-scale Modelling Air quality and Chemistry (GEM-MACH) which uses the Briggs parameterization to estimate plume rise and data used to drive this parameterization to calculate plume rise at the main stack of the Syncrude Mildred Lake facility. These calculations are in support of Axelrod et al. (currently under review for the journal Geoscientific Model Development, GMD).  The parameterization is driven by meteorological data (air temperature, wind speed, boundary-layer height) and stack emissions data (effluent temperature and volumetric flow rate), which are provided by the Wood Buffalo Environmental Association (WBEA) Buffalo Viewpoint station and Continuous Emissions Monitoring (CEMS) provided by the Alberta Government.  The data spans Nov 2018 to Nov 2020, coincident with plume images described in Axelrod et al. (under review)."
+  ],
+  "dct_identifier_sm": [
+    "978982_199746",
+    "https://doi.org/10.5683/SP3/WZVZBV"
+  ],
+  "dct_issued_s": "2025-09-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WZVZBV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Alberta, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Code and data for the calculation of plume rise",
+  "gbl_mdModified_dt": "2026-01-08T14:37:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d621fe74-5a67-5756-bd06-5a7a6cbc091e",
+  "locn_geometry": "ENVELOPE(-111.623, -111.501, 57.046, 57.0267)",
+  "pcdm_memberOf_sm": [
+    "Mark Gordon Dataverse"
+  ],
+  "schema_provider_s": "York University Dataverse"
+}

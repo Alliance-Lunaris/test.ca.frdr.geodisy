@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(79.51, 79.51, 43.7753, 43.7753)",
+  "dcat_keyword_sm": [
+    "temperature",
+    "wind speed",
+    "meteorology"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gordon, Mark (York University). ORCID: https://orcid.org/0000-0003-4896-4661",
+    "Taylor, Peter A. (York University). ORCID: https://orcid.org/0000-0001-5929-6051",
+    "Savelyev, Sergiy (York University).",
+    "Li, Ping Y (York University)."
+  ],
+  "dct_description_sm": [
+    "The EMOS weather station was initially installed during May 2002. Data became available on-line through our website in June 2002. An additional 4 component radiation sensor was added in late July 2005 together with a new data logger (CR23X) to accommodate extra input channels. The humidity sensor was also replaced. Data from 2002 through 2005 are unavailable and this data set starts at 2006.\n\nThe station is based on a 10 meter, standard MSC tilting tower, located in front of the Tate McKenzie building (on traffic circle #5), and serves as a real-time data collector of meteorological information for the York campus. The station collects averaged data on wind speed, wind direction, temperature and humidity, 4 radiation components, precipitation amounts and soil temperature. Averages of these parameters are transmitted at 5 min intervals and displayed on the EATS website: https://www.yorku.ca/pat/weatherStation/index.php.\n\nFor ease in lowering and raising the tower, counterweights are used to balance the weight of the instruments and of the tower itself on a pivot point. This allows instruments to be easily added, replaced or repaired.\n\nAn R.M.Young wind monitor is located at 10 m (the highest point on the tower) and relays wind direction and speed. Two T-type thermocouples (copper/constantan) measure the temperature difference between 9.5 m and 1.5 m. Other temperature sensors include a soil temperature sensor, located just below the surface, a temperature/humidity sensor at 1.5 m, and a thermistor placed within the data logger, also at 1.5 m. At a height of 4.5 m, a tipping bucket rain gauge measures the amount of rainfall. It is mounted approximately 30 cm away from the tower so as to minimize the effects of rain shadow. A CNR1 radiometer measures up-welling and down-welling solar and terrestrial (infra-red) radiation components and (in some time segments but not currently) a Sonic ranger measured snow depth. Excluding the wind monitor, which is sampled at 1 Hz, the instruments are sampled once per minute. The solar panel, placed at 2.5 m, serves as the power source for the data logger. The data logger collects the information from these instruments, and then averages over 5 minute intervals. This information is interrogated by a computer located in the Petrie Science building, which automatically updates the website, displaying the information in real-time. The software used to collect data is Campbell Scientific PC208W version 3.3. It collects data from the tower in ten-minute intervals. These data are then manipulated by a FORTRAN program. The program creates a data file of all entries from 0h UTC of the current day. UTC (Universal Time Coordinate = GMT) is four hours ahead of EDT (Eastern Daylight Time), used in summer, and five hours ahead of EST (Eastern Standard Time), used in winter. Another data file is created in order to update the latest conditions section of the website. Finally, at the end of every day (UTC), the file containing all information from 0h UTC gets archived as graphs on the website are created using GNU plot."
+  ],
+  "dct_identifier_sm": [
+    "854078_199746",
+    "https://doi.org/10.5683/SP3/QRJ93M"
+  ],
+  "dct_issued_s": "2024-11-25",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QRJ93M\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Toronto, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Meteorological data from the York Earth and Space Science Meteorological Observation Station (EMOS)",
+  "gbl_mdModified_dt": "2026-01-06T13:44:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7224fe1a-bea1-5097-9186-02cf3b82c4c7",
+  "locn_geometry": "ENVELOPE(79.51, 79.51, 43.7753, 43.7753)",
+  "pcdm_memberOf_sm": [
+    "Mark Gordon Dataverse"
+  ],
+  "schema_provider_s": "York University Dataverse"
+}

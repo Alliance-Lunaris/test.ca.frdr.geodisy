@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(63.2, 76.2, 59.1, 48.9)",
+  "dcat_keyword_sm": [
+    "Taïgas",
+    "Protein content",
+    "Teneur en protéines",
+    "Dissolved organic carbon",
+    "Humic substances",
+    "Climate",
+    "Forêts boréales",
+    "Taigas",
+    "Acides humiques",
+    "Bassins hydrographiques",
+    "Watersheds",
+    "Water--Organic compound content",
+    "Carbone organique dissous",
+    "Boreal forests",
+    "Climat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Simonet, Adrien (Université de Montréal). ORCID: https://orcid.org/0009-0007-2739-060X",
+    "Lapierre, Jean-François (Groupe de recherche interuniversitaire en limnologie, Université de Montréal). ORCID: https://orcid.org/0000-0001-5862-7955",
+    "Guillemette, François (Université du Québec à Trois-Rivières). ORCID: https://orcid.org/0000-0003-2333-8410"
+  ],
+  "dct_description_sm": [
+    "The dataset has been divided into two sheets. The first sheet contains the chemical data: DOC (mg/L), PARAFAC components in absolute concentration (C1 to C4 in RU) and in proportion (PC1 to PC4 in %), PC1+PC2 (%) as humic-like components, PC3+PC4 (%) as protein-like components. We also provided the origin of the sample: It's name, the catchment code, Region, typology (aquatic or terrestrial) and compartment (Upland, Riparian, Stream, Lake).  The second sheet contains climatic and geographic data from the sampled catchments: The catchment code, Latitude, Longitude, MAT (°C), MAP (mm), Elevation (m), %Slope, Catchment-area (km2), Lake-area (km2), %Wetland, %Forest, %Grassland, SOC stock (KgC/m2), dominant and codominant deposit and bedrock type. All variables were described in their respective metadata sheet, also provided in the same file.",
+    "[English] This dataset contains dissolved organic carbon (DOC) concentrations and PARAFAC-derived composition from terrestrial soil water (upland, riparian) and aquatic (stream, lake) compartments across 26 headwater catchments in four regions spanning the boreal and boreal-arctic transition of Quebec, Canada (48.9-59.1°N; 63.2-76.2°W) along with associated geographic and climatic variables. Sampling campaigns took place between July and August around La Romaine River (2021), Eastmain River (2022), Peribonka River (2023) and George River (2024).",
+    "[Français] Cet ensemble de données comprend les concentrations de carbone organique dissous (COD) et la composition dérivée de l’analyse PARAFAC des eaux du sol (zones d’altitude, zones riveraines) et des milieux aquatiques (cours d’eau, lacs) de 26 bassins versants de tête répartis dans quatre régions couvrant la zone boréale et la transition boréale-arctique du Québec, au Canada (48,9-59,1°N; 63,2-76,2°O), ainsi que les variables géographiques et climatiques associées. Les campagnes d’échantillonnage ont eu lieu entre juillet et août aux abords des rivières La Romaine (2021), Eastmain (2022), Peribonka (2023) et George (2024)."
+  ],
+  "dct_identifier_sm": [
+    "1020015_281357_281358",
+    "https://doi.org/10.5683/SP3/QBTQ4M"
+  ],
+  "dct_issued_s": "2026-03-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/QBTQ4M\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for dissolved organic matter and associated environmental variables across land–water continua of boreal catchments in Quebec [Québec, Canada, 2021-2024]",
+  "gbl_mdModified_dt": "2026-07-27T19:17:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f83c8c12-095d-5764-902b-148de8ec4893",
+  "locn_geometry": "ENVELOPE(63.2, 76.2, 59.1, 48.9)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

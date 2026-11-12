@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.3, -121.2, 53.84, 53.79)",
+  "dcat_keyword_sm": [
+    "other",
+    "oceans",
+    "forest",
+    "lidar",
+    "hakai",
+    "aco",
+    "autre",
+    "airborne-coastal-observatory",
+    "geospatial"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ancient Forest Wetlands, BC - Haut Fraser - 2019 - Observatoire côtier aéroporté"
+  ],
+  "dct_creator_sm": [
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Ancient Forest Wetlands Survey conducted on Aug 29th 2019. Contained within this report\nare details regarding the project specifications, overall data accuracy, and deliverables.\nA survey acquisition of LiDAR and orthoimagery was carried out over Ancient\nForest/Chun T'Oh Whudujut Provincial Park to generate a high-res DEM of several wetland\ncomplexes and their surrounding topography. The DEM is being used to support a project\nmapping the hydraulic gradient throughout the year in the wetlands in an effort to determine\nhow significant snowmelt recharge is for these ecosystems.\nHakai Institute’s Airborne Coastal Observatory (Hakai ACO) conducted an aerial survey\nof 14.95km2 approximately 93km south-east of the Prince George Airport over the Ancient\nForest / Chun T’oh Whudujut Provincial park. The survey commenced on Aug 29th 2019 and\nfinished on the same date. Data collected includes: LiDAR, 4 band digital imagery, and\nInertial Navigation System (INS) data\nUsing combined GNSS and Inertial Movement Unit (IMU) data, the Hakai geospatial\ngroup calculated aircraft attitude and position, and incorporated laser range data to resolve\nspatial surface information. The flight consisted of 8 parallel passes over the Ancient Forest/\nChun T’oh Whudujut Provincial Park and the INS positional data was processed immediately\nafter the completion of the project. Previous calibration flights allowed Hakai’s geospatial\ngroup to calibrate the roll, pitch, and heading of the system and refine the acquired spatial\ndata.\nAircraft position data was processed using an Applanix CenterPoint RTX solution by\ncombining multiple continuous operating GNSS base stations to generate a set of\nobservations as base stations to post-process Differential GNSS processing. The aerial\nsurvey combined with previously flown calibration flights aided in resolving and validating\nvertical elevations and geo-referenced aerial photos.\nHakai Institute’s geospatial team completed all data acquisition, data post-processing and\nquality analysis.\n\nGeodetic Parameters\nHorizontal Datum: NAD83 (CSRS)\nEpoch: 2010.00\nVertical Datum: CGVD2013\nGeoid: CGG2013a\nProjection: UTM Zone 10 N\nUnits: Metres\nPoint Specification\nAggregated Nominal Point Density (ANPD): 7.3 pts/m2\nAggregated Nominal Ground Point Density (ANGPD): 2.71pts/m2\nOrthophoto Resolution: 7.4 cm pixel resolution\n\nData products available: \nLidar data (LAZ)- classified point cloud – digital surface model – digital terrain model. \nImage data (TIFF) – 4 band orthophotos – RGB & NIR. \nHyperspectral data (not always captured).\nA detailed project report with the summary of acquisition, processing, and overall hardware / software is available (PDF).\nSensors and instrument breakdown:\nInertial Navigation System: Manufacturer: Applanix (Canada), IMU Model: POS AV 510 IMAR, GNSS Model: Trimble AV39.\nLaser sensor: Riegl LMS-Q 780 long-range airborne laser scanner. Point density ranges per project and landscape from 1-12 points per square meter.\nAerial cameras: two fully integrated Phaseone Industrial iXU-RS1000 medium format cameras, resolution: 100MP, lens: 50mm f/4.0 Rodenstock.\nHyperspectral Sensor: manufacturer: Specim, model: AisaFENIX 384, spectral range: 380 - 2500 nm",
+    "Enquête sur les zones humides des forêts anciennes réalisée le 29 août 2019. Contenu de ce rapport\nsont des détails concernant les spécifications du projet, l'exactitude globale des données et les livrables.\nUne acquisition de LiDAR et d'ortho-imagerie a été réalisée sur Ancient\nLe parc provincial Forest/Chun T'Oh Whudujut va générer un MNT haute résolution de plusieurs zones humides\ncomplexes et leur topographie environnante. Le DEM est utilisé pour soutenir un projet\ncartographier le gradient hydraulique tout au long de l'année dans les zones humides afin de déterminer\nl'importance de la recharge de la fonte des neiges pour ces écosystèmes.\nL'observatoire côtier aéroporté du Hakai Institute (Hakai ACO) a effectué un levé aérien\nd'une superficie de 14,95 km2, à environ 93 km au sud-est de l'aéroport de Prince George au-dessus de l'Ancient\nForêt/parc provincial Chun T'oh Whudujut. L'enquête a débuté le 29 août 2019 et\nterminé à la même date. Les données collectées comprennent : LiDAR, imagerie numérique 4 bandes et\nDonnées du système de navigation inertielle (INS)\nEn utilisant les données combinées GNSS et Inertial Movement Unit (IMU), le géospatial de Hakai\ngroupe a calculé l'assiette et la position de l'aéronef, et a incorporé des données de portée laser\ninformations spatiales sur la surface. Le vol a consisté en 8 passages parallèles au-dessus de l'Ancient Forest/\nLe parc provincial Chun T'oh Whudujut et les données de position de l'INS ont été traitées immédiatement.\naprès l'achèvement du projet. Les vols d'étalonnage précédents ont permis la géospatiale de Hakai\npour calibrer le roulis, le tangage et le cap du système et affiner l'espace acquis\ndonnées.\nLes données de position de l'avion ont été traitées à l'aide d'une solution Applanix CenterPoint RTX par\ncombinant plusieurs stations de base GNSS fonctionnant en continu pour générer un ensemble de\nobservations en tant que stations de base pour post-traiter le traitement GNSS différentiel. L'antenne\nrelevé combiné à des vols d'étalonnage précédemment effectués pour aider à résoudre et à valider\nélévations verticales et photos aériennes géoréférencées.\nL'équipe géospatiale du Hakai Institute a réalisé toutes les acquisitions de données, le post-traitement des données et\nanalyse de la qualité.\n\nParamètres géodésiques\nDate horizontale : NAD83 (CSRS)\nÉpoque : 2010.00\nDate verticale : CGVD2013\nGéoïde : CGG2013a\nProjection : Zone UTM 10 N\nUnités : Mètres\nSpécification du point\nDensité en points nominaux agrégés (ANDP) : 7,3 pts/m2\nDensité nominale au point sol agrégée (ANGDP) : 2,71 pts/m2\nRésolution Orthophoto : résolution de 7,4 cm en pixels\n\nProduits de données disponibles : \nDonnées Lidar (LAZ) - nuage de points classifiés - modèle de surface numérique - modèle numérique de terrain. \nDonnées d'image (TIFF) — orthophotos 4 bandes — RGB et NIR. \nDonnées hyperspectrales (pas toujours capturées).\nUn rapport de projet détaillé avec le résumé de l'acquisition, du traitement et de l'ensemble du matériel/logiciel est disponible (PDF).\nPanne des capteurs et des instruments :\nSystème de navigation à inertie : Fabricant : Applanix (Canada), modèle IMU : POS AV 510 IMAR, modèle GNSS : Trimble AV39.\nCapteur laser : scanner laser aéroporté longue portée Riegl LMS-Q 780. La densité de points par projet et paysage varie de 1 à 12 points par mètre carré.\nCaméras aériennes : deux appareils photo moyen format Phaseone Industrial iXU-RS1000 entièrement intégrés, résolution : 100MP, objectif : 50mm f/4.0 Rodenstock.\nCapteur hyperspectral : fabricant : Specim, modèle : AisaFenix 384, plage spectrale : 380 - 2500 nm"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a8d40002-d393-40da-882c-73c0ad8ca7e6"
+  ],
+  "dct_issued_s": "2019-10-31",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a8d40002-d393-40da-882c-73c0ad8ca7e6\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory",
+  "gbl_mdModified_dt": "2026-09-22T21:22:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7da48d0e-dd60-5296-95c0-eecc148b4e0f",
+  "locn_geometry": "ENVELOPE(-121.3, -121.2, 53.84, 53.79)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

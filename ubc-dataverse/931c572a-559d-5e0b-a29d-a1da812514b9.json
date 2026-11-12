@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(45.5406, 47.6987, 40.525, 38.8672)",
+  "dcat_keyword_sm": [
+    "Landsat, Karabakh, Conflict, Landcover and Land Use Change, NDVI, Social Ecological Systems"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Allen, Jeremy (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "The Nagorno-Karabakh conflict has had profound consequences for both the political and physical geography of the South Caucasus region. Since the fighting of the 1990s there has been a relative status quo, with a militarised line of contact separating the two sides. This changed on September 27 2020, when intense fighting erupted along the whole of the front, and especially in the south-east. After a month and a half, fighting concluded on 10 November 2020 which saw the implementation of a ceasefire which ceded large portions of the Nagorno-Karabakh (Artsakh) Republic to Azerbaijan. There has yet to be an investigation on the kinds of changes to human and natural systems that the most recent conflict (2020) engendered.\n\nIn response to this research lacuna, this paper asked whether the effects of the 2020 armed conflict had a significant effect on the region’s agricultural systems. This paper approached the question by examining per-pixel NDVI metrics - derived from Landsat 8 composites from April through June - before and after the conflict. These per-pixel metrics were correlated with conflict data from ACLED. This approach aims to test the hypothesis that areas which witnessed the most intense fighting saw significant drops in NDVI, indicating land fallowness and abandonment. The results from this study indicate that conflict intensity has a significant effect on vegetation health (p-value < 2.2e-16), and supports the hypothesis that conflict leads to a decrease in NDVI, however conflict intensity on its own does not have strong explanatory power for estimating changes in NDVI (R2 0.09667) and future work ought to segment the study area in order to obtain a non-obfuscated regression coefficient (coefficient -0.0057322)."
+  ],
+  "dct_identifier_sm": [
+    "328543_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/HPEYCA"
+  ],
+  "dct_issued_s": "2022-04-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/HPEYCA\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Nagorno-Karabakh, Armenia",
+    "Nagorno-Karabakh, Azerbaijan"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Arts and Humanities",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Nature of War: The Political Ecology of the 2020 Nagorno-Karabakh Conflict",
+  "gbl_mdModified_dt": "2022-04-21T21:36:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "931c572a-559d-5e0b-a29d-a1da812514b9",
+  "locn_geometry": "ENVELOPE(45.5406, 47.6987, 40.525, 38.8672)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

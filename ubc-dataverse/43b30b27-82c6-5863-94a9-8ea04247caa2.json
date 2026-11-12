@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.54245757436745, -120.0418399183167, 50.86643695998992, 50.61551678476301)",
+  "dcat_keyword_sm": [
+    "Energy",
+    "LiDAR",
+    "Photovoltaic",
+    "Open-Source",
+    "Solar",
+    "Rooftop"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Goncalves, N. Tyler (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "While British Columbia currently generates electricity primarily through renewable sources, the province’s broader energy use is principally served by other fuel types, such as natural gas. As the province shifts towards electrification, rooftop solar photovoltaics (PV) provide an opportunity to increase the province’s energy capacity while taking advantage of existing built infrastructure. Quantifying the availability of rooftop solar resources throughout the province is critical to inform decision-making regarding solar PV. As British Columbia focuses on increasing province-wide LiDAR coverage, open-source methods for evaluating available solar resources opens the opportunity to perform a broader provincial assessment. This study developed open-source methods for evaluating rooftop solar resources, using Kamloops as a case study. The method broke the city down by neighbourhood, first identifying footprints and simulating annual solar irradiation on city surfaces before performing a suitability analysis to locate rooftop surfaces suitable for supporting solar PV modules. The study found a total of 6,277,392 m2 of suitable area, annually collecting 6,993 GWh of solar insolation. Roughly accounting for module efficiency and system loss, this suggests the city could support a solar PV system capable of generating up to 1,174 GWh of electricity. However, this is prior to accounting for module fitting. The methods developed in this study provide a baseline for evaluating solar resources across other municipalities in British Columbia using only LiDAR and meteorological data."
+  ],
+  "dct_identifier_sm": [
+    "1125163_73894_115983",
+    "https://doi.org/10.5683/SP3/IUSA4G"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IUSA4G\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kamloops, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Evaluating Rooftop Solar Resources in Kamloops, British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:35:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "43b30b27-82c6-5863-94a9-8ea04247caa2",
+  "locn_geometry": "ENVELOPE(-120.54245757436745, -120.0418399183167, 50.86643695998992, 50.61551678476301)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

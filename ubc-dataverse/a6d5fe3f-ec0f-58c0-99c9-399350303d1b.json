@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.9304, -126.4281, 54.8212, 54.4993)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lacelle, Cameron (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Increased deforestation in British Columbia from logging practices and wildfires has led to interests from the BC Ministry of Forests, Lands, Natural Resource Operations, and Rural Development to improve reforestation efforts province-wide. Modelling cold air and frost in BC has limited research prior to this project, and unexpected frost events in Spring and Autumn can have fatal effects to young, newly-planted trees in areas where frost develops on the landscape. The frost project is part of the greater Predictive Ecosystem Mapping project for BC on behalf of the ministry, and will contribute to improved land management practices. A site near Smithers, BC was selected for the study due to its complex landscape and high number of annual frost events. Through the use of various topographical, ecological, vegetation, and climate datasets, a reproduceable code has been developed to predict the site’s frost potential. Important spatial information including slope, curvature, and surface roughness were derived from a digital elevation model, and combined with data for the biogeoclimatic ecosystem classification zones, old growth forests, and annual precipitation for the study area. Each dataset in the model was reclassified into a binary raster, based factors contributing to frost potential, and then combined into a single frost-prone dataset. The final results provided excellent insight into how frost may develop on the landscape, and achieved an overall accuracy of 73% when tested against ground-truthing data. The results and easily-reproducible code written for this analysis can help better-inform reforestation efforts in British Columbia, and with further data acquisition of additional variables, as well as more ground-truthing data, the study can be expanded to predict frost potential for all of British Columbia."
+  ],
+  "dct_identifier_sm": [
+    "322215_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/BT9UO3"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/BT9UO3\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Smithers, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Predicting Frost-Prone and Cold Air Accumulation Sites from DEMs",
+  "gbl_mdModified_dt": "2022-04-19T21:05:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a6d5fe3f-ec0f-58c0-99c9-399350303d1b",
+  "locn_geometry": "ENVELOPE(-126.9304, -126.4281, 54.8212, 54.4993)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

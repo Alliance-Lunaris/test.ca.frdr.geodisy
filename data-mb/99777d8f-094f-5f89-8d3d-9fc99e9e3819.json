@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "dcat_keyword_sm": [
+    "Forecast",
+    "Province of Manitoba",
+    "RDPS",
+    "Weather Models",
+    "SubBasins",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<ul><li><strong>Model &amp; Domain</strong>: The RDPS is Environment and Climate Change Canada’s <strong>regional numerical weather prediction</strong> model, running at ~10 km resolution to capture mesoscale weather patterns over Canada and adjacent regions.</li><li><strong>Forecast Integration</strong>: It produces <strong>short-range</strong> forecasts (up to 84 hours), updated <strong>4 times</strong> daily with boundary conditions from the global GEM model (GDPS).</li><li><strong>Sub-Basin Aggregation</strong>: This layer <strong>averages</strong> forecasted precipitation across each sub-basin polygon, providing a convenient snapshot of expected accumulations for hydrological modeling and water management.</li><li><strong>Key Applications</strong>:<ul><li><strong>Flood Forecasting</strong> – Identifying basins at risk of heavy runoff.</li><li><strong>Resource Allocation</strong> – Positioning crews and equipment in vulnerable watersheds.</li><li><strong>Planning</strong> – Adapting reservoir release schedules, urban drainage controls, and agricultural activities</li></ul></li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "0e74476ac32744679ff1d6075dd7142e",
+    "https://www.arcgis.com/home/item.html?id=0e74476ac32744679ff1d6075dd7142e"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-rdps-84-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (RDPS - 84 hrs)",
+  "gbl_mdModified_dt": "2026-04-13T17:04:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "99777d8f-094f-5f89-8d3d-9fc99e9e3819",
+  "locn_geometry": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "schema_provider_s": "Data MB"
+}

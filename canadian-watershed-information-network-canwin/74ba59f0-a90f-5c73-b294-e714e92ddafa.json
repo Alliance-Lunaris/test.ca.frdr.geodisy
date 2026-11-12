@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Physical Exposure component of the National Human Settlement Layer (NHSL), defined here as the ‘Physical Exposure Model’, includes a delineation of settled areas and related land use across Canada, as well as information about buildings, persons, and building replacement values (structure and contents) within those areas.  \n  \n  Buildings within the inventory are classified using a combination of occupancy types, engineering-based construction types adopted for Canada, and design levels representing the approximate building code requirements at the time of construction. The inventory is derived from detailed housing statistics provided at the dissemination area level as part of the 2016 national census and from georeferenced business listings. Building populations at different times of day are estimated for standard daytime hours (9am-5pm); for morning and evening commute hours (7am-9am; 5pm-7pm), and; for nighttime hours when the majority of people are home (7pm-7am). Replacement values are provided for structural, nonstructural, and contents components of buildings, based on industry replacement costs for representative regions across Canada.  \n  \n  The physical exposure model is provided in two formats:  (1) According to settled areas (i.e., polygons), which are areas that approximately delineate clusters of buildings across Canada. Summary statistics about buildings and populations within each settled area boundary are provided. (2) According to building archetypes (i.e., points) within settled areas. These are represented as point locations at the centroid of the corresponding settled area, and each settled area can have multiple point features corresponding to different building archetypes present within that area.  \n  \n  In total, the model characterizes 35.2 million people in 9.7 million buildings across 390,000 locations with a total approximate replacement value of $8.2 trillion (2019 CAD) including contents."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1818cf27-03ea-4ebb-bc43-fd371b42198b"
+  ],
+  "dct_issued_s": "2022-08-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1818cf27-03ea-4ebb-bc43-fd371b42198b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "National Human Settlement - Physical Exposure",
+  "gbl_mdModified_dt": "2022-08-30T16:40:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "74ba59f0-a90f-5c73-b294-e714e92ddafa",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

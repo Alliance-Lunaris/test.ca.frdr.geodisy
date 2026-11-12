@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.3388778878065, -75.2615829102, 45.52482708351339, 44.9670500233404)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "traffic",
+    "walk",
+    "collision",
+    "car",
+    "bike",
+    "bicycle",
+    "pedestrian"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Locational listing of collisions by year with total of pedestrian and cycling collisions listed and geographically represented on the centroid of the line segment or intersection.</span><br /><br /><strong>Accuracy</strong><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>: The City of Ottawa provides this information in good faith but provides no warranty, nor accepts any liability arising from any incorrect, incomplete or misleading information or its improper use.</span><br /><br /><strong>Update Frequency</strong><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>: Annually.  This dataset will not be updated beyond 2019.  Please see the Tabular Transportation Collision datasets.</span><br /><br /><strong>Attributes</strong><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>: • X and Y coordinate format is projected in MTM Zone 9, NAD83 (CSRS)</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Year</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Location Description (RD1 @ RD2 or RD from RD 1 to RD 2)</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Count of all collisions</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Count of pedestrian collisions (included in count of all collisions)</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Count of Bicycle collisions (included in count of all collisions)</span><br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>• Latitude and longitude</span><br /><br /><strong>Contact</strong><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>: </span><a href='mailto:tetsuro.ide@ottawa.ca' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;' rel='nofollow ugc'>Transportation Data Collection &amp; Analytics</a>"
+  ],
+  "dct_identifier_sm": [
+    "9ab8b35019f547c994c22da287cad723",
+    "https://www.arcgis.com/home/item.html?id=9ab8b35019f547c994c22da287cad723"
+  ],
+  "dct_issued_s": "2021-01-15",
+  "dct_license_sm": [
+    "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0"
+  ],
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::traffic-collisions-by-location-2015-to-2019\"}",
+  "dct_title_s": "Traffic Collisions by Location 2015 to 2019",
+  "gbl_mdModified_dt": "2022-01-27T13:39:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a4727ae-2091-5287-a52e-047fc61df4ea",
+  "locn_geometry": "ENVELOPE(-76.3388778878065, -75.2615829102, 45.52482708351339, 44.9670500233404)",
+  "schema_provider_s": "Open Ottawa"
+}

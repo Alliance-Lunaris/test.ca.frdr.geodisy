@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Précipitation",
+    "Climat",
+    "Données sur grilles",
+    "Quotidienne",
+    "Température",
+    "Mesure météorologique",
+    "Météo"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de la surveillance de la qualité de l'air et du climat."
+  ],
+  "dct_description_sm": [
+    "Les grilles climatiques quotidiennes du Québec – Version 3 (GCQ-V3) produites par le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP) sont obtenues par l'interpolation des données météorologiques provenant des stations du [Réseau de surveillance du climat du Québec](https://www.environnement.gouv.qc.ca/climat/surveillance/) (RSCQ), opérées par le MELCCFP, et des données provenant des stations des autres partenaires du Réseau météorologique coopératif du Québec ([RMCQ](https://www.environnement.gouv.qc.ca/climat/surveillance/clientele.htm#partenaires)). Elles sont calculées pour les températures maximales, minimales et pour les précipitations totales.\r\n\r\nCes grilles couvrent l'ensemble du territoire québécois, sur un maillage en projection Lambert conique conforme d'une résolution de 10 kilomètres, pour la période débutant le 1er janvier 1940. Des mises à jour sont réalisées quatre fois par année (mars, juin, septembre et décembre). On peut consulter la section « Informations complémentaires » de la fiche descriptive du jeu de données pour obtenir des renseignements sur l'historique des versions des grilles climatiques quotidiennes du Québec et sur leur méthode de production.\r\n\r\nLes grilles sont fournies sous forme de fichiers NetCDF, séparés par paramètres et années. Environ 260 fichiers, dont la taille varie de 15 à 26 Mo (pour un total de 6 Go), sont disponibles en téléchargement à partir des liens contenus dans le fichier CSV fourni, ci-dessous, dans les ressources.\r\n\r\nLe format NetCDF, un standard pour ce type de données, permet de stocker dans un même fichier de grandes quantités de données matricielles accompagnées de leurs métadonnées, tout en facilitant leur accès et leur traitement. Un tutoriel sur l'utilisation des données au format NetCDF est disponible sur le site [DonneesClimatiques.ca](https://donneesclimatiques.ca/demandez-a-un-expert-du-climat-comment-utiliser-les-fichiers-netcdf/)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/df73c1a6-e768-4ded-a808-b652cc3dda53"
+  ],
+  "dct_issued_s": "2025-08-27",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/df73c1a6-e768-4ded-a808-b652cc3dda53\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "RSCQ − Grilles climatiques quotidiennes du Québec – Version 3 (GCQ-V3)",
+  "gbl_mdModified_dt": "2026-08-04T14:57:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2cec9edb-1739-5fbe-8349-56c837043127",
+  "schema_provider_s": "Données Québec"
+}

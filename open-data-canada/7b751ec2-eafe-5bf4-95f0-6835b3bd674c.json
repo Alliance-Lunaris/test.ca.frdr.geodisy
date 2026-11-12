@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-148.05, -47.85, 88.95, 30.15)",
+  "dcat_keyword_sm": [
+    "agclimat",
+    "Agriculture",
+    "PDI",
+    "Terre agricole",
+    "Cultures",
+    "Précipitation",
+    "agclimate",
+    "Agriculture",
+    "Crops",
+    "Température",
+    "PDI",
+    "Precipitation",
+    "PHDI",
+    "Temperature",
+    "Farmlands",
+    "PHDI"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indice de sécheresse hydrologique de Palmer"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The term \"Palmer Drought Index\" has been used collectively to represent multiple indices.  This index is simply a water balance model which analyzes precipitation and temperature, and used as a tool to measure meteorological and hydrological drought across space and time. All versions of the index uses the Versatile Soil Moisture Budget to model the movement of water within the system, and a daily Priestly-Taylor model to estimate evapotranspiration. The Palmer Drought Index (PDI) uses monthly temperature and precipitation data to calculate a simple soil water balance. The index is a relative measure that typically ranges from -4 (extremely dry) to +4 (extremely wet) and represents how soil moisture availability differs from that expected for a given place and time of year. The PDI includes a \"memory\" component that considers past conditions and persistence of soil moisture surplus or deficit.  \n  \n  The Palmer Hydrological Drought Index (PHDI) is a specific version of the PDI that accounts for longer-term drought that reduces surface and groundwater supply.",
+    "Le terme « indice de sévérité de sécheresse de Palmer » a été utilisé pour représenter un ensemble d’indices. L’indice de sévérité de sécheresse de Palmer est simplement un modèle de bilan hydrique qui analyse les précipitations et la température et qui sert d’outil pour mesurer les sécheresses météorologiques et hydrologiques dans l’espace et dans le temps. Toutes les versions de l’indice utilisent le modèle adaptatif du bilan hydrique des sols pour modéliser le mouvement de l’eau dans le système, et un modèle quotidien Priestley-Taylor pour estimer l’évapotranspiration. L’indice de sévérité de sécheresse de Palmer utilise des données mensuelles sur la température et les précipitations pour calculer un bilan hydrique simple du sol. L’indice est une mesure relative qui varie habituellement de -4 (extrêmement sec) à +4 (extrêmement humide) et représente comment la disponibilité de l’humidité du sol diffère de celle prévue pour un endroit et une période de l’année donnés. L’indice de sévérité de sécheresse de Palmer comprend une composante « mémoire » qui tient compte des conditions passées et de la persistance du surplus ou du déficit d’humidité du sol.  \n  \n  L’indice de sécheresse hydrologique de Palmer est une autre version de l’indice de sévérité de sécheresse de Palmer qui tient compte de la sécheresse à long terme qui réduit l’approvisionnement en eau de surface et en eau souterraine."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/35b4153e-593f-47aa-91c0-c2f706382079"
+  ],
+  "dct_issued_s": "2017-05-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/35b4153e-593f-47aa-91c0-c2f706382079\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Palmer Hydrological Drought Index",
+  "gbl_mdModified_dt": "2025-07-21T21:52:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7b751ec2-eafe-5bf4-95f0-6835b3bd674c",
+  "locn_geometry": "ENVELOPE(-148.05, -47.85, 88.95, 30.15)",
+  "schema_provider_s": "Open Data Canada"
+}

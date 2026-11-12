@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.1167, -88.7415, 60.1159, 48.9248)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "veterinary"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données relatives aux enquêtes sur les maladies"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "Table containing information relevant to animal disease investigations in Manitoba from 2012 to present.  \n  \n  This table contains information relevant to animal disease investigations in Manitoba from 2012 to present, conducted by the Chief Veterinary Office (CVO). Information includes year, number of sites, number of linked sites, animal species, disease types and results. Updated on a weekly basis.  It is important that users are aware of the following caveats when reviewing data presented in the Animal Disease Investigations Dashboard: 1. Each investigation can have one or more cases involved depending on the number of herds or animals exposed.  Not all disease investigations are handled the same due to a partnership approach.  Diseases can be detected via surveillance, ad hoc reporting, or through other programs. 2. Rabies is a separate program. Please see Manitoba's Provincial Rabies Management Program for data related to Rabies Surveillance.3. Certain zoonotic diseases, such as salmonella or influenza, are also captured in more detail through other means.  The total occurrence of a zoonotic disease represented in this dashboard reflects occurrences where risks or exposures were deemed significant enough to warrant further investigation.  4. Historically, One Health Investigations that were predominantly focused on Public Health issues rather than Animal Health concerns were not captured in this system and will be underrepresented here. Fields included ( Alias (Field Name): Field description.) Year (Year): Year of the disease investigation Number of Sites (Number_of_Sites): Number of investigation sites Number of Linked Sites (Number_of_Linked_Sites): Number of sites linked to investigation sites Species/Class (Species__Class): Group of animal species Disease Type (Disease_Type): The type of disease that is being investigated Result (Result): The outcome (positive/negative) for the corresponding animal disease investigation",
+    "Tableau contenant des informations pertinentes pour les enquêtes sur les maladies animales au Manitoba de 2012 à aujourd'hui.  \n  \n  Ce tableau contient des informations pertinentes aux enquêtes sur les maladies animales au Manitoba de 2012 à aujourd'hui, menées par le Bureau vétérinaire en chef (CVO). Les informations comprennent l'année, le nombre de sites, le nombre de sites liés, les espèces animales, les types de maladies et les résultats. Mis à jour sur une base hebdomadaire. Il est important que les utilisateurs soient conscients des mises en garde suivantes lorsqu'ils examinent les données présentées dans le Tableau de bord des enquêtes sur les maladies animales : 1. Chaque enquête peut porter sur un ou plusieurs cas en fonction du nombre de troupeaux ou d'animaux exposés. Les enquêtes sur les maladies ne sont pas toutes traitées de la même manière en raison d'une approche de partenariat. Les maladies peuvent être détectées par le biais de la surveillance, de rapports ponctuels ou d'autres programmes. 2. La rage est un programme distinct. Veuillez consulter le Programme provincial de gestion de la rage du Manitoba pour les données relatives à la surveillance de la rabie.3. Certaines zoonoses, telles que la salmonelle ou la grippe, sont également capturées de manière plus détaillée par d'autres moyens. La fréquence totale d'une zoonose représentée dans ce tableau de bord reflète les cas où les risques ou les expositions ont été jugés suffisamment importants pour justifier une enquête plus approfondie. 4. Par le passé, les enquêtes One Health, qui étaient principalement axées sur les problèmes de santé publique plutôt que sur les problèmes de santé animale, n'étaient pas prises en compte dans ce système et seront sous-représentées ici. Champs inclus (Alias (nom du champ) : description du champ.) Année (Année) : Année de l'enquête sur la maladie Nombre de sites (Number_of_sites) : Nombre de sites d'investigation Nombre de sites liés (Number_of_Linked_Sites) : Nombre de sites liés aux sites d'investigation Espèce/Classe (Espèce__Classe) : Groupe d'espèces animales Type de maladie (Disease_Type) : Type de maladie étudiée Résultat (Résultat) : Résultat (positif/négatif) pour la maladie animale correspondante enquête  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/794a2939-17b2-a84b-4e46-fb34c17de9ef"
+  ],
+  "dct_issued_s": "2021-03-10",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/794a2939-17b2-a84b-4e46-fb34c17de9ef\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Disease Investigations data",
+  "gbl_mdModified_dt": "2025-03-05T13:10:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "41d53354-10ed-5dda-86ab-e03fec94163d",
+  "locn_geometry": "ENVELOPE(-102.1167, -88.7415, 60.1159, 48.9248)",
+  "schema_provider_s": "Open Data Canada"
+}

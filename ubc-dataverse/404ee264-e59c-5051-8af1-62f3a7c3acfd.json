@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-118.3761547, -118.2748276, 49.0504417, 49.0)",
+  "dcat_keyword_sm": [
+    "Rangeland management",
+    "SLR",
+    "LiDAR",
+    "LiDAR Metrics",
+    "Random Forest",
+    "Predictive model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Eaton, James (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Livestock forage availability is an important factor when allocating land for grazing animals. Due to the variation in British Columbia’s topography and plant communities, rangeland management faces unique challenges with natural resource operations and rural development. The goal of this study was to create a predictive model of forage availability using light detection and ranging (LiDAR) data from the Open LiDAR Data Portal and biometric ground truthing data from the Vegetation Resource Index. LiDAR point cloud was filtered to < 2m returns to capture understory vegetation prior to modeling. The predicative model created from single linear regression using the lidar metric pzabovezmean produced an insignificant result (R2 0.11, p-value 0.08). Random forest model with the inclusion of topographic variables derived from digital elevation model could not produce a better result than the single linear regression (R2 0.01, p-value 0.76). Possible sources of errors in the model and data acquisition are explored to justify the insignificant results. Recommendations are made for increasing understory point density using alternative LiDAR acquisition methods and employing vertical stratum sampling for understory ground truthing data. Height entropy of returns (Zentropy) metric shows potential in estimation of forage biomass but further research is recommended to validate this hypothesis."
+  ],
+  "dct_identifier_sm": [
+    "318707_73894_115983",
+    "https://doi.org/10.5683/SP3/ULEWN6"
+  ],
+  "dct_issued_s": "2022-04-05",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ULEWN6\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Predicting Forage Availability from Open Source LiDAR Data",
+  "gbl_mdModified_dt": "2025-04-18T02:01:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "404ee264-e59c-5051-8af1-62f3a7c3acfd",
+  "locn_geometry": "ENVELOPE(-118.3761547, -118.2748276, 49.0504417, 49.0)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

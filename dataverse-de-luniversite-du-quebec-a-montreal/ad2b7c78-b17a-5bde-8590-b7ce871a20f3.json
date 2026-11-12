@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.66, -70.24, 44.99, 46.76)",
+  "dcat_keyword_sm": [
+    "HydroBudget model",
+    "Hydrogeology",
+    "Groundwater. Hydrogeology",
+    "Hydrogéologie",
+    "Recharge nappe",
+    "R (Langage de programmation)",
+    "Groundwater recharge",
+    "Eau souterraine--Alimentation",
+    "Recharge des aquifères souterrains"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dubois, Emmanuel (UQAM | Université du Québec à Montréal, EPFL, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-4896-6368",
+    "Larocque, Marie (UQAM | Université du Québec à Montréal, UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9906-3535",
+    "Gagné, Sylvain (UQAM | Université du Québec à Montréal, Université Laval)."
+  ],
+  "dct_description_sm": [
+    "Authors contributions: \n\nConceptualization and methodology: Emmanuel Dubois, Marie Larocque, Sylvain Gagné ; Software, visualization, and data curation: Emmanuel Dubois; Writing (original draft and review & editing): Emmanuel Dubois and Marie Larocque; Funding acquisition and Supervision: Marie Larocque \n\nThe meteorological data (daily total precipitation and daily min and max temperature) used as input to the GWR simulation and presented in the dataset in the post-processed form of VI and average monthly temperature were provided by the Quebec Ministry of the Environment (MELCC). They are not under the CC0 - \"Public Domain Dedication\" licence and are provided for reproduction purposes only. Please refer to the access information section of the READ_ME.txt file for more detail.",
+    "This database contains the simulation of potential groundwater recharge (GWR) with a 500 m x 500 m resolution and a monthly time step over southern Quebec for the 1961-2017 period. These data were simulated using the HydroBudget model (HB; Dubois et al., 2021a, b) and are presented in Dubois et al. (2021c). The simulation was performed at UQAM by the team of Pr Marie Larocque’s research Chair on Water and land conservation (Chaire Eau et conservation du territoire), as part of a project funded by the Quebec Ministry of the Environment (Ministère de l’Environnement et de la Lutte contre les changements climatiques - MELCC).\n\nThe study area is located in the Province of Quebec (humid and cold climate; Canada), between the St. Lawrence River and the Canada–USA border and between the Quebec–Ontario border and Quebec City (35 800 km2). The study area is divided into 140 656 cells of 500 m x 500 m.\n\nThe simulation results are sorted in files by year that contains for each grid cell the monthly values of simulated vertical inflow (VI; sum of observed rainfall and simulated snowmelt – mm), average temperature (°C), simulated runoff (runoff + excess runoff – mm), simulated actual evapotranspiration (mm), and simulated potential GWR (mm)."
+  ],
+  "dct_identifier_sm": [
+    "271375",
+    "https://doi.org/10.5683/SP3/TFNPQF"
+  ],
+  "dct_issued_s": "2021-12-14",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/TFNPQF\"}",
+  "dct_rights_sm": [
+    "This dataset is made available under a Creative Commons CC0 license with the following additional/modified terms and conditions:"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "1961-2017 monthly potential groundwater recharge in southern Quebec database",
+  "gbl_mdModified_dt": "2022-02-07T19:04:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ad2b7c78-b17a-5bde-8590-b7ce871a20f3",
+  "locn_geometry": "ENVELOPE(-74.66, -70.24, 44.99, 46.76)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

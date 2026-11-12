@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Geotechnical reports are indexed within a database maintained by HPW-TEB Geotechnical Unit. Meta data associated to each geotechnical report are captured within this indexing table, including report reference number, title, author, highway and km start and end. The table has been modified to include columns that aid in georeferencing geotechnical reports. Added columns include route ID, Latitude, and Longitude. \n\nTransportation Engineering Branch is continually improving its geographical information systems with a major focus on creating linear referencing routes within ArcGIS. Georeferencing geotechnical reports will utilize the linear referencing routes in creating points and line shape files by referencing the highway number and km points or ranges as defined within the indexing table. \n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps). Discover more digital map data and interactive maps from Yukon’s digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/26491a44-92b2-4ae7-bca8-4b7e296bce73"
+  ],
+  "dct_issued_s": "2026-03-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/26491a44-92b2-4ae7-bca8-4b7e296bce73\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Geotechnical report line",
+  "gbl_mdModified_dt": "2026-10-07T15:41:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9eb28389-4272-56c5-b03b-c250a7a222ca",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

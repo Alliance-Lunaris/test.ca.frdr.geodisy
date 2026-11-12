@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-134.3852, -122.7602, 54.625, 48.025)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal sigma-t climatology of the Northeast Pacific Ocean was computed from historical observations including all available conductivity-temperature-depth (CTD), bottle, expendable bathy-thermograph (XBT), and Argo data in NOAA (http://www.argo.ucsd.edu/), Marine Environmental Data Service (MEDS), and Institute of Ocean Sciences archives over 1980 to 2010 period.\n\nMethods:\nCalculations, including smooth and interpolation, were carried out in sixty-five subregions and up to fifty-two vertical levels from surface to 5000m. Seasonal averages were computed as the median of yearly seasonal values. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March. The data available here contain raster layers of seasonal sigma-t climatology for the Canadian Pacific Exclusive Economic Zone (EEZ), a subset of seasonal climatology of the Northeast Pacific Ocean, in high spatial resolution of 1/300 degree.\n\nReferences:\nForeman, M. G. G., W. R. Crawford, J. Y. Cherniawsky, and J. Galbraith (2008). Dynamic ocean topography for the northeast Pacific and its continental margins, Geophys. Res. Lett., 35, L22606, doi: 10.1029/2008GL035152\n\nData Sources:\nNOAA, MEDS and IOS observational data\n\nUncertainties:\nUncertainties are introduced when quality controlled observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d958ff1e-9fdc-4aea-a459-b69e5a164578"
+  ],
+  "dct_issued_s": "2021-01-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d958ff1e-9fdc-4aea-a459-b69e5a164578\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seasonal sigma-t climatology of the Canadian Pacific Exclusive Economic Zone (1980-2010)",
+  "gbl_mdModified_dt": "2026-03-24T08:14:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f55f2946-4fe0-5556-9db4-f0b7f4350fa5",
+  "locn_geometry": "ENVELOPE(-134.3852, -122.7602, 54.625, 48.025)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

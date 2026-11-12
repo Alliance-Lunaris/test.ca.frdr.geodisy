@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.95859122019951, -122.87866364993373, 49.237768027950885, 49.17714492599746)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "eng",
+    "park amenities map",
+    "public",
+    "pam"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "New Westminster Open Data."
+  ],
+  "dct_description_sm": [
+    "<div><b>Short Name</b></div><div><ul><li>Description: Abbreviated code representing the specific greenway section.</li><li>Notes: Null or missing values indicate the segment is not part of the official Greenway network.</li></ul></div><div><br /></div><div><b>Name</b></div><div><ul><li>Description: Full descriptive name of the greenway segment.</li><li>Notes: Helps identify and distinguish specific greenway routes.</li></ul></div><div><br /></div><div><b>Status</b></div><div><ul><li>Description: Indicates the development stage of the segment.</li><li>Values:</li><li>    Existing – Segment is constructed and currently in use.</li><li>    Planned – Segment is proposed and planned for future construction.</li></ul></div><div><br /></div><div><b>Length (m)</b></div><div><ul><li>Description: Length of the segment in metres.</li><li>Data Type: Numeric (double or integer, depending on precision).</li><li>Notes: Useful for measuring total network coverage.</li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "06bed72daed84564a003a004d9d06f1e",
+    "https://www.arcgis.com/home/item.html?id=06bed72daed84564a003a004d9d06f1e"
+  ],
+  "dct_issued_s": "2023-02-01",
+  "dct_publisher_sm": [
+    "New Westminster Open Data"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.newwestcity.ca/datasets/newwestcity::greenways\"}",
+  "dct_rights_sm": [
+    "The City of New Westminster publishes open data under the terms of the Open Government Licence - City of New Westminster. You are encouraged to use the Information that is available under this licence with only a few conditions."
+  ],
+  "dct_title_s": "Greenways",
+  "gbl_mdModified_dt": "2025-06-18T23:02:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1e670f6e-4948-50e3-8816-e7f83c8aa703",
+  "locn_geometry": "ENVELOPE(-122.95859122019951, -122.87866364993373, 49.237768027950885, 49.17714492599746)",
+  "schema_provider_s": "New Westminster Open Data"
+}

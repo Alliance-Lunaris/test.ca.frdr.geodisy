@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "List of collisions that have occurred in Montreal since 2012.\n\nThis set shows collisions involving at least one motor vehicle traveling on the network and which were the subject of a police report. It includes the descriptive, contextual, and location of events, including the severity expressed in deaths, serious injuries, minor injuries, and property damage only.\n\n### IMPORTANT:\n\nThis set is a subset of the one that was put online by the Société de l'assurance automobile du Québec (SAAQ) on [Data Quebec] (https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident) before December 2023. It contains all the collisions identified on the territory of Montreal, including those with property damage only (DMS) of less than $2,000 recorded by the Service de Police de la Ville de Montréal (SPVM), with a geolocation compiled by the City for analysis purposes. The data recorded for the whole city only shows collisions that occurred on the road network under the trust of the agglomeration of Montreal. Collisions that occurred on the highway network are excluded from this dataset.\n\nSince the revision of the data by the SAAQ in December 2023, the contents of the 2 platforms differ for the period 2012-2021. \n\nFor all collisions subsequent to 2021, it is possible to consult the data put online by the Société de l'assurance automobile du Québec (SAAQ) on [Data Quebec] (https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Road collisions",
+  "gbl_mdModified_dt": "2026-10-07T17:38:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7bedaddd-2ae8-5363-aab8-bef60629394a",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

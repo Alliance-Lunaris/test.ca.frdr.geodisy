@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.6671, -65.6532, 44.65652, 44.6509)",
+  "dcat_keyword_sm": [
+    "coast",
+    "fishing",
+    "etat-de-la-mer",
+    "wave-period",
+    "aquaculture",
+    "oceans",
+    "cmar",
+    "annapolis-county",
+    "nova-scotia",
+    "wave",
+    "essential-ocean-variables",
+    "environment",
+    "seastate",
+    "climate-change",
+    "wave-data",
+    "downloadable-data",
+    "adcp",
+    "oceanography",
+    "coastal-monitoring-program",
+    "environmental-monitoring",
+    "fisheries",
+    "wave-height",
+    "wave-direction",
+    "ecosystem",
+    "ocean"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur les vagues du comté d'Annapolis"
+  ],
+  "dct_creator_sm": [
+    "Centre for Marine Applied Research (CMAR)."
+  ],
+  "dct_description_sm": [
+    "The Centre for Marine Applied Research (CMAR) provides high resolution data on ocean variables from around the coast of Nova Scotia through their Coastal Monitoring Program. The program was initiated by the Nova Scotia Department of Fisheries and Aquaculture (NSDFA) in 2015. In 2019, CMAR assumed responsibility for the program and expanded its scope and mandate. Through the Wave Branch of the program, CMAR processes and publishes Wave data collected by NSDFA. The data are measured by upward facing Acoustic Doppler Current Profilers (ADCPs) that are mounted on the sea floor for 1 - 3 months. An ADCP uses sound to measure wave variables including height, period, and direction. NSDFA uses several ADCP instrument models, including the Sentinel V20, Sentinel V50, Sentinel V100, and Workhorse Sentinel 600kHz. The data is processed using Velocity and WavesMon4 Software, and then compiled and formatted for publication with CMAR’s waves R package. An automated “Gross Range” test was applied to the data to identify statistical outliers. Each data point was assigned a flag value of “Pass”, “Suspect/Of Interest”, or “Fail”. Observations flagged as “Pass” passed the test (i.e., were not considered outliers) and can be included in analyses. Observations flagged as “Fail” were considered outliers and should be excluded from most analyses. Observations flagged as “Suspect/Of Interest” were either poor quality or highlight an unusual event, and should be carefully reviewed before being included in analyses. Flags should be used as a guide only, and data users are responsible for evaluating the quality of the data prior to use in any analysis.  The ''Nova Scotia Current and Wave Data: Deployment Information'' dataset on this Portal shows all locations with available Wave data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Fishing-and-Aquaculture/Nova-Scotia-Current-and-Wave-Data-Deployment-Infor/uban-q9i2/about_data). Summary reports for each county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/). Data collection and retrieval are ongoing. The datasets and reports may be revised pending ongoing data collection and analyses.  If you have accessed any Coastal Monitoring Program data, CMAR would appreciate your anonymous feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform. Please acknowledge the Centre for Marine Applied Research in any published material that uses this data. Contact info@cmar.ca for more information.",
+    "Le Center for Marine Applied Research (CMAR) fournit des données à haute résolution sur les variables océaniques de la côte de la Nouvelle-Écosse grâce à leur programme de surveillance côtière.Le programme a été lancé par le Département de la pêche et de l'aquaculture de la Nouvelle-Écosse (NSDFA) en 2015. En 2019, CMAR a assumé la responsabilité du programme et élargi sa portée et son mandat.Grâce à la branche des vagues du programme, CMAR traite et publie des données d'onde collectées par NSDFA.Les données sont mesurées par des profilers acoustiques à courant doppler acoustiques (ADCP) qui sont montés sur le fond marin pendant 1 à 3 mois.Un ADCP utilise le son pour mesurer les variables d'onde, y compris la hauteur, la période et la direction.NSDFA utilise plusieurs modèles d'instruments ADCP, notamment Sentinel V20, Sentinel V50, Sentinel V100 et Workhorse Sentinel 600KHz.Les données sont traitées à l'aide du logiciel Velocity et WavesMon4, puis compilé et formaté pour publication avec le package Waves R de CMAR.Un test automatisé de «plage brute» a été appliqué aux données pour identifier les valeurs aberrantes statistiques.Chaque point de données a reçu une valeur de drapeau de «passer», «suspect / d'intérêt» ou «échouer».Les observations signalées en tant que «pass» ont réussi le test (c'est-à-dire, n'étaient pas considérées comme des valeurs aberrantes) et peuvent être incluses dans les analyses.Les observations signalées comme «échec» ont été considérées comme des valeurs aberrantes et devraient être exclues de la plupart des analyses.Les observations signalées comme «suspect / d'intérêt» étaient soit une mauvaise qualité, soit mettez en évidence un événement inhabituel, et devraient être soigneusement examinés avant d'être inclus dans les analyses.Les drapeaux doivent être utilisés uniquement comme guide et les utilisateurs de données sont responsables de l'évaluation de la qualité des données avant l'utilisation dans toute analyse.L'ensemble de données ''Nova Scotia Current and Wave Data: Deployment Information'' sur ce portail montre tous les emplacements avec les données des vagues disponibles collectées via le programme de surveillance côtière de CMAR (https://data.novascotia.ca/fishing-and-aquaculture/nova-scotia-current-and-wave-deployment-for/uban-q9i2/about_data).Des rapports de résumé pour chaque comté sont disponibles sur le site Web de CMAR (https://cmar.ca/coastal-monitoring-program/).La collecte et la récupération des données sont en cours.Les ensembles de données et les rapports peuvent être révisés en attendant la collecte et les analyses de données en cours.Si vous avez accédé aux données du programme de surveillance côtière, CMAR apprécierait vos commentaires anonymes: https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/Viewform.Veuillez reconnaître le Center for Marine Applied Research dans tout matériel publié qui utilise ces données.Contactez info@cmar.ca pour plus d'informations."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/5c9f0a8c-ac93-4b71-9b66-b57efd0476c2"
+  ],
+  "dct_issued_s": "2021-09-22",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/5c9f0a8c-ac93-4b71-9b66-b57efd0476c2\"}",
+  "dct_rights_sm": [
+    "OGL-NS-2.0"
+  ],
+  "dct_title_s": "Annapolis County Wave Data",
+  "gbl_mdModified_dt": "2026-09-04T17:28:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2ceca61f-ccac-5a8e-b02a-05ab471bd684",
+  "locn_geometry": "ENVELOPE(-65.6671, -65.6532, 44.65652, 44.6509)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

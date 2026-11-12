@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Arctic Ocean",
+    "Hudson Bay",
+    "Satellite imagery",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "The seasonal timing of summer sea ice opening (sea ice contraction falls below 80%) and retreat (sea ice concentration falls below 15%), as well as fall sea ice advance (sea ice concentration rises above 15%) and closing (sea ice concentration rises above 80%) is recorded annually, as are the annual sea ice minimum, day of minimum, and the length of the open-water period (sea ice concentration continuously below 80%) and ice-free period (sea ice concentration continuously below 15%). Data inputs are daily sea ice concentration datasets from National Snow and Ice Data Center: Bootstrap v3 (https://nsidc.org/data/nsidc-0079/versions/3) and NASA-Team v2 (https://nsidc.org/data/nsidc-0051/versions/2).  All data are stored in NetCDF4 files on the polar stereographic north grid with 25-km horizontal resolution."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c53f9b8-3c77-45d3-882e-acc3571c7e30"
+  ],
+  "dct_issued_s": "2023-07-07",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9c53f9b8-3c77-45d3-882e-acc3571c7e30\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Cryosphere"
+  ],
+  "dct_title_s": "Arctic Sea Ice Phenology from Passive Microwave Satellite Retrievals",
+  "gbl_mdModified_dt": "2026-02-24T00:04:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5ac5f898-fad5-558e-bfd7-54102caaa5bb",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Holocene",
+    "stochastic",
+    "risk",
+    "Pinus banksiana",
+    "Picea mariana",
+    "spatial"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Colin J., Daniel (University of Toronto).",
+    "Michael T., Ter-Mikaelian (Forest Research Institute).",
+    "B. Mike, Wotton (University of Toronto).",
+    "Bronwyn, Rayfield (McGill University).",
+    "Marie-Josée, Fortin (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "In an effort to ensure the sustainability of their forests, boreal forest managers often use forest planning models to make future projections of timber supply and other key services, such as habitat for wildlife. Projecting the fate of these services has proven to be challenging, however, as major uncertainties exist regarding the principal drivers of boreal ecosystem dynamics, including the future spatial and temporal distribution of wildfire and timber harvesting. Existing forest planning models are not well suited to dealing with this uncertainty because they produce deterministic projections based on central tendencies of these drivers.\r\n\r\nHere we present a new approach for incorporating uncertainty into forest management planning, which we demonstrate using two landscapes in the Canadian boreal forest. Our approach takes the assumptions contained within the latest forest management plans for each of these landscapes, including parameterizations of their deterministic forest planning models, and converts these assumptions into equivalent parameterizations of a stochastic, spatially-explicit state-and-transition simulation model (STSM). We then use Monte Carlo simulations with the STSM to “stress-test” the forest management plan with respect to a range of possible future uncertainties, including uncertainties in future levels and patterns of wildfire and timber harvest, along with the possible changes in wildfire that might result from future climate change.\r\n\r\nOur analysis demonstrates the importance of incorporating stochastic variability into projections of future ecosystem condition. The STSM projections that acknowledged variability in wildfire and timber harvest differed from the deterministic forest planning model projections that were based solely on mean values. Our analysis also suggests that there is an increased risk of shortfalls in timber harvest, for both boreal landscapes, associated with future projections for changes in wildfire due to climate change, and that management strategies aimed at reducing the future level of timber harvest offer an opportunity to mitigate these risks. We believe our approach provides a new risk-based framework for incorporating uncertainty into forest management, including the effects of climate change."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.0rb1b",
+    "https://doi.org/10.5061/dryad.0rb1b"
+  ],
+  "dct_issued_s": "2018-06-21",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.0rb1b\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_title_s": "Data from: Incorporating uncertainty into forest management planning: timber harvest, wildfire and climate change in the boreal forest",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9e902d77-b332-52e8-924a-8376f14f7d41",
+  "schema_provider_s": "Dryad"
+}

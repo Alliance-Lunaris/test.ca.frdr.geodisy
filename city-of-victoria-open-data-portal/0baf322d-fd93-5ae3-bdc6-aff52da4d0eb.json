@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3946, -123.3224, 48.4504, 48.4003)",
+  "dcat_keyword_sm": [
+    "address",
+    "land",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<p>Address points for every legal address in the City of Victoria, located at parcel centroids.  Address data is drawn from our Tempest Land Records database and merged with the centroid points from our GIS parcels based on a matching ID to add a spatial location.  Data are copied to the Open Data Portal daily.</p><p>The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description.  We update our data through scripts which does not trigger the &quot;last updated&quot; date to change.</p><p></p><p>Note: Attributes represent each field in a dataset, and some fields will contain information such as ID numbers.  As a result some visualizations on the tabs on our Open Data page will not be relevant.</p>"
+  ],
+  "dct_identifier_sm": [
+    "d638de50c2bb46e3a4c15fefe3756e78",
+    "https://www.arcgis.com/home/item.html?id=d638de50c2bb46e3a4c15fefe3756e78"
+  ],
+  "dct_issued_s": "2018-12-27",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::address-points\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Address Points",
+  "gbl_mdModified_dt": "2024-11-04T17:11:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0baf322d-fd93-5ae3-bdc6-aff52da4d0eb",
+  "locn_geometry": "ENVELOPE(-123.3946, -123.3224, 48.4504, 48.4003)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

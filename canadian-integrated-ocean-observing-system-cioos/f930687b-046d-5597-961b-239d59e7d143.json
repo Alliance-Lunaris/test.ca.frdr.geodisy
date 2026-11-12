@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.309326171875, -127.803955078125, 51.97472977494965, 51.41633810640042)",
+  "dcat_keyword_sm": [
+    "calvert",
+    "other",
+    "tree",
+    "height",
+    "oceans",
+    "canopy",
+    "air",
+    "forest",
+    "lidar",
+    "watersheds",
+    "model",
+    "terrestrial",
+    "downloadable-data",
+    "autre",
+    "hecate",
+    "raster",
+    "geospatial",
+    "crown",
+    "chm"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle de hauteur de canopée dérivé du lidar - Calvert Island - Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "Frazer, Gordon W. (Hakai Institute, University of Northern British Columbia).",
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Lidar Derived Canopy Height Model for Calvert Island British Columbia Canada.\n\nCanopy Height Model has been produced by calculating first and last return LIDAR dataset (see links below for more information on the LIDAR acquisition metadata). \nThe CHM was calculated using the bare earth model (last return) and subtracting the top of canopy (first return).\n\nCalculated maximum laser return based on a 2 x 2 meter cell.\n\nLidar acquisition methods fully detailed in LiDAR data package - link provided below.\n\nFor a full metadata report on Lidar acquisition please contact data@hakai.org",
+    "Modèle de hauteur de canopée dérivé du lidar pour l'île Calvert, Colombie-Britannique, Canada.\n\nLe modèle de hauteur de la canopée a été produit en calculant le premier et le dernier jeu de données LIDAR de retour (voir les liens ci-dessous pour plus d'informations sur les métadonnées d'acquisition LIDAR). \nLe CHM a été calculé à l'aide du modèle de la terre nue (dernier retour) et en soustrayant le sommet de la canopée (premier retour).\n\nRendement laser maximal calculé sur la base d'une cellule de 2 x 2 mètres.\n\nMéthodes d'acquisition Lidar détaillées dans le paquet de données LiDAR - lien fourni ci-dessous.\n\nPour obtenir un rapport complet sur les métadonnées relatives à l'acquisition Lidar, veuillez contacter data@hakai.org"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a7a3cb32-66ff-4dcb-b05a-2c71511bd115"
+  ],
+  "dct_issued_s": "2016-09-13",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a7a3cb32-66ff-4dcb-b05a-2c71511bd115\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-09-22T21:22:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f930687b-046d-5597-961b-239d59e7d143",
+  "locn_geometry": "ENVELOPE(-128.309326171875, -127.803955078125, 51.97472977494965, 51.41633810640042)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

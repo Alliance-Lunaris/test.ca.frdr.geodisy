@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.015, -122.015, 59.99, 44.29)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Coastal Ice Ocean Prediction System (CIOPS) provides a 48 hour ocean and ice forecast over different domains (East, West, Salish Sea) four times a day at 1/36° resolution. A pseudo-analysis component is forced at the ocean boundaries by the Regional Ice Ocean Prediction System (RIOPS) forecasts and spectrally nudged to the RIOPS solution in the deep ocean. Fields from the pseudo-analysis are used to initialize the 00Z forecast, whilst the 06, 12 and 18Z forecasts use a restart files saved at hour 6 from the previous forecast. The atmospheric fluxes for both the pseudo-analysis and forecast components are provided by the High Resolution Deterministic Prediction System (HRDPS) blended both spatially and temporally with either the Global Deterministic Prediction System (GDPS) (for CIOPS-East) or an uncoupled component of the Global Deterministic Prediction System (GDPS) at 10km horizontal resolution (for CIOPS-West) for areas not covered by the HRDPS."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/390abee6-4ba0-4d6e-ae79-25753d1c43f3"
+  ],
+  "dct_issued_s": "2023-03-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/390abee6-4ba0-4d6e-ae79-25753d1c43f3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Coastal Ice-Ocean Prediction System for the West Coast of Canada (CIOPS-West)",
+  "gbl_mdModified_dt": "2025-10-15T15:01:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e772dc10-f9dc-5edb-a3a9-4d04e4ed27d0",
+  "locn_geometry": "ENVELOPE(-140.015, -122.015, 59.99, 44.29)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

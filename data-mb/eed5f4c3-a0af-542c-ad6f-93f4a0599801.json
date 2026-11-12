@@ -1,0 +1,80 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.782918, -94.685306, 54.431079, 48.940384)",
+  "dcat_keyword_sm": [
+    "Wampum Provincial Forest",
+    "forêt provinciale d’Agassiz",
+    "Provincial Forests",
+    "forêt provinciale Spruce Woods",
+    "forêt provinciale Moose Creek",
+    "Sandilands Provincial Forest",
+    "Spruce Woods Provincial Forest",
+    "forêt provinciale Northwest Angle",
+    "province du Manitoba",
+    "limites",
+    "Boundaries",
+    "forêt provinciale Belair",
+    "foresterie",
+    "forêt provinciale Cat Hills",
+    "Canada",
+    "forêt provinciale Cormorant",
+    "forêt provinciale Duck Mountain",
+    "Brightstone Sand Hills Provincial Forest",
+    "forêts provinciales",
+    "Version 6",
+    "Whiteshell Provincial Forest",
+    "forêt provinciale Brightstone Sand Hills",
+    "gouvernement manitobain",
+    "forêt provinciale Porcupine",
+    "Cormorant Provincial Forest",
+    "Porcupine Provincial Forest",
+    "Cat Hills Provincial Forest",
+    "Forestry",
+    "Swan-Pelican Provincial Forest",
+    "Province of Manitoba",
+    "forêt provinciale du Whiteshell",
+    "forêt provinciale Wampum",
+    "terre",
+    "forêt provinciale Turtle Mountain",
+    "version 6",
+    "Northwest Angle Provincial Forest",
+    "forêt provinciale Swan-Pelican",
+    "Land",
+    "Moose Creek Provincial Forest",
+    "forêt provinciale Sandilands",
+    "Belair Provincial Forest",
+    "Turtle Mountain Provincial Forest",
+    "Manitoba Government",
+    "Agassiz Provincial Forest",
+    "Manitoba",
+    "Duck Mountain",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p style='margin:0 0 14 0;'><span>Manitoba's Provincial Forest </span><span>B</span><span>oundaries (</span><span>V</span><span>ersion </span><span>6</span><span>). </span></p><p style='margin:0 0 14 0;'><span><span>Manitoba's provincial forests reserve certain areas in the province for perpetual growth of timber, preserve the forest cover thereon and provide for a reasonable use of all the resources that the forest lands contain. All Crown lands within a provincial forest are withdrawn from disposition, sale, settlement or occupancy, except under authority of the </span><a href='https://web2.gov.mb.ca:443/laws/statutes/ccsm/_pdf.php?cap=f150' style='text-decoration:underline;' rel='nofollow ugc'><span>Forest Act</span></a><span>. Before the Province of Manitoba was established, European settlers were promised 160 acres of free land if they lived on it and cleared it for agriculture. As a result, farms began replacing our southern forests. The federal government decided they must retain some forests for building material. In 1885</span></span><span>,</span><span> they established Turtle Mountain, Spruce Woods and Riding Mountain (now a national park) as timber reserves. Duck Mountain and Porcupine Mountain followed in 1906. What started out as federal timber reserves 100 years ago have become our provincial forests of today. Manitoba has 15 provincial forests</span><span>,</span><span> totalling almost 22,000 </span><span>sq. km</span><span>. These forests are among the highest quality timber stands in the province. Today, our provincial forests are much more than reserves for timber. They are also places for wildlife, recreation and research. Control of Manitoba's forests was transferred from the federal to the provincial governments in 1930. Provincial forests are Crown lands owned by the people of Manitoba. The feature class name (BDY_MB_PROV_FOREST_PY) components include: 1. ISO 19115 Topic Category Name (BDY for boundary); 2. Location code (MB for Manitoba); 3. Intuitive or descriptive name (PROV_FOREST); 4. Data/geometry type (PY for polygon); 5. Version number (v</span><span>6</span><span><span>).</span></span></p><p style='margin:0 0 14 0;'><span>Manitoba's provincial forests include Agassiz Provincial Forest, Belair Provincial Forest, Brightstone Sand Hills Provincial Forest, Cat Hills Provincial Forest, Cormorant Provincial Forest, Duck Mountain, Moose Creek Provincial Forest, Northwest Angle Provincial Forest, Porcupine Provincial Forest, Sandilands Provincial Forest, Spruce Woods Provincial Forest, Swan-Pelican Provincial Forest, Turtle Mountain Provincial Forest, Wampum Provincial Forest, and Whiteshell Provincial Forest.</span></p><p style='margin:0 0 14 0;'><span><span>Detailed descriptions of Manitoba’s Provincial Forests are provided in the </span><a href='https://web2.gov.mb.ca:443/laws/regs/current/_pdf-regs.php?reg=226/88%20R' style='text-decoration:underline;' rel='nofollow ugc'><span>Provincial Forest Act Regulations</span></a><span>.</span></span></p>\n\n<p> </p>\n<p>The dataset includes the following fields /<br />Les ensembles de données comprennent les champs suivants</p>\n\n<table style='text-align:left; font-weight:normal; width:100%; border-collapse:collapse;'>\n    <tbody>\n        <tr>\n            <th style='width:20%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>Name / Nom</th>\n            <th style='width:25%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>Alias</th>\n            <th colspan='2' style='width:55%; border:1px solid grey; padding:4px; background-color:lightgrey; text-align:center; font-weight:bolder;'>Description</th> \n        </tr>\n        <tr>\n            <td>PROV_FOREST_ID</td>\n            <td>Provincial Forest ID / No de la forêt provinciale</td>\n            <td style='width:27.5%;'>Provincial Forest identifier</td>\n            <td style='width:27.5%;'>Identificateur de la forêt provinciale</td>\n        </tr>\n        <tr>\n            <td>PROV_FOREST_NAME</td>\n            <td>Provincial Forest Name</td>\n            <td>Provincial Forest name</td>\n            <td>--</td>\n        </tr>\n        <tr>\n            <td>NOM_FORET_PROV</td>\n            <td>Nom de la forêt provinciale</td>\n            <td>--</td>\n            <td>Nom de la forêt provinciale</td>\n        </tr>\n        <tr>\n            <td>ESTABLISHED</td>\n            <td>Year Established / Année d’établissement</td>\n            <td>The year that the provincial forest was established</td>\n            <td>L’année où la forêt provinciale a été établie</td>\n        </tr>\n        <tr>\n            <td>AREA_HA</td>\n            <td>Area / Surface (Hectares)</td>\n            <td>Area in hectares</td>\n            <td>La surface en hectares</td>\n        </tr>\n    </tbody>\n</table>\n\n<p> </p>\n\n<p style='font-weight:bold;'>Forêts provinciales du Manitoba – Version 6</p>\n\n<p style='margin:0 0 14 0;'><span style='font-size:12pt;'>Dans les forêts provinciales du Manitoba, certaines régions de la province sont perpétuellement réservées aux arbres, afin de préserver la couverture fournie par la forêt et de permettre l’utilisation raisonnable de toutes les ressources des forêts. Toutes les terres domaniales situées dans les forêts provinciales ne peuvent être vendues, aliénées, occupées ou faire l’objet d’une disposition par droits successifs, autrement que d’une manière conforme à la </span><a href='https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=f150' style='text-decoration:underline;' rel='nofollow ugc'><span>Loi sur les forêts</span></a><span style='font-size:12pt;'>. Avant la création de la province du Manitoba, les colons européens se faisaient promettre 160 acres de terres gratuitement s’ils y vivaient et les préparaient pour l’agriculture. Par conséquent, les fermes ont commencé à remplacer les forêts du sud. Le gouvernement fédéral a décidé qu’il devait conserver des forêts pour avoir des matériaux de construction. En 1885, il a fait de Turtle Mountain, de Spruce Woods et du Mont-Riding (qui est désormais un parc national) des réserves de bois. Ont ensuite suivi les monts Duck et Porcupine en 1906. Les forêts qui étaient des réserves de bois fédérales il y a 100 ans sont aujourd’hui nos forêts provinciales. Le Manitoba possède actuellement 15 forêts provinciales qui occupent une surface totale de près de 22 000 km</span><span style='font-size:12pt;'>2</span><span style='font-size:12pt;'>. Ces forêts font partie des peuplements forestiers de la meilleure qualité de la province. Aujourd’hui, nos forêts provinciales sont beaucoup plus que de simples réserves de bois. Elles sont l’endroit parfait pour les animaux sauvages, les loisirs et la recherche. Le contrôle des forêts du Manitoba a été transféré du gouvernement fédéral aux gouvernements provinciaux en 1930. Les forêts provinciales sont des terres domaniales détenues par les Manitobains. Les éléments du nom de classification (BDY_MB_PROV_FOREST_PY) comprennent : 1. Nom de la catégorie de sujet ISO 19115 (BDY pour </span><span style='font-style:italic; font-size:12pt;'>boundary </span><span style='font-size:12pt;'>[limite]); 2. Code de l’emplacement (MB pour Manitoba); 3. Nom descriptif ou intuitif (PROV_FOREST); 4. Type ou donnée géométrique (PY pour polygone); 5. Numéro de version (v6).</span></p><p style='margin:0 0 14 0;'><span style='font-size:12pt;'>Les forêts provinciales du Manitoba comprennent la f<span style='background-color:rgb(255, 255, 255);'> </span>orêt provinciale d’Agassiz, la forêt provinciale Belair, la forêt provinciale Brightstone Sand Hills, la forêt provinciale Cat Hills, la forêt provinciale Cormorant, la forêt provinciale Duck Mountain, la forêt provinciale Moose Creek, la forêt provinciale Northwest Angle, la forêt provinciale Porcupine, la forêt provinciale Sandilands, la forêt provinciale Spruce Woods, la forêt provinciale Swan-Pelican, la forêt provinciale Turtle Mountain, la forêt provinciale Wampum et la forêt provinciale du Whiteshell.</span></p><p style='margin:0 0 14 0;'><span style='font-size:12pt;'>Les descriptions détaillées des forêts provinciales du Manitoba figurent dans le Règlement sur la désignation des forêts provinciales en application de la </span><a href='https://web2.gov.mb.ca:443/laws/regs/current/_pdf-regs.php?reg=226/88%20R' style='text-decoration:underline;' target='_blank' rel='nofollow ugc noopener noreferrer'><span style='font-size:12pt;'>Loi sur les forêts</span></a><span style='font-size:12pt;'>.</span></p><p style='margin:0 0 14 0;'><span></span></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "ea3470f98732403184a27823627478bb",
+    "https://www.arcgis.com/home/item.html?id=ea3470f98732403184a27823627478bb"
+  ],
+  "dct_issued_s": "2023-01-17",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-provincial-forests-version-6\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence | Licence relative au site Ouverture MB"
+  ],
+  "dct_title_s": "Manitoba Provincial Forests – Version 6",
+  "gbl_mdModified_dt": "2023-08-03T20:26:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eed5f4c3-a0af-542c-ad6f-93f4a0599801",
+  "locn_geometry": "ENVELOPE(-101.782918, -94.685306, 54.431079, 48.940384)",
+  "schema_provider_s": "Data MB"
+}

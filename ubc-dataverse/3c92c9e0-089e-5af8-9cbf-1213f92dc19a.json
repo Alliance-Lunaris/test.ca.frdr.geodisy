@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-77.6174, -77.378996, 46.013324, 45.937347)",
+  "dcat_keyword_sm": [
+    "remote sensing",
+    "multispectral lidar",
+    "landsat",
+    "petawawa"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yang, Huanyu (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Traditionally, Light Detection and Ranging (LiDAR) was used for forest structure analysis rather than capturing spectral information. A variety of studies were conducted to investigate the spectral characteristics of multispectral LiDAR but relatively few ones have integrated it with Landsat imageries. To compare their recorded reflectance and explore the prediction potential, we evaluated two series of regression modules measuring forest reflected energy with Landsat-derived reflectance and multispectral LiDAR-derived intensity, collected over 85 plots with the same area of 1000 m2 in Petawawa Research Forest, Ontario. The raw datasets were filtered, classified and the invalid plots were removed in the pre-processing step with three spectral bands, Green, NIR, and SWIR. Due to the value range differences of two sensors, limited and whole-area scaling algorithms were applied for subsequent comparisons. Following this, we used a dummy variable and further filtrations considering the reflectance differentiation by softwood and hardwood-dominated plots, and the effect of spatial autocorrelation. The histogram results showed no excessive change from the original datasets for all three spectral bands after scaling, and the limited scaling performed better with slightly higher root mean square errors (RMSE = 0.599 – 0.6815) and lower p-values (p = 0.005649 – 0.04193). A clear separation was demonstrated between softwood and hardwood reflectance capabilities in all three bands, suggesting influences of chlorophyll, spongy mesophyll structure, and water content in three spectral ranges respectively. Compared with hardwood-dominated plots, softwoods showed significantly higher correlation coefficients, especially in the SWIR band (r = 0.82). These results demonstrated a connection between Landsat- and multispectral LiDAR-derived outputs and offered the potential of using one sensor instead of two, suggesting the prospect of time and investment saving for further forest investigation and management."
+  ],
+  "dct_identifier_sm": [
+    "154529_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/KAQ9XD"
+  ],
+  "dct_issued_s": "2021-04-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KAQ9XD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Examining the relationship between Landsat-derived spectral reflectance and multispectral Light Detection and Ranging (LiDAR)-derived intensity in Petawawa Research Forest, Ontario, Canada",
+  "gbl_mdModified_dt": "2021-04-15T22:43:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3c92c9e0-089e-5af8-9cbf-1213f92dc19a",
+  "locn_geometry": "ENVELOPE(-77.6174, -77.378996, 46.013324, 45.937347)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

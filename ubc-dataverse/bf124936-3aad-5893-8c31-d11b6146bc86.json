@@ -1,0 +1,57 @@
+{
+  "dcat_keyword_sm": [
+    "Correlation",
+    "synchrony",
+    "synthesis study",
+    "biotic interactions",
+    "prediction",
+    "time-series data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lertzman-Lepofsky, Gavia (University of Toronto). ORCID: https://orcid.org/0000-0001-6015-347X",
+    "Dolezal, Aleksandra (University of Guelph).",
+    "Waters, Mia (University of British Columbia).",
+    "Fuster-Calvo, Alexandre (Université de Sherbrooke).",
+    "Black, Emily (University of British Columbia).",
+    "Flaman, Stephanie (University of Regina).",
+    "Straus, Samantha (University of British Columbia, University of Wisconsin–Stevens Point).",
+    "Langendorf, Ryan (University of Colorado Boulder).",
+    "Eckert, Isaac (McGill University).",
+    "Fan, Sophia (University of British Columbia).",
+    "Branch, Haley (Yale University, University of British Columbia).",
+    "Chardon, Nathalie (University of British Columbia).",
+    "Collins, Courtney G. G. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 6</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.63xsj3vbc</p>\n<p><b>Storage size:</b> 237267525</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Linking changes in taxon abundance to biotic and abiotic drivers over space and time is critical for understanding biodiversity responses to global change. Furthermore, deciphering temporal trends in relationships among taxa, including correlated abundance changes (e.g. synchrony), can facilitate predictions of future shifts. However, what drive these correlated changes over large scales are complex and understudied, impeding our ability to predict shifts in ecological communities. We use two global datasets containing abundance time-series (BioTIME) and biotic interactions (GloBI) to quantify correlations among yearly changes in the abundance of pairs of geographically proximal taxa (genus pairs). We use a hierarchical linear model and cross-validation to test the overall magnitude, direction, and predictive accuracy of correlated abundance changes among genera at the global scale. We then test how correlated abundance changes are influenced by latitude, biotic interactions, disturbance, and time-series length while accounting for differences among studies and taxonomic categories. We find that abundance changes between genus pairs are, on average, positively correlated over time, suggesting synchrony at the global scale. Furthermore, we find that abundance changes are more positively correlated with longer time-series, with known biotic interactions, and in disturbed habitats. However, the magnitude of these ecological drivers alone are relatively weak, with model predictive accuracy increasing approximately two-fold with the inclusion of study identity and taxonomic category. This suggests that while patterns in abundance correlations are shaped by ecological drivers at the global scale, these drivers have limited utility in forecasting changes in abundances among unknown taxa or in the context of future global change. Our study indicates that including taxonomy and known ecological drivers can improve predictions of biodiversity loss over large spatial and temporal scales, but also that idiosyncrasies of different studies continue to weaken our ability to make global predictions.</p>",
+    "<b>Methods</b><br /><p>This dataset was collected by downloading and curating existing data from BioTIME and GlobI. The BioTime data was filtered by (see Figure 2 of the manuscript) excluding biomass, marine, aquatic surveys, aggregating abundance to genus level per plot. We subset data to include only time series that contain 10+ consecutive overlapping years. For each genus, we calculated the log proportional change in abundance for each time step to remove temporal autocorrelation. We used 'Globi to identify if there are known interactions between each genus pair. </p>"
+  ],
+  "dct_identifier_sm": [
+    "854747_150149",
+    "https://doi.org/10.5683/SP3/FV7PTK"
+  ],
+  "dct_issued_s": "2024-11-14",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FV7PTK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Temporal changes in taxon abundances are positively correlated but poorly predicted at the global scale",
+  "gbl_mdModified_dt": "2024-11-14T14:16:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bf124936-3aad-5893-8c31-d11b6146bc86",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

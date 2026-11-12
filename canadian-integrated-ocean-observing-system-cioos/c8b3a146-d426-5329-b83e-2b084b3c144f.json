@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.1603240966797, -128.08685302734375, 51.66914840783798, 51.63805006307942)",
+  "dcat_keyword_sm": [
+    "calvert",
+    "other",
+    "oceans",
+    "path",
+    "west-beach",
+    "hakai",
+    "downloadable-data",
+    "road",
+    "north-beach",
+    "autre",
+    "route",
+    "geospatial",
+    "trail",
+    "public",
+    "track"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sentiers - Calvert Island - Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "Holmes, Keith (Hakai Institute).",
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "Sentiers publics pour NW Calvert Island. \n\nCette couche spatiale montre les sentiers informels et les sentiers pédestres observés autour de la station de terrain Calvert Island de l'Institut Hakai. La station de terrain est située dans la réserve Hakai Lúxvbálís, où l'utilisation et le développement des sentiers sont gérés en vertu d'un accord entre la nation Heiltsuk et la province de la Colombie-Britannique. Pour aider les visiteurs de l'Institut Hakai à s'orienter et à assurer leur sécurité, cette carte montre les sentiers et les sentiers « tels qu'observés » sur le terrain, mais ce ne sont pas nécessairement des sentiers désignés et approuvés par Conservancy. Veuillez consulter le site Web de Hakai Lúxvbálís Conservancy et les règlements pour obtenir des informations sur les sentiers désignés et l'utilisation appropriée de la zone. Les sentiers et les sentiers ne sont ni entretenus ni réglementés par l'Institut Hakai et sont utilisés à vos risques et périls. Les emplacements des sentiers et des sentiers ont été collectés à l'aide d'appareils GPS et modifiés manuellement dans ArcGIS afin de supprimer ou de corriger les erreurs éventuelles. Les appareils GPS comprenaient des iPads et des GPS Garmin. La haute précision n'est pas garantie, mais le positionnement général a été confirmé sur le terrain. Des modifications ont été apportées par Hakai Geospatial Technology pour supprimer des sections de plage et toutes les erreurs.\n\nLes sentiers sont représentés par une ligne basée sur les lignes de suivi GPS recueillies sur le terrain. Des erreurs peuvent survenir, en particulier dans les zones de couvert forestier épais.\nAttributs :\nFID : ID unique d'ARC GIS\nFORME : Forme géométrique - Polyligne (entité linéaire)\nID de l'objet : numéro SIG ARC généré pour un identifiant unique pour chaque section de sentier.\nNom : Nom courant du sentier ou de la connexion entre le sentier. Exemples : West Beach Trail et 4th Beach to 7th Beach (sentier de liaison entre les 4e et 7e plages.",
+    "Public trails for NW Calvert Island. \n\nThis spatial layer shows informal trails and walking paths as observed around the Hakai Institute’s Calvert Island Field Station. The field station is located within the Hakai Lúxvbálís Conservancy, where trail use and development is managed under an agreement between the Heiltsuk Nation and the Province of British Columbia. To assist Hakai Institute visitors with orientation and safety, this map shows trails and paths ‘as observed’on the ground but these are not necessarily designated and approved Conservancy trails. Please consult Hakai Lúxvbálís Conservancy website and regulations for information on designated trails and appropriate use of the area. Trails and paths are not maintained or regulated by Hakai Institute and are used at your own risk. Trail and path locations were gathered using GPS devices and manually edited in ArcGIS to clean or smooth out any errors. GPS devices included iPads and Garmin GPS. High accuracy is not guaranteed, but general placement has been confirmed in the field. Edits have been made by Hakai Geospatial Technology to delete beach sections and any errors.\n\nTrails are represented as a line based on GPS track lines gathered in the field. Errors may exists especially in areas of thick forest cover.\nAttributes:\nFID: ARC GIS unique ID\nSHAPE: Geometric Shape - Polyline (line feature)\nObject ID: ARC GIS number generated for a unique ID for each trail section.\nName: Common name for the trail or what the trail is connecting. Examples: West Beach Trail & 4th Beach to 7th Beach (connecting trail between 4th & 7th Beaches."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a"
+  ],
+  "dct_issued_s": "2015-05-29",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Trails - Calvert Island - British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-09-22T21:25:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c8b3a146-d426-5329-b83e-2b084b3c144f",
+  "locn_geometry": "ENVELOPE(-128.1603240966797, -128.08685302734375, 51.66914840783798, 51.63805006307942)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

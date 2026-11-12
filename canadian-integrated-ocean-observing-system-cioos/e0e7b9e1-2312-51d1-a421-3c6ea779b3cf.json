@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-63.0, -62.0, 68.0, 67.0)",
+  "dcat_keyword_sm": [
+    "ground-penetrating-radar",
+    "oceans",
+    "polarchars",
+    "gps",
+    "polarchars",
+    "seaice",
+    "arcticnet",
+    "iceberg",
+    "glace-de-mer",
+    "radarsat",
+    "nunavut---oabmi",
+    "baffin-bay",
+    "geohazard",
+    "arcticnet",
+    "ice-island",
+    "topographical-surveys",
+    "nunavut"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur la détérioration recueillies sur l'île de glace Petermann A-1-F alors qu'elle était échouée près de Qikiqtarjuaq, au Nunavut, de 2015 à 2017"
+  ],
+  "dct_creator_sm": [
+    "Mueller, Derek.",
+    "Crawford, Anna.",
+    "Crocker, Gregory.",
+    "Mingo, Laurent."
+  ],
+  "dct_description_sm": [
+    "A data collection program was carried out between October 2015 and September 2017 to monitor the thinning and overall deterioration of \"Petermann Ice Island (PII)-A-1-f\". This large, tabular iceberg was a fragment of the 2012 Petermann Glacier calving event. Four field teams visited the ice island, and a stationary ice penetrating radar (sIPR) was installed on PII-A-1-f in October 2015 while the large, tabular iceberg was grounded near Qikiqtarjuaq, NU. The instrument was designed by Blue Systems Integration, Ltd. and was installed during the annual ArcticNet research cruise on board the CCGS Amundsen. It collected the first field dataset of ice island thinning, and along with surface ablation observations, the data were used to calibrate a forced-convection basal ablation model. Mobile IPR data were repeatedly collected over 2.4 km to assess the spatial variation in thinning and assess how well the sIPR measurements represented the conditions elsewhere on the ice island. Auxiliary data included photos, ablation stake measurements, sonic ranger recordings, air temperature measurements, GPS locations, and RADARSAT-2 synthetic aperture radar (SAR) imagery. The latter were collected to monitor the surface areal extent of the ice island. The dataset contains: IPR measurements (.h5), GPS data collected along the  mIPR transect (.csv), image files of ablation stakes (.jpg), air temperature data, sonic ranger measurements, and GPS positions of the weather station (.csv), georeferenced Fine-Quad (8 m nominal resolution) RADARSAT-2 SAR images (.tif) and polygon shapefiles delineating the areal extent (.shp).",
+    "Un programme de collecte de données a été réalisé entre octobre 2015 et septembre 2017 pour suivre l'amincissement et la détérioration globale de « Petermann Ice Island (PII) -a-1-F ». Ce grand iceberg tabulaire était un fragment de l'événement de vêlage du glacier Petermann en 2012. Quatre équipes de terrain ont visité l'île de glace et un radar stationnaire pénétrant la glace (SiPR) a été installé sur PII-a-1-f en octobre 2015 alors que le gros iceberg tabulaire s'échouait près de Qikiqtarjuaq, au Nunavut. L'instrument a été conçu par Blue Systems Integration, Ltd. et a été installé lors de la croisière de recherche annuelle ArcticNet à bord du CCGS Amundsen. Il a collecté le premier ensemble de données de terrain sur l'amincissement des îlots de glace et, parallèlement aux observations d'ablation de surface, les données ont été utilisées pour calibrer un modèle d'ablation basale par convection forcée. Les données IPR mobiles ont été collectées à plusieurs reprises sur 2,4 km afin d'évaluer la variation spatiale de l'amincissement et de déterminer dans quelle mesure les mesures SiPR représentaient les conditions ailleurs sur l'île de glace. Les données auxiliaires comprenaient des photos, des mesures de piquets d'ablation, des enregistrements soniques, des mesures de la température de l'air, des positions GPS et des images radar à ouverture synthétique (SAR) RADARSAT-2. Ces derniers ont été collectés pour surveiller l'étendue de la surface de l'île de glace. L'ensemble de données contient : des mesures IPR (.h5), des données GPS collectées le long du transect MiPR (.csv), des fichiers images des piquets d'ablation (.jpg), des données de température de l'air, des mesures du Sonic Ranger et les positions GPS de la station météorologique (.csv), des images Fine-Quad géoréférencées (résolution nominale de 8 m), des images RADARSAT-2 SAR (.tif) et des fichiers de formes polygonaux délimitant l'étendue de la zone (.sh.shu) p)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/257abf8e-1d45-4a54-af74-8f87c5fa6840"
+  ],
+  "dct_issued_s": "2024-07-17",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/257abf8e-1d45-4a54-af74-8f87c5fa6840\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Deterioration Data Collected from 'Petermann Ice Island-A-1-f' While Grounded Near Qikiqtarjuaq, Nunavut, 2015 - 2017",
+  "gbl_mdModified_dt": "2026-09-05T17:45:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e0e7b9e1-2312-51d1-a421-3c6ea779b3cf",
+  "locn_geometry": "ENVELOPE(-63.0, -62.0, 68.0, 67.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

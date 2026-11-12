@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.810954, -112.807966, 54.632724, 50.90788)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This is a 1000 m cell-sized raster grid dataset of the top of the sandstone of the Haynes member of the Paskapoo Formation. We mapped the sandstone using 3-D geostatistical modelling algorithms from data derived from sand calculations of 25 m thick slice intervals of the Paskapoo Formation. We selected the >55% sand isovalue to define sandstone, based on the results of mini-models that show vertical hydraulic connections being established if sand abundance is 55% or greater. This grid represents the upper surface of that three-dimensional body defined by the >55% sand threshold value. Alberta Geological Survey Bulletin 66 provides a detailed description of how the unit was defined. The dataset is in ESRI ASCII grid format."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad58b1ab-5df7-4527-ba74-ccffec429d1a"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ad58b1ab-5df7-4527-ba74-ccffec429d1a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Structure Top of the Haynes Aquifer, Alberta (Gridded data, ASCII format)",
+  "gbl_mdModified_dt": "2026-03-04T15:32:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ab8008db-3820-5fe3-8340-b631518a4d79",
+  "locn_geometry": "ENVELOPE(-117.810954, -112.807966, 54.632724, 50.90788)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Salticidae",
+    "transcriptome",
+    "Harmochirina",
+    "Habronattus",
+    "Salticinae",
+    "Jumping spiders",
+    "Plexippini"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Leduc-Robert, Geneviève (University of British Columbia).",
+    "Maddison, Wayne P. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/LftjrcGgiN8QrZPGF5v3ZDfpntEF0-T3A75BzxUyuNk</p>\n<p><b>Storage size:</b> 13301132</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Background: Habronattus is a diverse clade of jumping spiders with complex courtship displays and repeated evolution of Y chromosomes. A well-resolved species phylogeny would provide an important framework to study these traits, but has not yet been achieved, in part because the few genes available in past studies gave conflicting signals. Such discordant gene trees could be the result of incomplete lineage sorting (ILS) in recently diverged parts of the phylogeny, but there are indications that introgression could be a source of conflict.\r\n\r\nResults: To infer Habronattus phylogeny and investigate the cause of gene tree discordance, we assembled transcriptomes for 34 Habronattus species and 2 outgroups. The concatenated 2.41 Mb of nuclear data (1877 loci) resolved phylogeny by Maximum Likelihood (ML) with high bootstrap support (95-100%) at most nodes, with some uncertainty surrounding the relationships of H. icenoglei, H. cambridgei, H. oregonensis, and Pellenes canadensis. Species tree analyses by ASTRAL and SVDQuartets gave almost completely congruent results. Several nodes in the ML phylogeny from 12.33 kb of mitochondrial data are incongruent with the nuclear phylogeny and indicate possible mitochondrial introgression: the internal relationships of the americanus and the coecatus groups, the relationship between the altanus, decorus, banksi, and americanus group, and between H. clypeatus and the coecatus group. To determine the relative contributions of ILS and introgression, we analyzed gene tree discordance for nuclear loci longer than 1 kb using Bayesian Concordance Analysis (BCA) for the americanus group (679 loci) and the VCCR clade (viridipes/clypeatus/coecatus/roberti groups) (517 loci) and found signals of introgression in both. Finally, we tested specifically for introgression in the concatenated nuclear matrix with Patterson’s D statistics and DFOIL. We found nuclear introgression resulting in substantial admixture between americanus group species, between H. roberti and the clypeatus group, and between the clypeatus and coecatus groups.\r\n\r\nConclusions: Our results indicate that the phylogenetic history of Habronattus is predominantly a diverging tree, but that hybridization may have been common between phylogenetically distant species, especially in subgroups with complex courtship displays.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Matrices of concatenated aligned sequences</h4><div class=\"o-metadata__file-description\">5 files. Three are partitions of nuclear transcriptomes (primary matrix of 1877 genes; secondary matrices of (MS) loci with species missing and (NL) noncoding loci. The fourth matrix is of the mitochondrial transcriptomes; the fifth is the mix of 16s and ND1 from the transcriptomes, and previous data from Sanger sequencing.</div><div class=\"o-metadata__file-name\">Leduc-Robert&Maddison_Habronattus-AlignedMatrices.tgz</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">NEXUS file of inferred phylogenetic trees</h4><div class=\"o-metadata__file-description\">Inferred trees from the various analyses and partitions of the transcriptome data.</div><div class=\"o-metadata__file-name\">Leduc-Robert&Maddison_Habronattus-Trees.nex</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153093_150149",
+    "https://doi.org/10.5683/SP2/N4NM88"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/N4NM88\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Phylogeny with introgression in Habronattus jumping spiders (Araneae: Salticidae)",
+  "gbl_mdModified_dt": "2021-05-19T18:28:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "193ff6cc-19b8-59fd-8b20-686d5080382a",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

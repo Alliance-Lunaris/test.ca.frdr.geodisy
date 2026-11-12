@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-126.00078, -122.34984, 52.9869, 48.59964)",
+  "dcat_keyword_sm": [
+    "Synthetic Aperture Radar",
+    "Remote Sensing",
+    "Support Vector Machine",
+    "LiDAR",
+    "Forest Canopy Height",
+    "Optical Imagery"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Han, Fei (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Forest canopy height measurement is critical for forest resources management, several remote sensing techniques have been applied to estimate the canopy height, including Light Detection and Ranging (LiDAR). However, the limited publicly available LiDAR data in British Columbia, limitation by clouds, and the cost create some challenges. To overcome this issue, this study employed publicly available Sentinel-1 SAR and Sentinel-2 Optical Imagery data with the support vector machine (SVM) model to estimate the canopy height in areas with different forest characteristics in British Columbia, analyzed the influence of tree species composition and forest age on the accuracy of canopy height estimation derived by SAR compared to LiDAR. The result indicates that each study area contained different estimation accuracies, and the accuracy level is affected by forest age and forest type. Overall, the young conifer area obtained the highest accuracy, suggesting that the application of SAR data may rely on a broad range of different forest characteristics within the area. In addition, the integration of SAR data with optical imagery data significantly increases the estimation accuracy, demonstrating the importance of data fusion in remote sensing applications. This research showed the potential of combining SAR and optical imagery in estimating canopy height, encouraging further research on improving the accuracy of the canopy height estimation model."
+  ],
+  "dct_identifier_sm": [
+    "720988_73894_115983",
+    "https://doi.org/10.5683/SP3/YCU0FY"
+  ],
+  "dct_issued_s": "2024-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YCU0FY\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Impact of Forest Age and Forest Type on the Accuracy of Canopy Height Estimation by Synthetic Aperture Radar and Optical Imagery",
+  "gbl_mdModified_dt": "2024-04-16T21:06:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1ba0793d-0c03-5d0a-8f2c-c2830d9d2078",
+  "locn_geometry": "ENVELOPE(-126.00078, -122.34984, 52.9869, 48.59964)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "Deep Learning",
+    "Pain Detection",
+    "Dementia",
+    "Machine Learning",
+    "Dataset",
+    "Synthetic",
+    "Image",
+    "Video"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Taati, Babak (University of Toronto).",
+    "Muzammil, Muhammad (University of Toronto).",
+    "Zarghami, Yasamin (University of Toronto).",
+    "Moturu, Abhishek (University of Toronto).",
+    "Kazerouni, Amirhossein (University of Toronto).",
+    "Reimer, Hailey (University of Regina).",
+    "Mihailidis, Alex (University of Toronto).",
+    "Hadjistavropoulos, Thomas (University of Regina)."
+  ],
+  "dct_description_sm": [
+    "<h1>Overview</h1>\n<p>SynPAIN is a publicly available synthetic dataset to support pairwise pain detection models for older adults with dementia. It contains 10,710 facial expression images (5,355 neutral/expressive pairs) across five ethnicities/races, representing two age groups (young: 20-35, old: 75+), both genders, and two expression types (pain and non-pain). It also includes five-second, 24 fps videos transitioning from a neutral to an expressive face for 40 identities, representing one combination from each ethnicity/race, gender, expression type, and age group.</p>\n<p>Please check the metadata (under alternative URL) for a link to the <a href=\"https://huggingface.co/datasets/TaatiTeam/SynPAIN\">HuggingFace repository</a> of this dataset.\n\n<h2>Dataset Contents</h2>\n<p>SynPAIN consists of the following:</p>\n<ol>\n<li>SynPain_Part1.zip: A zip file containing:\n<ol>\n<li>SynPain.txt: A txt file explaining the data structure and filename format.<\\li>\n<li>SynPain_folds.txt: A txt file providing the folds that were used for the \"within-dataset experiments\" (Section IV of the SynPAIN paper)</li>\n<li>Images_Part1: A directory that contains 2,677 of the 5,355 images<\\li>\n<li>Videos: A directory that contains 40 videos, and for each video, the images they're based on<\\li>\n</ol></li>\n<li>SynPain_Part1.zip: A zip file containing:\n<ol>\n<li>Images_Part2: A directory that contains 2,678 of the 5,355 images<\\li>\n</ol></li>\n</ol>\n\n<h2>Citation</h2>\n<p>If you use SynPAIN in your research, please cite the SynPAIN paper:</p>\n<p>Taati, B., Muzammil, M., Zarghami, Y., Moturu, A., Kazerouni, A., Mihailidis, A., Reimer, H., & Hadjistavropoulos, T. (2025). <a href=\"https://arxiv.org/abs/2507.19673\">SynPAIN: A Synthetic Dataset of Pain and Non-Pain Facial Expressions.</a> </p>"
+  ],
+  "dct_identifier_sm": [
+    "955579",
+    "https://doi.org/10.5683/SP3/WCXMAP"
+  ],
+  "dct_issued_s": "2025-07-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WCXMAP\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "SynPAIN",
+  "gbl_mdModified_dt": "2026-01-13T15:43:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fecf45d6-9fb2-5fa2-972f-b919427dd1c3",
+  "schema_provider_s": "University of Toronto Dataverse"
+}

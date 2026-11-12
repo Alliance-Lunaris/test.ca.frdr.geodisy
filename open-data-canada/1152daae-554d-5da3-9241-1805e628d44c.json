@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dcat_keyword_sm": [
+    "geoyukon-import-20250714",
+    "Government information",
+    "geoyukon",
+    "yukon-geological-survey",
+    "base",
+    "surficial-geology",
+    "whitehorse",
+    "contours",
+    "topography",
+    "geoyukon-import"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Lignée de géologie superficielle, âge 50 000"
+  ],
+  "dct_creator_sm": [
+    "Government of Yukon | Gouvernement du Yukon."
+  ],
+  "dct_description_sm": [
+    "The Yukon Geological Survey (YGS) has compiled over 195 surficial geology maps into a standardized GIS format, providing approximately 80% coverage of the territory. The maps range in scales from 1:250,000 to 1:10,000 with spatial overlap between scales. The original maps were produced by various agencies, including the Geological Survey of Canada, YGS, Yukon Government, universities, and the City of Whitehorse.\n\nAll original feature descriptions have been preserved and also converted to standardized values using the Yukon terrain classification system. The compilation includes 4 GIS datasets and supporting documents available for download via [YGS integrated data system](https://data.geology.gov.yk.ca/Compilation/33) (YGSIDS) or GeoYukon. A .lyr file is [provided](https://data.geology.gov.yk.ca/Compilation/33) to symbolize feature classes and differentiate overlapping maps at different scales. Additionally, there is a surficial geology map index.\n\nThe polygon attributes captured include surficial material, texture, age, surface expression, and geomorphological processes.\n\nLine features include geological contacts, glacial limits, glacial landforms (cirques, arêtes, eskers, meltwater channels, moraines), and non-glacial landforms (faults, lineaments, landslides, escarpments).\n\nPoint features include field station, fossil and sample locations, glacial landforms (erratics, kames, kettles, drumlins, flutings), permafrost features (pingos, palsas, patterned ground, thermokarst depressions), and other non-glacial landforms (landslides, tors).\n\nThe map index provides information on each map publication such as author, map title, map scale, publisher.\n\nThese data are valuable for land-use applications in the territory, including: mineral and placer exploration, geotechnical engineering, infrastructure planning, granular resource assessments, permafrost modeling, agricultural assessments, forest management, and biophysical or ecological land classification.\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps) . Discover more digital map data and interactive maps from Yukon's digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)",
+    "La Commission géologique du Yukon (YGS) a compilé plus de 195 cartes géologiques de surface dans un format SIG normalisé, couvrant environ 80 % du territoire. Les échelles des cartes vont de 1:250 000 à 1:10 000 avec un chevauchement spatial entre les échelles. Les cartes originales ont été produites par divers organismes, dont la Commission géologique du Canada, l'YGS, le gouvernement du Yukon, des universités et la ville de Whitehorse.\n\nToutes les descriptions originales des caractéristiques ont été préservées et converties en valeurs normalisées à l'aide du système de classification du terrain du Yukon. La compilation comprend 4 ensembles de données SIG et des documents justificatifs disponibles en téléchargement via [système de données intégré YGS] (https://data.geology.gov.yk.ca/Compilation/33) (YGSIDS) ou GeoYukon. Un fichier .lyr est [fourni] (https://data.geology.gov.yk.ca/Compilation/33) pour symboliser les classes d'entités et différencier les cartes qui se chevauchent à différentes échelles. De plus, il existe un index cartographique de la géologie superficielle.\n\nLes attributs des polygones capturés incluent le matériau de surface, la texture, l'âge, l'expression de la surface et les processus géomorphologiques.\n\nLes caractéristiques des lignes comprennent les contacts géologiques, les limites glaciaires, les reliefs glaciaires (cirques, arêtes, eskers, canaux d'eau de fonte, moraines) et les reliefs non glaciaires (failles, linéaments, glissements de terrain, escarpements).\n\nLes caractéristiques ponctuelles comprennent les stations de terrain, les emplacements des fossiles et des échantillons, les reliefs glaciaires (erratiques, kames, bouilloires, drumlins, cannelures), les caractéristiques du pergélisol (pingos, palses, sol à motifs, dépressions thermokarstiques) et d'autres formes de relief non glaciaires (glissements de terrain, tors).\n\nL'index cartographique fournit des informations sur chaque publication cartographique, telles que l'auteur, le titre de la carte, l'échelle de la carte, l'éditeur.\n\nCes données sont précieuses pour les applications d'utilisation des terres sur le territoire, notamment : l'exploration des minéraux et des placers, le génie géotechnique, la planification des infrastructures, les évaluations des ressources granulaires, la modélisation du pergélisol, les évaluations agricoles, la gestion forestière et la classification biophysique ou écologique des terres.\n\nDistribué depuis [GeoYukon] (https://yukon.ca/geoyukon) par le [gouvernement du Yukon] (https://yukon.ca/maps). Découvrez d'autres données cartographiques numériques et des cartes interactives issues de la collection de données cartographiques numériques du Yukon.\n\nPour plus d'informations : [geomatics.help@yukon.ca] (mailto : geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/48938b1f-9b6a-40cc-a66f-b71720ad2a73"
+  ],
+  "dct_issued_s": "2023-06-28",
+  "dct_publisher_sm": [
+    "Government of Yukon | Gouvernement du Yukon"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/48938b1f-9b6a-40cc-a66f-b71720ad2a73\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Surficial Geology Line Age 50k",
+  "gbl_mdModified_dt": "2026-09-30T15:32:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1152daae-554d-5da3-9241-1805e628d44c",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Open Data Canada"
+}

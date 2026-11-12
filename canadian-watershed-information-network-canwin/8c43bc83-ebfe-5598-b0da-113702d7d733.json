@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.88, -52.37, 59.18, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The “Canadian Agricultural Crop Water Balance – Watershed Aggregates” provides watershed-scale summaries of agricultural crop water balance variables for Canada derived from DNDC crop simulations linked to Soil Landscapes of Canada (SLC) polygons. The monthly outputs have been aggregated and released as annual and growing season summaries to support national water accounting and watershed-scale analysis.\n\nCrop water variables, originally expressed as depth (millimetres), are converted to volumes using simulated crop area and spatially aggregated to drainage regions through polygon–watershed intersection and area apportionment. Aggregated volumes are then converted back to area-weighted depths to ensure water quantities are preserved during spatial aggregation.\n\nReleased datasets include annual and growing season estimates of evapotranspiration, precipitation, irrigation application, leaching, and irrigated-field runoff associated with agricultural crop production. Supporting tables provide total and irrigated crop area contributing to each watershed estimate. Spatial processing is performed using the Statistics Canada Albers Equal Area projection (EPSG:3347), with raster products aligned to the Statistical Ecosystem Register 250m grid."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b604f77c-f3e8-4af2-90d8-01e87fe5e435"
+  ],
+  "dct_issued_s": "2026-03-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b604f77c-f3e8-4af2-90d8-01e87fe5e435\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Agricultural Crop Water Balance (CACWB) – Watershed Aggregates",
+  "gbl_mdModified_dt": "2026-03-31T15:01:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8c43bc83-ebfe-5598-b0da-113702d7d733",
+  "locn_geometry": "ENVELOPE(-128.88, -52.37, 59.18, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

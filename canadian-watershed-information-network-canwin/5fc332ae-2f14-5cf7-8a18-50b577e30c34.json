@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-88.0, -52.0, 63.0, 43.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "PURPOSE:\nFreshwater discharge is used to force eastern Canadian ocean models\n            \n\nDESCRIPTION:\nNeural network post-processed WRF-Hydro streamflow timeseries at 477 oceanic river outlets, where lat/lon are proxy position, riverlat/lon are outlet position, and oceanlat/lon are ocean pour points that are displaced slightly into the ocean (next to outlet position on the WRF-Hydro grid).  The 477 eastern Canadian rivers were modelled using WRF-Hydro, which was forced by four CMIP models subject to WRF downscaling of atmospheric forcing.  The four models are an NCAR Community Climate System Model (CCSM-4 SSP5 8.5) simulation (Meehl et al., 2012), two Met Office Hadley Centre Global Environmental Model (HadGEM2 SSP2 4.5 and SSP5 8.5) simulations (Collins et al., 2011), and a Max Planck Institute for Meteorology Earth System Model (MPI-ESM1.2-LR SSP5 8.5) simulation (Mauritsen et al., 2019).  Variables and their descriptions are included in the NetCDF file.\n            \n\nUSE LIMITATION:\nTo ensure scientific integrity and appropriate use of the data, we would encourage you to contact the data custodian."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8e3c79f8-ae7d-11ef-88e2-5d0a2a9fd0c5"
+  ],
+  "dct_issued_s": "2024-12-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8e3c79f8-ae7d-11ef-88e2-5d0a2a9fd0c5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Daily freshwater discharge from 477 eastern Canadian rivers (1990-2100)",
+  "gbl_mdModified_dt": "2026-03-24T08:42:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5fc332ae-2f14-5cf7-8a18-50b577e30c34",
+  "locn_geometry": "ENVELOPE(-88.0, -52.0, 63.0, 43.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

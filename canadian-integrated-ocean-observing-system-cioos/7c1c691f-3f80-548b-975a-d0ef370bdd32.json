@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.2409, -71.2216, 46.7695, 46.7779)",
+  "dcat_keyword_sm": [
+    "Freshwater",
+    "Oceans",
+    "Eau douce",
+    "Quebec City",
+    "Courants sous-marins",
+    "Courants de surface",
+    "Débit",
+    "St. Lawrence River",
+    "Discharge",
+    "Ville de Québec",
+    "surfaceCurrents",
+    "Fleuve Saint-Laurent",
+    "subSurfaceCurrents"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Débits horaires d'eau douce du fleuve Saint-Laurent à la hauteur de la ville de Québec calculé par le modèle Qmec"
+  ],
+  "dct_creator_sm": [
+    "Bourgault, Daniel (Rimouski Marine Sciences Institute, Université du Québec à Rimouski).",
+    "Matte, Pascal (Environment and Climate Change Canada)."
+  ],
+  "dct_description_sm": [
+    "**CONTEXT**\n\nFreshwater discharge data of the St. Lawrence River at Quebec City as computed by the hydrodynamic model \"Qmec\" developed by Bourgault and Matte [[2020a](https://doi.org/10.1029/2019JC015992), [2020b](https://doi.org/10.24433/CO.7299598.v2)]. This represents an important update to the earlier method of Bourgault and Koutitonsky ([1999](https://doi.org/10.1080/07055900.1999.9649626)) currently in use by Fisheries and Oceans Canada (DFO) to produce monthly means (see: https://ogsl.ca/en/freshwater-runoffs-quebec-city-context/). The new method is more accurate for monthly means and has a much finer temporal resolution as it produces hourly tidal values, from 1962 up until today.\n\nThe method uses water level measurements from the Neuville (station 3280) and the Saint-Francois I.O. (station 3100) tidal gauges. The discharge data time series is updated when the water level archive database is updated by DFO for these stations, that is about twice a year. See: https://www.isdm-gdsi.gc.ca/isdm-gdsi/twl-mne/maps-cartes/inventory-inventaire-eng.asp?user=isdm-gdsi&region=MEDS&tst=1&perm=0\n\n\n**AVAILABLE DATASETS**\n\nTwo datasets are available. The first set contains the instantaneous hourly discharge and the second the daily averages. Daily averages are calculated from hourly data by applying a Godin filter of the type A24-A24-A25 in order to remove the effects of semi-diurnal and diurnal tidal modulation. See Bourgault and Matte [[2020a](https://doi.org/10.1029/2019JC015992)] for more details.\n\nNote that missing discharge values ​​correspond to missing water level data at the Neuville tide gauge or that of Saint-François.\n\n\n**CALIBRATION COEFFICIENTS**\n\nThe method requires the following four calibration coefficients (for details, see line H-2a in Table 2 of Bourgault and Matte [[2020a](https://doi.org/10.1029/2019JC015992)]):\n\n    C(1) = 2058.1776  (the equivalent width, Be)\n    C(2) =   19.1713  (the equivalent depth, he)\n    C(3) =   -1.0897  (the hydraulic slope, delta zeta)\n    C(4) =    0.0401  (the friction coefficient, ne)\n\nNote that the values ​​of these parameters differ slightly from the values ​​published in Table 2 of Bourgault and Matte [[2020](https://doi.org/10.1029/2019JC015992)] (line H2-a). This is because a small change with no impact on data quality was made to the Qmec code after publication. For more details, see comments to lines 92-100 in the main code (Qmec.m), version 2.0 which is available at https://doi.org/10.24433/CO.7299598.v2 (see reference below in Bourgault and Matte [[2020b](https://doi.org/10.24433/CO.7299598.v2)]).\n\n\n**REFERENCES:**\n\n- Bourgault D et Matte P (2020a) [A physically-based method for real-time monitoring of tidal river discharges from water level observations, with an application to the St. Lawrence River](https://doi.org/10.1029/2019JC015992) Journal of Geophysical Research – Oceans 125 e2019JC015992\n\n- Bourgault D et Matte P (2020b) Qmec : a Matlab code to compute tidal river discharge from water level [Source Code]. [https://doi.org/10.24433/CO.7299598.v2](https://doi.org/10.24433/CO.7299598.v2)\n\n- Bourgault D et Koutitonsky V G (1999) [Real-time monitoring of the freshwater discharge at the head of the St. Lawrence Estuary](https://doi.org/10.1080/07055900.1999.9649626) Atmosphere-Ocean 37 203-220",
+    "**CONTEXTE**\n\nDonnées du débit d'eau douce du fleuve Saint-Laurent à la hauteur de la ville de Québec telles que calculées par le modèle hydrodynamique « Qmec » développé par Bourgault et Matte [[2020a](https://doi.org/10.1029/2019JC015992), [2020b](https://doi.org/10.24433/CO.7299598.v2)]. Il s'agit d'une mise à jour importante de la méthode antérieure de Bourgault et Koutitonsky [[1999](https://doi.org/10.1080/07055900.1999.9649626)] qui est actuellement utilisée par Pêches et Océans Canada (MPO) pour produire des moyennes mensuelles (voir: https://ogsl.ca/fr/debit-deau-douce-ville-de-quebec-contexte/). Cette nouvelle méthode est plus précise pour les moyennes mensuelles et possède une résolution temporelle beaucoup plus fine car elle produit des valeurs horaires, et donc les variations tidales, de 1962 à aujourd'hui.\n\nLa méthode utilise les mesures de niveaux d'eau des stations marégraphiques de Neuville (station 3280) et Saint-François I.O. (station 3100). La série chronologique des données de débit est mise à jour lorsque la base de données des archives de niveaux d'eau est mise à jour par le MPO pour ces stations, soit environ deux fois par année. Voir: https://www.isdm-gdsi.gc.ca/isdm-gdsi/twl-mne/maps-cartes/inventory-inventaire-fra.asp?user=isdm-gdsi&region=MEDS&tst=1&perm=0\n\n\n**JEUX DE DONNÉES DISPONIBLES**\n\nDeux jeux de données sont disponibles. Le premier jeu contient les débits horaires instantanés et le deuxième les moyennes journalières. Les moyennes journalières sont calculées à partir des débits horaires en appliquant un filtre de Godin de type A24-A24-A25 afin d'enlever les effets de la modulation de la marée semi-diurne et diurne. Voir Bourgault et Matte [[2020a](https://doi.org/10.1029/2019JC015992)] pour plus de détails.\n\nÀ noter que les valeurs de débit manquantes correspondent à des données manquantes de niveau d'eau au marégraphe de Neuville ou à celui de Saint-François.\n\n\n**COEFFICIENTS DE CALIBRATION**\n\nLa méthode nécessite les quatre coefficients de calibration suivants (pour détails, voir la ligne H-2a dans le Tableau 2 de Bourgault et Matte [[2020a](https://doi.org/10.1029/2019JC015992)]):\n\n    C(1) = 2058.1776  (la largeur équivalente, Be)\n    C(2) =   19.1713  (la profondeur équivalente, he)\n    C(3) =   -1.0897  (la pente hydraulique, delta zeta)\n    C(4) =    0.0401  (le coefficient de friction, ne)\n\nÀ noter que les valeurs de ces paramètres diffèrent légèrement des valeurs publiées dans le Tableau 2 de Bourgault et Matte [[2020](https://doi.org/10.1029/2019JC015992)] (ligne H2-a). Ceci est parce qu'une petite modification sans conséquence sur la qualité des données a été apportée au code Qmec après la publication. Pour plus de détails, voir les commentaires aux lignes 92-100 dans le code principal (Qmec.m), version 2.0 qui est disponible à https://doi.org/10.24433/CO.7299598.v2 (voir la référence ci-bas à Bourgault et Matte [[2020b](https://doi.org/10.24433/CO.7299598.v2)]).\n\n\n**RÉFÉRENCES:**\n\n- Bourgault D et Matte P (2020a) [A physically-based method for real-time monitoring of tidal river discharges from water level observations, with an application to the St. Lawrence River](https://doi.org/10.1029/2019JC015992) Journal of Geophysical Research – Oceans 125 e2019JC015992\n\n- Bourgault D et Matte P (2020b) Qmec : a Matlab code to compute tidal river discharge from water level [Source Code]. [https://doi.org/10.24433/CO.7299598.v2](https://doi.org/10.24433/CO.7299598.v2)\n\n- Bourgault D et Koutitonsky V G (1999) [Real-time monitoring of the freshwater discharge at the head of the St. Lawrence Estuary](https://doi.org/10.1080/07055900.1999.9649626) Atmosphere-Ocean 37 203-220"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/21b38026-c06d-4fa4-a6f5-ea644f57f84c"
+  ],
+  "dct_issued_s": "2020-04-04",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/21b38026-c06d-4fa4-a6f5-ea644f57f84c\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Hourly Freshwater Discharge Data of the St. Lawrence River at Quebec City Calculated by the Qmec Model",
+  "gbl_mdModified_dt": "2026-07-31T16:34:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7c1c691f-3f80-548b-975a-d0ef370bdd32",
+  "locn_geometry": "ENVELOPE(-71.2409, -71.2216, 46.7695, 46.7779)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

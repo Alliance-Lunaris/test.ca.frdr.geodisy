@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Overview\n\nCanGridP mlyV2 provides high-resolution gridded monthly precipitation amounts for Canada, based on homogenized station observations (Wang et al., 2026). This dataset supports climate analysis, trend assessment, and applications such as model validation, downscaling studies, and climate monitoring.\n\nMethodology\n\nThis dataset was produced using a gridding method (Abbasnezhadi & Wang, 2024) that applies ordinary kriging separately to: \n\n•\tstation climate normals (1961–1990)\n\n•\tstation climate relative anomalies (expressed as a percentage of the normal) \n\nThe gridded normals and anomalies are then combined to obtain final gridded monthly total precipitation amounts (Wang et al., 2026). Version 2 applies this method to the Canadian Homogenized Monthly Precipitation Version 2 (CanHomP mlyV2) dataset, which includes 425 stations across Canada (Wang et al. 2026). All stations had sufficient data for calculating monthly normals for 1961-1990 and were used for producing the gridded dataset.\n\nCanGridP mlyV2 represents Canada’s precipitation trend reasonably well since 1949, and southern Canada’s trend since 1916, despite changes in data availability over time (Wang et al., 2026).\n\nSource Data: CanHomP mlyV2\n\nCanHomP mlyV2 was developed for climate trend analysis and include long-term monthly total precipitation series for 425 stations across Canada (Wang et al., 2026; Wang et al. 2023). Key improvements in Version 2 over its predecessor, CanHomPmlyV1 (Wang et al., 2023), include:\n\n•\tExpanded and improved source datasets, incorporating adjusted data from automated gauge stations and the Collaborative Rain, Hail and Snow (CoCoRaHS) network (https://www.cocorahs.org/canada.aspx) for recent decades.\n\n•\tAdditional quality control procedures to remove false zeros in station data records for data-sparse regions or periods.\n\n•\tEnhanced changepoint detection, including tests on both untransformed and log-transformed data, and improved methods for identifying station-joining and variance inhomogeneities.\n\n•\tUse of more complete metadata for better accuracy.\n\n•\tImproved adjustment procedures to eliminate inhomogeneity by adjusting untransformed data series.\n\n•\tDevelopment of homogenized daily precipitation series consistent with corresponding monthly totals (Wang & Feng, 2026).\n\nThe key processing steps for both V1 and V2 datasets are available at [https://catalogue.ec.gc.ca/geonetwork/srv/eng/catalog.search#/metadata/1108608d-5a35-4cbd-b3be-20929befddf7]. The homogenization process employs the Quantile-Matching method (Wang et al., 2026; Wang et al., 2023; Wang et al., 2010), which ensures that distribution changes—including variance shifts—at identified changepoints are corrected.\n\nDifferences from CanGRD\n\n•\tCanGridP: Gridded precipitation amounts on an approximately 10-km EASE grid (grid box area: ~100 km²)\n\n•\tCanGRD: Gridded anomalies of precipitation amount on an approximately 50-km EASE grid (grid box area: ~2,500 km²)\n\nReferences\n\nWang, X. L., Feng, Y., Zwiers, F. W., & Cheng, V. Y. S. (2026). Precipitation trends in version 2 of Canadian homogenized monthly precipitation dataset. Atmosphere-Ocean. https://doi.org/10.1080/07055900.2026.2617861.\n\nAbbasnezhadi, K. and X. L. Wang, 2024: Comparison of gridding methods for precipitation over Canada and assessment of station/data density effects on gridding results. Atmos.-Ocean, 62(4), 320-346, https://doi.org/10.1080/07055900.2024.2394829.\n\nWang, X.L, Y. Feng, V. Y. S. Cheng, H. Xu, 2023: Observed precipitation trends inferred from Canada’s homogenized monthly precipitation dataset, J. Clim., 36, 7957-7971. DOI: 10.1175/JCLI-D-23-0193.1. \n\nWang, X. L., H. Xu, B. Qian, Y. Feng, E. Mekis, 2017: The adjusted daily rainfall and snowfall data for Canada. Atmos.-Ocean, 55:3, 155-168, DOI:10.1080/07055900.2017.1342163.\n\nCheng, V. Y. S., Wang, X.L., and Y. Feng, 2024: A quality control system for historical in situ precipitation data. Atmosphere-Ocean, 62(4), 271-287, https://doi.org/10.1080/07055900.2024.2394836.\n\nWang, X. L., H. Chen, Y. Wu, Y. Feng, and Q. Pu, 2010: New techniques for detection and adjustment of shifts in daily precipitation data series. J. Appl. Meteor. Climatol., 49, 2416-2436. DOI: 10.1175/2010JAMC2376.1."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/203cdcbf-19a8-4493-8ee9-c8a56ddb1783"
+  ],
+  "dct_issued_s": "2026-07-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/203cdcbf-19a8-4493-8ee9-c8a56ddb1783\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Gridded Homogenized Monthly Precipitation – Version 2 (CanGridP mlyV2)",
+  "gbl_mdModified_dt": "2026-08-18T18:00:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eede5b02-a72b-5490-b62a-54a0891f41fb",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

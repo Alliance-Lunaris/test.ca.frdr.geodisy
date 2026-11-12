@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "multiple primer pairs",
+    "18S",
+    "multigene"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Guang K., Zhang (McGill University).",
+    "Frédéric J.J., Chain (McGill University).",
+    "Cathryn L., Abbott (Fisheries and Oceans Canada).",
+    "Melania E., Cristescu (McGill University, University of Windsor)."
+  ],
+  "dct_description_sm": [
+    "Metabarcoding combines DNA barcoding with high-throughput sequencing, often using one genetic marker to understand complex and taxonomically diverse samples. However, species-level identification depends heavily on the choice of marker and the selected primer pair, often with a trade-off between successful species amplification and taxonomic resolution. We present a versatile metabarcoding protocol for biomonitoring that involves the use of two barcode markers (COI and 18S) and four primer pairs in a single high-throughput sequencing run, via sample multiplexing. We validate the protocol using a series of 24 mock zooplanktonic communities incorporating various levels of genetic variation. With the use of a single marker and single primer pair, the highest species recovery was 77%. With all three COI fragments, we detected 62-83% of species across the mock communities, while the use of the 18S fragment alone resulted in the detection of 73-75% of species. The species detection level was significantly improved to 89-93% when both markers were used. Furthermore, multiplexing did not have a negative impact on the proportion of reads assigned to each species and the total number of species detected was similar to when markers were sequenced alone. Overall, our metabarcoding approach utilizing two barcode markers and multiple primer pairs per barcode improved species detection rates over a single marker/primer pair by 14% to 35%, making it an attractive and relatively cost-effective method for biomonitoring natural zooplankton communities. We strongly recommend combining evolutionary independent markers and, when necessary, multiple primer pairs per marker to increase species detection (i.e. reduce false negatives) in metabarcoding studies."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.m83jc20",
+    "https://doi.org/10.5061/dryad.m83jc20"
+  ],
+  "dct_issued_s": "2018-08-10",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.m83jc20\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_title_s": "Data from: Metabarcoding using multiplexed markers increases species detection in complex zooplankton communities",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a5dcc80b-2a70-5a2d-bdc3-3328df4cfbb3",
+  "schema_provider_s": "Dryad"
+}

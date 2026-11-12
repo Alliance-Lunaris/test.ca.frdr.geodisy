@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.549218, -71.133661, 46.98068, 46.72771)",
+  "dcat_keyword_sm": [
+    "HydroBudget model",
+    "Hydrogeology",
+    "global change",
+    "cold and humid climates",
+    "Climatic changes",
+    "Hydrogéologie",
+    "Climat--Changements",
+    "regional scale",
+    "Groundwater recharge",
+    "long-term",
+    "Eau souterraine--Alimentation",
+    "land cover change"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dubois, Emmanuel (UQAM | Université du Québec à Montréal, EPFL, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-4896-6368",
+    "Larocque, Marie (UQAM | Université du Québec à Montréal, UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9906-3535"
+  ],
+  "dct_description_sm": [
+    "The dataset contains all the method and data published by Emmanuel Dubois during his PhD project entitled impact of global changes on groundwater recharge in cold and humid climate, case study in southern Quebec (Canada). This research, carried out under the direction of Prof. Marie Larocque (UQAM), was part of a project aiming at developing new knowledge about the groundwater resources to anticipate the impact of climate change in southern Québec (Canada) and funded by the Québec Ministry of Environment and fight against climate change (MELCC). The study area, comprised of eight river watersheds and located between the St. Lawrence River and the USA-Quebec border (35 800 km2), is a strategic agricultural region with a hydrological dynamic led by cold winters and warm summers. The general objective of the research was to quantify the current and future impact of climate change on regional scale the groundwater recharge (GWR) in cold and humid climates, to better anticipate future conditions.\nEstimates of GWR were simulated with a 500 m x 500 m resolution and a monthly time step using the HydroBudget model (Dubois et al., 2021b), developed during the project. The model was calibrated over the 1961-2017 period using river flows and baseflows (Dubois et al., 2021a). It was used to simulate GWR over the 1961-2017 period (past) and the 1951-2100 period (scenarios).\nEach chapter of the thesis corresponds to a published (or submitted) article in a peer review journal. The data associated with each article were made public in individual Dataverse datasets. As well, the code of the HydroBudget model was made public on Dataverse (Dubois et al., 2021b), with an application example and a user guide (Dubois et al., 2021d). Each of these datasets contains detailed metadata, licences, and possible usage restrictions. Users are invited to refer to the individual datasets for more information.\nChapter 2 of the thesis presents the article “Simulation of long-term spatiotemporal variations in regional-scale groundwater recharge: contributions of a water budget approach in cold and humid climates” published in the journal Hydrology and Earth Science System in 2021 (Dubois et al., 2021a). The associated GWR simulations over the 1961-2017 period are available here (on the Dataverse platform; Dubois et al., 2021c): https://doi.org/10.5683/SP3/TFNPQF. \nChapter 3 of the thesis presents the article “Climate Change Impacts on Groundwater Recharge in Cold and Humid Climates: Controlling Processes and Thresholds” published in the special issue “Application of Climatic Data in Hydrologic Models” of the journal Climate in 2022 (Dubois et al., 2022a). The associated GWR simulations over the 1951-2100 period are available here (on the Dataverse platform; Dubois et al., 2022b): https://doi.org/10.5683/SP3/SWH4O1. \nChapter 4 of the thesis presents the article “Impact of land cover changes on long-term and regional-scale groundwater recharge simulation in cold and humid climates” that was submitted for publication in June 2022. The associated GWR simulations over the 1951-2100 period will be available in a new Dataverse dataset as soon as the article is accepted for publication."
+  ],
+  "dct_identifier_sm": [
+    "347483_281357_281358",
+    "https://doi.org/10.5683/SP3/Y5DLXK"
+  ],
+  "dct_issued_s": "2022-06-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Y5DLXK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Simulation of groundwater recharge in southern Quebec – method and database",
+  "gbl_mdModified_dt": "2024-09-13T17:54:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4570855f-3495-5398-9c41-9557a56608db",
+  "locn_geometry": "ENVELOPE(-71.549218, -71.133661, 46.98068, 46.72771)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.257721, -123.250823, 49.26549, 49.260976)",
+  "dcat_keyword_sm": [
+    "barrier identification",
+    "path identification",
+    "path",
+    "Lidar",
+    "algorithm",
+    "barrier"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lyu, Yiwei (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "The wayfinding system is important for the people on campus. However, the existed wayfinding system of UBC does not consider some walkable paths which are not shown on the street map. Also, the wayfinding system ignores the barriers like stairs, which could be obstacles for wheelchair users, on the paths. LiDAR is developed rapidly in recent years. It can collect the elevation information of the objectives on the ground. University of British Columbia (UBC) collects and publishes the LiDAR dataset of campus every year. This project uses the elevation and the point intensity information from the LiDAR point dataset to identify the walkable paths and the barriers on the paths. Two algorithms are announced. The first one is the intensity-based path identification algorithm, which assumes that the concrete paths have a homogenous intensity. Another algorithm is the barrier identification algorithm, which is based on the Canny edge detection algorithm. As a result, the two algorithms both work well in the research area, and they have the potential to be developed as an automatic process and can be one part of the wayfinding system."
+  ],
+  "dct_identifier_sm": [
+    "329668_73894_115983",
+    "https://doi.org/10.5683/SP3/NRVT59"
+  ],
+  "dct_issued_s": "2022-04-27",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/NRVT59\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Paths and Barriers Identification: Algorithm based on LiDAR data",
+  "gbl_mdModified_dt": "2022-04-27T16:02:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6e1fca8a-479d-554e-93e3-1aeb613af44e",
+  "locn_geometry": "ENVELOPE(-123.257721, -123.250823, 49.26549, 49.260976)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

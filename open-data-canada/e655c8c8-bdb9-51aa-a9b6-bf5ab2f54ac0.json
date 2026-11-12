@@ -1,0 +1,56 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Harvest",
+    "Government information",
+    "AR",
+    "Forest",
+    "Planting",
+    "Forestry",
+    "Annual Report",
+    "FTG",
+    "Seeding",
+    "Regeneration",
+    "Spray",
+    "Forest Operation",
+    "Site Prep",
+    "SGR",
+    "Herbicide",
+    "Environment and Natural Resources",
+    "Trees"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données du rapport annuel historique sur les forêts de l’Ontario"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "Each year, forest managers report on the activities they conduct under approved forest management plans. Each annual report includes data for only a single year and a single management unit. We then consolidate this information for all of Ontario’s managed forests (all management units). We make this data available in two ways: 1. __Tabular data__ through [statistics (text)](https://www.ontario.ca/page/forest-management-facts-and-figures), [visual trends (charts)](https://public.tableau.com/app/profile/larlo/vizzes), or [open data (CSV files)](https://data.ontario.ca/dataset/report-on-forest-management-annual-summary-of-ontario-s-forest-management-activities). If you are not familiar with GIS data, these options provide a great way to explore the information. 2. __Spatial (map-based) data__ through this ESRI geodatabase data package. This option is intended for users who need to analyze forestry operations across the province and/or over extended time periods. It consolidates hundreds of individual layers into a smaller number of comprehensive layers. The data package includes the data dictionary (Technical Specification) in PDF format, which contains information about: * Forest Harvest (HRV) * Establishment Survey (EST/FTG) * Forest Regeneration (RGN) * Forestry Roads and Water Crossings (RDS/WTX) * Site Preparation (SIP) * Forestry Tending (TND) * Silviculture Ground Rule Changes (SGR) This data package is updated periodically once all management units publish their annual reports. This means the most recent annual report data for a specific management unit may not yet be included. You can find the latest management unit annual report data on the [Forest Management Planning Annual Report](https://lio.maps.arcgis.com/home/item.html?id=5ff9195d168544739741ed9ba1192d60) page. For additional annual report information—including text, tabular data, and maps—the Forest Information Manual requires the [Natural Resources Information Portal (NRIP)](https://nrip.mnr.gov.on.ca/s/fmp-online?language=en_US) as the means to transfer and store the source information.",
+    "Chaque année, les gestionnaires forestiers rendent compte des activités qu’ils mènent dans le cadre des plans de gestion forestière approuvés. Chaque rapport annuel ne comprend que les données relatives à une seule année et à une seule unité de gestion. Nous consolidons ensuite ces informations pour toutes les forêts gérées de l’Ontario (toutes les unités de gestion). Nous mettons ces données à disposition de deux manières : 1. __Données tabulaires__ sous forme de [statistiques (texte)](https://www.ontario.ca/fr/page/gestion-des-forets-faits-et-donnees), [de tendances visuelles (graphiques)](https://public.tableau.com/app/profile/larlo/vizzes) ou de [données ouvertes (fichiers CSV)](https://data.ontario.ca/fr/dataset/report-on-forest-management-annual-summary-of-ontario-s-forest-management-activities). 2. __Données spatiales (basées sur des cartes)__ via cet ensemble de données de la base de données géographiques IRTS. Cette option est destinée aux utilisateurs qui ont besoin d’analyser les opérations forestières dans toute la province ou sur de longues périodes. Elle regroupe des centaines de couches individuelles en un nombre plus restreint de couches complètes. Si vous n’êtes pas familier avec les données SIG, ces options constituent un excellent moyen d’explorer les informations. L’ensemble de données comprend le dictionnaire de données (spécifications techniques) au format PDF, qui contient des informations sur : * Exploitation forestière (HRV) * Enquête sur l’établissement (EST/FTG) * Régénération forestière (RGN) * Routes forestières et passages à gué (RDS/WTX) * Préparation du site (SIP) * Entretien forestier (TND) * Modifications des règles de base en matière de sylviculture (SGR) Cet ensemble de données est mis à jour périodiquement, une fois que toutes les unités de gestion ont publié leurs rapports annuels. Cela signifie que les données du rapport annuel le plus récent pour une unité de gestion spécifique peuvent ne pas encore être incluses. Vous trouverez les dernières données du rapport annuel des unités de gestion sur la page [Rapport annuel sur la planification de la gestion forestière](https://lio.maps.arcgis.com/home/item.html?id=5ff9195d168544739741ed9ba1192d60). Pour obtenir des informations supplémentaires sur les rapports annuels, notamment le texte, les données tabulaires et les cartes, le Manuel d’information forestière exige que le [Portail d’information sur les ressources naturelles](https://nrip.mnr.gov.on.ca/s/fmp-online?language=fr) soit utilisé comme moyen de transfert et de stockage des informations sources.** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8964ccd3-1ad6-4cf4-a29b-74a8bee864d9"
+  ],
+  "dct_issued_s": "2020-01-11",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8964ccd3-1ad6-4cf4-a29b-74a8bee864d9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Ontario Forest Historical Annual Report Data",
+  "gbl_mdModified_dt": "2026-06-29T18:25:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e655c8c8-bdb9-51aa-a9b6-bf5ab2f54ac0",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.885, -93.6832, 58.7896, 48.9992)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this layer is to provide end users with a spatial representation of the Zones in adopted Zoning bylaws and their consolidated amendments in Manitoba. This layer is intended to be a source of data delivery as well as usage in situ.\n\nThis dataset is comprised of boundary geometry representing the zones in the Zoning bylaws (as defined in The Planning Act) in force and effect within the Province of Manitoba. Spatial referencing of the zones is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each zone. Dataset content is subject to: Ongoing changes in zone boundaries which are determined by amendments to adopted Zoning bylaws or the adoption of new Zoning bylaws. Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the zone polygons. As of the publication date of this dataset, the following known issues remain: For zone boundaries that include water boundaries, the water boundary that best reflects the intended zone boundary was used. In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities. Please visit the Manitoba Municipal Relations website for more information at www.gov.mb.ca/mr. The Zoning bylaw data reflects the most current zones at the time of export and was uploaded to Manitoba Maps as a feature layer. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated ZBL: Number assigned by municipality to identify a specific bylaw ZBL_A: Number assigned to a bylaw that amends an existing zoning bylaw MUNI_NO: Manitoba municipality identifier number MUNI_NAME: Name of municipality ZONE: Letter code that corresponds with Zone Name as stating in the zoning bylaw ZONE_NAME: Name of Zone as stated in bylaw ZONE_CATEGORY: Zone category as interpreted by Municipal Relations AREA: Area of each polygon expressed in acres PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office PLANNINGDISTRICT: Name of the Planning District to which the municipality belongs if applicable MUNI_NAME_2014: Name of municipality before 2015 Amalgamations MUNI_NO_2014: Manitoba municipality identifier number before 2015 Amalgamations AMENDMENT_DESCRIPTION: Summary of change by the amending bylaw stating the zone before and after an amendment (e.g. RR to MG)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/51eb800b-9e62-6eff-5a0e-67f23ae6eb0b"
+  ],
+  "dct_issued_s": "2024-05-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/51eb800b-9e62-6eff-5a0e-67f23ae6eb0b\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Zoning By Laws",
+  "gbl_mdModified_dt": "2026-09-09T11:00:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6aa6bfe1-7520-5a34-8118-02ed63472f3d",
+  "locn_geometry": "ENVELOPE(-101.885, -93.6832, 58.7896, 48.9992)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

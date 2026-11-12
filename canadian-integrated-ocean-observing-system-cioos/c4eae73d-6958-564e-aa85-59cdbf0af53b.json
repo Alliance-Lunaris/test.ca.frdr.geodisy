@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.3, -125.9, 51.92, 51.46)",
+  "dcat_keyword_sm": [
+    "watershed",
+    "other",
+    "oceans",
+    "lidar",
+    "hakai",
+    "aco",
+    "basin",
+    "owikeno",
+    "autre",
+    "airborne-coastal-observatory",
+    "wuikinuxv"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Levé LiDAR du bassin d'Owikeno - 2019 - Observatoire côtier aéroporté"
+  ],
+  "dct_creator_sm": [
+    "Hakai Geospatial (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "The Owikeno Basin ACO survey was conducted on multiple days in August and September of 2019. The Owikeno Basin flows into Rivers Inlet on British Columbia’s Central Coast.\nThe entire Owikeno watershed was surveyed on August 3rd, 5th, 6th, 7th, 8th, 20th, and September 28th, 29th, and 30th. \n\nFor more information contact data@hakai.org\n\nBelow is a brief overview of the Airborne Coastal Observatory (ACO) and the type of data collected. For more information on post processing, data quality assurance, software used, and summary of results please contact data@hakai.org. The ACO is an aerial remote sensing platform used by the Hakai Institute to survey landscapes in detail. A Piper Navajo aircraft carries an array of integrated airborne mapping sensors installed to collect data in concert. The aircraft is operated and maintained by Kisik Aerial Surveys (Delta, BC).  \n\nData products available: \nLidar data (LAZ)- classified point cloud – digital surface model – digital terrain model. \nImage data (TIFF) – 4 band orthophotos – RGB & NIR. \nHyperspectral data (not always captured).\nA detailed project report with the summary of acquisition, processing, and overall hardware / software is available (PDF).\nSensors and instrument breakdown:\nInertial Navigation System: Manufacturer: Applanix (Canada), IMU Model: POS AV 510 IMAR, GNSS Model: Trimble AV39.\nLaser sensor: Riegl LMS-Q 780 long-range airborne laser scanner. Point density ranges per project and landscape from 1-12 points per square meter.\nAerial cameras: two fully integrated Phaseone Industrial iXU-RS1000 medium format cameras, resolution: 100MP, lens: 50mm f/4.0 Rodenstock.\nHyperspectral Sensor: manufacturer: Specim, model: AisaFENIX 384, spectral range: 380 - 2500 nm",
+    "L'enquête ACO du bassin d'Owikeno a été menée sur plusieurs jours en août et septembre 2019. Le bassin d'Owikeno se jette dans Rivers Inlet, sur la côte centrale de la Colombie-Britannique.\nL'ensemble du bassin versant d'Owikeno a été étudié les 3, 5, 6, 7, 8, 20 août et les 28, 29 et 30 septembre. \n\nPour plus d'informations, contactez data@hakai.org\n\nVous trouverez ci-dessous un bref aperçu de l'Observatoire côtier aéroporté (ACO) et du type de données collectées. Pour plus d'informations sur le post-traitement, l'assurance qualité des données, les logiciels utilisés et le résumé des résultats, veuillez contacter data@hakai.org. L'ACO est une plateforme de télédétection aérienne utilisée par l'Institut Hakai pour étudier les paysages en détail. Un avion Piper Navajo transporte un ensemble de capteurs cartographiques aéroportés intégrés installés pour collecter des données de concert. L'avion est exploité et entretenu par Kisik Aerial Surveys (Delta, Colombie-Britannique). \n\nProduits de données disponibles : \nDonnées lidar (LAZ) - nuage de points classifié — modèle numérique de surface — modèle numérique de terrain. \nDonnées d'image (TIFF) — Orthophotos à 4 bandes — RGB et NIR. \nDonnées hyperspectrales (pas toujours capturées).\nUn rapport de projet détaillé contenant le résumé de l'acquisition, du traitement et de l'ensemble du matériel et des logiciels est disponible (PDF).\nPanne des capteurs et des instruments :\nSystème de navigation inertielle : Fabricant : Applanix (Canada), modèle IMU : POS AV 510 IMAR, modèle GNSS : Trimble AV39.\nCapteur laser : scanner laser aéroporté à longue portée Riegl LMS-Q 780. La densité de points varie de 1 à 12 points par mètre carré par projet et par paysage.\nCaméras aériennes : deux caméras de format moyen Phaseone Industrial iXU-RS1000 entièrement intégrées, résolution : 100 MP, objectif : 50 mm f/4.0 Rodenstock.\nCapteur hyperspectral : fabricant : Specim, modèle : AISAfenix 384, plage spectrale : 380 - 2500 nm"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/727b8863-91cc-4765-b0c0-80cb74b11182"
+  ],
+  "dct_issued_s": "2019-11-30",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/727b8863-91cc-4765-b0c0-80cb74b11182\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory",
+  "gbl_mdModified_dt": "2026-09-22T21:21:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c4eae73d-6958-564e-aa85-59cdbf0af53b",
+  "locn_geometry": "ENVELOPE(-127.3, -125.9, 51.92, 51.46)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

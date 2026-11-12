@@ -1,0 +1,38 @@
+{
+  "dcat_keyword_sm": [
+    "Wildland fire"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pier-Olivier, Tremblay (Université Laval).",
+    "Thierry, Duchesne (Université Laval).",
+    "Steven G., Cumming (Université Laval)."
+  ],
+  "dct_description_sm": [
+    "Factors affecting wildland-fire size distribution include weather, fuels, and fire suppression activities. We present a novel application of survival analysis to quantify the effects of these factors on a sample of sizes of lightning-caused fires from Alberta, Canada. Two events were observed for each fire: the size at initial assessment (by the first fire fighters to arrive at the scene) and the size at \"being held\" (a state when no further increase in size is expected). We developed a statistical classifier to try to predict cases where there will be a growth in fire size (i.e., the size at \"being held\" exceeds the size at initial assessment). Logistic regression was preferred over two alternative classifiers, with covariates consistent with similar past analyses.  We conducted survival analysis on the group of fires exhibiting a size increase. A screening process selected three covariates: an index of fire weather at the day the fire started, the fuel type burning at initial assessment, and a factor for the type and capabilities of the method of initial attack. The Cox proportional hazards model performed better than three accelerated failure time alternatives. Both fire weather and fuel type were highly significant, with effects consistent with known fire behaviour. The effects of initial attack method were not statistically significant, but did suggest a reverse causality that could arise if fire management agencies were to dispatch resources based on a-priori assessment of fire growth potentials. We discuss how a more sophisticated analysis of larger data sets could produce unbiased estimates of fire suppression effect under such circumstances."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.dm8m5",
+    "https://doi.org/10.5061/dryad.dm8m5"
+  ],
+  "dct_issued_s": "2018-12-06",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.dm8m5\"}",
+  "dct_spatial_sm": [
+    "Canada",
+    "Alberta"
+  ],
+  "dct_title_s": "Data from: Survival analysis and classification methods for forest fire size",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3d1aaf73-b3bb-5003-abfb-26b37783640e",
+  "schema_provider_s": "Dryad"
+}

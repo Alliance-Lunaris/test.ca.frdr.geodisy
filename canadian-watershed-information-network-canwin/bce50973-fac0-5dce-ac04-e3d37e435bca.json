@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Global Deterministic Wave Prediction System (GDWPS) produces wave forecasts out to 120 hours in the future using the third generation spectral wave forecast model WaveWatch III® (WW3). The model is forced by the 10 meters winds and the ice concentration from the Global Deterministic Prediction System (GDPS). The ice concentration is used by the model to attenuate wave growth in areas covered by 25% to 75% ice and to suppress it for concentration above 75%. Forecast elements include significant wave height, peak period and primary swell height, direction and period."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/803a6e2a-41ed-44c2-9eeb-1b5306b4048e"
+  ],
+  "dct_issued_s": "2023-03-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/803a6e2a-41ed-44c2-9eeb-1b5306b4048e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Global Deterministic Wave Prediction System",
+  "gbl_mdModified_dt": "2026-02-10T14:01:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bce50973-fac0-5dce-ac04-e3d37e435bca",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

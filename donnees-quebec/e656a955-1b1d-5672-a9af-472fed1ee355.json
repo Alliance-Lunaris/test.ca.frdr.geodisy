@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Planimétrie",
+    "Géodésie",
+    "Altimétrie",
+    "Repère",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l’information géospatiale."
+  ],
+  "dct_description_sm": [
+    "Le GNSS (Global Navigation Satellite System), ou système de positionnement par satellite, regroupe tous les systèmes de navigation satellitaire. Il vous permet de connaître votre position, n’importe où sur le territoire.\r\n\r\nLes spécifications théoriques du GNSS estiment l’exactitude de la position obtenue à partir d’un récepteur à environ 15 mètres en planimétrie et 25 mètres en altimétrie. En jumelant les données avec celles d’un autre récepteur placé sur un point géodésique connu, l’exactitude de la position obtenue peut varier de quelques centimètres à quelques mètres, selon le type de récepteur utilisé.\r\n\r\nAfin d’augmenter l’exactitude, le Gouvernement du Québec enregistre des données en continu grâce à un réseau de 18 stations GNSS. Ces stations sont situées sur des points géodésiques dégagés de tout obstacle et captent les données en provenance des constellations GPS et GLONASS. Certaines de ces stations captent les signaux de la constellation Galileo.\r\n\r\nCes données sont offertes en format d’échange standard *Receiver Independant Exchange Format* (RINEX), version 2.11. Ce format est reconnu par la majorité des logiciels de traitement de données GNSS.\r\n\r\nLes données sont accessibles sur  le __[serveur ftp](ftp://ftp.mrn.gouv.qc.ca/Public/GPS)__ du MRNF ou à l'aide de la __[Carte interactive](https://geodesie.portailcartographique.gouv.qc.ca/)__ du réseau géodésique. Il faut noter que seules les données des 366 derniers jours sont conservées.\r\n\r\nLa structure des répertoires et des fichiers sur le __[serveur ftp](ftp://ftp.mrn.gouv.qc.ca/Public/GPS)__ ainsi que les coordonnées des stations sont présentées dans le document __[Stations de captage GNSS](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/Stations_GNSS.pdf)__.\r\n\r\n##État des stations GNSS##\r\n\r\nVous pouvez consulter l’état des stations dans le document __[État des stations GNSS](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/État_Stations_GNSS.pdf)__. Vous serez informé si une station est en service, hors service ou si une maintenance des équipements est prévue.\r\n\r\n##GNSS en temps réel par téléphonie cellulaire\r\n\r\nLe gouvernement offre également les données GNSS par téléphonie cellulaire qui permettent d’effectuer des travaux de positionnement centimétrique en temps réel. Les utilisateurs de données géoréférencées peuvent ainsi, avec un seul récepteur GNSS multifréquences muni d’un modem par téléphone cellulaire, relever ou implanter tout détail physique avec une précision de quelques centimètres dans le système de référence NAD 83 (SCRS) (époque 1997,0).\r\n\r\nLe signal qui contient ces données est accessible à tous. La portée dépend de la couverture téléphonique, des conditions ionosphériques et surtout des instruments utilisés. Pour plus d’information sur l’utilisation du GNSS en temps réel, consultez le document __[Lignes directrices concernant les levés GNSS en mode RTK/RTN au Canada](http://publications.gc.ca/site/fra/9.822883/publication.html)__.\r\n\r\n##Détails techniques\r\n\r\nLa transmission des données GNSS ainsi que des coordonnées NAD 83 (SCRS) (époque 1997,0) de la station se fait par téléphonie cellulaire à partir d’une adresse IP sur Internet. Chacune des stations transmet ses données dans un des deux formats suivants : CMR+ ou RTCM V3.2. Le document __[Stations de captage GNSS](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Documentation/Geodesie/Stations_GNSS.pdf)__ donne pour chaque ville l’adresse IP des formats CMR+ ou RTCM V3.2 ainsi que le modèle de l’antenne. Il est à noter que les données ne sont pas diffusées selon le protocole *Networked Transport of RTCM via Internet Protocol* (NTRIP)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/74f2472e-5bb9-4d2d-8be5-0931c96eeeff"
+  ],
+  "dct_issued_s": "2019-05-30",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/74f2472e-5bb9-4d2d-8be5-0931c96eeeff\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Infrastructures"
+  ],
+  "dct_title_s": "Données GNSS",
+  "gbl_mdModified_dt": "2026-08-26T18:24:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e656a955-1b1d-5672-a9af-472fed1ee355",
+  "schema_provider_s": "Données Québec"
+}

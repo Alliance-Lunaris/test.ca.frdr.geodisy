@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-82.98, -79.74, 46.44, 44.75)",
+  "dcat_keyword_sm": [
+    "Suitability model",
+    "Critical habitat",
+    "Prairie Warbler",
+    "Environmental variables",
+    "MaxEnt",
+    "Setophaga discolor"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dong, Iris (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "This study aimed to identify the distribution of critical habitats for the Prairie Warbler (Setophaga discolor) in the Eastern Georgian Bay area and to assess the influence of environmental variables in the aspects of landscape, greenness, and human disturbance. The study used the Maximum Entropy Model (MaxEnt) to predict the habitat distribution using species presence data and environmental variables. This study used six environmental variables, including distance to water, terrain ruggedness index (TRI), distances to road, NDVI standard deviation, green density and land cover classification. All variables have been standardized by unifying extend, spatial resolution and sample size using ArcGIS Pro. The MaxEnt model predicted the suitability of the whole area. The results showed that the model had a good performance to predict the suitability. The distribution of suitability was uneven, with a small proportion of suitable area for Prairie Warbler. Within all environmental habitats, distance to water and terrain had the primary contribution on the suitability for Prairie Warbler, indicating that predictor related to landscape played a dominant role in habitat distribution. In construct, the contribution pd greenness had a low contribution. This research indicated that areas close to water bodies should be protected first. The habitat distribution map can also assist for zoning management, providing scientific evidence for the ecological protection and management."
+  ],
+  "dct_identifier_sm": [
+    "1124722_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/MTYTVG"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MTYTVG\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Modeling Critical Habitat for Prairie Warbler (Setophaga discolor) in Eastern Georgian Bay, Ontario Using Maxent",
+  "gbl_mdModified_dt": "2026-04-28T16:34:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c65ef5b1-dceb-5bb3-aa24-3404a55512bf",
+  "locn_geometry": "ENVELOPE(-82.98, -79.74, 46.44, 44.75)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

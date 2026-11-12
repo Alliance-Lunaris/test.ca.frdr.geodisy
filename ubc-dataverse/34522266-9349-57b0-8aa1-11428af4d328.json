@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-77.620424, -77.381242, 46.017839, 45.929714)",
+  "dcat_keyword_sm": [
+    "monitor",
+    "CHM",
+    "tree growth",
+    "PRF",
+    "LiDAR",
+    "ALS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Qian, Zhongfang (University of British Columbia). ORCID: https://orcid.org/0000-0002-9849-6096"
+  ],
+  "dct_description_sm": [
+    "Monitoring the growth of trees is important for sustainable forest management. The traditional method of monitoring forest growth at a broad level is timber cruising by humans, while modern remote sensing technology, especially Lidar, is usually used for monitoring at the single-tree level or stand-level. This paper uses airborne Light Detection and Ranging (airborne LiDAR, i.e. airborne laser scanning (ALS)) data from 2005, 2012, 2016, and 2018 and forest survey data in 2007 from the Petawawa research forest (Ontario, Canada) to monitor the tree height growth through a time series and build relationships between stand ages and dominant tree heights (DHs). On the area covered by all the data obtained, the entire forest can be divided into 4 landcover types (Early Seral, Mid-Seral, Mature and Old Growth) based on stand ages and 3 classification types (Grown, Disturbed, and Misclassified) based on the variation of DHs in the time series. 61% of the forest is grown and only 0.97% is misclassified, which proves this methodology a valid tool for land cover classification. The relationships between stand ages and DH for each landcover type and the whole grown forest are very reliable because their adjusted R2s are greater than 0.88."
+  ],
+  "dct_identifier_sm": [
+    "155070_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/D1VUMN"
+  ],
+  "dct_issued_s": "2021-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/D1VUMN\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Monitor Forest height growth using Light Detection and Ranging (LiDAR) canopy height models from 2005 to 2018 at the Petawawa Research Forest",
+  "gbl_mdModified_dt": "2021-04-17T00:05:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34522266-9349-57b0-8aa1-11428af4d328",
+  "locn_geometry": "ENVELOPE(-77.620424, -77.381242, 46.017839, 45.929714)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

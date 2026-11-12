@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Snow",
+    "couverture glaciaire",
+    "snow cover",
+    "Glace",
+    "Satellite",
+    "Satellites",
+    "Neige",
+    "Climate change",
+    "Glaciers",
+    "Remote sensing",
+    "Glacier",
+    "Calotte glaciaire",
+    "Ice caps",
+    "couverture neigeuse",
+    "Changement climatique",
+    "ice cover",
+    "Télédétection",
+    "Ice"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Probabilité de la présence annuelle minimale de neige et de glace (MNG) au Canada"
+  ],
+  "dct_creator_sm": [
+    "Dr. Alexander P. Trichtchenko."
+  ],
+  "dct_description_sm": [
+    "Snow and ice are important hydrological resources.  Their minimum spatial extent here referred to as annual minimum snow/ice (MSI) cover, plays a very important role as an indicator of long-term changes and baseline capacity for surface water storage.  The MSI probability is derived from sequence of seventeen 10-day clear-sky composites corresponding to April, 1 to September, 20 warm period for each year since 2000. Data from Moderate Resolution Imaging Spectroradiometer (MODIS) on Terra satellite for the period since 2000 have been processed with the special technology developed at the Canada Centre for Remote Sensing (CCRS) as described in Trishchenko, 2016; Trishchenko et al., 2016; 2009, 2006, Trishchenko and Ungureanu, 2021, Khlopenkov and Trishchenko, 2008, Luo et al., 2008.  The presence of snow or ice is determined for each pixel of the image based on snow/ice scene identification procedure and the probability if computed for the entire warm season as a ratio of number of snow/ice flags to the total number of pixels available (less or equal to 17). The minimum snow and ice extent can be derived from the probability map by applying a certain threshold.   \n  \n  New data version V5.0 replaces previous version V4.0 for all data available since 2000.  All MSI files were reprocessed for all MODIS input data based on collection 6.1.  The output format has not changed since previous version. It is described in Trishchenko (2024). The impact of input data change is small and can be detected only for time interval 2000-2015. Data starting 2016 has been already derived using MODIS collection 6.1 input.  \n  \n  The differences between the MSI data based on MODIS Collection 5 (i.e. MSI V4) versus MODIS Collection 6.1 (i.e. MSI V5), on average, are quite small. The region-wide relative difference in the MSI extent varies from -3.97% to +1.75%.  The mean value is -0.14%, the median value is 0.18% and standard deviation is 1.83%.   As such, we do not expect any sizeable impact of the version change on our previous conclusions regarding trends and climate variations, except for refining the relative values of statistical parameters within the range of a few percents.    \n  \n  References:  \n  \n  TRISHCHENKO, A.P., 2024: Probability maps of the annual minimum snow and ice (MSI) presence over April,1 to September, 20 period since 2000 derived from MODIS 250m imagery over Canada and neighbouring regions. Data format description. CCRS, NRCan. 4pp.",
+    "La neige et la glace sont des ressources hydrologiques importantes. Leur étendue spatiale minimale, ci-après la couverture annuelle minimale de neige et de glace (MNG), joue un rôle très important en tant qu’indicateur des changements à long terme et la capacité de base de stockage d’eau de surface. La probabilité MNG est dérivée d’une séquence de 17 images composites sous ciel dégagé sur 10 jours, correspondant à la période chaude du 1er avril au 20 septembre pour chaque année depuis 2000. Les données du spectroradiomètre imageur à résolution moyenne (MODIS) du satellite Terra depuis 2000 ont été traitées au moyen de la technologie spéciale développée au Centre canadien de télédétection (CCT) (voir Trishchenko, 2016; Trishchenko et al., 2016; 2009, 2006, Trishchenko et Ungureanu, 2021, Khlopenkov et Trishchenko, 2008, Luo et al., 2008). La présence de neige ou de glace est déterminée pour chaque pixel de l’image en fonction de la procédure d’identification de la scène neige/glace et la probabilité est calculée pour l’ensemble de la saison chaude sous forme de rapport entre le nombre d’indicateurs neige/glace et le nombre total de pixels (inférieur ou égal à 17). L’étendue MNG peut être dérivée de la carte de probabilité en appliquant un certain seuil.   \n  \n  ​  \n  \n  La nouvelle version des données V5.0 remplace la version précédente V4.0 pour toutes les données disponibles depuis 2000. Tous les fichiers MNG ont été retraités pour toutes les données d'entrée MODIS basées sur la collection 6.1. Le format de sortie n'a pas changé depuis la version précédente. Il est décrit dans Trishchenko (2024). L'impact de la modification des données d'entrée est faible et ne peut être détecté que pour l'intervalle temporelle de 2000-2015. Les données depuis 2016 ont déjà été dérivées en utilisant la collection MODIS 6.1.  \n  \n  Les différences entre les données MNG basées sur la collection 5 de MODIS (c'est-à-dire MNG V4) et la collection 6.1 de MODIS (c'est-à-dire MNG V5) sont, en moyenne, assez faibles. La différence relative à l'échelle de la région dans l'étendue MNG varie de -3,97 % à +1,75 %.  La valeur moyenne est de -0,14 %, la valeur médiane de 0,18 % et l'écart type de 1,83 %.   En tant que tel, nous ne nous attendons pas à ce que le changement de version ait un impact important sur nos conclusions précédentes concernant les tendances et les variations climatiques, à l'exception de l'affinement des valeurs relatives des paramètres statistiques dans une fourchette de quelques pour cent.  \n  \n  Références:  \n  \n  TRICHTCHENKO, A.P. : Cartes de probabilité de la présence annuelle minimale de neige et de glace (MNG) au Canada et dans les régions limitrophes pour la période du 1er avril au 20 septembre depuis 2000 dérivées de l’imagerie MODIS à une résolution de 250 m. Description du format des données, CCT, RNCan (2024), 4 p."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/808b84a1-6356-4103-a8e9-db46d5c20fcf"
+  ],
+  "dct_issued_s": "2020-04-02",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/808b84a1-6356-4103-a8e9-db46d5c20fcf\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Probability of the annual minimum snow and ice (MSI) presence over Canada",
+  "gbl_mdModified_dt": "2025-12-23T16:30:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8cd37c23-ffd4-5d90-aee5-b02c6bceb2d7",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

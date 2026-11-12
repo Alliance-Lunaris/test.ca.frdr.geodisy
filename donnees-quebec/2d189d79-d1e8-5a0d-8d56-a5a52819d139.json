@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Parc",
+    "Ville de shawinigan",
+    "Module de jeu",
+    "Sport",
+    "Enfant",
+    "Donnee ouverte",
+    "Equipement sportif",
+    "Aire de jeux",
+    "Terrain de sport",
+    "Msp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelle des parcs municipaux de la ville de Shawinigan, avec leurs services (infrastructures sportives, modules de jeux pour enfants, services...).\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n  Ajout de la typologie issu du Plan d'Action 2023\n\n**Attributs**\n\n* _nom_ (_String_) : Nom\n* _description_ (_String_) : Description\n* _image_ (_String_) : Image\n* _thumb_url_ (_String_) : Thumbnail URL\n* _jeux_balancoire_ (_String_) : Balançoire\n* _jeux_balancoireadapte_ (_String_) : Balançoire adaptée\n* _jeux_eau_ (_String_) : Jeu d'eau\n* _jeux_module_ (_String_) : Module\n* _jeux_sable_ (_String_) : Sable\n* _sport_acceseau_ (_String_) : Accès à l'eau\n* _sport_baseball_ (_String_) : Baseball\n* _sport_basket_ (_String_) : Basketball\n* _sport_bmx_ (_String_) : BMX\n* _sport_bocce_ (_String_) : Bocce\n* _sport_dekhockey_ (_String_) : Dek-hockey\n* _sport_glissade_ (_String_) : Glissade\n* _sport_patinoireext_ (_String_) : Patinoire extérieure\n* _sport_petanque_ (_String_) : Pétanque\n* _sport_peche_ (_String_) : Pêche\n* _sport_piscine_ (_String_) : Piscine\n* _sport_plage_ (_String_) : Plage\n* _sport_sentiers_ (_String_) : Sentiers\n* _sport_skate_ (_String_) : Skate-parc\n* _sport_soccer_ (_String_) : Soccer\n* _sport_tennis_ (_String_) : Tennis\n* _sport_velo_ (_String_) : Vélo\n* _sport_volley_ (_String_) : Volleyball\n* _service_agora_ (_String_) : Agora\n* _service_barbecue_ (_String_) : Barbecue\n* _service_boitelivre_ (_String_) : Boîte à livres\n* _service_canin_ (_String_) : Parc canin\n* _service_chalet_ (_String_) : Chalet\n* _service_eau_ (_String_) : Buvette\n* _service_feu_ (_String_) : Feu\n* _service_gloriette_ (_String_) : Gloriette\n* _service_jardin_ (_String_) : Jardin\n* _service_piquenique_ (_String_) : Table\n* _service_stationnement_ (_String_) : Stationnement\n* _service_tableadapte_ (_String_) : Table adaptée\n* _service_toilettes_ (_String_) : Toilettes\n* _autres_ (_String_) : Autres\n* _adresse_ (_String_) : Adresse\n* _globalid_ (_GlobalID_) : \n* _objectid_ (_OID_) : \n* _sport_football_ (_String_) : Football\n* _sport_picleball_ (_String_) : Pickleball\n* _sport_minisoccer_ (_String_) : Sport_Ski\n* _sport_moduleexercice_ (_String_) : \n* _typologie_ (_String_) : \n* _ancien_nom_ (_String_) : \n* _sport_pumptrack_ (_String_) : Pumptrack\n* _nbr_logements_ (_Integer_) : id_custom\n* _nbr_logement_autre_500m_ (_Integer_) : \n* _nbr_logement_autre_1500m_ (_Integer_) : \n* _nbr_zone_autre_500m_ (_Integer_) : \n* _nbr_zone_autre_1500m_ (_Integer_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/598748775b5c4716b785cf1f42fec8c4\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/6813f7dd-8f31-4581-afb5-f5faef10b9b2"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/6813f7dd-8f31-4581-afb5-f5faef10b9b2\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Parcs municipaux avec services - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:43:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2d189d79-d1e8-5a0d-8d56-a5a52819d139",
+  "schema_provider_s": "Données Québec"
+}

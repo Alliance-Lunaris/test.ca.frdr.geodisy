@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Utilisation de l'eau",
+    "Watercourses",
+    "Énergie renouvelable",
+    "Renewable resources",
+    "Énergie",
+    "Hydropower",
+    "Ressources renouvelables",
+    "Energy",
+    "Hydroélectricité",
+    "Eau",
+    "Water use",
+    "Fleuve / Rivière",
+    "Renewable energy",
+    "Water",
+    "Cours d'eau",
+    "Rivers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Base de données sur les ressources hydroélectriques à faible hauteur de chute du Canada : Sites avec une hauteur de chute inférieure à 15 m et une capacité inférieure à 50 MW"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset identifies potential low head hydropower development sites across Canada, based on a comprehensive review of existing studies and resource databases. Low head hydropower refers to sites where the vertical drop (head) is 15 meters or less. Sites included in this dataset also have an estimated generation capacity of 50 megawatts (MW) or less.  \n  \n  The original database was developed by Hatch Ltd. for Natural Resources Canada (NRCan) as part of a national low head hydropower market assessment. It integrates data from multiple sources, including provincial inventories, prior Hatch studies, and legacy fieldwork records. To enhance data completeness, NRCan subsequently revised the database by supplementing missing site names, river names, and geographic coordinates where possible.  \n  \n  The finalized dataset comprises 2,629 potential low head hydropower sites distributed across Canada. It is provided in the form of provincial and territorial shapefiles, each containing detailed site-level attributes. Attributes include site name, river name, site ID, source of information, local map number, geographic coordinates (X and Y), site region, presence of a dam, grid connection status, Indigenous affiliation, catchment area, mean annual flow, rated discharge, gross head, penstock length and diameter, estimated installed capacity, dedicated transmission line length, site comments, and Indigenous reserve name.  \n  \n  Disclaimer:  \n  \n  This dataset was developed to support preliminary assessments of low head hydropower potential in Canada and is subject to the following limitations:  \n  \n  • The original database was compiled from various secondary sources, including data provided by third-party contributors and Hatch Ltd.’s own records. Some of these sources date back several decades. The data provided has not necessarily undergone independent verification for its accuracy, completeness, or validity.  \n  \n  • NRCan undertook a data revision process involving manual review and geolocation using publicly available mapping tools (e.g., Google Maps) to address missing information. Where geographic coordinates could not be reliably determined, this is explicitly indicated in the dataset.  \n  \n  • Site conditions may have changed over time due to natural processes or human activities. NRCan does not accept responsibility for any impact such changes may have on the accuracy or validity of the dataset’s observations, conclusions, or recommendations.  \n  \n  • The inclusion of a site in this dataset does not imply technical, economic, or environmental feasibility. Any potential development would require further investigation, including detailed field studies, environmental assessments, and comprehensive technical and financial evaluations.  \n  \n  This dataset is provided for informational purposes only and is not intended to serve as the sole basis for investment, planning, or development decisions. Users are strongly advised to undertake independent due diligence, including site-specific assessments and technical evaluations, prior to making any decisions based on the dataset.  \n  \n  By accessing or using this dataset, users acknowledge and accept these terms and limitations. The dataset providers expressly disclaim any responsibility or liability for consequences resulting from the use, interpretation, or reliance on the information contained herein. Use of this dataset is entirely at the user’s own risk, and users assume full responsibility for any actions or decisions made based on its contents.  \n  \n  This disclaimer is provided in accordance with applicable laws and regulations. By utilizing the dataset, users agree to release the dataset providers from any legal claims, damages, or liabilities that may arise from such use.",
+    "Cet ensemble de données cerne les sites possibles pour le développement de l’hydroélectricité à faible hauteur de chute dans le Canada, fondé sur un examen approfondi des bases de données sur les ressources et des études existantes. L’hydroélectricité à faible hauteur de chute renvoie aux sites où la chute (hauteur) est de 15 mètres ou moins. Les sites inclus dans cet ensemble de données ont également une capacité de production estimée de 50 mégawatts (MW) ou moins.  \n  \n  La base de données originale a été élaborée par Hatch Ltd. pour Ressources naturelles Canada (RNCan) dans le cadre d’une évaluation nationale du marché de l’hydroélectricité à faible hauteur de chute. Elle intègre des données provenant de plusieurs sources, y compris des inventaires provinciaux, des études antérieures de Hatch et des dossiers d’anciens travaux sur le terrain. Pour renforcer l’exhaustivité des données, RNCan a ensuite examiné la base de données en complétant, dans la mesure du possible, les noms de sites, les noms de rivières et les coordonnées géographiques manquants.  \n  \n  L’ensemble de données finalisé comprend 2 629 sites possibles de production d’hydroélectricité à faible hauteur de chute répartis dans le Canada. Il est fourni sous forme de fichiers de forme provinciaux et territoriaux, chacun contenant des attributs détaillés au niveau du site. Les attributs comprennent le nom du site, le nom de la rivière, l’identifiant du site, la source d’information, le numéro de carte locale, les coordonnées géographiques (X et Y), la région du site, la présence d’un barrage, l’état de connexion au réseau, l’affiliation autochtone, le bassin, le débit annuel moyen, le débit nominal, la hauteur brute, la longueur et le diamètre de la conduite forcée, la capacité installée estimée, la longueur de la ligne de transmission dédiée, les commentaires sur le site et le nom de la réserve autochtone.  \n  \n  Avis de non-responsabilité :  \n  \n  Cet ensemble de données a été élaboré pour soutenir les évaluations préliminaires du potentiel hydroélectrique à faible hauteur de chute au Canada et est assujetti aux limites suivantes :  \n  \n  • La base de données originale a été compilée à partir de diverses sources secondaires, y compris les données fournies par des contributeurs tiers et les dossiers de Hatch Ltd. Certaines de ces sources remontent à plusieurs décennies. Les données fournies n’ont pas nécessairement fait l’objet d’une vérification indépendante de leur exactitude, de leur exhaustivité ou de leur validité.  \n  \n  • Ressources naturelles Canada a entrepris un processus d’examen des données impliquant un examen manuel et une géolocalisation à l’aide d’outils de cartographie accessibles au public (par exemple, Google Maps) pour traiter les informations manquantes. Lorsque les coordonnées géographiques n’ont pas pu être déterminées de manière fiable, cela est explicitement indiqué dans l’ensemble de données.  \n  \n  • Les conditions du site peuvent avoir changé au fil du temps en raison de processus naturels ou d’activités humaines. RNCan n’accepte aucune responsabilité quant à l’incidence que de tels changements peuvent avoir sur l’exactitude ou la validité des observations, conclusions ou recommandations de l’ensemble de données.  \n  \n  • L’inclusion d’un site dans cet ensemble de données n’implique pas la faisabilité technique, économique ou environnementale. Toute élaboration possible exigerait des enquêtes supplémentaires, y compris des études de terrain détaillées, des évaluations environnementales, et des évaluations techniques et financières complètes.  \n  \n  Cet ensemble de données est fourni à des fins d’information seulement et n’est pas destiné à servir de seule base pour des décisions d’investissement, de planification ou de développement. Les utilisateurs sont fortement conseillés de faire preuve de diligence raisonnable indépendante, y compris des évaluations propres au site et des évaluations techniques, avant de prendre des décisions fondées sur l’ensemble de données.  \n  \n  En accédant à cet ensemble de données ou en l’utilisant, les utilisateurs reconnaissent et acceptent ces conditions et limites. Les fournisseurs de l’ensemble de données déclinent expressément toute responsabilité ou obligation pour les conséquences résultant de l’utilisation, de l’interprétation ou de la confiance accordée aux informations contenues dans les présentes. L’utilisation de cet ensemble de données se fait entièrement aux risques de l’utilisateur, et les utilisateurs assument l’entière responsabilité de toute mesure ou décision prise en fonction de son contenu.  \n  \n  Cet avis de non-responsabilité est fourni conformément aux lois et règlements applicables. En utilisant l’ensemble de données, les utilisateurs acceptent de dégager les fournisseurs de l’ensemble de données de toute revendication juridique, tout préjudice ou toute responsabilité pouvant découler de cette utilisation."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1f961450-eab8-4bb3-abde-6c1554efbaed"
+  ],
+  "dct_issued_s": "2025-11-04",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1f961450-eab8-4bb3-abde-6c1554efbaed\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canada’s Low-Head Hydropower Resource Database: Sites with Head Under 15 m and Capacity Below 50 MW",
+  "gbl_mdModified_dt": "2025-12-16T18:00:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "838ed034-dae3-59b0-af43-af0017d22f69",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

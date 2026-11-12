@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.3782, -88.1702, 60.066, 48.7013)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Feature layer of the Manitoba provincial boundary.  \n  \n  A feature layer of Manitoba's provincial boundaries:Manitoba/Ontario boundary, Manitoba/Saskatchewan boundary, Manitoba/Nunavut boundary, International boundary. Excluding the International Boundary, the graphical data was computed from original boundary survey measurements published in respective official boundary commission reports using least squares adjustment software \"Manor\". The adjustments were constrained to known NAD83 [nmip94 adj.] federal/provincial boundary marker positions. For the International Boundary, the graphics were created by converting the official published NAD27 marker positions for the boundary into NAD83 using datum conversion software NTv2 and interconnecting the plotted marker positions with straight lines using CARIS map software. The purpose is to provide end users with a digital map of Manitoba's boundaries.  This data layer is suitable for most medium and small scale digital map applications as well as GIS georeferencing in general. This Manitoba provincial boundary was originally published on January 12, 2004. It was uploaded to Manitoba Maps as a feature layer on December 15, 2016. Use Constraints: The Hudson Bay shoreline for this product was taken from 1:500,000 scale digital mapping and is intended for generalized small scale mapping of this portion of the provincial boundary. Estimated accuracy if plus or minus 125m. Fields Included: FID: Sequential unique whole numbers that are automatically generated, AREA: GIS area in square-metres calculated in the NAD83 Universal Transverse Mercator Zone 14 coordinate system, PERIMETER: GIS perimeter in metres calculated in the NAD83 Universal Transverse Mercator Zone 14 coordinate system, NAME: province name"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/97fef4c5-cd91-4128-969a-2211cab6c57a"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/97fef4c5-cd91-4128-969a-2211cab6c57a\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Provincial Boundary",
+  "gbl_mdModified_dt": "2025-02-05T19:13:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8eacb472-b3db-5478-b28c-4ef653c18aeb",
+  "locn_geometry": "ENVELOPE(-102.3782, -88.1702, 60.066, 48.7013)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

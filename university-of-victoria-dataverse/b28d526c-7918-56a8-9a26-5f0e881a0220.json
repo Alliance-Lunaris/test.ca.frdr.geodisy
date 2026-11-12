@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_keyword_sm": [
+    "Groundwater systems, Social-ecological systems, System classification, Self-organising maps, Archetype analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Huggins, Xander (University of Victoria, Global Institute for Water Security, University of Victoria, University of British Columbia, Princeton University, Stockholm Resilience Centre). ORCID: https://orcid.org/0000-0002-6313-8299",
+    "Gleeson, Tom (Groundwater Science and Sustainability Research Group, University of Victoria, University of Victoria). ORCID: https://orcid.org/0000-0001-9493-7707",
+    "Villholth, Karen G.. ORCID: https://orcid.org/0000-0002-7552-6715",
+    "Rocha, Juan C.. ORCID: https://orcid.org/0000-0003-2322-5459",
+    "Famiglietti, James S.. ORCID: https://orcid.org/0000-0002-6053-5379"
+  ],
+  "dct_description_sm": [
+    "Scripts used to produce data are archived in this repository and are also available on GitHub at: <a href =\"https://github.com/XanderHuggins/groundwaterscapes\" target=\"_blank\">https://github.com/XanderHuggins/groundwaterscapes</a>\n<br><br>\n<strong> **Click Tree View below to display file structure** </strong>",
+    "<strong> This repository consists of: </strong> <br>\n1. The global groundwaterscape classification raster <br>\n2. The groundwaterscape legend, with descriptions and attributes of each groundwaterscape <br>\n3. The colour map to reproduce the groundwaterscape maps as shown in the associated paper <br> \n4. An archive of the scripts used to perform all analysis, also located at the GitHub repository: <a href =\"https://github.com/XanderHuggins/groundwaterscapes\" target=\"_blank\">https://github.com/XanderHuggins/groundwaterscapes</a><br>\n5. A ReadMe file <br> \n<br>\n\n<strong> Associated paper's abstract: </strong> <br>\nGroundwater is a dynamic component of the global water cycle with important social, economic, ecological, and Earth system functions. We present a new global classification and mapping of groundwater systems, which we call groundwaterscapes, that represent predominant configurations of large-scale groundwater system functions. We identify and map 15 groundwaterscapes which offer a new lens to conceptualize, study, model, and manage groundwater. Groundwaterscapes are derived using a novel application of sequenced self-organizing maps that capture patterns in groundwater system functions at the grid cell level (~10 km), including groundwater-dependent ecosystem type and density, storage capacity, irrigation, safe drinking water access, and national governance. All large aquifer systems of the world are characterized by multiple groundwaterscapes, highlighting the pitfalls of treating these groundwater bodies as lumped systems in global assessments. We evaluate the distribution of Global Groundwater Monitoring Network wells across groundwaterscapes and find that industrial agricultural regions are disproportionately monitored, while several groundwaterscapes have next to no monitoring wells. This disparity undermines the ability to understand system dynamics across the full range of settings that characterize groundwater systems globally. We argue that groundwaterscapes offer a conceptual and spatial tool to guide model development, hypothesis testing, and future data collection initiatives to better understand groundwater’s embeddedness within social-ecological systems at the global scale."
+  ],
+  "dct_identifier_sm": [
+    "837710_71619",
+    "https://doi.org/10.5683/SP3/MFYCWV"
+  ],
+  "dct_issued_s": "2024-10-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MFYCWV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data and code from: Groundwaterscapes: A global classification and mapping of groundwater's large-scale socioeconomic, ecological, and Earth system functions",
+  "gbl_mdModified_dt": "2024-10-10T22:20:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b28d526c-7918-56a8-9a26-5f0e881a0220",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "pcdm_memberOf_sm": [
+    "UVic Research Data Collection"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

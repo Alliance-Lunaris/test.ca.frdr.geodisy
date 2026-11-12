@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "CCU",
+    "CSCU",
+    "Sécurité Publique",
+    "911",
+    "Urgences"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction générale de la sécurité incendie et des télécommunications d’urgence, MSI."
+  ],
+  "dct_description_sm": [
+    "__Desserte 9-1-1 (couverture cellulaire)__\r\n\r\nCette couche d’informations a pour but d'aviser les utilisateurs sur les répondants téléphoniques pour les communications d'urgence 9-1-1. Elle indique les zones où les appareils cellulaires peuvent être utilisés, et identifie le centre de communications d’urgence qui sera rejoint lors d’un appel cellulaire au 9-1-1.\r\n\r\n__Desserte des ententes des centres de communications d’urgence à l’aide d’un numéro d’urgence administratif (10 chiffres)__\r\n\r\nCette couche d'informations a pour but d'aviser les utilisateurs sur les répondants téléphoniques lors de communications d'urgence 9-1-1 avec un numéro à dix chiffres. Elle indique le centre de communications d’urgence qui répond à un appel logé à l’aide d'un téléphone satellite ou filaire pour les zones n'ayant pas de couverture cellulaire, ni de 9-1-1, et où l’utilisateur doit composer un numéro d’urgence administratif à dix chiffres.\r\n\r\nL'information pour les deux couches est saisie et mise à jour par la Direction du 9-1-1 et des télécommunications d’urgence du ministère de la Sécurité intérieure.\r\n\r\n___Précision :__ Les couches de la Desserte 9-1-1 et de la Desserte des ententes sont complémentaires. La Desserte 9-1-1 est basée sur les limites administratives municipales auxquelles la couverture cellulaire a été intersectée. À l’inverse, la Desserte des ententes est basée sur les limites administratives municipales auxquelles la couverture cellulaire a été soustraite afin de représenter les zones n'ayant pas de couverture 9-1-1 et nécessitant donc l'utilisation d'un numéro d'urgence administratif à dix chiffres._"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/6a052cb5-42e6-4735-8626-02f62f1294d0"
+  ],
+  "dct_issued_s": "2015-03-25",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/6a052cb5-42e6-4735-8626-02f62f1294d0\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Loi, justice et sécurité publique"
+  ],
+  "dct_title_s": "Desserte des centres d'urgences 9-1-1",
+  "gbl_mdModified_dt": "2026-09-08T14:40:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe3543bc-d848-5aab-a74e-8848d95ceb54",
+  "schema_provider_s": "Données Québec"
+}

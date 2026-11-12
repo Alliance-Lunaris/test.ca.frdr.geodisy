@@ -1,0 +1,81 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "terrestrial ecosystem mapping",
+    "ecosystem mapping",
+    "wildlife inventory",
+    "bioterrain mapping",
+    "terrain and ecosystems",
+    "TEI",
+    "STE",
+    "TEM",
+    "describing terrestrial ecosystems",
+    "BGC",
+    "TSM",
+    "slope stability",
+    "predictive ecosystem mapping",
+    "soil",
+    "ecology",
+    "Canada",
+    "Government information",
+    "DTEIF",
+    "bioterrain",
+    "erosion",
+    "terrain",
+    "Drainage",
+    "terrain stability mapping",
+    "sensitive ecosystem",
+    "terrain inventory mapping",
+    "PEM",
+    "WHR",
+    "TEIS",
+    "biogeoclimatic",
+    "STEWI",
+    "wildlife habitat rating",
+    "terrain mapping",
+    "SEI",
+    "ecosystem modelling",
+    "landslide",
+    "terrain stability",
+    "sensitive ecosystems inventory",
+    "sedimentation",
+    "ecosystem",
+    "TER"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Limites du projet d'étude des sols"
+  ],
+  "dct_creator_sm": [
+    "Terrestrial Ecosystem Information (TEI) Mailbox."
+  ],
+  "dct_description_sm": [
+    "Soil Survey (SL) Project Boundaries (STE_SOIL_PROJ_BOUNDARIES_SVW) contain boundaries (study areas) and attributes describing each SL project (project level metadata), and includes links to the locations of other data associated with the project (e.g., soil survey reports, polygon datasets, plotfiles, scanned maps, legends). This layer is derived from the [STE_TEI_PROJECT_BOUNDARIES_SP](https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) layer by filtering on the PROJECT_TYPE attribute. Project types include: SOIL, TIMSOI, and SOILSW. SL Project Boundaries should be used in conjunction with [Soil Name and Layer Files](https://catalogue.data.gov.bc.ca/dataset/soil-name-and-layer-files) and [Soil Survey Polygons](https://catalogue.data.gov.bc.ca/dataset/soil-survey-spatial-view) which divide the landscape into units according to soil association, name, type, drainage, parent material, and texture. Soil datasets and resources can also be accessed through the [Soil Mapping Data Packages](http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soil_Data/Soil_Data_Pkgs/) or the interactive mapping application [Soil Information Finder Tool](https://www2.gov.bc.ca/gov/content/environment/air-land-water/land/soil/soil-information-finder). **Current version**: v12 (2026-06-22)",
+    "Les limites du projet Soil Survey (SL) (STE_SOIL_PROJ_BOUNDARIES_SVW) contiennent des limites (zones d'étude) et des attributs décrivant chaque projet SL (métadonnées au niveau du projet), et incluent des liens vers les emplacements d'autres données associées au projet (par exemple, des rapports d'étude des sols, des ensembles de données polygonaux, des fichiers de parcelles, des cartes numérisées, des légendes). Cette couche est dérivée de la couche [STE_TEI_PROJECT_BOUNDARIES_SP] (https://catalogue.data.gov.bc.ca/dataset/1313fac7-2ea1-4c6b-995b-bd421b7ec3c6) en filtrant sur l'attribut PROJECT_TYPE. Les types de projets incluent : SOIL, TIMSOI et SOILSW. Les limites du projet SL doivent être utilisées conjointement avec [Soil Name and Layer Files] (https://catalogue.data.gov.bc.ca/dataset/soil-name-and-layer-files) et [Soil Survey Polygons] (https://catalogue.data.gov.bc.ca/dataset/soil-survey-spatial-view) qui divisent le paysage en unités en fonction de l'association du sol, du nom, du type, du drainage, du matériau d'origine et de la texture. Les ensembles de données et les ressources sur les sols sont également accessibles via les [Soil Mapping Data Packages] (http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soil_Data/Soil_Data_Pkgs/) ou l'application cartographique interactive [Soil Information Finder Tool] (https://www2.gov.bc.ca/gov/content/environment/air-land-water/land/soil/soil-information-finder). **Version actuelle** : v12 (2026-06-22)\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/427a0008-bcf8-48eb-b9e8-ef43f390c9ad"
+  ],
+  "dct_issued_s": "2011-03-09",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/427a0008-bcf8-48eb-b9e8-ef43f390c9ad\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Soil Survey Project Boundaries",
+  "gbl_mdModified_dt": "2026-07-29T18:33:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6513f5f4-db1f-58e8-8028-b9e4d76d8056",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

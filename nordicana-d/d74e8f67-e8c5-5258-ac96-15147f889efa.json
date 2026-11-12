@@ -1,0 +1,61 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.48871, -76.4788, 56.5689, 56.55959)",
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Profils d'irradiance mesurés et simulés, ainsi que de surface spécifique et de densité de la neige mesurés dans la vallée Tasiapik à Umiujaq, Nord du Québec"
+  ],
+  "dct_creator_sm": [
+    "Belke-Brea, Maria (Université Laval).",
+    "Domine, Florent.",
+    "Picard, Ghislain (Grenoble Alpes University).",
+    "Arnaud, Laurent (Grenoble Alpes University)."
+  ],
+  "dct_description_sm": [
+    "This dataset was collected during an autumn campaign in 2015 in Umiujaq, Northern Quebec. The dataset includes vertical profiles of 1) snow specific surface area (SSA), 2) snow density, and 3) measured and simulated spectral irradiance. All data, except the simulated spectral irradiance, were measured at seven sites which were all located in the Tasiapik valley near the village of Umiujaq. Four of the seven sites were covered by shrubs and three were without shrubs. Snow SSA was acquired with the DUFISSS instrument detailed in Gallet et al. (2009), https://doi.org/10.5194/tc-3-167-2009. Snow density profiles were measured with a 100 cm^3 box cutter. Measured spectral irradiance was taken with the SOLEXS instrument which has been described in detail by Picard et al. (2016) https://doi.org/10.5194/tc-10-2655-2016. Simulated spectral irradiance was calculated as a function of measured snow SSA, snow density and a selection of different impurity concentrations and types (i.e. BC and mineral dust) using the model SnowMCML (Picard et al., 2016). More details on method and data analysis can be found in the publication «On the influence of erect shrubs on the irradiance profile in snow» by Belke-Brea et al. (2021) https://doi.org/10.5194/bg-18-5851-2021. Additional notes: 1) Snow SSA and density: profiles were measured with a resolution of 1 to 3 cm. Where data was missing for a given depth, we performed linear interpolation between measured density data points, in order to synchronize the SSA and density profiles. 2) Several corrections have been applied to the measured irradiance profiles including a) the subtraction of the dark current, b) a depth correction, c) a normalization of the photosensor current to correct for small fluctuations during the measurements. Moreover, irradiance profiles were normalized with the incoming radiation at the surface.",
+    "Ces données ont été obtenues lors d’une campagne à l’automne 2015 à Umiujaq, nord du Québec. Les données comprennent des profils verticaux de 1) surface spécifique (SSA) de la neige; 2) densité de la neige; 3) irradiance mesurée et simulée. Les mesures ont été effectuées sur sept sites dans la vallée Tasiapik à proximité du village d’Umiujaq. Quatre des sept sites étaient couverts de toundra arbustive et trois étaient sans arbustes. La SSA de la neige a été mesurée avec l’instrument DUFISSS décrit dans Gallet et al. (2009), https://doi.org/10.5194/tc-3-167-2009. Les profils de densité ont été mesurés avec un échantillonneur de 100 cm^3. L’instrument SOLEXS décrit dans Picard et al. (2016) https://doi.org 10.5194/tc-10-2655-2016 a été utilisé pour les mesures des profils d’irradiance. Les profils d’irradiance ont été simulés en fonction de la SSA et de la densité mesurées, et une sélection de divers concentrations et types d’impuretés (par exemple du carbone suie et des poussières minérales) en utilisant le modèle snowMCML (Picard et al., 2016). Des détails concernant les méthodes et l’analyse des données sont fournis dans l’article : «On the influence of erect shrubs on the irradiance profile in snow» by Belke-Brea et al. (2021) https://doi.org/10.5194/bg-18-5851-2021. Notes additionnelles: 1) SSA et densité de la neige: les profils ont été mesurés avec une résolution de 1 à 3 cm. Là où des données manquaient pour une profondeur donnée, une interpolation linéaire a été réalisée entre les données de densité afin de faire coïncider les profils de SSA et de densité. 2) Plusieurs corrections ont été appliquées aux profils d’irradiance mesurés dont a) la soustraction du dark current, b) une correction de profondeur, c) une normalisation du courant du photorécepteur pour corriger des légères fluctuations pendant la mesure. De plus, les profils d’irradiance ont été normalisés par la radiation incidente à la surface."
+  ],
+  "dct_identifier_sm": [
+    "10.5885/45753ce-f2a3eb5488b442e3",
+    "https://doi.org/10.5885/45753ce-f2a3eb5488b442e3"
+  ],
+  "dct_issued_s": "2022-10-14",
+  "dct_publisher_sm": [
+    "Nordicana D"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5885/45753ce-f2a3eb5488b442e3\"}",
+  "dct_spatial_sm": [
+    "Shrub site 1",
+    "Shrub site 2",
+    "Shrub site 3",
+    "Shrub site 4",
+    "Shrub-free sites 1, 2, and 3"
+  ],
+  "dct_subject_sm": [
+    "density",
+    "irradiation",
+    "subarctique",
+    "irradiance",
+    "radiative impact of shrubs",
+    "arbustes",
+    "snow",
+    "autumn",
+    "radiation",
+    "bilan radiatif des arbustes",
+    "Umiujaq",
+    "neige",
+    "subarctic",
+    "SSA",
+    "automne",
+    "shrubs",
+    "densité"
+  ],
+  "dct_title_s": "Measured and simulated snow irradiance profiles as well as snow specific surface area and density data measured at shrub and shrub-free sites in the Tasiapik Valley in Umiujaq, Northern Québec",
+  "gbl_mdModified_dt": "2025-08-25T17:10:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d74e8f67-e8c5-5258-ac96-15147f889efa",
+  "locn_geometry": "ENVELOPE(-76.48871, -76.4788, 56.5689, 56.55959)",
+  "schema_provider_s": "Nordicana D"
+}

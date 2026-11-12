@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.097382, -64.976073, 47.281375, 47.209195)",
+  "dcat_keyword_sm": [
+    "Downloadable Data",
+    "Données téléchargeables",
+    "Évaluer l'état des espèces",
+    "Protect Species Well-Being",
+    "Atlantic - New Brunswick (NB)",
+    "Aquatic plants",
+    "Plante aquatique",
+    "New Brunswick; Neguac; Gulf of St. Lawrence",
+    "Protéger le bien-être des espèces",
+    "zostère; Zostera marina; classification d'images; littoral; télédétection",
+    "Atlantique - Nouveau-Brunswick (NB)",
+    "Assess Status of Species",
+    "Nouveau-Brunswick; Neguac; golfe du Saint-Laurent",
+    "eelgrass; Zostera marina; image classification; coastal; remote sensing; Nature and Biodiversity- habiat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Classification des zostères de la baie de Neguac"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "It has long been understood that eelgrass (Zostera marina) is important to waterfowl such as Atlantic Brant (Branta bernicla hrota), Canada Goose (Branta canadensis), American Black Duck (Anas rubripes), Common Goldeneye (Bucephala clangula) and Barrow's Goldeneye (Bucephala islandica). In New Brunswick, eelgrass can be found along the Gulf of St. Lawrence, in protected harbours such as at Neguac Bay, in the province's northeast (47015’N, 65002’W).This dataset contains results from an eelgrass classification for Neguac Bay, New Brunswick. True colour aerial photography at 57 centimetre resolution was collected on September 2, 2009 by Nortek Resources of Thorburn, Nova Scotia (https://www.nortekresources.com/). Image classification was conducted using eCognition Developer v. 8 Software, which first segments the image into spectrally similar units, which were then classified manually. Additionally, the Department of Fisheries and Oceans (Gulf Region, Moncton, NB) conducted a visual field survey in the same field season at 126 sites. Two-thirds of these sites were used to assist in image classification, while the remainder were used to assess accuracy. Three classes were identified:Good Quality Eelgrass: relatively dense, clean, green blades with minimal epiphytes or algal growth. Medium Quality Eelgrass: predominately green blades that may have some epiphyte or algal growth. These stands can be less or equally dense as Good Quality Eelgrass, but the best grasses are certainly not as abundant. Eelgrass Absent/Poor Quality: eelgrass is absent, or if it is present it is typically covered with epiphytes or other algae or dying or dead. Eelgrass was classified correctly 81% of the time in a fuzzy accuracy assessment technique, whereby those classes that were ‘off’ by one class, e.g. Good Quality eelgrass classed as Medium Quality, were given half credit towards the overall accuracy. Of 39 sites that were within the classification area, 27 were correct, 9 were \"one-off\", and 3 were incorrect [(27 + (9/2))/ 39 = 0.81].",
+    "Cet ensemble de données contient les résultats d’une classification de la couverture de zostère marine dans la baie de Neguac, au Nouveau-Brunswick. Une photographie aérienne en couleur réelle à une résolution de 57 centimètres a été prise le 2 septembre 2009 par la firme Nortek Resources de Thorburn, en Nouvelle-Écosse (https://www.nortekresources.com/ [en anglais seulement]). La classification d’image a d’abord été effectuée à l’aide du logiciel eCognition Developer v. 8, qui segmente l’image en unités ayant des propriétés spectrales similaires, puis ces unités ont été classées manuellement. Le ministère des Pêches et des Océans (région du Golfe, Moncton, Nouveau-Brunswick) a également effectué un relevé visuel dans 126 sites au cours de la même campagne sur le terrain. On a utilisé les deux tiers de ces sites pour aider à la classification d’image, tandis que les sites restants ont servi à évaluer l’exactitude.   \n  \n  La couverture de zostère marine a été classée correctement dans 81 % des cas au moyen d’une technique de vérification floue de l’exactitude, selon laquelle les images qui étaient décalées d’une classe, p. ex. une image de zostère marine de bonne qualité classée comme étant de qualité moyenne, ont vu leur poids diminuer de moitié dans l’évaluation de l’exactitude globale. Des 39 sites qui se trouvaient dans la zone de classification, 27 ont été classés correctement, 9 étaient décalés d’une classe, et 3 ont été classés incorrectement [(27 + (9/2)) / 39 = 0,81]."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/79981333-c55e-499a-8633-16f66f304bc4"
+  ],
+  "dct_issued_s": "2016-03-09",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/79981333-c55e-499a-8633-16f66f304bc4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Neguac Bay Eelgrass Classification",
+  "gbl_mdModified_dt": "2024-07-15T11:40:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a9114583-4fa5-5e73-8533-93c5e5ee9c86",
+  "locn_geometry": "ENVELOPE(-65.097382, -64.976073, 47.281375, 47.209195)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "lidar",
+    "Digital Terrain Model",
+    "Digital Surface Model",
+    "Digital elevation data",
+    "Digital Elevation Model",
+    "Copernicus",
+    "Modèle numérique d'élévation à moyenne résolution",
+    "Carte de pente",
+    "Modèle numérique de surface",
+    "Modèle numérique de terrain",
+    "lidar",
+    "Carte d'aspect",
+    "Copernicus",
+    "Relief ombré",
+    "Données numériques d'élévation",
+    "Medium resolution Digital Elevation Model",
+    "Shaded Relief",
+    "Aspect Map",
+    "Relief ombré couleur",
+    "Slope Map",
+    "Color Shaded Relief",
+    "Modèle numérique d'élévation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle numérique d'élévation de moyenne résolution (MNEMR) - Série CanÉlévation"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "**ATTENTION! The files in this dataset are designed for streaming, not downloading. For the best experience, please follow the instructions available in the resources.**\n\nIn replacement of the former Canadian Digital Elevation Model (CDEM) that is no longer supported, the Medium Resolution Digital Elevation Model (MRDEM) product is a multi-source product that integrates elevation data from the Copernicus DEM** acquired during the TanDEM-X Mission (AIRBUS, 2022), and the High Resolution Digital Elevation Model data derived from airborne lidar. This product provides a complete, 30 meters resolution, nationwide  coverage for Canada. It includes a Digital Terrain Model (DTM), a Digital Surface Model (DSM) and other derived products. The spatial coverage extends into the USA, where needed, to provide coverage for cross-border watersheds in support of hydrological studies and applications. \n\nThe MRDEM-30-DSM is partially based on the GLO-30 version of the Copernicus DEM** (hereafter named GLO-30). Since elevation values from the GLO-30 are referenced to the EGM2008 geoid model, they were transformed to the Canadian Height Reference System of 2013 (CGVD2013), using the CGG2013 geoid model. Where available, the MRDEM-30-DSM integrates surface data from the lidar-derived HRDEM mosaic, resampled from 1 m to 30 m. \n\nThe process to generate the MRDEM-30-DTM is more complex. Where available, the HRDEM Mosaic derived from lidar was used since it already provides reliable terrain elevation values. The HRDEM Mosaic data used was resampled from 1m to 30m. Elsewhere, the processing workflow combines a forest removal model and a settlement removal model that is applied to the GLO-30 values in order to estimate the terrain elevation values. \n\nBoth datasets are projected to Canada Atlas Lambert NAD83 (CSRS) (EPSG:3979).\n\nThe MRDEM is referenced to the CGVD2013 which is the reference standard for orthometric heights across Canada.\n\nThe product Medium Resolution Digital Elevation Model (MRDEM) is part of the CanElevation Series created in support to the National Elevation Data Strategy implemented by NRCan.\n\n** This product was in part produced using Copernicus WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014- 2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.\nThe organisations in charge of the Copernicus program by law or by delegation do not incur any liability for any use of the Copernicus WorldDEM-30.",
+    "**ATTENTION! Les fichiers de ce jeu de données sont conçus pour un usage en continu (streaming) et non à être téléchargés. Pour une expérience optimale, veuillez suivre les instructions disponibles dans les ressources.**\n\nEn remplacement de l'ancien Modèle numérique d'élévation du Canada (MNEC) qui n'est plus supporté, le Modèle numérique d'élévation de moyenne résolution (MNEMR) est un produit multisource intégrant les données d'élévation du MNE Copernicus** acquises lors de la mission TanDEM-X (AIRBUS, 2022), et les données du Modèle numérique d'élévation à haute résolution dérivées du lidar aéroporté (MNEHR). Ce produit offre une couverture nationale complète à une résolution de 30 mètres. Il comprend un modèle numérique de terrain (MNT), un modèle numérique de surface (MNS) ainsi que des produits dérivés. Afin de faciliter les applications hydrologiques, la couverture spatiale s'étend jusqu'aux États-Unis afin de couvrir les bassins versants transfrontaliers.\n\nLe MNEMR-30-MNS est basé, en partie, sur la version GLO-30 du MNE Copernicus** (ci-après GLO-30). Étant donné que les valeurs d’élévation du GLO-30 sont référencées par rapport au modèle de géoïde EGM2008, elles ont été transformées vers le Système canadien de référence altimétrique de 2013 (CGVD2013) à l’aide du modèle de géoïde CGG2013. Lorsque disponible, le MNEMR-30-MNS intègre les données de surface de la mosaïque MNEHR dérivée du lidar, rééchantillonnées de 1 m à 30 m. \n\nLe processus de génération du jeu de données MNT du MNEMR est plus complexe et implique différentes sources. Lorsque disponible, la mosaïque MNEHR dérivée du lidar a été utilisée, car elle fournit des valeurs d'élévation précises du terrain. Les données de la mosaïque MNEHR utilisées ont été rééchantillonnées à une résolution de 30 mètres. De plus, le processus de traitement combine un modèle d'élimination des forêts et un modèle d'élimination des éléments bâtis qui sont appliqués aux valeurs GLO-30 afin d'estimer les valeurs d'élévation du terrain. \n\nLes deux jeux de données sont livrés en projection Canada Atlas Lambert NAD83 (CSRS) (EPSG:3979).\n\nLe produit MRDEM est référencé au Système canadien de référence altimétrique de 2013 (CGVD2013) qui est le standard pour les hauteurs orthométriques au Canada\n\nLe produit Modèle numérique d'élévation de moyenne résolution (MNEMR) fait partie de la Série CanÉlévation créée pour appuyer la Stratégie nationale de données d’élévation mise en oeuvre par RNCan.\n\n** Ce produit a été partiellement réalisé à l'aide de Copernicus WorldDEM-30 © DLR e.V. 2010-2014 et © Airbus Defence and Space GmbH 2014- 2018 fourni dans le cadre de COPERNICUS par l'Union européenne et l'ESA ; tous droits réservés.\nLes organisations responsables du programme Copernicus par la loi ou par délégation n'encourent aucune responsabilité pour toute utilisation du Copernicus WorldDEM-30."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/18752265-bda3-498c-a4ba-9dfe68cb98da"
+  ],
+  "dct_issued_s": "2025-06-20",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/18752265-bda3-498c-a4ba-9dfe68cb98da\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Medium Resolution Digital Elevation Model (MRDEM) - CanElevation Series",
+  "gbl_mdModified_dt": "2026-07-16T12:31:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2dbab034-2e04-5cf1-be31-26972f5c355d",
+  "locn_geometry": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

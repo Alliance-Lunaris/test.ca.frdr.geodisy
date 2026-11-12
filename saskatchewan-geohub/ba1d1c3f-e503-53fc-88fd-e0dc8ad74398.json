@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.5561199244818, -100.89416545349927, 54.568463665823494, 48.898969042337384)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "road network",
+    "Transportation",
+    "Infrastructure",
+    "RuralRoads",
+    "infrastructure",
+    "Road Network",
+    "ruralroads",
+    "Rural Roads"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>RURALROAD_OFFICIAL consists of Rural Municipal (RM) road system in Saskatchewan. RM road system is based on the Dominion Lands Survey. Original geometry of this layer is derived from National Road Network data layer. Rural Municipalities are the responsible of the correctness and currentness of the day and Saskatchewan Ministry of Highways and Infrastructure (MHI) maintained this data layer/table according to the NRN standards. This data layer is based on the Linear Reference System (LRS) concepts. KM_FROM and KM_TO fields store the start point and the end point at Kilometer information of the line segment. Unique Identifiers NID) is associated with each line segment. The \"DESRD_PPID\" is the combination of RM Number, Project Number and Road Type (224-201-10). RURALROAD_ID auto generated unique ID for each rural road segment. \"NID\" National Identifier is used to manage the updates between data producer and data users. RURALROAD_OFFICIAL data layer is one of the important data table for SURN, NRN, SASK911, CAR and other applications.</SPAN></P><P STYLE=\"text-align:Justify;margin:0 0 0 0;\"><SPAN /></P><P STYLE=\"text-align:Justify;margin:0 0 0 0;\"><SPAN /></P><P><SPAN /></P></DIV></DIV></DIV>"
+  ],
+  "dct_identifier_sm": [
+    "f3ab89cb96f14ee8942c9466d836c998",
+    "https://www.arcgis.com/home/item.html?id=f3ab89cb96f14ee8942c9466d836c998"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/datasets/saskatchewan::ruralroad-official\"}",
+  "dct_rights_sm": [
+    "Data are subject to the GeoBase Unrestricted Use Licence Agreement. Open Government Licence - Canadahttp://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "RURALROAD_OFFICIAL",
+  "gbl_mdModified_dt": "2025-06-10T18:53:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ba1d1c3f-e503-53fc-88fd-e0dc8ad74398",
+  "locn_geometry": "ENVELOPE(-110.5561199244818, -100.89416545349927, 54.568463665823494, 48.898969042337384)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

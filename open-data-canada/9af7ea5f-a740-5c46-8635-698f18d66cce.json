@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Parc",
+    "Ville de shawinigan",
+    "Information gouvernementale",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polygonal layer of parks and green spaces maintained by the municipality.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n Vectorization of cadastral boundaries\n\nFleet name given by the Communications Department\n\n**Attributes**\n\n* _name_ (_String_): Name\n* _address_ (_String_): Civic address\n* _sector_ (_String_): Sector\n* _pdf_ (_String_): \n* _no_parc_ (_String_): Unique identifier\n* _area_ (_Integrate_): Area\n* _park_type_ (_String_): Park type\n* _st_area (shape) _ (_Double_): Surface\n* _st_length (shape) _ (_Double_): Perimeter\n* _objectid_ (_OID_): \n* _old_name_ (_String_): \n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polygonale des parcs et espaces verts entretenus par la municipalité.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n Vectorisation des limites cadastrales\n\nNom de parc donné par le service des Communications\n\n**Attributs**\n\n* _nom_ (_String_) : Nom\n* _adresse_ (_String_) : Adresse civique\n* _secteur_ (_String_) : Secteur\n* _pdf_ (_String_) : \n* _no_parc_ (_String_) : Identifiant unique\n* _superficie_ (_Integer_) : Superficie\n* _type_parc_ (_String_) : Type de parc\n* _st_area(shape)_ (_Double_) : Surface\n* _st_length(shape)_ (_Double_) : Périmètre\n* _objectid_ (_OID_) : \n* _ancien_nom_ (_String_) : \n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/08123b30-f795-432b-8b4a-13a3925f72f4"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/08123b30-f795-432b-8b4a-13a3925f72f4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Parcs et espaces verts - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-29T17:43:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9af7ea5f-a740-5c46-8635-698f18d66cce",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.899489, -108.457447, 60.094657, 48.895825)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset accompanies Open File Report 2009-02. Between 1971 and 1983, the Alberta Research Council created a series of hydrogeological maps of Alberta. The geologists examined the sediment types present and used existing water well information to assign yield values to distinct zones within the mapped areas. They also looked at the materials, generally to a depth of 305 metres (1000 feet) below ground surface, and added the yields of the sediments encountered within this interval to arrive at a yield value for the whole. Alberta Geological Survey compiled the shapefiles for the yield polygons, digitized by the Prairie Farm Rehabilitation Agency, and then digitized the remaining linework for the remaining map areas. Afterwards, we created a geodatabase of the yield polygons for the entire province and assigned yield values to the polygons based on the original maps. We also assigned the most likely formation name, age and lithology to the yield polygon."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7859080d-a5e2-4120-bd50-87214a85ed4d"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7859080d-a5e2-4120-bd50-87214a85ed4d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Compilation of Alberta Research Council's Hydrogeology Maps (GIS data, polygon features)",
+  "gbl_mdModified_dt": "2026-03-04T19:13:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2f42bbdf-4dfe-5bf7-abd3-7b94a8d17477",
+  "locn_geometry": "ENVELOPE(-120.899489, -108.457447, 60.094657, 48.895825)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

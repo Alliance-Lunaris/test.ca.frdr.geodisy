@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.27, -123.02, 49.315, 49.195)",
+  "dcat_keyword_sm": [
+    "Species Movement",
+    "Omniscape",
+    "University of British Columbia",
+    "Habitat Connectivity",
+    "Ecological Connectivity",
+    "Connectivity",
+    "Pacific Spirit Regional Park",
+    "UBC"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Goh, Kun Han (University of British Columbia). ORCID: https://orcid.org/0009-0006-7954-727X"
+  ],
+  "dct_description_sm": [
+    "Human activities and rapid urbanization have led to habitat destruction and fragmentation, severely impacting biodiversity and ecosystem services globally. This study focuses on the UBC campus, surrounded by the Pacific Spirit Regional Park, to assess and enhance ecological connectivity through the urban landscape. Using advanced remote sensing techniques, including Planet SkySat satellite imagery and British Columbia 2022 LiDAR data, we classified the landscape and identified key habitats. Keystone species were selected based on habitat dependency, observation density, and conservation status, utilizing datasets from the Global Biodiversity Information Facility (GBIF) between 2010 to 2023. The study employed Omniscape, an implementation of Circuitscape 4.0, to model the randomized movement of animals across a resistance-weighted landscape, providing a nuanced understanding of how\nurban features influence ecological flows. Our findings indicate that urban areas, especially the central UBC campus, act as barriers and funnel species movement, particularly affecting those with small movement ranges and unique habitat requirements, such as the Pacific Tree Frog and Douglas's Squirrel. The analysis\nhighlighted areas of highly channelized flows where predicted movement exceeds landscape capacity, leading from Pacific Spirit Regional Park to UBC's Central core. UBC’s Main Mall was predicted to have highly channelized flow across all species and is a critical corridor for conservation and enhancement. Other recommendations for UBC include creating an East West Ecological Corridor, replicating Main Mall’s design. The existing landscape should be intensified by integrating more water bodies and riparian areas to support amphibian species and interspersing shrub planting between trees to expand habitat availability."
+  ],
+  "dct_identifier_sm": [
+    "720977_73894_115983",
+    "https://doi.org/10.5683/SP3/VFME5L"
+  ],
+  "dct_issued_s": "2024-07-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VFME5L\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Ecological Connectivity Through UBC – An Omniscape Approach",
+  "gbl_mdModified_dt": "2024-07-03T22:22:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7d44a8a4-e1bc-5a75-ba59-d7490f998bff",
+  "locn_geometry": "ENVELOPE(-123.27, -123.02, 49.315, 49.195)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

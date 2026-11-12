@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.704, -128.004, 55.622, 55.365)",
+  "dcat_keyword_sm": [
+    "DEM",
+    "Stream Networks",
+    "Bench Heights",
+    "Riparian Zones",
+    "LiDAR",
+    "Terrace Platforms",
+    "Floodplain Extent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Akers, Jordan (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Currently, light detection and ranging (LiDAR) scans have been used to produce 1m & 5m digital elevation models (DEMs) throughout many important drainages across the province and are ideal candidates to effectively inform vegetation classification within floodplain and riparian ecosystems. These ecosystems are highly influenced by fluctuating freshwater regimes and are invaluable in providing, regulating, and supporting various ecosystem functions. This paper explored the extent that various floodplain characteristics, including bench heights and overall floodplain extent, can be modelled using a readily available 1m DEM within the Date Creek Research Forest (DCRF) in northwestern British Columbia (BC), Canada. Stream paths were derived from a flow accumulation analysis of the DEM. These paths highlighted how the pre-existing river feature network, the Freshwater Atlas, differed up to 230.8m, with a median distance between segments being 23.4m. Bench height transition areas were easily identifiable considering slope and curvature, yet further research is needed to classify areas of the varying benches across the landscape. The Height Above Nearest Drainage (HAND) method was used to assess floodplain extent using peak water depth values observed at nearby water survey of Canada hydrometric stations. Overall, the HAND method is limited to generating water height along flow paths that drain into the main stream, and such are inaccurate in demonstrating any spill over into adjacent braided river channels. This paper demonstrates the inadequacies of using the HAND method to define floodplain extent within braided river channels common throughout BC floodplains and therefore concludes that alternative methods should be employed when expanding floodplain prediction to other rivers systems within the province."
+  ],
+  "dct_identifier_sm": [
+    "329605_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/59PXF6"
+  ],
+  "dct_issued_s": "2022-05-03",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/59PXF6\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kispiox, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Determining Floodplain Characteristics Using Active Remote Sensing",
+  "gbl_mdModified_dt": "2022-05-03T16:49:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "62fcf14f-b990-5062-895a-8abae616e524",
+  "locn_geometry": "ENVELOPE(-127.704, -128.004, 55.622, 55.365)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

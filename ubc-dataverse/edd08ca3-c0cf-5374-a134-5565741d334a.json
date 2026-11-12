@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(43.224548, 43.324305, -22.112042, -22.283556)",
+  "dcat_keyword_sm": [
+    "Monitoring",
+    "Sentinel-2 Imagery",
+    "Blue Carbon",
+    "Cloud Computing",
+    "Restoration",
+    "Google Earth Engine",
+    "Madagascar",
+    "Mangroves"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Tessema, Brook Yitbarek (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Mangroves are unique plant species that support livelihoods and provide critical ecosystem services. Globally, mangroves have faced significant threats from deforestation, causing rapid decline; however, recent restoration efforts have made a positive impact. Effective restoration requires regular monitoring and evaluation to ensure its long-term success. This study aims to support mangrove restoration efforts in the Bay of Assassins, Madagascar by evaluating the utility of remote sensing technologies for short-term monitoring. Since 2015, restoration efforts in the area have achieved notable success making continued monitoring essential for sustainability. Blue Ventures’ Google Earth Mangrove Mapping Methodology (GEM), a cloud computing tool hosted on Google Earth Engine, along with Sentinel-2 satellite imagery, were leveraged to examine mangroves from 2019 to 2024. The objective was to assess and quantify mangrove growth and health dynamics, identifying trends in gain and loss over the five-year period. Previous GEM applications exclusively used Landsat imagery with each pixel representing 30 by 30 meters of ground area. This study aimed to build on this work by using the higher level of detail provided by Sentinel-2’s 10-meter resolution. The findings demonstrate that Sentinel-2 imagery, and GEM effectively captured changes in mangrove extent and health, revealing a net increase in total mangrove cover from 2019 to 2024. Mangrove health assessments using spectral indices indicated that many restored areas improved in health, while some exhibited stagnation or decline, suggesting the need for further investigation into site-specific conditions. With an average accuracy of 96% across all mangrove maps, this study successfully demonstrated the utility of the GEM tool in performing high-resolution analysis and assessing mangrove growth"
+  ],
+  "dct_identifier_sm": [
+    "894518_73894_115983",
+    "https://doi.org/10.5683/SP3/TCRSVH"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/TCRSVH\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Befandefa, Morombe, Madagascar"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Other",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Monitoring Mangrove Recovery in the Bay of Assassins, Madagascar",
+  "gbl_mdModified_dt": "2025-04-22T16:59:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "edd08ca3-c0cf-5374-a134-5565741d334a",
+  "locn_geometry": "ENVELOPE(43.224548, 43.324305, -22.112042, -22.283556)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

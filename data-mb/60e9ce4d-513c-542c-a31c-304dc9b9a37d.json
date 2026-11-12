@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8785756, -92.09822272999999, 58.771812649999994, 49.01564324)",
+  "dcat_keyword_sm": [
+    "Naloxone",
+    "Health",
+    "overdose",
+    "Take Home Program",
+    "opioid",
+    "Manitoba Government",
+    "Manitoba",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<font size='3'>This feature point layer shows the locations of distributors participating in the Naloxone Take Home Program in Manitoba. Naloxone is a drug that temporarily reverses overdose (toxicity) caused by opioid drugs (such as fentanyl, heroin, morphine, hydromorphone). Free take-home naloxone kits are available to members of the public who are at risk of opioid overdose (toxicity), and family or friends who may witness opioid toxicity. For more information see<font color='#2c3135' face='Open Sans, Arial, sans-serif'> </font><a href='https://www.manitoba.ca/health/publichealth/naloxone.html' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba Health</a><span style='color:rgb(44, 49, 53); font-family:&quot;Open Sans&quot;, Arial, sans-serif; text-decoration-line:inherit;'>.</span></font><div><font color='#2c3135' face='Open Sans, Arial, sans-serif' size='3'><br /></font></div><div><font color='#2c3135' face='Open Sans, Arial, sans-serif' style='font-size:medium;'>This feature layer is used in </font><span style='font-size:medium;'>the </span><a href='https://manitoba.maps.arcgis.com/home/item.html?id=ab085a62cd4d48f6885682be6b9023fb' target='_blank' rel='nofollow ugc noopener noreferrer'>Naloxone Distributors Map - Take Home Program</a><font color='#2c3135' face='Open Sans, Arial, sans-serif' style='font-size:medium;'> and </font><a href='https://manitoba.maps.arcgis.com/home/item.html?id=8f93f6ea8c114ffd8884f32aabae522f' target='_blank' rel='nofollow ugc noopener noreferrer'>Naloxone Finder - Take Home Program</a><span style='font-size:medium;'> application</span><font color='#2c3135' face='Open Sans, Arial, sans-serif' style='font-size:medium;'>.</font><font color='#2c3135' face='Open Sans, Arial, sans-serif' size='3'><br /></font><div><font size='3'><span style='color:rgb(44, 49, 53); font-family:&quot;Open Sans&quot;, Arial, sans-serif; text-decoration-line:inherit;'><br /></span></font></div><div><div><u>Fields included</u> (<b>Alias </b>(Field Name): Field description)<br /></div><div><ul><li><b>Distributor </b>(Distributor): Business name of the distributor.</li><li><b>Product </b>(Product): The type of product available from the distributor.</li><li><b>Address</b> (Address): Street address or mailing address, if applicable, of the distributor.</li><li><b>City </b>(City): City or town in which the distributor is located.</li><li><b>Postal Code </b>(Postal_Code): Postal code for the distributor's location.</li><li><b>Participating</b> (Participating): Indicates participation in the Naloxone Take Home Program. </li><li><b>Phone </b>(Phone): Distributor's public business phone number.</li><li><b>Provider Type</b> (Provider_Type): Type of provider. Includes Pharmacy, Medical Clinic, Nursing Station, Public Health Unit, and Other Organization.<br /></li><li><b>RHA </b>(RHA): Regional Health Authority</li><li><b>Latitude </b>(Latitude): Latitudinal coordinate of distributor</li><li><b>Longitude </b>(Longitude): Longitudinal coordinate of distributor</li><li><b>ObjectId </b>(ObjectId): Unique identifier</li></ul></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "a1d477630d1c4eb097b2ab9ba7f8ac56",
+    "https://www.arcgis.com/home/item.html?id=a1d477630d1c4eb097b2ab9ba7f8ac56"
+  ],
+  "dct_issued_s": "2022-10-19",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::naloxone-distributors-take-home-program\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Naloxone_Distributors_Take_Home_Program",
+  "gbl_mdModified_dt": "2026-09-21T18:30:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "60e9ce4d-513c-542c-a31c-304dc9b9a37d",
+  "locn_geometry": "ENVELOPE(-101.8785756, -92.09822272999999, 58.771812649999994, 49.01564324)",
+  "schema_provider_s": "Data MB"
+}

@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "savannas",
+    "seasonally dry tropical forest",
+    "Forest-savanna mosaic",
+    "Remote Sensing",
+    "Southeast Asia",
+    "tree cover"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pletcher, Elise (University of British Columbia). ORCID: https://orcid.org/0000-0002-5756-8364",
+    "Staver, Carla (Yale University).",
+    "Schwartz, Naomi (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 8</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/s7DGJ38m7cgsuuRSB3-hkrCzXZjTii7PZNak8OKThoM</p>\n<p><b>Storage size:</b> 54562692</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Forest-savanna mosaics exist across all major tropical regions. Yet, the influence of environmental factors on the distribution of these mosaics is not well explored, limiting our understanding of the environmental constraints on savannas especially in Southeast Asia, where most savannas exist in mosaics. Despite clear structural and functional characteristics indicative of savannas, most SE Asian savannas continue to be classified as forest. This designation is problematic because SE Asian savannas are threatened by both fragmentation and forest-centric management practices. By studying forest-savanna mosaics across SE Asia, we aimed to parse out how landscape mosaics of forest and savanna may be constrained by fire, climate, and soil characteristics. We used remotely sensed data to characterize the distribution of tree cover and forest-savanna mosaics. Using regression models, we quantified the relative effects of precipitation, fire frequency, seasonality, and soil characteristics on average tree cover and landscape patchiness. We found that low tree cover, indicative of savannas, occurs in drier, seasonal subregions that experience frequent fire. Further, our results demonstrate that fire and precipitation strongly shape landscape patchiness. Landscapes were patchiest in subregions with low precipitation and intermediate fire frequency. These results demonstrate that the environmental factors important in delineating the distribution of savannas globally shape the distribution of tree cover and landscape patchiness across SE Asia. Fire especially drives patterns of tree cover across scales. In a region where fire suppression is a common management strategy, our results suggest that further research studying vegetation response to fire and fire suppression is needed to improve management and conservation of these mosaic landscapes. More broadly, this work demonstrates a useful approach for studying the environmental drivers that influence the distribution of forest-savanna mosaics.</p>",
+    "<b>Methods</b><br /><p><span lang=\"NO-BOK\">Fire frequency was derived from </span>the MCD64A1.006 MODIS Burned Area Monthly Global product (500 m resolution) (Giglio et al. 2018)</p>\n<p>Mean annual precipitation (MAP) was derived from both CHIRPS Daily: Climate Hazards Group InfraRed Precipitation with Station Data from 1981-2020 (0.05° resolution; roughly 5.6 x 5.6 km) (Funk et al. 2015) and TRMM 3B43: Monthly Precipitation Estimates (0.25° resolution; roughly 28 x 28 km) (Huffman et al. 2007).</p>\n<p>Precipitation seasonality was derived as described by Schwartz et al. (2020) and Feng et al. (2013).</p>\n<p>Soil sand content was extracted from Harmonized World Soil Database (30 arc seconds resolution) (FAO/IIASA/ISRIC/ISS-CAS/JRC 2012).</p>\n<p>We characterized tree cover using the Global Forest Change (GFC) v1.7 (2000-2019) product which contains high resolution (30 m) maps of tree cover (%) from the year 2000 (Hansen et al. 2013). Aggregated to 0.05 degrees resolution.</p>\n<p>For analysis of within landscape patterns, 1,000 grid cells or landscapes were randomly subsampled, and 30 m resolution tree cover was extracted for each.</p>\n<p>Characterizing landscape mosaics: Within each landscape, raw 30 m tree cover data was classified as either forest (tree cover &gt;65%), savanna (tree cover &lt;65%), or anthropogenic land cover.</p>\n<p>Landscape metrics: number of patches, mean patch area, Shannon evenness, and landscape shape index.</p>"
+  ],
+  "dct_identifier_sm": [
+    "340399_150149",
+    "https://doi.org/10.5683/SP3/Y0JG9E"
+  ],
+  "dct_issued_s": "2022-05-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Y0JG9E\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "The environmental drivers of tree cover and forest-savanna mosaics in Southeast Asia",
+  "gbl_mdModified_dt": "2022-05-26T15:45:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "178ecbea-1636-5609-a60b-5cd63a4d1630",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Polygons and surfaces representing the extent of sidewalks on the territory of the city of Saint-Hyacinthe.\nTechnical drawing layer that does not represent the pedestrian network, but rather the sidewalk area.\n\n**Collection context**\n Technical drawing by civil engineering technicians.\nCollection by project from design plans or plans as built.\n\n**Collection method**\n Computer-aided technical drawings.\n\n**Attributes**\n\n* `ID_TROTTOIR_S` (`integer`): Identifier\n* `PRIVE` (`varchar`): Property\n* `TYPE` (`varchar`): Type\n* `ODO_INDEX_LONG` (`varchar`): Long odonym index\n* `ODO_INDEX_COURT` (`varchar`): Short odonym index\n* `ODO_LONG_COMPLETE` (`varchar`): Full long odonym\n* `ODO_COURT_COMPLETE` (`varchar`): Short odonym\n* `ODONYM` (`varchar`): Odonym\n* `COATING` (`nchar`): Coating\n* `ANNEE_INSTALL` (`nchar`): Year of installation\n* `LENGTH` (`numeric`): Length\n* `WIDTH` (`numeric`): Width\n* `AREA` (`numeric`): Area\n* `LOCATION` (`varchar`): Location\n* `NOTES` (`nvarchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Creation date\n* `DATE_MODIFICATION` (`smalldatetime`): Date of modification\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Polygones et surfaces représentant l'emprise des trottoirs sur le territoire de la ville de Saint-Hyacinthe.\nCouche de dessin technique ne représentant pas le réseau piétonnier, mais plutôt l'aire des trottoirs.\n\n**Contexte de collecte**\n Dessin technique par techniciens en génie civil.\nCollecte par projet partir de plans de conception ou de plans tel que construits.\n\n**Méthode de collecte**\n Dessins technique assisté par ordinateur.\n\n**Attributs**\n\n* `ID_TROTTOIR_S` (`integer`) : Identifiant\n* `PRIVE` (`varchar`) : Propriété\n* `TYPE` (`varchar`) : Type\n* `ODO_INDEX_LONG` (`varchar`) : Index d'odonyme long\n* `ODO_INDEX_COURT` (`varchar`) : Index d'odonyme court\n* `ODO_LONG_COMPLET` (`varchar`) : Odonyme long complet\n* `ODO_COURT_COMPLET` (`varchar`) : Odonyme court\n* `ODONYME` (`varchar`) : Odonyme\n* `REVETEMENT` (`nchar`) : Revêtement\n* `ANNEE_INSTALLE` (`nchar`) : Année d'installation\n* `LONGUEUR` (`numeric`) : Longueur\n* `LARGEUR` (`numeric`) : Largeur\n* `AIRE` (`numeric`) : Aire\n* `EMPLACEMENT` (`varchar`) : Emplacement\n* `NOTES` (`nvarchar`) : Notes\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREATION` (`smalldatetime`) : Date de création\n* `DATE_MODIFICATION` (`smalldatetime`) : Date de modification\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ad69be3f-52ff-46e2-b94e-8e09f611c4a1"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ad69be3f-52ff-46e2-b94e-8e09f611c4a1\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Surfaces de trottoirs - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T17:33:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "66c6e9ff-6005-5a35-a8e1-2d03422ef964",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

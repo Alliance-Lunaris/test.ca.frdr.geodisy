@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.091, -69.012, 48.678, 48.6016)",
+  "dcat_keyword_sm": [
+    "St. Lawrence river; St. Lawrence Estuary; North coast St. Lawrence Estuary; Forestville",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Occurrence; Échantillonnage; Biodiversité; Mactre de Stimpson",
+    "Aquatic wildlife",
+    "Occurrence; samplingEvent; Biodiversity; Stimpson's surfclam; Arctic surfclam",
+    "Fleuve St-Laurent; Estuaire du St-Laurent; Côte nord de l'estuaire du St-Laurent; Forestville",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biodiversité du relevé de la mactre de Stimpson à la drague hydraulique dans l'estuaire du Saint-Laurent (2017)"
+  ],
+  "dct_creator_sm": [
+    "Virginie Roy."
+  ],
+  "dct_description_sm": [
+    "A research survey on Stimpson's surfclam (Mactromeris polynyma) was conducted from June 15 to June 26 2017 in the Estuary of the St. Lawrence River on the Forestville deposit (Fishing Area 1A). The primary objective of this survey was to investigate the spatial distribution of pre-commercial (< 80 mm) and commercial (≥ 80 mm) sizes of Stimpson's surfclams as well as to assess the abundance and diversity of benthic species associated with the sandy habitat of the Stimpson's surfclam. Only benthic species data associated with Stimpson's surfclam habitat are presented in this dataset.  \n  \n  Data were collected according to a systematic sampling design consisting of 77 stations, between 7 and 45 m depth. Stations were spaced 200 m apart and dispersed along a total of 18 transects perpendicular to the bathymetry. Transects were parallel and spaced 500 m apart. Specimens were collected using a hydraulic dredge of the \"New England\" type with a total length of 2.29 meters and a total width of 1.68 meters, of which 1.35 meters was knife width. The dredge was lined with a 19 millimeter mesh Vexar™ to harvest small individuals. The hauls were made at a speed of 0.2-0.3 knots for a duration of 2 to 3 minutes. Start and end positions were recorded to calculate the distance traveled at each tow using the geosphere library in R. The average tow distance was approximately 25 m. The area covered at each stroke was the product of the width of the dredge blade and the distance.  \n  \n  The three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes generic event information, including date and location. The \"additional_information_event_and_occurrence\" file includes sample size, sampling protocol and sampling effort, among others. The \"taxon_occurrence\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level. For abundance and biomass estimates, contact Virginie Roy (virginie.roy@dfo-mpo.gc.ca).  \n  \n  For quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. Special cases were noted in \"identificationRemarks\" and selected specimens were confirmed using field photos. Data quality checks were performed using the R obistools and worrms libraries. All sampling locations were spatially validated.",
+    "Un relevé de recherche sur la mactre de Stimpson (Mactromeris polynyma) a été réalisé du 15 au 26 juin 2017 dans l'estuaire du Saint-Laurent sur le gisement de Forestville (zone de pêche 1A). L’objectif principal de ce relevé était d’étudier la répartition spatiale des tailles précommerciale (< 80 mm) et commerciale (≥ 80 mm) de la mactre de Stimpson ainsi que d’évaluer l’abondance et la diversité des espèces benthiques associées à l’habitat sableux de la mactre de Stimpson. Seules les données des espèces benthiques associées à l’habitat de la mactre de Stimpson sont présentées dans ce jeu de données.  \n  \n  Les données ont été récoltées selon un plan d’échantillonnage systématique constitué de 77 stations, entre 7 et 45 m de profondeur. Les stations étaient espacées de 200 m entre elles et dispersées sur un total de 18 transects perpendiculaires à la bathymétrie. Les transects étaient parallèles et espacés de 500 m entre eux. Les spécimens ont été récoltés à l’aide d’une drague hydraulique de type « Nouvelle-Angleterre » d’une longueur totale de 2.29 mètres et une largeur totale de 1.68 mètre, dont 1.35 mètre, de largeur de couteau. La drague était doublée avec du Vexar™ de maillage de 19 millimètres afin de récolter les petits individus. Les traits ont été réalisés à une vitesse de 0.2-0.3 nœuds pour une durée de 2 à 3 minutes. Les positions début et fin ont été notées pour calculer la distance parcourue à chaque trait à l'aide de la bibliothèque geosphere de R. La distance moyenne des traits était d’environ 25 m. La superficie couverte à chaque trait était le produit de la largeur du couteau de la drague et de la distance.  \n  \n  Les trois fichiers fournis (format DarwinCore) sont complémentaires et sont reliés par la clé « IDactivité ». Le fichier «Information_activité» comprend les informations génériques de l'activité, notamment la date et la localisation. Le fichier «information_supplémentaire_activité_et_occurrence» comprend notamment la taille de l'échantillon, le protocole et l’effort d’échantillonnage. Le fichier «occurrence_taxon» comprend la taxonomie des espèces observées, identifiées à l’espèce ou au niveau taxonomique le plus bas possible. Pour obtenir l’évaluation de l’abondance et de la biomasse, communiquez avec Virginie Roy (virginie.roy@dfo-mpo.gc.ca).  \n  \n  Pour les contrôles de qualité, tous les noms taxonomiques ont été vérifiés sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues. La correspondance WoRMS a été placée dans le champ « IDnomScientifique » du fichier d'occurrence. Les cas spéciaux ont été notés dans le champ « commentairesIdentification » et certains spécimens sélectionnés ont été confirmés à l'aide de photos de terrain. Les contrôles de la qualité des données ont été effectués à l'aide des bibliothèques R obistools et worrms. Tous les emplacements d'échantillonnage ont été validés spatialement."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/01ec2dc5-dde1-4626-8c1f-b8aad1579c60"
+  ],
+  "dct_issued_s": "2021-11-09",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/01ec2dc5-dde1-4626-8c1f-b8aad1579c60\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Biodiversity of the Stimpson's surfclam hydraulic dredge survey in the St. Lawrence Estuary (2017)",
+  "gbl_mdModified_dt": "2025-02-17T19:52:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d7ca3ee1-97a2-5478-a36b-fdcf46733fdf",
+  "locn_geometry": "ENVELOPE(-69.091, -69.012, 48.678, 48.6016)",
+  "schema_provider_s": "Open Data Canada"
+}

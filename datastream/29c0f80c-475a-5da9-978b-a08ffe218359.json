@@ -1,0 +1,36 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.1819, -62.6969, 46.8356, 46.1497)",
+  "dcat_keyword_sm": [
+    " River",
+    " PEI",
+    " Stream",
+    "Pesticides"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Government of Prince Edward Island (PEI)."
+  ],
+  "dct_description_sm": [
+    "This data set provides pesticide sample analyses results for stream water samples for the province’s Pesticide Monitoring Program.\n\nThis data set provides pesticide sample analyses results for stream water samples for the province’s Pesticide Monitoring Program.\n\nThe sampling includes a total of 9 rivers across PEI, with at least 3 of the rivers being sampled each year.\nStream water samples are collected at least once per year during wet weather sampling conditions.\nDepartment staff collects the samples, which are then sent to a laboratory for analysis.\n\nResults with a \" &lt; \" represent values below the lab's reporting or quantification limit.\nSuch results do not confirm the presence nor the absence of a pesticide compound below that level.\n\nWater Quality Guideline or Benchmark Values:\nWhen available, Health Canada Guidance Values were used,\notherwise CCME Canadian Water Quality Guidelines for the Protection of Aquatic Life were used, and otherwise USEPA Aquatic Life Benchmark values were.\n\n1. The Canadian Long term freshwater Water Quality Guideline for the Protection of Aquatic Life\nWebsite link is here: http://st-ts.ccme.ca/\n2. USEPA Aquatic Life Benchmark (lowest value on table was chosen).\nWebsite link is here: http://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/aquatic-life-benchmarks-pesticide-registration#use\n3.Health Canada Guidance Value\n\nNOTE: the guideline/benchmark values have been converted from the published units to ng/ml by the author in order to compare the values to the detected results.\n\nThese samples are collected in the same rivers as the Finfish/Shellfish and the Stream Sediment Pesticide datasets."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/tyei-sw45"
+  ],
+  "dct_issued_s": "2025-01-20",
+  "dct_license_sm": [
+    "https://data.princeedwardisland.ca/datasets/e1ac56e8f1e740f19cebb08c39c6071e_0/explore"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/tyei-sw45\"}",
+  "dct_title_s": "OD0001 Pesticide Analysis for Stream Water",
+  "gbl_mdModified_dt": "2026-08-23T06:30:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "29c0f80c-475a-5da9-978b-a08ffe218359",
+  "locn_geometry": "ENVELOPE(-64.1819, -62.6969, 46.8356, 46.1497)",
+  "schema_provider_s": "DataStream"
+}

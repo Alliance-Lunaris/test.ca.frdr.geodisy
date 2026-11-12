@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This service shows the median household after-tax income in 2015 for Canada, by 2016 census division. The data is from the Census Profile, Statistics Canada Catalogue no. 98-316-X2016001.  \n  \n  After-tax income - refers to total income less income taxes of the statistical unit during a specified reference period (for additional information refer to Total Income – 2016 Census Dictionary and After-tax Income – 2016 Census Dictionary). The median income of a specified group is the amount that divides the income distribution of that group into two halves.  \n  \n  Census division (CD) is the general term for provincially legislated areas (such as county, municipalité régionale de comté and regional district) or their equivalents. In other provinces and the territories where laws do not provide for such areas, Statistics Canada defines equivalent areas for statistical reporting purposes in cooperation with these provinces and territories. Census divisions are intermediate geographic areas between the province/territory level and the municipality (census subdivision).  \n  \n  To have a cartographic representation of the ecumene with this socio-economic indicator, it is recommended to add as the first layer, the “NRCan - 2016 population ecumene by census division” web service, accessible in the data resources section below.  \n  \n  Besides the variable described here, the dataset contains the id, name, type, province, population, land area and the number of private households for each census division."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1e8a8c6e-a7cc-4f08-a3cc-79c67427a102"
+  ],
+  "dct_issued_s": "2018-07-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1e8a8c6e-a7cc-4f08-a3cc-79c67427a102\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Median after-tax income of households in 2015 (dollars) by census division, 2016 Census",
+  "gbl_mdModified_dt": "2024-02-16T14:29:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "de6d356c-d2ad-556b-a82d-b26ad3203482",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.675537)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

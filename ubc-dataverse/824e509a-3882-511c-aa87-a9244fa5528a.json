@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.8055386974, -113.2692132144, 50.6794195601, 48.7997090934)",
+  "dcat_keyword_sm": [
+    "grassland, Google Earth Engine (GEE),  Sentinel-1, Sentinel-2, Random forest, digital elevation model (DEM)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ng, Tsz Wing (University of British Columbia). ORCID: https://orcid.org/0000-0003-0693-3146"
+  ],
+  "dct_description_sm": [
+    "The model was developed with training data created within the extent of 1747697E,498250N: 1865494E, 577520N (EPSG:3005) so the model is only applicable within the study area. Further study is required to validate the model’s accuracy in applying it beyond the extent. We assumed spatial autocorrelation has been addressed by stratified and grided (5 km x 5 km) sampling. We highly recommended performing a Moran’s I test and semivariogram for each predictor variable before designing a sampling scheme when applying a similar model to the province.",
+    "Machine learning algorithms have been widely adopted in the monitoring ecosystem. British Columbia suffers from grassland degradation but the province does not have an accurate spatial database for effective grassland management. Moreover, computational power and storage space remain two of the limiting factors in developing the database. In this study, we leverage supervised machine learning algorithms using the Google Earth Engine to better annual grassland inventory through an automated process. \nThe pilot study was conducted over the Rocky Mountain district. We compared two different classification algorithms: the Random forest, and the Support vector machine. Training data was sampled through stratified and grided sampling. 19 predictor variables were chosen from Sentinel-1 and Sentinel-2 imageries and relevant topological derivatives, spectral indices, and textural indices using a wrapper-based feature selection method.  The resultant map was post-processed to remove land features that were confounded with grasslands. \nRandom forest was chosen as the prototype because the algorithm predicted features relevant to the project’s scope at relatively higher accuracy (67%  - 86%) than its counterparts (50% - 76%). The prototype was good at delineating the boundaries between treed and non-treed areas and ferreting out opened patches among closed forests. These opened patches are usually disregarded by the VRI but they are deemed essential to grassland stewardship and wildlife ecologists. The prototype demonstrated the feasibility of automating grassland delineation by a Random forest classifier using the Google Earth Engine. Furthermore, grassland stewards can use the product to identify monitoring and restoration areas strategically in the future."
+  ],
+  "dct_identifier_sm": [
+    "455734_73894_115983",
+    "https://doi.org/10.5683/SP3/LYIKH3"
+  ],
+  "dct_issued_s": "2023-04-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LYIKH3\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Cranbrook, British Columnbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Leveraging machine learning and remote sensing to improve grassland inventory in British Columbia",
+  "gbl_mdModified_dt": "2023-04-20T15:23:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "824e509a-3882-511c-aa87-a9244fa5528a",
+  "locn_geometry": "ENVELOPE(-117.8055386974, -113.2692132144, 50.6794195601, 48.7997090934)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

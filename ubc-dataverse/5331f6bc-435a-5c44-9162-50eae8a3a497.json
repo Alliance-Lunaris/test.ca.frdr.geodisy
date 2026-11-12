@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Holocene",
+    "Foraging strategies",
+    "Diving behaviour",
+    "Foraging depth",
+    "Antarctic fur seals",
+    "Aerobic diving limit",
+    "Arctocephalus gazella"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Viviant, Morgane (Centre d'Etudes Biologiques de Chizé).",
+    "Jeanniard-du-Dot, Tiphaine (University of British Columbia).",
+    "Monestiez, Pascal (Centre d'Etudes Biologiques de Chizé).",
+    "Authier, Matthieu (Centre d'Etudes Biologiques de Chizé).",
+    "Guinet, Christophe (Centre d'Etudes Biologiques de Chizé, French National Centre for Scientific Research).",
+    "Jeanniard Dudot, Tiphaine (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/lAQylFA8z_TYu8RcVH_B0f4Qu0a2SJ6WnigWY6KOV_M</p>\n<p><b>Storage size:</b> 803508</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Optimal foraging models applied to breath-holding divers predict that diving predators should optimize the time spent foraging at the bottom of dives depending on prey encounter rate, distance to prey patch (depth) and physiological constraints.\r\nWe tested this hypothesis on a free-ranging diving marine predator, the Antarctic fur seal Arctocephalus gazella, equipped with accelerometers or Hall sensors (n = 11) that recorded mouth-opening events, a proxy for prey capture attempts and thus feeding events. Over the 5896 dives analysed (>15 m depth), the mean number of mouth-opening events per dive was 1·21 ± 1·69 (mean ± SD). Overall, 82% of mouth-openings occurred at the bottom of dives.\r\nAs predicted, fur seals increased their inferred foraging time at the bottom of dives with increasing patch distance (depth), irrespective of the number of mouth-openings.\r\nFor dives shallower than 55 m, the mean bottom duration of dives without mouth-openings was shorter than for dives with mouth-opening events. However, this difference was only due to the occurrence of V-shaped dives with short bottom durations (0 or 1 s). When removing those V-shaped dives, bottom duration was not related to the presence of mouth-openings anymore. Thus, the decision to abandon foraging is likely related to other information about prey availability than prey capture attempts (i.e. sensory cues) that seals collect during the descent phase. We did not observe V-shaped dives for dives deeper than 55 m, threshold beyond which the mean dive duration exceeded the apparent aerobic dive limit. For dives deeper than 55 m, seals kept on foraging at bottom irrespective of the number of mouth-openings performed.\r\nMost dives occurred at shallower depths (30–55 m) than the 60 m depth of highest foraging efficiency (i.e. of greatest number of mouth-opening events per dive). This is likely related to physiological constraints during deeper dives.\r\nWe suggest that foraging decisions are more complex than predicted by current theory and highlight the importance of the information collected by the predator during the descent as well as its physiological constraints. Ultimately, this will help establishing reliable predictive foraging models for marine predators based on diving patterns only.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fur_seal_dive_capture_data</h4><div class=\"o-metadata__file-description\">This file is an excel data files regrouping the complete dive data set used in this paper. each column are clearly labbelled Campain: field season;  fur seal pup ID use to identify the female; female size in cm; female mass in kg; night index, form 0 (first night spent at sea, to a maximal value corresponding to the last night recorded); Dive_ID: an incremental dive number for a given female form the first dive to the last dive available for that female.   Start_time_dt : date and time at the beginning of the dive,Max_Depth:_m : maximun diving depth for the corresponding dive, surf_before: time spent at surface prior to the dive; desc_time_s : duration in second of the descent phase of the dive, Bottom_time_s: duration in seconds of the bottom phase of the dive; asc_time_s: duraction in seconds of the ascent phase of the dive; depth_end_desc_m:  depth in meter at the end of the decent phase of the dive; depth_start_asc_m: depth in meters at the begining of the ascent phase of the dive; desc_speed_ms-1: descent speed during the descent phase of the dive in meter per seconds; Asc_speed_ms-1: ascent speed during the ascent phase of the dive in meter per seconds; Prey_Capture _Attempts : total number of prey capture attempts during the complete dive; capture_mean_depth_m : mean depth of the capture attempts for the dive; nb_captures_desc : number of prey capture attempts during the descent phase of the dive; nb_captures_bottom : number of prey capture attempts during the bottom phase of the dive;  nb_captures_asc: number of prey capture attempts during the ascent phase of the dive</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151396_1226260_150149",
+    "https://doi.org/10.5683/SP2/AKTJFV"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/AKTJFV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Southern Ocean",
+    "Kerguelen"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Bottom time does not always predict prey encounter rate in Antarctic fur seals",
+  "gbl_mdModified_dt": "2021-05-20T01:51:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5331f6bc-435a-5c44-9162-50eae8a3a497",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

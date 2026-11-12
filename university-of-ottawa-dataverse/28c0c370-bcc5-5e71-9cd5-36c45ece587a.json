@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.62289809224336, 45.45209732104411, 45.45221552549017, -75.6219617559605)",
+  "dcat_keyword_sm": [
+    "Particle Image Velocimetry",
+    "LSPIV",
+    "Algorithm"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yu, Qingcheng (University of Ottawa). ORCID: https://orcid.org/0000-0002-1245-9498",
+    "Rennie, Colin (University of Ottawa). ORCID: https://orcid.org/0000-0003-0683-1932",
+    "Ferguson, Sean (National Research Council Canada).",
+    "Provan, Mitchel (National Research Council Canada)."
+  ],
+  "dct_description_sm": [
+    "This is the replication data for the journal article \"TiFA: A new LSPIV Post-Processing Algorithm for River Surface Velocity Measurement under Low Tracer Density Conditions\". The original article developed a new LSPIV algorithm, Time Frequency Analysis (TiFA), to improve computational efficiency and enhance the accuracy of velocity measurements in traditional LSPIV. TiFA’s performance was assessed by comparison with other image velocimetry algorithms, including traditional LSPIV, Ensemble Correlation (EC), Large-Scale Particle Tracking Velocimetry (LSPTV), and Seeding Density Index (SDI). The evaluations were conducted using an experimental hydraulic model (an indoor physical model) and two field cases: the Bradano River case and the Arrow River case.\n\nThis dataset contains the following data: \n(1) The video footage and frames collected from the indoor physical model;\n(2) The Matlab code of TiFA and an example of using TiFA to process velocity data from the indoor physical model. \n\nPlease note that the video footage collected from the indoor physical model is original and included in this open-access dataset. Datasets from the field cases (i.e., the Bradano River case and the Arrow River case) are sourced from a third-party study (Perks et al., 2020; see the citation below) and are NOT included this open-access dataset. Readers can access the data of the two filed cases from:\n\nPerks, M. T., Dal Sasso, S. F., Hauet, A., Jamieson, E., Le Coz, J., Pearce, S., Peña-Haro, S., Pizarro, A., Strelnikova, D., Tauro, F., Bomhof, J., Grimaldi, S., Goulet, A., Hortobágyi, B., Jodeau, M., Käfer, S., Ljubičić, R., Maddock, I., Mayr, P., & Paulus, G. (2020). Towards harmonisation of image velocimetry techniques for river surface velocity observations. Earth System Science Data, 12(3), 1545–1559. https://doi.org/10.5194/essd-12-1545-2020"
+  ],
+  "dct_identifier_sm": [
+    "843034",
+    "https://doi.org/10.5683/SP3/WKH13A"
+  ],
+  "dct_issued_s": "2024-11-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/WKH13A\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Ottawa, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Replication Data for: \"TiFA: A new LSPIV Post-Processing Algorithm for River Surface Velocity Measurement under Low Tracer Density Conditions\"",
+  "gbl_mdModified_dt": "2025-04-15T19:45:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "28c0c370-bcc5-5e71-9cd5-36c45ece587a",
+  "locn_geometry": "ENVELOPE(-75.62289809224336, 45.45209732104411, 45.45221552549017, -75.6219617559605)",
+  "schema_provider_s": "University of Ottawa Dataverse"
+}

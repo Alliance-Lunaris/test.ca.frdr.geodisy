@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.0, -56.0, 63.0, 44.0)",
+  "dcat_keyword_sm": [
+    "Élévation",
+    "Hydrographie",
+    "Terrain",
+    "Hydrologie",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "DIF",
+    "Relief",
+    "Écoulement",
+    "Cartographie",
+    "LiDAR"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur des forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: * Access the data directory* is available in the section*Dataset description sheets; Additional information*__.\n\n\nHydrographic derivatives from LiDAR (Light Detection and Ranging) were produced as part of the provincial LiDAR sensor data acquisition project. These products provide information on the geographical position of water flow beds on the territory as well as their nature (permanent or intermittent watercourse). These layers represent the path that water should take depending on the topography. It is therefore a potential flow bed that does not take into account the nature of the surface deposit or underground pipes. \n\nThese vector layers are preliminary and do not replace reference hydrographic layers such as the Quebec Hydrographic Network Geobase (GRHQ). They are primarily used to support forest operations. These layers will also be improved over the coming years thanks to a collective effort by two ministries, namely the Ministry of Natural Resources and Forests (MRNF) and the Ministry of the Environment, the Fight against Climate Change, and Wildlife and Parks (MELCCFP).\n\nData on potential flow beds are distributed, as of March 2022, by water drainage unit (UDH), a division that respects the natural boundaries of the watershed. This division uses the same codes and approximately the same spatial limits of the UDHs of the GRHQ. Data for each UDH is available in Geodatabase (GDB) or GeoPackage (GPKG) format.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien :* Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\nLes produits dérivés d’hydrographie issus du LiDAR (Light Detection and Ranging) ont été produits dans le cadre du projet d’acquisition de données par le capteur LiDAR à l'échelle provinciale. Ces produits fournissent de l’information sur la position géographique des lits d’écoulements de l’eau sur le territoire ainsi que leur nature (cours d’eau permanent ou intermittent). Ces couches représentent le trajet que l’eau devrait emprunter en fonction de la topographie. Il s’agit donc d’un lit d’écoulement potentiel qui ne tient pas compte de la nature du dépôt de surface ou de canalisations souterraines. \n\nCes couches vectorielles sont préliminaires et ne remplacent pas les couches hydrographiques de référence telles que la géobase du réseau hydrographique du Québec (GRHQ). Elles servent d’abord à appuyer des travaux d’opérations forestières. Ces couches seront d’ailleurs bonifiées au cours des prochaines années grâce à un effort collectif de deux ministères, soit le ministère des Ressources naturelles et des Forêts (MRNF) et le ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP).\n\nLes données des lits d’écoulements potentiels sont diffusées, en date de mars 2022, par unité de drainage hydrique (UDH), un découpage qui respecte les limites naturelles de bassin versant. Ce découpage reprend les mêmes codes et approximativement les mêmes limites spatiales des UDH de la GRHQ. Les données pour chaque UDH sont disponibles en format Geodatabase (GDB) ou GeoPackage (GPKG)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/404f3b0c-a4a7-4e86-8cdc-ddfa233254a2"
+  ],
+  "dct_issued_s": "2020-11-17",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/404f3b0c-a4a7-4e86-8cdc-ddfa233254a2\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Lit d'écoulement potentiel issu du LiDAR",
+  "gbl_mdModified_dt": "2026-09-30T17:36:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "57ea6cf6-c344-5b7b-9861-f8e39dd48a13",
+  "locn_geometry": "ENVELOPE(-80.0, -56.0, 63.0, 44.0)",
+  "schema_provider_s": "Open Data Canada"
+}

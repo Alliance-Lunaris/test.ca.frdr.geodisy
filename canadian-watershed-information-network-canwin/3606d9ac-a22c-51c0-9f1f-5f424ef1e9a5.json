@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "**Attention: there is a new version of this product (Pre-CanLaD v2)**\nPre-CanLaD v2 can be found here: \nhttps://doi.org/10.23687/8d49698f-40f9-40da-b097-a3f4c90adf5a\n\nThis data product aimed to extend the existing pre-1985 disturbance history record by mapping wildfire, harvest, and insect outbreaks in Canadian forests between 1965 and 1984. Our geospatial data processing methodology relied on multi-layer perceptrons (MLP) trained on spectral recovery signatures to map and age these disturbances. Specific years were not assigned to insect outbreaks due to the lack of dependable training and validation data. In order to provide a more accurate data product that is compatible with existing datasets (e.g. provincial forest inventories), we used these reliable, but incomplete datasets to correct our predictions of disturbance type and year whenever they were available. Coupled with the updated Canada Landsat Disturbance (CanLaD) data product (Guindon et al. 2017), we are thus able to obtain a pan-Canadian 30m resolution disturbance history record from 1965 until 2023. The full description of the methodology and the exhaustive validation analyses are described in detail in Correia et al. (2024).\n\nThe following limitations should be taken into account when using this dataset:\n•   It is recommended to group disturbance age predictions into age classes, as this should reduce the noise present in the disturbance age estimation models.\n•   Fire-harvest misclassification seems to be particularly common in transition zones like the southern edge of the Boreal Shield, where fires and harvest are both relatively common. \n•   There seems to be an overestimation of 1965 fires due to a misclassification of burnt areas older than 1965 in northern, less productive areas as belonging to the beginning of our time series. \n•   We likely detected mostly high-severity burnt areas that depict complete mortality, since the faster recovery of low-severity burns makes them more challenging to detect. \n•   Insect outbreak detections were mostly associated with the historic eastern spruce budworm outbreak of the 1970s. Even though pixel-level insect disturbance year was not predicted, realistic estimates can be obtained by cross-checking our data product with historic reports. \n\nThe following raster layers are available:\n•   canlad_1965_1984_disturbanceType: Estimated disturbance type \n   o\t2 = Fire\n   o\t3 = Harvest\n   o\t4 = Insect\n•   canlad_1965_1984_disturbanceYear: Estimated disturbance year\n   o\tNumeric value from 1965 to 1984\n•   canlad_1965_1984_correctionMask: Raster indicating which predictions have been corrected with external datasets\n   o\t0 = Unconfirmed disturbance\n   o\t1 = Confirmed fire\n   o\t2 = Confirmed harvest\n\nPlease cite this data product as:\nCorreia, D. L. P., L. Guindon, and M. A. Parisien. 2024. Canada-wide Landsat-based 30-m resolution product of disturbance detection prior to 1984. https://doi.org/10.23687/660b7c6a-cdec-4c02-90c7-d63e91825c42 \n\nReferences:\nCorreia, D. L. P., L. Guindon, and M. A. Parisien. 2024. Extending Canadian forest disturbance history maps prior to 1985. Ecosphere [in press].\n\nGuindon, L., P. Villemaire, R. St-Amant, P.Y. Bernier, A. Beaudoin, F. Caron, M. Bonucelli and H. Dorion. 2017. Canada Landsat Disturbance (CanLaD): a Canada-wide Landsat-based 30-m resolution product of fire and harvest detection and attribution since 1984. https://doi.org/10.23687/add1346b-f632-4eb9-a83d-a662b38655ad"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/660b7c6a-cdec-4c02-90c7-d63e91825c42"
+  ],
+  "dct_issued_s": "2024-07-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/660b7c6a-cdec-4c02-90c7-d63e91825c42\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada-wide Landsat-based 30-m resolution product of disturbance detection prior to 1984",
+  "gbl_mdModified_dt": "2026-04-17T19:30:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3606d9ac-a22c-51c0-9f1f-5f424ef1e9a5",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

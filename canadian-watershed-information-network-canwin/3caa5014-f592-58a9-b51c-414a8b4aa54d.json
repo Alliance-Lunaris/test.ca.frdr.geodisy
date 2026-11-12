@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.9332, -93.9825, 58.7555, 49.0236)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Source data for an on-line interactive map of Manitoba showing the locations of recycling depots.  \n  \n  The Sustainable and Green Initiatives branch collect location and information data (name of the facility, address, hours of operation and phone number) from 12 producer responsibility organizations (PRO) on an annual basis.This is a point layer symbolized by the items accepted at that location.Fields Included: loc_ID Location identification number name Name of depot phone Phone number (if available) hours Hours and other details (if available) location_name Generic name of location (if available) box_unit P.O. Box number of Unit number (if available) address Street number and Street name City nearest City Province Province Postal Code Postal Code Country Country Latitude Latitude in Decimal Degrees Longitude Longitude in Decimal Degrees is_active Indicates if the location is actively accepting items website Website URL address (if available) created_date Date entry was created modified_date Date entry was modified by the branch cell_phones Indicates if this item is accepted, if blank it is not accepted at this location paint Indicates if this item is accepted, if blank it is not accepted at this location tires Indicates if this item is accepted, if blank it is not accepted at this location electronics Indicates if this item is accepted, if blank it is not accepted at this location plastic_bags Indicates if this item is accepted, if blank it is not accepted at this location oil_and_antifreeze Indicates if this item is accepted, if blank it is not accepted at this location Pharmaceuticals Indicates if this item is accepted, if blank it is not accepted at this location Rechargable_Batteries Indicates if this item is accepted, if blank it is not accepted at this location Fluorescent_Lights Indicates if this item is accepted, if blank it is not accepted at this location Mercury_containing_thermometers Indicates if this item is accepted, if blank it is not accepted at this location Blue_box_materials Indicates if this item is accepted, if blank it is not accepted at this location Lead_acid_batteries Indicates if this item is accepted, if blank it is not accepted at this location Pesticide_containers Indicates if this item is accepted, if blank it is not accepted at this location Scrap_metal Indicates if this item is accepted, if blank it is not accepted at this location textiles Indicates if this item is accepted, if blank it is not accepted at this location mattresses Indicates if this item is accepted, if blank it is not accepted at this location refrigeration_cooling Indicates if this item is accepted, if blank it is not accepted at this location"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/98eab650-0c7f-2e1a-67b0-6b611c05b8f3"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/98eab650-0c7f-2e1a-67b0-6b611c05b8f3\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Recycling Depot Locations",
+  "gbl_mdModified_dt": "2025-11-12T12:10:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3caa5014-f592-58a9-b51c-414a8b4aa54d",
+  "locn_geometry": "ENVELOPE(-101.9332, -93.9825, 58.7555, 49.0236)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

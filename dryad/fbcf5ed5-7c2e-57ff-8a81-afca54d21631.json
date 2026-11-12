@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Bioinformatics",
+    "Coregonus clupeaformis",
+    "nextRAD",
+    "Stacks"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Carly F, Graham (University of Regina). ORCID: https://orcid.org/0000-0002-6455-4438",
+    "Douglas R, Boreham (NOSM University).",
+    "Richard G, Manzon (University of Regina).",
+    "Wendylee, Stott (Great Lakes Science Center, Fisheries and Oceans Canada).",
+    "Joanna Y, Wilson (McMaster University).",
+    "Christopher M, Somers (University of Regina)."
+  ],
+  "dct_description_sm": [
+    "Reduced representation (RRL) sequencing approaches (e.g., RADSeq, genotyping by sequencing) require decisions about how much to invest in genome coverage and sequencing depth (library quality), as well as choices of values for adjustable bioinformatics parameters. To empirically explore the importance of these “simple” decisions, we generated two independent sequencing libraries for the same 142 individual lake whitefish (Coregonus clupeaformis) using a nextRAD RRL approach: (1) A small number of loci and low sequencing depth (library A); and (2) more loci and higher sequencing depth (library B). The fish were selected from populations with different levels of expected genetic subdivision. Each library was analyzed using the STACKS pipeline followed by three types of population structure assessment (FST, DAPC and ADMIXTURE) with iterative increases in the stringency of sequencing depth and missing data requirements, as well as more specific a priori population maps. Library B was always able to resolve strong population differentiation in all three types of assessment regardless of the selected parameters. In contrast, library A produced more variable results; increasing the minimum sequencing depth threshold (-m) resulted in a reduced number of retained loci, and therefore lost resolution at high -m values for FST and ADMIXTURE, but not DAPC. FST and DAPC were robust to varying the population map and increasing the stringency of missing data requirements. In contrast, ADMIXTURE was unable to resolve strong population differentiation when increasing these same parameters in library A. Similarly, when examining fine scale population subdivision, library B was robust to changing parameters but library A lost resolution depending on the parameter set. We used library B to examine actual subdivision in our study populations. All three types of analysis found complete subdivision among populations in Lake Huron, ON and Dore Lake, SK, Canada using 10,640 SNP loci. Weak population subdivision was detected in Lake Huron with fish from sites in the north-west, Search Bay, North Point and Hammond Bay, showing slight differentiation. Overall, we show that apparently simple decisions about library quality and bioinformatics parameters can have potentially important impacts on the interpretation of population subdivision. Although costly, the early investment in a high-quality library and more conservative stringency settings on STACKS parameters lead to a final dataset that was more consistent and robust when examining both weak and strong population differentiation."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.4vr8kp3",
+    "https://doi.org/10.5061/dryad.4vr8kp3"
+  ],
+  "dct_issued_s": "2020-03-16",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.4vr8kp3\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_title_s": "Data from: How “simple” methodological decisions affect interpretation of population structure based on reduced representation library DNA sequencing: a case study using the lake whitefish",
+  "gbl_mdModified_dt": "2020-03-16T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fbcf5ed5-7c2e-57ff-8a81-afca54d21631",
+  "schema_provider_s": "Dryad"
+}

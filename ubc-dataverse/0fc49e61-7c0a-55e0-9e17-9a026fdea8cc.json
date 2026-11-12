@@ -1,0 +1,68 @@
+{
+  "dcat_keyword_sm": [
+    "oceanographic time-series",
+    "1953 to 2007",
+    "2008 to 2014",
+    "climate active trace gases",
+    "marine microbial ecology",
+    "2006 to 2014",
+    "environmental genomics",
+    "oxygen minimum zones",
+    "Metagenomics",
+    "Biogeochemistry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Torres-Beltrán, Mónica (University of British Columbia). ORCID: https://orcid.org/0000-0002-1293-8114",
+    "Hawley, Alyse K. (University of British Columbia).",
+    "Capelle, David (University of British Columbia).",
+    "Zaikova, Elena (Georgetown University).",
+    "Walsh, David A. (Concordia University).",
+    "Mueller, Andreas (University of British Columbia).",
+    "Scofield, Melanie (University of British Columbia).",
+    "Kheirandish, Sam (University of British Columbia).",
+    "Payne, Chris (University of British Columbia).",
+    "Pakhomova, Larysa (University of British Columbia).",
+    "Bhatia, Maya P. (University of British Columbia).",
+    "Shevchuk, Olena (University of British Columbia).",
+    "Gies, Esther A. (University of British Columbia).",
+    "Fairley, Diane K. (University of British Columbia).",
+    "Whitney, Frank A. (Fisheries and Oceans Canada).",
+    "Tortell, Philippe D. (University of British Columbia).",
+    "Hallam, Steven J. (Canadian Institute for Advanced Research, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/dataset/doi:10.5061/dryad.nh035</p>\n<p><b>Storage size:</b> 2796407</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Marine oxygen minimum zones (OMZs) are widespread and naturally occurring water column features that constitute ~7% of global ocean volume, but contribute disproportionately to biogeochemical cycling of carbon, nitrogen and climate active trace gases such as nitrous oxide and methane. Climate change compounded by other human activities is causing OMZ expansion.  While microbial communities are the primary engines driving biogeochemical cycles in OMZs, our current understanding of microbial community metabolism is hindered by a lack of time-series observations charting responses to changing water column oxygen-deficiency. Saanich Inlet, a seasonally anoxic fjord on the coast of Vancouver Island British Columbia is a model ecosystem for monitoring microbial community structure, function and dynamics in relation to changing levels of water column oxygen-deficiency extensible to coastal and open ocean OMZs. Here, we present nine years of monthly time series observations in Saanich Inlet encompassing water column chemistry and environmental sequence information. This compendium provides a unique ecological and biogeochemical framework for comparative community analysis and modelling efforts in OMZs throughout the global ocean.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Saanich_TimeSeries_Chemical</h4><div class=\"o-metadata__file-description\">Chemical bottle data collected from Station S3 (-123.505, 48.59166667) in Saanich Inlet, BC, Canada. This data includes unique geographical coordinates for sampling station (Decimal degrees), Numerical identifier of individual cruises (Numeric string), Date of cruise (YY-MM-DD), Sampling depth (Meters), Oxygen concentration calculated from CTD SBE (Micromolar), Phosphate (Bran Luebbe AutoAnalyser - colorimetric) (Micromolar), Silicate (Bran Luebbe AutoAnalyser - colorimetric) (Micromolar), Nitrate (Bran Luebbe AutoAnalyser - colorimetric) (Micromolar), Average Ammonium (fluorometric) (Micromolar), Average Nitrite (colorimetric) (Micromolar), Average Hydrogen sulfide (colorimetric) (Micromolar), Cell counts value quantified by flow cytometry (Number of cells per millilitre (cells/mL)), Average concentration of Nitrogen gas (headspace) (Micromolar), Standard deviation for Nitrogen gas, Average concentration of Oxygen (headspace) (Micromolar), Standard deviation for Oxygen, Average concentration of Carbon dioxide (headspace) (Micromolar), Standard deviation for Carbon dioxide, Average concentration of Nitrous oxide (headspace or automated purge-and-trap) (Micromolar), Standard deviation for Nitrous oxide, Average concentration of Methane (headspace or automated purge-and-trap) (Nanomolar), Standard deviation for Methane. For detailed description of methods see manuscript.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Saanich_TimeSeries_CTD_DATA</h4><div class=\"o-metadata__file-description\">CTD data from Station S3 in Saanich Inlet. This data includes unique geographical coordinates for sampling station (Decimal degrees), Numerical identifier of individual cruises (Numeric string), Date of cruise (YY-MM-DD), CTD pressure measurement in intervals of 1 meter (Decibars), CTD temperature (Celsius degrees), CTD conductivity (Millisiemens per centimetre), CTD fluorometer chlorophyll measurement (Chlorophyll concentration in milligram per cubic meter), CTD transmissometer measurement (Light transmission), CTD Photosintentically active radiation (PAR) measurement (Irradiance), CTD Dissolved oxygen sensor measurement (SBE) (Volts), Oxygen concentration based on CTD Oxygen SBE (Micromolar), CTD salinity measurement at each pressure point (Practical salinity unit), CTD density measurement at each pressure point (Sigma-theta). For detailed description on methods see manuscript.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Saanich_TimeSeries_Historical_O2_DATA</h4><div class=\"o-metadata__file-description\">Historical dissolved oxygen winkler measurements at Station S3 in Saanich Inlet from 1953 to 2007. This data includes, geographical coordinates, date (year and month), depth (meters), temperature (celcius degrees), salinity (PSU), density (sigma-theta), oxygen (milliliter per liter and micromolar). For detailed methods see the manuscript.</div><div class=\"o-metadata__file-name\">Saanich_TimeSeries_HistoricalO2_DATA.csv</br></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Saanich_TimeSeries_Winkler_DATA</h4><div class=\"o-metadata__file-description\">Dissolved oxygen winkler measurements at Station S3 in Saanich Inlet from 2008-2014. This data includes unique geographical coordinates, date (year and month), depth (meters) and oxygen concentration (micromolar). See manuscript for detailed methods.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151185_150149",
+    "https://doi.org/10.5683/SP2/ZVCFMY"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/ZVCFMY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Saanich Inlet British Columbia Canada"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: A compendium of geochemical information from the Saanich Inlet water column",
+  "gbl_mdModified_dt": "2026-04-16T20:26:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0fc49e61-7c0a-55e0-9e17-9a026fdea8cc",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

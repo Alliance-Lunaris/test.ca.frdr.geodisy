@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "workplace fatigue",
+    "Biosignals",
+    "Fatigue",
+    "contextual spatiotemporal data",
+    "people-to-space interaction",
+    "Terrestrial Laser Scanning 3D point clouds"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mohammadi Jahromi, Mahnoush (University of Calgary). ORCID: https://orcid.org/0009-0006-8414-3050",
+    "Liang, Steve (University of Calgary)."
+  ],
+  "dct_description_sm": [
+    "Physical fatigue is a major contributor to occupational incidents in field-based work environments. However, fatigue studies primarily emphasize physiological measurements with limited integration of structured spatial and environmental context. Fatigue development may vary across locations even under identical task demands, particularly across differing elevation transitions. To address this gap, we present an open multimodal dataset from 40 participants performing a standardized outdoor manual material-handling task across three elevation-transition typologies: a flat trail, a stairway, and a ramp, with task load and duration held constant. The dataset includes wrist-worn physiological signals (blood volume pulse (BVP), electrodermal activity (EDA), skin temperature, accelerometer, and steps), contextual sensing data, global positioning system (GPS) trajectories, Borg-scale fatigue ratings, and geospatial representations of the site, including a high-resolution terrestrial laser scanning (TLS)-based 3D point cloud and semantic GeoJSON polygons. By integrating physiological, contextual, and spatial measurements, the dataset provides a reproducible resource for advancing fatigue modelling, spatial ergonomics, sensor fusion, and context-aware machine-learning analysis across varying elevation profiles and outdoor positioning constraints."
+  ],
+  "dct_identifier_sm": [
+    "1047239",
+    "https://doi.org/10.5683/SP3/I0KSNR"
+  ],
+  "dct_issued_s": "2026-04-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/I0KSNR\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science",
+    "Engineering"
+  ],
+  "dct_title_s": "GeoFatigue",
+  "gbl_mdModified_dt": "2026-08-31T15:37:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "059fa4f5-3a73-5be2-a716-2ff299c2d76c",
+  "schema_provider_s": "University of Calgary Prism"
+}

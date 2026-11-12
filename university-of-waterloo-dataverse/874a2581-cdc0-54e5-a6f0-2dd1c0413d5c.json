@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "Camera-based",
+    "University of Waterloo",
+    "Occupancy Detection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "S. Doubov (University of Waterloo).",
+    "Costin Ograda-Bratu.",
+    "S. Huo.",
+    "S. Keshav."
+  ],
+  "dct_description_sm": [
+    "<p><b>Data Description</b>: A camera is taped to the ceiling of a lab at the University of Waterloo, and pictures are taken every 3 minutes between 10:15 am and 8 pm on March 9th, 11th, 12th, 13th, 14th, 15th, and 18th. Each image was rotated by -4.5 degrees and was split into four quadrants and a central region. A demo of how quadrants are truncated is in the dataset named as demo1.jpg and demo2.jpg.</p>\n \n<p>The files are named by the date the photo is captured, a serial number and the quadrant number. For example, mar-09-fri_cap_5_0.txt is information of the 5th picture taken on Friday, March 9th, and it is a cropped image of the 0th quadrant.</p>\n\n<p>Each file contains a binary denoting occupancy, where 1 indicates at least one person is present in the quadrant and 0 indicates no person in the quadrant.</p>\n\n<p>This dataset includes 3365 files of occupancy information deduced from 673 images each divided into 5 quadrants. </p>\n\n<p>This dataset has a total size of 215 KB.</p>\n\n<p><b>Funding</b>: Cisco Systems and the Natural Science and Engineering Research Council of Canada (NSERC).</p>"
+  ],
+  "dct_identifier_sm": [
+    "134506",
+    "https://doi.org/10.5683/SP2/X30EPQ"
+  ],
+  "dct_issued_s": "2020-11-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/X30EPQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Camera-based Occupancy Detection Dataset",
+  "gbl_mdModified_dt": "2020-12-07T19:25:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "874a2581-cdc0-54e5-a6f0-2dd1c0413d5c",
+  "schema_provider_s": "University of Waterloo Dataverse"
+}

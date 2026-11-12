@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "Arsenic",
+    "Sediments",
+    "Zooplankton",
+    "Rare earth elements",
+    "Surface water",
+    "Amphipoda",
+    "REE",
+    "As",
+    "Contamination",
+    "Trace elements"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Labelle, Justine (Université de Montréal).",
+    "Ponton, Dominic E. (Université de Montréal). ORCID: https://orcid.org/0000-0002-3443-5278",
+    "Marginson, Holly (Université de Montréal). ORCID: https://orcid.org/0000-0003-0629-6335",
+    "Fortin, Claude (Institut national de la recherche scientifique, Institut national de la recherche scientifique, Centre Eau Terre Environnement). ORCID: https://orcid.org/0000-0002-2479-1869",
+    "Rosabal, Maikel (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-5420-3490",
+    "Amyot, Marc (Université de Montréal). ORCID: https://orcid.org/0000-0002-0340-3249"
+  ],
+  "dct_description_sm": [
+    "This dataset accompanies the scientific article entitled “Amphipods (Hyalella azteca) and zooplankton as sentinels of rare earth elements, uranium and thorium in a northern mining region contaminated with arsenic” and consists of two data files (1- database_yk2024.xlsx; 2- Project_As_UdeM.db7). \nSamples were collected in July 2024 in the Yellowknife region (Northwest Territories, Canada), across ten lakes and along a depth transect in Yellowknife Bay. The study area is influenced by multiple anthropogenic activities, including historical gold mining that has generated contamination gradients in Ag, As, Cd, and Pb. Additional pressures include potential exposure to rare earth elements (REEs), U, and Th associated with REE mining activities at the nearby Nechalacho mine, as well as urbanization and land clearance impacting several lakes near the city (Jackfish, Niven, Kam, and Grace lakes). \nWater samples were collected from approximately 2 m depth in triplicate, including unfiltered and 0.45 μm filtered fractions. Surface sediments were collected from the deepest zone and from the littoral zone of each lake in triplicate. H. azteca were sampled from shoreline sediments using a kick net. In Yellowknife Bay, H. azteca were also sampled using an Ekman grab and sieved (500 μm mesh size) at two sites. Bulk zooplankton samples were collected by horizontal transects approximately 2 m below the surface using a plankton net (1 m diameter, 200 µm mesh). All methods are described in detail in the associated article.\nThe first file (Excel format) contains integrated environmental and biological data. It includes the station metadata (sampling date, GPS coordinates, weather conditions, altitude, and lake depth) and in situ water quality measurements (pH, chlorophyll, conductivity, dissolved oxygen, redox potential (ORP), turbidity, water temperature and pressure). The dataset also includes direct carbon measurements (DIC, DOC) and dissolved organic matter (DOM) characterization, including fluorescence indices and PARAFAC-derived components (C1-C5), as well as nutrients (TP, TN) and major ions (PO43-, F-, Cl-, Br-, NO2-, NO3-, SO42-). Also included are the elemental concentrations measured by ICP-MS/MS, including REEs, U, Th, Fe, and As in filtered and unfiltered surface waters, as well as in bulk zooplankton, amphipods, and sediments. Speciation results are also provided for As(V), obtained using high performance liquid chromatography (HPLC) and quantified using ICP-MS/MS with Aglient MassHunter (v4.6) software. Stable isotope data (d13C, d34S) are included for animals and sediments. Parameter units, detection limits, and certain analytical details are also provided, with remaining details provided in the associated article. \nThis dataset was developed to evaluate the potential of H. azteca and zooplankton as biomonitors of REEs, U, Th, and As across the Yellowknife region. The data support the assessment of contaminant distribution, elemental geochemistry in aqueous systems, and relationships between water physiochemistry, metal speciation, and bioaccumulation patterns across multiple environmental compartments.\nThe second file (db7 format) is compatible with WHAM software and contains the constants used in WHAM speciation models, along with their sources, to support further geochemical modelling."
+  ],
+  "dct_identifier_sm": [
+    "1180814_281357_281358",
+    "https://doi.org/10.5683/SP3/VN0VDF"
+  ],
+  "dct_issued_s": "2026-07-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/VN0VDF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Yellowknife, Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Water quality, WHAM speciation, PARAFAC components, and elemental concentrations in water, sediments, and animals from Yellowknife (Northwest Territories, Canada, 2024)",
+  "gbl_mdModified_dt": "2026-08-03T15:59:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c46cb1d7-4983-50ce-bc11-db9963fa000b",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

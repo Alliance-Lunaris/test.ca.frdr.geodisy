@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forêt",
+    "National Terrestrial Ecosystem Monitoring System (NTEMS)",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Âge de la forêt (2022)"
+  ],
+  "dct_creator_sm": [
+    "Dr. M. A. Wulder."
+  ],
+  "dct_description_sm": [
+    "Landsat-derived forest age for Canada 2022\nSatellite-based forest age map for 2022 across Canada's forested ecozones at a 30-m spatial resolution. Remotely sensed data from Landsat (disturbances, surface reflectance composites, forest structure) and MODIS (Gross Primary Production) are utilized to determine age. Age can be determined where disturbance can be identified directly (disturbance approach) or inferred using spectral information (recovery approach) or using inverted allometric equations to model age where there is no evidence of disturbance (allometric approach). The disturbance approach is based upon satellite data and mapped changes and is the most accurate. The recovery approach also avails upon satellite data plus logic regarding forest succession, with an accuracy that is greater than pure modeling. Given the lack of widespread recent disturbance over Canada's forests, the allometric approach is required over the greatest area (86.6%). Using information regarding realized heights and growth and yield modeling, ages are estimated where none are otherwise possible. Trees of all ages are mapped, with trees >150 years old combined in an - old tree - category. This product was developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS).\n\nSee Maltman et al. (2023) for an overview of the methods, data, image processing, as well as information on agreement assessment using Canada's National Inventory (NFI). Maltman, J.C., Hermosilla, T., Wulder, M.A., Coops, N.C., White, J.C., 2023. Estimating and mapping forest age across Canada's forested ecosystems. Remote Sensing of Environment 290, 113529. ( Maltman et al. 2023).",
+    "Carte satellite de l'âge des forêts pour 2022 dans les écozones forestières du Canada à une résolution spatiale de 30 m. Il a été développé dans le cadre du Système national de surveillance des écosystèmes terrestres (NTEMS) du Canada. Les données de télédétection de Landsat (perturbations, composites de réflectance de surface, structure forestière) et MODIS (production primaire brute) sont utilisées pour déterminer l'âge. L'âge peut être déterminé là où la perturbation peut être détectée directement (approche de perturbation) ou déduite à l'aide de l'information spectrale (approche de rétablissement) ou à l'aide d'équations allométriques inversées pour modéliser l'âge lorsqu'il n'y a aucune preuve de perturbation (approche allométrique). L'approche de perturbation est fondée sur les données satellite et les changements cartographiés, et elle est la plus précise. L'approche de rétablissement s'appuie également sur les données satellite et la logique concernant la succession forestière, avec une précision supérieure à la modélisation pure. Étant donné l'absence de perturbations récentes à grande échelle sur les forêts du Canada, l'approche allométrique est requise sur la plus grande superficie (86,6%). À l'aide de renseignements concernant la modélisation des hauteurs, de la croissance et du rendement réalisée, on estime l'âge là où il n'est pas possible de le faire autrement. Les arbres de tous âges sont cartographiés, les arbres de plus de 150 ans étant regroupés dans la catégorie des «vieux arbres».\nVoir Maltman et al. (2023) pour un aperçu des méthodes, des données, du traitement des images, ainsi que de l'information sur l'évaluation des ententes à l'aide de l'Inventaire forestier national (IFN) du Canada. Maltman, J.C., Hermosilla, T., Wulder, M.A., Coops, N.C., White, J.C., 2023. Estimating and mapping forest age across Canada's forested ecosystems. Remote Sensing of Environment 290, 113529. ( Maltman et al. 2023)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2dac1be0-411b-421e-bdf5-142a77afdbf0"
+  ],
+  "dct_issued_s": "2023-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2dac1be0-411b-421e-bdf5-142a77afdbf0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Forest Age (2022)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c13d9c7b-2d3f-545b-9f16-1bbf7cd8403c",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

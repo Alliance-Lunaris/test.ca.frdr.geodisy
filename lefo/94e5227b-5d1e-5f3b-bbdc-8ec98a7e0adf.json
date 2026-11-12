@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.5018321, -133.5018321, 68.7420508, 68.7420508)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Caron-Guay, Antoine (University of Montreal, Institut de recherche en biologie végétale). ORCID: https://orcid.org/0009-0000-6197-8625",
+    "Laliberté, Etienne (Institut de recherche en biologie végétale, University of Montreal, Université de Montréal). ORCID: https://orcid.org/0000-0002-3167-2622",
+    "Sonnentag, Oliver (University of Montreal, Université de Montréal). ORCID: https://orcid.org/0000-0001-9333-9721"
+  ],
+  "dct_description_sm": [
+    "This dataset provides high-resolution vegetation maps, labeled training data, and supporting photogrammetric products derived from drone-based surveys conducted in Arctic upland tundra at the Trail Valley Creek research station (Northwest Territories, Canada) between July 24 and July 29, 2023. Using a DJI Mavic 3 Multispectral drone equipped with RTK, multiple missions were flown at different altitudes to acquire RGB imagery at ground sampling distances (GSD) of 2.5 mm, 8 mm, and 1.6 cm, supporting detailed vegetation classification across various spatial scales.\r\n\r\nThe dataset includes orthomosaics, digital surface and terrain models (DSM, DTM), canopy height models (CHM), and dense point clouds for 38 missions. Field-verified species identifications were used to create labeled geopackages with species-level annotations over 25 × 25 cm grids. These annotations were used to train convolutional neural network models, and the resulting vegetation map predictions (at low, medium, and high resolution) are shared as raster and vector products.\r\n\r\nVegetation classification distinguishes between functional groups such as graminoids, lichens, and dwarf or tall shrubs. All predictions are georeferenced and aligned with their respective drone-derived photogrammetric inputs. Quality assurance was performed through visual inspections of orthomosaics and vector layers in ArcGIS Pro. The dataset supports research in Arctic ecology, biodiversity monitoring, remote sensing, and machine learning applications in tundra vegetation mapping."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01418"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01418\"}",
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Dedication (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "-, Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Northwest Territories",
+    "Applications écologiques",
+    "Plant ecology",
+    "Arctic vegetation",
+    "Ecological applications",
+    "Sciences biologiques",
+    "Digital surface model",
+    "Biological sciences",
+    "Photogrammetry",
+    "High-resolution orthomosaic",
+    "Trail Valley Creek",
+    "Ecological impacts of climate change",
+    "Remote sensing",
+    "UAV RGB imagery",
+    "Tundra ecosystems",
+    "Vegetation classification",
+    "Impacts écologiques des changements climatiques",
+    "Drone imagery"
+  ],
+  "dct_title_s": "High-Resolution Arctic Vegetation Maps and Photogrammetry Data from Drone Surveys at Trail Valley Creek, Northwest Territories (2023)",
+  "gbl_mdModified_dt": "2026-04-16T19:42:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "94e5227b-5d1e-5f3b-bbdc-8ec98a7e0adf",
+  "locn_geometry": "ENVELOPE(-133.5018321, -133.5018321, 68.7420508, 68.7420508)",
+  "schema_provider_s": "LEFO"
+}

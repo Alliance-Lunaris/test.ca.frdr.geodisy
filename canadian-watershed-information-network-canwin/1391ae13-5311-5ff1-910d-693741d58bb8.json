@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Multi-model ensembles for a suite of ocean variables based on projections from Coupled Model Intercomparison Project Phase 6 (CMIP6) global climate models (GCMs) are available for 1900-2100 on a common 1x1 degree global grid. All ocean variables currently available contain data for the top level (sea surface) of the ocean.  \n  \n  Climate projections vary across GCMs due to differences in the representation and approximation of earth systems and processes, and natural variability and uncertainty regarding future climate drivers. Thus, there is no single best climate model. Rather, using results from an ensemble of models (e.g., taking the average) is best practice, as an ensemble takes model uncertainty into account and provides more reliable climate projections.  \n  \n  Provided on CCDS are multi-model ensembles as well as individual model simulations. Multi-model output is available for historical simulations and six Shared Socioeconomic Pathways (SSPs) (SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0, SSP4-6.0, and SSP5-8.5), four future periods (near-term (2021-2040), mid-term (2041-2060 and 2061-2080), end of century (2081-2100), and up to eight percentiles (maximum, minimum, mean, 5th, 25th, 50th (median), 75th, and 95th) of the CMIP6 ensemble distribution. Datasets are available as both actual and anomaly values. Anomalies of projected changes are expressed with respect to a historical reference period of 1995-2014.   \n  \n  The number of models in each ensemble differs according to model availability for each SSP and variable, see the model list resource for details on the models included in each ensemble. For more information on the CMIP6 multi-model ocean datasets, see the technical documentation resource."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/95878c14-018d-43f7-9b8c-72657902a794"
+  ],
+  "dct_issued_s": "2023-09-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/95878c14-018d-43f7-9b8c-72657902a794\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "CMIP6 multi-model ocean datasets",
+  "gbl_mdModified_dt": "2024-02-16T14:33:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1391ae13-5311-5ff1-910d-693741d58bb8",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

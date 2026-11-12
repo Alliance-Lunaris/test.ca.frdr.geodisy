@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(48.2583, 49.0944, -12.8733, -13.845)",
+  "dcat_keyword_sm": [
+    "Data Fusion",
+    "Remote Sensing",
+    "Change detection",
+    "Sentinel-1",
+    "Synthetic Aperture Radar (SAR)",
+    "Sentinel-2",
+    "Mangroves"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "ANTWI BOASIAKO, BENEDICTA (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Mangrove ecosystems provide essential ecological services, including shoreline protection, carbon \nstorage, and habitat support. However, they are increasingly under threat from anthropogenic \npressures such as agricultural encroachment, logging, and climate-induced sea-level rise. \nMonitoring mangrove extent and condition is therefore critical, yet challenging due to their \nlocation in remote intertidal zones and frequent cloud cover that limits field-based and optical \nobservations. Remote sensing offers an effective solution by enabling consistent, large-scale \nmonitoring of vegetation across time and space.\nThis study assessed the effectiveness of Sentinel-1 Synthetic Aperture Radar (SAR) data for \nmangrove mapping in Ambanja Bay, Madagascar, and evaluated whether fusing it with Sentinel-2 optical imagery enhances classification performance. Using a Random Forest classifier, both \nSAR-only and multi-sensor datasets were analyzed to classify land cover and assess changes \nbetween 2019 and 2024.\nThe SAR-only classification achieved 60% accuracy, with notable confusion between mangroves \nand water due to similar backscatter responses. In contrast, the fusion approach significantly \nimproved classification, achieving an overall accuracy of 94%. Land cover change analysis \nrevealed transitions from barren land to non-mangrove vegetation and localized expansion of \nmangrove cover.\nThese findings demonstrate that integrating SAR and optical data substantially improves \nclassification accuracy, reinforcing the value of multi-sensor remote sensing for environmental \nmonitoring and conservation planning in dynamic coastal ecosystems."
+  ],
+  "dct_identifier_sm": [
+    "894533_73894_115983",
+    "https://doi.org/10.5683/SP3/LRL6TF"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LRL6TF\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ambanja, Diana, Madagascar"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Mapping Mangroves Ecosystems Using Synthetic Aperture Radar (SAR)",
+  "gbl_mdModified_dt": "2025-04-22T16:55:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9ab4f0f5-b133-5755-bd18-04394c7813e6",
+  "locn_geometry": "ENVELOPE(48.2583, 49.0944, -12.8733, -13.845)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

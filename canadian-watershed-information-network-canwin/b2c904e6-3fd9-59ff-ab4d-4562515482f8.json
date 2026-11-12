@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Here is a Pan-Canadian prospectivity model for Mississippi Valley-type lead-zinc deposits. This model is derived from multiple forms of geodata (e.g., geology, structural, geophysics) that were spatially indexed. Feature extraction was performed using an autoencoder (deep learning). Predictive modelling was performed using the deep ensemble method. The model was trained using known Mississippi Valley-type lead-zinc deposits and occurrences and their associated features. Furthermore, this model here has been updated with regional mineral occurrence/deposits datasets. The map shows regions of interest for exploration of Mississippi Valley-type lead-zinc. Higher probability values highlight areas with an increased probability for Mississippi Valley-type lead-zinc mineral system deposits and occurrences."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a80d8df7-0f44-c350-ed6d-005eb00b6b1e"
+  ],
+  "dct_issued_s": "2026-10-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a80d8df7-0f44-c350-ed6d-005eb00b6b1e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Updated Mississippi Valley-type lead-zinc national prospectivity",
+  "gbl_mdModified_dt": "2026-10-19T11:30:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b2c904e6-3fd9-59ff-ab4d-4562515482f8",
+  "locn_geometry": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

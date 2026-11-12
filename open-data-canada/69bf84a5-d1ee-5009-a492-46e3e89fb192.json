@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Route verte",
+    "Veloboucles mauricie",
+    "Ville de shawinigan",
+    "Pistes cyclables",
+    "Information gouvernementale",
+    "Voies cyclables",
+    "Donnee ouverte",
+    "Velo",
+    "Bicyclette",
+    "Msp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Linear layer of the bicycle network of the City of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n Scanning from orthophotography\n\n**Attributes**\n\n* `objective` (`OID`): \n* `type` (`String`): Type\n* `surface` (`String`): Surface\n* `status` (`String`): Status\n* `length` (`Double`): Length\n* `st_length (shape) `(`Double`): Length\n* `annee_resurfacage` (`String`): Resurfacing year\n* `velobouclemauricie` (`String`): Velobouclemauricie` (`String`): Veloloop Mauricie\n* `greenroute` (`String`): Green route\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche linéaire du réseau cyclable de la Ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `type` (`String`) : Type\n* `surface` (`String`) : Surface\n* `statut` (`String`) : Statut\n* `longueur` (`Double`) : Longueur\n* `st_length(shape)` (`Double`) : Longueur\n* `annee_resurfacage` (`String`) : Année de resurfaçage\n* `velobouclemauricie` (`String`) : Véloboucle Mauricie\n* `routeverte` (`String`) : Route Verte\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/53fc8007-8fb0-4baf-a8a0-fd1d006893d2"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/53fc8007-8fb0-4baf-a8a0-fd1d006893d2\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Réseau cyclable - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T17:41:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "69bf84a5-d1ee-5009-a492-46e3e89fb192",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

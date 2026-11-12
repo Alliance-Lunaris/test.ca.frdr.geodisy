@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.0, -52.0, 83.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canada Basemap Transportation (CBMT) is a raster tile service that provides spatial reference context with an emphasis on transportation networks across Canada. It is designed especially for use as a background layer in a web mapping application or geographic information system (GIS).   \n  \n  Access: Access is free of charge under the terms of the Open Government Licence - Canada.  \n  \n  Data Sources:   \n  \n  Data for the CBMT is sourced from the following datasets:  \n  \n  - Topographic data of Canada – CanVec Series  \n  \n  - Official names from the Canadian Geographical Names Database (CGNDB).  \n  \n  Projections:  \n  \n  - Data is provided in the EPSG:3978 (NAD83 Canada Atlas Lambert) projected coordinate system.  \n  \n  - Data is provided in the EPSG:3857 (WGS84 Pseudo-Mercator) projected coordinate system.  \n  \n  Geographic Coverage:   \n  \n  - The CBMT in the EPSG:3857 has complete coverage of the world, with full datasets in Canada and only partial data in other parts of the world including boundaries, Country Names, and major cities.  \n  \n  - The CBMT in the EPSG:3978 covers the entire geographic area of Canada and some major transportation routes and cities in the northern States of the USA.  \n  \n  Additional Versions:   \n  \n  - The CBMT is available as a dynamic service (WMS) or a tiled service (ESRI REST and WMTS).   \n  \n  - A geometry-only version (CBMT GEOM) and a text-only version (CBMT TXT) are available.   \n  \n  - French versions of the basemap are accessible via the Carte de base du Canada - Transport (CBCT)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/296de17c-001c-4435-8f9a-f5acab632e85"
+  ],
+  "dct_issued_s": "2017-09-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/296de17c-001c-4435-8f9a-f5acab632e85\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Basemap Transportation (CBMT) - Raster Tile",
+  "gbl_mdModified_dt": "2025-06-10T20:20:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "11a34de8-160a-5301-96d1-d8a72be19583",
+  "locn_geometry": "ENVELOPE(-140.0, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

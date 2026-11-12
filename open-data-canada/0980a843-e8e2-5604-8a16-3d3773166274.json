@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Précipitation",
+    "Climat",
+    "Climate",
+    "Climate change",
+    "Changement climatique",
+    "Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations mensuelles homogénéisées au Canada (CanHoPmly)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "This first version of the dataset (CanHoPmlyV1) contains homogenized time series of monthly total precipitation for 425 long-term stations in Canada. As detailed in Wang et al. (2023), it is based on the quality-controlled version 2020 of the Adjusted Daily Rainfall and Snowfall (AdjDlyRS) dataset (Wang et al. 2017; available at https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305), and on daily total precipitation data from automated gauges (including Belfort, Fisher & Porter, Nipher, Geonor, and Pluvio), with some records from neighbouring stations being joined to form long-term data series. Version 1 of ANUSPLIN surfaces of the adjusted monthly precipitation (MacDonald et al. 2021, available at https://open.canada.ca/data/en/dataset/779ea77a-0ad1-42f2-853e-833e1cbb9a13) was used to infill temporal data gaps in the 425 data series. A comprehensive semi-automatic data homogenization procedure was used to homogenize the data series. The aforementioned ANUSPLIN data and the Twentieth Century Reanalysis 20CRv3 ensemble-mean series of monthly precipitation (Slivinski et al., 2021) were used as reference in the homogeneity tests (Wang et al., 2023). The homogenized dataset provides more realistic trend estimates and shows better spatial consistency of trends than does the raw dataset (Wang et al. 2023).\r\n\r\n\r\nReferences:\r\n\r\nWang, X.L, Y. Feng, V. Y. S. Cheng, H. Xu, 2023: Observed precipitation trends inferred from Canada’s homogenized monthly precipitation dataset, J. Clim., in press. DOI: 10.1175/JCLI-D-23-0193.1. \r\n\r\nWang, X. L., H. Xu, B. Qian, Y. Feng, E. Mekis, 2017: The adjusted daily rainfall and snowfall data for Canada. Atmosphere-Ocean, 55:3, 155-168, DOI:10.1080/07055900.2017.1342163.\r\n\r\nMacDonald, H., D. W. McKenney, X. L. Wang, J. Pedlar, P. Papadopol, K. Lawrence, M. F. Hutchinson, 2021: Spatial Models of adjusted precipitation for Canada at varying time scales. J. Appl. Meteor. And Climatol., 60, 291-304. DOI: 10.1175/JAMC-D-20-0041.1.\r\n\r\nSlivinski, L. and coauthors, 2019: Towards a more reliable historical reanalysis: Improvements for version 3 of the Twentieth Century Reanalysis system. Q. J. R. Meteor. Soc., 2876-2908, https://doi.org/10.1002/qj.3598.",
+    "Cette première version du jeu de données (CanHoPmlyV1) contient des séries temporelles homogénéisées de précipitations totales mensuelles pour 425 stations à long terme au Canada. Comme l'expliquent Wang et al. (2023), elle est basée sur la version 2020 à qualité contrôlée du jeu d’ensemble des données quotidiennes ajustées de pluie et neige pour le Canada (AdjDlyRS) (Wang et al. 2017; disponible à l'adresse https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305), et sur les données de précipitations totales quotidiennes provenant de jauges automatisées (notamment Belfort, Fisher & Porter, Nipher, Geonor et Pluvio), certains enregistrements provenant de stations voisines ayant été joints pour former des séries de données à long terme. La version 1 des surfaces ANUSPLIN des précipitations mensuelles ajustées (MacDonald et al. 2021, disponible sur https://ouvert.canada.ca/data/fr/dataset/779ea77a-0ad1-42f2-853e-833e1cbb9a13) a été utilisée pour combler les lacunes temporelles dans les 425 séries de données. Une procédure semi-automatique complète d'homogénéisation des données a été utilisée pour homogénéiser les séries de données. Les données ANUSPLIN susmentionnées et la série moyenne d'ensemble de précipitations mensuelles de la Twentieth Century Reanalysis 20CRv3 (Slivinski et al., 2021) ont été utilisées comme référence dans les tests d'homogénéité (Wang et al., 2023). L'ensemble de données homogénéisées fournit des estimations de tendances plus réalistes et montre une meilleure cohérence spatiale des tendances que l'ensemble de données brutes (Wang et al. 2023).\r\n\r\n\r\nReferences:\r\n\r\nWang, X.L, Y. Feng, V. Y. S. Cheng, H. Xu, 2023: Observed precipitation trends inferred from Canada’s homogenized monthly precipitation dataset, J. Clim., in press. DOI: 10.1175/JCLI-D-23-0193.1. \r\n\r\nWang, X. L., H. Xu, B. Qian, Y. Feng, E. Mekis, 2017: The adjusted daily rainfall and snowfall data for Canada. Atmosphere-Ocean, 55:3, 155-168, DOI:10.1080/07055900.2017.1342163.\r\n\r\nMacDonald, H., D. W. McKenney, X. L. Wang, J. Pedlar, P. Papadopol, K. Lawrence, M. F. Hutchinson, 2021: Spatial Models of adjusted precipitation for Canada at varying time scales. J. Appl. Meteor. And Climatol., 60, 291-304. DOI: 10.1175/JAMC-D-20-0041.1.\r\n\r\nSlivinski, L. and coauthors, 2019: Towards a more reliable historical reanalysis: Improvements for version 3 of the Twentieth Century Reanalysis system. Q. J. R. Meteor. Soc., 2876-2908, https://doi.org/10.1002/qj.3598."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1dd0c28e-2266-42e2-8985-2f47659e9d02"
+  ],
+  "dct_issued_s": "2023-10-01",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1dd0c28e-2266-42e2-8985-2f47659e9d02\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Canadian Homogenized Monthly Precipitation (CanHoPmly)",
+  "gbl_mdModified_dt": "2026-08-04T17:42:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0980a843-e8e2-5604-8a16-3d3773166274",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

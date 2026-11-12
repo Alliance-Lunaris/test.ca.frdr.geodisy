@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "IQS25 EPN",
+    "Pin gris",
+    "Épinette noire",
+    "IQS25 PIG",
+    "IQS25 EPB",
+    "Indice",
+    "Épinette blanche",
+    "Information gouvernementale",
+    "Espèce",
+    "DRF",
+    "Essence",
+    "IQS",
+    "Direction de la recherche forestière",
+    "Plantation",
+    "Station"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de la Recherche Forestière."
+  ],
+  "dct_description_sm": [
+    "Station Quality Index (IQS) maps provide a 25-year IQS value for white spruce, black spruce, and jack pine plantations at the scale of the forest polygon of the ecoforest map updated in 2022. These IQS values were estimated with non-parametric models called decision-making tree forests, which were parameterized from spatially explicit variables, derived from climate data, ecological classification, edaphic characteristics and attributes relating to the station. IQS values were estimated based on the current climate period for managed forest land and do not include climate projections. Data can be downloaded as a file in GeoPackage (GPKG) or CSV format. To know the details of the modeling approach used, you are invited to consult the SSRF-30 technical opinion by Barrette et al. (2023).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Les cartes d’indice de qualité de station (IQS) fournissent une valeur d’IQS à 25 ans pour les plantations d’épinette blanche, d’épinette noire et de pin gris à l’échelle du polygone forestier de la carte écoforestière mise à jour en 2022. Ces valeurs d’IQS ont été estimées avec des modèles non paramétriques dits de forêts d’arbres décisionnels, qui ont été paramétrés à partir de variables spatialement explicites, dérivées de données climatiques, de la classification écologique, de caractéristiques édaphiques et d’attributs relatifs à la station. Les valeurs d’IQS ont été estimées en fonction de la période climatique actuelle pour le territoire forestier aménagé et n’incluent pas de projections climatiques. Les données peuvent être téléchargées sous forme de fichier en format GeoPackage (GPKG) ou CSV. Pour connaitre le détail de l’approche de modélisation utilisée, vous êtes invités à consulter l’avis technique SSRF-30 de Barrette et al. (2023)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/19c00887-5800-49b7-b1f9-48f3467e2663"
+  ],
+  "dct_issued_s": "2024-07-17",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/19c00887-5800-49b7-b1f9-48f3467e2663\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Cartographie des indices de qualité de station des plantations monospécifiques d’épinette blanche, d’épinette noire et de pin gris",
+  "gbl_mdModified_dt": "2026-05-27T18:10:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a8dc5126-403d-5477-a789-f670dcc37963",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

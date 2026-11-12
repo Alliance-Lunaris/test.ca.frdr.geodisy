@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Quebec road network, which is managed by the Ministry of Transport and Sustainable Mobility (MTMD), is represented on the interactive map according to the functional class of roads: Highway, National, Regional, Collector, Local 1-2-3, Local 1-2-3, Access resources, Access to resources and isolated locations. Some routes in the dataset are also under federal management or in public-private partnerships (PPP). \n\nThe road network is inventoried according to the MTMD linear reference system. The linear reference is expressed under the acronym RTSS (Road, Section, Section, Sub-road). The inventoried roads are composed of a 14-character alphanumeric code and an associated measure called chaining (distance measured in meters). \n\nAn inventoried route will therefore have a starting link (always 0) and an end link representing its length. Thus, the chaining value of a point can be extrapolated precisely to this point. The linear reference method is applied both in the field by different reference points and for the management of digital data of related road assets.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c937deb0-a089-4035-88f1-06b36bfd42c5"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c937deb0-a089-4035-88f1-06b36bfd42c5\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Road network - RTSS",
+  "gbl_mdModified_dt": "2026-10-07T18:05:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fecdd565-06ba-58e4-8619-cc9218790d60",
+  "locn_geometry": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-137.7, -52.05, 64.575, 39.675)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This data represents the dryness of the land surface based on vegetation conditions. The data is created weekly and uses weekly information on precipitation anomalies (namely the Standardized Precipitation Index or SPI) and satellite vegetation condition derived from Normalized Difference Vegetation Index (NDVI) from the MODIS Satellite. These dynamic data sets along with static data sets on land cover, soil water holding capacity, irrigation, ecozones and land surface elevation are used to model the drought severity, based on the Palmer Drought Severity Index (PDSI). The mapcubist model was trained on historical data and applied in real time to the dynamic inputs to produce drought severity ratings. The model is run at a 1km resolution and was developed by the AAFC, the United States Geological Survey and the United States Drought Monitor at the University of Nebraska Lincoln."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/447c4ab0-f2d4-4f6b-9a44-d621874f1b45"
+  ],
+  "dct_issued_s": "2020-09-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/447c4ab0-f2d4-4f6b-9a44-d621874f1b45\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Vegetation Drought Response Index (VegDri)",
+  "gbl_mdModified_dt": "2025-07-21T21:52:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eca94e4d-dc51-521d-b375-8bb35dd1fe09",
+  "locn_geometry": "ENVELOPE(-137.7, -52.05, 64.575, 39.675)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

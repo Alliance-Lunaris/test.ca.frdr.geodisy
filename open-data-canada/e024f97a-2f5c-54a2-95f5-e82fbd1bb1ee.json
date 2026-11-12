@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "dcat_keyword_sm": [
+    "Nelson River Basin",
+    "Government information",
+    "Forecast",
+    "Province of Manitoba",
+    "REPS",
+    "Weather Models",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées prévues par le REPS - 72 heures"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer represents accumulated precipitation forecasts from the Regional Ensemble Prediction System (REPS), a regional probabilistic model. It delivers ensemble‑based, short‑range precipitation forecasts—typically a 72‑hour accumulation—that aid in assessing the risk and spatial distribution of rainfall events, supporting hydrological analysis, flood forecasting, and water resource management.  \n  \n  This polygon layer is produced by processing REPS GRIB2 files. The workflow involves extracting the precipitation field, converting it to a TIF raster, and then applying resampling, smoothing, and classification to create polygon features. These features represent forecasted rainfall totals over a 72‑hour period and are updated with each model run to maintain current predictive information. Source: Environment & Climate Change Canada",
+    "Cette couche polygonale représente les prévisions de précipitations cumulées du Regional Ensemble Prediction System (REPS), un modèle probabiliste régional. Il fournit des prévisions de précipitations à court terme basées sur un ensemble, généralement sur une accumulation sur 72 heures, qui aident à évaluer le risque et la distribution spatiale des précipitations, à étayer l'analyse hydrologique, la prévision des inondations et la gestion des ressources en eau.  \n  \n  Cette couche polygonale est produite en traitant des fichiers REPS GRIB2. Le flux de travail consiste à extraire le champ de précipitation, à le convertir en raster TIF, puis à appliquer un rééchantillonnage, un lissage et une classification pour créer des entités polygonales. Ces caractéristiques représentent les précipitations totales prévues sur une période de 72 heures et sont mises à jour à chaque exécution du modèle afin de maintenir les informations prédictives actuelles. Source : Environnement et Changement climatique Canada  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4be7f89d-235f-f6d6-de37-d4e6f19af4fb"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4be7f89d-235f-f6d6-de37-d4e6f19af4fb\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "REPS Forecasted Accumulated Precipitation - 72 hrs",
+  "gbl_mdModified_dt": "2025-07-30T11:10:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e024f97a-2f5c-54a2-95f5-e82fbd1bb1ee",
+  "locn_geometry": "ENVELOPE(-117.4207, -89.8937, 60.2237, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

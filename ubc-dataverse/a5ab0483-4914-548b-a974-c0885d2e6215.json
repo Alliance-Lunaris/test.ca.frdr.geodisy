@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.88543218822173, -123.79937681932228, 49.155714828130044, 49.11162160725925)",
+  "dcat_keyword_sm": [
+    "Machine learning",
+    "Multi-season data",
+    "Random forest",
+    "Sentinel",
+    "Remote sensing",
+    "Forestry",
+    "LiDAR",
+    "Classification",
+    "Tree",
+    "Quercus garryana",
+    "Garry oak"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Doiron, Geneviève (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Garry oak ecosystems are one of North America's most distinctive and ecologically significant ecosystems. Currently, only 1–5% of their historical extent remains in near-natural condition. Effective conservation requires accurate information on Garry oak distribution and forest composition. Remote sensing and machine learning offer advantages over traditional methods in terms of resources and scalability. Spectral similarities with co-occurring species, rarity, and subcanopy growth present challenges in transitional forests. Previous studies have found incorporating light detection and ranging (LiDAR) and multi-season data to be advantageous in tree species classification compared to single season imagery. This research evaluates the effect of including multi-season LiDAR data and imagery on the accuracy of Garry oak identification in a random forest classification of a mixed broadleaf and coniferous forest on Vancouver Island, Canada. LiDAR improved overall accuracy by 5.21%, Garry oak producer accuracy by 19%, and user accuracy by 7.67% on average compared to imagery alone. The impact of seasonality was less clear. On average, classifications using leaf-on LiDAR outperformed multi-season and leaf-off LiDAR, while spring imagery, followed by multi-season imagery, performed best. However, that was not consistently true. Seasonality of inputs significantly impacted misclassification patterns and final proportion of predicted species. These findings highlight the benefits of integrating LiDAR data in classifications to identify Garry oaks. Further research on the impact of species composition and phenology could help optimize data acquisition timing."
+  ],
+  "dct_identifier_sm": [
+    "898047_73894_115983",
+    "https://doi.org/10.5683/SP3/9WQTLD"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/9WQTLD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Nanaimo, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Combining Multi-Season Multispectral Imagery and Airborne Laser Scanning Data to Improve Predicted Quercus garryana Distribution",
+  "gbl_mdModified_dt": "2025-04-22T16:48:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a5ab0483-4914-548b-a974-c0885d2e6215",
+  "locn_geometry": "ENVELOPE(-123.88543218822173, -123.79937681932228, 49.155714828130044, 49.11162160725925)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

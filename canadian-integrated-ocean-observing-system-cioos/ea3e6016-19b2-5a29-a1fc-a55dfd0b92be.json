@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.0, -120.0, 74.0, 70.0)",
+  "dcat_keyword_sm": [
+    "oceansurfaceheatflux",
+    "oceans",
+    "flux-de-chaleur-oceanique-de-surface",
+    "beaufort-sea",
+    "modeling",
+    "arcticnet",
+    "scatterometer",
+    "beaufort-sea-and-amundsen-gulf",
+    "polarized-light",
+    "canadian-arctic",
+    "radiation",
+    "arcticnet"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Diffusomètre en bande C - Expédition ArcticNet 2010 - Mer de Beaufort"
+  ],
+  "dct_creator_sm": [
+    "Barber, David.",
+    "Warner, Kerri."
+  ],
+  "dct_description_sm": [
+    "General description: A C-band polarimetric scatterometer was used to collect the backscattering signatures of new ice, first year ice, and multiyear ice in as many forms as possible during the fall freeze-up and winter period in Southern Beaufort Sea and Amundsen Gulf. This instrument is mounted on the port side of the ship (CCGS Amundsen) and the backscattering signatures were collected in conjunction with geophysical sampling of the region that was scanned in an attempt to provide the physical reasons for the electromagnetic interactions. This variable will be used in modeling studies and in coordinating in situ measurements with satellite data. \n\nMethology: The scatterometer measured the backscatter from the surface of interest. Incidence angles ranged from 20 to 60 degrees in 5 degree steps, with a swath of 60 degrees in the azimuth. Several scans were collected for statistical purposes (generally 5). Either during the scans, or immediately afterwards, geophysical sampling was performed in and around the region of the scan in order to gather ground truth data. The dataset contains unprocessed and processed polarimetric data as a function of incidence angle.",
+    "Description générale : Un diffusomètre polarimétrique en bande C a été utilisé pour recueillir les signatures de rétrodiffusion de la nouvelle glace, de la glace de première année et de la glace pluriannuelle sous autant de formes que possible pendant la période de gel automnale et la période hivernale dans le sud de la mer de Beaufort et le golfe d'Amundsen. Cet instrument est monté sur le côté bâbord du navire (CCGS Amundsen) et les signatures de rétrodiffusion ont été collectées en conjonction avec un échantillonnage géophysique de la région qui a été scanné dans le but de fournir les raisons physiques des interactions électromagnétiques. Cette variable sera utilisée dans les études de modélisation et pour coordonner les mesures in situ avec les données satellitaires. \n\nMéthodologie : Le diffusiomètre a mesuré la rétrodiffusion de la surface d'intérêt. Les angles d'incidence variaient de 20 à 60 degrés par pas de 5 degrés, avec une bande de 60 degrés dans l'azimut. Plusieurs scans ont été collectés à des fins statistiques (généralement 5). Soit pendant les scans, soit immédiatement après, un échantillonnage géophysique a été effectué dans et autour de la région du scan afin de recueillir des données fiables sur le terrain. L'ensemble de données contient des données polarimétriques traitées et non traitées en fonction de l'angle d'incidence."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b8245cfd-f3e9-491e-b958-7c9321322d29"
+  ],
+  "dct_issued_s": "2015-03-26",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b8245cfd-f3e9-491e-b958-7c9321322d29\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "C-band scatterometer - ArcticNet 2010 Expedition - Beaufort Sea",
+  "gbl_mdModified_dt": "2026-07-31T16:46:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ea3e6016-19b2-5a29-a1fc-a55dfd0b92be",
+  "locn_geometry": "ENVELOPE(-135.0, -120.0, 74.0, 70.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

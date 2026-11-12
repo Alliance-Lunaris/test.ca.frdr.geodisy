@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0, -88.98, 60.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Point feature layer showing the locations of winter trail and recreation areas in Manitoba's provincial parks.  \n  \n  Point feature layer showing the locations of winter trail and recreation areas in Manitoba's provincial parks.  This layer is utilized in the interactive map Manitoba Parks - Winter Activity Trails Map and the web app Manitoba Parks - Winter Trails and Recreation Areas. The dataset includes the following fields (Alias (Name): Description) Park (Park): Name of the provincial park where the trail or recreation area is located Feature (Feature): Name of the trail or recreation area Activity (Activity): Contains a list of activities designated for the trail Length (Length): Length of the trail in kilometres Groom Date (Groom_Date): Date of the most recent grooming of the trail Rating (Rating): An overall rating of the trail or recreation area given the current conditions. (e.g., Excellent, Good, Fair, Poor, Closed, or Unknown) Trail Condition (Trail_Condition): This field contains a description of the current conditions of the trail or recreation area Additional Remarks (Additional_Remarks): Contains any other related information about the trail or recreation area PDF Link (PDF_Link): Contains a url link to a pdf map or website Ski (Ski): Indicates whether the activity is allowed and provides a way to filter the map features Skijor (Skijor): Indicates whether the activity is allowed and provides a way to filter the map features Walk (Walk): Indicates whether the activity is allowed and provides a way to filter the map features Skate Ski (Skate_Ski): Indicates whether the activity is allowed and provides a way to filter the map features Snowshoe (Snowshoe): Indicates whether the activity is allowed and provides a way to filter the map features Toboggan (Toboggan): Indicates whether the activity is allowed and provides a way to filter the map features Dog Sled (Dog_Sled): Indicates whether the activity is allowed and provides a way to filter the map features For more information about winter activities, visit the Manitoba Parks website."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8645a17a-4905-ed58-19f9-ae926feaee48"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8645a17a-4905-ed58-19f9-ae926feaee48\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Parks - Winter Trails and Recreation Areas",
+  "gbl_mdModified_dt": "2024-12-06T14:23:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cd59a57c-4c81-5a12-b0a8-fd339da45278",
+  "locn_geometry": "ENVELOPE(-102.0, -88.98, 60.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

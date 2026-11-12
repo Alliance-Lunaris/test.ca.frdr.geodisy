@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Toponyme",
+    "Géobase",
+    "Reseau routier",
+    "SIRR",
+    "Information gouvernementale",
+    "PoleARTM",
+    "Tronçon",
+    "Route",
+    "Rue",
+    "Adresse",
+    "Quartier"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service des infrastructures du réseau routier - Division de la géomatique."
+  ],
+  "dct_description_sm": [
+    "The geobase is a filamentary network of straight segments commonly called “sections”, which are generally digitized at the center of the street. A section is then a portion of road with homogeneous characteristics described mainly by the following attributes: an official and current toponym, address ranges and a reference to administrative boundaries (boroughs, municipal boundaries, neighborhoods as the case may be).\n\nPathway classification table:\n\n- class 0 - Local streets\n\n- class 1 - Certain pedestrian routes\n\n- class 2 - Business seats\n\n- class 3 - Dock\n\n- class 4 - Private\n\n- class 5 - Collectors\n\n- class 6 - Secondary arteries\n\n- class 7 - Main arteries\n\n- class 8 - Highways\n\n- class 9 - Projected street\n\nRelated data sets:\n\n- [Geobase double - street sides of the road network] (http://donnees.montreal.ca/dataset/geobase-double)\n\n- [Geobase - poles] (http://donnees.montreal.ca/dataset/geobase-pole)\n\n- [Geobase - destroyed sections] (http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\n\n- [Geobase - section management] (http://donnees.montreal.ca/dataset/geobase-gestion-troncon)\n\n- [Geobase - nodes] (http://donnees.montreal.ca/dataset/geobase-noeud)\n\n __Warnings__\n\n- The data released (Geobase - road network) must be used in accordance with the City of Montreal's open data policy and license.\n\n- The data disseminated (Geobase - road network) are those that are in our possession and are not necessarily up to date throughout the country.\n\n- The data disseminated (Geobase - road network) is provided for information purposes only and should not be used for the purposes of designing or carrying out the works, nor for the purpose of locating assets.\n\n- The City of Montreal and the Geomatics Division cannot be held responsible for the inaccuracies or inaccuracies of the data disseminated (Geobase - road network).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La géobase se présente comme un réseau filamentaire de segments de droite nommés communément « tronçons » dont la numérisation se fait généralement au centre de rue. Un tronçon est alors une portion de route possédant des caractéristiques homogènes décrites principalement par les attributs suivants : un toponyme officiel et en vigueur, des plages d’adresses et une référence aux limites administratives (arrondissements, limites municipales, quartiers selon le cas).\n\nTableau de la classification des voies:\n\n- classe 0 - Rues locales\n\n- classe 1 - Certaines voies piétonnières\n\n- classe 2 - Places d'affaires\n\n- classe 3 - Quai\n\n- classe 4 - Privée\n\n- classe 5 - Collectrices\n\n- classe 6 - Artères secondaires\n\n- classe 7 - Artères principales\n\n- classe 8 - Autoroutes\n\n- classe 9 - Rue projetée\n\nEnsembles de données connexes:\n\n- [Géobase double - côtés de rue du réseau routier](http://donnees.montreal.ca/dataset/geobase-double)\n\n- [Géobase - pôles](http://donnees.montreal.ca/dataset/geobase-pole)\n\n- [Géobase - tronçons détruits](http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\n\n- [Géobase - gestion tronçons](http://donnees.montreal.ca/dataset/geobase-gestion-troncon)\n\n- [Géobase - noeuds](http://donnees.montreal.ca/dataset/geobase-noeud)\n\n __Avertissements__\n\n- Les données diffusées (Géobase - réseau routier) doivent être utilisées en respectant la politique et la licence en matière de données ouvertes de la Ville de Montréal.\n\n- Les données diffusées (Géobase - réseau routier) sont celles qui se trouvent en notre possession et ne sont pas nécessairement à jour sur l'ensemble du territoire.\n\n- Les données diffusées (Géobase - réseau routier) sont fournies seulement à titre indicatif et ne devraient pas être utilisées aux fins de conception ou réalisation des travaux, ni aux fins de localisation des actifs.\n\n- La Ville de Montréal et la Division de la géomatique ne pourront pas être tenues responsables des imprécisions ou inexactitudes des données diffusées (Géobase - réseau routier)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5"
+  ],
+  "dct_issued_s": "2013-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/984f7a68-ab34-4092-9204-4bdfcca767c5\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Géobase - réseau routier",
+  "gbl_mdModified_dt": "2026-09-30T18:04:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae8c3fbf-efac-5255-af91-746b2feb28fa",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

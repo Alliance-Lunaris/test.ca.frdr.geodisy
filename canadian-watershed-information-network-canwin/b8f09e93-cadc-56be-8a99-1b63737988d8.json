@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Pedestrian trail network.\n\n**Collection context**\n Updates provided by the recreation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_PIETON` (`integer`): Identifier\n* `Type` (`varchar`): Type\n* `LOCATION` (`varchar`): Location\n* `LABEL` (`varchar`): Label\n* `Coating` (`nchar`): Coating\n* `DATE_INSTALLE` (`smalldatetime`): Installed on\n* `Project` (`varchar`): Projected\n* `LENGTH` (`numeric`): Length\n* `NOTES` (`varchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9e3fc36f-6ff0-4bda-acf7-7d6bb45ac866"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9e3fc36f-6ff0-4bda-acf7-7d6bb45ac866\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Pedestrian paths and trails - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:10:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b8f09e93-cadc-56be-8a99-1b63737988d8",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

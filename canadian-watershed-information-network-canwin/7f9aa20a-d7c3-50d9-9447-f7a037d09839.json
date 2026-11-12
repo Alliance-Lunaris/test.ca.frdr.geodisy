@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "644 datasets of Typical Meteorological Years (TMY) created by joining twelve Typical Meteorological Months selected from a database of up to 20 years of CWEEDS hourly data. The months are chosen by statistically comparing individual monthly means with long-term monthly means for daily total global solar irradiance, mean, minimum and maximum dry bulb temperature, mean, minimum and maximum dew point temperature, and mean and maximum wind speed. These hourly datasets are used by the engineering and scientific community mainly as inputs for solar system design and analysis and building energy systems analysis tools. This dataset has been updated with the most recent changes made in March 2023. The solar values in these files are based on 0.1° x 0.1° (11 km x 11 km grid) for all of Canada.   \n  \n  Refer to Data Resources below for additional information on the TMY file format."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/55438acb-aa67-407a-9fdb-1cb21eb24e28"
+  ],
+  "dct_issued_s": "2022-03-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/55438acb-aa67-407a-9fdb-1cb21eb24e28\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Weather Year for Energy Calculation (CWEC)",
+  "gbl_mdModified_dt": "2023-05-18T16:00:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f9aa20a-d7c3-50d9-9447-f7a037d09839",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

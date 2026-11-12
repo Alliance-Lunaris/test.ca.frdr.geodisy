@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "Winter limnology",
+    "Limnologie hivernale",
+    "Plancton sous la glace",
+    "Zooplancton d'eau douce",
+    "Nanoflagellés",
+    "Vertical distribution",
+    "Nanoflagellates",
+    "Under-ice plankton",
+    "Distribution verticale",
+    "Freshwater zooplankton"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Boulianne, Jean-Simon (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0009-0003-8006-4396",
+    "Kivilä, Henriikka E. (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0003-3272-0128",
+    "Beisner, Beatrix (University of Quebec at Montreal (UQAM), Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-6972-6887",
+    "Rautio, Milla (Université du Québec à Chicoutimi). ORCID: https://orcid.org/0000-0002-2375-9082"
+  ],
+  "dct_description_sm": [
+    "This dataset includes the following variables and respective units: Date (dd-mm-yyyy), depth (m), zooplankton abundance (individuals m-3), zooplankton biomass (mg DW m-3), microbial abundance (cells L-1), microbial biomass (μg C L-1), temperature (°C), clear ice (cm), snow ice (cm), total ice (cm), snow (cm), secchi (m), specific conductivity (μS cm-1), dissolved oxygen saturation (%), dissolved oxygen concentration (mg L-1), seston chlorophyll-a (mg L-1), photosynthetically active radiations – PAR (μmol quanta cm-2 s-1).",
+    "This dataset includes limnological and biological data from 5 depths under the ice of boreal lake Simoncouche during winter 2020-2021, as well as the respective overturns where sampling was conducted on integrated water column. In addition are included data from two long-term under-ice moored multisensors (1.5 m and 6 m depth) recording measurements of temperature, light, specific conductivity and oxygen concentration, for which the daily mid-day values were selected in the file \"long_term_rbr\". Included information covers zooplankton abundance (zoopl_abund) and biomass (zoopl_biom) per taxa, bacteria, picoplankton, and nanoflagellates abundance and biomass (microbes_abund_biom), and physico-chemical variables (phys_chem_data; long_term_rbr)."
+  ],
+  "dct_identifier_sm": [
+    "929179_281357_281358",
+    "https://doi.org/10.5683/SP3/MOM5UD"
+  ],
+  "dct_issued_s": "2025-05-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MOM5UD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Saguenay, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Plankton abundance and biomass at five depths in Lake Simoncouche (Saguenay, Quebec, Canada) during winter 2020-2021",
+  "gbl_mdModified_dt": "2025-07-08T15:15:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3ece0179-b221-5ddd-a134-6cec300b9099",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

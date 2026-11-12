@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0, -89.0, 60.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This table contains data on whole and partial condemnation and slaughtering from 2015 to 2022.  \n  \n  This table contains data on whole and partial condemnation and slaughtering from 2015 to 2022. The data is also classified by its Slaughter Class: Cattle, Swine, Chiken,  Spent layer hens, Ducks, Geese, Rabbits, Spent Breeder hens, 5 kg and under, Bison, Elk, Goats, Horses, Lambs, Llama/Alpaca, Mature turkey, over 11 kg, over 5 but no more than 7 kg, over 7 but no more than 9 kg, over 9 but no more than 11 kg, Sheep, and Wild boars.Field Names (Field Alias): Field description.SlaughterFigureID (SlaughterFigureID): unique indexed number assigned to each record in the database. BodyPart (BodyPart): code for the different body parts affected in partial condemnations. CondemnationReasonCode (CondemnationReasonCode): code for all the different reasons for condemnation. CondemnationType (CondemnationType): This identifies whether the condemnations are either Whole or Partial. SlaughterYear (SlaughterYear): Year when the slaughter occurred. NumberSlaughtered (NumberSlaughtered): Total number of animals slaughtered during the indicated period of time. NumberCondemned (NumberCondemned): Total number of animals condemned (whole) or total  number of parts of animals condemned (partial) during the indicated period of time. SlaughterClass (SlaughterClass): Species or class of the animal or part of the animal condemned. Quarter (Quarter): Number of the quarter.                   - January to March – 1                     - April to June – 2                     - July to September – 3                     - October to December - 4 QuarterYear (Quarter/Year): Corresponding quarter and year."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1708161f-0170-269b-c425-0d5171a4fff2"
+  ],
+  "dct_issued_s": "2023-04-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1708161f-0170-269b-c425-0d5171a4fff2\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Condemnation Rates",
+  "gbl_mdModified_dt": "2025-02-05T19:05:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dcfdb229-888a-50ac-a752-696a77d252f3",
+  "locn_geometry": "ENVELOPE(-102.0, -89.0, 60.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

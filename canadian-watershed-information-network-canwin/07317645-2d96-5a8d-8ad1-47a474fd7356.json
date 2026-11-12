@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This collection represents the authoritative watershed boundaries for Ontario. The data is based on a framework similar to the [Atlas of Canada Fundamental Drainage Areas](https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977) and the [United States Watershed Boundary Dataset](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/watershed-boundary-dataset?qt-science_support_page_related_con=4#qt-science_support_page_related_con), however it adopts a more stringent scientific approach to watershed delineation. The Ontario Watershed Boundaries (OWB) collection includes five data classes: * OWB main: all levels from primary to quaternary and 5th and 6th levels in select areas * OWB primary: all primary watersheds or major drainage areas in the Canadian classification * OWB secondary: all secondary watersheds or sub drainage areas * OWB tertiary: all tertiary watersheds or sub sub drainage areas * OWB quaternary: all quaternary watersheds or 6-digit drainage areas. The OWB data replaces the following data classes: * [Provincial Watersheds, Historical](https://data.ontario.ca/dataset/provincial-watersheds-historical)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/347106a6-0b01-405b-a7b4-e1717e14035f"
+  ],
+  "dct_issued_s": "2022-10-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/347106a6-0b01-405b-a7b4-e1717e14035f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Ontario Watershed Boundaries",
+  "gbl_mdModified_dt": "2026-10-07T13:33:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "07317645-2d96-5a8d-8ad1-47a474fd7356",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

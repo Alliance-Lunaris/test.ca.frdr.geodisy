@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Cultures",
+    "Climat",
+    "Climate",
+    "Agriculture",
+    "Crops",
+    "Remote sensing",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "IVDN maximal selon le jour de la semaine"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "Each pixel value corresponds to the day-of-week (1-7) from which the Weekly Best-Quality NDVI retrieval is obtained (1 = Monday, 7 = Sunday).",
+    "Chaque valeur de pixel correspond au jour de la semaine (1 à 7) où on a obtenu l’IVDN hebdomadaire de « meilleure qualité » (1 = lundi, 7 = dimanche)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/e573ea3b-48d1-4b51-acdd-3e6891656ab1"
+  ],
+  "dct_issued_s": "2012-11-01",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/e573ea3b-48d1-4b51-acdd-3e6891656ab1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Days of the Week Maximum NDVI",
+  "gbl_mdModified_dt": "2024-04-18T20:20:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "efd54bff-338c-5b39-89d5-024c80efe2a7",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

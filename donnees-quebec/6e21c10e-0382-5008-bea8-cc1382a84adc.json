@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Zonage",
+    "Ville de shawinigan",
+    "Donnee ouverte",
+    "Reglementation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polygonale du zonage sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Contexte de collecte**\n  Règlement SH-550.102 (30-03-2026)\n\n**Méthode de collecte**\n  Numérisation à partir du cadastre.\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _usage__ (_String_) : Usage\n* _numéro_ (_Integer_) : \n* _grandezone_ (_Integer_) : \n* _usage_v1_ (_String_) : \n* _zone_v1_ (_Integer_) : \n* _numéro_v1_ (_Integer_) : \n* _numéro_v2_ (_Integer_) : \n* _usage_v2_ (_String_) : \n* _numéro_v3_ (_Integer_) : \n* _usage_v3_ (_String_) : \n* _numéro_v4_ (_Integer_) : \n* _usage_v4_ (_String_) : \n* _zone__ (_String_) : Zone\n* _cm_zone_ (_String_) : \n* _marge_recul_ (_Double_) : \n* _marge_recul_note_ (_String_) : Note marge de recul\n* _st_area(shape)_ (_Double_) : \n* _st_length(shape)_ (_Double_) : \n* _c1_ (_String_) : \n* _c2_ (_String_) : \n* _c3_ (_String_) : \n* _c4_ (_String_) : \n* _c5_ (_String_) : \n* _c6_ (_String_) : \n* _c7_ (_String_) : \n* _i1_ (_String_) : \n* _i2_ (_String_) : \n* _i3_ (_String_) : \n* _i4_ (_String_) : \n* _h1_ (_String_) : \n* _h2_ (_String_) : \n* _h3_ (_String_) : \n* _h4_ (_String_) : \n* _h5_ (_String_) : \n* _nb_logements_ (_SmallInteger_) : \n* _nb_etages_ (_SmallInteger_) : \n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/c71574aedccd456e91cef8c03e5554c5\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/82635c9b-9917-4c44-81da-737e765207bc"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/82635c9b-9917-4c44-81da-737e765207bc\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Loi, justice et sécurité publique",
+    "Gouvernement et finances"
+  ],
+  "dct_title_s": "Plan de zonage - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-17T17:29:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6e21c10e-0382-5008-bea8-cc1382a84adc",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Bioinfomatics/Phyloinfomatics",
+    "Helianthus anomalus",
+    "Helianthus paradoxus",
+    "Helianthus deserticola",
+    "Transcriptomics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Renaut, Sébastien (University of British Columbia).",
+    "Rowe, Heather C. (University of British Columbia).",
+    "King, Matthew G. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/FtJDdfgVZkfb3S2HuA3YRpWBVvlHVFiqo38PIhuWR-c</p>\n<p><b>Storage size:</b> 82377676</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>This article documents the public availability of three transcriptome sequences. These genomic resources were developed for the following species: Helianthus anomalus, Helianthus deserticola and Helianthus paradoxus.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snp_table_anomalus</h4><div class=\"o-metadata__file-description\">List of SNPs for H.anomalus. Column 1 refers to the reference sequence. Column 2 to the position were the SNP is located. Column 3 and after are the genotypes per individual</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snp_table_deserticola</h4><div class=\"o-metadata__file-description\">List of SNPs for H.deserticola. Column 1 refers to the reference sequence. Column 2 to the position were the SNP is located. Column 3 and after are the genotypes per individual</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">IlluminaContaminants</h4><div class=\"o-metadata__file-description\">List of possible Illumina adaptor contaminants used in read trimming.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">coverage_per_gene_individuals</h4><div class=\"o-metadata__file-description\">Coverage (Number of reads aligned) per individuals and per gene.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">snp_table_paradoxus</h4><div class=\"o-metadata__file-description\">List of SNPs for H.paradoxus. Column 1 refers to the reference sequence. Column 2 to the position were the SNP is located. Column 3 and after are the genotypes per individual</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153916_150149",
+    "https://doi.org/10.5683/SP2/YP2TJ5"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/YP2TJ5\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "USA (see table 1)"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: \"Transcriptome resources for three hybrid sunflower species (Helianthus anomalus, H. deserticola, H paradoxus)\" in Genomic Resources Notes accepted 1 February 2013–31 March 2013",
+  "gbl_mdModified_dt": "2021-05-19T20:54:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a43ca66-1179-56ba-a28c-3905ea061948",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

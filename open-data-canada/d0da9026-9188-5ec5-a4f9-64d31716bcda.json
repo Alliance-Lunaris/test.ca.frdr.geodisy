@@ -1,0 +1,64 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Météorologie",
+    "Oceans",
+    "Environnement",
+    "EHI",
+    "PICAI",
+    "Données historiques",
+    "Historic data",
+    "Précipitation",
+    "HFE",
+    "EHI",
+    "Environment",
+    "Floods",
+    "FHIMP",
+    "Meteorology",
+    "Flood",
+    "HFE",
+    "Eau",
+    "Océan",
+    "Precipitation",
+    "PICAI",
+    "FHIMP",
+    "Inondation",
+    "Water"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Événements historiques d'inondation (EHI)"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Representation of the causes of flooding events in the form of multiple points. The point groupings correspond to the set of locations that were affected by the same event. The inventory of past flooding events was compiled from various public sources and standardized into a common data model. Sources used are included in the data.     \n  \n  Event locations have been extensively revised to have one location per location reported as affected by the flood. Flood events for which no location was included in the sources used are positioned on the place name of the location affected by the flood.  The event positions do not indicate where the flooding occurred. Flood events that affected more than one locality are represented by a multipoint.  \n  \n  For each event after January 1, 1980 caused by a heavy rainfall or a coastal storm , a precipitation analysis document, a precipitation animation and the precipitation data are available. These documents are the result of a collaboration with Environment and Climate Change Canada.  \n  \n  Disclaimer:  \n  \n  It should be noted that no consultation was conducted with the various providers and stakeholders of the historic flood data. Disparities in content among the various sources result in an incomlete product. No warranty is given as to the accuracy or completeness of the information provided. The absence of information does not mean that no flooding has occurred.",
+    "Représentation des causes des événements d'inondation sous forme de points multiples. Les regroupements de points correspondent à l'ensemble des lieux qui ont été touchés par un même événement. L'inventaire des inondations passées a été compilé à partir de diverses sources publiques et normalisé dans un modèle de données commun. Un lien vers la source utilisée est inclus dans les données.   \n  \n  Les emplacements des événements ont été largement révisés pour avoir un emplacement par lieu signalé comme ayant été affecté par l'inondation. Les événements d'inondation pour lesquels aucun emplacement n'était inclus dans les sources utilisées sont positionnés sur le nom de lieu de l'emplacement affecté par l'inondation.  La position des événements n'indique pas où l'inondation s'est produite. Les événements d'inondation qui ont affecté plus d'une localité sont représentés par un multipoint.  \n  \n  Pour chaque événement postérieur au 1er janvier 1980 causé par de fortes précipitations ou une tempête côtière, un document d'analyse des précipitations, une animation sur les précipitations et les données sur les précipitations sont disponibles. Ces documents sont le fruit d'une collaboration avec Environnement et Changement climatique Canada.  \n  \n  Avertissement :  \n  \n  Il convient de noter qu'aucune consultation n'a été menée auprès des différents fournisseurs et parties prenantes des données sur les inondations historiques. Les disparités de contenu entre les diverses sources donnent lieu à un produit incomplet. Aucune garantie n'est donnée quant à l'exactitude ou l'exhaustivité des informations fournies. L'absence d'information ne signifie pas qu'aucune inondation ne s'est produite."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fe83a604-aa5a-4e46-903c-685f8b0cc33c"
+  ],
+  "dct_issued_s": "2025-12-10",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fe83a604-aa5a-4e46-903c-685f8b0cc33c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Historical Flood Events (HFE)",
+  "gbl_mdModified_dt": "2025-12-11T18:20:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d0da9026-9188-5ec5-a4f9-64d31716bcda",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

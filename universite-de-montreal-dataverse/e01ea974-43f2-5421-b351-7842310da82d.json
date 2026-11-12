@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Mobility",
+    "Geriatrics",
+    "Sensors",
+    "Gait analysis",
+    "Accelerometry"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lanoie, Annik (Centre de recherche du Centre hospitalier de l'Université de Montréal). ORCID: https://orcid.org/0009-0002-1736-011X",
+    "Cheung, Weng-Jy Cheung (Centre de recherche du Centre hospitalier de l'Université de Montréal).",
+    "Nguyen, Quoc Dinh (Centre de recherche du Centre hospitalier de l'Université de Montréal). ORCID: https://orcid.org/0000-0001-5412-2597"
+  ],
+  "dct_description_sm": [
+    "The Mobility in Geriatrics (Mobi-G) dataset is an open-access dataset designed to support the development, validation, and benchmarking of machine learning algorithms for posture classification and step counting in older adults. The dataset includes ankle-worn Movesense accelerometry recordings (52 Hz), manual steps and postures annotations, and de-identified sociodemographic and clinical characteristics from 70 adults aged 65 years and older recruited at the Centre hospitalier de l'Université de Montréal (CHUM), Canada. Accelerometry data were collected during both standardized mobility assessments (lying, sitting, standing, transfers, regular walking, irregular walking and physiotherapy sessions) and free-living activities. Steps during walking activities were manually annotated using synchronized video recordings, while postures and transfers were annotated directly from the accelerometry signals. The repository includes raw and annotated accelerometry files and participant-level demographic and clinical variables. These data are intended to facilitate research in clinical mobility monitoring, digital biomarkers, wearable sensing, and artificial intelligence for geriatric care."
+  ],
+  "dct_identifier_sm": [
+    "1206629_1202843",
+    "https://doi.org/10.5683/SP4/BL2YTA"
+  ],
+  "dct_issued_s": "2026-08-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/BL2YTA\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "A Labeled Accelerometry Dataset of Steps and Postures Across Diverse Mobility and Frailty Levels in Older Adults in a Hospital Setting",
+  "gbl_mdModified_dt": "2026-09-14T20:00:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e01ea974-43f2-5421-b351-7842310da82d",
+  "pcdm_memberOf_sm": [
+    "Quoc Dinh Nguyen Dataverse"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

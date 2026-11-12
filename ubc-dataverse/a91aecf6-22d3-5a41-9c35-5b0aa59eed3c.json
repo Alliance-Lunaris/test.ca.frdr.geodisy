@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Birds",
+    "Sympatry",
+    "reproductive isolation",
+    "Troglodytes",
+    "Hybridization",
+    "speciation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mikkelsen, Else (University of Toronto). ORCID: https://orcid.org/0000-0002-9734-0233",
+    "Irwin, Darren (University of British Columbia). ORCID: https://orcid.org/0000-0002-1050-5841"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/rYaRdL7-je3bIfzmkb64Ru7ZXfr8m1l5LbIfZQFo_5o</p>\n<p><b>Storage size:</b> 463095592</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Contact zones between recently-diverged taxa provide opportunities to examine the causes of reproductive isolation and the processes that determine whether two species can coexist over a broad region. The Pacific Wren (<i>Troglodytes pacificus</i>) and Winter Wren (<i>Troglodytes hiemalis</i>) are two morphologically similar songbirds that started diverging about 4 million years ago, older than most sister species pairs of temperate songbirds. The ranges of these species come into narrow contact in western Canada, where the two species remain distinct. To assess evidence for differentiation, hybridization, and introgression in this system, we examined variation in over 250,000 single nucleotide polymorphism markers distributed across the genome. The two species formed highly divergent genetic clusters, consistent with long-term differentiation. In a set of 75 individuals, two first-generation hybrids (i.e., F1’s) were detected, indicating only moderate levels of assortative mating between these taxa. We found no recent backcrosses or other evidence of recent breeding success of F1’s, indicating very low or zero fitness of F1 hybrids. Examination of genomic variation shows evidence for only a single backcrossing event many generations ago. The moderate rate of hybridization combined with very low F1 hybrid fitness is expected to result in a population sink in the contact zone, largely explaining the narrow overlap of the two species. If such dynamics are common in nature, they could explain the narrow range overlap often observed between pairs of closely related species.</p>",
+    "<b>Usage notes</b><br /><p>This repository contains scripts and data required to replicate the analyses from the paper \"Ongoing production of low-fitness hybrids limits range overlap between divergent cryptic species.\" The repository is organized into a series of markdown files that provide instructions for running analyses, and folders that contain raw data or intermediate files produced during analyses.</p>\r\n\r\n<p>## Raw Data<br>\r\nRaw, unprocessed sequencing data is available through the NCBI SRA, Accession  (these files are too large to be hosted in the repostory). The processed data (012NA genotype files) are in the folder `PAWR_WIWR_012NA_files`. These data include the genotype files with the suffix `.012NA` (contain genotypes for each sample at each position), position files with the suffix `.pos` (listing chromosome name and position for each SNP), and individual files with the suffix `.indv` (listing the sample order of each individual in the dataset).</p>\r\n\r\n<p>## Sample Metadata<br>\r\nSample metadata are provided in the folder `Sample_information`.</p>\r\n\r\n<p>## Scripts<br>\r\nInstructions for running each step of the analysis is provided in text files in markdown format:  <br>\r\n1) Instructions for processing the raw data is provided in `1_process_sequences.md`<br>\r\n2) Instructions for performing PCA on the data is provided in `2_PCA_plotting.md` and associated data are in the folder `2_PCA_data`<br>\r\n3) Instructions for the STRUCTURE analysis is provided in `3_STRUCTURE_analysis.md` and associated raw data are in the folder `3_STRUCTURE_data`<br>\r\n4) Instructions for the phylogenetic network are provided in `4_Phylogenetic_network.md` and associated data are in the folder `4_SplitsTree`<br>\r\n5) Instructions for performing the genome scans (Fst, pi_within, and pi_between) are in `5_GenomeScans.md`<br>\r\n6) Instructions for computing the per-chromosome statistics (Fst, pi_within, and pi_between) are in '6_perChrom_stats.R'<br>\r\n7) A description of how synteny with other taxa was checked in the translocated region is in `7_chr8_synteny.md`<br>\r\n8) Instructions for calculating the observed heterozygosity of each sample is in `9_Heterozygosity.md`</p>"
+  ],
+  "dct_identifier_sm": [
+    "192798_1226260_150149",
+    "https://doi.org/10.5683/SP2/NMEVQA"
+  ],
+  "dct_issued_s": "2021-06-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/NMEVQA\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Ongoing production of low-fitness hybrids limits range overlap between divergent cryptic species",
+  "gbl_mdModified_dt": "2021-06-17T14:57:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a91aecf6-22d3-5a41-9c35-5b0aa59eed3c",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "IDS-Arctique_MNE",
+    "Digital Terrain Model",
+    "Digital Surface Model",
+    "Digital elevation data",
+    "Digital Elevation Model",
+    "Carte de pente",
+    "Modèle numérique de surface",
+    "Modèle numérique de terrain",
+    "Carte d'aspect",
+    "LiDAR",
+    "Relief ombré",
+    "Données numériques d'élévation",
+    "Shaded Relief",
+    "Aspect Map",
+    "Relief ombré couleur",
+    "ArcticSDI_DEM",
+    "Slope Map",
+    "Color Shaded Relief",
+    "LiDAR",
+    "Modèle numérique d'élévation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle numérique d'élévation de haute résolution (MNEHR) - Série CanÉlévation"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The High Resolution Digital Elevation Model (HRDEM) product is derived from airborne LiDAR data (mainly in the south) and satellite images in the north. The complete coverage of the Canadian territory is gradually being established. It includes a Digital Terrain Model (DTM), a Digital Surface Model (DSM) and other derived data. For DTM datasets, derived data available are slope, aspect, shaded relief, color relief and color shaded relief maps and for DSM datasets, derived data available are shaded relief, color relief and color shaded relief maps.\n\nThe productive forest line is used to separate the northern and the southern parts of the country. This line is approximate and may change based on requirements. In the southern part of the country (south of the productive forest line), DTM and DSM datasets are generated from airborne LiDAR data. They are offered at a 1 m or 2 m resolution and projected to the UTM NAD83 (CSRS) coordinate system and the corresponding zones. The datasets at a 1 m resolution cover an area of 10 km x 10 km while datasets at a 2 m resolution cover an area of 20 km by 20 km. In the northern part of the country (north of the productive forest line), due to the low density of vegetation and infrastructure, only DSM datasets are generally generated. Most of these datasets have optical digital images as their source data. They are generated at a 2 m resolution using the Polar Stereographic North coordinate system referenced to WGS84 horizontal datum or UTM NAD83 (CSRS) coordinate system. Each dataset covers an area of 50 km by 50 km. For some locations in the north, DSM and DTM datasets can also be generated from airborne LiDAR data. In this case, these products will be generated with the same specifications as those generated from airborne LiDAR in the southern part of the country.\n\nThe HRDEM product is referenced to the Canadian Geodetic Vertical Datum of 2013 (CGVD2013), which is now the reference standard for heights across Canada.\n\nSource data for HRDEM datasets is acquired through multiple projects with different partners. Since data is being acquired by project, there is no integration or edgematching done between projects. The tiles are aligned within each project.\n\nThe product High Resolution Digital Elevation Model (HRDEM) is part of the CanElevation Series created in support to the National Elevation Data Strategy implemented by NRCan. Collaboration is a key factor to the success of the National Elevation Data Strategy. Refer to the “Supporting Document” section to access the list of the different partners including links to their respective data.",
+    "Le produit Modèle numérique d'élévation de haute résolution (MNEHR) est un produit dérivé de données LiDAR aéroporté (principalement au sud) et d'images satellitaires au nord. La couverture complète du territoire canadien est mise en place graduellement. Le MNEHR inclut un Modèle numérique de terrain (MNT), un Modèle numérique de surface (MNS) et d’autres données dérivées. Pour les jeux de données MNT, les données dérivées disponibles sont Carte de pente, Carte d’aspect, Relief ombré, Relief couleur et Relief ombré couleur et pour les jeux de données MNS, les données dérivées disponibles sont Relief ombré, Relief couleur et Relief ombré couleur.\n\nLa ligne de forêt productive est utilisée pour séparer les parties nord et sud du pays. Cette ligne est approximative et peut changer selon les besoins. Dans la partie sud du pays (au sud de la ligne de forêt productive), les jeux de données MNS et MNT sont générés à partir de données LiDAR aéroporté. Ils sont offerts à une résolution de 1 m ou 2 m et projetés selon le système de coordonnées UTM NAD83 (SCRS) et ses zones correspondantes. Les jeux de données à une résolution de 1 m couvrent une zone de 10 km x 10 km alors que les jeux de données à une résolution de 2 m couvrent une zone de 20 km X 20 km. Au nord du pays (au nord de la ligne de forêt productive), dû à la faible densité de végétation et d’infrastructures, seuls les jeux de données MNS sont généralement générés. La majorité de ces jeux de données ont pour source de données des images satellitaires optiques. Ils sont générés à une résolution de 2 m et les systèmes de coordonnées Stéréographique polaire nord WGS84 ou UTM NAD83 (CSRS) sont utilisés. Chaque jeu de données couvre une zone de 50 km X 50 km. Pour certains endroits dans le nord, des jeux de données MNS et MNT pourront aussi être générés à partir de données LiDAR aéroporté. Dans le cas échéant, ces produits seront générés avec les mêmes spécifications que ceux générés à partir de LiDAR aéroporté dans la partie sud du pays.\n\nLe produit MNEHR est référencé au Système canadien de référence altimétrique de 2013 (CGVD2013) qui est maintenant le nouveau standard de référence pour les altitudes à travers le Canada.\n\nLes données source du produit MNEHR sont acquises par des projets multiples de différents partenaires. Comme les données sont acquises par projet, il n’y a pas d’intégration et d’ajustement vertical entre les projets. Les tuiles sont alignées entre elles à l’intérieur d’un même projet.\n\nLe produit Modèle numérique d'élévation de haute résolution (MNEHR) fait partie de la Série CanÉlévation créée pour appuyer la Stratégie nationale de données d’élévation mise en oeuvre par RNCan. La collaboration est un facteur clé dans le succès de la Stratégie nationale de données d'élévation. Référez-vous à la section « Document de soutien » pour accéder à la liste des différents partenaires incluant des liens à leurs données respectives."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/957782bf-847c-4644-a757-e383c0057995"
+  ],
+  "dct_issued_s": "2026-05-21",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/957782bf-847c-4644-a757-e383c0057995\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "High Resolution Digital Elevation Model (HRDEM) - CanElevation Series",
+  "gbl_mdModified_dt": "2026-05-29T12:32:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "847406c3-33b0-5730-b968-6c8e442a33a4",
+  "locn_geometry": "ENVELOPE(-142.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

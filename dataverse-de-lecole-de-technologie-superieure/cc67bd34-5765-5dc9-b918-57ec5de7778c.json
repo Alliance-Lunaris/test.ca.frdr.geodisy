@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Ingénierie des lignes de produits logiciels",
+    "Détection de défaut (Ingénierie)",
+    "highly configurable systems",
+    "software product lines",
+    "Algorithmes d'apprentissage",
+    "Logiciels--Essais",
+    "rule learning",
+    "Logiciels--Gestion de configurations"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kamali, Seiede Reyhane (École de technologie supérieure).",
+    "Lopez Herrejon, Roberto Erick (École de technologie supérieure). ORCID: https://orcid.org/0000-0002-7067-8269"
+  ],
+  "dct_description_sm": [
+    "Highly configurable systems are software systems that can be configured in a large number of ways to meet different user requirements. Testing such systems is particularly challenging due to the high number of possible configurations, making exhaustive testing infeasible. This paper builds upon state of the art approaches by evaluating an expanded set of rule learning algorithms on a case study with a larger set of features. Specifically, we focus on Kconfig based systems, which represent a dominant category of highly configurable systems in practice. We use multivariate statistical analysis to assess the performance of these algorithms across multiple performance metrics. Our findings reveal that certain algorithms, such as JRip and PART, C5.0 perform higher performance measures and interpretability, making them a suitable approach for fault detection in larger, highly configurable systems. This dataset provides all the code and data that we used in this paper."
+  ],
+  "dct_identifier_sm": [
+    "929224_341958",
+    "https://doi.org/10.5683/SP3/ZXFVXF"
+  ],
+  "dct_issued_s": "2025-05-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZXFVXF\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science",
+    "Engineering"
+  ],
+  "dct_title_s": "Exploring Rule Learning Algorithms for Detecting Faults on Larger Highly Configurable Systems: The axTLS Project",
+  "gbl_mdModified_dt": "2026-08-13T13:03:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cc67bd34-5765-5dc9-b918-57ec5de7778c",
+  "pcdm_memberOf_sm": [
+    "VERITAS"
+  ],
+  "schema_provider_s": "Dataverse de l’École de technologie supérieure"
+}

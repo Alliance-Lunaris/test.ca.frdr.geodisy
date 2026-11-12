@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides the background radiation dose results from Health Canada’s Canadian Radiological Monitoring Network (CRMN) monitoring sites. More information about the CRMN network can be found on the Health Canada website (see link below).\n\nThis background radiation data contains both “monitoring” and “transit” dosimeters starting in 2016. The historical background radiation dose data can be found on the Open Data portal. A transit dosimeter is sent along with the monitoring dosimeter to determine if there is a significant dose recorded by the dosimeter while it is in transit to the sampling station. The transit dosimeter is shipped out with a station monitor, and shipped back with the station monitor from the previous quarter. The monitoring dosimeters are deployed over a longer time (around three months) than the transit dosimeters (around 3 weeks). This difference largely explains the lower recorded dose values for the transit dosimeter. The results provided for the monitoring and transit dosimeters are expressed as ambient dose equivalent to a cesium source, in units of millisieverts (mSv). The measured dose rate is reported in mSv/day. The external dose can be attributed almost exclusively to natural radiation (of terrestrial and cosmic origin) with fluctuations based on several factors including location, soil characteristics, and seasonal changes. \n\nThe map shows the approximate sampling location for each monitoring station. Stations are found within the associated location range."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/67bedee8-beb0-4b3a-a1c6-24a4cda08afe"
+  ],
+  "dct_issued_s": "2025-09-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/67bedee8-beb0-4b3a-a1c6-24a4cda08afe\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "The Canadian Radiological Monitoring Network – Environmental Dosimetry",
+  "gbl_mdModified_dt": "2026-03-24T15:31:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc872a3d-7dc1-57f4-bc08-8ac5e85bd73b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

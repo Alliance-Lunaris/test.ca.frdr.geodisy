@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Forêt",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "DIF",
+    "Inventaire écoforestier",
+    "Biomasse",
+    "Cartographie",
+    "Carbone"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\nThe Directorate of Forest Inventories (DIF) carries out assessments of tree biomass and their carbon content at the scale of ecoforest stands to deepen knowledge on the contribution of forests in the global carbon cycle. This information can be useful in the context of climate change to document the mitigating role played by forests.\n\nThe resulting product, a database containing a single table entitled “BIOMASSE_CARBONE_PEE_ORI_PROV”, shows the biomass and carbon values of living trees above ground for all productive ecoforest stands.\n\nThe exploitation of the database requires the data from [the original ecoforest map] (https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) and the establishment of a connection with the information of the polygonal entity class of settlements.\n\nThe database includes biomass variables converted to carbon stocks, detailing the biomass of wood, bark, branches, and foliage. For a thorough understanding, you can consult the Read Me associated with this product and the publication [“Biomass and carbon forests in southern Quebec - Method and use”] (https://mrnf.gouv.qc.ca/nos-publications/biomasse-carbone-forestiers-quebec-meridional/) (MRNF, 2026) which offers additional methodological information.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\nLa Direction des inventaires forestiers (DIF) réalise des évaluations de la biomasse des arbres et de leur contenu en carbone à l’échelle des peuplements écoforestiers pour approfondir les connaissances sur la contribution des forêts dans le cycle global du carbone. Ces informations peuvent être utiles dans le contexte des changements climatiques pour documenter le rôle d’atténuation exercé par les forêts.\n\nLe produit résultant, une base de données contenant une seule table intitulée \"BIOMASSE_CARBONE_PEE_ORI_PROV\", présente les valeurs de biomasse et de carbone des arbres vivants au-dessus du sol pour tous les peuplements écoforestiers productifs.\n\nL'exploitation de la base de données requiert les données de [la carte écoforestière originale](https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) et l'établissement d'une connexion avec les informations de la classe d'entités polygonales des peuplements.\n\nLa base de données comprend des variables de biomasse converties en stocks de carbone, détaillant la biomasse du bois, de l'écorce, des branches et du feuillage. Pour une compréhension approfondie, vous pouvez consulter le Lisez-Moi associé à ce produit et la publication [« Biomasse et carbone forestiers du Québec méridional - Méthode et utilisation »](https://mrnf.gouv.qc.ca/nos-publications/biomasse-carbone-forestiers-quebec-meridional/) (MRNF, 2026) laquelle offre des informations méthodologiques supplémentaires."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ca497b9d-3b6b-4039-8632-eadfb9335746"
+  ],
+  "dct_issued_s": "2023-12-13",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ca497b9d-3b6b-4039-8632-eadfb9335746\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Biomasse et carbone forestiers du Québec méridional",
+  "gbl_mdModified_dt": "2026-09-30T18:04:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "157027e0-9e67-58f3-a7d6-5efd4ced688f",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

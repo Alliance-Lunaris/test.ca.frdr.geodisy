@@ -1,0 +1,40 @@
+{
+  "dcat_keyword_sm": [
+    "Crue",
+    "Catastrophe",
+    "Carte",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre des opérations gouvernementales."
+  ],
+  "dct_description_sm": [
+    "##Données liées au suivi des inondations 2019 au Québec\r\n\r\n__Attention: les données d'étendue d'eau sont une interprétation en temps quasi réel de données satellites; elles ont été produites en mode opérationnel et sont fournies telles quelles sans validation exhaustive. Le produit peut contenir des erreurs, en particulier dans les zones urbaines.__\r\n\r\n###Liste des données disponibles :\r\n\r\n* le suivi des événements d’inondation et de glissement de terrain entre le 14 avril 2019 et le 28 mai 2019 en points géolocalisés (service web et téléchargement),\r\n* les municipalités touchées par des événements d'inondations  entre le 14 avril 2019 et le 28 mai 2019, mise à jour en temps réel avec la couche des événements (service web);\r\n* les limites d’étendue des eaux libres générées par Ressources naturelles Canada, dérivées des données satellitaires Radarsat 2 ou d'autres satellites radar et celles générées par Dromadaire Géo-Innovations, dérivées des données satellitaires Sentinel (service web et téléchargement),\r\n* les limites de l'inondation pour le secteur de la rivière Chaudière dérivées de données héliportées (service web et téléchargement)\r\n* des images satellitaires dans le visible et proche infrarouge sur les zones les plus gravement touchées (service web et téléchargement lorsque possible).\r\n* des images obliques acquises le 29 avril sur la rivière des outaouais et la grande région de Montréal dans le cadre du Programme national de surveillance aérienne  (lien vers application du Centre des opérations du gouvernement fédéral)\r\n\r\n\r\n\r\nToutes les données sont aussi consultables sur une carte interactive basée sur IGO2.\r\n \r\n###Note: \r\n\r\nLes acquisitions satellites de Radarsat-2 sont planifiées en collaboration avec Ressources naturelles Canada. L’accès à des satellites radars d’autres agences spatiales canadiennes est possible grâce à l’activation de la Charte internationale espace et catastrophe majeure. Celle-ci est activée par Sécurité publique Canada.\r\nLes images obtenues via la charte internationale sont traitées par les services géomatiques d’urgence de Ressources naturelles Canada dans les meilleurs délais puis les polygones d'étendue d'eau libre sont diffusés en données ouvertes sur Données Canada et sur Données Québec.\r\nD’autres acquisitions optiques ou radars peuvent avoir été obtenues par le ministère de la Sécurité publique (MSP) de fournisseurs privés. Les acquisitions Sentinel-1 et Sentinel-2 diffusées en données ouvertes par l’agence spatiale européenne (ASE) ont été traitées par la firme Dromadaire-Geo-Innovations."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/df99bb67-317c-435b-8f9a-50de5fa9729a"
+  ],
+  "dct_issued_s": "2019-04-16",
+  "dct_publisher_sm": [
+    "Ministère de la Sécurité intérieure"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/df99bb67-317c-435b-8f9a-50de5fa9729a\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Cartographie des inondations du printemps 2019",
+  "gbl_mdModified_dt": "2025-10-29T14:35:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "478e4968-e1f8-5047-96ba-bcd23f318c80",
+  "schema_provider_s": "Données Québec"
+}

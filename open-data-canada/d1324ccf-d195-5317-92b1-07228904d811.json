@@ -1,0 +1,76 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, -56.0, 64.0, -64.0)",
+  "dcat_keyword_sm": [
+    "Infrarouge",
+    "Fournir des services et des produits d'information sur les conditions météorologiques",
+    "Météorologie",
+    "Visible",
+    "Météo des incendies",
+    "Internationale",
+    "Satellite images",
+    "Temps convectif",
+    "International",
+    "Weather and Environmental Operations",
+    "Neige et glace",
+    "Brouillard et stratus bas",
+    "Observation de la Terre",
+    "Remote sensing",
+    "Nuages et temps",
+    "Deliver Weather Products and Services to Clients",
+    "Livrer des produits et des services météorologiques aux clients",
+    "Service météorologique du Canada",
+    "Meteorology",
+    "Atmospheric conditions",
+    "Fire weather",
+    "Snow and ice",
+    "Fog and low stratus",
+    "Opérations météorologiques et environnementales",
+    "Convective weather",
+    "Météo aéronautique",
+    "Clouds and weather",
+    "Aviation weather",
+    "Infrared",
+    "Image satellite",
+    "Visible",
+    "Earth observation",
+    "Télédétection",
+    "Provide Weather Information Products and Services",
+    "Conditions atmosphériques",
+    "Meteorological Service of Canada"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Image satellite - GOES-Ouest"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "These products are derived from RGB (red/green/blue) images, a satellite processing technique that uses a combination of satellite sensor bands (also called channels) and applies a red/green/blue (RGB) filter to each of them. The result is a false-color image, i.e. an image that does not correspond to what the human eye would see, but offers high contrast between different cloud types and surface features. The on-board sensor of a weather satellite obtains two basic types of information: visible light data (reflected light) reflecting off clouds and different surface types, also known as \"reflectance\", and infrared data (emitted radiation) which are long-wave radiations emitted by clouds and surface features. RGBs are specially designed to combine this type of satellite data, resulting in an information-rich final product. Four types of products are currently generated from the GOES-West and GOES-East satellites: \"NightIR\" and \"NightMicrophysics\", at 2km resolution, are generated 24 hours a day with infrared channels, so are visible both night and day, and \"NaturalColour\" and \"DayCloudConvection\", at 1km resolution, which combine visible light channels with infrared channels; their higher resolution makes the latter two products more popular, but they are not available during most of the night (between 02UTC and 07UTC for GOES-Est, and between 06UTC and 11UTC for GOES-Ouest) given the absence of reflected sunlight. Other RGB products should be added gradually in the future to meet different needs.",
+    "Ces produits sont dérivés d'images RVB (rouge/vert/bleu), une technique de traitement satellitaire qui utilise une combinaison de bandes de capteurs satellitaires (également appelées canaux) et les applique chacune à un filtre rouge/vert/bleu (RVB). Il en résulte une image en fausses couleurs, c'est-à-dire une image qui ne correspond pas à ce que verrait l'œil humain, mais qui offre un contraste élevé entre les différents types de nuages et les caractéristiques de la surface. Le capteur embarqué à bord d'un satellite météorologique obtient deux types d'informations de base : les données de la lumière visible (lumière réfléchie) se reflétant sur les nuages et les différents types de surface, aussi appelée « réflectance », et les données infrarouges (radiation émise) qui sont des radiations à ondes longues et courtes émises par les nuages et les caractéristiques de surface. Les RVB sont spécialement conçus pour combiner ce type de données satellitaires, ce qui permet d'obtenir un produit final riche en informations.  \n  \n  Les autres produits résultent d’un rehaussement des données d’un canal pour une longueur d’onde unique, visant aussi à mettre en évidence des caractéristiques météorologiques de la surface ou des nuages observés, mais de manière plus simple puisque ne mettant en jeu qu’une seule longueur d’onde. Cette façon de faire plus ancienne est toujours utile parce que sa simplicité facilite dans certains cas l’interprétation de l’image."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/bde9b113-ab40-4d7f-a501-5cbb0b55805c"
+  ],
+  "dct_issued_s": "2024-10-28",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/bde9b113-ab40-4d7f-a501-5cbb0b55805c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Satellite Imagery - GOES-West",
+  "gbl_mdModified_dt": "2025-10-15T19:09:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d1324ccf-d195-5317-92b1-07228904d811",
+  "locn_geometry": "ENVELOPE(-180.0, -56.0, 64.0, -64.0)",
+  "schema_provider_s": "Open Data Canada"
+}

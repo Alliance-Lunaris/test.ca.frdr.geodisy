@@ -1,0 +1,70 @@
+{
+  "dcat_bbox": "ENVELOPE(-7.6053809999999995, -7.605371, 40.343044, 40.343033999999996)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Fernández-Pérez, Uxía (Universidade da Coruña). ORCID: https://orcid.org/0000-0003-1022-7148",
+    "Santos, Ricardo N (University of Basel). ORCID: https://orcid.org/0000-0002-8252-3619",
+    "Rodrigues, Teresa (Portuguese Institute of Sea and Atmosphere, Algés, Portugal, Universidade do Algarve). ORCID: https://orcid.org/0000-0001-7811-7506",
+    "Schefuß, Enno (MARUM - Center for Marine Environmental Sciences, University Bremen). ORCID: https://orcid.org/0000-0002-5960-930X",
+    "Bao, Roberto (Universidade da Coruña). ORCID: https://orcid.org/0000-0002-2928-2836",
+    "Raposeiro, Pedro Miguel (Universidade Açores, University of the Azores). ORCID: https://orcid.org/0000-0002-7461-0851",
+    "Sáez, Alberto (Universitat de Barcelona).",
+    "Giralt, Santiago (Geociencias Barcelona). ORCID: https://orcid.org/0000-0001-8570-7838",
+    "Martín-Puertas, Celia (Department of Stratigraphy and Paleontology, Universidad de Granada, University of Granada). ORCID: https://orcid.org/0000-0002-1349-5669",
+    "Francus, Pierre (National Institute of Scientific Research, Centre Eau Terre Environnement, Institut National de la Recherche Scientifique, Geotop, INRS, Institut national de la recherche scientifique). ORCID: https://orcid.org/0000-0001-5465-1966",
+    "Trigo, Ricardo M (Universidade de Lisboa). ORCID: https://orcid.org/0000-0002-4183-9852",
+    "Ramos, Alexandre M (Karlsruhe Institute of Technology). ORCID: https://orcid.org/0000-0003-3129-7233",
+    "Hernández, Armand (Universidade da Coruña). ORCID: https://orcid.org/0000-0001-7245-9863"
+  ],
+  "dct_description_sm": [
+    "This dataset provides a Holocene record of the hydrogen isotope composition of precipitation (δ²H precip) reconstructed from hydrogen isotopes measured in sedimentary leaf wax n-alkanes extracted from lacustrine sediment core PEX19-01, retrieved from Lake Peixão (40°20'35 N, 7°36'19 W), a small alpine lake located at 1677 meters above sea level in Serra da Estrela Montain, Portugal. Sediment cores were retrieved in June 2019 using a UWITEC piston coring system (Hernández et al., 2023). We adopt the age-depth model published by Hernández et al. (2023), which indicates continuous sedimentation over the past ~11.100 years. We present compound-specific hydrogen isotope ratios (δ²Hwax) of the terrestrial leaf wax endmember extracted by non-negative matrix factorization (NMF) of sedimentary n-alkane distributions, measured by gas chromatography–isotope ratio mass spectrometry (GC-IRMS). The NMF decomposition isolates the terrestrial vascular plant signal from other sources (e.g., aquatic, degraded organic matter), following Polissar et al. (2025). Precipitation isotope values (δ²H precip) were then derived by applying a catchment-integrated apparent fractionation factor (εapp = −129 ± 12‰; Santos et al., 2022, 2024), which accounts for the isotopic offset between leaf wax and source water. Uncertainty bounds reflect the propagated error on εapp (±12‰). Anomaly values (Δδ²H) represent the deviation of reconstructed δ²H precip from the modern mean annual precipitation isotope value at the site (δ²H MAP = −56‰), estimated using the Online Isotopes in Precipitation Calculator (OIPC). The dataset was generated to reconstruct past changes in hydroclimate and atmospheric circulation over the NW Iberian Peninsula during the Holocene, with the aim of characterizing the evolution of the Atlantic–Mediterranean climate boundary at centennial to millennial timescales."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.995820",
+    "https://doi.org/10.1594/pangaea.995820"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.995820\"}",
+  "dct_subject_sm": [
+    "Mediterranean mountain",
+    "Lake Peixão",
+    "Deviation from OIPC modern δ²H MAP (−56‰)",
+    "see reference(s)",
+    "Portugal",
+    "AGE",
+    "Δδ Deuterium, wax",
+    "North Atlantic",
+    "δ Deuterium, precipitation, reconstructed, minimum",
+    "Gas chromatography-isotope ratio mass spectrometry (GC-IRMS), non-negative matrix factorization (NMF)",
+    "δ Deuterium, wax",
+    "Paleoclimate",
+    "precipitation reconstruction",
+    "n-alkanes",
+    "Serra da Estrela",
+    "Holocene",
+    "leaf waxes",
+    "δ Deuterium, precipitation, reconstructed",
+    "mountain lakes",
+    "δ Deuterium, precipitation, reconstructed, maximum",
+    "Age, calibrated",
+    "d2H",
+    "plant waxes",
+    "Western Iberia",
+    "Biomarkers",
+    "Gravity corer, UWITEC",
+    "Lake sediment core",
+    "lipid biomarkers"
+  ],
+  "dct_title_s": "Holocene hydrogen isotope composition of precipitation (δ²H) reconstructed from sedimentary leaf wax n-alkanes in Lake Peixão, Serra da Estrela, Portugal",
+  "gbl_mdModified_dt": "2026-09-04T09:21:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe5d082a-79ac-5de8-ba0e-3f7052d2e98e",
+  "locn_geometry": "ENVELOPE(-7.6053809999999995, -7.605371, 40.343044, 40.343033999999996)",
+  "schema_provider_s": "PANGAEA"
+}

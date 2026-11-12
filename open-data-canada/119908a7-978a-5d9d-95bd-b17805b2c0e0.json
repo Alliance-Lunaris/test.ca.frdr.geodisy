@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-99.67370082, -95.42039785, 54.2242728, 50.02664276)",
+  "dcat_keyword_sm": [
+    "Pêcheries",
+    "Fisheries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Évaluation de la vulnérabilité des poissons par télémétrie dans une pêche pauvre en données"
+  ],
+  "dct_creator_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset combines reconstructed movement paths of acoustically tagged walleye (Sander vitreus) in Lake Winnipeg with weekly summaries of regional fishing activity. Fish movement trajectories were estimated from acoustic telemetry detections using Bayesian state-space models, providing continuous estimates of fish locations through time. These reconstructed paths were used to calculate weekly indices of nearshore and lake-wide relative walleye density. The density estimates were then integrated with regional fishing effort and catch data to evaluate spatial and temporal overlap between fish distribution and fishing activity, and to assess patterns of fish vulnerability to harvest in a large, data-limited inland fishery.",
+    "Cet ensemble de données combine les trajectoires de déplacement reconstituées du doré jaune (Sander vitreus) marqué acoustiquement dans le lac Winnipeg avec les résumés hebdomadaires des activités de pêche régionales. Les trajectoires de déplacement des poissons ont été estimées à partir de détections par télémétrie acoustique à l’aide de modèles bayésiens d’état-espace, fournissant des estimations continues de l’emplacement des poissons au fil du temps. Ces trajectoires reconstituées ont été utilisées pour calculer les indices hebdomadaires de la densité relative du doré jaune près du rivage et à l’échelle du lac. Les estimations de la densité ont ensuite été intégrées aux données régionales sur l’effort de pêche et les prises afin d’évaluer le chevauchement spatial et temporel entre la répartition du poisson et l’activité de pêche, et d’évaluer les tendances de vulnérabilité du poisson à la récolte dans une grande pêche intérieure pour laquelle les données sont limitées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7193bf5c-78de-409a-958b-e1b02d43f8d0"
+  ],
+  "dct_issued_s": "2026-08-25",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7193bf5c-78de-409a-958b-e1b02d43f8d0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Telemetry-Based Fish Vulnerability Assessment in a Data-Poor Fishery",
+  "gbl_mdModified_dt": "2026-10-13T12:01:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "119908a7-978a-5d9d-95bd-b17805b2c0e0",
+  "locn_geometry": "ENVELOPE(-99.67370082, -95.42039785, 54.2242728, 50.02664276)",
+  "schema_provider_s": "Open Data Canada"
+}

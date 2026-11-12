@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-4.87, -4.11, 6.75, 6.48)",
+  "dcat_keyword_sm": [
+    "Random Forest",
+    "GEDI",
+    "Multi-source",
+    "Sentinel-2",
+    "Landsat-8",
+    "Aboveground biomass"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chapman, Adelyn (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Aboveground biomass (AGB) is an important metric in forest carbon analysis, allowing for continuous monitoring of changes in biomass over time. Field measurements to provide accurate assessments of these metrics are cost and time-prohibitive, although remote sensing can gather this information quickly and more affordably, and with machine learning models they can achieve robust estimations of AGB. A random forest algorithm can extrapolate AGB from the International Space Station's Global Ecosystem Dynamics Investigation (GEDI) point clouds, digital elevation models, and satellite optical imagery. While there are limited options for freely available LiDAR and DEMs, there are multiple sources of optical imagery available. Using machine learning, multiple sources of optical remote sensing data may provide more precise estimations of AGB compared to single source estimates. A comparison was made between AGB estimations derived from Landsat-8, Sentinel-2, a combination of Landsat-8 and Sentinel-2, and the AGB product of Chloris Geospatial, which uses these sources in their model. Multi-source optical remote sensing models were found to have higher AGB estimates than single-source optical methods, as evidenced by a higher R² when combining Landsat-8 and Sentinel-2 data with GEDI. While the single-source model performed well, this study indicates that integrating multiple datasets enhances the ability to capture AGB variations more effectively. However, this approach comes with trade-offs, including a higher RMSE, suggesting that while multi-source models improve correlation with observed data, they also introduce greater variability in predictions. Future research should refine GEDI calibration and explore optimal data integration thresholds for balancing accuracy, uncertainty, and cost-effectiveness in biomass estimation models."
+  ],
+  "dct_identifier_sm": [
+    "894567_73894_115983",
+    "https://doi.org/10.5683/SP3/G30CMV"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/G30CMV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kwahu East, Ghana",
+    "Kwahu South, Ghana"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Comparison of Methods of Multi-Source Remote Sensing Estimations of Aboveground Biomass of Tropical Rainforests in Kwahu South, Ghana",
+  "gbl_mdModified_dt": "2025-04-22T16:53:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0d0fc660-e930-597b-ae7f-6a8e04cd709b",
+  "locn_geometry": "ENVELOPE(-4.87, -4.11, 6.75, 6.48)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

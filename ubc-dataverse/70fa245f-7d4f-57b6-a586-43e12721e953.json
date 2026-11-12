@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.944, -121.11, 52.014, 50.39)",
+  "dcat_keyword_sm": [
+    "GPS tracking",
+    "Generalized Additive Model",
+    "Random Forest",
+    "use intensity modelling",
+    "cattle habitat selection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wu, Ellen (University of British Columbia). ORCID: https://orcid.org/0009-0000-6853-1770"
+  ],
+  "dct_description_sm": [
+    "Effective rangeland management requires understanding how cattle distribute across heterogeneous landscapes. This study modelled cattle habitat use intensity across three connected fenced pastures of varying environmental conditions and sizes in British Columbia, Canada, using GPS eartag tracking data from two growing seasons (April-September 2024 and 2025). Unlike traditional presence-absence approaches, we employed a continuous use intensity framework treating log-transformed GPS fix counts per 100-meter grid cell as the response variable, avoiding pseudo-absence bias where GPS fix absence does not indicate habitat avoidance. Two complementary models, a Random Forest (RF) regressor and a Generalized Additive Model (GAM), were compared using spatial cross-validation, independent holdout validation, and interannual validation across years. Ten environmental predictors were included: elevation, slope, aspect (cosine and sine transformed), topographic position index (TPI), distance to water, distance to road, crown closure, and monthly median NDVI and EVI. Exploratory GLM diagnostics revealed non-linear residual patterns and spatial autocorrelation, justifying the use of more flexible modeling approaches. Both RF and GAM identified elevation, TPI, crown closure, and vegetation indices as key drivers, with cattle preferentially using lower-elevation, open areas with higher forage availability. The models exhibited limited spatial extrapolation across pastures and reduced interannual transferability due to the variation of elevation and vegetation indices, yet preserved relative habitat rankings (Spearman r = 0.26-0.35), indicating their utility for identifying high-use versus low-use areas. This dual-model framework demonstrates the value of combining machine learning and statistical approaches for habitat selection studies, providing ecological interpretability to support sustainable grazing management."
+  ],
+  "dct_identifier_sm": [
+    "1144662_73894_115983",
+    "https://doi.org/10.5683/SP3/4FCDH6"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/4FCDH6\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Leveraging GPS Location Tracking to Forecast Cattle Preference for Enhanced Rangeland Management in South-central British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:36:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "70fa245f-7d4f-57b6-a586-43e12721e953",
+  "locn_geometry": "ENVELOPE(-123.944, -121.11, 52.014, 50.39)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

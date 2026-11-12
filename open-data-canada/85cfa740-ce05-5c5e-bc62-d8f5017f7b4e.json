@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Territoire",
+    "Zonage",
+    "Port commercial",
+    "Commerce maritime",
+    "Transport maritime",
+    "Information gouvernementale",
+    "Installations portuaires",
+    "Infrastructures"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère de l'Économie et de l'Innovation."
+  ],
+  "dct_description_sm": [
+    "Geolocated data and maps illustrating the delimitation of industrial-port areas. The industrial-port zone is a delimited space used for industrial purposes and located near port services as well as road and rail infrastructures. \n\nThis proximity represents a considerable comparative advantage for businesses, especially for those in the processing sector, since it allows easy access to inputs and an adequate distribution of the goods produced to North American and international markets.\n\nFor more information: (source: https://www.economie.gouv.qc.ca/bibliotheques/strategies/avantage-saint-laurent-la-nouvelle-vision-maritime-du-quebec/zones-industrialo-portuaires)\n\nNote that this database is constantly evolving according to the pace of formalization of the zones.\n\nThe structure includes the following fields:\n\n- Name of the zone, for example Québec-Lévis\n\n- Date of formalization of the zone, for example 2017-07-06\n\n- Description of the sector: Anse-au-Foulon (this name is given by the committee)\n\n- Geometry of the sector\n\n- Name of the municipality where the sector is located, for example Quebec\n\n- Geographic code of the municipality where the sector is located (unique 5-digit code), for example 23027 (for Quebec)\n\n- Area in km² of the sector, for example 0.421755**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Données géolocalisées et cartes illustrant la délimitation des zones industrialo-portuaires. La zone industrialo-portuaire est un espace délimité servant à des fins industrielles et situé à proximité de services portuaires ainsi que d’infrastructures routières et ferroviaires. \n\nCette proximité représente un avantage comparatif considérable pour les entreprises, notamment pour celles du secteur de la transformation, puisqu’elle permet un accès facilité aux intrants et une distribution adéquate des marchandises produites vers les marchés nord-américains et internationaux.\n\nPour plus d'information: (source: https://www.economie.gouv.qc.ca/bibliotheques/strategies/avantage-saint-laurent-la-nouvelle-vision-maritime-du-quebec/zones-industrialo-portuaires)\n\nNotez que cette base de données est en constante évolution selon le rythme d’officialisation des zones.\n\nLa structure comprend les champs suivants:\n\n- Nom de la zone, par exemple Québec-Lévis\n\n- Date d’officialisation de la zone, par exemple 2017-07-06\n\n- Description du secteur : Anse-au-Foulon (ce nom est donné par le comité)\n\n- Géométrie du secteur\n\n- Nom de la municipalité où est situé le secteur, par exemple Québec\n\n- Code géographique de la municipalité où est situé le secteur (code unique à 5 chiffres), par exemple 23027 (pour Québec)\n\n- Superficie en km² du secteur, par exemple 0,421755"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310"
+  ],
+  "dct_issued_s": "2017-11-10",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/7c346a57-fa74-4dc2-ab97-d5cf3d46d310\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Délimitation des zones industrialo-portuaires",
+  "gbl_mdModified_dt": "2026-09-30T17:39:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "85cfa740-ce05-5c5e-bc62-d8f5017f7b4e",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

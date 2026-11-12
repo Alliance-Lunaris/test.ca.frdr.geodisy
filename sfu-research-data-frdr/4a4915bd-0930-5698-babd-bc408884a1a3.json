@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.42825969852383, -121.42825969852383, 49.4261281761486, 49.4261281761486)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Li, Tingan (Simon Fraser University). ORCID: https://orcid.org/0000-0002-6006-7712",
+    "Venditti, Jeremy (Simon Fraser University). ORCID: https://orcid.org/0000-0002-2876-4251",
+    "Sklar, Leonard (Simon Fraser University, Concordia University). ORCID: https://orcid.org/0000-0001-9626-733X",
+    "Lamb, Michael (California Institute of Technology). ORCID: https://orcid.org/0000-0002-5701-0504"
+  ],
+  "dct_description_sm": [
+    "Discharge data and Python code used to get the lateral erosion rate due to bedload and suspended load impacts in bedrock rivers. The data is the historical discharge data at Hope gauging station in British Columbia for calculating the cumulative erosion rate in Black Canyon and obtained from Environment and Climate Change Canada's Water Survey of Canada for Station number 08MF005. The code is for simulating the influence of discharge on lateral erosion rate for 10 mm grain size predicted by deflection-abrasion model (bedload); advection-abrasion model (bedload and suspended load); and combined-abrasion model (deflection-abrasion+advection-abrasion model), the code can be easily modified to explore the influence of grain size, sediment supply and channel slope by changing the variables in the code."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.0638"
+  ],
+  "dct_issued_s": "2022-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.0638\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "Hope, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and related environmental sciences",
+    "bedload",
+    "bedrock rivers",
+    "Géosciences de l'environnement",
+    "suspended load",
+    "Sciences de la Terre et sciences de l'environnement connexes",
+    "Géomorphologie",
+    "Geomorphology",
+    "lateral erosion",
+    "Environmental geoscience"
+  ],
+  "dct_title_s": "Data and code for A Model for Lateral Erosion of Bedrock Channel Banks by Bedload and Suspended Load",
+  "gbl_mdModified_dt": "2026-04-16T21:49:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4a4915bd-0930-5698-babd-bc408884a1a3",
+  "locn_geometry": "ENVELOPE(-121.42825969852383, -121.42825969852383, 49.4261281761486, 49.4261281761486)",
+  "schema_provider_s": "SFU Research Data (FRDR)"
+}

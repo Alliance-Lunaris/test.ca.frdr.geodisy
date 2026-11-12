@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.9938, -100.2259, 60.0082, 48.8909)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "PCS Regions contains the boundaries of park regions for the administration and management purposes of provincial parks, recreation sites, protected areas, and historic sites by the Saskatchewan Ministry of Parks, Culture and Sports - Parks Division.  \n  \n  PCS Regions contains the topologically corrected boundaries of park regions. These were determined based on the location and number of provincial parks, recreation sites, protected areas, and historic sites and drawn using imagery for administration and management purposes by the Saskatchewan Ministry of Parks, Culture and Sports - Parks Division. These boundaries outline the area for which a Regional Director is responsible, jointly with a number of Park Managers. This dataset is current as of Apr 27, 2023.Updates: Corrected topology errors to remove gaps and overlaps within itself and against the ADMINISTRATIVE.provincial_boundary feature class (ED220908). Added AREA_HA and CONTACT fields (ED220908). Renamed the feature class from PARK_REGIONS to PCS_Regions_v2 for clarity (ED230427)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/30b5e9e2-882d-6d3c-6c8a-26194d087d19"
+  ],
+  "dct_issued_s": "2023-10-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/30b5e9e2-882d-6d3c-6c8a-26194d087d19\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "PCS Regions",
+  "gbl_mdModified_dt": "2025-02-05T19:21:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40a73d3d-ef96-5df4-bc31-d49be0fdd1a3",
+  "locn_geometry": "ENVELOPE(-109.9938, -100.2259, 60.0082, 48.8909)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

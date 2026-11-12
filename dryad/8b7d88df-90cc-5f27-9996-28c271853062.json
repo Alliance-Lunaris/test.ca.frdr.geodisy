@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "wildlife disease",
+    "red fox",
+    "immunogenomics",
+    "arctic rabies virus",
+    "Vulpes lagopus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Michael E., Donaldson (Trent University).",
+    "Yessica, Rico (Trent University, Instituto de Ecología, University of Toronto).",
+    "Karsten, Hueffer (University of Alaska Fairbanks).",
+    "Halie M., Rando (University of Illinois Urbana-Champaign).",
+    "Anna V., Kukekova (University of Illinois Urbana-Champaign).",
+    "Christopher J., Kyle (Trent University)."
+  ],
+  "dct_description_sm": [
+    "Pathogens are recognized as major drivers of local adaptation in wildlife systems. By determining which gene variants are favored in local interactions among populations with and without disease, spatially explicit adaptive responses to pathogens can be elucidated. Much of our current understanding of host responses to disease comes from a small number of genes associated with an immune response. High-throughput sequencing (HTS) technologies, such as genotype-by-sequencing (GBS), facilitate expanded explorations of genomic variation among populations. Hybridization-based GBS techniques can be leveraged in systems not well characterized for specific variants associated with disease outcome to “capture” specific genes and regulatory regions known to influence expression and disease outcome. We developed a multiplexed, sequence capture assay for red foxes to simultaneously assess ~300-kbp of genomic sequence from 116 adaptive, intrinsic, and innate immunity genes of predicted adaptive significance and their putative upstream regulatory regions along with 23 neutral microsatellite regions to control for demographic effects. The assay was applied to 45 fox DNA samples from Alaska, where three arctic rabies strains are geographically restricted and endemic to coastal tundra regions, yet absent from the boreal interior. The assay provided 61.5% on-target enrichment with relatively even sequence coverage across all targeted loci and samples (mean = 50×), which allowed us to elucidate genetic variation across introns, exons, and potential regulatory regions (4,819 SNPs). Challenges remained in accurately describing microsatellite variation using this technique; however, longer-read HTS technologies should overcome these issues. We used these data to conduct preliminary analyses and detected genetic structure in a subset of red fox immune-related genes between regions with and without endemic arctic rabies. This assay provides a template to assess immunogenetic variation in wildlife disease systems."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.f81c5",
+    "https://doi.org/10.5061/dryad.f81c5"
+  ],
+  "dct_issued_s": "2018-10-26",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.f81c5\"}",
+  "dct_spatial_sm": [
+    "USA",
+    "Alaska"
+  ],
+  "dct_title_s": "Data from: Development of a genotype-by-sequencing immunogenetic assay as exemplified by screening for variation in red fox with and without endemic rabies exposure",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8b7d88df-90cc-5f27-9996-28c271853062",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "agclimat",
+    "Agriculture",
+    "Terre agricole",
+    "Cultures",
+    "Précipitation",
+    "agclimate",
+    "GD",
+    "Agriculture",
+    "Crops",
+    "Température",
+    "GD",
+    "Precipitation",
+    "Temperature",
+    "Farmlands"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Degrés-jours de croissance"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "Growing degree days (GDDs) are used to estimate the growth and development of plants and insects during the growing season. Growing Degree Day are computed by subtracting a base value temperature from the mean daily temperature and are assigned a value of zero if negative. Base temperatures are a point below which development does not occur for the organism in question. Growing Degree Day products are created for base 0, 5, 10 and 15 degrees Celsius.  \n  \n  GDD values are only accumulated during the Growing Season, April 1 through October 31.",
+    "Les degrés-jours de croissance (DJC) servent à estimer la croissance et le développement des plantes et des insectes pendant la saison de croissance. Les DJC sont calculés en soustrayant une température de base de la température moyenne d’une journée (si le résultat est négatif, le DJC quotidien est fixé à zéro). La température de base est le point sous lequel le développement de l’organisme cesse. Les produits de DJC sont générés pour 0 (base), 5, 10 et 15 degrés Celsius. Les valeurs de DJC s’accumulent uniquement durant la saison de croissance, du 1er avril au 31 octobre."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c7b40829-bacb-4f67-a19b-e090b3d32992"
+  ],
+  "dct_issued_s": "2017-05-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c7b40829-bacb-4f67-a19b-e090b3d32992\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Growing Degree Days",
+  "gbl_mdModified_dt": "2025-07-21T21:51:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ef8b7173-ef28-5327-af85-5cdf301d30c4",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

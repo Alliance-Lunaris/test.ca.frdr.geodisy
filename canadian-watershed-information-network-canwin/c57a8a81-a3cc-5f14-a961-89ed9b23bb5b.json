@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "In the oil sands air monitoring component, nitrogen dioxide (NO2) and sulphur dioxide (SO2) levels are monitored by ground-based instruments, satellites and other measurements. Monitoring of air pollutants from satellites is becoming an alternative to surface and aircraft measurements, and allows for better understanding of the global distribution, sources and trends of pollutants. \r\n\r\n\r\nFigures showing NO2 and SO2 datasets are given in “Satellite Figures-EngFr.pdf”. Using satellite data collected over the oil sands region, high-resolution air pollutant maps show distinct concentrations of NO2 (Figure 1a) and SO2 (Figure 1b) over an area (roughly 30 km x 50 km, or 19 miles x 31 miles) of intensive oil sands surface mining. The map shows that NO2 concentrations are significant and are comparable to measurements made over large, individual sources such as coal-burning power plants. NO2 concentrations in the oil sand region are smaller than in large metropolitan areas in Canada and significantly smaller than elsewhere in North America (Figures 1c and 1d). The SO2 concentrations (Figure 1e) are also significant and are comparable to those from individual industrial emissions sources, including large base-smelting operations in Manitoba and Ontario. NO2 data are provided in the files described below; SO2 data may be added to the data catalogue in the future.\r\n\r\n\r\nThe 2024 version (v4.0_OS) OMI NO2 data product builds on the previously published version of National Aeronautics and Space Administration (NASA) Ozone Monitoring Instrument (OMI) NO2 data, but includes more recent data, covering the period of 2004 to 2023 inclusive. Data are provided in netcdf format and cover the spatial domain of the entirety of the oil sands within a box defined by 53-58°N and 113-118°W. The data product is based on the NASA and OMI improved algorithms and Environment and Climate Change Canada (ECCC) post-processing algorithms to optimize the data for monitoring over Canada. This ECCC product has been shown to be more accurate as compared to the original NASA version over the oil sands region and thus it is the recommended version. \r\n\r\n\r\nOMI-derived maps of NO2 over the surface mining area for the 2004-2023 period, sample python code to load the data, references and other details are provided in “2024 OMI NO2 Supplemental Information EngFr.pdf” document. Included maps of NOx emissions between 2004-2023 help to understand the response to introduced ambient air quality standards and demonstrate that NO2 emissions increased from about 55 to 80 kt[NO2]/yr between 2005 –2011, and then remain roughly constant, which is broadly in line with reported emissions."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b1c50d98-b377-44a5-ac36-94e50c8df9f7"
+  ],
+  "dct_issued_s": "2019-02-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b1c50d98-b377-44a5-ac36-94e50c8df9f7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Remote Sensing and Modelling, Satellite-based Nitrogen Dioxide, Oil Sands Region",
+  "gbl_mdModified_dt": "2025-02-03T13:01:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c57a8a81-a3cc-5f14-a961-89ed9b23bb5b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Pollution",
+    "SEnv",
+    "Qualité de l air",
+    "RSQA",
+    "IQA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de l'environnement et de la transition écologique."
+  ],
+  "dct_description_sm": [
+    "La Ville de Montréal mesure la qualité de l’air sous la forme d’une valeur numérique appelée « indice de la qualité de l’air (IQA) ». Le présent ensemble de données permet d'accéder aux valeurs historiques de l'IQA, mises à jour quotidiennement.\r\n\r\n***Note :** Les systèmes de l'IQA ne changent pas d'heure : ils utilisent toujours l'heure normale de l'Est (HNE) et non l'heure avancée de l'Est (HAE). Ainsi, pendant l'heure avancée, il y a un décalage d'une heure dans les données. À titre d'exemple, une mesure enregistrée à 12&nbsp;HNE est celle de 13h&nbsp;HAE.*\r\n\r\nLes valeurs quotidiennes, mises à jour à chaque heure, sont disponibles [ici](rsqa-indice-qualite-air).\r\n\r\nLa [liste des stations](rsqa-liste-des-stations) et [secteurs](rsqa-secteurs-geographiques) liés aux données du RSQA est également disponible."
+  ],
+  "dct_identifier_sm": [
+    "https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6"
+  ],
+  "dct_issued_s": "2021-06-10",
+  "dct_publisher_sm": [
+    "Ville de Montréal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://donnees.montreal.ca/dataset/547b8052-1710-4d69-8760-beaa3aa35ec6\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 International http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_spatial_sm": [
+    "Montréal, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "RSQA - indice de la qualité de l'air (historique)",
+  "gbl_mdModified_dt": "2026-05-06T18:20:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cab5f5fe-134c-59ed-b510-4bbc3c3498c7",
+  "schema_provider_s": "Montréal Données Ouvertes"
+}

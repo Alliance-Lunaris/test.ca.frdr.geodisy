@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.31, -55.4, 51.9, 45.19)",
+  "dcat_keyword_sm": [
+    "chlorophylle-a",
+    "Oceans",
+    "Coastal Environmental Baseline Program",
+    "remote sensing",
+    "phytoplanktonBiomassAndDiversity",
+    "oceanColour",
+    "Couleur des océans",
+    "Biomasse et diversité de phytoplancton",
+    "Salinité de surface",
+    "seaSurfaceSalinity",
+    "model data",
+    "chlorophyll-a",
+    "télédétection",
+    "satellites",
+    "satellites",
+    "données de modèle"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Concentrations en chlorophylle-a et salinité dérivées d'images satellitaires pour l'estuaire et le golfe du Saint-Laurent (1998-2025)"
+  ],
+  "dct_creator_sm": [
+    "Laliberté, Julien (Pêches et Océans Canada - Fisheries and Oceans Canada).",
+    "Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "**\"New version\"** This dataset presents the result of a model developed to retrieve chlorophyll-a (chla) and salinity concentrations from various satellites in the St. Lawrence Estuary and Gulf. This version replaces the previous ones, with estimates derived from a retuning of the model based on additional in situ and satellite-derived data. The input data is now exclusively from the European Space Agency's Ocean Color Climate Change Initiative (CCI) program.\n\nThe ocean color, seen from space, makes it possible to estimate the chlorophyll content in water. This pigment is an index of the biomass of microscopic algae. Compared to the Atlantic Ocean, the waters of the Estuary and Gulf of St. Lawrence are rather isolated and are highly mixed with fresh water from numerous rivers.\n\nFor further information, please consult the following papers:\n\n- [Laliberté, J., & Larouche, P. (2023). Chlorophyll-a concentration climatology, phenology, and trends in the optically complex waters of the St. Lawrence Estuary and Gulf. Journal of Marine Systems, 238, 103830](https://doi.org/10.1016/j.jmarsys.2022.103830).\n\n- [Laliberté, J., Guénard, G., Dumas, J., Galbraith, P. S., Hall, S., Trossman, D., & Vissault, S. (2025). Evaluation of satellite-based sea surface salinity derived from two distinct spectral domains over the coastal waters of the St. Lawrence Estuary and Gulf. Frontiers in Marine Science, 12, 1672298](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1672298/abstract).\n\nThis dataset is produced as part of the Coastal Environmental Baseline Program under Fisheries and Oceans Canada's Oceans Protection Plan.",
+    "**”Nouvelle version”** Ce jeu de données présente le résultat d'un modèle développé pour récupérer les concentrations de chlorophylle-a (chla) et salinité à partir de divers satellites pour le secteur de l'estuaire et du golfe du Saint-Laurent. Cette version remplace les antérieures, en intégrant des estimations dérivées d'un réajustement du modèle basé sur des données supplémentaires in situ et provenant des satellites. Les données d'entrée proviennent désormais exclusivement du programme *Ocean Color Climate Change Initiative* (CCI) de l'Agence spatiale européenne.\n\nLa couleur de l'océan, vue de l'espace, permet d'estimer la teneur en chlorophylle de l'eau. Ce pigment est un indice de la biomasse des algues microscopiques. Comparativement à l'océan Atlantique, les eaux de l'estuaire et du golfe du Saint-Laurent sont plutôt isolées et fortement mélangées à l'eau douce de nombreuses rivières.\n\nPour information supplémentaire, veuillez consulter les articles suivants :\n\n- [Laliberté, J., & Larouche, P. (2023). Chlorophyll-a concentration climatology, phenology, and trends in the optically complex waters of the St. Lawrence Estuary and Gulf. Journal of Marine Systems, 238, 103830](https://doi.org/10.1016/j.jmarsys.2022.103830).\n\n- [Laliberté, J., Guénard, G., Dumas, J., Galbraith, P. S., Hall, S., Trossman, D., & Vissault, S. (2025). Evaluation of satellite-based sea surface salinity derived from two distinct spectral domains over the coastal waters of the St. Lawrence Estuary and Gulf. Frontiers in Marine Science, 12, 1672298](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1672298/abstract).\n\nCe jeu de données est produit dans le cadre du Programme sur les données environnementales côtières de référence du Plan de protection des océans de Pêches et Océans Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a6d8a049-2187-4308-b595-bc7ddb680f09"
+  ],
+  "dct_issued_s": "2022-10-06",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a6d8a049-2187-4308-b595-bc7ddb680f09\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Chlorophyll-a and Salinity Concentrations Derived from Satellite Images for the Estuary and Gulf of St. Lawrence (1998-2025)",
+  "gbl_mdModified_dt": "2026-07-31T16:37:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7ff5ef3a-bc43-5059-a65c-51be8a60acc3",
+  "locn_geometry": "ENVELOPE(-71.31, -55.4, 51.9, 45.19)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

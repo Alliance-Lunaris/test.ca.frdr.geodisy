@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Isolation with Migration",
+    "Helianthus petiolaris"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Andrew, Rose L. (University of British Columbia, University of New England).",
+    "Kane, Nolan C. (University of Colorado Boulder, University of British Columbia).",
+    "Baute, Greg J. (University of British Columbia).",
+    "Grassa, Christopher J. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/PCf71aaKCnwUn2M3BtSPvsl_6NRsKb_eCB07GZa_x4A</p>\n<p><b>Storage size:</b> 3201403</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The genomics of local adaptation is an increasingly active field, providing insights into the forces driving ecological speciation and the repeatability of evolution. Demography and gene flow play an important role in determining the paths by which parallel evolution occurs and the genomic signatures of adaptation. In the annual sunflowers, hybridization between species has repeatedly led to the colonization of extreme habitats, such as sand dunes. In a new case of adaptation to sand dunes that occurs in populations of H. petiolaris growing at Great Sand Dunes National Park and Preserve (Colorado), we wished to determine the age and long-term migration patterns of the system, as well as its ancestry. We addressed these questions with restriction-associated DNA (RAD) sequence data, aligned to a reference transcriptome. In an isolation with migration model using RAD sequences, coalescent analysis showed that the dune ecotype originated since the last ice age, which is very recent compared with the hybrid dune species, H. anomalus. Large effective population sizes and substantial numbers of gene migrants per generation between dune and nondune ecotypes explained the highly heterogeneous divergence observed among loci. Analysis of RAD-derived SNPs identified heterogeneous divergence between the dune and nondune ecotypes, as well as identifying its nearest relative. Our results did not support the hypothesis that the dune ecotype has hybrid ancestry, suggesting that adaptation of sunflowers to dunes has occurred by multiple mechanisms. The ancestry and long-term history of gene flow between incipient sunflower species provides valuable context for our understanding of ecological speciation and parallel adaptation.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">GSD_RAD_SNPs</h4><div class=\"o-metadata__file-description\">GSD_RAD_SNPs contains SNP data, formatted as codominant nucleotide genotypes (e.g. \"AT\", \"CC\" etc.) and with missing data marked as \"-\"). The first two columns give the reference contig where each SNP aligned and its position. The final column gives Nei's Fst between the dune and non-dune ecotypes, estimated by the 'basic.stats' function in the HIERFSTAT package of the R statistical software. The data are sorted on this column. The data columns are as follows: 50 dune individuals, 15 intermediate, 35 non-dune, 10 H. petiolaris and 10 H. annuus.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">gsd_rad_structure_data</h4><div class=\"o-metadata__file-description\">Zip file containing files used for STRUCTURE analyses presented in Figures 4, S1, S2, S3 and S4.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">gsd75_sample100_3</h4><div class=\"o-metadata__file-description\">Data file for IMa2 analysis.</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153322_1226260_150149",
+    "https://doi.org/10.5683/SP2/9RSUOF"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/9RSUOF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "USA",
+    "Colorado",
+    "Great Sand Dunes National Park and Preserve",
+    "Mosca"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Recent non-hybrid origin of sunflower ecotypes in a novel habitat",
+  "gbl_mdModified_dt": "2021-05-19T19:03:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d690cd52-075d-5b99-8df5-7ca62a0fcb0c",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

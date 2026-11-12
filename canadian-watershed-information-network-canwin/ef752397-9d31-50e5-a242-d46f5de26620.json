@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-130.0, -123.0, 53.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Many cetacean species were depleted in Canadian Pacific waters by commercial whaling, which ended in 1967. Although some populations have since shown evidence of recovery, there is limited information about the current abundance and geographic distribution of many species, particularly in difficult-to-survey offshore regions. This lack of baseline data hampers conservation status assessments, including estimating population-level impacts of anthropogenic activities. From July to early September 2018, we conducted ship-based surveys of cetaceans throughout the coastal and offshore waters of British Columbia. Density surface modelling (DSM) was used to produce spatially-explicit abundance estimates and distribution maps for four commonly-encountered cetacean species: the humpback whale (Megaptera novaeangliae), fin whale (Balaenoptera physalus), Dall’s porpoise (Phocoenoides dalli) and harbour porpoise (Phocoena phocoena). We estimated abundances of 7,030 (95% CI = 5,733-8,620) humpback whales, 2,893 (95% CI = 2,171-3,855) fin whales, 23,692 (95% CI = 19,121-29,356) Dall’s porpoises and 5,207 (95% CI = 2,769-9,793) harbour porpoises throughout Canadian Pacific waters. Our results complement design-based abundance estimates calculated from the same survey data, and can be compared with past habitat modelling studies and historical whaling catch data to estimate the extent of recovery of previously harvested populations. The return of these predators to habitats from which they were previously extirpated will have important ecosystem-level implications. The DSM results can contribute to calculations of Potential Biological Removal estimates to inform fisheries bycatch, as well as providing spatial data that can be used to assess the risk of entanglements, ship strikes, acoustic disturbance, and other anthropogenic threats.\n\nThis dataset contains model-predicted densities of four commonly-encountered cetacean species (humpback whale, fin whale, Dall's porpoise and harbour porpoise) that were estimated using ship-based, visual survey data collected during the Pacific Region International Survey of Marine Megafauna (PRISMM) in July-August of 2018. Abundance of each species (where relevant) is provided for three gridded strata (25 km2 cell size) in the Pacific Region: one for the offshore, extending to Canada’s exclusive economic zone (EEZ), and two for coastal areas (the North Coast and the Salish Sea)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/39546277-b33e-4f80-8a2d-3ca1ce5b1401"
+  ],
+  "dct_issued_s": "2023-02-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/39546277-b33e-4f80-8a2d-3ca1ce5b1401\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Spatial density models of cetaceans in the Canadian Pacific estimated from 2018 ship-based surveys",
+  "gbl_mdModified_dt": "2026-03-24T08:32:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ef752397-9d31-50e5-a242-d46f5de26620",
+  "locn_geometry": "ENVELOPE(-130.0, -123.0, 53.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

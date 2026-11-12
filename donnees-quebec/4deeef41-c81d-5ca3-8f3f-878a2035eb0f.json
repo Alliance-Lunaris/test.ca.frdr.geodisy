@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Aménagement durable forêts",
+    "Territoire forestier résiduel",
+    "Direction inventaires forestiers",
+    "Forêt publique",
+    "DIF",
+    "Production de bois",
+    "Forêt commerciale publique",
+    "Subdivisions territoriales forestières",
+    "STF",
+    "Forêt domaine État",
+    "Droits forestiers",
+    "Bénéficiaire volume bois",
+    "Posssibilité forestière"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur des forêts - Direction de la valorisation des ressources forestières (DVRF)."
+  ],
+  "dct_description_sm": [
+    "Territoires du domaine de l'État sur lesquels des droits consentis incluent des attributions de volume de bois définis par le ministère des Ressources naturelles et des Forêts (MRNF).\r\nOn trouve différents types de droits consentis selon le ou les objectif(s) d'utilisation(s): \r\n\r\n-Les garanties d'approvisionnement (GA), les permis de récolte de bois aux fins d'approvisionner une usine de transformation du bois (PRAU), les PRAU de biomasse (PRBIO) et les ententes de délégation (ED) sur la forêt de proximité (FP) ou sur les territoires forestiers résiduels permettent les activités d'aménagement forestier selon les différents documents légaux émis par le MRNF.\r\n\r\n-Les forêts d'enseignement et de recherche (FER) permettent des activités d'aménagement forestier à des fins d'enseignement et de recherche selon le contrat émis par le MRNF.\r\n\r\n-La station forestière Duchesnay (STF) permet des activités d'aménagement forestier à des fins d'enseignement, de recherche et de tourisme selon le contrat émis par le MRNF.\r\n\r\n-Les conventions de gestion territoriale (CGT) sur les territoires forestiers résiduels permettent les activités d'aménagement forestier et la gestion foncière selon la convention émise par le MRNF.\r\n\r\n-Les terres de catégorie 1 (TC1) sont soumises à des droits de propriété sous conditions dédiées aux nations autochtones selon la Convention de la Baie James et du Nord québécois et encadrent les activités d'aménagement forestier. __Important :__ Le MRNF n’émet aucun droit forestier sur ces terres mais le volume associé à la possibilité forestière de ces terres est comptabilisé dans le système SYMPA.\r\n\r\nCes données territoriales proviennent du système STF du MRNF qui est __la source officielle__ de ces informations géographiques, sauf pour les territoires forestiers résiduels avec convention de gestion (CGT) ainsi que les terres de catégorie 1 (TC1). Les __droits consentis actifs__ sont établit selon le système SYMPA du MRNF. \r\n\r\nIl est possible d'identifier les différents bénéficiaires __des droits actifs seulement__, soit à partir de la table STF_Bénéficiaires. Cette table est alimentée par le système SYMPA qui établit les droits forestiers et les volumes qui leur sont attribués. La correspondance entre un territoire de droit consenti et les bénéficiaires est possible en mettant en relation la table et le jeu de données par le numéro de territoire (NO_TERRI)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/5f12a8e0-0327-42bb-a27d-a03ffa46db40"
+  ],
+  "dct_issued_s": "2018-04-20",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/5f12a8e0-0327-42bb-a27d-a03ffa46db40\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Gouvernement et finances",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Territoires de droits consentis (TDC)",
+  "gbl_mdModified_dt": "2026-08-18T19:41:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4deeef41-c81d-5ca3-8f3f-878a2035eb0f",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.25, -55.5, 52.0, 45.25)",
+  "dcat_keyword_sm": [
+    "random forest",
+    "remote sensing",
+    "modelling",
+    "climate change",
+    "Vibrio parahaemolyticus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Chapman, William (Mount Alison University). ORCID: https://orcid.org/0009-0002-1105-9393",
+    "Lieske, David J. (Mount Allison University). ORCID: https://orcid.org/0000-0001-7737-7867",
+    "Richards, Clark (Bedford Institute of Oceanography). ORCID: https://orcid.org/0000-0002-7833-206X",
+    "Clements, Jeff C. (Fisheries and Oceans Canada, Gulf Region). ORCID: https://orcid.org/0000-0001-5140-5751",
+    "Kurek, Josh (Mount Allison University). ORCID: https://orcid.org/0000-0003-4590-4823"
+  ],
+  "dct_description_sm": [
+    "<i>Vibrio parahaemolyticus</i> (Vp) is a marine bacterium that can cause severe foodborne illness. The abundance of Vibrios has likely increased globally, which is often attributed to climate change; however, studies directly linking Vp outbreaks to climate change are lacking for northern latitudes where Vp outbreaks have been historically rare. We developed a robust, predictive random forest model for outbreaks of Vp in the Gulf of St. Lawrence, Canada — one of the fastest warming marine bodies on Earth. We used remote-sensed or modelled sea surface temperature, salinity, and chlorophyll-<i>a</i>, and 2,415 archival Vp tests in oysters from 2017 and 2023, to develop a hindcast model predicting Vp outbreaks over the past 35 years (1998-2023). We then compared the hindcast of Vp outbreak probability to modelled changes in these key environmental parameters. The model revealed that, in some areas, Vp outbreak risk was 7% higher in 2023 compared to 1998. Sea surface temperature showed the strongest relationship and has likely driven increased Vp outbreaks in this region. While previous research has suggested the abundance of Vibrios is likely to increase under future climate change scenarios, our results reveal that climate change has already led to increased Vp abundance. Our findings suggest that Vp in the Gulf of St. Lawrence is an ecological sentinel of climate change in rapidly warming marine waters. Vp abundances are likely to intensify in this region as marine climates continue to change, with likely risks to the aquaculture sector and human health.\n\nThis data submission includes python scripts compatible with ArcGIS Pro to generate the included csv data file, as well as R scripts for modelling and analysis. Third-party data is required for both the python scripts and the R scripts; data sources are noted in the README file."
+  ],
+  "dct_identifier_sm": [
+    "992983",
+    "https://doi.org/10.5683/SP3/FKFX2P"
+  ],
+  "dct_issued_s": "2026-07-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FKFX2P\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Rapidly warming waters drive Vibrio parahaemolyticus abundance in a northern gulf",
+  "gbl_mdModified_dt": "2026-07-02T18:10:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3b33eb85-6587-5234-8467-fc3a431ad1f5",
+  "locn_geometry": "ENVELOPE(-71.25, -55.5, 52.0, 45.25)",
+  "schema_provider_s": "Mount Allison University Dataverse"
+}

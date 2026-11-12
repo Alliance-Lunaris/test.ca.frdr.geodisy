@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.03486, -124.03307, 48.43127, 48.42963)",
+  "dcat_keyword_sm": [
+    "lidR",
+    "individual tree segmentation",
+    "time-series",
+    "individual tree detection",
+    "UAV",
+    "LiDAR",
+    "forest phenotyping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kulkarni, Gayatri Deepak (University of British Columbia). ORCID: https://orcid.org/0009-0006-2207-9700"
+  ],
+  "dct_description_sm": [
+    "Remote‑sensing enabled phenotyping is driven by individual tree detection (ITD) and segmentation (ITS), which provide the essential basis for extracting individual tree structural and functional traits. Changing climate regimes require scalable and cost-effective methods, positioning Unmanned Aerial Vehicles (UAV) equipped with LiDAR as an effective tool to obtain repeated high-resolution measurements. Despite widespread ITS research, its accuracy and consistency across the multi-temporal nature of UAVs remain largely unexplored.  This study evaluated four ITS algorithms, namely Dalponte2016, Silva2016, Li2012, and Watershed, applied to four years of UAV-LiDAR data (2022–2025) collected over a coastal Douglas-fir genetic trial site established in 2003 near Jordan River, Vancouver Island, British Columbia.  Normalized point clouds with a density of approximately 100 points/m² were processed using the lidR package in R. Algorithm performance was assessed against a field-referenced dataset of 1,526 live trees using precision, recall, and F-score metrics. Silva2016 and Dalponte2016 achieved the highest overall performance, with peak F‑scores of 0.78 and 0.77, respectively, showing balanced and consistent tree detection across all four years. The Watershed algorithm exhibited the highest precision (0.91–0.92) but very low recall (0.30–0.36), consistently missing over 1,000 trees. Algorithm performance was influenced by more than two decades of unmanaged stand development, which reduced the structural regularity of the gridded trial plot and created canopy conditions more typical of complex natural forests. High tree mortality (~42%) further degraded performance by introducing dead trees and canopy gaps, particularly affecting the Watershed and Li2012 algorithms. These results suggest that Dalponte2016 and Silva2016 are more suitable for repeated surveys in structurally dense trial plots, highlighting the need to consider stand structure, development history, and mortality when selecting ITS methods for forest phenotyping."
+  ],
+  "dct_identifier_sm": [
+    "1127693_73894_115983",
+    "https://doi.org/10.5683/SP3/P3IFZ7"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/P3IFZ7\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Individual tree segmentation using multi-temporal unmanned aerial vehicle (UAV) data",
+  "gbl_mdModified_dt": "2026-04-28T16:34:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2c2fed74-ea85-5393-baaf-bc9269639104",
+  "locn_geometry": "ENVELOPE(-124.03486, -124.03307, 48.43127, 48.42963)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

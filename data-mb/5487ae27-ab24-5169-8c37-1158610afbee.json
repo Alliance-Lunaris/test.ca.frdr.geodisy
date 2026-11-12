@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-103.10231692305774, -92.6762915324355, 54.14110823950956, 48.64514480042085)",
+  "dcat_keyword_sm": [
+    "Chronic Wasting Disease",
+    "wildlife",
+    "Open Data",
+    "game hunting area",
+    "CWD",
+    "Government of Manitoba",
+    "Province of Manitoba",
+    "GHA",
+    "Manitoba Government"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>Cette carte web permet la visualisation et l'interprétation des données de surveillance de la maladie débilitante chronique (MDC) à travers la province. Elle est conçue pour être utilisée dans un tableau de bord ArcGIS accessible au public afin d'aider à suivre les tendances spatiales et à communiquer les efforts de surveillance.</p><p>La carte contient les couches de données suivantes :</p><ul><li><strong>Zone de surveillance obligatoire de la CWD :</strong> Affiche la limite de la région actuelle de gestion et de surveillance obligatoire de la CWD. Tous les prélèvements de cervidés dans cette zone doivent avoir un échantillon soumis à un dépôt biologique de la faune du Manitoba.</li><li><strong>Dépôts d'échantillons biologiques </strong>: Lieux où les chasseurs peuvent soumettre des échantillons de cervidés prélevés pour le test de la CWD, représentés par des points.</li><li><strong>Carte thermique de répartition des échantillons : </strong>Une couche thermique basée sur la densité visualisant l'intensité spatiale des soumissions d'échantillons de cervidés, fournissant un aperçu de la couverture et de l'effort de l'enquête.</li><li><strong>Localisations des cas positifs : </strong>Points symbolisés indiquant où des résultats de test positifs confirmés de la CWD ont été détectés au Manitoba.</li></ul><p>Cette carte a pour but de faciliter la compréhension de la maladie débilitante chronique, de guider les futurs efforts d'échantillonnage et d'informer les parties prenantes ainsi que le public.</p>"
+  ],
+  "dct_identifier_sm": [
+    "6459b85336fe42028846af308d1f8fdc",
+    "https://www.arcgis.com/home/item.html?id=6459b85336fe42028846af308d1f8fdc"
+  ],
+  "dct_issued_s": "2025-12-31",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/maps/manitoba::carte-web-du-tableau-de-bord-cw\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Carte web du tableau de bord CW",
+  "gbl_mdModified_dt": "2026-04-01T16:16:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5487ae27-ab24-5169-8c37-1158610afbee",
+  "locn_geometry": "ENVELOPE(-103.10231692305774, -92.6762915324355, 54.14110823950956, 48.64514480042085)",
+  "schema_provider_s": "Data MB"
+}

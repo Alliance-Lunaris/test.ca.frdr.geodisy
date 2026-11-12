@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-129.26513671874994, -123.90380859374997, 52.38901106223457, 49.38237278700956)",
+  "dcat_keyword_sm": [
+    "place-name",
+    "other",
+    "name",
+    "oceans",
+    "site",
+    "place",
+    "hakai",
+    "downloadable-data",
+    "annotations",
+    "autre",
+    "label",
+    "airborne-coastal-observatory",
+    "geospatial",
+    "location",
+    "service"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Service des noms de lieux Hakai - Côte de la Colombie-Britannique - Canada"
+  ],
+  "dct_creator_sm": [
+    "Hakai Geospatial (Hakai Institute).",
+    "GeoBC Branch (Government of British Columbia).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "The place names service is derived from the British Columbia Terrain Resource Information Management Program (TRIM) annotation layer, as well as from place name information from the Hakai Institute.\n\nThe place names service consists of 4 layers:\n-TRIM 1:20000 Annotation\n-TRIM 1:1250000 Annotation\n-TRIM 1:250000 Annotation\n-Hakai Place Names\n\nThe TRIM Annotation metadata is available here http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation\nMore information about the TRIM program is here: http://geobc.gov.bc.ca/base-mapping/atlas/trim/\n\nThe Hakai Places Layer has the following attributes:\nOBJNAM: Name of the feature\nLandmarks: Code used to classify objects for labelling scale dependencies\nOBJTYPE: Type of object\nOBJCLASS: Class of object\nLABGROUP: Label group category (unused)\n\nProcessing by:\nWill McInnes, Keith Holmes (Hakai Institute), and BC Base Annotations data",
+    "Le service de noms de lieux est dérivé de la couche d'annotations TRIM (British Columbia Terrain Resource Information Management Program), ainsi que des informations sur les noms de lieux de l'Institut Hakai.\n\nLe service des noms de lieux se compose de 4 couches :\n-TRIM 1:20000 Annotation\n-TRIM 1:1250000 Annotation\n-TRIM 1:250000 Annotation\n-Noms de lieux Hakai\n\nLes métadonnées d'annotation TRIM sont disponibles ici http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation\nVous trouverez plus d'informations sur le programme TRIM ici : http://geobc.gov.bc.ca/base-mapping/atlas/trim/\n\nLa couche Hakai Places possède les attributs suivants :\nOBJNAM : Nom de la fonctionnalité\nPoints de repère : Code utilisé pour classer les objets pour l'étiquetage des dépendances d'échelle\nOBJTYPE : Type d'objet\nOBJCLASS : Classe d'objet\nLABGROUP : catégorie de groupe d'étiquettes (inutilisée)\n\nTraitement par :\nDonnées de Will McInnes, Keith Holmes (Hakai Institute) et BC Base Annotations"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b6621a3c-1700-4015-a359-56b6c7155835"
+  ],
+  "dct_issued_s": "2015-11-18",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b6621a3c-1700-4015-a359-56b6c7155835\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Hakai Place Names Service - Coastal British Columbia - Canada",
+  "gbl_mdModified_dt": "2026-09-22T21:23:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9249732c-7419-5d4a-8118-ccd16a2e7518",
+  "locn_geometry": "ENVELOPE(-129.26513671874994, -123.90380859374997, 52.38901106223457, 49.38237278700956)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

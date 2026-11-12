@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.1801, -90.9202, 58.9958, 48.8698)",
+  "dcat_keyword_sm": [
+    "Administrative",
+    "Open Data",
+    "Treaty Land Entitlement",
+    "Government information",
+    "Government",
+    "CIZ",
+    "Boundary",
+    "Community Interest Zone",
+    "First Nations",
+    "Manitoba Government",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Zones d'intérêt communautaire au Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon dataset represents Community Interest Zones (CIZ) reserved on behalf of 21 Entitlement First Nations as per the Treaty Land Entitlement Framework Agreement and the Notice Area for the Peguis Treaty Entitlement Agreement.  \n  \n  The Community Interest Zone (CIZ) dataset illustrates consultation areas reserved on behalf of 21 Entitlement First Nations represented by the Treaty Land Entitlement Committee as contained within the Treaty Land Entitlement Framework Agreement signed May 29th 1997, and the Peguis Treaty Entitlement Agreement signed April 29, 2008. The CIZ boundary is based on the 1:500,000 Province of Manitoba base map and a 30-km radius drawn from a specific existing reserve boundary. The boundary of the Peguis Notice Area was included in the Peguis Treaty Entitlement Agreement and has been digitized using a heads-up digitizing method. The areas have been squared off to include the whole section where only part of a section is intersected by the 30-km radius. For more information on individual agreements please visit the Manitoba government website: https://www.gov.mb.ca/inr/settlements-and-other-agreements/index.html Fields included [Alias (Field Name): Field description] OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generated ID Number (ID): A unique number identifying the Community Interest Zone First Nation (FIRST_NATION): Name of the First Nation for whom the Community Interest Zone area is reserved Community Interest Zone Name (NAME): Name of Community Interest Zone area",
+    "Cet ensemble de données polygonales représente les zones d'intérêt communautaire (CIZ) réservées au nom de 21 Premières Nations titulaires conformément à l'Accord-cadre sur les droits fonciers issus des traités et à la zone de notification de l'Accord sur les droits issus des traités de Peguis.  \n  \n  L'ensemble de données sur les zones d'intérêt communautaire (CIZ) illustre les zones de consultation réservées au nom de 21 Premières nations titulaires représentées par le Comité des droits fonciers issus des traités, conformément à l'Accord-cadre sur les droits fonciers issus des traités signé le 29 mai 1997 et à l'Accord sur les droits issus des traités de Peguis signé le 29 avril 2008. La limite de la CIZ est basée sur la carte de base de la province du Manitoba au 1/500 000 et sur un rayon de 30 km tracé à partir d'une limite de réserve existante spécifique. Les limites de la zone de notification de Peguis ont été incluses dans l'accord sur les droits issus du traité de Peguis et ont été numérisées à l'aide d'une méthode de numérisation tête haute. Les zones ont été quadrillées pour inclure l'ensemble de la section où seule une partie d'une section est coupée par un rayon de 30 km. Pour plus d'informations sur les accords individuels, veuillez consulter le site Web du gouvernement du Manitoba : https://www.gov.mb.ca/inr/settlements-and-other-agreements/index.html Champs inclus [Alias (nom du champ) : description du champ] OBJECTID (OBJECTID) : Nombres entiers uniques séquentiels générés automatiquement Numéro d'identification (ID) : Numéro unique identifiant la zone d'intérêt communautaire Première nation (FIRST_NATION) : Nom de la zone d'intérêt communautaire pour laquelle la zone d'intérêt communautaire est réservée Nom de la zone d'intérêt communautaire (NOM) : Nom de la zone d'intérêt communautaire  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2fd26b01-197a-f65e-0fc8-bfafcbeefd65"
+  ],
+  "dct_issued_s": "2022-02-16",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2fd26b01-197a-f65e-0fc8-bfafcbeefd65\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "society_and_culture"
+  ],
+  "dct_title_s": "Community Interest Zones in Manitoba",
+  "gbl_mdModified_dt": "2025-02-05T19:08:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bc59048c-f4ae-5d98-81ea-8688fa561e45",
+  "locn_geometry": "ENVELOPE(-102.1801, -90.9202, 58.9958, 48.8698)",
+  "schema_provider_s": "Open Data Canada"
+}

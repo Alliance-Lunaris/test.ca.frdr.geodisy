@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Routes provinciales",
+    "Référentiel routier",
+    "Classification des routes",
+    "Référentiel géographique",
+    "Tracé des routes",
+    "Autoroutes",
+    "Gestion de parcours",
+    "Topologie routière",
+    "Segment de route",
+    "Réseau routier",
+    "Tronçons routiers",
+    "Banque de données routières",
+    "Voies de circulation",
+    "Routes municipales",
+    "Réseau routier du Québec",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l’information géospatiale."
+  ],
+  "dct_description_sm": [
+    "<span style=\"color:#043D5F\"><strong>Veuillez noter qu’un service Web est présentement en développement et sera lancé à l'été 2026 . Pour être informé dès sa mise en ligne et rester à l’affût des nouveautés géospatiales, abonnez-vous à notre infolettre [ActuGÉO.](https://mrnf.gouv.qc.ca/ministere/cartes-information-geographique/repertoire-services-web-donnees-geographiques/actugeo/)</strong></span>\r\n\r\nLe Référentiel québécois du réseau routier (RQRR) regroupe l’ensemble des routes du territoire québécois ainsi que plusieurs attributs descriptifs relatifs aux caractéristiques de la route, notamment les composantes principales suivantes :\r\n\r\n* Le nom de la rue (odonyme)\r\n* La gestion de parcours (ex.: vitesses, interdictions de virages, sens de circulation)\r\n* Les structures\r\n* Les tranches d’adresses\r\n* Le nom et le code de la municipalité\r\n* La gestion de la route\r\n* La date de création, de modification et de retrait\r\n* Etc.\r\n\r\nLe RQRR est issu de l’intégration de données en collaboration avec le milieu municipal et les partenaires de production : Élections Québec, le ministère des Affaires municipales de l’Habitation, et le ministère des Transports et de la Mobilité durable.\r\n\r\nCes données comprennent les réseaux routiers municipal et supérieur (autoroutes, boulevards, etc.) géolocalisés. Ce référentiel est mis à jour mensuellement, et il est offert dans un format de type fichier unique (*flat file*).\r\n\r\nUn [fichier CSV](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/Odonymes_Renvois/CSV/Odonymes_renvois.csv) contenant l’ensemble des odonymes ainsi que les renvois est également disponible dans la section données ci-dessous. Les renvois permettent d’effectuer le suivi des modifications apportées aux noms de rues. \r\n\r\nLe RQRR peut être utilisé en complément du [Référentiel québécois des adresses  (RQA )](https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-des-adresses)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/5d875628-c276-4f5b-9c76-d8c46ee20a66"
+  ],
+  "dct_issued_s": "2025-10-03",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/5d875628-c276-4f5b-9c76-d8c46ee20a66\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Infrastructures"
+  ],
+  "dct_title_s": "Référentiel québécois du réseau routier",
+  "gbl_mdModified_dt": "2026-09-15T13:07:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1f2501cd-1a9f-5af9-ab22-80d3cc503bee",
+  "schema_provider_s": "Données Québec"
+}

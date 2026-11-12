@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "# #Archive data from the 2018 Hydroclimatic Atlas\n## #Description\nThe Hydroclimatic Atlas describes the current and future water regime in southern Quebec in order to support the implementation of water management practices that are resilient to climate change.\n## #Avertissement\nThe 2018 version of the Atlas is now replaced by a more recent version on the website. Data from the 2018 version is archived on Data Québec for reference, for example for old reports or analyses referring to this version of the data. Any new study or analysis should use the most recent data available on [Data Quebec (Hydroclimatic Atlas 2022)] (https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2022) or on the Atlas website (www.cehq.gouv.qc.ca/atlas-hydroclimate-).\n## #Liste of available data\n* Map of river sections from the Hydroclimatic Atlas with their attributes (available in GeoJSON and shapefile format).\n* The CSV tables (“Magnitude...”) for each of the 28 hydrological indicators describing the __ampliture__ and the __direction__ for RCP4.5 and RCP8.5, for the three future horizons (see documentation for details).\n* The CSV tables (“Projected Indicator...”) for each of the 28 hydrological indicators detailing the flow values with their uncertainty for the historical period and the three future horizons (RCP4.5 and 8.5). See documentation for more details.\n* A more detailed [PDF with metadata and description] (https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2018/resource/7af10f58-75a0-4839-b9f0-2b9728cb447d) of the data.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/89c0b643-99af-4a23-9689-45628d8d742f"
+  ],
+  "dct_issued_s": "2024-04-04",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/89c0b643-99af-4a23-9689-45628d8d742f\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "2018 Hydroclimatic Atlas",
+  "gbl_mdModified_dt": "2026-05-27T19:07:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3942d805-e04a-5ea9-87ca-fbf403857385",
+  "locn_geometry": "ENVELOPE(-79.0, -64.6, 49.0, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

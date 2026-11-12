@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "Ensemble Forecast",
+    "Government information",
+    "Province of Manitoba",
+    "Weather Models",
+    "SubBasins",
+    "GEPS",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes prévues dans le bassin - GEPS 384 heures"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "Shows sub-basin-averaged precipitation from the GEPS ensemble, reflecting the mean (or other metrics) of multiple ensemble members. Useful to understand probabilistic rainfall/snowfall expectations for each watershed.\n\nGEPS is ECCC’s ensemble system, running ~20 members globally to quantify forecast uncertainty out to ~16 days. This layer aggregates ensemble precipitation data over sub-basin polygons. The attribute “Average Accumulated Precipitation” often represents the ensemble mean, capturing a more probable average scenario. Operators can use this for risk-based hydrological planning or to gauge confidence in upcoming flood/drought scenarios across different sub-basins.",
+    "Affiche les précipitations moyennes par sous-bassin pour l'ensemble GEPS, reflétant la moyenne (ou d'autres paramètres) de plusieurs membres de l'ensemble. Utile pour comprendre les prévisions probabilistes de précipitations et de chutes de neige pour chaque bassin versant.\n\nLe GEPS est le système d'ensemble d'ECCC, qui compte environ 20 membres dans le monde pour quantifier l'incertitude des prévisions sur une période d'environ 16 jours. Cette couche regroupe les données de précipitations d'ensemble sur les polygones des sous-bassins. L'attribut « Précipitations accumulées moyennes » représente souvent la moyenne de l'ensemble, ce qui correspond à un scénario moyen plus probable. Les opérateurs peuvent l'utiliser pour une planification hydrologique basée sur les risques ou pour évaluer la confiance dans les scénarios d'inondation et de sécheresse à venir dans différents sous-bassins.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5482d4f0-64b2-8868-3fff-15638cfe7cee"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5482d4f0-64b2-8868-3fff-15638cfe7cee\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation - GEPS 384 hrs",
+  "gbl_mdModified_dt": "2026-03-18T11:31:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0e427dbb-ec89-5208-8573-19986cadf34d",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

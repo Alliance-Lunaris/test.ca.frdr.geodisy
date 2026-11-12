@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Visual object recognition",
+    "Visual perception",
+    "Perception visuelle"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Arguin, Martin (Université de Montréal). ORCID: https://orcid.org/0000-0002-1036-2932"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the complete stimuli and data associated with the study The features subtending visual object recognition (Arguin et al., submitted to Vision Research, 2026). The archive includes five compressed files, each corresponding to one experiment.\n\nEach archive contains: (1) images of the experimental objects, (2) a MATLAB file (“aperture_centres.mat”) specifying the possible aperture coordinates within the images, and (3) two folders containing individual participant raw data (trial-level “allData” matrices) and z-scored classification images. The dataset enables replication of the analyses examining the visual features involved in object recognition.",
+    "Cet ensemble de données contient les stimuli et les données complètes associés à l’étude The features subtending visual object recognition (Arguin et al., soumis à Vision Research, 2026). L’archive comprend cinq fichiers compressés correspondant chacun à une expérience.\n\nChaque archive inclut : (1) les images des stimuli expérimentaux, (2) un fichier MATLAB (« aperture_centres.mat ») donnant les coordonnées possibles des apertures dans les images, et (3) deux dossiers contenant respectivement les données brutes individuelles des participants (matrices « allData » par essai) et les images de classification normalisées (z-score). L’ensemble permet la reproduction des analyses portant sur les caractéristiques visuelles impliquées dans la reconnaissance d’objets."
+  ],
+  "dct_identifier_sm": [
+    "1107583_690918",
+    "https://doi.org/10.5683/SP3/MV1KLX"
+  ],
+  "dct_issued_s": "2026-03-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MV1KLX\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "The features subtending visual object recognition",
+  "gbl_mdModified_dt": "2026-03-24T16:30:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c0ddf1e7-a13a-59de-986a-09884c721a55",
+  "pcdm_memberOf_sm": [
+    "Martin Arguin Dataverse"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Pedestrian trail network.\n\n**Collection context**\n Updates provided by the recreation department.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_PIETON` (`integer`): Identifier\n* `Type` (`varchar`): Type\n* `LOCATION` (`varchar`): Location\n* `LABEL` (`varchar`): Label\n* `Coating` (`nchar`): Coating\n* `DATE_INSTALLE` (`smalldatetime`): Installed on\n* `Project` (`varchar`): Projected\n* `LENGTH` (`numeric`): Length\n* `NOTES` (`varchar`): Notes\n* `SOURCE` (`varchar`): Source\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Réseau de sentiers piétonniers.\n\n**Contexte de collecte**\n Mises à jour fournies par le service des loisirs.\n\n**Méthode de collecte**\n Cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_PIETON` (`integer`) : Identifiant\n* `Type` (`varchar`) : Type\n* `LOCALISATION` (`varchar`) : Localisation\n* `ETIQUETTE` (`varchar`) : Étiquette\n* `Revetement` (`nchar`) : Revêtement\n* `DATE_INSTALLE` (`smalldatetime`) : Installé le\n* `Projete` (`varchar`) : Projeté\n* `LONGUEUR` (`numeric`) : Longueur\n* `NOTES` (`varchar`) : Notes\n* `SOURCE` (`varchar`) : Source\n* `DATE_CREATION` (`smalldatetime`) : Créé le\n* `DATE_MODIFICATION` (`smalldatetime`) : Modifié le\n* `USER_MODIFICATION` (`varchar`) : Modifié par\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9e3fc36f-6ff0-4bda-acf7-7d6bb45ac866"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9e3fc36f-6ff0-4bda-acf7-7d6bb45ac866\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Voies piétonnières et sentiers - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:10:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4d17f6ee-bc09-59c3-b33e-c149b76e82fa",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

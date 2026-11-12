@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.004223, -109.999992, 60.000279, 48.997571)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This GIS dataset represents a reclassification of existing surficial map information for the purpose of portraying the distribution of sand and gravel deposits in Alberta. The surficial geology of Alberta ungeneralised digital mosaic (Alberta Geological Survey DIG2013-0001) represents the primary source of information used in this reclassification. This dataset was updated with more recently published 1:100,000 scale surficial geology maps, and where appropriate new polygon features that were digitized from line features in the Glacial Landforms of Alberta (Alberta Geological Survey Map 604 and DIG2014-0022). The updated surficial geology mosaic was then reclassified using a thematically-based attribute table which categorizes the original surficial geology features based on their sand and gravel component. Attributes within this table comprise: (1) an approximation of the material type (MATERIAL). (2) the aerial proportion that this material represents of the polygon, as a percentage (PROPORTION). (3) an indication of whether the sand and gravel unit is mapped at the land surface or is buried (SRF_BURIED). (4) the depositional environment relating to the sand and gravel unit (GENESIS). (5) the reference source to the original data (SOURCE_MAP). (6) the GIS dataset from which the features were derived (DATASET). and (7) the mapping scale (SCALE). The MATERIAL honours the original surficial geology polygons when sufficiently precise texture/material information was provided. Otherwise MATERIAL is based on the typical range of materials that are associated with each surficial geology unit on a litho-genetic basis, using the standard Alberta Geological Survey surficial geology legend. When multiple surficial geological units that contain sand and gravel are present within a single polygon (i.e. 60% eolian deposits and 40% fluvial deposits), MATERIAL reflects the unit with the greatest proportion. For geological units whose material properties are of marginal significance as a sand and gravel deposit, particularly those that contain a mixture of silt and sand, a hierarchy was used to determine whether they are included as sand and gravel deposits. Fluvial deposits, littoral and nearshore deposits, and eolian deposits with a silt textural modifier in the original mapping data were included as potential sand and/or gravel deposits because these units are often interspersed with sand and/or gravel materials. Glaciolacustrine deposits with a silt textural modifier were not included because this environment generally does not result in the deposition of extensive sand and gravel sediments. After all of the attributes had been updated, all polygons that may contain some component of sand or gravel were extracted from this dataset to create the sand and gravel potential for Alberta digital mosaic. With this dataset, users can view the extent of surficial sand and gravel deposits in the province in a single GIS layer without the need to interpret this information from a variety of legends in the original surficial geology datasets. Users can further highlight polygons that may represent more suitable targets for sand and gravel based on the estimated material type (i.e. by eliminating polygons that typically contain large amounts of silt and fine sand), the estimated proportion of sand and gravel within the polygon, and depositional environment. This dataset best portrays sand and gravel potential that occurs at the land surface or in the very near surface, and does not attempt evaluate the sub-surface distribution of sand and gravel units. This dataset also does not provide any direct assessment of aggregate quality or thickness, and the material information is mostly inferred from the general association between certain surficial material types and their geological, depositional environment. Furthermore, the sand and gravel potential dataset is based on surficial geology maps produced at different scales and using different legends, therefore the detail and amount of information provided by these polygons will exhibit regional variations. The mapping scale for each polygon is provided in the SCALE attribute."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c16edb6a-b129-4bbe-8d66-d00dfa76e60c"
+  ],
+  "dct_issued_s": "2022-03-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c16edb6a-b129-4bbe-8d66-d00dfa76e60c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Surficial Sand and Gravel Deposits of Alberta: Digital Mosaic (GIS data, polygon features)",
+  "gbl_mdModified_dt": "2026-03-04T19:32:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "705714df-aa12-5ad5-a08e-01074d770e9f",
+  "locn_geometry": "ENVELOPE(-120.004223, -109.999992, 60.000279, 48.997571)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

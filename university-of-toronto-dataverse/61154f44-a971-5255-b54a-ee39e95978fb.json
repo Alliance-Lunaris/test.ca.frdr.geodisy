@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Canadian History",
+    "Historical GIS",
+    "Historical Railways"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Cartography office, Geography Department (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "The GEORIA mandate is to develop georeferenced databases of environmental, social and health-related data in Canada, over time, to enable researchers to explore these problems in an historical context. The project was designed to build on pre-existing databases created by the two partners involved: Laboratoire de géographie historique/CIEQ de l'Université Laval, and the Department of Geography at the University of Toronto.\n\nThe starting point for the project were the databases developed for mapping purposes by the Historical Atlas of Canada project, and by the Atlas Historique du Quebec. Other research-related data sources available through the partners were added to the data sets. In addition, new data sets were developed by acquiring data from external sources and integrating, combining, or coding them to enhance their use. The long-term goal of the project is to coordinate this data into on-line geographical information systems (GIS) that can be used by researchers and educators alike.\n\nThe web sites for each of the partners linked above are designed to show a few examples of the types of data bases created by the project. They also provide an idea of the utility of GIS tools for exploring these kinds of data sets. For further information about the complete data sets developed for the project, and conditions of access, please contact:\ngeoria@geog.utoronto.ca OR georia@cieq.ulaval.ca.\n\nThe term Georia was constucted from the greek word \" Gê \" and the latin \" Historia \" which together signify Earth and History. Creation of the infrastructure was funded by a grant from the Canadian Foundation for Innovation (CFI) for the project Georeferenced Databases for Assessing the Historical Conditions of Health and the Environment, as well as both university partners.",
+    "Historical Canadian railway lines, places, and transactions in GIS formats.\n HR_rails_NEW contains historical railway lines with dates of activity.  \n\nModified from a proprietary dataset produced by ESRI Canada. \n\n hr_places_all was also created from an ESRI base layer. Points were repositioned using\nthe ESRI base as reference, and new points were also added from the railway\natlas.This set of place names was used as an intermediary layer when making the\nfinal dataset of railway lines. The places named are points where railway\nconstruction dates change."
+  ],
+  "dct_identifier_sm": [
+    "129364_36_85107",
+    "https://doi.org/10.5683/SP2/UCCFVQ"
+  ],
+  "dct_issued_s": "2020-10-14",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/UCCFVQ\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Other",
+    "Arts and Humanities",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Historical Canadian Railroads",
+  "gbl_mdModified_dt": "2022-06-02T14:33:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "61154f44-a971-5255-b54a-ee39e95978fb",
+  "pcdm_memberOf_sm": [
+    "Map & Data Library Dataverse // GEORIA "
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.3311, -121.9943, 55.8743, 48.1771)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nThe Regional Freshwater Index Layers dataset is composed of five single-band raster layers in GeoTIFF format. Each layer corresponds to a marine region, which generally coincide with the following layers from the Species Distribution Modelling Boundaries dataset: Nearshore_HG, Nearshore_NCC, Nearshore_QCS, Nearshore_WCVI, and Shelf_SalishSea. \n\nThe main purpose of the dataset is to supplement existing layers that are used for species distribution modelling in the Pacific nearshore marine environment. Each regional freshwater index layer has the same spatial resolution and extent as other predictor layers for the corresponding region. While salinity layers exist from oceanographic models, they may not capture local difference from smaller scale rivers and streams entering the marine environment. Therefore, these layers are meant to complement salinity layers and are not suitable as a replacement for salinity data in species modelling.\n\nMethods:\nThe cell values represent an estimate of freshwater influence on a 0-1 scale, where a higher value represents a greater level of freshwater influence. Details on how these values are determined is described in the supplemental information section of the metadata. The main data source for these derived products is the B.C. Freshwater Atlas, including the stream network and river polygons layers.\n\nUncertainties:\nThe values in the rasters are not a measure of salinity. The units are an index representing the level of freshwater influence weighted by the stream order and rescaled across regions on a 0-1 scale where only the region with the greatest value has a range of values 0-1 and the other regions are scaled relatively. This is done to ensure that values in one region can be compared to values in another region. As a result, some regions have very small values because the Salish Sea with the Fraser River is dominant, even after applying a rescale factor to the data."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7d6f64fd-f181-4274-b9af-1ef1676495c1"
+  ],
+  "dct_issued_s": "2025-01-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7d6f64fd-f181-4274-b9af-1ef1676495c1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Regional Freshwater Index Layers",
+  "gbl_mdModified_dt": "2026-03-24T08:14:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9b455716-fd56-5f49-94d6-8d9ff0e3936d",
+  "locn_geometry": "ENVELOPE(-133.3311, -121.9943, 55.8743, 48.1771)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

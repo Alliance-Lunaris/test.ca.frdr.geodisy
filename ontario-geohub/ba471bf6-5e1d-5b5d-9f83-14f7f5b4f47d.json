@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.92361712645746, -66.28396868896692, 55.32628339541154, 37.103754177289616)",
+  "dcat_keyword_sm": [
+    "DRAPE",
+    "FGD",
+    "DEM",
+    "Ministry of Natural Resources",
+    "MNR",
+    "digital surface model",
+    "Southwestern Ontario Orthophotography Project",
+    "DSM",
+    "elevation",
+    "Foundation Geospatial Data",
+    "ODCSYNC",
+    "Digital Raster Acquisition Project Eastern Ontario",
+    "Digital Data Information and Business Services Branch",
+    "GeospatialOntario",
+    "SWOOP",
+    "South Central Ontario Orthophotography Project",
+    "SCOOP",
+    "open data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "Zoom in on the map above and click your area of interest or use the Tile Index linked below to determine which package(s) you require for download. Note that the products from the SWOOP 2010 project are not currently packaged for download. To order data from this project see <a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/LIO-LargeData-OrderingInstructions.docx\">LIO Support – Large Data Ordering Instructions</a>. Data sizes are listed below.\n<br /><br />\nThe Digital Surface Models (DSM) are raster elevation products that were generated from the elevation point clouds created via pixel-correlation from aerial photography. A DSM is the highest reflective surface of ground features captured by the sensor. This surface may also be referred to as the first reflective surface. The DSM may include treetops, rooftops, and tops of towers, telephone poles, and other natural or artificial features; or it may include the ground surface if there is no vegetative ground cover.\n<br /><br />\nFor more detailed information about this dataset, refer to the associated User Guide.\n<div>\n<div><br /></div>\n<div>Now also available through a web service which exposes the data for visualization, geoprocessing and limited download.</div><div><br /></div>\n<div>The service is best accessed through the <a href=\"https://developers.arcgis.com/rest/services-reference/enterprise/get-started-with-the-services-directory.htm\" target=\"_blank\">ArcGIS REST API</a>, either directly or by setting up an <a href=\"https://pro.arcgis.com/en/pro-app/2.8/help/projects/connect-to-a-gis-server.htm\" target=\"_blank\">ArcGIS server connection</a> using the REST endpoint URL. The service draws using the Web Mercator projection.</div>\n<div><br /></div>\n<div>For more information on what functionality is available and how to work with the service, read the <a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario-Web-Raster-Services-User-Guide.docx\" target=\"_blank\">Ontario Web Raster Services User Guide</a>. If you have questions about how to use the service, email Geospatial Ontario (GEO) at <a href=\"mailto:geospatial@ontario.ca\" target=\"_blank\">geospatial@ontario.ca</a>.</div>\n<div><br /></div>\n<div><b>Service Endpoints</b></div>\n<div><ul>\n<li><a href=\"https://ws.geoservices.lrc.gov.on.ca/arcgis5/rest/services/Elevation/Ontario_DSM_ImageryDerived/ImageServer\" target=\"_blank\">https://ws.geoservices.lrc.gov.on.ca/arcgis5/rest/services/Elevation/Ontario_DSM_ImageryDerived/ImageServer</a><br /></li>\n<li><a href=\"https://intra.ws.geoservices.lrc.gov.on.ca/arcgis5/rest/services/Elevation/Ontario_DSM_ImageryDerived/ImageServer\" target=\"_blank\">https://intra.ws.geoservices.lrc.gov.on.ca/arcgis5/rest/services/Elevation/Ontario_DSM_ImageryDerived/ImageServer</a> <b>(Government of Ontario Internal Users)</b></li>\n</ul></div>\n\n<strong>Additional Documentation</strong><br />\n<ul>\n<li><a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario-DSM-Imagery-Derived-User-Guide.docx\" target=\"_blank\">Ontario DSM (Imagery-Derived) - User Guide (Word)</a></li>\n</ul>\n<ul>\n<li><a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/OntarioDSM_ImageryDerived_TileIndex.zip\" target=\"_blank\">Ontario DSM (Imagery-Derived) - Tile Index (SHP)</a></li>\n</ul>\n<ul>\n<li><a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/SCOOP2013-VerticalAccuracyAssessment.docx\" target=\"_blank\">SCOOP 2013 DSM - Vertical Accuracy Assessment (Word)</a></li>\n<li><a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/SCOOP%202013%20-%20DSM%20-%20DTM%20-%20Vert%20Accuracy%20Assess%20-%20Data.zip\" target=\"_blank\">SCOOP 2013 DSM - Vertical Accuracy Assessment - Data (SHP)</a></li>\n</ul>\n\n<strong>Product Packages</strong><br />\n<ul>\n<li>SWOOP 2010 - Chatham-Kent - 3.63 GB</li>\n<li>SWOOP 2010 - Elgin - 4.96 GB</li>\n<li>SWOOP 2010 - Essex - 5.0 GB</li>\n<li>SWOOP 2010 - Huron - 7.55 GB</li>\n<li>SWOOP 2010 - Lambton - 8.92 GB</li>\n<li>SWOOP 2010 - Middlesex</li>\n</ul>\n<ul>\n<a href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/OntarioDSM_ImageryDerived_DataPackageLinks.docx\" target=\"_blank\">Data Package Download Links for the Ontario DSM (Imagery-Derived)</a> (Word)\n<li>SCOOP 2013</li>\n<li>DRAPE 2014</li>\n<li>SWOOP 2015</li>\n<li>SCOOP 2018</li>\n<li>DRAPE 2019</li>\n<li>SWOOP 2020</li>\n<li>COOP 2021</li>\n<li>NWOOP 2022</li>\n</ul>\n\n<strong>Status</strong><br />\nOn going: Data is continually being updated\n<br /><br />\n\n<strong>Maintenance and Update Frequency</strong><br />\nAs needed: Data is updated as deemed necessary\n<br /><br />\n\n<strong>Contact</strong><br />\nMinistry of Natural Resources - Geospatial Ontario, <a href=\"mailto:geospatial@ontario.ca\" target=\"_blank\">geospatial@ontario.ca</a></div>"
+  ],
+  "dct_identifier_sm": [
+    "02e849bac00943d6a69c1488b9edb185",
+    "https://www.arcgis.com/home/item.html?id=02e849bac00943d6a69c1488b9edb185"
+  ],
+  "dct_issued_s": "2019-08-23",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-surface-model-imagery-derived\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario"
+  ],
+  "dct_title_s": "Ontario Digital Surface Model (Imagery-Derived)",
+  "gbl_mdModified_dt": "2026-08-13T14:05:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ba471bf6-5e1d-5b5d-9f83-14f7f5b4f47d",
+  "locn_geometry": "ENVELOPE(-101.92361712645746, -66.28396868896692, 55.32628339541154, 37.103754177289616)",
+  "schema_provider_s": "Ontario GeoHub"
+}

@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.7633, -57.07369, 62.58067, 44.9923)",
+  "dcat_keyword_sm": [
+    "Global Biodiversity Information Facility (GBIF)",
+    "Écologie",
+    "Biodiversité"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Beausoleil, Marc-Olivier (McGill University). ORCID: https://orcid.org/0000-0003-3717-3223"
+  ],
+  "dct_description_sm": [
+    "Les données originales proviennent de GBIF.org (26 September 2026, 10.15468/dl.5esprv), avec application de filtres et de jointure spatiale pour inclure les données administratives du Québec.\n\nLes colonnes sont les mêmes (50) que le téléchargement de GBIF : \n<pre>\ngbifID datasetKey occurrenceID publishingOrgKey \nrightsHolder lastInterpreted order infraspecificEpithet \ntaxonRank scientificName verbatimScientificName \nverbatimScientificNameAuthorship taxonKey speciesKey \ncountryCode stateProvince decimalLatitude decimalLongitude \ncoordinateUncertaintyInMeters coordinatePrecision \nelevationAccuracy depthAccuracy occurrenceStatus \nindividualCount basisOfRecord establishmentMeans eventDate \ninstitutionCode collectionCode catalogNumber recordNumber \nrecordedBy identifiedBy dateIdentified typeStatus mediaType \nlicense issue kingdom phylum class family genus species \nlocality elevation depth day month year \n</pre>\n\nPuis ces colonnes additionnelles : \nPour les colonnes MUS_NM_* voir <a href=\"https://www.donneesquebec.ca/recherche/dataset/decoupages-administratifs\">https://www.donneesquebec.ca/recherche/dataset/decoupages-administratifs</a>. \n<pre>\ngeometry : Géométrie en OGC:CRS84\nh3_cell : Résolution cellule H3 niveau 10\nbbox : Boîte ST_Envelope\nMUS_NM_MUN : Noms des municipalités\nMUS_NM_MRC :  Noms des MRC \nMUS_NM_REG : Noms des régions \n</pre>",
+    "<h3>Introduction</h3> \nDonnées de biodiversité comportant les occurrences d'organismes provenant de GBIF. \n\n<h3>Méthodologie</h3> \nExtraction des données de GBIF du Québec avec un polygone, puis une transformation du tableau de données pour ajouter les régions administratives du Québec et filtres pour analyser. Le progiciel R <a href=\"https://github.com/beausoleilmo/evolovr\">evolovr</a> permet la préparation du tableau de données en .parquet. La préparation détaillée se retrouve sur GitHub à l'adresse <a href=\"https://github.com/beausoleilmo/Guide_biodiv_QC\">https://github.com/beausoleilmo/Guide_biodiv_QC</a>"
+  ],
+  "dct_identifier_sm": [
+    "1256120",
+    "https://doi.org/10.5683/SP4/CYRAWN"
+  ],
+  "dct_issued_s": "2026-10-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/CYRAWN\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Other",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Guide de la biodiversité du Québec par région (GBQR)",
+  "gbl_mdModified_dt": "2026-10-29T14:15:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "be142f6a-d939-59ec-9f30-811cf0d22bba",
+  "locn_geometry": "ENVELOPE(-79.7633, -57.07369, 62.58067, 44.9923)",
+  "schema_provider_s": "McGill University Dataverse"
+}

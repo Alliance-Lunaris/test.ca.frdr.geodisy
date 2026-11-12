@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Dynamic Habitat Index. (2000-2005) Satellite derived estimates of photosynthetically active radiation can be obtained from satellites such as MODIS. Knowledge of the land cover allows for calculation the fraction of incoming solar radiation that is absorbed by vegetation. This fraction of photosynthetically active radiation (fPAR) absorbed by vegetation describes rate at which carbon dioxide and energy from sunlight are assimilated into carbohydrates during photosynthesis of plant tissues. The summation of carbon assimilated by the vegetation canopy over time yields the landscape's gross primary productivity. Daily MODIS imagery is the basis for periodic composites and monthly data products. Over the 6 year period from 2000-2005, we calculate the annual average cumulative total of 72 monthly fPAR measurements, to describe the integrated annual vegetative production of the landscape, the integrated average annual minimum monthly fPAR measurement, which describes the annual minimum green cover of the observed landscape, and the integrated average of the annual covariance of fPAR, which describes the seasonality of the observed landscape. We also share the combination of the annual integrated values for visualization and analysis as the Dynamic Habitat Index (with additional information in Coops et al. 2008). When using this data, please cite as: Coops, N.C., Wulder, M.A., Duro, D.C., Han, T. and Berry, S., 2008. The development of a Canadian dynamic habitat index using multi-temporal satellite estimates of canopy light absorbance. Ecological Indicators, 8(5), pp.754-766. ( Coops et al. 2008)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7d4df1c9-02f4-4ab2-ac1a-fd4b67f785f2"
+  ],
+  "dct_issued_s": "2020-12-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7d4df1c9-02f4-4ab2-ac1a-fd4b67f785f2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Dynamic Habitat Index (2000-2006)",
+  "gbl_mdModified_dt": "2026-03-16T16:05:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3d256193-25bf-5b46-8a39-de95c4f0ed1f",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

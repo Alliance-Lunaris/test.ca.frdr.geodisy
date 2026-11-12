@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Diet Analysis",
+    "Predator Prey Interactions"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Thomas, Austen C. (University of British Columbia).",
+    "Deagle, Bruce E. (Australian Antarctic Division, University of British Columbia).",
+    "Eveson, J. Paige (Commonwealth Scientific and Industrial Research Organisation).",
+    "Harsch, Corie H. (University of British Columbia).",
+    "Trites, Andrew W. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/pO28HGR3P868SmT7zbgGs663nfkkogrQfWNeZGF01aw</p>\n<p><b>Storage size:</b> 745061847</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>DNA metabarcoding is a powerful new tool allowing characterization of species assemblages using high-throughput amplicon sequencing. The utility of DNA metabarcoding for quantifying relative species abundances is currently limited by both biological and technical biases which influence sequence read counts. We tested the idea of sequencing 50/50 mixtures of target species and a control species in order to generate relative correction factors (RCFs) that account for multiple sources of bias and are applicable to field studies. RCFs will be most effective if they are not affected by input mass ratio or co-occurring species. In a model experiment involving three target fish species and a fixed control, we found RCFs did vary with input ratio but in a consistent fashion, and that 50/50 RCFs applied to DNA sequence counts from various mixtures of the target species still greatly improved relative abundance estimates (e.g. average per species error of 19 ± 8% for uncorrected vs. 3 ± 1% for corrected estimates). To demonstrate the use of correction factors in a field setting, we calculated 50/50 RCFs for 18 harbour seal (Phoca vitulina) prey species (RCFs ranging from 0.68 to 3.68). Applying these corrections to field-collected seal scats affected species percentages from individual samples (Δ 6.7 ± 6.6%) more than population-level species estimates (Δ 1.7 ± 1.2%). Our results indicate that the 50/50 RCF approach is an effective tool for evaluating and correcting biases in DNA metabarcoding studies. The decision to apply correction factors will be influenced by the feasibility of creating tissue mixtures for the target species, and the level of accuracy needed to meet research objectives.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Model System Data</h4><div class=\"o-metadata__file-description\">Please see ReadMe file</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Prey_Library_Data</h4><div class=\"o-metadata__file-description\">Please see ReadMe file</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Supplemental_Files</h4><div class=\"o-metadata__file-description\">Tissue mix sequence counts\r\n\r\nCustom BLAST database\r\n\r\nModel system species sequences</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153268_1226260_150149",
+    "https://doi.org/10.5683/SP2/L3D0RU"
+  ],
+  "dct_issued_s": "2021-05-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/L3D0RU\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Quantitative DNA metabarcoding: improved estimates of species proportional biomass using correction factors derived from control material",
+  "gbl_mdModified_dt": "2021-05-20T15:14:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c4b20d88-dbf7-5788-9500-afa67554fad1",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

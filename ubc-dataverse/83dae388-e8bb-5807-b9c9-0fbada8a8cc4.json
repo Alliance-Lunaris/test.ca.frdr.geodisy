@@ -1,0 +1,78 @@
+{
+  "dcat_keyword_sm": [
+    "Bureelia antiqua",
+    "Pthirus pubis",
+    "Genome sequencing",
+    "Pedicinus badii",
+    "Antarctopthirus microchir",
+    "Proechinopthirus fluctus",
+    "Holocene",
+    "Bothriometopus macrocnemus",
+    "Hoplopleura arboricola",
+    "Linognathus spicatus",
+    "Haematopinus eurysternus",
+    "present day",
+    "gene assembly",
+    "Pthirus gorillae",
+    "Stimulopalpus japonicus",
+    "Osborniella crotophagae",
+    "aTRAM",
+    "Pediculus humanus",
+    "Degeeriella rufa",
+    "Neohaematopinus pacificus",
+    "Pediculus schaeffi",
+    "Haematopinus\teurysternus",
+    "Pedicinus\tbadii"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Allen, Julie M. (University of Illinois at Urbana Champaign).",
+    "Boyd, Bret (University of Illinois at Urbana Champaign).",
+    "Nguyen, Nam-Phuong (University of Illinois at Urbana Champaign).",
+    "Vachaspati, Pranjal (University of Illinois at Urbana Champaign).",
+    "Warnow, Tandy (University of Illinois at Urbana Champaign).",
+    "Huang, Daisie I. (University of British Columbia).",
+    "Grady, Patrick G. S. (University of Illinois at Urbana Champaign).",
+    "Bell, Kayce C. (University of New Mexico).",
+    "Cronk, Quentin C.B. (University of British Columbia).",
+    "Mugisha, Lawrence (Conservation and Ecosystem Health Alliance).",
+    "Pittendrigh, Barry R. (Michigan State University).",
+    "Soledad Leonardi, M. (Instituto de Biología de Organismos Marinos, Centro Nacional Patagónico, Puerto Madryn, Argentina).",
+    "Reed, David L. (Florida Museum of Natural History).",
+    "Johnson, Kevin P. (University of Illinois at Urbana Champaign)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/PR_oEYNZ-85sEFxTV9xmFYeC22Nk8_UTs1QalxMiACs</p>\n<p><b>Storage size:</b> 8736762</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Novel sequencing technologies are rapidly expanding the size of data sets that can be applied to phylogenetic studies. Currently the most commonly used phylogenomic approaches involve some form of genome reduction. While these approaches make assembling phylogenomic data sets more economical for organisms with large genomes, they reduce the genomic coverage and thereby the long-term utility of the data. Currently, for organisms with moderate to small genomes (<1000 Mbp) it is feasible to sequence the entire genome at modest coverage (10−30×). Computational challenges for handling these large data sets can be alleviated by assembling targeted reads, rather than assembling the entire genome, to produce a phylogenomic data matrix. Here we demonstrate the use of automated Target Restricted Assembly Method (aTRAM) to assemble 1107 single-copy ortholog genes from whole genome sequencing of sucking lice (Anoplura) and out-groups. We developed a pipeline to extract exon sequences from the aTRAM assemblies by annotating them with respect to the original target protein. We aligned these protein sequences with the inferred amino acids and then performed phylogenetic analyses on both the concatenated matrix of genes and on each gene separately in a coalescent analysis. Finally, we tested the limits of successful assembly in aTRAM by assembling 100 genes from close- to distantly related taxa at high to low levels of coverage.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Concatenated alignment and tree</h4><div class=\"o-metadata__file-description\">Alignment and phylogenetic tree of the concatenated 1,101 exon DNA alignment from 15 louse taxa.  Genes were assembled from raw genomic DNA with aTRAM and exons extracted and stitched together. Third codon position was removed due to base composition bias, and tree build in RAxML.</div><div class=\"o-metadata__file-name\">Dataset_1.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Individual Gene Trees and Alignments</h4><div class=\"o-metadata__file-description\">All 1,101 gene trees and alignments for the 15 taxon dataset. Each gene was aligned using PASTA and UPP for fragmentary sequences. Each gene tree was built using ASTRAL.</div><div class=\"o-metadata__file-name\">Dataset_2.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SupplementaryTable</h4><div class=\"o-metadata__file-description\">DNA extraction, and quality clean up for each dataset. Illumina reads. Alignments of each gene and the tree analysis.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Supplementary Figure</h4><div class=\"o-metadata__file-description\">Box plot of the standard deviations away from mean for\r\neach codon position for each of the GTR rate parameters. The majorities of the extreme outliers fell above 10 standard deviations from the mean and were removed from the analysis.</div><div class=\"o-metadata__file-name\">SupplementalFigure1.pdf</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153084_150149",
+    "https://doi.org/10.5683/SP2/JQGMVL"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/JQGMVL\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "World Wide"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Phylogenomics from whole genome sequences using aTRAM",
+  "gbl_mdModified_dt": "2021-05-20T03:25:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83dae388-e8bb-5807-b9c9-0fbada8a8cc4",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

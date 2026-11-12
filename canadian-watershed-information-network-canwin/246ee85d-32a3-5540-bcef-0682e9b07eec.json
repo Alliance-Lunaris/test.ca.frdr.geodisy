@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-94.6070515877, -93.7822780979, 58.9631135959, 58.5448288885)",
+  "dcat_keyword_sm": [
+    "AERIAL PHOTOGRAPHS",
+    "kayak",
+    "Churchill estuary",
+    "video",
+    "Beluga",
+    "boat",
+    "Unmanned Aerial Vehicle"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "Aerial imagery surveys are commonly used in marine mammal research to determine population size, habitat distribution and habitat use. Analysis of aerial photos involves hours of manually identifying individuals present in each image and converting raw counts into useable biological statistics. Our research proposes the use of deep learning algorithms as an assistive technology to increase the efficiency of the marine mammal research workflow. To test the feasibility of this proposal, the existing YOLOv4 convolutional neural network model was trained to detect belugas, kayaks and motorized boats in unmanned aerial vehicle (UAV) imagery. Computer-based object detection achieved an average precision of 61.17% for belugas, 98.58% for boats, and 95.97% for kayaks. We then tested the performance of computer vision tracking of belugas and manned watercraft in UAV videos using the DeepSORT tracking algorithm, achieving a multiple object tracking accuracy (MOTA) ranging from 37% – 88% and multiple object tracking precision (MOTP) between 63% – 86%. Results from this research indicate that deep learning technology can perform at a similar caliber as human annotators in beluga and watercraft detection and tracking, allowing for larger datasets to be processed within a fraction of the time."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b5f259b4-3ace-4750-bfb0-47c4e794082f"
+  ],
+  "dct_issued_s": "2022-02-04",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b5f259b4-3ace-4750-bfb0-47c4e794082f\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Freshwater",
+    "Remote Sensing"
+  ],
+  "dct_title_s": "Churchill Beluga Boat Drone Imagery",
+  "gbl_mdModified_dt": "2026-02-24T00:03:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "246ee85d-32a3-5540-bcef-0682e9b07eec",
+  "locn_geometry": "ENVELOPE(-94.6070515877, -93.7822780979, 58.9631135959, 58.5448288885)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

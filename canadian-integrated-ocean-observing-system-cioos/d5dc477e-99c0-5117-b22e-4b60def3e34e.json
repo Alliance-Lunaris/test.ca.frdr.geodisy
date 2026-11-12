@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.98, -37.05, 40.44, 55.14)",
+  "dcat_keyword_sm": [
+    "Prévisions",
+    "Oceans",
+    "other",
+    "Canada's east coast",
+    "Alexandrium catenella",
+    "modelResult",
+    "Côte est du canada",
+    "Forecasting",
+    "Harmful algal blooms",
+    "phytoplanktonBiomassAndDiversity",
+    "Alexandrium catenella",
+    "GAMM",
+    "Biomasse et diversité de phytoplancton",
+    "GAMM",
+    "floraison d'algues toxiques",
+    "Autre",
+    "résultat de modèle",
+    "model output"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Prévisions de floraison de l’algue toxique Alexandrium catenella dans le golfe et l'estuaire du Saint-Laurent, côte est canadienne"
+  ],
+  "dct_creator_sm": [
+    "Boivin-Rioux, Aude (Fisheries and Oceans Canada (Maurice-Lamontagne Institute), Fisheries and Oceans Canada).",
+    "Starr, Michel (Pêches et Océans Canada, Fisheries and Oceans Canada (Maurice-Lamontagne Institute), Fisheries and Oceans Canada).",
+    "Chassé, Joël (Fisheries and Oceans Canada (Maurice-Lamontagne Institute)).",
+    "Lefaivre, Denis (Fisheries and Oceans Canada).",
+    "Institut Maurice-Lamontagne - Fisheries and Oceans Canada."
+  ],
+  "dct_description_sm": [
+    "**Model output data**\n\n**[Web application algue toxique](https://algues-toxiques.ogsl.ca/)**\n\n### Context\n\nToxic algal blooms can result in significant socioeconomic consequences for affected regions. The increased risk of marine predator mortality (Starr et al., 2017) and preventative closures of shellfish farming sites can severely affect human populations in these regions. Yet, the frequency and geographic extent of toxic algae appear to be changing in several world regions (Gobler, 2020). Climate change is thought to be partly responsible for the perceived increase, and several studies show that toxic algae are sensitive to precipitation and runoff, as well as oceanographic conditions such as salinity and water temperature (Weise et al., 2002; Fauchot et al., 2005; Starr et al., 2017).\n\n\nIn this context, a research program aimed at developing empirical models to predict toxic algal blooms was initiated at the Maurice Lamontagne Institute (Fisheries and Oceans Canada), under the supervision of Michel Starr (Ph.D.), Joël Chassé (Ph.D.), [Aude Boivin-Rioux (MSc)](https://orcid.org/0000-0001-7347-060X) and [Denis Lefaivre (Ph.D.)](https://orcid.org/0000-0001-9374-1569). \n\n\n### Data produced\n\nThe first output of the program is the ** bloom risk prediction model of the toxic alga** ***Alexandrium catenella***. The predictions are updated every six hours and allow to visualize the bloom risk for the next 48 hours. The results of the model are available:\n\n- On ERDDAP\n    - a gridded time series of the bloom risks for the next 24 hours after the forecast time emitted every 6 hours since May 2022\n    - a gridded time series of the bloom risks 25 to 48 hours after the forecast time emitted every 6 hours since May 2022\n    - a time series of the bloom risks for the next 24 hours spatially averaged by selected regions and emitted every 6 hours since May 2022\n- On the [web application algue-toxique](https://algues-toxiques.ogsl.ca/), temporal series of prediction for the selected region(s) and the prediction map from 1-24h and 25-48h. \n\nForecasts from this first operational Canadian *Alexandrium* model are made available to federal and provincial government regulatory agencies (e.g. Fisheries and Oceans Canada, Canadian Food Inspection Agency, Ministry of Agriculture, Fisheries and Food), as well as to the aquaculture industry, municipalities, and local populations that depend primarily on marine resources for their livelihood. \n\n\n### Method used\n\nAn extensive analysis of data collected between 1994 and 2017 on the east coast of the Atlantic by Fisheries and Oceans Canada's harmful algae monitoring program was conducted to develop the empirical *A. catenella* prediction model (Generalized additive mixed model - GAMM)  of the probability of *A. catenella* blooms based on oceanographic conditions. The model is described in more detail in [Boivin-Rioux et al. (2021)](https://www.frontiersin.org/articles/10.3389/fmars.2020.608021/full) and in the data dictionary.  This model was then coupled to Environment and Climate Change's operational weather and ocean forecasting system for eastern Canada (CIOPS-E) to produce maps of *A. catenella* bloom occurrence risk 0 to 48 hours in advance, on a scale from 0 (least probable) to 100 (most probable). The model uses sea surface temperature and sea surface salinity data to produce forecasts. Summary statistics for historical forecasts for daily, weekly and monthly periods are also available.",
+    "**Données de sortie de modèle**\n\n**[Application web algue toxique](https://algues-toxiques.ogsl.ca/)**\n\n\n### Contexte\n\nLes floraisons d’algues toxiques peuvent entraîner des conséquences socioéconomiques importantes pour les régions touchées. En effet, le risque accru de mortalité de prédateurs marins (Starr et al., 2017) ainsi que les fermetures préventives de sites d’élevage de coquillages peuvent affecter durement les populations humaines de ces régions. Or, la fréquence et l’étendue géographique des algues toxiques semblent changer dans plusieurs régions du monde (Gobler, 2020). Les changements climatiques seraient une des causes de l’augmentation perçue, et plusieurs études démontrent que les algues toxiques sont sensibles aux précipitations et au ruissellement, ainsi qu’aux conditions océanographiques telles que la salinité et la température de l’eau (Weise et al., 2002; Fauchot et al., 2005; Starr et al., 2017).\n\n\nDans ce contexte, un programme de recherche visant à développer des modèles empiriques de prévisions des floraisons d’algues toxiques a vu le jour à l’Institut Maurice-Lamontagne (Pêches et Océans Canada), sous la supervision de Michel Starr (PhD), Joël Chassé (PhD), [Aude Boivin-Rioux (MSc)](https://orcid.org/0000-0001-7347-060X) et [Denis Lefaivre (PhD)](https://orcid.org/0000-0001-9374-1569). \n\n\n### Données produites\n\nLe premier résultat du programme  est le **modèle de prévision du risque de floraison de l’algue toxique** ***Alexandrium catenella***. Les prévisions sont mises à jour aux six heures, et permettent de visualiser le risque de floraison pour les prochaines 48 heures. Les résultats du modèle sont disponibles sous deux formes:\n\n-  Sur ERDDAP:\n    - série temporelle des prédictions de risque de floraison pour les 24 heures suivant l'heure de prédiction émisent toutes les 6 heures depuis le mois de mai 2022\n    - série temporelle des prédictions de risque de floraison pour les 25 à 48 heures suivant l'heure de prédiction émisent toutes les 6 heures depuis le mois de mai 2022\n    - série temporelle des moyennes spatiales par région basées sur les prédictions de risque de floraison pour les 24 heures suivant l'heure de prédiction émisent toutes les 6 heures depuis le mois de mai 2022\n-  Sur [l'application web algue-toxique](https://algues-toxiques.ogsl.ca),  les séries temporelles pour une région selectionnée et la carte générale de prédiction de 1-24h et 25-48h\n\nAinsi, les prévisions de ce premier modèle canadien opérationnel d’*Alexandrium* sont rendues accessibles aussi bien aux organismes de réglementation des gouvernements fédéral et provinciaux (p. ex. Pêches et Océans Canada, l'Agence Canadienne d’Inspection des Aliments, le ministère de l'Agriculture, des Pêcheries et de l'Alimentation), qu’aux industries aquacoles, ainsi qu'aux municipalités et aux populations locales qui dépendent principalement des ressources marines pour leur subsistance. \n\n\n### Méthode utilisée\n\nL'analyse approfondie des données recueillies entre 1994 et 2017 sur la côte est de l'Atlantique dans le cadre des programmes de surveillance des algues nuisibles dePêche et Océans Canada a permis d'élaborer le modèle empirique d’*A. catenella* (modèle mixte additif généralisé - GAMM) qui permet de prédire la probabilité de floraison de cette espèce en fonction des conditions océanographiques. Le modèle est décrit plus en détails dans [Boivin-Rioux et al. (2021)](https://www.frontiersin.org/articles/10.3389/fmars.2020.608021/full) et dans le dictionnaire de données. Ce modèle a été par la suite couplé au système de prévisions météorologique et océanique opérationnel d’Environnement et Changements Climatiques pour l’est du Canada (CIOPS-E) afin de produire des cartes de risque de floraison d’*A. catenella* de 0 à 48 heures d’avance, sur une échelle de 0 (peu probable) à 100 (hautement probable). Le modèle utilise les données de température et de salinité de surface afin de calculer les prévisions. Des statistiques résumées concernant les prévisions historiques, sur des périodes journalière, hebdomadaire et mensuelle sont également disponibles."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/12e451e8-ae82-40fc-aaa2-f494bc6cf6d3"
+  ],
+  "dct_issued_s": "2022-05-10",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/12e451e8-ae82-40fc-aaa2-f494bc6cf6d3\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Forecasting of Alexandrium catenella algal blooms for the estuary and gulf of St. Lawrence, eastern Canada",
+  "gbl_mdModified_dt": "2026-07-31T16:34:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d5dc477e-99c0-5117-b22e-4b60def3e34e",
+  "locn_geometry": "ENVELOPE(-71.98, -37.05, 40.44, 55.14)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

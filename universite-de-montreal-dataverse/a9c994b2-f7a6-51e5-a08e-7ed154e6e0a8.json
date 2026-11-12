@@ -1,0 +1,82 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.357049, -71.244529, 48.2466508, 45.394723)",
+  "dcat_keyword_sm": [
+    "multi-lake",
+    "Particulate organic matter",
+    "dissolved organic carbon",
+    "DNA",
+    "Limnology",
+    "summer",
+    "total nitrogen",
+    "temperate lakes",
+    "Phytoplankton pigments",
+    "phytoplankton samples",
+    "phaeopigments",
+    "pH profiles",
+    "zooplankton samples",
+    "temperature profiles",
+    "sulphate",
+    "winter",
+    "underwater light",
+    "Quebec",
+    "RNA",
+    "fall",
+    "underwater irradiance",
+    "total dissolved nitrogen",
+    "time series",
+    "suspended particulate matter",
+    "spring",
+    "ice thickness",
+    "dissolved oxygen profiles",
+    "Chlorophyll a",
+    "ammonium",
+    "Specific conductivity profiles",
+    "oxygen saturation profiles",
+    "lake monitoring",
+    "secchi",
+    "snow thickness",
+    "major ions"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Tapics, Tara (Université de Sherbrooke). ORCID: https://orcid.org/0000-0003-4217-7632",
+    "Huot, Yannick (Sherbrooke University, Université de Sherbrooke). ORCID: https://orcid.org/0000-0003-1793-761X",
+    "Walsh, David (Concordia University). ORCID: https://orcid.org/0000-0002-9951-5447"
+  ],
+  "dct_description_sm": [
+    "Data were collected every two weeks in summer and every four weeks in winter beginning fall 2012 and ending fall 2015 in the Quebec (Canada) lakes Lac Croche, Lac Montjoie, and Lac SImoncouche. On each sampled date, a temperature profile was taken and analysed to determine if the lake was stratified or not. When stratified, discrete samples were taken for chemical and biological analyses in both the epilimnion and the metalimnion. When mixed, discrete samples for chemical biological samples were taken from one depth within the mixed layer. Profiles of lake oxygen, temperature, conductivity, and pH were taken, as were profiles of phytosynthetically active irradiance (PAR).",
+    "Variables and their units are as follows:\nsecchi depth (m)\nair temperature (°C)\nbarometric pressure (hPa)\nwind speed (m·s−1)\nice thickness (cm)\nsnow thickness (cm)\nlower depth boundary of sampled layer (m)\nsampling depth (m)\nN2O pushback (ml)\nN2O temperature (°C)\nvolume filtered for DNA VfADN (ml)\nvolume filtered for RNA VfARN (ml)\nvolume filtered for particulate matter VfPOM (ml)\nPOMM0 filter mass prior to filtering for SPM (g)\nVfchla volume filtered for chlorophyll a (ml)\nvolume filtered for pigments Vfpigment (ml)\nmean temperature in the sampled layer MeanTemp (°C)\nmean specific conductivity in the sampled layer MeanSpCond (μS cm-1)\nmean pH in the sampled layer MeanpH (-)\nmean oxidation reduction potential MeanORP (mv)\nmean oxygen saturation MeanO2sat (%)\nmean dissolved oxygen MeanO2 (mg·L-1)\nKd (m-1)\nZ_euphotic (m)\nproportion of PAR crossing to the ice-water interface (%)\nammonium NH4 (μg·L-1)\ntotal nitrogen TN (μg·L-1)\ntotal dissolved nitrogen TDN (μg·L-1)\nnitrates and nitrites NO3-NO2- (μg·L-1)\ntotal phosphorous TP (μg·L-1)\ntotal dissolved phosphorous TDP (μg·L-1)\nmass filtered for POC PON (mg)\nsuspended particulate matter SPM (mg·L-1)\nchlorophyll a chla (μg·L-1)\nphaeoopigments pheo (μg·L-1)\ndissolved organic carbon DOC (mg·L-1)\nmajor ions Ca Mg Na K Cl SO4 (mg·L-1)"
+  ],
+  "dct_identifier_sm": [
+    "487530_281357_281358",
+    "https://doi.org/10.5683/SP3/AIDIGQ"
+  ],
+  "dct_issued_s": "2023-12-08",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AIDIGQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada",
+    "Quebec, Canada",
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Replication Data for the Lake Sentinels sampling program: water chemistry, phytoplankton, zooplankton, and profiling data for three Quebec lakes from fall 2012-2015",
+  "gbl_mdModified_dt": "2023-12-08T15:08:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a9c994b2-f7a6-51e5-a08e-7ed154e6e0a8",
+  "locn_geometry": "ENVELOPE(-73.357049, -71.244529, 48.2466508, 45.394723)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

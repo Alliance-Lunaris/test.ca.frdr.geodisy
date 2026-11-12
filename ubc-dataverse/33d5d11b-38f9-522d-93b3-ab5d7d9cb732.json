@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.32795, -119.219513, 50.481641, 50.409255)",
+  "dcat_keyword_sm": [
+    "stream delineation",
+    "flood susceptibility",
+    "ArcGIS",
+    "weighted analysis",
+    "hydrological study",
+    "stream protection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhang, Jean (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Non-Classified Drainages (NCDs), defined as small, ephemeral, or intermittent channels, are important in maintaining hydrologic connectivity and watershed processes but are often excluded from mapped stream networks and management frameworks. This study mapped NCDs and evaluated the effects of incorporating these small channels on flood susceptibility in the Mount Rose Swanson study area in British Columbia, Canada. High-resolution LiDAR data were used to generate a digital elevation model and delineate two stream network scenarios: one including non-classified drainages and one excluding them. Flood susceptibility was then mapped using a multi-criteria approach with topographic, hydrologic, and land surface variables.\n\nIncluding small headwater channels substantially increased drainage network complexity, with total stream length and drainage density increasing by 48.4%. These changes resulted in a shift toward higher flood susceptibility across the watershed. Areas of moderate susceptibility increased from 1162.35 ha to 1516.95 ha, while high susceptibility increased from 155.25 ha to 245.43 ha.  Mean susceptibility increased from 2.32 to 2.47, which indicated an overall increase in flood potential.\n\nThe results demonstrate that excluding small drainage features can underestimate the extent of hydrologically sensitive areas and reduce the representation of flow pathways. Incorporating these channels improves the spatial representation of hydrologic connectivity and provides a more realistic assessment of flood susceptibility. This paper concludes that detailed stream network representation is important for watershed analysis and land management."
+  ],
+  "dct_identifier_sm": [
+    "1147892_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/RF5OC3"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/RF5OC3\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Armstrong, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Small Streams Matter: Mapping Non-Classified Drainages and Flood Susceptibility on Mount Rose Swanson, British Columbia, Canada",
+  "gbl_mdModified_dt": "2026-04-28T16:38:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33d5d11b-38f9-522d-93b3-ab5d7d9cb732",
+  "locn_geometry": "ENVELOPE(-119.32795, -119.219513, 50.481641, 50.409255)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

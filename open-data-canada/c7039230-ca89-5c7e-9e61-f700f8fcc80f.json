@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "Government information",
+    "Administrative boundaries",
+    "Province of British Columbia",
+    "ABMS",
+    "terrestrial",
+    "British Columbia",
+    "province"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Province de la Colombie-Britannique - Frontière terrestre"
+  ],
+  "dct_creator_sm": [
+    "Joy Sinnett."
+  ],
+  "dct_description_sm": [
+    "This dataset consists of polyline, single part, and multi part polygons representing the Province of British Columbia. The terrestrial portion of the boundary was derived from the Administrative Boundaries Management System (ABMS) representation of the province: [Province of British Columbia - Legally Defined Administrative Areas of BC](https://catalogue.data.gov.bc.ca/dataset/a7e32e45-63ae-4f5a-9275-9402b6deebdc). The coastal portion of the boundary differs from the ABMS boundary and was derived from the Freshwater Atlas (FWA): [Freshwater Atlas Coastlines](https://catalogue.data.gov.bc.ca/dataset/87b1d6a7-d4d1-4c25-a879-233becdbffed). This boundary may be updated periodically, as more accurate data becomes available. Due to the structure of the data, it does not meet the technical requirements to be published in the BC Geographic Warehouse (BCGW). It is available for download as an OGC GeoPackage and as an ESRI File Geodatabase in the **Data and Resources** box to the the right.",
+    "Cet ensemble de données se compose de polylignes, de polygones en une seule partie et de polygones en plusieurs parties représentant la province de la Colombie-Britannique. La partie terrestre de la frontière a été dérivée à partir de la représentation du système de gestion des limites administratives (ABMS) de la province : [Province de la Colombie-Britannique - zones administratives légalement définies de la Colombie-Britannique] (https://catalogue.data.gov.bc.ca/dataset/a7e32e45-63ae-4f5a-9275-9402b6deebdc). La partie côtière de la frontière diffère de la limite de l'ABMS et a été dérivée de l'Atlas des eaux douces (FWA) : [Freshwater Atlas Coastlines] (https://catalogue.data.gov.bc.ca/dataset/87b1d6a7-d4d1-4c25-a879-233becdbffed). Cette limite peut être mise à jour périodiquement, au fur et à mesure que des données plus précises deviennent disponibles. En raison de leur structure, les données ne répondent pas aux exigences techniques pour être publiées dans le BC Geographic Warehouse (BCGW). Il est disponible au téléchargement en tant que GeoPackage OGC et en tant que géodatabase de fichiers ESRI dans la zone **Données et ressources** à droite.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/30aeb5c1-4285-46c8-b60b-15b1a6f4258b"
+  ],
+  "dct_issued_s": "2020-06-25",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/30aeb5c1-4285-46c8-b60b-15b1a6f4258b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "government_and_politics"
+  ],
+  "dct_title_s": "Province of British Columbia - Boundary Terrestrial",
+  "gbl_mdModified_dt": "2026-01-28T19:31:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c7039230-ca89-5c7e-9e61-f700f8fcc80f",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

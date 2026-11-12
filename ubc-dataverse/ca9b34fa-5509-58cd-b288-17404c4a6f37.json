@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.22603, -118.19426, 60.00478, 48.22483)",
+  "dcat_keyword_sm": [
+    "Fuel composition",
+    "Fire Weather Index",
+    "Wildfire BC",
+    "Fire Cause",
+    "Wildfire Management,",
+    "Random Forest"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Monash, Nathan (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfire activity in British Columbia has increased in recent decades, with more fires\nescaping initial containment and growing into large, high-impact events. Understanding the\nfactors that influence wildfire escape is critical for improving fire management and resource\nallocation. This study aimed to identify environmental drivers of wildfire escape in the Coast and Prince George Fire Centres using a machine learning approach. Wildfire ignition data were combined with environmental variables describing vegetation, terrain, snow conditions, and fire weather, and Random Forest models were developed to classify whether fires exceeded a 4 ha escape threshold. Model performance showed moderate predictive ability, with approximately 48–49% of escaped fires correctly identified. Results indicate that vegetation characteristics were the strongest predictors of wildfire escape. Dominant tree species emerged as the most influential\nvariable in both regions, while crown closure played an important role in the Prince George Fire Centre. Terrain variables influenced escape probability in the Coast region but were less\nimportant in Prince George. Ignition type influenced escape probability in a strongly moderate manner in both the Coast and Prince George Region. These findings demonstrate that fuel composition and structure exert stronger control on wildfire escape than ignition type or initial weather conditions, highlighting the importance of region-specific management strategies that prioritize fuel treatments and landscape characteristics to reduce wildfire risk."
+  ],
+  "dct_identifier_sm": [
+    "1147270_73894_115983",
+    "https://doi.org/10.5683/SP3/IRDMFT"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IRDMFT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Ignition Type and Fuel Controls on Wildfire Escape in British Columbia's Coast and Prince George Fire Centres",
+  "gbl_mdModified_dt": "2026-04-28T16:35:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca9b34fa-5509-58cd-b288-17404c4a6f37",
+  "locn_geometry": "ENVELOPE(-133.22603, -118.19426, 60.00478, 48.22483)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Canadian Gridded Homogenized Surface Air Temperature – Version 3.1 (CanGridT V3.1)\n\r\n\rCanGridT V3.1 provides high-resolution gridded surface air temperature data for Canada (Wang et al., 2026), derived from homogenized station observations (Vincent et al., 2020). These datasets support climate analysis, trend assessment, and applications such as model validation, downscaling studies, and climate monitoring.\n\r\n\rCanGridT consists of six gridded temperature datasets:\n\rDataset Name\tDescription\n\rCanGridT mly\t Monthly average daily mean temperatures\n\rCanGridTmin mly\tMonthly average daily minimum temperatures\n\rCanGridTmax mly\tMonthly average daily maximum temperatures\n\rCanGridT dly\t Daily mean temperatures\n\rCanGridTmin dly\tDaily minimum temperatures\n\rCanGridTmax dly\tDaily maximum temperatures\n\rDaily mean temperature is calculated as the average of the daily maximum and minimum temperatures. \n\r\n\rAll datasets were produced using a gridding method (Abbasnezhadi & Wang, 2024) based on ordinary kriging applied separately to: \n\r•\tstation climate normals (1961–1990)\n\r•\tstation climate anomalies relative to the normals \n\rThe gridded normals and anomalies are then combined to obtain final gridded temperature values (Wang et al., 2026). Version 3.1 applies this method to the updated Third Generation Homogenized Temperature dataset, CanHomT V3.1, which includes 780 stations (776 locations) in Canada (Vincent et al., 2020). Of these, 632 had sufficient data for calculating 1961-1990 monthly normals and were used for the three monthly datasets, while 625 stations were used for the three daily datasets.\n\r\n\rThe CanGridT mlyV3.1 dataset represents Canada’s warming trend reasonably well since 1900, despite changes in data availability over time (Wang et al., 2026, see their Figure S3).\n\r\n\rSource Data: Canadian Homogenized Surface Air Temperature V3.1 (CanHomT V3.1)\n\rCanHomT V3.1 is an update to the Third Generation Homogenized Temperature dataset, extended through 2023. It was developed for climate trend analysis and provides long-term daily maximum, minimum, and mean temperature series for 780 stations (776 locations) in Canada (Vincent et al., 2020). The key enhancement in V3.1 is the inclusion of both Original and Adjusted data, along with their associated data flags and the source station climate ID, providing improved traceability, reproducibility, and transparency. Key processing steps are provided here: [https://catalogue.ec.gc.ca/geonetwork/srv/eng/catalog.search#/metadata/fa10c7d6-2308-4d13-9db6-60686c86646a].\n\r\n\rDifferences from CanGRD\n\r•\tCanGridT: Gridded temperatures on an approximately 10-km EASE grid (grid box area: ~100 km²)\n\r•\tCanGRD: Gridded anomalies of temperature on an approximately 50-km EASE grid (grid box area: ~2,500 km²)\n\r\n\rReferences\n\rWang, X. L., Feng, Y., Zwiers, F. W., & Cheng, V. Y. S. (2026). Precipitation trends in version 2 of the Canadian homogenized monthly precipitation dataset. Atmosphere-Ocean, https://doi.org/10.1080/07055900.2026.2617861. \n\rVincent, L.A., M.M. Hartwell and X.L. Wang, 2020: A Third Generation of Homogenized Temperature for Trend Analysis and Monitoring Changes in Canada’s Climate. Atmosphere-Ocean. https://doi.org/10.1080/07055900.2020.1765728.\n\rAbbasnezhadi, K. and X. L. Wang, 2024: Comparison of gridding methods for precipitation over Canada and assessment of station/data density effects on gridding results. Atmos.-Ocean, 62:4, 320-346, https://doi.org/10.1080/07055900.2024.2394829.\n\rVincent, L.A., E.J. Milewska, R. Hopkinson and L. Malone, 2009: Bias in minimum temperature introduced by a redefinition of the climatological day at the Canadian synoptic stations. J. Appl. Meteor. Climatol, 48, 2160-2168. DOI: 10.1175/2009JAMC2191.1.\n\rVincent, L.A., E.J. Milewska, X. L. Wang, and M. M. Hartwell, 2018. Uncertainty in homogenized daily temperatures and derived indices of extremes illustrated using parallel observations in Canada, Intl. J. Climatol., 38:2, 692-707. DOI: 10.1002/JOC.5203. \n\rWang, X. L. and Y. Feng, published online July 2013: RHtestsV4 User Manual. Climate Research Division, Atmospheric Science and Technology Directorate, Science and Technology Branch, Environment Canada. 28 pp. [Available online at https://github.com/ECCC-CDAS] DOI: 10.13140/RG.2.2.17309.17125. \n\rWang, X. L., H. Chen, Y. Wu, Y. Feng, and Q. Pu, 2010: New techniques for detection and adjustment of shifts in daily precipitation data series. J. Appl. Meteor. Climatol., 49, 2416-2436. DOI: 10.1175/2010JAMC2376.1."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/781e02cc-6c1b-462e-b61b-f96c607b23bd"
+  ],
+  "dct_issued_s": "2025-06-12",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/781e02cc-6c1b-462e-b61b-f96c607b23bd\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canadian Gridded Homogenized Surface Air Temperatures – Version 3.1 (CanGridT V3.1)",
+  "gbl_mdModified_dt": "2026-07-22T17:21:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cc8b0a2-daad-5827-b1a9-0cafdd65e224",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

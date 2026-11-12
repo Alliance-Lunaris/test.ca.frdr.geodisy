@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.24687833, -63.6538498, 48.8487733, 48.44806167)",
+  "dcat_keyword_sm": [
+    "Aire marine protégée",
+    "Banc-des-Américains",
+    "Aire marine de conservation",
+    "Suivi écologique",
+    "Imagerie",
+    "Banc-des-Américains",
+    "Marine conservation areas",
+    "Benthic biodiversity",
+    "Imaging",
+    "Endangered species",
+    "Marine protected area",
+    "Espèces en péril",
+    "Ecological monitoring",
+    "Biodiversité benthique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Métadonnées des relevés d’imagerie benthique dans l’aire marine protégée du Banc-des-Américains"
+  ],
+  "dct_creator_sm": [
+    "Geneviève Faille."
+  ],
+  "dct_description_sm": [
+    "This dataset was developed to document the procedures for acquiring underwater images in the Banc-des-Américains Marine Protected Area (MPA). Its primary objective is to provide a comprehensive inventory of metadata linked to imagery campaigns that allowed us to conduct a basic characterization of the area, and now that are used for ecological monitoring of the benthic habitats within the MPA.\n\nMetadata were collected during imagery surveys conducted since 2012, using three main methods: drop cameras on the crest, baited drop stereoscopic cameras on both the crest and plains, and towed cameras on the plains. For each operation are shared the type of gear used, sampling method, date, geographic coordinates, and acquisition depth.\n\nThe released dataset contains only descriptive information related to the acquisition of images : file identifier, location, sampling methodology, depth, and technical imaging parameters. It does not include image files themselves, visual content, or the results of image analyses.\n\nA systematic quality control is applied to ensure completeness and consistency of the metadata: field format standardization, validation of GPS coordinates, verification of dates and recorded depths. Clear instructions guide the recording of metadata to guarantee their reliability for management and scientific monitoring purposes.",
+    "Ce jeu de données a été élaboré pour documenter les opérations de collecte d’images sous-marines dans l’aire marine protégée (AMP) du Banc-des-Américains. L’objectif est de fournir un inventaire complet des métadonnées associées aux campagnes d’imagerie qui ont permis d’effectuer une caractérisation de base du secteur et servent maintenant au suivi écologique des habitats benthiques de l’AMP.\n\nLes métadonnées ont été acquises lors de missions d’imagerie menées depuis 2012, selon trois méthodes principales : caméras déposées sur la crête, caméras stéréoscopiques déposées avec appât sur la crête et les plaines, et caméras tractées sur les plaines. Pour chaque opération, sont partagés le type d’engin utilisé, la méthode d’échantillonnage, la date, les coordonnées géographiques et la profondeur du site d’acquisition.\n\nLe jeu de données rendu disponible contient seulement les informations descriptives relatives aux acquisitions d’images : identifiant du fichier, localisation, méthode employée, profondeur et paramètres techniques de prise de vue. Il ne comprend ni les fichiers d’images, ni le contenu visuel, ni les résultats des analyses d’images.\n\nUn contrôle qualité systématique est appliqué sur la complétude et la cohérence des métadonnées : standardisation des formats de champs, validation des coordonnées GPS, vérification des dates et des profondeurs enregistrées. Des instructions claires encadrent la saisie des métadonnées afin d’en assurer la fiabilité pour les besoins de gestion et de suivi scientifique."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/8b264029-8f97-44c9-9d26-29050c43aef7"
+  ],
+  "dct_issued_s": "2025-10-01",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/8b264029-8f97-44c9-9d26-29050c43aef7\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Metadata of benthic imaging surveys in the Banc-des-Américains Marine Protected Area",
+  "gbl_mdModified_dt": "2026-03-24T09:09:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ccbb0c4d-0989-5922-9f82-1c47d6f17eac",
+  "locn_geometry": "ENVELOPE(-64.24687833, -63.6538498, 48.8487733, 48.44806167)",
+  "schema_provider_s": "Open Data Canada"
+}

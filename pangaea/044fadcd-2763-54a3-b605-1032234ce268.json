@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-51.07981000000001, -51.009000000000015, 53.0975, 53.03641)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dilmahamod, Ahmad Fehmi (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0003-1110-940X",
+    "Karstensen, Johannes (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0001-5044-7079",
+    "Hummels, Rebecca (GEOMAR - Helmholtz Centre for Ocean Research Kiel). ORCID: https://orcid.org/0000-0002-3746-6213",
+    "Atamanchuk, Dariia (Dalhousie University). ORCID: https://orcid.org/0000-0002-9117-502X",
+    "Koelling, Jannes (University of Washington)."
+  ],
+  "dct_description_sm": [
+    "This data set contains quality-controlled observations from a GEOMAR mooring deployment. Depending on the mooring configuration, measurements may include pressure, temperature, conductivity, dissolved oxygen, and current velocity recorded by oceanographic instruments throughout the deployment period.Data Processing: Instruments equipped with pressure, temperature, conductivity, and oxygen sensors were calibrated in situ immediately before deployment and after recovery by attaching them to the CTD frame during CTD/O2 casts. Sensor readings were compared with calibrated CTDO2 observations during dedicated calibration stops lasting several minutes. Correction terms were derived from the differences between the moored instruments and the CTDO measurements and subsequently applied to the complete deployment records. Calibration-stop results were additionally validated using nearby CTD observations obtained during the deployment (CTD data of deployment cruise: https://doi.org/10.1594/PANGAEA.963942) and recovery cruises (CTD data of recovery cruise: https://doi.org/10.1594/PANGAEA.928976). This procedure enables the detection and correction of potential sensor drift and provides estimates of calibration and measurement uncertainties. Details of the deployment and recovery operations are documented in the corresponding cruise reports.",
+    "instrument = Label:kpo_1159_02 File:kpo_1159_instr_02.nc Type:Seabird MicroCat 37-SM with pressure SN:02484instrument = Label:kpo_1159_03 File:kpo_1159_instr_03.nc Type:Seabird MicroCat 37-SM SN:00957 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1159_04 File:kpo_1159_instr_04.nc Type:Seabird MicroCat 37-SM SN:01320 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1159_05 File:kpo_1159_instr_05.nc Type:Seabird MicroCat 37-SM SN:02279 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1159_06 File:kpo_1159_instr_06.nc Type:Nortek Aquadopp Seriell SN:P26209-14instrument = Label:kpo_1159_07 File:kpo_1159_instr_07.nc Type:Aanderaa RCM 8 SN:10502 depth/pressure data was at least partially derived and not directly measured, consult quality flags for detailsinstrument = Label:kpo_1159_08 File:kpo_1159_instr_08.nc Type:Seabird MicroCat 37-IM with pressure SN:02265"
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.996586",
+    "https://doi.org/10.1594/pangaea.996586"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.996586\"}",
+  "dct_subject_sm": [
+    "Quality flag, water depth",
+    "Optimizing and Enhancing the Integrated Atlantic Ocean Observing System (AtlantOS)",
+    "Maria S. Merian",
+    "MSM54",
+    "Current velocity, north-south",
+    "MSM74",
+    "Quality flag, water pressure",
+    "Quality flag, water temperature",
+    "subpolar North Atlantic",
+    "North Atlantic Climate (NACLIM)",
+    "Mooring",
+    "physical data",
+    "Salinity",
+    "Pressure, water",
+    "Temperature, water",
+    "DATE/TIME",
+    "Regional Atlantic Circulation and global Change II (RACE-II)",
+    "Quality flag, salinity",
+    "Current velocity, east-west",
+    "Sample code/label",
+    "DEPTH, water",
+    "Quality flag, current velocity"
+  ],
+  "dct_title_s": "Physical oceanography from mooring KPO_1159",
+  "gbl_mdModified_dt": "2026-10-02T04:07:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "044fadcd-2763-54a3-b605-1032234ce268",
+  "locn_geometry": "ENVELOPE(-51.07981000000001, -51.009000000000015, 53.0975, 53.03641)",
+  "schema_provider_s": "PANGAEA"
+}

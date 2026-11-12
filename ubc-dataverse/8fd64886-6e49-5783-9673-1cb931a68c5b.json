@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.8, -121.775, 51.538, 51.525)",
+  "dcat_keyword_sm": [
+    "Synthetic Aperture Radar",
+    "Polarimetric Synthetic Aperture Radar",
+    "LiDAR",
+    "Random Forest",
+    "Forest Canopy Height",
+    "Optical Imagery"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Kwok, Sung Hei (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Forest canopy height is an important indicator for estimating forest carbon stock and biomass, which have implications for multiple environmental issues. In remote sensing, canopy height is most commonly measured using light detection and ranging (LiDAR), which comes with satisfactory accuracy but also high costs. This study looked at the potential of using synthetic aperture radar (SAR) and polarimetric synthetic aperture radar (PolSAR), together with optical imagery, to estimate canopy height in an interior coniferous forest in British Columbia, Canada. A machine learning approach was used to derive the canopy height values. SAR backscatter coefficients from Sentinel-1 and ALOS-2, as well as PolSAR parameters from Sentinel-1, were used as independent variables. Sentinel-2 optical indices and bands were fused as independent variables in some trials in an attempt to further enhance model performance. LiDAR-extracted canopy height values served as ground truth for both model training and validation. We compared between using SAR backscatter and PolSAR parameters, as well as between using SAR backscatter from Sentinel-1 and ALOS-2. Results show that PolSAR parameters outperforms SAR backscatter in predicting canopy height, while ALOS-2 achieved better accuracy in canopy height estimation than Sentinel-1. Optical indices and bands were capable of enhancing model accuracy in all scenarios. To conclude, Sentinel-1 PolSAR parameters were the best predictor variables due to PolSAR’s ability to capture different scattering mechanisms under different canopy heights. Future studies should examine the potential of polarimetric synthetic aperture radar interferometry (PolInSAR) and ALOS-2 PolSAR to yield more accurate canopy height estimation over interior coniferous forests."
+  ],
+  "dct_identifier_sm": [
+    "720708_73894_115983",
+    "https://doi.org/10.5683/SP3/SVCVXV"
+  ],
+  "dct_issued_s": "2024-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SVCVXV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Comparing PolSAR, SAR and Optical Imagery Integration for Forest Canopy Height Estimation in Interior British Columbia, Canada",
+  "gbl_mdModified_dt": "2025-04-18T02:00:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8fd64886-6e49-5783-9673-1cb931a68c5b",
+  "locn_geometry": "ENVELOPE(-121.8, -121.775, 51.538, 51.525)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

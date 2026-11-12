@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "resolution",
+    "taxon-specific primers",
+    "Pipeline",
+    "microbiome"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ghezzi, Hans (University of British Columbia). ORCID: https://orcid.org/0000-0002-3165-1805",
+    "Fan, M. Yiyun. ORCID: https://orcid.org/0000-0002-4614-665X",
+    "Ng, M. Katharine (University of British Columbia). ORCID: https://orcid.org/0000-0003-3494-5697",
+    "Burckhardt, C. Juan (University of British Columbia). ORCID: https://orcid.org/0000-0001-5885-1623",
+    "Pepin, M. Deanna (University of British Columbia). ORCID: https://orcid.org/0000-0003-2341-1462",
+    "Lin, Xuan (University of British Columbia). ORCID: https://orcid.org/0000-0002-4988-1668",
+    "Ziels, M. Ryan (University of British Columbia). ORCID: https://orcid.org/0000-0003-3705-6078",
+    "Tropini, Carolina (Department of Microbiology and Immunology, University of British Columbia, Vancouver, Canada, University of British Columbia). ORCID: https://orcid.org/0000-0002-7542-1577"
+  ],
+  "dct_description_sm": [
+    "Characterizing microbial communities at high-resolution is crucial to unravel the complexity and functional diversity of microbial ecosystems, providing valuable insights into human health and ecology. Over the last decades, advances in bulk sequencing assays, such as 16S rRNA and shotgun sequencing, have enabled unparalleled qualitative and quantitative investigations of microbial communities. However, these methods generally do not provide resolution beyond the genus- or species-level, only measure relative abundance, and do not account for spatial organization, overlooking intricate details and functional insights on the real gut microbial heterogeneity. PUPpy (Phylogenetically Unique Primers in python) is a fully automated pipeline to design taxon-specific primers for any defined bacterial community. PUPpy-designed primers can be used to detect individual microbes and quantify absolute microbial abundance, providing more resolved and accurate quantification in gnotobiotic communities than 16S and shotgun sequencing."
+  ],
+  "dct_identifier_sm": [
+    "661309_424712",
+    "https://doi.org/10.5683/SP3/HWXPV3"
+  ],
+  "dct_issued_s": "2024-01-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/HWXPV3\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "PUPpy: a primer design pipeline for substrain-level microbial detection and absolute quantification",
+  "gbl_mdModified_dt": "2024-06-27T21:57:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "147479cb-0e12-5ca8-a62c-4a47a8f1a890",
+  "pcdm_memberOf_sm": [
+    "Tropini Lab Dataverse "
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

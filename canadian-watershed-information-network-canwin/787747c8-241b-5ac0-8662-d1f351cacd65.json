@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.721687, -64.614965, 46.529736, 46.451464)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains results from an eelgrass classification for Bouctouche Bay, New Brunswick. True colour aerial photography at 57 centimetre resolution was collected on September 2, 2009 by Nortek Resources of Thorburn, Nova Scotia (http://www.nortekresources.com/). Image classification was conducted using eCognition Developer v. 8 Software, which first segments the image into spectrally similar units, which were then classified manually. Additionally, the Department of Fisheries and Oceans (Gulf Region, Moncton, NB) conducted a visual field survey in the same field season at 688 sites. Two-thirds of these sites were used to assist in image classification, while the remainder were used to assess accuracy. Three classes were identified:\n\ni. Good Quality Eelgrass: relatively dense, clean, green blades with minimal epiphytes or algal growth. \nii. Medium Quality Eelgrass: predominately green blades that may have some epiphyte or algal growth. These stands can be less or equally dense as Good Quality Eelgrass, but the best grasses are certainly not as abundant.\niii. Eelgrass Absent/Poor Quality: eelgrass is absent, or if it is present it is typically covered with epiphytes or other algae or dying or dead. \n\nEelgrass was classified correctly 83.7% of the time in a fuzzy accuracy assessment technique, whereby those classes that were ‘off’ by one class, e.g. Good Quality eelgrass classed as Medium Quality, were given half credit towards the overall accuracy. Of 187 sites that were within the classification area, 131 were correct, 51 were \"one-off\", and 5 were incorrect [(131 + (51/2))/ 187 = 0.837]."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/20ad7856-abe6-48c6-bead-9470a6a31aea"
+  ],
+  "dct_issued_s": "2024-07-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/20ad7856-abe6-48c6-bead-9470a6a31aea\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Bouctouche Harbour Eelgrass Classification",
+  "gbl_mdModified_dt": "2026-01-14T20:02:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "787747c8-241b-5ac0-8662-d1f351cacd65",
+  "locn_geometry": "ENVELOPE(-64.721687, -64.614965, 46.529736, 46.451464)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.01561, -55.8672, 45.57044, 51.97679)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "other",
+    "Saint-Laurent",
+    "eDrivers",
+    "organic pollution",
+    "eDrivers",
+    "environmental stressors",
+    "pollution organique",
+    "St. Lawrence",
+    "stresseurs environnementaux",
+    "Autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Pollution organique, stresseur environnemental : projet eDrivers sur le système du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Beauchesne, David (Université Laval).",
+    "Halpern, Benjamin S. (University of California, Santa Barbara, Imperial College London)."
+  ],
+  "dct_description_sm": [
+    "The data used to characterize organic pollution come from the global cumulative impacts assessment on habitats and available on the [NCEAS online data repository](https://knb.ecoinformatics.org/view/doi:10.5063/F1S180FS).\n\nAnnual pesticide use in tonnes (t) was used as a proxy of organic pollution. The data used came from the FAO and gaps in data were modeled using a linear regression between pesticides and fertilizers or agricultural GDP. Dasymetric maps were then used to distribute fertilizer data over the landscape using 2009 data from the Moderate Resolution Imaging Spectroradiometer (MODIS) at ~500 m resolution and aggregated to watersheds. Diffusive plume models from each watershed pourpoint (e.g. river mouths) were then used to model the distribution and intensity of organic pollution in coastal and marine environments.\n\nIt is possible to consult the scientific report of the **eDrivers** project: [**Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada**](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full) and the [**additional data**](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full#supplementary-material). It is possible to consult the application [**eDrivers**](https://catalogue.ogsl.ca/dataset/ca-cioos_7c51ad5f-c2a9-4f4a-a78c-0b652e630825).\n\n**REFERENCE:**\n\n- [Halpern, B., Frazier, M., Potapenko, J. et al. Spatial and temporal changes in cumulative human impacts on the world’s ocean. Nat Commun 6, 7615 (2015). https://doi.org/10.1038/ncomms8615](https://doi.org/10.1038/ncomms8615)",
+    "Les données utilisées pour caractériser la pollution organique proviennent de l'évaluation globale des impacts cumulatifs sur les habitats et sont disponibles sur le [dépôt de données en ligne du NCEAS](https://knb.ecoinformatics.org/view/doi:10.5063/F1S180FS).\n\nL'utilisation annuelle de pesticides en tonnes (t) a été utilisée comme indicateur de la pollution organique. Les données utilisées provenaient de la FAO et les lacunes dans les données ont été modélisées à l'aide d'une régression linéaire entre les pesticides et les engrais ou le PIB agricole. Des cartes dasymétriques ont ensuite été utilisées pour distribuer les données sur les engrais dans le paysage à l'aide des données de 2009 du spectroradiomètre imageur à résolution modérée (MODIS), à une résolution d'environ 500 m et agrégées aux bassins versants. Des modèles de panaches diffusifs pour chaque point d'écoulement des bassins versants (par exemple, embouchures de rivières) ont ensuite été utilisés pour modéliser la distribution et l'intensité de la pollution organique dans les environnements côtiers et marins.\n\nIl est possible de consulter le rapport scientifique du projet ***eDrivers*** : [***Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada***](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full) et les [**données complémentaires**](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full#supplementary-material). Il est possible de consulter l'application [***eDrivers***](https://catalogue.ogsl.ca/dataset/ca-cioos_7c51ad5f-c2a9-4f4a-a78c-0b652e630825).\n\n**RÉFÉRENCE :**\n\n- [Halpern, B., Frazier, M., Potapenko, J. et al. Spatial and temporal changes in cumulative human impacts on the world’s ocean. Nat Commun 6, 7615 (2015). https://doi.org/10.1038/ncomms8615](https://doi.org/10.1038/ncomms8615)"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/77c6e698-9b75-45b4-9fd7-a18ba6732a8a"
+  ],
+  "dct_issued_s": "2007-01-01",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/77c6e698-9b75-45b4-9fd7-a18ba6732a8a\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Organic pollution, Driver of Environmental Change: eDrivers Project for the St. Lawrence System",
+  "gbl_mdModified_dt": "2026-07-31T16:36:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dfecb5a9-e3e9-5b90-95d5-dc1d1e59e33c",
+  "locn_geometry": "ENVELOPE(-71.01561, -55.8672, 45.57044, 51.97679)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

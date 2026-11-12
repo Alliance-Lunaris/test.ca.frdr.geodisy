@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.0265, -123.0261, 49.299, 49.2961)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wilkin, Rosalin (Simon Fraser University). ORCID: https://orcid.org/0009-0006-8733-5533",
+    "Ong, Macus (Simon Fraser University).",
+    "Anderson, Jillian (Simon Fraser University). ORCID: https://orcid.org/0000-0002-2528-2580",
+    "Sahay, Ishan (Simon Fraser University). ORCID: https://orcid.org/0009-0006-5466-6328"
+  ],
+  "dct_description_sm": [
+    "This dataset contains high-resolution panoramic images and a trained deep learning model developed for monitoring Double-crested Cormorant nesting activity on the Ironworkers Memorial Second Narrows Bridge in Vancouver, British Columbia, Canada. Weekly images were collected during the 2020 and 2021 breeding seasons using a Sony α7R IV camera mounted on a Gigapan robotic system. The images were stitched into large-scale panoramas using PTGui Pro software. A subset of these images was annotated and used to train a TensorFlow 2 object detection model capable of identifying individual birds and nests in various positions and stages. The dataset includes model configuration files, checkpoints, and the final trained model in SavedModel format, as well as eight stitched TIFF panoramas from the 2020 season used for validation. This dataset supports the development and evaluation of automated workflows for avian colony monitoring and contributes to research in ecological computer vision."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/103.01188"
+  ],
+  "dct_issued_s": "2025-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/103.01188\"}",
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Dedication (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "North Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Applications écologiques",
+    "Ecological applications, not elsewhere classified",
+    "Ecological applications",
+    "Large-Scale Colony Monitoring",
+    "Applications écologiques, non classé ailleurs",
+    "Sciences biologiques",
+    "Vantage Point Survey",
+    "Biological sciences",
+    "Convolutional Neural Network",
+    "Bridge colony",
+    "Panoramic Images",
+    "Cormorants"
+  ],
+  "dct_title_s": "Panoramic image set and deep learning model for monitoring Double-crested Cormorant nesting on the Ironworkers Memorial Second Narrows Bridge in Vancouver, British Columbia, Canada.",
+  "gbl_mdModified_dt": "2026-04-21T17:53:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33f7f18b-fa5b-54aa-a7e2-1235a5d302ba",
+  "locn_geometry": "ENVELOPE(-123.0265, -123.0261, 49.299, 49.2961)",
+  "schema_provider_s": "SFU Research Data (FRDR)"
+}

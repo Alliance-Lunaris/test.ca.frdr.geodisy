@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Lagopus leucura saxatilis",
+    "alpine",
+    "fragmentation",
+    "species distribution modeling",
+    "White-tailed Ptarmigan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jackson, Michelle M. (University of British Columbia).",
+    "Gergel, Sarah E. (University of British Columbia).",
+    "Martin, Kathy (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/EXcGiqd50yjDFbKqIy0YjP1j-JEpVLlhWHYhvbXSn5I</p>\n<p><b>Storage size:</b> 520103913</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>North America’s coastal mountains are particularly vulnerable to climate change, yet harbour a number of  endemic species. With little room “at the top” to track shifting climate envelopes, alpine species may be especially negatively affected by climate-induced habitat fragmentation. We ask how climate change will affect the total amount, mean patch size, and number of patches of suitable habitat for Vancouver Island White-tailed Ptarmigan (Lagopus leucura saxatilis; VIWTP), a threatened, endemic alpine bird. Using a Random Forest model and a unique dataset consisting of citizen science observations combined with field surveys, we predict the distribution and configuration of potential suitable summer habitat for VIWTP under current and future (2020s, 2050s, and 2080s) climates using three general circulation models and two greenhouse gas concentration scenarios. VIWTP summer habitat is predicted to decline by an average of 25%, 44%, and 56% by the 2020s, 2050s, and 2080s, respectively, under the low greenhouse gas scenario and 27%, 59%, and 74% under the high scenario. Habitat patches are predicted to become fragmented into several smaller patches, with a 52-79% reduction in mean patch size. All climate change models and greenhouse gas scenarios depict near total loss of all patches > 1 km2. Most remaining habitat, or climate macro-refugia, will be located in the center of the island. The extent to which ptarmigan will be able to persist in increasingly fragmented habitat is unclear. Much will depend on the ability of ptarmigan to move throughout a more heterogeneous landscape, utilize smaller breeding areas, and survive increasingly variable climate extremes. Our results emphasize the importance of continued monitoring and protection for high elevation specialist species, and suggest that White-tailed Ptarmigan should be considered an indicator species for alpine ecosystems in the face of climate change.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Predictor variables for all of Vancouver Island (current climate)</h4><div class=\"o-metadata__file-description\">allVI_fewvars_1980_2010.csv.zip is a compressed grid created for Vancouver Island at 100-m resolution with topographic variables and climate variables downloaded from ClimateBC version 5.03 (http://cfcg.forestry.ubc.ca/projects/climate-data/climatebcwna/#ClimateBC). This file was used to project the Random Forest model for VIWTP habitat suitability across the entire study area of Vancouver Island. The variables are the same as those described for the presabs_both_IndYears_allvars_final.csv file.</div><div class=\"o-metadata__file-name\">allvi_fewvars_1980_2010.csv.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Future climate variables for all Vancouver Island</h4><div class=\"o-metadata__file-description\">allVI_futureclimates.zip is a compressed file including future climate variables (mean summer precipitation, precipitation as snow, and average summer temperature) covering all of Vancouver Island at 100-m resolution (the same resolution as the topographic variables in Rasters.zip). Each file represents future climate variables for one of three general circulation models (Can, CCSM, or GFDL), one of two IPCC emissions scenarios from the AR5 report (RCP 4.5 or RCP 8.5) and one of three future time periods (2020's, 2050's, or 2080's).</div><div class=\"o-metadata__file-name\">allVI_futureclimates.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Presence-absence dataset for VIWTP</h4><div class=\"o-metadata__file-description\">presabs_both_IndYears_allvars_final.csv is the final presence-absence dataset for Vancouver Island White-tailed Ptarmigan used in the model. It contains pseudo-absences that were generated using the methods described in the manuscript. It contains topographic and biogeoclimatic zone data from as described in the manuscript and climate variables that were obtained from ClimateBC version 5.03 (http://cfcg.forestry.ubc.ca/projects/climate-data/climatebcwna/#ClimateBC). Description and data format for each variable (column header) is described in the same order as they appear in the presabs_both_IndYears_allvars_final.csv file. (Also see Table 1 in the manuscript for variable descriptions.) [1] FNETID. Unique ID for each observation. [2] pres. Whether the observation is a presence (1) or a pseudo-absence (0). [3] Year. The year the observation was collected. For pseudo-absences, years were assigned randomly based on the prevalence of years in the presence dataset. [4] datatype. Dataset from which the observation originated. PUB = public observation, FS = field survey, NA = pseudo-absence. [5] BCAlbX. BC Environment Albers X coordinate. [6] BCAlbY. BC Environment Albers Y coordinate. [7] BEC. Biogeoclimatic Zone. MH = Mountain Hemlock, AT = Alpine Tundra, CWH = Coastal Western Hemlock. [8] Elevation. Elevation in meters. [9] Aspect. Aspect reclassified according to solar incidence. We transformed aspect as x = -1*cos[Ø(π/180)], where Ø  is the aspect measured in degrees. Values ranged from -1 where the angle of solar incidence was lower (north-facing slopes) to 1 where it was higher (south-facing slopes). The importance of aspect depends on slope, so we assigned aspects with slopes of <5° a neutral value of 0. [10] Slope. Slope in degrees. [11] CTI. Compound Topographic Index, a function of the slope and the upstream contributing area. [12] Rugg9. Vector Ruggedness Measure, a measurement of terrain ruggedness as the variation in three-dimensional orientation of grid cells within a 9-cell neighborhood. [13] Tave_sm. Summer mean temperature (degrees C). [14] MSP. Mean annual summer (May – Sept.) precipitation (mm).[15] PAS. Precipitation as snow from August in previous year to July of current year (mm).</div><div class=\"o-metadata__file-name\">presabs_both_IndYears_allvars_final.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Random Forest Model (R Data)</h4><div class=\"o-metadata__file-description\">RF_BOTH.RData is the Random Forest model that was generated for predicting VIWTP habitat suitability.</div><div class=\"o-metadata__file-name\">RF_BOTH.RData</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">ReadMe file for data package</h4><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151860_1226260_150149",
+    "https://doi.org/10.5683/SP2/CDDBHU"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/CDDBHU\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver Island",
+    "Canada",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Effects of climate change on habitat availability and configuration for an endemic coastal alpine bird",
+  "gbl_mdModified_dt": "2021-05-19T23:57:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6076069d-abb5-549e-ba0c-d1d0cb7e6d89",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

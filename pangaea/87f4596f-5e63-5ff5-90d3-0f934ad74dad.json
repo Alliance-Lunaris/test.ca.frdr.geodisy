@@ -1,0 +1,80 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.14999999999998, -72.06420000000003, 41.3177, 40.9211)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Padilla, Dianna K (Stony Brook University).",
+    "Milke, Lisa (NOAA National Marine Fisheries Service Northwest Fisheries Science Center).",
+    "Akin-Fajiye, Morodoluwa (Stony Brook University, Thompson Rivers University).",
+    "Rosa, Maria (Stony Brook University).",
+    "Redman, Dylan H (NOAA National Marine Fisheries Service Northwest Fisheries Science Center).",
+    "Liguori, Alyssa (Stony Brook University). ORCID: https://orcid.org/0000-0002-5645-6096",
+    "Rugila, Allison (Stony Brook University).",
+    "Veilleux, David (NOAA National Marine Fisheries Service Northwest Fisheries Science Center).",
+    "Dixon, Mark S (NOAA National Marine Fisheries Service Northwest Fisheries Science Center).",
+    "Charifson, David (Stony Brook University).",
+    "Meseck, Shannon (NOAA National Marine Fisheries Service Northwest Fisheries Science Center)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains laboratory experimental data of blue mussels (Mytilus edulis) exposed to three different levels of carbon dioxide (low, mid, and high) from 4 hours post fertilization to day 45. Blue mussels were collected from 4 different populations located in Long Island Sound. The experiment took place from April 20, 2017 to June 4, 2017 at the NOAA NEFSC in Milford CT, with seawater pumped from Milford Harbor to the laboratory (41° 12′ 42.46″ N, 73° 3′ 7.75″ W). Carbonate chemistry and survival of blue mussels from the larval stage to the juvenile stage were assessed. This effort was made possible through the project R/XG-25 under the award NA14OAR4170069 from the National Sea Grant College Program of the US Department of Commerce's National Oceanic and Atmospheric Administration .This dataset is included in the OA-ICC data compilation maintained in the framework of the IAEA Ocean Acidification International Coordination Centre (see https://oa-icc.ipsl.fr). Original data were downloaded from NOAA National Centers for Environmental Information (see Source) by the OA-ICC data curator. In order to allow full comparability with other ocean acidification data sets, the R package seacarb (Gattuso et al, 2024) was used to compute a complete and consistent set of carbonate system variables, as described by Nisumaa et al. (2010). In this dataset the original values were archived in addition with the recalculated parameters (see related PI). The date of carbonate chemistry calculation by seacarb is 2024-12-13."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.974179",
+    "https://doi.org/10.1594/pangaea.974179"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.974179\"}",
+  "dct_subject_sm": [
+    "Time in days",
+    "pH, total scale",
+    "Mollusca",
+    "Single species",
+    "Bottles or small containers/Aquaria (&lt;20 L)",
+    "Species, unique identification",
+    "Coast and continental shelf",
+    "Carbon dioxide",
+    "North Atlantic",
+    "Animalia",
+    "Partial pressure of carbon dioxide (water) at sea surface temperature (wet air)",
+    "Development",
+    "Laboratory experiment",
+    "Fugacity of carbon dioxide (water) at sea surface temperature (wet air)",
+    "Zooplankton",
+    "Calcite saturation state",
+    "Aragonite saturation state",
+    "Salinity",
+    "Pelagos",
+    "Carbonate ion",
+    "Alkalinity, total",
+    "Mortality/Survival",
+    "Benthos",
+    "Juvenile",
+    "Species, unique identification (Semantic URI)",
+    "Calculated using seacarb after Nisumaa et al. (2010)",
+    "Ocean acidification",
+    "Type of study",
+    "Temperature, water",
+    "Bicarbonate ion",
+    "Species, unique identification (URI)",
+    "Ocean Acidification International Coordination Centre (OA-ICC)",
+    "Carbon, inorganic, dissolved",
+    "Temperate",
+    "Mytilus edulis",
+    "Benthic animals",
+    "Larvae",
+    "Date",
+    "Event label",
+    "Carbonate system computation flag"
+  ],
+  "dct_title_s": "Seawater carbonate chemistry and blue mussel fertilization to early juvenile development under ocean acidification for 5 populations from Long Island Sound",
+  "gbl_mdModified_dt": "2026-05-20T01:20:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "87f4596f-5e63-5ff5-90d3-0f934ad74dad",
+  "locn_geometry": "ENVELOPE(-73.14999999999998, -72.06420000000003, 41.3177, 40.9211)",
+  "schema_provider_s": "PANGAEA"
+}

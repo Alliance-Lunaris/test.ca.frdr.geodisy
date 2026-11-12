@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.3522, -119.2305, 50.4781, 50.4006)",
+  "dcat_keyword_sm": [
+    "landscape metrics, landcover maps, harvest, landscape shape index, edge density, time series"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wong, Cheuk Yin Natalie (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Landcover reflects distribution characteristics of surface vegetation, spatial differentiation and evolution across time. Controversial logging project that took place at Mount Rose-Swanson had raised concerns from the local community. Landcover maps and metrics can be used to study effects of human disturbances on the landscape. With the advancement of spatial pattern analysis program, ‘landscapemetrics’ package in R was used to quantify and investigate relationship between forest landcover and timber harvesting which occurred within. 35 high resolution annual forest landcover maps for Canada’s forested ecosystems from 1985 to 2019 inclusive were reclassified into five classes which are no change, shrubs, herbs, conifer and mixed wood. 1km x 1km grid cells were applied onto Mount Rose-Swanson to separate grid cells which experienced harvesting or remained unharvested. Harvested grid cells were found to have a higher mean number of patches of sum of all landcover classes 36.55 compare to unharvested grid cells 29.00 (p < 0.01) which indicates grid cells that experienced harvesting had more fragmentations. Coniferous landcover class remained the largest with an area of 208.92 hectares. Despite harvesting is expected to decrease coniferous landcover class, no significant differences in number of patches, mean patch area, metric values such as landscape shape index and edge density were found between each year for harvested and unharvested across 35 years. Surprisingly, mixed wood landcover had significant increase in number of patches for unharvested land (p < 0.03). Changes in landcover class, harvested year and size enables insights on formulating future logging schemes for sustainable development. Unreported small-scale logging continues to present as a challenge and the use of landcover time series is crucial in monitoring ecology of the mountain."
+  ],
+  "dct_identifier_sm": [
+    "328341_73894_115983",
+    "https://doi.org/10.5683/SP3/G3VHEF"
+  ],
+  "dct_issued_s": "2022-08-10",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/G3VHEF\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Evaluating Landscape Metrics and Landcover Class Change at Rose Swanson Mountain",
+  "gbl_mdModified_dt": "2022-08-10T15:22:12Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "203e60e6-b638-5f29-9b62-403b9715babf",
+  "locn_geometry": "ENVELOPE(-119.3522, -119.2305, 50.4781, 50.4006)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Climate change",
+    "Océanographie",
+    "Oceanography",
+    "Changement climatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "CanESM5 - Projection des vagues mondiales"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "This dataset contains monthly and annual statistics of ocean wave parameters at global scale, including significant wave height, mean wave period and mean wave direction. The WAVEWATCH III (WW3) wave model was driven by surface winds and sea ice concentrations simulated by CanESM5 for the historical period 1995-2014, and the future periods 2041-2060 and 2081-2100 under two emission scenarios: SSP2-4.5 and SSP5-8.5. WW3 was calibrated to adjust the energy transfer from winds to waves to compensate for the smoothing of extremes resulting from the coarse resolution of the climate model. Moreover, surface winds were bias-corrected using a multivariate quantile mapping bias correction. This dataset also contains the monthly and annual statistics of the corrected and original surface winds, including surface wind speed and wind direction.\n\r\n\rReference: M. Casa-Prat et al., 2024. CanESM5-derived ocean wave projections - considerations for coarse resolution climate models. Ocean Modelling",
+    "Ce jeu de données contient des statistiques mensuelles et annuelles des paramètres des vagues océaniques à l'échelle mondiale, y compris la hauteur significative des vagues, la période moyenne des vagues et la direction moyenne des vagues. Le modèle de vagues WAVEWATCH III (WW3) a été piloté par les vents de surface et les concentrations de glace de mer simulés par CanESM5 pour la période historique 1995-2014, et les périodes futures 2041-2060 et 2081-2100 selon deux scénarios d'émissions : SSP2-4.5 et SSP5-8.5. WW3 a été calibré pour ajuster le transfert d'énergie des vents aux vagues afin de compenser le lissage des extrêmes résultant de la résolution grossière du modèle climatique. En outre, les vents de surface ont été corrigés en utilisant une correction de biais par cartographie quantile multivariée. Ce jeu de données contient également les statistiques mensuelles et annuelles des vents de surface corrigés et originaux, y compris la vitesse et la direction du vent de surface.\n\r\n\rRéférence: M. Casa-Prat et al., 2024. CanESM5-derived ocean wave projections - considerations for coarse resolution climate models. Ocean Modelling"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9459a9e0-b836-4f92-9891-c54aeee17dc6"
+  ],
+  "dct_issued_s": "2024-06-11",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9459a9e0-b836-4f92-9891-c54aeee17dc6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "CanESM5 Global wave projections",
+  "gbl_mdModified_dt": "2024-10-15T20:30:33Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2789f7aa-9258-5ee3-a46e-a9c9b1eaf981",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

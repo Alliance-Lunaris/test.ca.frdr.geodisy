@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-93.79203, -93.713115, 49.745744, 49.649027)",
+  "dcat_keyword_sm": [
+    " Stream Chemistry",
+    " Stream Temperature",
+    " Water Quality",
+    " Lake Flow",
+    " Discharge",
+    "IISD Experimental Lakes Area",
+    " LTER",
+    " Hydrology",
+    " Flow",
+    " Lake Level"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "International Institute for Sustainable Development Experimental Lakes Area (IISD-ELA)."
+  ],
+  "dct_description_sm": [
+    "The IISD Experimental Lakes Area (IISD-ELA) Hydrology data package provides stream flow, stream temperature, and lake level data from active hydrometric stations at lakes 112, 114, 224, 239, 240, 260, 303, 304, 373, 375, 378, 442, and 470 in northwestern Ontario, Canada. Lake 239 has the longest and most consistent record.\nThis large, ongoing dataset contains preliminary instantaneous measurements at 20-minute resolution; 10-minute data are available upon request. Users should also review ResultComment for information on data quality, conditions, and interpretation.\nSome lakes underwent experimental manipulations, but those expected to affect these hydrological parameters were excluded. Experimental histories are available upon request.\nLake 442 levels were affected by beaver activity before June 2002, during 2006-2012, June 13 2014-2016, and 2024-2025. A storm on June 8-10, 2002 breached the existing beaver dam. Levels were considered normal during June 2002-2005, 2013-June 12, 2014, and 2017-2023. The 2024-2025 dam appeared leaky, with levels declining during dry periods.\nData users should consult the parallel Environmental Data Initiative (EDI) package (edi.2443.1), particularly its hydrology and chemistry information sheets, for important data usage caveats and additional context.\nThe parallel EDI package contains lake level, flow, stream temperature, and Lake 239 stream chemistry data. EDI provides hourly/daily means and a longer record (1969-2025), including discontinued stations, while DataStream provides raw 20-minute data from active stations and includes the current year's data. Formatting and some field and parameter names differ between repositories.\nRelated stream chemistry data are available in DataStream (DOI: 10.25976/r3kp-7m22). Catchment size data are forthcoming and available upon request; precipitation data are in EDI Package 2262.\nThis package will be updated as new data are collected. Contact us for data not presented here."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/2f23-gr01"
+  ],
+  "dct_issued_s": "2026-09-18",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/by/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/2f23-gr01\"}",
+  "dct_title_s": "IISD Experimental Lakes Area: Hydrology - Stream Flow, Stream Temperature, and Lake Level",
+  "gbl_mdModified_dt": "2026-09-18T19:43:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4c5172c4-910b-5fb9-8ee8-d5a032d62993",
+  "locn_geometry": "ENVELOPE(-93.79203, -93.713115, 49.745744, 49.649027)",
+  "schema_provider_s": "DataStream"
+}

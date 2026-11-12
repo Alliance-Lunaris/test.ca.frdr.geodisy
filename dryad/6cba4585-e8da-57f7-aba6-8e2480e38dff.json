@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Smooth Pursuit",
+    "Catch up",
+    "saccades",
+    "eye movement",
+    "Step ramp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Omri, Nachmani (Queen's University).",
+    "Jonathan, Coutinho (Queen's University).",
+    "Aarlenne Z., Khan (Queen's University).",
+    "Philippe, Lefèvre (UCLouvain).",
+    "Gunnar, Blohm (Queen's University)."
+  ],
+  "dct_description_sm": [
+    "For foveated animals, visual tracking of moving stimuli requires the synergy between saccades and smooth pursuit eye movements. Deciding to trigger a catch-up saccade during pursuit influences the quality of visual input. This decision is a trade-off between tolerating sustained position error when no saccade is triggered or a transient loss of vision during the saccade due to saccadic suppression. Although catch-up saccades have been extensively investigated, it remains unclear how the trigger decision is made by the brain. de Brouwer et al (2002) demonstrated that catch-up saccades were less likely to occur when the expected time to foveate a target using pursuit alone is between 40 and 180ms into the future, referred to as the smooth zone. However, this descriptive result lacks a mechanistic explanation for how the trigger decision is made. More recently, we proposed a decision model (Coutinho et al., 2018) that relies on a probabilistic estimation of predicted position error (PEpred) during visual tracking. To test the model predictions, we investigated how human participants combined predicted position error, retinal slip, and the uncertainty in those estimates to make trigger decisions. We found a significant effect of the pre-saccadic magnitude of PEpred on trigger time and occurrence of catch-up saccades. To test the role of uncertainty, we blurred the moving target which led to longer and more variable saccade trigger times and more smooth pursuit trials, consistent with model predictions. As predicted by our model, large PEpred (>10deg) produced early saccades regardless of the level of uncertainty while saccades preceded by small PEpred (<10deg) were significantly modulated by high uncertainty. Our model also predicted increased signal dependent noise as retinal slip increases, which resulted in longer saccade trigger times and more smooth trials. In conclusion, the data supports our hypothesized role of PEpred in deciding when to trigger a catch-up saccade during smooth pursuit while taking into account uncertainty in sensory estimates."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.245j1p8",
+    "https://doi.org/10.5061/dryad.245j1p8"
+  ],
+  "dct_issued_s": "2020-01-28",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.245j1p8\"}",
+  "dct_spatial_sm": [
+    "Kingston",
+    "Ontario"
+  ],
+  "dct_title_s": "Data from: Predicted tracking error triggers catch-up saccades during smooth pursuit",
+  "gbl_mdModified_dt": "2020-01-28T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6cba4585-e8da-57f7-aba6-8e2480e38dff",
+  "schema_provider_s": "Dryad"
+}

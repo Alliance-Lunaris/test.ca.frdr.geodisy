@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-92.68, -73.43, 49.19, 39.85)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Mesoscale boundaries have an important influence on mesoscale weather. They can trigger, enhance or inhibit convections and severe weather. They are also indicators of shifts in wind speed and direction, temperature and relative humidity, and can affect air quality and heat indices. Around the Great Lakes, it has been observed that mesoscale boundaries are prevalent and can have complex interactions between each other.\r\n\r\nA mesoscale boundary is the interface between two air masses for weather phenomenon on a scale of 5km to 100km. Mesoscale boundaries are generally associated with wind and differences in temperature, pressure and relative humidity. During the 2015 Pan Am and Parapan Am Games periods, boundary information were collected from July 10 to August 15, 2015. These included lake and land breeze fronts, outflow boundaries, as well as merged and other boundaries.\r\n\r\nEach mesoscale boundary is represented as a curve on the surface of the Earth with a list of coordinates. The data are stored in GeoJSON format and Shapefiles. A CSV file summarizes all the properties of the boundaries, but does not include any geometric information."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8adf372b-8cc4-48a2-9a2a-d9dc8d4b4f2a"
+  ],
+  "dct_issued_s": "2020-01-20",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8adf372b-8cc4-48a2-9a2a-d9dc8d4b4f2a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Great Lakes Mesoscale Boundary Database - TO2015 Pan and Parapan American Games",
+  "gbl_mdModified_dt": "2021-07-27T13:21:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dfb529a4-6a28-5bee-8639-716d13e37207",
+  "locn_geometry": "ENVELOPE(-92.68, -73.43, 49.19, 39.85)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

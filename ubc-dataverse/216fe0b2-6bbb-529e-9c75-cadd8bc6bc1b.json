@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Picea glauca",
+    "Picea engelmannii",
+    "tree improvement",
+    "Artificial selection",
+    "Picea sitchensis",
+    "assisted gene flow"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "MacLachlan, Ian R. (University of British Columbia).",
+    "Yeaman, Sam (University of British Columbia, University of Calgary).",
+    "Aitken, Sally N. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/XiVMA2iX-YMck_ZonSMwbiXl9iZtOWHSQ2GIzqAnJ7Q</p>\n<p><b>Storage size:</b> 65959934</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Hybrid zones contain extensive standing genetic variation that facilitates rapid responses to selection. The Picea glauca x P. engelmannii hybrid zone in western Canada is the focus of tree breeding programs that annually produce ~90 million reforestation seedlings. Understanding the direct and indirect effects of selective breeding on adaptive variation is necessary to implement assisted gene flow polices in Alberta and British Columbia that match these seedlings with future climates. We decomposed relationships among hybrid ancestry, adaptive traits and climate to understand the implications of selective breeding for climate adaptations and assisted gene flow strategies. The effects of selection on associations among hybrid index estimated from ~6500 SNPs, adaptive traits, and provenance climates were assessed for ~2400 common garden seedlings. Hybrid index differences between natural and selected seedlings within breeding zones were small in Alberta (average +2%), but larger and more variable in BC (average -7 %, range -24% to +1%), slightly favoring P. glauca ancestry. The average height growth gain of selected seedlings over natural seedlings within breeding zones was 36% (range 12% to 86%). Clines in growth with temperature-related variables were strong, but differed little between selected and natural populations. Seedling hybrid index and growth trait associations with evapotranspiration-related climate variables were stronger in selected than in natural seedlings, indicating possible pre-adaptation to drier future climates. Associations among cold hardiness, hybrid ancestry and cold-related climate variables dominated signals of local adaptation that were preserved in breeding populations. Strong hybrid ancestry-phenotype-climate associations suggest that assisted gene flow will be necessary to match interior spruce breeding populations with shifting future climates. The absence of antagonistic selection responses among traits and maintenance of cold adaptation in selected seedlings suggests breeding populations can be safely redeployed using assisted gene flow prescriptions similar to those of natural populations.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_PhenotypicData_June9th2017</h4><div class=\"o-metadata__file-description\">Phenotypic data and associated categories of metadata for each seedling studied</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_ClimateData_June9th2017</h4><div class=\"o-metadata__file-description\">Climate date for each seedling used for both the phenotype-climate and hybrid index-climate analyses</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_AdmixtureRefernceIndivs_SNPpedfile_June9th2017</h4><div class=\"o-metadata__file-description\">Genotype data in .ped file format (with two columns per SNP) for the 500 individual seedlings used as the reference population for the ADMIXTURE projection analysis.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_AdmixtureProjectedIndivs_SNPpedfile_June9th2017</h4><div class=\"o-metadata__file-description\">Genotype data in .ped file format (with two columns per SNP) for the 1572 individuals for which hybrid ancestry was estimated using the ADMIXTURE projection analysis function</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_README_climatemetadata_June9th2017</h4><div class=\"o-metadata__file-description\">Metadata explaining the climate variables used in this study</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_README_phenotypicmetadata_June9th2017</h4><div class=\"o-metadata__file-description\">Metadata explaining the phenotypic traits analysed and how they were measured</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_SNPmapfile_June9th2017</h4><div class=\"o-metadata__file-description\">The details of each SNP analysed in the .ped files for reference and projected ADMIXTURE populations. SNPs (rows) in the .map file match the order of SNPs (columns) in the .ped file. Each locus in the .ped file has two columns per SNP</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">MacLachlan_etal.(2017)_README_SNPpedfile_mapfile_metadata_June9th2017</h4><div class=\"o-metadata__file-description\">Metadata describing the contents of the .map and .ped files</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152355_1226260_150149",
+    "https://doi.org/10.5683/SP2/9AEFKD"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/9AEFKD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "western North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Growth gains from selective breeding in a spruce hybrid zone do not compromise local adaptation to climate",
+  "gbl_mdModified_dt": "2021-05-20T01:05:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "216fe0b2-6bbb-529e-9c75-cadd8bc6bc1b",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

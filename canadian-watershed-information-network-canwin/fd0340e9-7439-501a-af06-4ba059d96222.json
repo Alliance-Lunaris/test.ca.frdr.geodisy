@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-96.5653278917, -72.6181827873, 65.7796870686, 50.281440688)",
+  "dcat_keyword_sm": [
+    "Phytoplankton",
+    "Hudson Bay",
+    "Marginal ice zone",
+    "Sea ice"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "Satellite-derived sea-ice retreat timing (tR) and maximum chlorophyll-a concentration in the ice edge zone between 1998 and 2018. Sea ice concentration (SIC) was obtained from the National Snow and Ice Data Center. It is based on daily passive microwave radiometry processed using the Bootstrap algorithm (Comiso, 2000) at 25 km resolution. The Bootstrap technique clusters the multichannel passive microwave sensors: Scanning Multi- channel Microwave Radiometer on the Nimbus-7 satellite, Special Sensor Microwave/Imager and Special Sensor Microwave Imager/Sounder from the Defense Meteorological Satellite Program’s satellites, and the Advanced Microwave Scanning Radiometer (Comiso et al., 1997). SIC was interpolated onto the same Chla grid using the nearest neighborhood scheme implemented in Matlab.\r\n\r\nMulti-sensor merged clorophyll-a concentration (Chla) Level-3 (i.e., binned and mapped) 8-day composites from the Globcolour Project (http://www.globcolour.info/) were used as a proxy for phytoplankton biomass. Globcolour products have a spa- tial resolution of 4.63 km and cover the 1998–2018 period. The merged product was selected to improve the spatial-temporal coverage diminishing gaps due to cloud cover and sea-ice coverage (Maritorena et al., 2010). The binning methodology combines the normalized water- leaving radiances from different ocean color sensors whenever they are available, which includes SeaWiFS (1998–2010), MODIS-Aqua (2002–2018), Medium- Resolution Imaging Spectrometer (MERIS: 2002–2011), and Visible Infrared Imaging Radiometer Suite (VIIRS: 2012–2018). [Chla] was estimated from normalized water-leaving radiances merged using the Garver-Siegel- Maritorena (GSM) semi-analytical model (Garver and Siegel, 1997; Maritorena et al., 2002).\r\n\r\nTo assess the impacts of sea-ice retreat timing on marginal ice zone phytoplankton blooms (also refers to phytoplankton spring blooms or ice-edge blooms), we analyzed both Chla and SIC variability in parallel. The method is similar to that of Perrette et al. (2011), which was also adopted by Lowry et al. (2014) and Renaut et al. (2018). The sea-ice retreat, tR, is defined as the day at which SIC is below 10% for at least 24 days. This time interval is longer than the 20 days applied by Perrette et al. (2011) and Renaut et al. (2018) and the 14 days by Lowry et al. (2014) because we used 8-day composites instead of daily maps. However, to avoid sub-pixel contamination in ice-infested regions near the ice edge (Be´langer et al., 2013), we opted to be more conservative by applying a 10% threshold on SIC, as did Perrette et al. (2011) and Renaut et al. (2018) instead of 50% as applied by Lowry et al. (2014). The maximum Chla observed in the ice edge zone was extracted for each pixel for each year, yielding one map of MIZ Chla per year."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/49695e4c-2b6d-4144-8939-fe680eebf4c7"
+  ],
+  "dct_issued_s": "2021-11-05",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/49695e4c-2b6d-4144-8939-fe680eebf4c7\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Microbe biomass and diversity",
+    "Marine",
+    "Sea Ice",
+    "Cryosphere",
+    "Marine Habitats"
+  ],
+  "dct_title_s": "Sea-ice edge phytoplankton bloom",
+  "gbl_mdModified_dt": "2026-02-24T00:04:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd0340e9-7439-501a-af06-4ba059d96222",
+  "locn_geometry": "ENVELOPE(-96.5653278917, -72.6181827873, 65.7796870686, 50.281440688)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

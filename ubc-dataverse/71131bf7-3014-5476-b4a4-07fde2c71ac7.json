@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-122.59989103290636, -122.5209064738952, 49.36184582805824, 49.249450394346376)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wan, Xilin (University of British Columbia). ORCID: https://orcid.org/0009-0001-7971-2697"
+  ],
+  "dct_description_sm": [
+    "Old-growth forests have complex structure variability that provides critical habitat for endangered species, enhancing biodiversity and ecosystem services, but old-growth has become rare due to historical forest harvesting.  In order to support the conservation of Old-Growth forests in B.C., it is necessary to identify old-growth forests from other non-old-growth forests. However, the traditional age measurement methods are costly and intractable at landscape scales, also the structural characteristics of old growth are not included. This study attempts to predict the distribution of old-growth attributes in the Coastal Western Hemlock (CWH) zone in British Columbia using area-based lidar metrics. Lidar point clouds of 61 forestry inventory plots are extracted to generate liDAR metrics to create multilinear regression models for four old-growth attributes: standard deviation of diameter at breast height (DBH), maximum tree DBH, average live crown percentage, and the sum of understory plants percentage.  The results show that multilinear regression and LiDAR data can be used to estimate the distribution of old-growth attributes except for the average live crown percentage. An old-growth index is derived from four old-growth attributes for mapping the potential locations of old-growth. However, the validation results of 11.28% from vegetation resource inventory (VRI) illustrate that the old-growth index does not successfully identify old growth. Despite the challenges encountered, the prediction results can still be used to identify old-growth attributes and enhance knowledge of old-growth landscapes. Also, this study has potential applications in old-growth forest restoration in the Western Hemlock Ecosystem and supports the old-growth management plan of the government."
+  ],
+  "dct_identifier_sm": [
+    "460463_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/CFRGAQ"
+  ],
+  "dct_issued_s": "2023-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CFRGAQ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Maple Ridge, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Old-Growth Attributes Prediction in the Coastal Western Hemlock Ecosystem, British Columbia using LiDAR",
+  "gbl_mdModified_dt": "2025-04-18T02:48:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "71131bf7-3014-5476-b4a4-07fde2c71ac7",
+  "locn_geometry": "ENVELOPE(-122.59989103290636, -122.5209064738952, 49.36184582805824, 49.249450394346376)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

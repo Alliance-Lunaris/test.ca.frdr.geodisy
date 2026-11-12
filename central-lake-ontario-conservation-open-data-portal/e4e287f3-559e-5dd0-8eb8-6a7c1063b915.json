@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.19513399999865, -78.43448499999867, 44.14859699999925, 43.72191599999926)",
+  "dcat_keyword_sm": [
+    "hydrology",
+    "Hydrology",
+    "Drainage",
+    "CLOCA",
+    "CLOCA_OpenData"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Central Lake Ontario Conservation Open Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div><a href='https://metadata.cacore.ca/Public/Details/id=6' rel='nofollow ugc' target='_blank'>Click to view Metadata</a> <br /></div><div><br /></div><div>The first iteration of Drainage was obtained from First Base Solutions in 2000. CLOCA kept receiving consecutive updates in 2002, 2005, 2008 and 2010. In 2011 data was updated to meet the WRIP Hydrographic Specifications. The 2010 drainage and 2008 headwater portion of the dataset were merged to obtain current Drainage dataset.</div><div>Drainage was divided into 3 sub-types in the field named ‘EdgeType’, with flow and shoreline being the main classes:</div><div>- Flow;</div><div>- Shoreline;</div><div>- Other.</div><div>Other hydrographic-related features are captured and included under the ‘Other’ class. The feature types included in these feature classes are not water features themselves, but may pose impediments or hazards to water flow or navigation. These features usually occur on top of waterbody or watercourse features, which continue underneath or around them.</div><div><br /></div><div>Since the 2011 drainage update additional updates were performed:</div><div>-The drainage segments falling within Natural Heritage System were coded as NHS – 2013;</div><div>-The Stream Order updates (2016) - the updates were performed for the RIPARIAN  analysis.</div><div><br /></div><div>Please see <a href='https://camaps.maps.arcgis.com/sharing/rest/content/items/104d4d67334542cb99281f358f940891/data' rel='nofollow ugc' target='_blank'>Drainage Specifications</a> for Code descriptions.</div>"
+  ],
+  "dct_identifier_sm": [
+    "ee76f30bccb745808b267068e1cfd474",
+    "https://www.arcgis.com/home/item.html?id=ee76f30bccb745808b267068e1cfd474"
+  ],
+  "dct_issued_s": "2020-04-01",
+  "dct_publisher_sm": [
+    "Central Lake Ontario Conservation Open Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://cloca-camaps.opendata.arcgis.com/datasets/camaps::cloca-drainage\"}",
+  "dct_rights_sm": [
+    "CLOCA Open Data License v1"
+  ],
+  "dct_title_s": "CLOCA Drainage",
+  "gbl_mdModified_dt": "2026-01-12T14:29:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e4e287f3-559e-5dd0-8eb8-6a7c1063b915",
+  "locn_geometry": "ENVELOPE(-79.19513399999865, -78.43448499999867, 44.14859699999925, 43.72191599999926)",
+  "schema_provider_s": "Central Lake Ontario Conservation Open Data Portal"
+}

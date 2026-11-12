@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.1569900512695, -74.3079833984375, 56.8501167297363, 41.6722984313965)",
+  "dcat_keyword_sm": [
+    "fire management",
+    "AFFES",
+    "boundaries",
+    "fire response",
+    "Ministry of Natural Resources",
+    "MNR",
+    "RUL",
+    "fire danger",
+    "ODCSYNC",
+    "fire",
+    "GeospatialOntario",
+    "fire prevention",
+    "Aviation Forest Fire and Emergency Services"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "<div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">A Fire Response Sector is a geographical area for which fire response planning and attack services are delivered. In some locations response sector boundaries coincide with NDMNRF District boundaries, but elsewhere, many response sectors contain portions of more than one district and do not follow any other administrative NDMNRF boundaries. There are a total of 13 Fire Response Sectors in the province. The boundaries for these areas can be verified by the AFFMB, Forest Fire Management Section.</span></div><div>&nbsp;</div><div><p><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">Additional Time Period Information:</span></p><ul><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">In January 2015 the Dryden and Fort Frances Base Responsible boundary was updated to match the MNR District boundary putting Upper Manitou Lake in Fire Response Sector W01.</span></li><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">On April 6, 2005 the sector W08 was removed from this layer since it has been deemed to be no longer necessary due to the new fire management strategies. Response Sector W04 has been subdivided into two. The division was created because it made sense for Thunder Bay to respond to fire calls due to their proximity, but because the area is within Nipigon District, Nipigon will provide the administration for any fires. The area is also known as the Black Bay Protocol.</span></li><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">In 2005 as a result of transformation within the AFFM business area the boundary that splits Sector 1 and 2 which crossed just south of the French River around the Britt area and encompassed most of the Parry Sound District now follows an OBM grid line to shore passing above Parry Island First Nation and then connects to the road layer following HWY 124 to Sundridge.</span></li><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">On November 28, 2007 this layer was updated with some spatial refinements along the boundaries of some response sectors which followed railways in the East Fire Region.</span></li><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">On March 23, 2009 the line dividing Response Sector W04 was removed at the request of the West Fire Region since it was causing confusion amongst field staff.</span></li><li><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">On July 9, 2010 the Fire Response Sector data class was converted to a simple data class which involved the removal of the GEOG_UNIT table.</span></li></ul><p><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">Also, the Fire Response Sector data that resides in the RESOURCE_MANAGEMENT_AREA shared table was moved to a new table called FIRE_RESPONSE_SECTOR. The Fire Response Sector data located in RESOURCE_MANAGEMENT_AREA.OFFICIAL_NAME was moved to FIRE_RESPONSE_SECTOR.RESPONSE_SECTOR and a new attribute called BASE_RESPONSIBLE was added to the FIRE_RESPONSE_SECTOR table. In each response sector there is a sector response officer who is responsible for coordinating fire fighting resources within their respective sectors. The SRO's physical locations are listed in the Base Responsible field. On March 8, 2012 Response Sectors E03, E04, E05, and E06 were changed to align with MNR District Administrative boundaries. Part of Sector E02's southern boundary formerly along highway 124 has been moved down to align with the Fire Management Headquarters Areas.</span><br /><br /><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\"><strong>Additional Documentation</strong></span></p></div><div><ul><li><a target=\"_blank\" href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/Fire%20Response%20Sector%20-%20Data%20Description.pdf\"><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">Fire Response Sector - Data Description (PDF)</span></a></li><li><a target=\"_blank\" href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/Fire Response Sector - Documentation.docx\"><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">Fire Response Sector - Documentation (Word)</span></a></li></ul></div><div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\"><strong>Status</strong></span></div><div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">Completed: production of the data has been completed</span><br />&nbsp;</div><div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\"><strong>Maintenance and Update Frequency</strong></span></div><div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">As needed: data is updated as deemed necessary</span><br />&nbsp;</div><div><span style=\"display:inline !important; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\"><strong>Contact</strong></span><br />Aviation, Forest Fire and Emergency Services</div><div style=\"background-color:rgb(255, 255, 255); box-sizing:border-box; color:rgb(26, 26, 26); font-family:&quot;Open Sans&quot;, &quot;Avenir Next&quot;; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; max-width:100%; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"><ul><li><a href=\"mailto:AFFES.GIS@ontario.ca\"><span style=\"font-family:inherit;\"><span style=\"border:0px solid currentcolor; box-sizing:border-box; display:inline !important; line-height:1.5; max-width:100%; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px;\">AFFES.GIS@ontario.ca</span></span></a></li></ul></div><div>&nbsp;</div><div>The data referenced here is licensed <a target=\"_blank\" href=\"https://lio.maps.arcgis.com/sharing/rest/content/items/badb097e306b4d3b8becb3dba3ee5807/data\">Electronic Intellectual Property</a> of the Ontario Ministry of Natural Resources and is provided for professional, non-commercial use only.</div>"
+  ],
+  "dct_identifier_sm": [
+    "3ad14058d71d4bf7b118a6b590b98e96",
+    "https://www.arcgis.com/home/item.html?id=3ad14058d71d4bf7b118a6b590b98e96"
+  ],
+  "dct_issued_s": "2019-03-05",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/documents/lio::fire-response-sector\"}",
+  "dct_rights_sm": [
+    "Electronic Intellectual Property - Ontario Ministry of Natural Resources and Forestry"
+  ],
+  "dct_title_s": "Fire Response Sector",
+  "gbl_mdModified_dt": "2026-08-19T13:09:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8d069738-b705-5891-86a1-58d8735adc7b",
+  "locn_geometry": "ENVELOPE(-95.1569900512695, -74.3079833984375, 56.8501167297363, 41.6722984313965)",
+  "schema_provider_s": "Ontario GeoHub"
+}

@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.21, -72.52, 46.13, 45.08)",
+  "dcat_keyword_sm": [
+    "method",
+    "rake",
+    "Echo sounding",
+    "Biomass",
+    "quadrat",
+    "Sondage par ultrasons",
+    "comparison",
+    "submerged aquatic vegetation",
+    "Biomasse"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Botrel, Morgan (Université du Québec à Rimouski, Université de Montréal). ORCID: https://orcid.org/0000-0001-6313-8996",
+    "Hudon, Christiane (Environment and Climate Change Canada). ORCID: https://orcid.org/0000-0003-4629-0683",
+    "Biron, Pascale (Concordia University). ORCID: https://orcid.org/0000-0001-8270-0550",
+    "Maranger, Roxane (Université de Montréal, Groupe de Recherche Interuniversitaire en Limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2509-4678"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: : \nrake and quadrat biomass (g dry mass/m2), chlorophytes biomass (g dry mass/m2), Microseira wollei (or Lyngbya, g dry mass/m2), growth form, biovolume (m), distance to station (m), water level (m), wind speed (m/s), wind direction (tens of degrees to North)",
+    "We provide 4 datasets that describes 1) the comparison between quadrat and rake collected biomass (QR), 2) the comparison of rake biomass and biovolume, a biomass proxy derived from echosounding (RE), 3) a validation dataset that confront quadrat measurements to quadrat prediction measured from echosounding using two intercalibration equations (derived from QR and RE datasets), and 4) a whole-system biomass estimation comparing biomass predicted from echosounding and from rake.\n\nOriginal data comes from the Saint Lawrence River, mainly from Lac Saint-Pierre, but for the QR dataset also from Lac Saint-François and Lac Saint-Louis. Data from the QR (2006-2009) and validation dataset (2016) were collected by Christiane Hudon, Environment and Climate Change Canada, while the RE dataset and part of the validation dataset were collected as part of a project led by the Groupe de recherche interuniversitaire en limnologie (GRIL, 2012-2015) and by Morgan Botrel Ph.D. candidate (2016-2017, Université de Montréal). Data were created for an article on a method to estimate SAV biomass, led by Morgan Botrel and supervisor Roxane Maranger, with co-supervisor Christiane Hudon and Pascale Biron."
+  ],
+  "dct_identifier_sm": [
+    "354921_281357_281358",
+    "https://doi.org/10.5683/SP3/XCABOV"
+  ],
+  "dct_issued_s": "2022-09-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XCABOV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "St. Lawrence River submerged aquatic vegetation quadrat biomass, rake biomass and echosounding data [2006-2016]",
+  "gbl_mdModified_dt": "2023-12-08T13:54:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "238d8bfb-0b35-5a36-b2d6-1f7f2de34137",
+  "locn_geometry": "ENVELOPE(-74.21, -72.52, 46.13, 45.08)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

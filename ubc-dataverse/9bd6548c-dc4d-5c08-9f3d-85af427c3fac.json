@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Synopsyllus fonquerniei",
+    "disease persistence",
+    "metapopulation structure",
+    "Host resistance",
+    "plague",
+    "Rattus rattus",
+    "Xenopsylla cheopis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gascuel, Fanny (Institut de Recherche pour le Développement).",
+    "Choisy, Marc (Oxford University Clinical Research Unit).",
+    "Duplantier, Jean-Marc (Institut de Recherche pour le Développement).",
+    "Débarre, Florence (University of British Columbia).",
+    "Brouat, Carine (Institut de Recherche pour le Développement)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/OBN1oHDEGemSuqSe2o-wQ5gm9NYjmLmbmMeENHFcU38</p>\n<p><b>Storage size:</b> 53795</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Although bubonic plague is an endemic zoonosis in many countries around the world, the factors responsible for the persistence of this highly virulent disease remain poorly known. Classically, the endemic persistence of plague is suspected to be due to the coexistence of plague resistant and plague susceptible rodents in natural foci, and/or to a metapopulation structure of reservoirs. Here, we test separately the effect of each of these factors on the long-term persistence of plague. We analyse the dynamics and equilibria of a model of plague propagation, consistent with plague ecology in Madagascar, a major focus where this disease is endemic since the 1920s in central highlands. By combining deterministic and stochastic analyses of this model, and including sensitivity analyses, we show that (i) endemicity is favoured by intermediate host population sizes, (ii) in large host populations, the presence of resistant rats is sufficient to explain long-term persistence of plague, and (iii) the metapopulation structure of susceptible host populations alone can also account for plague endemicity, thanks to both subdivision and the subsequent reduction in the size of subpopulations, and extinction-recolonization dynamics of the disease. In the light of these results, we suggest scenarios to explain the localized presence of plague in Madagascar.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure1</h4><div class=\"o-metadata__file-description\">R script computing and plotting the equilibrium states for a susceptible population, according to the rat's maximal birth rate, r, and the transmission rate, beta. (a) K = 25,000 rats, (b) K = 1,000 rats.</div><div class=\"o-metadata__file-name\">figure1.r</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 1 - system dynamics</h4><div class=\"o-metadata__file-description\">System dynamics (in C language) used in figure1.r (system (S1.1) in the supporting text S1 of the article).</div><div class=\"o-metadata__file-name\">si_fig1.c</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 2</h4><div class=\"o-metadata__file-description\">R script computing and plotting the equilibrium states for a rat population including resistant rats, according to the maximal birth rate of rats, r, and the transmission rate, beta. K = 25,000 rats.</div><div class=\"o-metadata__file-name\">figure2.r</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 2 - system dynamics</h4><div class=\"o-metadata__file-description\">System dynamics (in C language) used in figure2.r (system (1) in the main text of the article).</div><div class=\"o-metadata__file-name\">sir_fig2.c</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 3</h4><div class=\"o-metadata__file-description\">R script computing the equilibrium states for a susceptible host metapopulation composed of (a) 2 subpopulations, (b) 4 subpopulations and (c) 25 subpopulations (deterministic analysis). Total carrying capacity = 25,000 rats.</div><div class=\"o-metadata__file-name\">figure3.r</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 3 (a) - system dynamics with 2 subpopulations</h4><div class=\"o-metadata__file-description\">System dynamics (in C language) used in figure3.r to compute the equilibrium states of a host structured susceptible population composed of 2 subpopulations.</div><div class=\"o-metadata__file-name\">sir2P_fig3a.c</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 3 (b) - system dynamics with 4 subpopulations</h4><div class=\"o-metadata__file-description\">System dynamics (in C language) used in figure3.r to compute the equilibrium states of a host structured susceptible population composed of 4 subpopulations.</div><div class=\"o-metadata__file-name\">sir4P_fig3b.c</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 3 (c) - system dynamics with 25 subpopulations</h4><div class=\"o-metadata__file-description\">System dynamics (in C language) used in figure3.r to compute the equilibrium states of a host structured susceptible population composed of 25 subpopulations.</div><div class=\"o-metadata__file-name\">sir25P_fig3c.c</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Figure 4 (a)</h4><div class=\"o-metadata__file-description\">R script computing and plotting the estimated probability of persistence of susceptible rats S and infectious rats I through time, in a non structured population of K=25,000 rats. To get Figures 4(b) and 4(c), only the parameter values need to be modified in this file.</div><div class=\"o-metadata__file-name\">figure4a.r</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152409_150149",
+    "https://doi.org/10.5683/SP2/IIGUUY"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/IIGUUY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Host resistance, population structure and the long-term persistence of bubonic plague: contributions of a modelling approach in the Malagasy focus",
+  "gbl_mdModified_dt": "2021-05-20T01:14:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9bd6548c-dc4d-5c08-9f3d-85af427c3fac",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

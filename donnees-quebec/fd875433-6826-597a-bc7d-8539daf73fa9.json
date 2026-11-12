@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Précipitation",
+    "Neige",
+    "Pluie",
+    "Donnée horaire",
+    "Température",
+    "Mesure météorologique",
+    "Station météorologique",
+    "Vent"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de la surveillance de la qualité de l'air et du climat."
+  ],
+  "dct_description_sm": [
+    "Ce jeu de données permet de télécharger les données météorologiques horaires les plus récentes des stations du [Réseau de surveillance du climat du Québec](https://www.environnement.gouv.qc.ca/climat/surveillance/) (RSCQ), opéré par le ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP). Les données sont systématiquement mises à jour à la **20ᵉ minute de chaque heure**. Divers formats de diffusion sont disponibles :\r\n\r\n* **CSV** : Format tabulaire facilement lisible. Il est recommandé pour la majorité des utilisateurs. Deux périodes de données horaires sont offertes : **24 dernières heures** et **30 derniers jours**. Deux sous-formats sont offerts¹ : un format avec données groupées par station, date et phénomène météorologique et un format avec données non groupées.\r\n* **GeoJSON** : Ce format est conçu pour faciliter la consultation des données sur carte. Les données horaires groupées¹ par station, date et phénomène météorologique des **24 dernières heures** sont disponibles.\r\n* **Parquet** : Format léger et permettant de faire des requêtes rapides. Ce format est recommandé pour les utilisateurs spécialisés uniquement.  Deux périodes de données horaires sont offertes : **24 dernières heures** et **30 derniers jours**.  Deux sous-formats sont offerts¹ : un format avec données groupées par station, date et phénomène météorologique et un format avec données non groupées.\r\n* **RMCQ** : Ce format respecte la norme définie pour les échanges entre partenaires du Réseau météorologique coopératif du Québec (RMCQ). La nomenclature et la description du format du contenu des fichiers RMCQ sont décrites dans la ressource. Lors de la mise à jour horaire, un nouveau fichier contenant les nouvelles données météorologiques horaires disponibles depuis la dernière mise à jour est déposé sur un serveur du MELCCFP. Les fichiers horaires des **30 derniers jours** sont disponibles.   Les liens de téléchargement uniques à chacun des fichiers se retrouvent dans le fichier CSV en ressource ci-dessous. \r\n\r\n¹ Dans le format non groupé, chaque ligne contient une seule donnée. Dans le format groupé, les données des différents phénomènes météorologiques (températures maximale et minimale, pluie et neige, etc.) d'une même station et heure sont présentées sur une même ligne. Lorsque plusieurs mesures d'un même phénomène météorologique sont disponibles à une station, c'est la mesure dont l'ordre de priorité est le plus petit qui est diffusée. L'ordre de priorité de chacune des définitions de données météorologiques est fourni dans la ressource [Liste des définitions de données](https://www.donneesquebec.ca/recherche/dataset/rscq-donnees-meteorologiques-horaires-recentes/resource/ec9f420f-6e3e-4e5b-b06a-acac777f71fa). Par exemple, aux stations où la température moyenne est mesurée par deux instruments, une thermistance dans un abri Gill en milieu dégagé (TAm000H, ordre de priorité = 1) et en clairière forestière (Tam300H, ordre de priorité = 3), c'est la valeur de la thermistance dans un abri Gill en milieu dégagé qui est diffusée dans le format groupé."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/02c6e042-c3a4-491d-a9e4-501308548a8e"
+  ],
+  "dct_issued_s": "2026-03-18",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/02c6e042-c3a4-491d-a9e4-501308548a8e\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "RSCQ − Données météorologiques horaires récentes",
+  "gbl_mdModified_dt": "2026-09-25T08:40:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fd875433-6826-597a-bc7d-8539daf73fa9",
+  "schema_provider_s": "Données Québec"
+}

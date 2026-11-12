@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "dcat_keyword_sm": [
+    "Ministry of Natural Resources",
+    "MNR",
+    "forest research",
+    "ODCSYNC",
+    "Science and Research Branch",
+    "research plot"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "<p>Derived layer representing research plot features and attributes that require advance notification prior to any planned disturbance within the defined area or polygon.</p><p>The spatial features and attributes in this layer are sourced from the following data classes:</p><ul><li>Research Point (RESPOINT)</li><li>Research Line (RESLINE)&nbsp;</li><li>Research Poly (RESPOLY)</li></ul><p>Temporal constraint</p><p>PREDISTURB_NOTIFY_END_DATE is greater than the date this layer was generated. The spatial extents of features in this derived layer are based on source feature extents, to which specified buffer distances has been added.&nbsp;<br />Applied buffer</p><p>PREDISTURB_NOTIFY_BUFFER_DIST field value (meters).&nbsp;<br />This layer is regenerated at scheduled intervals, with the previous version of this layer archived and replaced by the newly generated version.&nbsp;</p><p><strong>Status:&nbsp;</strong><br />On going: data is continually being updated</p><p><strong>Maintenance and Update Frequency:</strong><br />As required&nbsp;</p><div><strong>Contact</strong><br />Calvin Julie, Natural Resources Information Unit</div><div><ul><li><a href=\"mailto:calvin.julie@ontario.ca\">calvin.julie@ontario.ca</a></li></ul><p><strong>Note</strong><br /><span style=\"background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:inherit; font-size:16px;\"><span style=\"border:0px solid currentcolor; box-sizing:border-box; display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:1.5; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\">Additional features licensed under the Ontario Geospatial Data Exchange (OGDE) Agreement are available to members of the OGDE for professional, non-commercial use only. To find out more about the OGDE visit </span></span><a style=\"background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(0, 97, 155); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:1.5; text-align:left; text-decoration:none; text-indent:0px; text-transform:none; word-spacing:0px;\" target=\"_blank\" href=\"https://www.ontario.ca/page/geospatial-ontario\">Geospatial Ontario</a><span style=\"background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:inherit; font-size:16px;\"><span style=\"border:0px solid currentcolor; box-sizing:border-box; display:inline !important; float:none; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:1.5; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;\"> on Ontario.ca.&nbsp;</span></span>&nbsp;</p></div>"
+  ],
+  "dct_identifier_sm": [
+    "58d90014252a4708abf4fba3ffcde738",
+    "https://www.arcgis.com/home/item.html?id=58d90014252a4708abf4fba3ffcde738"
+  ],
+  "dct_issued_s": "2026-05-01",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/datasets/lio::research-plot-predisturbance-notification\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario | ontario.ca"
+  ],
+  "dct_title_s": "Research Plot Predisturbance Notification",
+  "gbl_mdModified_dt": "2026-08-31T15:24:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9718989d-ed8b-57fc-8232-8d280eba4054",
+  "locn_geometry": "ENVELOPE(-95.838, -73.901, 57.321, 41.358)",
+  "schema_provider_s": "Ontario GeoHub"
+}

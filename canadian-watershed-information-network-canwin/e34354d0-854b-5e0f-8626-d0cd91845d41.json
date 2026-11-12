@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.634805, -126.830603, 56.535735, 50.964887)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Catch, effort, location (latitude, longitude), relative abundance indices, and associated biological data from groundfish multi-species bottom trawl surveys in Hecate Strait.\n\n\nIntroduction \n\n\nThe Hecate Strait (HS) synoptic bottom trawl survey was first conducted in 2005, and has been repeated every second year since.  The survey was not impacted by the COVID-19 pandemic. This survey is one of a set of long-term and coordinated surveys that together cover the continental shelf and upper slope of most of the British Columbia coast.  The other surveys are the Queen Charlotte Sound (QCS) survey, the West Coast Vancouver Island (WCVI) survey, the West Coast Haida Gwaii (WCHG) survey, and the Strait of Georgia (SOG) survey.   The objectives of these surveys are to provide fishery-independent abundance indices of all demersal fish species available to bottom trawling and to collect biological samples of selected species. The surveys follow a random depth-stratified design and the sampling units are 2 km by 2 km blocks.\n\n\nThe synoptic bottom trawl surveys are conducted by Fisheries and Oceans Canada (DFO) in collaboration with the Canadian Groundfish Research and Conservation Society (CGRCS), a non-profit society composed of participants in the British Columbia commercial groundfish trawl fishery.  The Queen Charlotte Sound and West Coast Haida Gwaii surveys are conducted under collaborative agreements, with the CGRCS providing chartered commercial fishing vessels and field technicians, while DFO provides in-kind contributions for running the surveys including personnel and equipment. The Hecate Strait, West Coast Vancouver Island, and Strait of Georgia surveys are conducted by DFO and have typically taken place on a Canadian Coast Guard research vessel.  Until 2016 this vessel was the CCGS W.E. Ricker.  From 2021 onwards, this vessel was the CCGS Sir John Franklin. In years when a coast guard vessel has not been available, the Hecate Strait, West Coast Vancouver Island, and Strait of Georgia surveys have taken place on chartered industry vessels. Data from these surveys are also presented in the groundfish data synopsis report (Anderson et al. 2019).\n\n\nEffort\n\n\nThis table contains information about the survey trips and fishing events (trawl tows/sets) that are part of this survey series. Trip-level information includes the year the survey took place, a unique trip identifier, the vessel that conducted the survey, and the trip start and end dates (the dates the vessel was away from the dock conducting the survey).  Set-level information includes the date, time, location, and depth that fishing took place, as well as information that can be used to calculate fishing effort (duration) and swept area.  All successful fishing events are included, regardless of what was caught.\n\nCatch\n\nThis table contains the catch information from successful fishing events.  Catches are identified to species or to the lowest taxonomic level possible.  Most catches are weighed, but some are too small (“trace” amounts) or too large (e.g. very large Big Skate).  The unique trip identifier and set number are included so that catches can be related to the fishing event information (including capture location).\n\n\nBiology\n\n\nThis table contains the available biological data for catches which were sampled.  Data may include any or all of length, sex, weight, age.  Different length types are measured depending on the species.  Age structures are collected when possible for species where validated aging methods exist and are archived until required for an assessment; therefore, all existing structures have not been aged at this time. The unique trip identifier and set number are included so that samples can be related to the fishing event and catch information.\n\n\nBiomass\n\n\nThis table contains relative biomass indices of species that have been captured in every survey of the time series. The coefficient of variation and bootstrapped 95% confidence intervals are provided for each index.  The groundfish data synopsis report (Anderson et al. 2019) provides an explanation of how the relative biomass indices are derived."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/780a1c02-1f9c-4994-bc70-a0e9ef8e3968"
+  ],
+  "dct_issued_s": "2018-07-31",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/780a1c02-1f9c-4994-bc70-a0e9ef8e3968\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Hecate Strait Synoptic Bottom Trawl Survey",
+  "gbl_mdModified_dt": "2026-07-10T18:31:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e34354d0-854b-5e0f-8626-d0cd91845d41",
+  "locn_geometry": "ENVELOPE(-135.634805, -126.830603, 56.535735, 50.964887)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Ion Regulation",
+    "Gasterosteus aculeatus",
+    "Comparative Physiology",
+    "Salinity",
+    "Natural Selection and Contemporary Evolution",
+    "gene expression",
+    "Transcriptomics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gibbons, Taylor C. (University of British Columbia).",
+    "Rudman, Seth M. (University of British Columbia, University of Pennsylvania).",
+    "Schulte, Patricia M. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/iob8IFoc1agx5ykraLLVOXe51SOBlqZ7jT4Objz6mUI</p>\n<p><b>Storage size:</b> 37444</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Abiotic factors can act as barriers to colonization and drive local adaptation. During colonization, organisms may cope with changes in abiotic factors using existing phenotypic plasticity, but the role of phenotypic plasticity in assisting or hindering the process of local adaptation remains unclear. To address these questions, we explore the role of winter conditions in driving divergence during freshwater colonization and the effects of plasticity on local adaptation in ancestral marine and derived freshwater ecotypes of threespine stickleback (Gasterosteus aculeatus). We found that freshwater-resident stickleback had greater tolerance of acute exposure to low temperatures than marine stickleback, but these differences were abolished after acclimation to simulated winter conditions (9L:15D photoperiod at 4°C). Plasma chloride levels differed between the ecotypes, but showed a similar degree of plasticity between ecotypes. Gene expression of the epithelial calcium channel (ECaC) differed between ecotypes, with the freshwater ecotype demonstrating substantially greater expression than the marine ecotype, but there was no plasticity in this trait under these conditions in either ecotype. In contrast, growth (assessed as final mass) and the expression of an isoform of the electroneutral Na+/H+ exchanger (NHE3) exhibited substantial change with temperature in the marine ecotype that was not observed in the freshwater ecotype under the conditions tested here, which is consistent with evolution of these traits by a process such as genetic assimilation. These data demonstrate substantial divergence in many of these traits between freshwater and marine stickleback, but also illustrate the complexity of possible relationships between plasticity and local adaptation.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Critical thermal minimum (CTmin) of threespine stickleback</h4><div class=\"o-metadata__file-description\">Laboratory determined critical thermal minimum (CTmin). Fish are lab reared crosses of fish from Paxton Lake (Lake) and Oyster Lagoon (Marine), British Columbia and their hybrids (Hybrid).</div><div class=\"o-metadata__file-name\">CTmin_data.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Mortality data for laboratory reared threespine stickleback</h4><div class=\"o-metadata__file-description\">Ecotypes are fish from Oyster Lagoon (M), Paxton Lake (F), and their hybrids (H). Temp = rearing temperature (degrees C). Total Fish = starting number of fish from a given family in a specific tank. Mortalities = total number of fish that died from a given family in a specific tank over the course of the full experiment.</div><div class=\"o-metadata__file-name\">fish_mortalities_data.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Plasma chloride concentration of laboratory reared threespine stickleback</h4><div class=\"o-metadata__file-description\">Threespine stickleback were reared at a salinity of 2 ppt at either 4 or 14 degrees C. Ecotypes used were from Oyster Lagoon (M), Paxton Lake (L), and their hybrids (H). Plasma chloride (Cl-) concentration is reported in mM.</div><div class=\"o-metadata__file-name\">Plasma_chloride_data.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">mRNA levels for ion transporters in the gills of laboratory reared threespine stickleback</h4><div class=\"o-metadata__file-description\">mRNA levels were measured using qRT-PCR in threespine stickleback from Oyster Lagoon (Marine), Paxton Lake (Lake), and their hybrids (Hybrid). The following genes were assessed: sodium hydrogen exchanger isoform 2 (NHE2), sodium hydrogen exchanger isoform 3 (NHE3), epithelial calcium channel (ECaC), V-Type ATPase isoform 1 (V Type 1), V-Type ATPase isoform 2 (V Type 2), and the sodium-potassium ATPase alpha subunit, variant 203 (NKA 203). Expression is normalized to the geometric mean of three control genes.</div><div class=\"o-metadata__file-name\">qPCR_data.csv</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153462_150149",
+    "https://doi.org/10.5683/SP2/FRAJAO"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/FRAJAO\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Responses to simulated winter conditions differ between threespine stickleback ecotypes",
+  "gbl_mdModified_dt": "2021-05-19T19:37:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7b9bacf1-a23c-5ccf-847d-1fcdcfd1957f",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Motoneige",
+    "Ville de shawinigan",
+    "Activite hivernale",
+    "Donnee ouverte",
+    "Skidoo"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polyligne des sentiers de motoneige sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `st_length(shape)` (`Double`) : Longueur\n* `etat` (`String`) : État\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/40dd9b9d51e74f3dbbc47111e45688ad\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/8e09581e-6963-4994-bd6d-b952e2be7648"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/8e09581e-6963-4994-bd6d-b952e2be7648\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Tourisme, sports et loisirs"
+  ],
+  "dct_title_s": "Sentiers de motoneige - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-01T14:02:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5e39207-353c-5807-a17f-22237487f149",
+  "schema_provider_s": "Données Québec"
+}

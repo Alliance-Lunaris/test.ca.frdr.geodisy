@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.49729919, -113.57032776, 51.24372413, 50.76846005)",
+  "dcat_keyword_sm": [
+    "Geographic data",
+    "Données géographiques",
+    "Buildings",
+    "GéoBase",
+    "Change detection",
+    "GéoIA",
+    "Routes",
+    "Automatic Extraction",
+    "Intelligence artificielle",
+    "GeoBase",
+    "Roads",
+    "Extraction Automatique",
+    "GeoAI",
+    "Earth Sciences",
+    "Artificial intelligence",
+    "Calgary",
+    "Détection de changement",
+    "Sciences de la Terre",
+    "Bâtiments",
+    "Forêts",
+    "Calgary",
+    "Forests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "GéoIA - Cas d’utilisation de détection de changement - Calgary"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Temporal analysis of changes in Calgary, Alberta, based on GeoAI features automatically extracted from satellite images acquired in 2011 and 2021. Simple geospatial analysis intersecting Statistics Canada's Open Database of Buildings, version 3 (ODB v3) with GeoAI multidate building features enables the detection of buildings observed in 2021 that were not detected in 2011. The addition of new buildings is a good indicator of urban development and/or sprawl. Using the same approach, GeoAI multidate roads enable the detection of Statistics Canada's National Roads Network (NRN) segments present in 2021 and/or in 2011. The development of new roads is also indicator of urban development and/or sprawl. Complementarily, an analysis of changes in the forest coverage from the GeoAI datasets is done. This analysis reflects the gains and losses between both dates..\n\n‌\n\nGeoAI enables temporal coverage of various areas in Canada, thus providing a useful tool for change detection and trend analysis at high resolution. While the series is still fairly new, and such examples are limited for the time being, NRCan strives to gradually increase its GeoAI data offering for both spatial and temporal coverage.\n\nFor more information about the GeoAI - GeoBase Series, please visit the following link: https://open.canada.ca/data/en/dataset/74738ff5-5367-5958-9aee-98fffdcd1876",
+    "Analyse temporelle de changements de Calgary, Alberta, à partir des entités GéoIA extraites automatiquement des images satellites acquises en 2011 et 2021. Une simple analyse géospatiale croisant la base de données ouverte sur les immeubles de Statistique Canada, version 3 (BDOI v3), avec les bâtiments multi-dates de GéoIA permet de détecter les bâtiments observés en 2021 qui n'avaient pas été détectés en 2011. L'ajout de nouveaux bâtiments est un bon indicateur du développement urbain et/ou de l'étalement urbain. En utilisant la même approche, les routes multi-dates de GéoIA permettent de détecter les segments du Réseau routier national (RRN) de Statistique Canada présents en 2021 et/ou en 2011. Le développement de nouvelles routes est également un indicateur du développement urbain et/ou de l'étalement urbain. En complément, une analyse des changements dans la couverture forestière à partir des ensembles de données GéoIA a été fait. Cette analyse reflète les gains et les pertes entre les deux dates.\n\nGéoIA offre une couverture temporelle de diverses régions du Canada, offrant ainsi un outil utile pour la détection des changements et l'analyse des tendances à haute résolution. Bien que la série soit encore relativement nouvelle et que les exemples soient pour l'instant limités, RNCan s'efforce d'augmenter progressivement son offre de données GéoIA, tant sur le plan spatial que temporel.\n\nPour plus d'informations sur le GéoIA - Série GéoBase, veuillez consulter le lien suivant: https://ouvert.canada.ca/data/fr/dataset/74738ff5-5367-5958-9aee-98fffdcd1876"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/bd07b597-5166-4b62-ae9c-245b3c62ea03"
+  ],
+  "dct_issued_s": "2026-05-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/bd07b597-5166-4b62-ae9c-245b3c62ea03\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "GeoAI - Change detection use case - Calgary",
+  "gbl_mdModified_dt": "2026-07-06T19:29:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c836caba-df07-5a29-b013-bda3806dce2b",
+  "locn_geometry": "ENVELOPE(-114.49729919, -113.57032776, 51.24372413, 50.76846005)",
+  "schema_provider_s": "Open Data Canada"
+}

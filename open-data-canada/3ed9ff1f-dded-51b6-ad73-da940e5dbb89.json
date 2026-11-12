@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Hydrogeology",
+    "Vulnérabilité de l'aquifère",
+    "Hydrogéologie",
+    "Groundwater",
+    "Eau souterraine",
+    "Aquifer Vulnerability"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Vulnérabilité des aquifères, Programme géoscientifique des eaux souterraines"
+  ],
+  "dct_creator_sm": [
+    "Francois Letourneau."
+  ],
+  "dct_description_sm": [
+    "A measure of the intrinsic susceptibility of an aquifer representing the tendency or likelihood for contaminants to reach a specified position in the groundwater system after introduction at some location above the uppermost aquifer. The method used to create the dataset is described in the metadata associated with the dataset. The dataset is a general assessment of the vulnerability of the hydrogeological unit considered as a whole. It features the local and regional qualifiers in a controlled vocabulary list referring to the extent where the vulnerability value is valid. Because the vulnerability is assessed using contextual indices linked to the regional hydrogeological settings, it is very unlikely to have an homogeneous range of data throughout the various hydrogeologic units across the country for this dataset. Hence, the vulnerability dataset will not qualify as an homogeneous dataset. A more generic reclassification using for examples three vulnerability classes could then be used to solve this problem. Each sub layers used to create the global vulnerability index can be provided along with the final vulnerability index map.",
+    "Une mesure de la sensibilité intrinsèque d'un aquifère, représentant la tendance ou probabilité qu'un contaminant puisse atteindre une position spécifique dans le système aquifère après son introduction à un emplacement au-dessus de l'aquifère supérieur. La méthode utilisée pour créer le jeu de données est décrite dans le fichier de métadonnées. Le jeu de données représente une évaluation générale de la vulnérabilité de l'unité hydrogéologique considérée comme un tout. Il dispose de qualificatifs locaux et régionaux de la vulnérabilité, à partir d'un vocabulaire défini. La vulnérabilité étant évaluée à partir d'indices contextuelles liés au contexte hydrogéologique régional, il est peu probable d'obtenir une gamme d'indice de vulnérabilité homogène à travers les diverses unités hydrogéologiques du pays. Le jeu de données de la vulnérabilité ne sera donc pas homogène. Une reclassification globale en trois classes peut être ensuite réaliser pour homogéniser les données. Chaque couches de données employée pour évaluer l'indice global de la vulnérabilité peuvent être fournies avec la carte finale de l'indice de vulnérabilité."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2bab2f9d-4e3e-e1bb-69c0-c50fb7dda347"
+  ],
+  "dct_issued_s": "2014-09-30",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2bab2f9d-4e3e-e1bb-69c0-c50fb7dda347\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Aquifer Vulnerability, Groundwater Geoscience Program",
+  "gbl_mdModified_dt": "2020-05-05T17:45:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3ed9ff1f-dded-51b6-ad73-da940e5dbb89",
+  "locn_geometry": "ENVELOPE(-144.0, -52.0, 84.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

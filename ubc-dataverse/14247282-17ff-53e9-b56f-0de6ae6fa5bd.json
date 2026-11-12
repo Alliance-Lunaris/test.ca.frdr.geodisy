@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "LiDAR",
+    "land surface temperature",
+    "Canopy cover",
+    "multiple linear regression",
+    "Landsat",
+    "microclimate"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ng, Meagan (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Climate change is a key factor in how extreme weather events affect how ecosystems and species react to these changes in temperatures. University of British Columbia's (UBC) Botanical Garden is interested in improving microclimate information within the garden to understand how areas with shade create respite zones for species. Due to the recent extreme weather temperatures in Vancouver, the garden is interested in how to continue to adapt and mitigate to these extremes. Microclimates are important as they are cooler temperatures beneath the canopy. Looking at how canopy cover influences land surface temperature can give insight on microclimates. Using LiDAR metrics to calculate canopy cover and Landsat to calculate land surface temperature, a model was built to understand the significance of canopy cover and land surface temperature, with the addition of other LiDAR metrics. The model could only determine a 34% variation between the variables tested. Canopy cover showed to have a p-value of 0.0993 and maximum height had a p-value of 0.0034. To investigate the results further, an unpaired t-test was run to determine the relationship between areas with canopy cover and areas without canopy cover. The t-test showed there are significant differences as the p-value was 0.0035. With the results, they provide observations of how canopy cover currently influences microclimate within the garden. Areas found to have a high percentage of canopy cover reflected lower land surface temperatures. Currently, the model has the structure to predict canopy cover with LiDAR metrics. However, finer data is needed to accurately predict microclimate. Recommendations are provided to enhance the study area with future directions for research within UBC Botanical Garden to conduct a more intricate analysis."
+  ],
+  "dct_identifier_sm": [
+    "328428_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/XR35J2"
+  ],
+  "dct_issued_s": "2022-04-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XR35J2\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Understanding Microclimate in University of British Columbia's Botanical Garden",
+  "gbl_mdModified_dt": "2024-10-22T16:58:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "14247282-17ff-53e9-b56f-0de6ae6fa5bd",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

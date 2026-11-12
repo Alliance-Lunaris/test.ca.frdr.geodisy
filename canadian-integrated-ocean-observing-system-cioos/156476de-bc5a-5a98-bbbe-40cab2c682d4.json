@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.91, -69.84, 47.6, 47.57)",
+  "dcat_keyword_sm": [
+    "watershed",
+    "inorganicCarbon",
+    "Oceans",
+    "physical-chemical",
+    "stableCarbonIsotopes",
+    "zone côtière",
+    "bassin versant",
+    "Carbone inorganique",
+    "nutrients",
+    "seaSurfaceTemperature",
+    "Isotopes stables du carbone",
+    "Salinité de surface",
+    "seaSurfaceSalinity",
+    "échange océan-atmosphère",
+    "coastal zone",
+    "Température de surface",
+    "RQM",
+    "physico-chimie",
+    "Nutriments",
+    "Carbonate system parameters",
+    "Paramètres du système des carbonates",
+    "ocean-atmosphere exchange"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Chimie des carbonates le long d'un petit continuum rivière-océan côtier (Kamouraska, Qc, Canada)"
+  ],
+  "dct_creator_sm": [
+    "Turcotte, Olivier (Université du Québec à Rimouski, Institut des sciences de la mer).",
+    "Guay, Carole-Anne (Institut des sciences de la mer).",
+    "Mucci, Alfonso (McGill University).",
+    "Noisette, Fanny (Université du Québec à Rimouski, Rimouski Marine Sciences Institute, ISMER, Institut des sciences de la mer).",
+    "Chaillou, Gwenaelle (ISMER, Rimouski Marine Sciences Institute, Université du Québec à Rimouski, Institut des sciences de la mer)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains all the chemical parameters measured during expeditions between May 2021 and October 2022 in the surface waters of Kamouraska's coastal waters. The data are divided into two databases.\n\nThe first contains all chemical parameters measured at fixed stations. Sampling was carried out along the Kamouraska River - Upper St. Lawrence Estuary coastal water continuum at 10 to 13 stations, depending on the expedition. The sampling strategy was to start collecting samples in the Kamouraska River at high-water slack water, then move towards the upper St. Lawrence estuary. Fixed stations upstream of the Kamouraska River, where the water is too low to go up with the boat, and at the mouth of the Kamouraska River, are also included in this database, along with the coordinates of all the stations. Surface water samples were collected using a Niskin bottle, and physico-chemical parameters were obtained using a CTD probe on board the boat, and using a YSI probe for the other stations.\nParameters measured include :\n\n- Temperature - T\n- pH<sub>NBS</sub>\n- pH<sub>T</sub>\n- Practical salinity\n- Dissolved inorganic carbon - DIC\n- Measured Total alkalinity - TA<sub>meas</sub>\n- Calculated Total alkalinity - TA<sub>calc</sub>\n- 13C signature of the DIC - δC13-DIC\n- Total nitrates - ƩNO<sub>3</sub>\n- Nitrites – NO<sub>2</sub><sup>-</sup>\n- Soluble reactive phosphorus – SRP\n- Dissolved silicate - DSi\n\nThe second database contains in situ data collected in parallel. Continuous pCO<sub>2</sub> measurements were taken from the boat. A submersible pump was deployed from the side of the boat, pumping surface water into a degassing chamber connected to a CO<sub>2</sub> analyzer (LI-830). Data are obtained every second, 5 seconds or 30 seconds depending on the expedition, and each measurement is coupled to a GPS position.",
+    "Ce jeu de données contient l’ensemble des paramètres chimiques ayant été mesurés lors des expéditions entre mai 2021 et octobre 2022 dans les eaux de surface des eaux côtières du Kamouraska. Les données sont divisées en deux bases de données.\n\nLa première contient l’ensemble des paramètres chimiques ayant été mesurés sur des stations fixes. Cet échantillonnage a été effectué le long du continuum Rivière Kamouraska - Eau côtière de l’estuaire supérieur du Saint-Laurent sur 10 à 13 stations, selon l’expédition. La stratégie d’échantillonnage était de démarrer la collecte d’échantillon dans la rivière Kamouraska à l’étale de haute mer, puis de se diriger vers l’estuaire supérieur du Saint-Laurent. Des stations fixes en amont de la rivière Kamouraska, où l’eau est trop basse pour y remonter avec le bateau, ainsi qu’à l’embouchure de la rivière Kamouraska, sont également incluses dans cette base de données, ainsi que les coordonnées de l’ensemble des stations. Les échantillons d’eau de surface ont été récoltés à l’aide d’une bouteille Niskin, et les paramètres physico-chimiques ont été obtenus à l’aide d’une sonde CTD à bord du bateau, et à l’aide d’une sonde YSI pour les autres stations.\nLes paramètres mesurés incluent :\n\n- Température - T \n- pH<sub>NBS</sub>\n- pH<sub>T</sub>\n- Salinité pratique\n- Carbone inorganique dissout – DIC\n- Alcalinité totale mesurée – TA<sub>meas</sub>\n- Alcalinité totale calculée – TA<sub>calc</sub>\n- Signature en C13 du DIC – δC13-DIC\n- Nitrates totaux - ƩNO<sub>3</sub>\n- Nitrites – NO<sub>2</sub><sup>-</sup>\n- Phosphore réactif soluble – SRP\n- Silice dissoute - DSi\n\nLa seconde base de données contient les données in situ récoltées en parallèle. En effet, des mesures de pCO<sub>2</sub> en continu ont été effectuées à partir du bateau. Une pompe submersible a été déployée à partir du côté du bateau, permettant de pomper l’eau de surface dans une chambre à dégazage connectée à un analyseur de CO<sub>2</sub> (LI-830). Les données sont obtenues à chaque seconde, 5 secondes ou 30 secondes selon l’expédition et chaque mesure est couplée à une position GPS."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/276e2aa8-0b8b-446b-80f2-4469318e42d2"
+  ],
+  "dct_issued_s": "2021-05-24",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/276e2aa8-0b8b-446b-80f2-4469318e42d2\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Carbonate Chemistry Along a Small River-Coastal Ocean Continuum (Kamouraska River, Qc, Canada)",
+  "gbl_mdModified_dt": "2026-07-31T16:34:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "156476de-bc5a-5a98-bbbe-40cab2c682d4",
+  "locn_geometry": "ENVELOPE(-69.91, -69.84, 47.6, 47.57)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

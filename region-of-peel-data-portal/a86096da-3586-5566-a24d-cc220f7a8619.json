@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.16264804549652, -79.53062026826271, 43.99614409928337, 43.482044738188485)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "run",
+    "biking",
+    "Open Data",
+    "bicycle lanes",
+    "inline skating",
+    "walking",
+    "hiking trails",
+    "Crossing",
+    "hike",
+    "hiking",
+    "active transportation",
+    "Name",
+    "Surface",
+    "Cycling",
+    "bicycle",
+    "Class",
+    "multi-use trail"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<p>The trails are represented as a single line network, with attribute information describing the type of path, its surface, the municipality it is located in, <span>whether there is a separated crossing, </span><span>and a name, if one exists. Trails may cross busy intersections, rail lines, and private property. Please follow the signage and use common sense and your best judgement when encountering dangerous situations along the trails.</span></p>\n\nThe trails are connected to Peel's <a href='https://data.peelregion.ca/datasets/streets/explore' rel='nofollow ugc'>Streets feature class</a> so that it can be used in conjunction with the road network to perform pedestrian network routing (under the assumption that every road that's not a 400-series freeway has sidewalks).<p></p>\n\n<p>The digitizing of the network is done with yearly 7.5cm orthoimagery.</p>"
+  ],
+  "dct_identifier_sm": [
+    "53614ce32dd144e49d23dbb0a3586074",
+    "https://www.arcgis.com/home/item.html?id=53614ce32dd144e49d23dbb0a3586074"
+  ],
+  "dct_issued_s": "2019-11-19",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::trails\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Trails",
+  "gbl_mdModified_dt": "2024-01-13T15:36:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a86096da-3586-5566-a24d-cc220f7a8619",
+  "locn_geometry": "ENVELOPE(-80.16264804549652, -79.53062026826271, 43.99614409928337, 43.482044738188485)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

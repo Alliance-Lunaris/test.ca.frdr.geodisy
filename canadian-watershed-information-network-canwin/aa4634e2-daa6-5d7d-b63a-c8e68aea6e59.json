@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Stems per hectare - hardwood (SPHHWD) is an expression of the number of merchantable hardwood trees on a per-hectare basis. Available here as hardwood stems per hectare raster (GeoTIF) with a 20 m pixel resolution.  \n  \n  Download: Here The Saskatchewan Ministry of Environment, Forest Service Branch, has developed a forest resource inventory (FRI) which meets a variety of strategic and operational planning information needs for the boreal plains. Such needs include information on the general land cover, terrain, and growing stock (height, diameter, basal area, timber volume and stem density) within the provincial forest and adjacent forest fringe. This inventory provides spatially explicit information as 10 m or 20 m raster grids and as vectors polygons for relatively homogeneous forest stands or naturally non-forested areas with a 0.5 ha minimum area and a 2.0 ha median area.  Stems per hectare - hardwood (SPHHWD) is an expression of the number of merchantable hardwood trees on a per-hectare basis. SPHHWD is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 20 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing SPHHWD data in the following 500 stems/ha categories. Domain: [NULL, 0…100,000]. RANGE LABEL RED GREEN BLUE 0 <= SPHHWD < 250 0 NA NA NA 250 <= SPHHWD < 750 500 63 81 181 750 <= SPHHWD < 1250 1000 67 112 147 1250 <= SPHHWD < 1750 1500 72 144 114 1750 <= SPHHWD < 2250 2000 76 175 80 2250 <= SPHHWD < 2750 2500 136 195 73 2750 <= SPHHWD < 3250 3000 195 215 66 3250 <= SPHHWD < 3750 3500 255 235 59 3750 <= SPHHWD < 4250 4000 255 207 39 4250 <= SPHHWD < 4750 4500 255 180 20 4750 <= SPHHWD < 5250 5000 255 152 0 5250 <= SPHHWD < 5750 5500 251 124 18 5750 <= SPHHWD < 6250 6000 248 95 36 6250 <= SPHHWD < 6750 6500 244 67 54For more information, see the Forest Inventory Standard of the Saskatchewan Environmental Code, Forest Inventory Chapter."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ceebfe5-8e44-0fd7-7d35-e605812eb6d2"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ceebfe5-8e44-0fd7-7d35-e605812eb6d2\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "FRI: Stems per hectare - hardwood",
+  "gbl_mdModified_dt": "2025-02-05T19:18:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "aa4634e2-daa6-5d7d-b63a-c8e68aea6e59",
+  "locn_geometry": "ENVELOPE(-108.126, -102.9661, 55.0468, 52.7628)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

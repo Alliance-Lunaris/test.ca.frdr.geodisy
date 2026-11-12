@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.78, -72.24, 45.4, 45.17)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Land use classification on the basis of multidate Landsat-ETM and Radarsat-1 images. Classification is based on the segmentation of images into objects using Definiens Earth software (formerly eCognition©). Object-oriented classification combines fuzzy logic, based on spectral, spatial and contextual properties (statistical functions of belonging), and, as a last resort, the manual identification of objects when automatic classification performs less well for certain objects. Targeted land use classes include agriculture (annual and perennial), the road system (expressways, roads, forest roads), the water system (permanent and non-permanent waterways and non-permanent ponds under forest cover), wetlands, urban areas, and forests. Top-to-bottom multiscale classification, reflecting an approach developed by the Canadian Wildlife Service, Quebec Division, in the context of the Canadian Wetlands Inventory (CWI), has been adapted for land use purposes. The methodological details of this classification approach were published in Grenier et al. 2007.\r\n\r\nGrenier, M., Demers, A.-M., Labrecque, S., Benoit, M., Fournier R., and Drolet B. 2007. An object-oriented method to map wetland using RADARSAT-1 and Landsat-ETM images: test case on two sites in Quebec, Canada. Canadian Journal of Remote Sensing, Vol. 33, Suppl. 1, pp. S28-S45."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/89403cc9-4d38-4be2-830e-021e3fe6601d"
+  ],
+  "dct_issued_s": "2018-05-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/89403cc9-4d38-4be2-830e-021e3fe6601d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Land cover mapping of lake Brome using Landsat-ETM and RADARSAT-1 imagery, 2007",
+  "gbl_mdModified_dt": "2018-05-18T20:20:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d5d9f203-c4ed-5e91-b985-e34804e752fc",
+  "locn_geometry": "ENVELOPE(-72.78, -72.24, 45.4, 45.17)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

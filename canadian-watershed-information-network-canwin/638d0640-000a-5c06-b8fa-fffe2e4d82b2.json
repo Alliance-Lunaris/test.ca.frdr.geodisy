@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-156.50833, -27.79318, 85.86667, -13.14684)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Grain size is the most fundamental physical property of sediment, and these data are widely used in a variety of applications in science. Marine expeditions of the Geological Survey of Canada have been collecting grain size information on seabed and sub-seabed samples for over 50 years. Results have been recorded at 5th phi midpoints since the early 1990's in contrast to the earlier full, half or quarter phi interval end point values. Users of high resolution data must note that the sum of %Silt and %Clay equals the total %Mud makeup and that %Gravel, %Sand, %Silt and %Clay sum to 100%. Summary statistics include percentages of gravel, sand, silt, clay and mud as well as mean, kurtosis, skewness and standard deviation. The quality of these data varies. Results should be used with some caution as they may not be fully representative of seabed grainsize, particularly in areas of sandy and coarser sediment (e.g., sand and mud can leak out of the sampler during recovery). Canada makes no representation or warranty of any kind with respect to the accuracy, usefulness, novelty, validity, scope, completeness or currency of the data and expressly disclaims any implied warranty of merchantability or fitness for a particular purpose of the data. For the purpose of the web mapping service, grain size data are sorted by the expedition id. Coarse and detailed grain size distribution plots are shown when a point is chosen. If the sample contains more that one sub-sample ( e.g., as with a piston core sequence), the grain size plots are stacked in the display window from the top of the core downwards."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/093e437e-ee35-fd32-7da0-807848ec5d64"
+  ],
+  "dct_issued_s": "2020-05-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/093e437e-ee35-fd32-7da0-807848ec5d64\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Seabed grain size analyses, offshore Canada",
+  "gbl_mdModified_dt": "2020-12-09T20:12:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "638d0640-000a-5c06-b8fa-fffe2e4d82b2",
+  "locn_geometry": "ENVELOPE(-156.50833, -27.79318, 85.86667, -13.14684)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

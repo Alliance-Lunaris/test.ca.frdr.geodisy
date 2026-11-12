@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The datasets contain land surface evapotranspiration (ET, in mm of H2O) for Canada's landmass at a spatial resolution of 5-km and temporal intervals of a month and a year over a 24-year period of 2000-2023. The ET was produced by the Land Surface Model EALCO (Ecological Assimilation of Land and Climate Observations) developed at Natural Resources Canada. The EALCO model was run at a 30-minute time step. The monthly (or annual) ET in the datasets is the sum of the 30-minute ET values in a month (or a year). Dew and frost formations simulated by EALCO are included in the ET as negative values, so the ET represents the net water flux between land surface and the atmosphere. Details of the datasets and the EALCO ET modelling algorithms can be found in Wang (2007, Simulation of Evapotranspiration and Its Response to Plant Water and CO2 Transfer Dynamics. J. Hydrometeorology, 9, 426-443, doi: 10.1175/2007JHM918.1) and Wang et al. (2013, Spatial and seasonal variations in evapotranspiration over Canada’s landmass. Hydrol. Earth Syst. Sci., 17, 3561–3575, doi:10.5194/hess-17-3561-2013)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0005301b-624e-4000-8dad-a1a1ac6b46c2"
+  ],
+  "dct_issued_s": "2021-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0005301b-624e-4000-8dad-a1a1ac6b46c2\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Land Surface Evapotranspiration for Canada's Landmass",
+  "gbl_mdModified_dt": "2024-10-29T14:40:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a1ca9ad3-6b86-5ec7-b392-e40f107f59d9",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

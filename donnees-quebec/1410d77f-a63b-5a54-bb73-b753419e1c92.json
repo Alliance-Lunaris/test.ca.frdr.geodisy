@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Batiment",
+    "Neige",
+    "Logement",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polygonale des bâtiments publics et privés sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Contexte de collecte**\n  Informations attributaires mises à jour en 2012 suite à une étude réalisée par le service des Incendies\n\n**Méthode de collecte**\n  Dès qu'il y a une nouvelle orthophotographie, numérisation des bâtiments.(2025)\n+ Ajout d'une empreinte schématique de bâtiment à partir des permis de construction résidentielle principale émis\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _type_batiment_ (_String_) : Type de bâtiment\n* _st_area(shape)_ (_Double_) : \n* _st_length(shape)_ (_Double_) : \n* _id_bat2012_ (_String_) : \n* _matricule_ (_String_) : \n* _adresse_ (_String_) : Adresse\n* _débit_lpm_ (_Integer_) : \n* _débit_gpm_ (_Integer_) : \n* _nombres_et_ (_SmallInteger_) : \n* _type_toitu_ (_String_) : \n* _hauteur_ (_Double_) : \n* _usage__ (_String_) : \n* _localisati_ (_String_) : \n* _nom_batime_ (_String_) : \n* _gicleurs_ (_String_) : \n* _distance_bf_ (_String_) : Borne fontaine\n* _distance_caserne_ (_String_) : \n* _caserne_ (_String_) : Caserne\n* _id_batiment_ (_SmallInteger_) : \n* _permis_neige_ (_String_) : \n* _distance_bf_seche_ (_String_) : Borne sèche\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/c7d24f41286440a09b35c0efb20ff8c9\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/32f75a4d-552f-4ca3-ae03-e1512c0420d7"
+  ],
+  "dct_issued_s": "2026-04-02",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/32f75a4d-552f-4ca3-ae03-e1512c0420d7\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Infrastructures"
+  ],
+  "dct_title_s": "Bâtiments - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-27T07:42:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1410d77f-a63b-5a54-bb73-b753419e1c92",
+  "schema_provider_s": "Données Québec"
+}

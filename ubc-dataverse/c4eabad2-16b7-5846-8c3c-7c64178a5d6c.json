@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "data repositories",
+    "AI in data applications",
+    "data curation",
+    "Borealis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Barsky, Eugene (University of British Columbia). ORCID: https://orcid.org/0000-0002-5119-2271",
+    "Cevik, Zeynep (University of Toronto).",
+    "Cooper, Alexandra (Queen’s University, Queen's University, Queen's University Library). ORCID: https://orcid.org/0000-0002-6087-7782",
+    "Eber, Anneliese (Lakehead University, University of Waterloo). ORCID: https://orcid.org/0009-0000-8922-8877",
+    "Hu, Billie (University of Toronto, Ontario Council of University Libraries). ORCID: https://orcid.org/0009-0004-5821-9424",
+    "Lui, Lok Hei (University of Toronto). ORCID: https://orcid.org/0000-0001-5077-1530",
+    "Pratt, Isaac (McMaster University). ORCID: https://orcid.org/0000-0001-7839-3922"
+  ],
+  "dct_description_sm": [
+    "<p>The Borealis Expert Group's README Working Group was established to develop standardized README templates for research data deposits within Borealis, a Canadian research data repository platform. Comprising members from seven Canadian universities, the Working Group analyzed approximately 20 README templates from Canadian institutions, international organizations, and discipline-specific sources, using AI-assisted analysis followed by manual quality assurance to identify and define a common set of metadata elements.</p>\n\n<p>The Working Group's central output is a two-tiered README framework. The Minimum README establishes a baseline of nine essential elements, including title, author, description, contact information, licensing, persistent identifier, research methodology, related publications, and software requirements, providing enough context for users to locate, evaluate, and potentially reuse a dataset. The Enhanced (Recommended) README builds on this foundation with thirteen additional elements covering variable lists, file inventories, data collection and processing details, geographic and temporal coverage, funding information, versioning, and contributor acknowledgements. Together, these tiers give depositors a scalable, practical documentation standard suited to datasets of varying complexity.</p>\n\n<p>The framework is designed to serve both researchers depositing data and curators supporting them, ensuring that README files consistently address the who, what, where, when, why, and how of a dataset. Clear definitions for each element reduce ambiguity and support the long-term discoverability, usability, and reproducibility of research data.</p>\n\n<p>With the framework now finalized, the next phase of work will focus on technical implementation — integrating these elements into the Borealis platform to enable automated README generation at the point of deposit.</p>"
+  ],
+  "dct_identifier_sm": [
+    "1150002",
+    "https://doi.org/10.5683/SP3/CJ5X5O"
+  ],
+  "dct_issued_s": "2026-04-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CJ5X5O\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "README for research data deposits in Borealis: minimum and enhanced metadata elements",
+  "gbl_mdModified_dt": "2026-04-24T03:41:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c4eabad2-16b7-5846-8c3c-7c64178a5d6c",
+  "schema_provider_s": "UBC Dataverse"
+}

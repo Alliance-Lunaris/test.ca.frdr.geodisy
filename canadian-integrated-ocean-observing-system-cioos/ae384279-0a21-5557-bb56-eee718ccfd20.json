@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.15445681, -127.95404703, 51.71899959, 51.61731613)",
+  "dcat_keyword_sm": [
+    "carbone-organique-dissous",
+    "other",
+    "oceans",
+    "carbon",
+    "biogeochemistry",
+    "nutrients",
+    "watersheds",
+    "autre",
+    "oceanography",
+    "dissolvedorganiccarbon",
+    "nutriments"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nutriments et carbone organique dissous dans les eaux douces et marines du canal Kwakshua, Colombie-Britannique, Canada"
+  ],
+  "dct_creator_sm": [
+    "St. Pierre, Kyra (Hakai Institute, UOttawa, University of Ottawa, Canada).",
+    "Hunt, Brian P. V. (University of British Columbia).",
+    "Tank, Suzanne (University of Alberta).",
+    "Giesbrecht, Ian (Hakai Institute).",
+    "Floyd, William (Malaspina College, Hakai Institute, British Columbia Ministry of Forests, Vancouver Island University).",
+    "Korver, Maartje C. (Hakai Institute, McGill University).",
+    "Oliver, Allison (University of Alberta, Skeena Fisheries Commission, Simon Fraser University).",
+    "Lertzman, Ken (Simon Fraser University).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This data package contains data associated with the manuscript St. Pierre et al. (2020), to be submitted to Biogeosciences. Data in this package characterise spatial and temporal variability in nutrient (nitrogen, phosphorus, iron, silica) and dissolved organic carbon (DOC) concentrations in seven freshwater streams on Calvert and Hecate Islands, and the surface (0-5 m) waters at 13 marine stations within Meay and Kwakshua Channels on the British Columbia Central Coast. Briefly, the streams and marine stations were sampled at approximately monthly intervals between August 2014 and December 2018. Detailed information on sampling protocols, sample analysis, and data processing can be found in St. Pierre et al. (2020).\n\nThere are 4 datasets associated with this package. Data dictionaries associated with each dataset are included in the ‘Data dictionary.xlsx’ spreadsheet. Methodological information is detailed in St. Pierre et al. (2020). Each dataset is described below: \n‘Freshwater Chemistry (2014-2018) - Final.csv’: Concentrations of nutrients and dissolved organic carbon in mg/L. Used with discharge data to calculate stream fluxes.  \n‘All watershed nutrient fluxes - Final.csv’: Daily nutrient and organic carbon fluxes by watershed between 1-Aug-2014 and 31-Dec-2018. Also includes stoichiometric ratios of the fluxes. \n‘Marine Nutrient + YSI data - Final.csv’: Measured surface water (0-5 m) nutrient and dissolved organic carbon chemistry across 13 marine stations in Kwakshua and Meay Channels.  \n‘Watershed Time Series - Rain and Air Temp.csv’: Watershed-specific monthly mean, minimum, and maximum air temperature and total monthly rainfall. Climate normals, model monthly temperature and precipitation were extracted from climatewna.com (Wang et al. 2016) using the weather station coordinates for comparison with the measured quantities and are also included.  \n\nDetailed methodology is found in:   \nSt. Pierre, K.A., Hunt, B.P.V, Tank, S.E., Giesbrecht, I., Floyd, W.C., Korver, M.C., Lertzman, K. (2020) Rain-fed streams dilute inorganic nutrients but subsidise organic matter-associated nutrients in coastal waters of the northeast Pacific Ocean. [To be submitted to Biogeosciences]\n\nAssociated are the discharge dataset (Korver et al. 2019a) and stream rainfall event sampling dataset (Korver et al. 2019b). Stream rainfall event chemistry is integrated into the ‘Freshwater Chemistry (2014-2018) Final.csv’ dataset.",
+    "Ce paquet de données contient des données associées au manuscrit St. Pierre et al. (2020), à soumettre à Biogéosciences. Les données de cet ensemble caractérisent la variabilité spatiale et temporelle des concentrations de nutriments (azote, phosphore, fer, silice) et de carbone organique dissous (COD) dans sept cours d'eau douce des îles Calvert et Hécate, et dans les eaux de surface (0-5 m) de 13 stations marines dans les chenaux Meay et Kwakshua sur la côte centrale de la Colombie-Britannique. En bref, les cours d'eau et les stations maritimes ont été échantillonnés à des intervalles approximativement mensuels entre août 2014 et décembre 2018. Des informations détaillées sur les protocoles d'échantillonnage, l'analyse des échantillons et le traitement des données sont disponibles dans St. Pierre et al. (2020).\n\nQuatre jeux de données sont associés à ce package. Les dictionnaires de données associés à chaque jeu de données sont inclus dans la feuille de calcul « Data dictionary.xlsx ». Les informations méthodologiques sont détaillées dans St. Pierre et al. (2020). Chaque jeu de données est décrit ci-dessous : \n« Chimie des eaux douces (2014-2018) - Final.csv » : Concentrations de nutriments et de carbone organique dissous en mg/L. Utilisées avec les données sur les rejets pour calculer les flux des cours d'eau. \n« Flux nutritifs de tous les bassins versants - Final.csv » : flux quotidiens de nutriments et de carbone organique par bassin versant entre le 1er août 2014 et le 31 décembre 2018. Inclut également les rapports stoechiométriques des flux. \n« Données sur les éléments nutritifs marins + YSI - Final.csv » : Mesure de la chimie des nutriments et du carbone organique dissous dans les eaux de surface (0-5 m) dans 13 stations marines des chenaux Kwakshua et Meay. \n« Série chronologique des bassins versants - Pluie et air Temp.csv » : températures mensuelles moyennes, minimales et maximales de l'air et précipitations mensuelles totales propres au bassin versant. Les normales climatiques, la température mensuelle du modèle et les précipitations ont été extraites du site climatewna.com (Wang et al. 2016) en utilisant les coordonnées de la station météorologique pour comparaison avec les quantités mesurées et sont également incluses. \n\nLa méthodologie détaillée se trouve dans : \nSaint-Pierre, K.A., Hunt, B.P.V, Tank, SE, Giesbrecht, I., Floyd, W.C., Korver, M.C., Lertzman, K. (2020) Les cours d'eau pluviaux diluent les nutriments inorganiques mais subventionnent les nutriments associés à la matière organique dans les eaux côtières du nord-est de l'océan Pacifique. [À soumettre à Biogéosciences]\n\nL'ensemble de données sur les débits (Korver et al. 2019a) et l'ensemble de données d'échantillonnage des précipitations dans les cours d'eau (Korver et al. 2019b) sont associés. La chimie des précipitations dans les cours d'eau est intégrée dans le jeu de données « Chimie des eaux douces (2014-2018) Final.csv »."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9"
+  ],
+  "dct_issued_s": "2020-08-10",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada",
+  "gbl_mdModified_dt": "2026-09-16T20:23:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae384279-0a21-5557-bb56-eee718ccfd20",
+  "locn_geometry": "ENVELOPE(-128.15445681, -127.95404703, 51.71899959, 51.61731613)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

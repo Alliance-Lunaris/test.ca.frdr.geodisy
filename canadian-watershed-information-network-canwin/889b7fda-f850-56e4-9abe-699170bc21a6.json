@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.05043518, -59.14027893, 47.45079796, 42.73939793)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Exposure to wind-driven waves forms a key physical gradient in nearshore environments influencing both ecological communities and human activities. We calculated a relative exposure index (REI) for wind-driven waves covering the coastal zone of the Scotian Shelf-Bay of Fundy bioregion. We derived REI and two other fetch-based indices (sum fetch, minimum fetch) from two formulations of wind fetch (unweighted and effective fetch) for input points in an evenly spaced fishnet grid (50-m resolution) covering a buffered area within 5 km from the coastline and shallower than 50 m depth. \n\nWe calculated unweighted fetch lengths (m) for 32 compass headings per input point (11.25° intervals), and effective fetch lengths for 8 headings per point (45° intervals). Unweighted fetch is the distance along a given heading from a point in coastal waters to land. Effective fetch is a directionally weighted average of multiple fetch measures around a given heading that reduces the influence of irregular coastline shape on exposure estimates. For fetch calculations, we used land features at a 1:50,000 scale for Canadian administrative boundaries (NrCan 2017), and unknown resolution for St. Pierre and Miquelon, and US states bordering the Gulf of Maine (GADM 2012). The summed and minimum unweighted fetch lengths for each point provide coarse summaries of wave exposure and distance to land, respectively. The relative exposure index (REI) gives a more accurate metric of exposure by combining effective fetch with modelled wind speeds (m s-1) and frequency data. \n\nWe provide the original calculations of unweighted fetch, effective fetch, and other fetch-based indices (i.e., sum, minimum) in csv format along with the REI layer (GeoTIFF format) resampled to 35-m resolution. With broad spatial coverage and high resolution, these indices can support regional-scale distribution modelling of species and biological assemblages in the coastal zone as well as marine spatial planning activities.\n\nWhen using data please cite following:\nO'Brien JM, Wong MC, Stanley RRE (2022) A relative wave exposure index for the coastal zone of the Scotian Shelf-Bay of Fundy Bioregion. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.5433567\n\nReferences\nGADM database of Global Administrative Areas (2012). Global Administrative Areas, version 2.0. (accessed 2 December 2020). www.gadm.org\n\nNatural Resources Canada (2017) Administrative Boundaries in Canada - CanVec Series - Administrative Features - Open Government Portal. (accessed 2 December 2020). https://open.canada.ca/data/en/dataset/306e5004-534b-4110-9feb-58e3a5c3fd97."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/42478434-e0ac-4f40-a4ac-aec40f161a9c"
+  ],
+  "dct_issued_s": "2022-07-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/42478434-e0ac-4f40-a4ac-aec40f161a9c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Fetch and relative wave exposure indices for the coastal zone of the Scotian Shelf-Bay of Fundy bioregion",
+  "gbl_mdModified_dt": "2026-03-24T09:02:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "889b7fda-f850-56e4-9abe-699170bc21a6",
+  "locn_geometry": "ENVELOPE(-67.05043518, -59.14027893, 47.45079796, 42.73939793)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

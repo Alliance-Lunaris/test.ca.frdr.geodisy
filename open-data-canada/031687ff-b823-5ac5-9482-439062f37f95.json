@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.6559, -121.5809, 54.3062, 48.1938)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Océan Pacifique Nord-Est",
+    "Climatology",
+    "Climatologie",
+    "Northeast Pacific Ocean",
+    "Océan"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Les données climatologiques saisonnières de l’océan Pacifique Nord-Est (1980-2010)"
+  ],
+  "dct_creator_sm": [
+    "Lu Guan."
+  ],
+  "dct_description_sm": [
+    "Description:\nSeasonal climatologies (temperature, salinity, and sigma-t) of the Northeast Pacific Ocean were computed from historical observations including all available conductivity-temperature-depth (CTD), bottle, expendable bathy-thermograph (XBT), and Argo data in NOAA (http://www.argo.ucsd.edu/), Marine Environmental Data Service (MEDS), and Institute of Ocean Sciences archives over 1980 to 2010 period in spatial resolution ranging from approximately 100m to 70km.\n\nMethods:\nCalculations, including smooth and interpolation, were carried out in sixty-five subregions and up to fifty-two vertical levels from surface to 5000m. Seasonal averages were computed as the median of yearly seasonal values. Spring months were defined as April to June, summer months were defined as July to September, fall months were defined as October to December, and winter months were defined as January to March.\n\nUncertainties:\nUncertainties are introduced when quality controlled observational data are spatially interpolated to varying distances from the observation point. Climatological averages are calculated from these interpolated values.",
+    "Description:\nLes données climatologiques saisonnières (température, salinité, et sigma-t) de l’océan Pacifique Nord-Est ont été calculées à partir d’observations historiques comprenant toutes les données disponibles de conductivité-température-profondeur (CTD), de bouteilles, de bathythermographes non réutilisables (XBT), du programme Argo de la NOAA (http://www.argo.ucsd.edu/), du Marine Environmental Data Service (MEDS), ainsi que des archives de l’Institut des sciences de la mer sur la période 1980-2010 avec une résolution spatiale allant d’environ 100 m à 70 km.\n\nMéthodes :\nLes calculs, y compris le lissage et l’interpolation des données, ont été effectués dans soixante-cinq sous-régions et jusqu’à cinquante-deux niveaux verticaux de la surface à 5 000 m. Les moyennes saisonnières ont été calculées comme la médiane des valeurs saisonnières annuelles. Les mois de printemps étaient définis comme allant d’avril à juin, ceux d’été comme allant de juillet à septembre, ceux d’automne comme allant d’octobre à décembre et ceux d’hiver comme allant de janvier à mars.\n\nIncertitudes :\nDes incertitudes sont engendrées lorsque les données d’observation qui ont fait l’objet d’un contrôle de la qualité sont interpolées dans l’espace à des distances variables du point d’observation. Les moyennes climatologiques sont calculées à partir de ces valeurs interpolées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4"
+  ],
+  "dct_issued_s": "2020-12-04",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Seasonal Climatologies of the Northeast Pacific Ocean (1980-2010)",
+  "gbl_mdModified_dt": "2026-03-24T08:11:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "031687ff-b823-5ac5-9482-439062f37f95",
+  "locn_geometry": "ENVELOPE(-139.6559, -121.5809, 54.3062, 48.1938)",
+  "schema_provider_s": "Open Data Canada"
+}

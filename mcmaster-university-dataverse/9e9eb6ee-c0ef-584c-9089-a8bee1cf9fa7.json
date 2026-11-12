@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "Electric Vehicle Traction motor",
+    "Electric Machine",
+    "Electric Vehicle"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Patel, Harsh Dipakkumar (McMaster University). ORCID: https://orcid.org/0009-0006-1408-2598",
+    "Yilmaz, Batuhan Sirri (McMaster University). ORCID: https://orcid.org/0009-0004-9171-788X",
+    "Kollmeyer, Phillip J. (McMaster University). ORCID: https://orcid.org/0000-0003-3576-672X",
+    "Bilgin, Berker (McMaster University). ORCID: https://orcid.org/0000-0001-5103-0072",
+    "Emadi, Ali (McMaster University). ORCID: https://orcid.org/0000-0002-0676-1455"
+  ],
+  "dct_description_sm": [
+    "The files are structured in four folders: \n\n<br> <b> - Chevrolet Bolt Drive Unit Part Summary and Photos: </b> Contains an Excel sheet and a PDF file with images of all components along with their corresponding weights.\n<br> <b> - Chevrolet Bolt Drive Unit CAD Data: </b> Includes DXF and drawing files of rotor and stator laminations, as well as 3D CAD models of the rotor and gearbox assembly in .IGS, .STP, and .XT formats.\n<br> <b> - Chevrolet Bolt Motor FEA Model: </b> Provides the FEA model of the traction motor developed in ANSYS and Motor-CAD software. \n<br><b> - Simulation Results: </b> Provides Excel sheets containing simulation results at 250 V, 300 V, 350 V, and 400 V. Each dataset includes results across a speed range of 250 to 8800 rpm (in 250 rpm increments) and current levels from 0 to 400 A RMS (in 20 A steps).\n<br> <b> Note: </b> If the .zip file does not extract properly, try extracting it in a different directory.",
+    "For this dataset, a comprehensive teardown study was conducted on the drive unit of the 2017 Chevrolet Bolt. The study involved a complete teardown of the drive unit, including the 150 kW traction machine and gearbox. Each component was meticulously measured for size and weight. An electromagnetic finite element analysis (FEA) model was developed using measured rotor, stator, and magnet geometries to validate motor performance against published data. Simulation results showed discrepancies of less than 1.6% for torque and 3% for torque ripple."
+  ],
+  "dct_identifier_sm": [
+    "892497",
+    "https://doi.org/10.5683/SP3/LM35Z2"
+  ],
+  "dct_issued_s": "2025-09-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LM35Z2\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Chevrolet Bolt EV Drivetrain Teardown Data and FEA Motor Model",
+  "gbl_mdModified_dt": "2025-09-09T19:25:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9e9eb6ee-c0ef-584c-9089-a8bee1cf9fa7",
+  "schema_provider_s": "McMaster University Dataverse"
+}

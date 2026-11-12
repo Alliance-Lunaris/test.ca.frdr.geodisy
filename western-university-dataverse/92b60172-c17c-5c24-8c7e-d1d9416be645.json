@@ -1,0 +1,38 @@
+{
+  "dcat_keyword_sm": [
+    "Census"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "UNI-CEN Project (Western University)."
+  ],
+  "dct_description_sm": [
+    "UNI-CEN Standardized Census Data Tables contain Census data that have been reformatted into a common table format with standardized variable names and codes. The data are provided in two tabular formats for different use cases. \"Long\" tables are suitable for use in statistical environments, while \"wide\" tables are commonly used in GIS environments. The long tables are provided in Stata Binary (dta) format, which is readable by all statistics software. The wide tables are provided in comma-separated values (csv) and dBase 3 (dbf) formats with codebooks. The wide tables are easily joined to the UNI-CEN Digital Boundary Files. For the csv files, a .csvt file is provided to ensure that column data formats are correctly formatted when importing into QGIS. A schema.ini file does the same when importing into ArcGIS environments. As the DBF file format supports a maximum of 250 columns, tables with a larger number of variables are divided into multiple DBF files. For more information about file sources, the methods used to create them, and how to use them, consult the documentation at https://borealisdata.ca/dataverse/unicen_docs. For more information about the project, visit https://observatory.uwo.ca/unicen."
+  ],
+  "dct_identifier_sm": [
+    "403107_201809_290067_397413",
+    "https://doi.org/10.5683/SP3/FJLDIR"
+  ],
+  "dct_issued_s": "2022-09-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/FJLDIR\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "UNI-CEN Standardized Census Data Table - Census Tract (CT) - 1986 - Wide Format (DBF) (Version 2023-03)",
+  "gbl_mdModified_dt": "2023-04-04T11:31:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "92b60172-c17c-5c24-8c7e-d1d9416be645",
+  "pcdm_memberOf_sm": [
+    "Network for Economic and Social Trends (NEST) Dataverse // UNI-CEN: Unified Infrastructure for Canadian Census Research // UNI-CEN Standardized Census Data Tables"
+  ],
+  "schema_provider_s": "Western University Dataverse"
+}

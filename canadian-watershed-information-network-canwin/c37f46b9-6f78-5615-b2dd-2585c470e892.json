@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-168.0, -59.0, 78.0, 65.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Data Description:\n\nMonthly mean simulation results from Canada's three Oceans model (sensitivity experiments--2017). Experiment codes can be matched to specific parameter sets following Table 1 in Christian et al 2026 from Canadian Technical Report of Fisheries and Aquatic Sciences 3721.\n\nAbstract from the report:\n\nA numerical ocean model with biogeochemistry has been developed for a domain that spans Canada's three oceans: the Atlantic, Pacific and Arctic. The domain extends to 26°N in the Atlantic and 44°N in the Pacific, and spans the full width of each basin as well as the whole of the Arctic Ocean. The resolution is moderate to high (≈0.25°, 75 levels). A series of simulations was conducted to assess the best choices for biogeochemical model parameters across the diverse regions, using a variety of validation data sets including satellite ocean colour (surface chlorophyll and particulate organic carbon, integrated primary production), surface underway pCO2, and depth profiles of oxygen and nitrate concentration from ships and Argo floats. An extensive set of parameter sensitivity experiments was conducted which are documented in detail here, with a focus on zooplankton grazing and phytoplankton and zooplankton mortality (linear and quadratic) parameters, and particle sedimentation rates. Sensitivity to many of the parameter adjustments examined is low, but the experiments conducted span the range from weak seasonal biological drawdown of surface inorganic carbon and nutrients, to excessively large drawdown and thermocline oxygen demand. Further, the general nonlinearity of the model response to parameter adjustments is shown by similar parameter sets having very different effects on different data metrics. In addition, the model solution's general insensitivity to some phytoplankton processes (exudation, chlorophyll photooxidation) that are neglected in the 'base case' model simulation is demonstrated. An optimal set of parameters for this domain is proposed, but it is possible that there are unexplored regions of the parameter space that could improve performance, especially if additional observational constraints are applied."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/e9d40535-b21f-4363-b5f6-57e761a230df"
+  ],
+  "dct_issued_s": "2026-06-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/e9d40535-b21f-4363-b5f6-57e761a230df\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Simulation results of a Canada-wide ocean biogeochemical model including the North Atlantic, North Pacific and Arctic Oceans",
+  "gbl_mdModified_dt": "2026-06-19T20:04:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c37f46b9-6f78-5615-b2dd-2585c470e892",
+  "locn_geometry": "ENVELOPE(-168.0, -59.0, 78.0, 65.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

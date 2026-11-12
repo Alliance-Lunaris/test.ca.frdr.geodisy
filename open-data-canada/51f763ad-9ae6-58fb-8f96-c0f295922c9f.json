@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.78, -72.24, 45.4, 45.17)",
+  "dcat_keyword_sm": [
+    "Geography",
+    "Landsat-ETM",
+    "RADARSAT-1",
+    "Remote sensing",
+    "Lac Brome",
+    "Landsat-ETM",
+    "Land cover",
+    "Brome lake",
+    "Géographie",
+    "Object-based classification",
+    "Classification basée objet",
+    "RADARSAT-1",
+    "Occupation du sol",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Cartographie de l'occupation du sol du lac Brome à partir d'imagerie Landsat-ETM et RADARSAT-1, 2007"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Land use classification on the basis of multidate Landsat-ETM and Radarsat-1 images. Classification is based on the segmentation of images into objects using Definiens Earth software (formerly eCognition©). Object-oriented classification combines fuzzy logic, based on spectral, spatial and contextual properties (statistical functions of belonging), and, as a last resort, the manual identification of objects when automatic classification performs less well for certain objects. Targeted land use classes include agriculture (annual and perennial), the road system (expressways, roads, forest roads), the water system (permanent and non-permanent waterways and non-permanent ponds under forest cover), wetlands, urban areas, and forests. Top-to-bottom multiscale classification, reflecting an approach developed by the Canadian Wildlife Service, Quebec Division, in the context of the Canadian Wetlands Inventory (CWI), has been adapted for land use purposes. The methodological details of this classification approach were published in Grenier et al. 2007.\r\n\r\nGrenier, M., Demers, A.-M., Labrecque, S., Benoit, M., Fournier R., and Drolet B. 2007. An object-oriented method to map wetland using RADARSAT-1 and Landsat-ETM images: test case on two sites in Quebec, Canada. Canadian Journal of Remote Sensing, Vol. 33, Suppl. 1, pp. S28-S45.",
+    "Classification de l'occupation du sol à partir d'images multidates Landsat-ETM et Radarsat-1. La classification est basée sur la segmentation des images en objets avec l'utilisation du logiciel Definiens Earth (anciennement eCognition©). La classification orientée objet combine la logique floue basée sur des attributs spectraux, spatiaux et contextuels (fonctions statistiques d'appartenance) ainsi que l'identification manuelle des objets en dernier recours lorsque la classification automatique est moins performante pour certains objets. Les classes ciblées pour l'occupation du sol sont l'agriculture (annuelle et pérenne), le réseau routier (autoroute, route, chemin forestier), le réseau hydrographique (cours d'eau permanents et non permanents ainsi que les étangs non permanents sous couvert forestier), les terres humides, la trame urbaine et le milieu forestier. La classification multi-échelle du haut vers le bas, basée sur l'approche développée par le Service canadien de la faune de la région du Québec dans le cadre de l'Inventaire canadien des terres humides (ICTH) a été adaptée pour l'application à l'occupation du sol. Les détails méthodologiques de l'approche classification sont publiés dans Grenier et al. 2007.\r\n\r\nGrenier, M., Demers, A.-M., Labrecque, S., Benoit, M., Fournier R., and Drolet B. 2007. An object-oriented method to map wetland using RADARSAT-1 and Landsat-ETM images: test case on two sites in Quebec, Canada. Canadian Journal of Remote Sensing, Vol. 33, Suppl. 1, pp. S28-S45."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/89403cc9-4d38-4be2-830e-021e3fe6601d"
+  ],
+  "dct_issued_s": "2018-04-17",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/89403cc9-4d38-4be2-830e-021e3fe6601d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Land cover mapping of lake Brome using Landsat-ETM and RADARSAT-1 imagery, 2007",
+  "gbl_mdModified_dt": "2018-05-18T20:20:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "51f763ad-9ae6-58fb-8f96-c0f295922c9f",
+  "locn_geometry": "ENVELOPE(-72.78, -72.24, 45.4, 45.17)",
+  "schema_provider_s": "Open Data Canada"
+}

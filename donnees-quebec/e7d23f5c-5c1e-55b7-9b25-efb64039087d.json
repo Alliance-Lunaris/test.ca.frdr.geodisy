@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Reseau routier",
+    "Autoroute",
+    "Donnee ouverte",
+    "Chaussee",
+    "Rue"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche polyligne du réseau routier dessiné au centre de chaque voie sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n  À partir de fichiers numériques Autocad\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `id_troncon` (`Integer`) : ID Tronçon\n* `st_length(shape)` (`Double`) : Longueur\n* `rue_toponymie` (`String`) : Nom de rue\n* `rue_partiel` (`String`) : Nom de rue partiel\n* `rue_essentiel` (`String`) : Nom de rue essentiel\n* `rue_minimum` (`String`) : Nom de rue minimum\n* `rue_balance` (`String`) : Balance\n* `secteur` (`String`) : Secteur\n* `requete_pour_jmap` (`String`) : Requête pour JMap\n* `a` (`String`) : À\n* `de` (`String`) : DE\n* `nocivicpairde` (`String`) : N° civique pair De\n* `nocivicpaira` (`String`) : N° civique pair À\n* `nocivicimpairde` (`String`) : N° civique Impair De\n* `nocivicimpaira` (`String`) : N° civique Impair À\n* `nbre_voies` (`SmallInteger`) : Nombre de voies\n* `sens_unique` (`String`) : Sens unique\n* `propriétaire` (`String`) : Propriétaire\n* `classificationfonctionnelle` (`String`) : Classification fonctionnelle\n* `typesurface` (`String`) : Type de surface\n* `typestructure` (`String`) : Type de structure\n* `autobus` (`String`) : Autobus\n* `camionnage` (`String`) : Camionnage\n* `superficie_m2` (`Integer`) : Superficie\n* `largeur_m` (`SmallInteger`) : Largeur\n* `drainage` (`String`) : Drainage\n* `coderives` (`String`) : Code de rives\n* `rive1dlongueur_m` (`SmallInteger`) : \n* `rive1slongueur_m` (`SmallInteger`) : \n* `rive2dlongueur_m` (`SmallInteger`) : \n* `rive2slongueur_m` (`SmallInteger`) : \n* `rive1dmateriau` (`String`) : \n* `rive1smateriau` (`String`) : \n* `rive2dmateriau` (`String`) : \n* `rive2smateriau` (`String`) : \n* `rive1dtype` (`String`) : \n* `rive1stype` (`String`) : \n* `rive2dtype` (`String`) : \n* `rive2stype` (`String`) : \n* `vocation` (`String`) : Vocation\n* `statutevaluation` (`String`) : Statut de l'évaluation\n* `annee_origine` (`String`) : Année d'origine\n* `annee_reconstruction` (`String`) : Année de reconstruction\n* `annee_resurfacage` (`String`) : Année de resurfaçage\n* `annee_pulveripavage` (`String`) : Année pulvéripavage\n* `annee_origine_estimee` (`String`) : Année d'origine estimée\n* `annee_planagepavage` (`SmallInteger`) : Année planage/pavage\n* `responsable_pavage` (`String`) : Responsable du pavage\n* `annee_1e_pavage` (`String`) : Année 1e pavage\n* `remarques` (`String`) : Remarques\n* `vitesse` (`SmallInteger`) : Vitesse\n* `niveau_hierarchique` (`String`) : Niveau hiérarchique\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/0eba1d8bba954149a265d93b95d5e544\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/f22e6c7a-783e-4607-824d-70c07dd64395"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/f22e6c7a-783e-4607-824d-70c07dd64395\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_title_s": "Réseau routier (centre-ligne) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-01T14:01:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e7d23f5c-5c1e-55b7-9b25-efb64039087d",
+  "schema_provider_s": "Données Québec"
+}

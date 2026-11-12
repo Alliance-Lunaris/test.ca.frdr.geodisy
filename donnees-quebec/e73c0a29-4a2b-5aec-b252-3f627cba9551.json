@@ -1,0 +1,36 @@
+{
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Sport",
+    "Hiver"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche ponctuelles des activités hivernales proposées dans la brochure des Loisirs, sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `lieu` (`String`) : Lieu\n* `services` (`String`) : Services\n* `frais` (`String`) : Frais\n* `infos_sup` (`String`) : Informations supplémentaires\n* `url` (`String`) : URL\n* `tel` (`String`) : Téléphone\n* `adresse` (`String`) : Adresse\n* `photo` (`String`) : Photo\n* `velo` (`String`) : Vélo\n* `ski_alpin` (`String`) : Ski alpin\n* `raquettes` (`String`) : Raquettes\n* `ski_fond` (`String`) : Ski de fond\n* `glissade` (`String`) : Glissades\n* `curling` (`String`) : Curling\n* `luge` (`String`) : Luge\n* `sentier_glace` (`String`) : Sentier de glace\n* `trottinette` (`String`) : Trottinette\n* `patinoire` (`String`) : Patinoire\n* `canin` (`String`) : Parc canin\n* `marche` (`String`) : Marche\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/6633cbb90dd8472ab3a731690e23a61a\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/90e63450-8b4b-47e3-899d-a3261341a5d3"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/90e63450-8b4b-47e3-899d-a3261341a5d3\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_title_s": "Activités hivernales - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-04-01T14:01:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e73c0a29-4a2b-5aec-b252-3f627cba9551",
+  "schema_provider_s": "Données Québec"
+}

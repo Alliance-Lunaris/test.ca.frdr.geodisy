@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The fire regime describes the patterns of fire seasonality, frequency, size, spatial continuity, intensity, type (e.g., crown or surface fire) and severity in a particular area or ecosystem.  \n  \n  Annual area burned is the average surface area burned annually in Canada by large fires (greater than 200 hectares (ha)). Changes in annual area burned were estimated using Homogeneous Fire Regime (HFR) zones. These zones represent areas where the fire regime is similar over a broad spatial scale (Boulanger et al. 2014). Such zonation is useful in identifying areas with unusual fire regimes that would have been overlooked if fires had been aggregated according to administrative and/or ecological classifications.  \n  \n  Fire data comes from the Canadian National Fire Database covering 1959–1999 (for HFR zones building) and 1959-1995 (for model building). Multivariate Adaptive Regression Splines (MARS) modeling was used to relate monthly fire regime attributes with monthly climatic/fire-weather in each HFR zone. Future climatic data were simulated using the Canadian Earth System Model version 2 (CanESM2) and downscaled at a 10 Km resolution using ANUSPLIN for two different Representative Concentration Pathways (RCP). RCPs are different greenhouse gas concentration trajectories adopted by the Intergovernmental Panel on Climate Change (IPCC) for its fifth Assessment Report. RCP 2.6 (referred to as rapid emissions reductions) assumes that greenhouse gas concentrations peak between 2010-2020, with emissions declining thereafter. In the RCP 8.5 scenario (referred to as continued emissions increases) greenhouse gas concentrations continue to rise throughout the 21st century.  \n  \n  Provided layer: projected annual area burned by large fires (>200 ha) across Canada for the long-term (2071-2100) under the RCP 8.5 (continued emissions increases).  \n  \n  Reference: Boulanger, Y., Gauthier, S., et al. 2014. A refinement of models projecting future Canadian fire regimes using homogeneous fire regime zones. Canadian Journal of Forest Research 44, 365–376."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f5c63b7b-7d05-49df-907a-910d178466d9"
+  ],
+  "dct_issued_s": "2017-05-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f5c63b7b-7d05-49df-907a-910d178466d9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Annual area burned by large fires (>200 hectares) - Long-term (2071-2100) under RCP 8.5",
+  "gbl_mdModified_dt": "2022-02-07T15:30:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9703bb5e-a96b-5007-a269-44893e669382",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

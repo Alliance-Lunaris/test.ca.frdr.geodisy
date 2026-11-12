@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-150.0, -110.0, 65.0, 35.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Su, Yuanning (University of British Columbia). ORCID: https://orcid.org/0009-0007-4163-2281"
+  ],
+  "dct_description_sm": [
+    "To manage future green spaces on campus and adopt to the changing climate, the Social Ecological Economic Development Studies (SEEDS) program of the University of British Columbia (UBC) organized a series of projects to predict the climate suitability (occurrence probability) of some common tree species existing at the UBC Vancouver campus by 2100. With a generally low climate suitability, coniferous trees are more vulnerable to the change of precipitation and temperature, and climate change is threatening the growth of coniferous trees in British Columbia, Canada.  Western hemlock (Tsuga heterophylla) is a common coniferous tree species occurring at UBC Vancouver campus and was chosen to be analyzed in this study. The analysis of climate suitability was done using a MaxEnt model. As a machine-learning algorithm not requiring data about absent points, MaxEnt is considered to be a good tool for predicting the distribution of species. There were 19 bioclimatic variables tested in the analysis, and the precipitation in the coldest quarter of the year was determined to be the most important climatic variable affecting the growth of Western hemlock. The results showed that the occurrence probability of Western hemlock would drop from its current ~87% to ~10% under one of the most likely climate models in 2100. Although this result could not represent the real occurrence probability of Western hemlock by the end of the century due to the limited data and variables considered (climate only), this study provided a reference for future climate suitability analysis at UBC Vancouver campus of other tree species and could potentially help with the protection of existing Western hemlock at the campus."
+  ],
+  "dct_identifier_sm": [
+    "462661_73894_115983",
+    "https://doi.org/10.5683/SP3/GZQXVC"
+  ],
+  "dct_issued_s": "2023-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GZQXVC\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "United States"
+  ],
+  "dct_subject_sm": [
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "A Climate Suitability Analysis for Western Hemlock: Modeling Future Occurrence Probability of Tsuga heterophylla at the UBC Vancouver Campus",
+  "gbl_mdModified_dt": "2023-04-17T18:08:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bec559ec-9a4b-54bd-a9d3-d05e79812053",
+  "locn_geometry": "ENVELOPE(-150.0, -110.0, 65.0, 35.0)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

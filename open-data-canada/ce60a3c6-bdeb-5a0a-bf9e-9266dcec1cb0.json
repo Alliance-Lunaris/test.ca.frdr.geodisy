@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "dcat_keyword_sm": [
+    "Glace",
+    "Satellite",
+    "Satellites",
+    "Climat",
+    "Climate",
+    "Arctique",
+    "Ice",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Mission de la Constellation RADARSAT/Sentinel-1 - mouvement de la glace de mer (MCRS1MGM)"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "Monitoring of sea ice dynamics is of vital importance to our overall understanding of how the Arctic cryosphere is responding to changes in the Earth's climate. With the recent launch of the RADARSAT Constellation Mission (RCM) in 2019 and the continuing operation of the Sentinel-1 (S1) fleet, these spaceborne synthetic aperture radar (SAR) platforms provide routine coverage of the pan-Arctic domain with their all-weather, cloud-penetrating imaging systems. Operating on overlapping pairs of images from these satellites, the Environment and Climate Change Canada Automated Sea Ice Tracking System (ECCC-ASITS) routinely monitors sea ice motion across the pan-Arctic domain. The findings of this analysis are summarized in the attached publication (Howell et al., 2022; see “Associated Publication” in data links).\r\n\r\nSea ice motion tracked by ECCC-ASITS is used to generate RCM/S1 Sea Ice Motion (RCMS1SIM) products for the pan-Arctic domain. These products provide information on sea ice velocity (speed and direction) as well as an estimate of uncertainty. There are currently two product lines; the first being generated on the 25km Equal-Area Scalable Earth Grid (EASE-Grid; https://nsidc.org/data/ease) v1.0 specification for a 7-day temporal window, and the second being generated on the 6.25km EASE-Grid v2.0 specification for a 3-day temporal window. Both products are available from March 2020 to present and are updated daily with a 2-day lag. These data are provided in Esri Shapefile (zip-compressed) and Network Common Data Form (NetCDF) data formats to support the widest-possible number of visualization and analysis use-cases. Further technical details on the products and variables within can be found in the documentation stored with the data.",
+    "La surveillance de la dynamique de la glace de mer occupe une place essentielle dans notre compréhension générale de la façon dont la cryosphère arctique réagit aux changements dans le climat de la Terre. Avec le lancement récent de la Mission de la Constellation RADARSAT (MCR) en 2019 et le maintien des opérations de la flotte Sentinel-1 (S1), ces radars à synthèse d’ouverture (RSO) spatiaux offrent une couverture régulière du domaine panarctique grâce à leurs systèmes d’imagerie par tout temps capables de pénétrer la couverture nuageuse. Le Système automatisé de suivi des glaces marines d’Environnement et Changement climatique Canada (SASGM d’ECCC), qui fonctionne grâce à des paires d’images superposées de ces satellites, surveille régulièrement le mouvement de la glace de mer dans le domaine panarctique. Les résultats de cette analyse sont résumés dans la publication ci-jointe (Howell et al., 2022; voir la « Publication connexe » dans les liens relatifs aux données).\r\n\r\nLe mouvement de la glace de mer suivi par le SASGM d’ECCC permet de générer les produits de mouvement de la glace de mer de la MCR/S1 (MCRS1MGM) pour le domaine panarctique. Ces produits nous renseignent sur la vitesse et la direction de la glace de mer et nous fournissent une estimation de l’incertitude. Il existe actuellement deux gammes de produits, la première étant générée sur la spécification v1.0 de la grille terrestre évolutive à aire égale de 25 m (grille EASE : https://nsidc.org/data/ease) pour une fenêtre temporelle de 7 jours, et la deuxième étant générée sur la spécification v2.0 de la grille EASE de 6,25 km pour une fenêtre temporelle de 3 jours. Ces deux produits sont disponibles pour la période allant de mars 2020 à aujourd’hui et sont mis à jour quotidiennement avec un décalage de 2 jours. Afin de permettre le plus de cas d’utilisation de visualisations et d’analyse possible, ces données sont fournies dans un fichier de formes ESRI (compressé au format .zip) et au format Network Common Data Form (NetCDF). Pour en savoir plus sur les produits et les variables, consultez les documents entreposés avec les données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/22aa3b41-425f-4f67-9747-f097c00e3eb1"
+  ],
+  "dct_issued_s": "2022-03-22",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/22aa3b41-425f-4f67-9747-f097c00e3eb1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "RADARSAT Constellation Mission / Sentinel-1 Sea Ice Motion (RCMS1SIM)",
+  "gbl_mdModified_dt": "2023-01-20T18:56:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ce60a3c6-bdeb-5a0a-bf9e-9266dcec1cb0",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "schema_provider_s": "Open Data Canada"
+}

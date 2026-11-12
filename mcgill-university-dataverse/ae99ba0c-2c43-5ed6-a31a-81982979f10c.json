@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-85.408433, -85.249174, 10.905944, 10.768612)",
+  "dcat_keyword_sm": [
+    "SO2 fluxes",
+    "Passive degassing",
+    "DOAS",
+    "Volcanology",
+    "NOVAC",
+    "Rincón de la Vieja",
+    "Volcanic gas",
+    "Explosive degassing"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Salas-Navarro, Jessica (McGill University). ORCID: https://orcid.org/0000-0001-7940-5112"
+  ],
+  "dct_description_sm": [
+    "This dataset presents the complete time series supporting the analyses and conclusions discussed in a scientific article titled: \"Degassing mechanisms of Rincón de la Vieja volcano, Costa Rica\", submitted to JGR: Solid Earth. \n\nIt comprises three files containing time series of SO2 emissions from the Rincón de la Vieja volcano in Costa Rica from June 2022 to May 2024. SO2 emission rates were measured using two scanning DOAS stations, part of the monitoring network of the Costa Rican volcano observatory (OVSICORI-UNA).  The first station, “Escondida” is located 5 km southwest of the active crater at 1,159 m.a.s.l.  A second station, “Borinquen”  is located 6.4 km west of the active crater at 908 m.a.s.l.\n\n\"Daily statistics_flux_ws_wd_ph.tab\" provides calculated daily statistics from both DOAS stations (Escondida and Borinquen). This table includes the total number of scans, which refers to the number of scans recorded per station per day and valid scans, which refer to those within a wind direction range of 0-115°C and with plume completeness > 0.5. Additionally, it provides the daily mean, standard deviation, and maximum values of key parameters, such as SO2 flux, wind speed, wind direction, and plume height. The daily mean, standard deviation (SD), and maximum were calculated from the valid scans.\n\n\"Catalogue_explosive _events.tab\" contains a catalogue of explosive events identified between June 2022 and May 2024, including eruption and gas-burst timing, associated SO2 masses, and estimated released energies. \n\n\"Daily SO2_meas_extrapol_passive_vs_explosive\" presents a daily SO2 emission budget, partitioned among passive degassing, eruptions, and gas bursts, and clearly distinguishes between measured and extrapolated emission estimates."
+  ],
+  "dct_identifier_sm": [
+    "1114345",
+    "https://doi.org/10.5683/SP3/N7QFVE"
+  ],
+  "dct_issued_s": "2026-03-30",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/N7QFVE\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Liberia, Guanacaste, Costa Rica"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "SO2 emissions Rincón de la Vieja volcano",
+  "gbl_mdModified_dt": "2026-03-30T16:50:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ae99ba0c-2c43-5ed6-a31a-81982979f10c",
+  "locn_geometry": "ENVELOPE(-85.408433, -85.249174, 10.905944, 10.768612)",
+  "schema_provider_s": "McGill University Dataverse"
+}

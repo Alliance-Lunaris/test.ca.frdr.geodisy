@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -60.0, 60.0, 36.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Agriculture and Agri-Food Canada (AAFC) Annual Crop Inventory (ACI) is produced at a national scale, covering Canada’s entire agricultural extent. It has been generated operationally since 2011 for the entire country (2009 for the Prairie Provinces). This product is spatially continuous and maps the most probable crop type for every field in Canada, along with the land cover of non-agricultural lands (e.g. wetlands, forest, urban, etc.). It allows AAFC to study and model crop rotation patterns at the field level.   \n  \n  To develop the Quantitative Crop Rotation Characteristics of Canada, historical ACI data representing the time series of crops at agricultural field level with annual intervals were applied. They provided the time series of categories of crops for statistical analyses. The results of this work included spatial data sets with several calculated attributes representing crop rotation statistical characteristics.   \n  \n  Specifically, a crop sequence turbulence index was shown to be an efficient quantitative measure of mapping the spatial distribution of the sustainability of crop rotation in regions where dominantly annual crops were the active crop rotation.   \n  \n  In addition, based on characteristics of observed crops in their time series sequence and the quantitative sequence dynamics represented by the turbulence index, major spatial clusters of crop rotation styles were calculated. To analyze the turbulence index, crop rotation cluster class representing the general style of crop rotation must also be considered.  \n  \n  The crop rotation quantitative attributes calculated in this project which are at the field level, can be converted into useful information directing us towards the health and sustainability of crop rotations."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/41f33e82-c19c-481e-8873-534b5e6d7ebc"
+  ],
+  "dct_issued_s": "2024-04-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/41f33e82-c19c-481e-8873-534b5e6d7ebc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Quantitative Crop Rotation Characteristics of Canada",
+  "gbl_mdModified_dt": "2025-03-06T21:50:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "516fa5e1-e26d-5c07-aa87-cdcb6c3e24ce",
+  "locn_geometry": "ENVELOPE(-132.0, -60.0, 60.0, 36.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

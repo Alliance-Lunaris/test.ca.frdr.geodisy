@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "Lakes--Canada",
+    "PARAFAC",
+    "Composition optique",
+    "Dissolved organic carbon",
+    "Matière organique dissoute",
+    "Composition moléculaire",
+    "Dissolved organic matter",
+    "FT-ICR-MS",
+    "Optical composition",
+    "Molecular composition",
+    "Lacs--Canada",
+    "Carbone organique dissous"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_creator_sm": [
+    "Shahabinia, Amir Reza (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-8593-5478",
+    "Hutchins, Ryan H. S. (Toronto Metropolitan University). ORCID: https://orcid.org/0000-0002-1696-4934",
+    "Lapierre, Jean-François (Groupe de recherche interuniversitaire en limnologie, Université de Montréal). ORCID: https://orcid.org/0000-0001-5862-7955",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and measurement units: sample .no (ID), sample.name, lat. = latitude (decimal degrees), long. = longitude (decimal degrees), altitude = altitude (m),Chla = chlorophyl (ug/L), TP = total phosphorous (ug/L), TN = total nitrogen (mg/L), DOC = dissolved organic carbon (mg/L), DIC = dissolved inorganic carbon (mg/L), CDOM 440nm = Colored dissolved organic matter (m-1), Temperature = air temperature measured with Kestrel (°C), area = lake area (Km2)\ndO18water = isotopic signature of oxygen in the water (‰), dO18= isotopic signature of oxygen in the dissolved oxygen (‰), WRT= water retention time (day), hi-index = human impact index, perc30 = 30 days period precipitation (m), solar30 = 30 days period solar radiation (J m-2 day-1), watershed.km2 = watershed area (km2), water = fraction of water (%), wetland = farction of wetland (%), Urban = fraction of urban (%), Agriculture = fraction of agriculture (%), Pasture = Fraction of pasture (%), SUVA = specific ultraviolet absorbance measure at 254nm, SR = Spectral slope ratio, HIX = humification index, BIX = biological index, D.excess = deuterium excess  (‰), pH = potential of hydrogen, C1 = component 1 identified by PARAFAC, %C1 = fluorescence intensity of  component 1 as a percentage, C2 = component 2 identified by PARAFAC, %C2 = fluorescence intensity of  component 2 as a percentage, C3 = component 3 identified by PARAFAC, %C3 = fluorescence intensity of  component 3 as a percentage, C4 = component 4 identified by PARAFAC, %C4 = fluorescence intensity of  component 4 as a percentage, C5 = component 5 identified by PARAFAC, %C5 = fluorescence intensity of  component 5 as a percentage, Czone, Continental basin,soc_mean = regional soil organic carbon, H.C = Hydrogen to Carbon ratio, O.C = Oxygen to Carbon ratio, AI.mod =  modified aromaticity index, aliphatic, Aromatic, low.O.unsaturated = Low oxygen unsaturated, high.O.unsaturated = High oxygen unsaturated, polyphenols, condensed aromatics",
+    "Data was sampled during summer months of 2017, 2018 and 2018 as part of LakePulse network. Environmental data and samples for DOM quantification and spectrofluorometric and molecular characterization were sampled across Canadian lakes and each lake visited and sampled once."
+  ],
+  "dct_identifier_sm": [
+    "940182_281357_281358",
+    "https://doi.org/10.5683/SP3/LZAUGS"
+  ],
+  "dct_issued_s": "2025-06-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LZAUGS\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-ND 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "LakePulse Network: FT-ICR-MS and PARAFAC and related environmental data (Canada, 2017-2019)",
+  "gbl_mdModified_dt": "2025-07-14T18:17:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca6e2d7b-fdb3-5011-a1a1-9bd2200d8e8e",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The digital elevation models (DEM) are 2 m resolution raster elevation products that were generated from the Ontario Classified Point Cloud (Imagery-Derived) data. The point clouds were created via a pixel-autocorrelation process from the stereo aerial photography of the Geospatial Ontario (GEO) imagery program. The DEM does not represent a full ‘bare-earth’ elevation surface. There are areas where there are very few points classified as ground and interpolation has occurred across the resulting voids. Points classified as ground have not been assessed for accuracy to determine if they represent true ground features. Some features are still raised above ground surface, such as larger buildings, larger forest stands and other raised features. This data is for geospatial tech specialists, and is used by government, municipalities, conservation authorities and the private sector for land use planning and environmental analysis."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/90a9edf0-06db-4355-91ce-c0123c86f23b"
+  ],
+  "dct_issued_s": "2020-11-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/90a9edf0-06db-4355-91ce-c0123c86f23b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Ontario Digital Elevation Model (Imagery-Derived)",
+  "gbl_mdModified_dt": "2026-10-07T13:36:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "260d1ddd-84f8-5f0a-8874-77858dc54fc6",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

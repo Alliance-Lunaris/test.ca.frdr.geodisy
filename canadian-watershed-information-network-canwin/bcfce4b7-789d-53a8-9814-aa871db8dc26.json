@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Map of burned area in Canada's forested ecosystems for the 2023 fire session at 30-m spatial resolution mapped from time-series data from Sentinel-2A and -2B, and Landsat-8 and -9 using the Tracking Intra- and Inter-year Change (TIIC) algorithm (Pelletier et al. 2024). It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Fires are grouped into two classes based on detection period: summer fires and fall fires. Summer burned pixels were detected between May 30 and September 17, and fall burned pixels were detected between September 17 and October 25. For summer fires, burned pixels were identified by TIIC as changed and typed as fire. For the fall period, TIIC only detected changes within a 4-km buffer of the NRCan fire perimeters (https://cwfis.cfs.nrcan.gc.ca/datamart). This approach was used to limit commission errors that can occur due to known limitations of mapping with optical data in the fall due to phenology, snow cover, or low sun angles. For the 2023 fire season, the TIIC algorithm detected 12.74 Mha of burned area in Canada's forested ecozones, representing 1.8% of the total forest-dominated ecozone area. Of the 12.74 Mha, 11.57 Mha (90.9%) was burned by summer fires and 1.16 Mha (9.1%) by fall fires (Pelletier et al, 2024).\nWhen using this data, please cite as: Pelletier, F., Cardille, J.A., Wulder, M.A., White, J.C., Hermosilla, T., 2024. Revisiting the 2023 wildfire season in Canada. Science of Remote Sensing. 10, 100145. (Pelletier et al. 2024)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/104934e9-9102-480f-b355-6d50403bc4e1"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/104934e9-9102-480f-b355-6d50403bc4e1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada  Forest Wildfires (2023)",
+  "gbl_mdModified_dt": "2026-03-16T16:02:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bcfce4b7-789d-53a8-9814-aa871db8dc26",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

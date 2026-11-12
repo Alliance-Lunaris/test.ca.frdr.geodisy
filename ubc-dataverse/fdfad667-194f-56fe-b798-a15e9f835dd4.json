@@ -1,0 +1,62 @@
+{
+  "dcat_keyword_sm": [
+    "GWAS",
+    "gender",
+    "Populus nigra",
+    "XY-sex-determining system",
+    "Populus tremuloides",
+    "Populus deltoides",
+    "Populus trichocarpa",
+    "SNP",
+    "Methylation",
+    "Populus balsamifera"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Geraldes, Armando (University of British Columbia).",
+    "Hefer, Charles A. (University of British Columbia).",
+    "Capron, Arnaud (University of British Columbia).",
+    "Kolosova, Natalia (Reichel Institute, University of British Columbia).",
+    "Martinez-Nuñez, Felix (University of British Columbia).",
+    "Soolanayakanahally, Raju Y. (University of British Columbia, Agroforestry Development Centre; Science and Technology Branch, Agriculture and Agri-Food Canada; Indian Head; SK; Canada; S0G 2K0).",
+    "Stanton, Brian (University of British Columbia).",
+    "Guy, Robert D. (University of British Columbia).",
+    "Mansfield, Shawn D. (University of British Columbia).",
+    "Douglas, Carl J. (University of British Columbia).",
+    "Cronk, Quentin C. B. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/CYegFORwdqN7RQd3JUx9W8YDoEl9UwOghORjYNvgJLw</p>\n<p><b>Storage size:</b> 262109101</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>All species of the genus Populus (poplar, aspen) are dioecious, suggesting an ancient origin of this trait. Despite some empirical counter examples, theory suggests that nonrecombining sex-linked regions should quickly spread, eventually becoming heteromorphic chromosomes. In contrast, we show using whole-genome scans that the sex-associated region in Populus trichocarpa is small and much younger than the age of the genus. This indicates that sex determination is highly labile in poplar, consistent with recent evidence of ‘turnover’ of sex-determination regions in animals. We performed whole-genome resequencing of 52 P. trichocarpa (black cottonwood) and 34 Populus balsamifera (balsam poplar) individuals of known sex. Genomewide association studies in these unstructured populations identified 650 SNPs significantly associated with sex. We estimate the size of the sex-linked region to be ~100 kbp. All SNPs significantly associated with sex were in strong linkage disequilibrium despite the fact that they were mapped to six different chromosomes (plus 3 unmapped scaffolds) in version 2.2 of the reference genome. We show that this is likely due to genome misassembly. The segregation pattern of sex-associated SNPs revealed this to be an XY sex-determining system. Estimated divergence times of X and Y haplotype sequences (6–7 Ma) are much more recent than the divergence of P. trichocarpa (poplar) and Populus tremuloides (aspen). Consistent with this, in P. tremuloides, we found no XY haplotype divergence within the P. trichocarpa sex-determining region. These two species therefore have a different genomic architecture of sex, suggestive of at least one turnover event in the recent past.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">PairwiseLD</h4><div class=\"o-metadata__file-description\">This file contains estimates of pairwirse linkage disequilibrium (r^2) for all 623 SNPs significantly associated with gender in mapping population T52.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">chr19_tree_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure 3 panel b (concatenated Amplicon1:Chr19:40024, Amplicon2:Chr19:41515 and Amplicon3:Chr19:44107)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">chr19</h4><div class=\"o-metadata__file-description\">Fasta aligment of concatenated Amplicon1:Chr19:40024, Amplicon2:Chr19:41515 and Amplicon3:Chr19:44107, used for divergence estimates presented in Table 3. This file also includes transcript sequences used to infer which positions in the alignment were in coding regions for estimates of silent and replacement substitutions.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">chr19_tree</h4><div class=\"o-metadata__file-description\">Fasta aligment of concatenated  Amplicon1:Chr19:40024, Amplicon2:Chr19:41515 and Amplicon3:Chr19:44107, used for generating phylogenetic tree on Figure 3b.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sanger_7690067_oneclone_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure 3 panel a (Amplicon1:Chr09:7690067)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sanger_7690067_anno</h4><div class=\"o-metadata__file-description\">Fasta aligment of Amplicon1:Chr09:7690067, used for divergence estimates presented in Table 3. This file also includes transcript sequences used to infer which positions in the alignment were in coding regions for estimates of silent and replacement substitutions.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sanger_7690067_oneclone</h4><div class=\"o-metadata__file-description\">Fasta aligment of Amplicon1:Chr09:7690067, used for generating phylogenetic tree on Figure 3a.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sanger_7690067_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure S2 panel a (Amplicon1:Chr9:7690067, all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">sanger_7690067</h4><div class=\"o-metadata__file-description\">Fasta aligment of Amplicon1:Chr9:7690067 with all P. tremuloides clones included used for generating phylogenetic tree on Figure S2 panel a</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">40024_sanger_nousat_fortree_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure S2 panel c (Chr19 Amplicon1:Chr19:40024, all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">40024_sanger_nousat_fortree</h4><div class=\"o-metadata__file-description\">Fasta alignment for Figure S2 panel c (Chr19 Amplicon1:Chr19:40024, all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">41515_sanger_all_tree_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure S2 panel d (Chr19 Amplicon2:Chr19:41515, all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">41515_sanger_all_tree</h4><div class=\"o-metadata__file-description\">Fasta alignment for Figure S2 panel d (Chr19 Amplicon2:Chr19:41515, all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">44107_sanger_tree_ML</h4><div class=\"o-metadata__file-description\">Newick tree file for Figure S2 panel e (Chr19 Amplicon3:Chr19:44107 , all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">44107_sanger_tree</h4><div class=\"o-metadata__file-description\">Fasta alignment for Figure S2 panel e (Chr19 Amplicon3:Chr19:44107 , all P. tremuloides clones included)</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Association_SNPfiles_Plink</h4><div class=\"o-metadata__file-description\">Plink input SNP files (from mapping to the P. trichocarpa reference genome v2.2) used for GWAS in T52 (T52v2maf01gr09), B34 (B34v2maf01gr09) and BT68 (BT68v2maf01gr09new)</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Admixture_inputfiles</h4><div class=\"o-metadata__file-description\">Plink input SNP files (from mapping to the P. trichocarpa reference genome v2.2) used for Admixture analysis in T52 (T52v2maf01gr1_LDprunned_thin01), B34 (B34v2maf01gr1_LDprunned) and BT68 (BT68v2POPSTnew)</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153329_1226260_150149",
+    "https://doi.org/10.5683/SP2/WQY6NY"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/WQY6NY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Recent Y chromosome divergence despite ancient origin of dioecy in poplars (Populus)",
+  "gbl_mdModified_dt": "2021-05-19T19:05:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fdfad667-194f-56fe-b798-a15e9f835dd4",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

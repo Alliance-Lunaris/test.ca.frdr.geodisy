@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-62.0, -60.0, 61.0, 59.0)",
+  "dcat_keyword_sm": [
+    "fisheries-and-oceans-canada",
+    "amundsen-science-amundsen-science",
+    "backscatter",
+    "marine-mammals",
+    "acoustic",
+    "oceans",
+    "labrador-sea",
+    "amundsen-science-amundsen-science",
+    "hatton-basin",
+    "fisheries-and-oceans-canada",
+    "labrador-sea---abavx",
+    "arcticnet",
+    "courants-sous-marins",
+    "ocean-currents",
+    "mooring",
+    "oceanography",
+    "arcticnet",
+    "subsurfacecurrents"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Collecte de données de mouillage à haute biodiversité (HiBio)."
+  ],
+  "dct_creator_sm": [
+    "Amundsen Science."
+  ],
+  "dct_description_sm": [
+    "This dataset contains data collection from High Arctic Biodiversity (HiBio) program for the years 2017, 2019, 2020, and 2021. They were collected in Hatton Bassin at the Labrador Sea with installed fixed moorings (HiBioA, HiBioC, MkB1). Mooring reports are included within the archive as well. The data were retrieved from the moorings each year. The HiBioA mooring was equipped with profiling current meters (Seaguard CTD-Tu-DO), sediment traps and hydrophones (model: JASCO AMAR G3). The hydrophone listens for marine mammal activity by recording bioacoustics vocalizations throughout the year on the shelf-slope area. The HiBioC was equipped with an RBR Concerto-CTD-Tu, which measures sea water Conductivity, Temperature and Depth. Other parameters such as sea water Salinity and turbidity are also included in this dataset. The data processing chain is built upon open-source Integrated Marine Observatory System (IMOS) toolbox developed for Matlab© by the Australian Ocean Data Network (AODN; Galibert, 2016). Additional Quality Control (QC) procedure is applied to the ArcticNet-specific mooring data. These are described in the technical report of the data processing. The data are stored in Network Common Data Form (NetCDF) format following the international standard Climate Forecast (CF) convention.",
+    "Cet ensemble de données contient des données collectées par le programme \"High Biodiversity\" (HiBio) pour les années 2017, 2019, 2020 et 2021. Ils ont été collectés dans le bassin Hatton, dans la mer du Labrador, à l'aide de dispositifs de mouillage fixes installés (HiBioA, HiBioC, MKB1). Les rapports de mouillage sont également inclus dans les archives. Les données étaient extraites des mouillages chaque année. Le mouillage HiBioA était équipé de courrantomètres (Seaguard CTD-Tu-DO), de pièges à sédiments et d'hydrophones (modèle : JASCO AMAR G3). L'hydrophone écoute l'activité des mammifères marins en enregistrant les vocalisations bioacoustiques tout au long de l'année sur la pente du plateau. Le HiBioC était équipé d'un Concerto-CTD-TU RBR, qui mesure la conductivité, la température et la profondeur de l'eau de mer. D'autres paramètres tels que la salinité et la turbidité de l'eau de mer sont également inclus dans cet ensemble de données. La chaîne de traitement des données a été faite utilisant la boîte à outils open source IMOS (Integrated Marine Observatory System) développée pour Matlab© par l'Australian Ocean Data Network (AODN ; Galibert, 2016). Une procédure de contrôle qualité (CQ) supplémentaire est appliquée aux données de mouillage spécifiques à ArcticNet. Elles sont décrites dans le rapport technique du traitement des données. Les données sont stockées au format NetCDF (Network Common Data Form) conformément à la convention internationale standard sur les prévisions climatiques (CF)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/5ce5fc7e-3310-40b6-bd90-d61de3cffb12"
+  ],
+  "dct_issued_s": "2023-10-03",
+  "dct_publisher_sm": [
+    "Amundsen Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/5ce5fc7e-3310-40b6-bd90-d61de3cffb12\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "High Biodiversity (HiBio) Mooring Data Collection.",
+  "gbl_mdModified_dt": "2026-10-08T22:45:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "03ff3b30-77f2-53c0-a377-c3717f74e258",
+  "locn_geometry": "ENVELOPE(-62.0, -60.0, 61.0, 59.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

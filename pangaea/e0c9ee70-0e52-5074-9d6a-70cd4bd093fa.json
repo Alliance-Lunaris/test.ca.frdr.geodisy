@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-20.30401000021163, -20.30400000021163, 74.31000000127922, 74.30999000127922)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rysgaard, Søren (Arctic Research Centre, Aarhus University, Aarhus University). ORCID: https://orcid.org/0000-0003-1726-2958",
+    "Boone, Wieter (Flanders Marine Institute).",
+    "Kirillov, Sergey A (Centre for Earth Observation Science, University of Manitoba, Winnipeg, Manitoba, Canada).",
+    "Dmitrenko, Igor (Centre for Earth Observation Science, University of Manitoba, Winnipeg, Manitoba, Canada). ORCID: https://orcid.org/0000-0001-8388-7839"
+  ],
+  "dct_description_sm": [
+    "Time series of currents were obtained in the period October 2013 and May 2014 by use of an ice-tethered mooring in Young Sound, Greenland. At YS03 (74.310 N, 20.304 W) The mooring consisted of a 300 kHz downward-looking Teledyne RDI Workhorse Sentinel acoustic Doppler current profiled (ADCP) measuring horizontal and vertical current velocities. Velocity precision and resolution were ±1% and ±5 cm s, respectively, while compass accuracy and resolution were ±2 and 0.1 degrees. The ADCP was set to sample 39 bins (bin size of 2m), where each 10 min sample consists of averages of 20 pings. The first and last bins were set at 6 and 84 m depth. Velocities were corrected for magnetic deviation (18.5) and samples with insufficient acoustic backscatter in the water column were eliminated with the RDI ADCP software. For further details see Boone et al., 2017 (Circulation and fjord-shelf exchange during the ice-covered period in Young Sound-Tyrolerfjord, Northwest Greenland (74o N). Estuar. Coast. Shelf Sci., 15, 194-205. https://doi.org/10.1016/j.ecss.2017.06.021 ).",
+    "We gratefully acknowledge the contributions of the Canada Excellence Research Chair (CERC) and Canada Research Chair (CRC) programs. Support was also provided by the Natural Sciences and Engineering Research (NSERC) Council, the Canada Foundation for Innovation and the Aage V Jensen Foundations. This work is a contribution to the Arctic Science Partnership (ASP) asp-net.org."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.964811",
+    "https://doi.org/10.1594/pangaea.964811"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.964811\"}",
+  "dct_spatial_sm": [
+    "Young Sound, Greenland"
+  ],
+  "dct_subject_sm": [
+    "Acoustic Doppler Current Profiling (ADCP), TRDI Workhorse Sentinel, 300 kHz",
+    "Young Sound-Greenland",
+    "Current velocity, north-south",
+    "ice-covered conditions",
+    "Pressure, water",
+    "Hydrographic time series",
+    "DATE/TIME",
+    "Current velocity, east-west",
+    "DEPTH, water",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label"
+  ],
+  "dct_title_s": "Mooring-based (YS03) data collected in the period October 2013-June 2014 in Young Sound, Greenland",
+  "gbl_mdModified_dt": "2024-10-14T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e0c9ee70-0e52-5074-9d6a-70cd4bd093fa",
+  "locn_geometry": "ENVELOPE(-20.30401000021163, -20.30400000021163, 74.31000000127922, 74.30999000127922)",
+  "schema_provider_s": "PANGAEA"
+}

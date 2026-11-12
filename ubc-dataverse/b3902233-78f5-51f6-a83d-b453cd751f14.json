@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Habituation",
+    "Caenorhabditis elegans",
+    "Non-associative learning",
+    "neurogenetics",
+    "mechanosensation",
+    "CMK-1",
+    "OGT-1"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ardiel, Evan L. (University of British Columbia).",
+    "McDiarmid, Troy A. (University of British Columbia).",
+    "Timbers, Tiffany A. (Simon Fraser University, University of British Columbia).",
+    "Lee, Kirsten C.Y. (University of British Columbia).",
+    "Safaei, Javad (University of British Columbia).",
+    "Pelech, Steven L. (University of British Columbia).",
+    "Rankin, Catharine H. (University of British Columbia).",
+    "Lee, Kirsten C. Y. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/bVQf3uYemHyRBkSkD4G90CzHMIZ3g3BtSHsjw6VOSzA</p>\n<p><b>Storage size:</b> 463526</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Habituation is a ubiquitous form of non-associative learning observed as a decrement in responding to repeated stimulation that cannot be explained by sensory adaptation or motor fatigue. One of the defining characteristics of habituation is its sensitivity to the rate at which training stimuli are presented – animals habituate faster in response to more rapid stimulation. The molecular mechanisms underlying this interstimulus interval (ISI)-dependent characteristic of habituation remain unknown. In this article we use behavioral neurogenetic and bioinformatic analyses in the nematode Caenorhabiditis elegans to identify the first molecules that modulate habituation in an ISI-dependent manner. We show that the Caenorhabditis elegans orthologs of Ca2+/calmodulin-dependent kinases CaMK1/4, CMK-1, and O-linked N-acetylglucosamine (O-GlcNAc) transferase, OGT-1, both function in primary sensory neurons to inhibit habituation at short ISIs and promote it at long ISIs. In addition, both cmk-1 and ogt-1 mutants display a rare mechanosensory hyper-responsive phenotype, i.e. larger mechanosensory responses than wild-type. Overall, our work identifies two conserved genes that function in sensory neurons to modulate habituation in an ISI-dependent manner, providing the first insights into the molecular mechanisms underlying the universally observed phenomenon that habituation has different properties when stimuli are delivered at different rates.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Ardiel_etal_DryadData</h4><div class=\"o-metadata__file-description\">column 1 = plate ID\r\ncolumn 2 = stimulus \r\ncolumn 3 = reversal distance (mm)\r\ncolumn 4 (if applicable) = reversal duration (sec)</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152492_150149",
+    "https://doi.org/10.5683/SP2/L4FXD5"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/L4FXD5\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Insights into the roles of CMK-1 and OGT-1 in interstimulus interval-dependent habituation in Caenorhabditis elegans",
+  "gbl_mdModified_dt": "2021-05-20T01:26:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b3902233-78f5-51f6-a83d-b453cd751f14",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

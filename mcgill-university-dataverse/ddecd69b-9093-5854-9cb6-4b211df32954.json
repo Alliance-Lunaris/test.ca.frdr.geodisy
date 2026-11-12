@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Databank",
+    "COVID-19 Immunity Task Force",
+    "CITF",
+    "Vaccination"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "CITF Data Management Team (McGill University)."
+  ],
+  "dct_description_sm": [
+    "<p>This repository contains the protocol and supporting metadata schema used to harmonize SARS-CoV-2 vaccination information contributed by studies supported by the COVID-19 Immunity Task Force (CITF). The materials document the standardized variables, permissible values, harmonization-status classifications, and transformation rules applied in preparing the frozen CITF Databank release v1.0. Individual-level participant data are not included.</p>\n\n<p><strong>Harmonization protocol</strong></p>\n\n<p>The primary document is the CITF SARS-CoV-2 Vaccination Harmonization Protocol, version 1.0. It describes:</p>\n\n<ul>\n  <li>the scope of vaccination-data harmonization;</li>\n  <li>data sources and participant-inclusion criteria;</li>\n  <li>the target harmonized variables;</li>\n  <li>mapping of study-specific variables to CITF Core Data Elements;</li>\n  <li>harmonization-status classifications;</li>\n  <li>the dose-event-level structure of the harmonized dataset;</li>\n  <li>data-quality and validation procedures; and</li>\n  <li>governance, access, and versioning requirements.</li>\n</ul>\n\n<p><strong>Metadata schema</strong></p>\n\n<p>The repository includes the CITF vaccination Core Data Element schema, version 1.0. The schema defines six target variables:</p>\n\n<ul>\n  <li>participant identifier;</li>\n  <li>study-reported vaccine-dose number;</li>\n  <li>vaccination date;</li>\n  <li>vaccine type;</li>\n  <li>free-text specification of other vaccine types; and</li>\n  <li>additional comments associated with the vaccination record.</li>\n</ul>\n\n<p>The schema also documents variable labels, value types, date formats, permissible vaccine-type categories, acceptable data sources, and harmonization instructions.</p>\n\n<p><strong>Dataset structure</strong></p>\n\n<p>The harmonized vaccination dataset is organized at the dose-event level. Each record represents one administered vaccine dose. A participant who received multiple doses is therefore represented by multiple records. Each record contains the participant identifier and, where available, the study-reported dose number, administration date, vaccine type, and supporting free-text information.</p>\n\n<p>Records are linked to participants and to the other CITF harmonized datasets using the participant identifier, which incorporates the study identifier within its structure.</p>\n\n<p><strong>Harmonization rules</strong></p>\n\n<p>During harmonization, study-specific vaccination variables are mapped to the standardized CITF schema. Variables that directly match a target variable are mapped without transformation. Compatible source variables are transformed to the target format according to documented rules.</p>\n\n<p>Study-reported dose numbers are retained and are not reassigned solely on the basis of vaccination dates. When a dose number is not clearly reported, it is recorded as missing. Records are not reordered solely to create an apparently chronological dose sequence.</p>\n\n<p>Distinct vaccination dates are retained even when the interval between doses appears unusual. When conflicting dates are reported for the same dose, both dates may be retained with the dose number set to missing until clarification is received from the contributing study. When different vaccine types are reported for the same dose date, the value from the earliest data-collection event is provisionally retained, subject to confirmation by the contributing study. Information confirmed by the contributing study supersedes these provisional rules.</p>\n\n<p><strong>Quality control</strong></p>\n\n<p>Quality-control procedures include:</p>\n\n<ul>\n  <li>validation of participant identifiers;</li>\n  <li>non-negativity checks for dose numbers;</li>\n  <li>validation of vaccination dates and date components;</li>\n  <li>review of permissible vaccine-type categories;</li>\n  <li>assessment of conflicting information across data-collection events;</li>\n  <li>detection of duplicate vaccination records; and</li>\n  <li>review of apparent chronological inconsistencies.</li>\n</ul>\n\n<p>Chronological inconsistencies are flagged for review but do not result in automatic reassignment of study-reported dose numbers. These procedures constitute dataset-level harmonization and quality control and do not independently verify vaccination against external clinical or administrative records.</p>\n\n<p><strong>Data access</strong></p>\n\n<p>Individual-level vaccination data are held under controlled access and are not included in this repository. Access to restricted data requires a formal request to the CITF Data Access Office and is subject to applicable institutional approvals, consent conditions, governance requirements, and data-sharing agreements.</p>\n\n<p><strong>Protocol version:</strong> 1.0<br>\n<strong>Metadata schema version:</strong> 1.0<br>\n<strong>Databank release:</strong> v1.0<br>"
+  ],
+  "dct_identifier_sm": [
+    "1100760_412093_423675_1100755",
+    "https://doi.org/10.5683/SP3/IRKBFE"
+  ],
+  "dct_issued_s": "2026-09-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IRKBFE\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences"
+  ],
+  "dct_title_s": "CITF SARS-CoV-2 Vaccination Harmonization Protocol",
+  "gbl_mdModified_dt": "2026-09-23T20:40:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ddecd69b-9093-5854-9cb6-4b211df32954",
+  "pcdm_memberOf_sm": [
+    "CITF: COVID-19 Immunity Task Force // CITF Controlled Access Databank // Harmonized Dataset Descriptions"
+  ],
+  "schema_provider_s": "McGill University Dataverse"
+}

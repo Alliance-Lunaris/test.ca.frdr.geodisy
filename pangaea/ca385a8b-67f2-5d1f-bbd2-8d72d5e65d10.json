@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.8611, -128.847, 65.1531, 60.008054)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lewkowicz, Antoni G (University of Ottawa). ORCID: https://orcid.org/0000-0002-9307-2147",
+    "Wieczorek, Mareike (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam). ORCID: https://orcid.org/0000-0002-3180-1607",
+    "Bartsch, Annett (b.geos). ORCID: https://orcid.org/0000-0002-3737-7931",
+    "Heim, Birgit (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam). ORCID: https://orcid.org/0000-0003-2614-9391"
+  ],
+  "dct_description_sm": [
+    "This published dataset are time series of Mean Annual Ground Temperature (MAGT) close to the surface across latitudinal and elevational gradients covering a multitude of permafrost landscapes and land surface types in the Yukon Territory, NW Canada. The station network was specifically set up by Prof. A. Lewkowicz (University of Ottawa, Canada) and his colleagues and collaborators from April 2001 to assess the current thermal state of permafrost across wide climate and elevational gradients, as the operational Environment and Climate Change Canada climate stations in the Yukon area (NW Canada) are primarily located in valley bottom sites. However, much of the Yukon Territory is composed of mountainous terrain, therefore the degree of climate change and thermal state of permafrost for these vast areas is difficult to predict in part because present-day conditions are not known. The monitoring sites for air temperature and ground surface temperature were set up in logistically accessible elevations across as wide a range of elevations as possible and in a variety of positions relative to topography (ridge crests, valley bottoms, long slopes, etc.) in order to assess the impact of localized air temperature inversions. The wide range of elevations being monitored (330 m asl to 2077 m asl) as well as their geographical coverage (from 60°N to 65°N and 129°W to 141°W) covering a multitude of permafrost landscapes and land surface types make these records unique, providing an important snapshot across this complex landscape. The 111 monitoring sites (air temperature and upper ground temperature) are located in eight regions: 1. Wolf Creek and vicinity, near Whitehorse (60.54N, 135.15W): 27 sites2. Dawson and vicinity (64.12°N, 139.68°W): 15 sites 3. Keno region (63.92°N 135.33°W): 13 sites 4. Johnson's Crossing region (60.57°N, 133.15°W): 13 sites 5. Sa Dena Hes mine site and vicinity (60.42°N, 128.59°W): 13 sites 6. Faro region (62.22°N, 133.13°W): 13 sites 7. Alaska Highway Corridor (from the Alaska border to 300 km east of Whitehorse): 12 sites 8. Dempster and Klondike Highway Corridors (from 61° to 65°N): 5 sitesUntil 2008 the network grew to more than 100 stations. Some stations were removed from 2009 onwards, and more taken down in 2015, while a small number of new sites were installed during this period. The COVID pandemic prevented planned downloads in 2020 so the last downloads of the 47 stations still in operation were undertaken variously in 2017, 2018 or 2019.Level 0 to Level 2 data: Field work, station installation and data read-out has been conducted by A.G. Lewkowicz (University Ottawa, Canada) and colleagues. Primary data treatment and processing up to daily temperature time series has been conducted by A.G. Lewkowicz. Level 3 data (this published dataset): Mean Annual Ground Temperature (MAGT) time series were created from the daily temperature datasets (Level 2 data, by A.G. Lewkowicz) by Mareike Wieczorek (Alfred-Wegener-Institut Helmholtz-Zentrum fuer Polar- und Meeresforschung, Germany) within the framework of the European Space Agency (ESA) Climate Change Initiative (CCI) Permafrost programme as reference data set for the ESA CCI Permafrost time series product on Ground Temperature (https://climate.esa.int/en/projects/permafrost/)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.971276",
+    "https://doi.org/10.1594/pangaea.971276"
+  ],
+  "dct_issued_s": "2025-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.971276\"}",
+  "dct_subject_sm": [
+    "Station label",
+    "Missing months",
+    "CCI Permafrost (ESA_CCI_Permafrost_CCN2)",
+    "DATE/TIME",
+    "Monitoring station",
+    "Missing values",
+    "Surface temperature",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label"
+  ],
+  "dct_title_s": "Twenty years of Mean Annual Ground Temperature (MAGT) across latitudinal and elevational gradients in the Yukon Territory (NW Canada)",
+  "gbl_mdModified_dt": "2025-10-14T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca385a8b-67f2-5d1f-bbd2-8d72d5e65d10",
+  "locn_geometry": "ENVELOPE(-140.8611, -128.847, 65.1531, 60.008054)",
+  "schema_provider_s": "PANGAEA"
+}

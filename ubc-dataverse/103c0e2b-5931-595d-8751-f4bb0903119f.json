@@ -1,0 +1,56 @@
+{
+  "dcat_keyword_sm": [
+    "sensory drive",
+    "reproductive character displacement",
+    "Nesosydne chambersi",
+    "Holocene",
+    "insects",
+    "genetic drift",
+    "Delphacidae",
+    "Hemiptera",
+    "signal evolution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Goodman, Kari Roesch (University of California, Berkeley).",
+    "Kelley, J. Patrick (University of California System, University of British Columbia).",
+    "Welter, Stephen (San Diego State University).",
+    "Roderick, George K. (University of California, Berkeley).",
+    "Elias, Damian O. (University of California, Berkeley).",
+    "Welter, S. C. (San Diego State University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/qI9CukmqbBqHbhdW24hcaSy8I3UH-eXK-YKsBf-jddQ</p>\n<p><b>Storage size:</b> 38363</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Changes in sexual signals have the potential to promote rapid divergence and reproductive isolation among populations of animals. Thus, identifying processes contributing to variation in signals is key to understanding the drivers of speciation. However, it is difficult to identify the processes initiating changes in signals in empirical systems because (1) the demographic history of populations under study is usually unclear, and (2) there is no unified hypothesis-testing framework for evaluating the simultaneous contribution of multiple processes. A unique system for study in the Hawaiian Islands, the planthopper species Nesosydne chambersi, offers a clear demographic context to disentangle these factors. By measuring variation in male vibratory sexual signals across different genetic populations on the island of Hawaii, we found that that multiple signal traits varied significantly between populations. We developed a mixed modelling framework to simultaneously test competing hypotheses about which processes contribute to changes in signal traits: genetic drift, sensory drive or reproductive character displacement. Our findings suggest that signal divergence proceeds along different axes for different signal traits under the influence of both neutral and selective processes. They are the first, to our knowledge, to document the relative importance of multiple processes on divergence in sexual signals.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Temporal signal traits of planthopper male sexual signals</h4><div class=\"o-metadata__file-description\">These are attributes of planthopper male sexual signals collected from the island of Hawaii in a field laboratory using a laser vibrometer and an accelerometer. This file, \"PatternElements.csv\" , describes five signal characteristics: Inter-pulse Interval, Whir Length, Fast Pulse Rate, Slow Pulse Rate, and Ratio of Signals per Bout to the Interval between bouts. Please see the publication for a detailed description of how these data were recorded and scored, and Figure 1 within the publication for a graphical description of the characters. Signal characters with a \"_corr\" after their names indicates the that these signal traits were correlated to temperature in the original recording and and these columns represent the corrected data.</div><div class=\"o-metadata__file-name\">PatternElements.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">The signal trait \"fundamental frequency\" of planthopper male sexual signals</h4><div class=\"o-metadata__file-description\">These recordings of planthopper male sexual signals were collected from the island of Hawaii in a field laboratory using a laser vibrometer and an accelerometer. This file, \"FundamentalFreq.csv\" , describes one signal characteristic: fundamental frequency. Please see the publication for a detailed description of how these data were recorded and scored, and Figure 1 within the publication for a graphical description of the character. The column \"fund_corr\" indicates the that this signal trait was correlated to temperature in the original recording and and this column represents the corrected data.</div><div class=\"o-metadata__file-name\">FundamentalFreq.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">The signal trait \"dominant frequency\" of planthopper male sexual signals</h4><div class=\"o-metadata__file-description\">These recordings of planthopper male sexual signals were collected from the island of Hawaii in a field laboratory using a laser vibrometer and an accelerometer. This file, \"DominantFreq.csv\", describes one signal characteristic: dominant frequency. Please see the publication for a detailed description of how these data were recorded and scored, and Figure 1 within the publication for a graphical description of the character.</div><div class=\"o-metadata__file-name\">DominantFreq.csv</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153292_1226260_150149",
+    "https://doi.org/10.5683/SP2/0MEDXM"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/0MEDXM\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "the island of Hawaii"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Rapid diversification of sexual signals in Hawaiian Nesosydne planthoppers (Hemiptera: Delphacidae): the relative role of neutral and selective forces",
+  "gbl_mdModified_dt": "2021-05-19T18:58:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "103c0e2b-5931-595d-8751-f4bb0903119f",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

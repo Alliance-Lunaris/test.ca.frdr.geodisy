@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "divergence with gene flow",
+    "sand dune adaptation",
+    "incipient species",
+    "Evolutionary genomics",
+    "Helianthus petiolaris",
+    "Helianthus annuus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Andrew, Rose L. (University of British Columbia, University of New England).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/YhS_vFoKCzUdGJDWQvzHiqd0549gx0N2bDOLc_tgaGM</p>\n<p><b>Storage size:</b> 21155790</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Early in speciation, when populations are undergoing the transition from local adaptation to incipient species, is when a number of transient, but potentially important, processes appear to be most easily detected. These include signatures of selective sweeps that can point to asymmetry in selection between habitats, divergence hitchhiking and associations of adaptive genes with environments. In a genomic comparison of ecotypes of the prairie sunflower, Helianthus petiolaris, occurring at Great Sand Dunes National Park (Colorado), we found that selective sweeps were mainly restricted to the dune ecotype and that there was variation across the genome in whether proximity to the non-dune population constrained or promoted divergence. The major regions of divergence were few and large between ecotypes, in contrast with an interspecific comparison between H. petiolaris and a sympatric congener, H. annuus. In general, the large regions of divergence observed in the ecotypic comparison swamped locus-specific associations with environmental variables. In both comparisons, regions of high divergence occurred in portions of the genetic map with high marker density, probably reflecting regions of low recombination. The difference in genomic distributions of highly divergent regions between ecotypic and interspecific comparisons highlights the value of studies spanning the spectrum of speciation in related taxa.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SNP_table_DN_and_AP</h4><div class=\"o-metadata__file-description\">Restriction-associated sequencing (RAD) derived SNP scores for individual Helianthus samples, with associated positions in reference contigs and locations of contigs on linkage map (\"LG\" and \"cM\"). Also shown are gene diversities and (\"Hs\", for loci meeting filter criteria, Weir and Cockerhams(1985) Fst (\"FstWC\") for the dune-nondune (DN) and H. annuus-H. petiolaris (AP) comparisons.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">SNP_table_DN_and_AP_sample_list</h4><div class=\"o-metadata__file-description\">Population or species of origin for samples in SNP_table_DN_and_AP.txt. D = dune, N = nondune, A = Helianthus annuus, P = H. petiolaris.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">BayeScan_DN</h4><div class=\"o-metadata__file-description\">Data file for analysis of RAD-derived SNPs comparing the dune and nondune ecotypes of Helianthus petiolaris at Great Sand Dunes National Park and Preserve using BayeScan.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Env_assoc_subpop_data</h4><div class=\"o-metadata__file-description\">Environmental data used in tests of associations between SNPs and environments, controlling for coancestry. Locations are given in UTM eastings and northings. The vegetation cover data (percentages) are averages of four 1m square quadrats at each site, assessed in May 2009. Soil nutrient availability during the growing season was measured using ion exchange probes and the total absorption was scaled to the maximum burial time (123 days), such that in each case the unit of measurement was mg/10 cm2/123 days.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Env_assoc_SNP_table</h4><div class=\"o-metadata__file-description\">Helianthus petiolaris SNPs tested for associations with environmental variables. The sampling locations for individuals are given in Env_assoc_sample_key.txt.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Env_assoc_sample_list</h4><div class=\"o-metadata__file-description\">- Subpopulation of origin for samples in Env_assoc_SNP_table.txt and Env_assoc_subpop_data.txt. Each subpopulation represents a sampling location. D = dune, N = nondune, I = intermediate.</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151766_1226260_150149",
+    "https://doi.org/10.5683/SP2/MNXGVP"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/MNXGVP\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "USA",
+    "Colorado",
+    "Great Sand Dunes National Park and Preserve"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Divergence is focused on few genomic regions early in speciation: incipient speciation of sunflower ecotypes",
+  "gbl_mdModified_dt": "2021-05-19T23:46:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eeb059a4-1fe7-51a3-b7b3-3c902b65c7be",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Feature layer showing current municipal burning restrictions in Manitoba.  \n  \n  This feature layer shows the current municipal burning restrictions in Manitoba. Fields included ( Alias (Field Name): Field description.) OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generated. Municipality (Municipality): Legal name of the municipality Mutual Aid District (Mutual_Aid_District): Name of the mutual aid district.  The Mutual Aid System is a no-charge, reciprocal system of emergency response and assistance that towns, villages and municipalities in southern Manitoba can access through their local fire departments.  For more information about mutual aid districts, please refer to the Office of the Fire Commissioner website. Telephone (Telephone): Phone number for the municipal office. Email (Email): Email address for the municipal office. Restrictions Flag (Restrictions_Flag): Number indicating the presence or absence of municipal burning restrictions where 1 = \"Burning Restrictions\" and 0 = \"No Restrictions\". Current Restrictions (Current _Restrictions): Description of the burning restriction notice. The Office of the Fire Commissioner (OFC) asks all municipalities to inform the OFC immediately at firecomm@gov.mb.ca when implementing or changing the status of municipal burning restrictions during times of high fire danger conditions. Contact the OFC if you have questions about the municipal burning restrictions: by email at firecomm@gov.mb.ca by phone at 204-945-3322 (toll free 1-800-282-8069)Contact the appropriate municipal office if you have questions about restrictions in specific municipalities."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1c18c748-8704-1180-c91e-434a5627f09c"
+  ],
+  "dct_issued_s": "2025-05-07",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1c18c748-8704-1180-c91e-434a5627f09c\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Current Municipal Burning Restrictions Layer",
+  "gbl_mdModified_dt": "2025-05-07T12:10:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4e1b0749-5389-55c3-a66f-458279a8d07a",
+  "locn_geometry": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

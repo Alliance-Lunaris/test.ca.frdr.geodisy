@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.80645255738723, -94.71771148416603, 54.87863802864422, 49.002650244395255)",
+  "dcat_keyword_sm": [
+    "Launch",
+    "Boat",
+    "Tunnel",
+    "River",
+    "Lake",
+    "Canada",
+    "Trail",
+    "Province of Manitoba",
+    "Waterbody",
+    "Entry",
+    "Vehicle",
+    "Manitoba Government",
+    "Manitoba",
+    "Public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<p>Waterbody Entry Points contains point data primarily of boat launches in Manitoba, but it also includes overland routes and tunnel access to some waterbodies. Each data point has a description of the type of access as well as photos that detail signage and condition of the entry point. The waterbody entry points layer, along with related information, can be found at the <a href='https://experience.arcgis.com/experience/2557cda82dcc4a348fbb71304cedcf6d' rel='nofollow ugc' target='_blank'>Manitoba Lake Information For Anglers</a> app.</p>\n<p>The project was initiated by Manitoba Wildlife and Fisheries Branch with funding from the Fish and Wildlife Enhancement Fund. Data is provided by Manitoba Wildlife and Fisheries Branch, Swan Valley Sport Fishing and Manitoba Watershed Districts. For additional information visit <a href='https://gov.mb.ca/fish-wildlife/fish/index.html' rel='nofollow ugc' target='_blank'>Manitoba Fisheries</a>.</p>\n<p>The dataset includes the following fields (<strong>Alias </strong>(Name): Description)</p>\n<ul>\n<li><strong>Waterbody ID</strong> (WATERBODY_ID): Unique identifier for an individual waterbody.</li>\n<li><strong>Waterbody Name</strong> (WATERBODY_NAME): Name of the waterbody that the entry point belongs to.</li>\n<li><strong>Entry Type</strong> (ENTRY_TYPE): Indicates the type of entry point (e.g. boat launch, tunnel).</li>\n<li><strong>Photo 1</strong> (PHOTO_1): Link to a photo of the launch/entry point.</li>\n<li><strong>Photo 2</strong> (PHOTO_2): Link to a photo of the launch/entry point.</li>\n<li><strong>Photo 3</strong> (PHOTO_3): Link to a photo of the launch/entry point.</li>\n<li><strong>Long (DD)</strong> (LONG_DD): Longitudinal coordinates of the feature in decimal degrees.</li>\n<li><strong>Lat (DD)</strong> (LAT_DD): Latitudinal coordinates of the feature in decimal degrees.</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "0da6002741a64f21a6466a7c4e1df276",
+    "https://www.arcgis.com/home/item.html?id=0da6002741a64f21a6466a7c4e1df276"
+  ],
+  "dct_issued_s": "2020-10-02",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-waterbody-entry-points\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba_Waterbody_Entry_Points",
+  "gbl_mdModified_dt": "2024-09-03T20:35:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f88c346b-4659-58ac-a5f6-c4edd88d7409",
+  "locn_geometry": "ENVELOPE(-101.80645255738723, -94.71771148416603, 54.87863802864422, 49.002650244395255)",
+  "schema_provider_s": "Data MB"
+}

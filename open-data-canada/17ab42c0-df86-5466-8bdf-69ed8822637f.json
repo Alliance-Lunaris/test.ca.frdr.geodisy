@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "feu de forêt",
+    "fire regime",
+    "large fire",
+    "grand feu",
+    "Climate change",
+    "régime des feux",
+    "wildland fire",
+    "Changement climatique",
+    "Incendie de forêt",
+    "Forest fires"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Nombre de grands feux (>200 ha) - Période de référence (1981-2010)"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The fire regime describes the patterns of fire seasonality, frequency, size, spatial continuity, intensity, type (e.g., crown or surface fire) and severity in a particular area or ecosystem.  \n  \n  The number of large fires refers to the annual number of fires greater than 200 hectares (ha) that occur per units of 100,000 ha. It was calculated per Homogeneous Fire Regime (HFR) zones. These HFR zones represent areas where the fire regime is similar over a broad spatial scale (Boulanger et al. 2014). Such zonation is useful in identifying areas with unusual fire regimes that would have been overlooked if fires had been aggregated according to administrative and/or ecological classifications.  \n  \n  Fire data comes from the Canadian National Fire Database covering 1959–1999 (for HFR zones building) and 1959-1995 (for model building). Multivariate Adaptive Regression Splines (MARS) modeling was used to relate monthly fire regime attributes with monthly climatic/fire-weather in each HFR zone. Future climatic data were simulated using the Canadian Earth System Model version 2 (CanESM2) and downscaled at a 10 Km resolution using ANUSPLIN for two different Representative Concentration Pathways (RCP). RCPs are different greenhouse gas concentration trajectories adopted by the Intergovernmental Panel on Climate Change (IPCC) for its fifth Assessment Report. RCP 2.6 (referred to as rapid emissions reductions) assumes that greenhouse gas concentrations peak between 2010-2020, with emissions declining thereafter. In the RCP 8.5 scenario (referred to as continued emissions increases) greenhouse gas concentrations continue to rise throughout the 21st century.  \n  \n  Provided layer: the number of large fires (>200 ha) across Canada for a reference period (1981-2010).  \n  \n  Reference: Boulanger, Y., Gauthier, S., et al. 2014. A refinement of models projecting future Canadian fire regimes using homogeneous fire regime zones. Canadian Journal of Forest Research 44, 365–376.",
+    "Le régime des feux désigne les patrons de saisonnalité, de fréquence, d’étendue, de continuité spatiale, d’intensité, de type (p. ex., feu de cime ou de surface) et de gravité des feux dans une région ou un écosystème donné.  \n  \n  Le nombre de grands feux est la somme annuelle du nombre de feux de plus de 200 hectares (ha) survenant par unité de 100 000 ha. Celui-ci a été calculé à l’aide de zones homogènes de régime (ZHR) des feux. Ces zones ZHR représentent des régions où le régime de feux est similaire sur une vaste échelle spatiale (Boulanger et al. 2014). Cette zonation permet de reconnaître les régions où les régimes des feux ont été inhabituels. Ces régimes inhabituels passent souvent inaperçus lorsque les feux sont regroupés en fonction de classifications administratives ou écologiques.  \n  \n  Les données sur les feux proviennent de la Base nationale de données sur les feux de forêt du Canada couvrant 1959-1999 (pour l’établissement des ZHR) et 1959-1995 (pour l’établissement du modèle). La modélisation Régression multivariée par spline adaptative (en anglais MARS pour « Multivariate adaptive regression splines ») a été utilisée pour relier les attributs mensuels du régime des feux avec les variables mensuelles climatiques/feu-météo pour chaque ZHR. Les données projetées ont été simulées au moyen du modèle canadien du système terrestre, version 2 (Canadian Earth System Model version 2 [CanESM2]), et leur échelle a été réduite au moyen d’ANUSPLIN pour deux profils représentatifs d’évolution de concentration (“Representative Concentration Pathways” ou RCP). Ces RCP découlent de quatre scénarios relatifs à l’évolution de la concentration en gaz à effet de serre établis par le Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC) dans son cinquième rapport d'évaluation. Le RCP 2.6 (appelé réduction rapide des émissions) suppose que les gaz à effet de serre atteindront leur concentration maximale au cours de la période 2010-2020 avant d’entamer leur déclin. Selon le scénario RCP 8.5 (appelé augmentation continue des émissions), la concentration en gaz à effet de serre continuera de croître tout au long du 21e siècle.    \n  \n  Couche de données fournie : le nombre de grands feux (>200 ha) au Canada pour la période de référence (1981-2010).  \n  \n  Référence : Boulanger, Y., Gauthier, S., et coll. 2014. A refinement of models projecting future Canadian fire regimes using homogeneous fire regime zones. Revue canadienne de recherche forestière 44, 365-376."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/3acc0a45-7592-4ea6-94db-09f3681bc579"
+  ],
+  "dct_issued_s": "2016-01-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/3acc0a45-7592-4ea6-94db-09f3681bc579\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Number of large fires (>200 hectares) - Reference Period (1981-2010)",
+  "gbl_mdModified_dt": "2022-02-07T15:11:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17ab42c0-df86-5466-8bdf-69ed8822637f",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

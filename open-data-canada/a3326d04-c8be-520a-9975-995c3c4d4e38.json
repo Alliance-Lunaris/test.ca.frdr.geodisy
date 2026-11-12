@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.0, -60.0, 46.0, 42.0)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "Objectifs de conservation marine",
+    "Scotian Shelf Sea Surface Temperature",
+    "Upwell Variability",
+    "Marine Conservation Targets",
+    "Océan",
+    "Variabilité de la remontée d’eau",
+    "Température à la surface de la mer sur le plateau néo-écossais"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Indices de remontée d’eau tirés du modèle GLORYS12 et du vent de surface ERA5 sur le plateau néo-écossais de 1993 à 2022"
+  ],
+  "dct_creator_sm": [
+    "Data Acquisition Assembly and Distribution / Acquisition, assemblage et distribution de donnée."
+  ],
+  "dct_description_sm": [
+    "Estimates of wind-driven upwelling of colder water on the Scotian Shelf along the Nova Scotia coastline from 1993 to 2022 (inclusive) are presented, calculated using surface and 55m-depth water temperatures from the Global Ocean Physics Reanalysis (GLORYS12v1) product,  and also ERA5 surface winds.  GLORYS12v1 is a 1/12o data-assimilative reanalysis modelling product from Mercator Ocean International,  implemented by the Copernicus Marine Environment Monitoring Service (CMEMS; (https://doi.org/10.48670/moi-00021). ERA5 is a weather forecast produced by the European Centre for Medium-Range Weather Forecasts   (ECMWF; https://doi.org/10.24381/cds.adbb2d47). Daily estimates are given of upwelling area and intensity (temperature anomaly between upwelled and non-upwelled water), calculated over the area of interest (AOI) on the Scotian Shelf. Yearly estimates are given of total upwelling duration and cumulative area for the year in question, further broken down into seasons: Spring (March-May), Summer (June-August), and Fall (September-November). Lastly, estimates of the yearly start/end dates of the cold-water upwelling season (lasting generally from March to November) are estimated.   The sea surface temperature (SST) data from GLORYS were validated against in-situ buoy observations (https://www.meds-sdmm.dfo-mpo.gc.ca/alphapro/wave/waveshare/metaData/meta_c44258.csv) and satellite-derived SST produced by Canadian Meteorological Centre (https://doi.org/10.5067/GHCMC-4FM02 and https://doi.org/10.5067/GHCMC-4FM03. These products may be used to gain knowledge of interannual variability of coastal upwelling on the ScS over the past 30 years.\n\nCite this data as: Tao, J., Casey, M., Lu, Y., and Shen, H. Upwelling indices derived from GLORYS12 Model and ERA5 surface wind on the Scotian Shelf during 1993-2022.\nPublished: December 2024. Ecosystems and Oceans Science, Maritimes region, Fisheries and Oceans Canada, Dartmouth NS. \nhttps://open.canada.ca/data/en/dataset/a2da6bfd-92e3-434e-b9bd-456b7fc9e92b",
+    "Les estimations de la remontée d’eau plus froide sous l’effet du vent sur le plateau néo-écossais le long des côtes de la Nouvelle-Écosse de 1993 à 2022 (inclusivement) sont présentées, calculées à l’aide des températures de l’eau en surface et à 55 m de profondeur du produit Global Ocean Physics Reanalysis (GLORYS12v1) et des vents de surface ERA5. GLORYS12v1 est un produit de modélisation de réanalyse d’assimilation des données, dont la résolution est de résolution de 1/12o, de Mercator Ocean International, mis en œuvre par Copernicus Marine Environment Monitoring Service (CMEMS); (https://doi.org/10.48670/moi-00021). ERA5 est une prévision météorologique produite par le Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT; https://doi.org/10.24381/cds.adbb2d47). Des estimations quotidiennes sont fournies pour la zone de remontée d’eau et l’intensité (anomalie de température entre les eaux remontées et non remontées), calculées pour la zone d’intérêt (ZI) du plateau néo-écossais. Des estimations annuelles de la durée totale de remontée et de la superficie cumulative pour l’année en question sont fournies, lesquelles sont ensuite réparties en saisons : printemps (de mars à mai), été (de juin à août) et automne (de septembre à novembre). Enfin, des estimations des dates annuelles de début et de fin de la saison de remontée d’eau froide (généralement de mars à novembre) sont estimées.   Les données de température de la surface de la mer de GLORYS ont été validées par rapport aux observations in situ effectuées depuis des bouées (https://www.meds-sdmm.dfo-mpo.gc.ca/alphapro/wave/waveshare/metaData/meta_c44258.csv) et à la température de la surface de la mer dérivée par satellite produite par le Centre météorologique canadien. (https://doi.org/10.5067/GHCMC-4FM02 et https://doi.org/10.5067/GHCMC-4FM03. On peut utiliser ces produits pour acquérir des connaissances sur la variabilité interannuelle de la remontée d’eau côtière dans le plateau néo-écossais au cours des 30 dernières années.\n\nCiter ces données comme: Tao, J., Casey, M., Lu, Y., and Shen, H. Indices de remontée d’eau tirés du modèle GLORYS12 et du vent de surface ERA5 sur le plateau néo-écossais de 1993 à 2022.\nPublié en Décembre 2024. Secteur des sciences des écosystèmes et des océans, Région du Maritimes, Pêches et Océans Canada, Darmouth, (N-É) https://open.canada.ca/data/fr/dataset/a2da6bfd-92e3-434e-b9bd-456b7fc9e92b"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a2da6bfd-92e3-434e-b9bd-456b7fc9e92b"
+  ],
+  "dct_issued_s": "2024-11-29",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a2da6bfd-92e3-434e-b9bd-456b7fc9e92b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Upwelling indices derived from GLORYS12 Model and ERA5 surface wind on the Scotian Shelf during 1993-2022",
+  "gbl_mdModified_dt": "2026-03-24T08:04:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a3326d04-c8be-520a-9975-995c3c4d4e38",
+  "locn_geometry": "ENVELOPE(-67.0, -60.0, 46.0, 42.0)",
+  "schema_provider_s": "Open Data Canada"
+}

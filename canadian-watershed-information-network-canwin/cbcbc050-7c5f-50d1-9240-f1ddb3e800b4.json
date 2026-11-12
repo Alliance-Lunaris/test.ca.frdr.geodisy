@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Ministry of Education (MEQ) calculates two deprivation indices annually for the 69 school service centers and linguistic school boards, namely:\n\n• the Socio-Economic Environment Index (IMSE), which is made up of the proportion of families with children whose mothers do not have a diploma, certificate or degree (representing two-thirds of the weight of the index) and the proportion of households whose parents were not employed during the reference week of the Canadian census (which represents a third of the weight of the index).\n\n• the Low Income Threshold Index (LFR) corresponds to the proportion of families with children whose income is close to or below the low income threshold. The low-income cut-off is defined as the income level at which families are estimated to spend 20% more than the overall average on food, housing, and clothing. It provides information that is used to estimate the proportion of families whose incomes can be considered low, taking into account the size of the family and the environment of residence (rural region, small urban area, large agglomeration, etc.).\n\nFor the 2025-2026 school year, the socio-economic data used are extracted from the 2021 Canadian census and relate to the situation of Quebec families with at least one child aged 0 to 18. Depending on their geographical position, these families are grouped together in one of the 3,857 settlement units established by the Ministry. The annual school indices are grouped in decimal rank in order to locate the relative position of the school among all public schools, for primary and secondary education.\n\nNote that schools may include more than one school building, that no index is calculated for school boards with special status (Cree, Kativik and Littoral) and that only schools with 30 students or more are selected (without an MEQ-MSSS agreement).\n\nFor the 2025-2026 school year, 675 primary schools and 204 secondary schools are in deciles 8, 9 or 10 according to the IMSE index and make up the group of schools said to be in more disadvantaged areas. These schools respectively welcome a total of 158,089 and 118,906 students, representing 30.1% and 30.2% of the public network for each of these two levels of education.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/004de02c-19f1-4da0-9af8-33f893e41972"
+  ],
+  "dct_issued_s": "2020-12-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/004de02c-19f1-4da0-9af8-33f893e41972\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Indices of deprivation",
+  "gbl_mdModified_dt": "2026-09-09T17:37:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cbcbc050-7c5f-50d1-9240-f1ddb3e800b4",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

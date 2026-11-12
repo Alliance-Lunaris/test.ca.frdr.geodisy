@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Mosaïque satellitaire",
+    "Imagerie satellitaire",
+    "Landsat Québec 30 m",
+    "Mosaïques satellitaires Québec",
+    "Séries temporelles Landsat",
+    "Portrait territorial annuel",
+    "Imagerie",
+    "Images satellitaires historiques Québec",
+    "Images satellitaires annuelles",
+    "Observations de la Terre Québec",
+    "Mosaïques Landsat",
+    "Mosaïque temporelle",
+    "Image satellite",
+    "Landsat",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l'information géospatiale ."
+  ],
+  "dct_description_sm": [
+    "Les mosaïques annuelles Landsat offrent un portrait unique de l’ensemble du territoire québécois. Elles permettent d’analyser les changements environnementaux et territoriaux sur plus de 40 ans, notamment l’évolution des milieux naturels, l’étalement urbain, les activités agricoles et forestières, les transformations des zones protégées ainsi que les modifications des réseaux hydriques, comme les réservoirs et les barrages.\r\n\r\n###Principales caractéristiques des mosaïques###\r\n* Résolution de 30 m\r\n* Format GeoTIFF\r\n* Images acquises entre juillet et août \r\n* Série temporelle couvrant 1984 à aujourd’hui \r\n* Production basée sur la sélection du pixel de meilleure qualité optique\r\n* Conçues pour offrir une représentation homogène d’année en année\r\n\r\nCes mosaïques sont produites en collaboration avec le Centre de foresterie des Laurentides du Service canadien des forêts (SCF). Le SCF produit les mosaïques et la Direction générale de l’information géospatiale du ministère des Ressources naturelles et des Forêts en assure la préparation pour la diffusion\r\n\r\nLes grandes composantes sont les suivantes :\r\n\r\n####Images GeoTIFF par bandes spectrales####\r\n\r\n* Mosaïques non rehaussées disponibles par bandes spectrales en format GeoTIFF 16 bits \r\n(ex. : SR_L5789_HARM_BP_2013_B1_gapfill_mrnf_masked.tif). Chaque mosaïque comprend les bandes 1 (Bleu), 2 (vert), 3 (rouge), 4 (proche infrarouge), 5 (moyen infrarouge) et 7 (moyen infrarouge);\r\n* Matrice indiquant l’année des images où les pixels de meilleure qualité ont été extraits \r\n(ex. : SR_L5789_HARM_BP_2013_year_gapfill_mrnf_masked.tif);\r\n* Matrice indiquant les jours juliens des pixels de meilleure qualité extraits. Les jours juliens démarrent le 1er janvier 1970, d’où le libellé JJ70 (ex. : SR_L5789_HARM_BP_2013_JJ70_gapfill_mrnf_masked.tif). Ils permettent de retrouver la date exacte où les pixels ont été captés dans chaque mosaïque;\r\n* Matrice indiquant le satellite Landsat correspondant à chaque pixel de meilleure qualité extraits \r\n(ex. : SR_L5789_HARM_BP_2013_sensor_gapfill_mrnf_masked.tif).\r\n\r\n####Images mosaïques rehaussées####\r\n\r\nMosaïques GeoTIFF rassemblant les six bandes spectrales rehaussées par égalisation d’histogramme adaptatif à contraste limité (Contrast Limited Adaptive Histogram Equalization, CLAHE) pour chaque année (ex. : Mosaique_Landsat_2013_CLAHE.tif).\r\n \r\nNotes à l’usager ou l’usagère : \r\n\r\n1.  Certains artefacts peuvent être présents aux endroits où aucune image Landsat acquise durant une même année n’était exempte de nuages, de voiles atmosphériques ou d’ombres. \r\n2.  Les mosaïques de 1984 à 1989 comportent certaines zones d’absence de donnée (no data) en raison d’une capacité d’acquisition limitée. Le nombre de satellites Landsat en orbite à cette époque n’était pas suffisant pour assurer une couverture complète en imagerie durant les mois de juillet et d’août.\r\n3.  Utilisation des images : Ce n’est pas une obligation, mais la mention de source suivante peut être utilisée dans des publications ou des supports de présentation pour reconnaître l’Institut d'études géologiques des États-Unis (United States Geological Survey). \r\nLandsat Collection 2 Surface Reflectance (SR) courtesy of the U.S. Geological Survey."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/84540326-ac97-4ce7-83e2-3ec0eb753693"
+  ],
+  "dct_issued_s": "2026-03-11",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/84540326-ac97-4ce7-83e2-3ec0eb753693\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Mosaïques annuelles Landsat du Québec",
+  "gbl_mdModified_dt": "2026-05-06T17:16:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b78fef4e-fe5a-5145-b12e-94e9f3657734",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Drought is a deficiency in precipitation over an extended period, usually a season or more, resulting in a water shortage that has adverse impacts on vegetation, animals and/or people.   \n  \n  The Climate Moisture Index (CMI) was calculated as the difference between annual precipitation and potential evapotranspiration (PET) – the potential loss of water vapour from a landscape covered by vegetation. Positive CMI values indicate wet or moist conditions and show that precipitation is sufficient to sustain a closed-canopy forest. Negative CMI values indicate dry conditions that, at best, can support discontinuous parkland-type forests. The CMI is well suited to evaluating moisture conditions in dry regions such as the Prairie Provinces and has been used for other ecological studies.  \n  \n  Mean annual potential evapotranspiration (PET) was estimated for 30-year periods using the modified Penman-Monteith formulation of Hogg (1997), based on monthly 10-km gridded temperature data.  Data shown on maps are 30-year averages.    \n  \n  Historical values of CMI (1981-2010) were created by averaging annual CMI calculated from interpolated monthly temperature and precipitation data produced from climate station records. Future values of CMI were projected from downscaled monthly values of temperature and precipitation simulated using the Canadian Earth System Model version 2 (CanESM2) for two different Representative Concentration Pathways (RCP). RCPs are different greenhouse gas concentration trajectories adopted by the Intergovernmental Panel on Climate Change (IPCC) for its fifth Assessment Report. RCP 2.6 (referred to as rapid emissions reductions) assumes that greenhouse gas concentrations peak between 2010-2020, with emissions declining thereafter. In the RCP 8.5 scenario (referred to as continued emissions increases) greenhouse gas concentrations continue to rise throughout the 21st century.  \n  \n  Provided layer: projected mean annual Climate Moisture Index across Canada for the long-term (2071-2100) under the RCP 8.5 (continued emissions increases).  \n  \n  Reference: Hogg, E.H. 1997. Temporal scaling of moisture and the forest-grassland boundary in western Canada. Agricultural and Forest Meteorology 84,115–122."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6b4ab063-b8fe-47fe-b68e-897cb2fb91f0"
+  ],
+  "dct_issued_s": "2017-05-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6b4ab063-b8fe-47fe-b68e-897cb2fb91f0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Climate Moisture Index for Canada - Long-term (2071-2100) under RCP 8.5",
+  "gbl_mdModified_dt": "2022-02-07T15:11:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4d9847b3-1921-5819-adb9-4dbffabec9c8",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

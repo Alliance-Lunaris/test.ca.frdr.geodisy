@@ -1,0 +1,63 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.24, -67.3756, 49.3158, 48.53)",
+  "dcat_keyword_sm": [
+    "Animalia",
+    "Abondance et distribution de poissons",
+    "Animalia",
+    "abondance et biomasse",
+    "experimental fisheries",
+    "suivi des espèces",
+    "species tracking",
+    "habitat characterization",
+    "macrofaune benthique",
+    "benthic macrofauna",
+    "Coastal Environmental Baseline Program",
+    "invertebrateAbundanceAndDistribution",
+    "Abondance et distribution d'invertébrés",
+    "pêches expérimentales",
+    "habitat sensible",
+    "endangered species",
+    "sensitive habitat",
+    "abundance and biomass",
+    "macroalgalCanopyCoverAndComposition",
+    "espèces en péril",
+    "caractérisation des habitats",
+    "Composition et couverture de la canopée de macroalgues",
+    "fishAbundanceAndDistribution",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Assemblages de poissons et d’invertébrés en milieux côtiers dans l’Estuaire du Saint-Laurent (rive nord) échantillonnés avec un chalut à perche"
+  ],
+  "dct_creator_sm": [
+    "Levesque, David (Fisheries and Oceans Canada, Pêches et Océans Canada).",
+    "Roux, Marie-Julie (Fisheries and Oceans Canada).",
+    "Section, Gestion des données (Fisheries and Oceans Canada).",
+    "Scallon-Chouinard, Pierre-Marc (Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "This dataset derives from a series of beam trawl tows conducted during several research surveys in coastal areas of the St. Lawrence Estuary, between Portneuf-sur-Mer and Pointe-des-Monts, and between June and October of 2019, 2020 and 2021. It contains catch data for fish and invertebrates (occurrence and catch weights by species), in trawl tows conducted at depths ranging from 10 to 50 meters.\n\nData were collected in various cruises:\n• June 28th to July 5th 2019 (NGCC Leim)\n• September 30th to October 9th 2019 (NGCC Leim)\n• October 1st to October 10th 2020 (NGCC Leim)\n• April 22nd to May 5th 2021 (NGCC Perley)\n• October 15th to October 24th 2021 (NGCC Perley)\n\nThe beam trawl used to generate this data set consists of a frame (width of 2.8 m, height of 0.8 m) equipped with a 6.5 m long net with 40 mm diamond mesh, which is lined with a net (skirt) of square mesh (5 mm) at the cod-end (length 2 m) and a protective apron (75 mm mesh) on the ventral portion. Three skid chains are linked at the base of the skates. Each station corresponds to a 5 to 10 minutes tow along an isobath at a speed of about 2 knots. At each haul, the trawl catch was placed on a sorting table on the deck and the organisms were sorted and identified at the best possible taxonomic resolution. Most taxa were independently weighed. Some invertebrates taxa were subsampled, counted and weighted in order to estimate their contribution (weight and number) to the total catch. Additionally, the first 30 fish of each species were measured and weighed individually.\n\nTaxonomic names were verified on the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match has been put in the scientificNameID field in the occurrence file. Data quality control was performed using the R packages obistools and worrms. All sampling locations were plotted on a map to perform a visual check confirming that the latitude and longitude coordinates were within the described sampling area.\n\nData acquired during the research surveys additionally included: 1) occurrence data on epibenthic invertebrates and submerged aquatic vegetation in photo samples from a drop camera system, 2) occurrence data on fish and invertebrate taxa in video samples collected using a baited underwater video system (BUV), 3) substrate classification based on drop camera photo samples, 4) oceanographic measurements of the water column from Seabird 19plus V2 profiling CTD (conductivity, temperature, depth, photosynthetic active radiation, pH, dissolved oxygen), 5) nutrients (NO2, NO3, NH4, PO4, SiO3) and dissolve organic carbon (DOC) concentrations, and 6) current speed and direction from tilt meters. The first two items are available as independent data on the OBIS portal. To obtain data from items 3-6 and/or biological data collected on fish and invertebrate taxa, please contact David Lévesque or Marie-Julie Roux.\n\nThe research surveys were undertaken by the Department of Fisheries and Oceans Canada as part of the baseline program of the Ocean Protection Plan. This initiative aimed to acquire environmental baseline data contributing to the characterization of important coastal areas and in support of evidence-based assessments and management decision-making for preserving marine ecosystems.\nWhich contribute to the elaboration of conservation objectives based on an ecosystem assessment approach for fishery stock assessment requires the development of sampling methods to maximize the data collection on the ecosystem, while minimizing the impact on organisms and the marine environment. This project aims at characterising the coastal ecosystem of the St. Lawrence Estuary between Portneuf-sur-Mer and Godbout (QC), including the physico-chemistry of water, phytoplankton, zooplankton, submerged vegetation, benthic habitats as well as assemblages of fish and invertebrates. Sampling was performed by combining conventional methods such as CTD profiling, zooplankton nets, and beam trawl, with non-extractive methods such as dropped photo cameras and stereoscopic baited video camera systems. The data collected will help define baseline ecosystem conditions in the study area; explore the links between environmental conditions, habitat structure and biological assemblages; identify important habitats for marine species; as well as the evaluation of the performance of visual sampling methods compared to conventional methods. The results will make it possible to optimize the seasonal or annual monitoring in order to better understand the direct and indirect effects of human activities in coastal environments.\n\nThis project is part of the Coastal Environmental Baseline Program under the Oceans Protection Plan of Fisheries and Oceans Canada.",
+    "Ce jeu de données provient de captures réalisées dans une série de traits de chalut à perche effectués lors de relevés en milieux côtiers sur la rive nord de l'estuaire du Saint-Laurent, entre Portneuf-sur-Mer et Pointe-des-Monts, et entre juin et octobre de 2019, 2020 et 2021. Il contient les données de capture de poissons et invertébrés (occurrence et poids de capture par espèce) pour des traits de chalut effectués à des profondeurs allant de 10 à 50 mètres.\n\nLes données ont été récoltées lors de différentes missions en mer :\n• 28 juin au 5 juillet 2019 (NGCC Leim)\n• 30 septembre au 9 octobre 2019 (NGCC Leim)\n• 1er octobre au 10 octobre 10 2020 (NGCC Leim)\n• 22 avril au 5 may 2021 (NGCC Perley)\n• 15 octobre au 24 octobre 2021 (NGCC Perley)\n\nLe chalut à perche utilisé pour générer ce jeu de données est constitué d’un cadre, d’une largeur de 2.8 m et d’une hauteur de 0.8 m, équipé d’un filet de 6.5 m de long en mailles diamant 40 mm, lequel est doublé d’un filet (jupette) de mailles carrées (5 mm) au niveau du cul-de-chalut (longueur 2 m) et d’un tablier protecteur (mailles 75 mm) sur la portion ventrale. Au niveau de la partie inférieure de l’engin, trois chaînes débusqueuses sont tendues à la base des patins. Chaque station correspond à un trait de chalut d’une durée de 5 à 10 minutes réalisé le long d’un isobathe à une vitesse d’environ 2 nœuds. La capture de chaque trait a été déposée sur une table de tri sur le pont et les organismes ont été triés et identifiés à la meilleure résolution taxonomique possible. La plupart des taxon ont été pesés séparément. Certains taxons d’invertébrés ont été sous-échantillonnés, dénombrés et pesés afin d’estimer leur contribution (en poids et en nombre) à la capture totale. De plus, les 30 premier poissons de chaque espèce ont été mesurés et pesés individuellement.\n\nTous les noms taxonomiques ont été vérifiés sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues. La correspondance WoRMS a été placée dans le champ scientificNameID du fichier d'occurrence. Le contrôle de la qualité des données a été effectué à l'aide des packages R obistools et worrms. Tous les emplacements d'échantillonnage ont été reportés sur une carte afin d'effectuer un contrôle visuel confirmant que les coordonnées de latitude et de longitude se trouvaient dans la zone d'échantillonnage décrite.\n\nLes données acquises lors des relevés comprennent aussi : 1) les données d’occurrence des taxons d'invertébrés épibenthiques et de végétation aquatique submergée provenant d’un système de caméras photo déposé, 2) les données d’occurrence des poissons et invertébrés observés dans des échantillons vidéo provenant d'un système de caméras vidéo sous-marines appâté, 3) la classification du substrat basée sur les échantillons photos récoltés avec le système de caméras déposé, 4) des mesures océanographiques de la colonne d'eau d’un CTD Seabird 19plus V2 type profilage (conductivité, température, profondeur, rayonnement photosynthétique actif, pH, oxygène dissous), 5) les concentrations de nutriments (NO2, NO3, NH4, PO4, SiO3) et carbone organique dissous (DOC) et 6) la vitesse et la direction du courant mesurées par des inclinomètres. Les deux premiers éléments sont disponibles en tant que jeux de données indépendants sur le portail OBIS. Pour obtenir les données des éléments 3 à 6 et/ou les données biologiques récoltées sur différents taxons de poissons et invertébrés, veuillez contacter David Lévesque ou Marie-Julie Roux.\n\nLes relevés scientifiques ont été réalisés dans le cadre du Programme sur les données environnementales côtières de référence de Pêches et Océans Canada et du Plan de protection des océans. Cette initiative vise à acquérir des données environnementales de base qui contribuent à la caractérisation des zones côtières d’importance en soutient aux évaluations fondées sur des preuves et la prise de décisions de gestion afin de préserver les écosystèmes marins. Ce qui contribute à l‘élaboration d’objectifs de conservation écosystémiques dans la gestion des ressources halieutiques nécessite le développement de méthodes d’échantillonnage permettant de maximiser la collecte de données sur l’écosystème, tout en minimisant l’impact sur les organismes et le milieu marin. Ce projet vise la caractérisation écosystémique de la zone côtière de l’estuaire du Saint-Laurent entre Portneuf-sur-Mer et Godbout (QC), incluant la physico-chimie de l’eau, le phytoplancton, le zooplancton, la végétation submergée, les habitats benthiques ainsi que les assemblages de poissons et invertébrés. L’échantillonnage est réalisé en combinant des méthodes conventionnelles telles que le profilage CTD, les filets à zooplancton et le chalut à perche, à des méthodes non-extractives telles les caméras photo déposées et les systèmes de caméras vidéo stéréoscopiques appâtés. Les données amassées contribueront à définir les conditions écosystémiques de référence dans la zone d’étude; explorer les liens entre les conditions environnementales, la structure des habitats et les assemblages biologiques; identifier des habitats d’importance pour les espèces marines; ainsi qu’à l’évaluation de la performance des méthodes d’échantillonnage visuel par rapport aux méthodes conventionnelles. Les résultats permettront d’optimiser les suivis saisonniers ou annuels en vue de mieux comprendre les effets directs et indirectes des activités humaines en milieux côtiers.\n\nCe projet fait partie du Programme sur les données environnementales côtières de référence de Pêches et Océans Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/f21f9eb3-10aa-4ee5-97a6-d1f6f28e1de0"
+  ],
+  "dct_issued_s": "2019-06-28",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/f21f9eb3-10aa-4ee5-97a6-d1f6f28e1de0\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Fish and Invertebrate Assemblages in Coastal Areas of the St. Lawrence Estuary (north shore) Sampled With a Beam Trawl",
+  "gbl_mdModified_dt": "2026-07-31T16:39:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d6c0da34-554a-5855-be18-e38e31e3c6c1",
+  "locn_geometry": "ENVELOPE(-69.24, -67.3756, 49.3158, 48.53)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

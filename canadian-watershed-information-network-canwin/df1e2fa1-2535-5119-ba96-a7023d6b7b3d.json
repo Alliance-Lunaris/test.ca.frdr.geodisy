@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.7423, -101.0452, 59.4739, 52.1823)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The documented occurrence data package contains 3 datasets that, in combination, help to provide generalized information about woodland caribou locations and survey areas in Saskatchewan. This information may assist users in their efforts to avoid or mitigate impacts to woodland caribou when operating in woodland caribou range. Generalized locations of caribou use have been provided to better reflect their large home ranges. Absence of a hexagon in an area should not be interpreted as absence of woodland caribou.  \n  \n  Please read the Data Guide for important information about this product. Download survey boundaries, telemetry occurrence, and sightings/sign. Download the full package, including data guide here. The Woodland Caribou Documented Occurrence public data product is composed of three shapefiles/feature classes: 1. Woodland Caribou Occurrence - Sighting and Sign 2. Woodland Caribou Occurrence - Telemetry 3. Woodland Caribou Survey Boundaries The two occurrence datasets contain a grid of 18 sq km hexagons (tessellation). The inclusion of a hexagon in the dataset indicates that one or more animal sightings or sign, or telemetry points have been documented in that area. Importantly, lack of caribou occurrence (e.g. no hexagon) should not be interpreted as absence of woodland caribou. Rather, data may not have been collected in these areas or incidental or other observations have not been received.   The survey boundaries dataset displays the boundaries of woodland caribou surveys that were completed by or in collaboration with the Ministry of Environment from 2005 to 2024. Boundaries are from multiple sources, and include various types of surveys (fecal pellet collection or telemetry). These boundaries provide context when viewed alongside the woodland caribou occurrence datasets. We expect to see more occurrence locations in areas that have been surveyed. This information may provide context to areas with a seemingly higher number of occurrences.  For a full description of the data, please refer to the Data Guide document available for download on the Saskatchewan GeoHub."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/f37ca579-48ab-80b6-1aa7-ac642da1cdda"
+  ],
+  "dct_issued_s": "2025-05-07",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/f37ca579-48ab-80b6-1aa7-ac642da1cdda\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_title_s": "Sighting and Sign",
+  "gbl_mdModified_dt": "2025-05-07T12:10:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "df1e2fa1-2535-5119-ba96-a7023d6b7b3d",
+  "locn_geometry": "ENVELOPE(-109.7423, -101.0452, 59.4739, 52.1823)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

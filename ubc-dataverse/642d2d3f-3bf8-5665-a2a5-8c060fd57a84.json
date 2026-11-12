@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.0, -114.6, 60.0, 49.0)",
+  "dcat_keyword_sm": [
+    "COVID-19 (Disease)",
+    "Public health",
+    "Public officers",
+    "Twitter",
+    "British Columbia"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Paterson, Susan (University of British Columbia). ORCID: https://orcid.org/0000-0001-7661-5827",
+    "Brigham, Doug (University of British Columbia). ORCID: https://orcid.org/0000-0001-8683-2024"
+  ],
+  "dct_description_sm": [
+    "<p>Tweets about COVID-19 from sources in British Columbia. This dataset includes tweets from government officials, health authorities and journalists. The tweet IDs were collected using Documenting the Now's Twarc library (https://github.com/DocNow/twarc).</p>\n<p>The date of the earliest available tweet is different for each handle. The date of the latest available tweet will not be later than the upload date for each file. See the file-level information below.</p>\n<p>The tweet ids were extracted from the raw JSON files retrieved from Twitter using Twarc. However, Twitter's terms of use do not permit the sharing of the raw JSON files for this dataset. The raw JSON files can be retrieved from Twitter, provided the content is still available, using the 'hydrate command within Twarc. The researchers retained the source JSON files and may be contacted by other researchers if they wish to access them. The files of tweet ids will be updated over time and this metadata, the files and this readme.txt file will be updated accordingly.</p>\n<p>Raw JSON files were harvested using Twarc's 'timeline' command. The 'timeline' command retrieves the most recent tweets from the specified handle, to a maximum of approximately 3,300 tweets. The data for each handle was collected approximately weekly, starting in January 2021.</p>\n<p>In order not to lose earlier tweets, we concatenated the JSON for each new 'timeline' crawl to the earlier crawls and de-duplicated the combined JSON using Twarc's 'deduplicate' command. We then used Twarc's 'dehydrate' command to extract just the tweet ids from the deduplicate JSON file. Finally, we sorted the tweet ids numerically so that they would appear in ascending date order.</p>\n<p>The basic workflow looks like: twarc timeline --> concatenate JSON files --> deduplicate resulting JSON file --> dehydrate tweet ids --> sort tweet ids.</p>\n<p>The Twitter handles include:\n<ul>\n<li>@BCGovNews: BC Government News. Tweets in this file start on 2019-06-06.</li>\n<li>@CDCofBC: BC Centre for Disease Control. Tweets in this file start on 2019-06-28.</li>\n<li>@Fraserhealth: Fraser Health Authority. Tweets in this file start on 2019-01-07.</li>\n<li>@ImmunizeBC: Evidence-based immunization information and tools for BC residents from the BC Centre for Disease Control. Tweets in this file start on 2014-11-19.</li>\n<li>@Interior_Health: Health authority for the Southern Interior of BC. Tweets in this file start on 2017-06-30.</li>\n<li>@Northern_Health: Health authority for the Northern Interior of BC. Tweets in this file start on 2018-07-01.</li>\n<li>@PHSAofBC: Provincial Health Services Authority of BC. Tweets in this file start on 2019-11-01.</li>\n<li>@SAHoffman: Suzanne Hoffman, Superintendent of Schools for Vancouver. Tweets in this file start on 2009-08-14.\n<li>@VCHhealthcare: Vancouver Coastal Health Authority. Tweets in this file start on 2019-02-15.</li>\n<li>@VanIslandHealth: Vancouver Island Health Authority. Tweets in this file start on 2017-12-13.</li>\n<li>@adriandix: Adrian Dix, Member of the Legislative Assembly for Vancouver-Kingsway and BC Minister of Health. Tweets in this file start on 2019-09-13.</li>\n<li>@fnha: First Nations Health Authority. Tweets in this file start on 2017-05-03.</li>\n<li>@govTogetherBC: Government of BC citizen engagement. Tweets in this file start on 2016-09-03.</li>\n<li>@j_mcelroy: Municipal Affairs Reporter for CBC Vancouver. Tweets in this file start on 2021-01-04.</li>\n<li>@jordantinney: Jordan Tinney, Superintendent of Schools for Surrey. Tweets in this file start on 2013-01-16.</li>\n<li>@keithbaldrey: Keith Baldrey, Political journalist for Global TV, British Columbia. Tweets in this file start on 2020-12-14.</li>\n<li>@kennedystewart: Kennedy Stewart, 40th Mayor of Vancouver. Tweets in this file start on 2016-10-16.</li>\n<li>@richardzussman: Reporter for Global TV, British Columbia, at the provincial legislature. Tweets in this file start on 2020-12-31.</li>\n</ul>\n</p>"
+  ],
+  "dct_identifier_sm": [
+    "150093_1226260_150091",
+    "https://doi.org/10.5683/SP2/D6BRA3"
+  ],
+  "dct_issued_s": "2021-04-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/D6BRA3\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Social Sciences",
+    "Other",
+    "Arts and Humanities"
+  ],
+  "dct_title_s": "COVID-19 related tweets from British Columbia sources",
+  "gbl_mdModified_dt": "2021-04-11T23:10:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "642d2d3f-3bf8-5665-a2a5-8c060fd57a84",
+  "locn_geometry": "ENVELOPE(-139.0, -114.6, 60.0, 49.0)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // Canadian Current Events in Social Media"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

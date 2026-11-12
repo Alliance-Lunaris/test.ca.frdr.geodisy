@@ -1,0 +1,52 @@
+{
+  "dcat_keyword_sm": [
+    "Habitat Assessment",
+    "Rangifer tarandus",
+    "Vegetation recovery",
+    "photogrammetry",
+    "light detection and ranging"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dickie, Melanie (Alberta Biodiversity Monitoring Institute). ORCID: https://orcid.org/0000-0003-2177-2352",
+    "Hricko, Branislav (Alberta Biodiversity Monitoring Institute).",
+    "Hopkinson, Christopher (University of Lethbridge).",
+    "Tran, Victor (Alberta Biodiversity Monitoring Institute).",
+    "Kohler, Monica (University of Alberta, Alberta Biodiversity Monitoring Institute).",
+    "Toni, Sydney (University of Alberta, Alberta Biodiversity Monitoring Institute).",
+    "Serrouya, Robert (Alberta Biodiversity Monitoring Institute).",
+    "Kariyeva, Jahan (Canadian Wildlife Service, Environment and Climate Change Canada)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 3</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.gxd2547rj</p>\n<p><b>Storage size:</b> 2441222</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><ol start=\"1\" type=\"1\">\n<li>\n<p><span lang=\"EN\">Anthropogenic habitat alteration is leading to the reduction of global biodiversity. Consequently, there is an imminent need to understand the state and trend of habitat alteration across broad areas. In North America, habitat alteration has been linked to the decline of threatened woodland caribou. As such, habitat protection and restoration are critical measures to support recovery of self-sustaining caribou populations. Broad estimates of habitat change through time have set the stage for understanding the status of caribou habitat. However, the lack of updated and detailed data on post-disturbance vegetation recovery is an impediment to recovery planning and monitoring restoration effectiveness. Advances in remote sensing tools to collect high-resolution data at large spatial scales are beginning to enable ecological studies in new ways to support ecosystem-based and species-based management.</span></p>\n</li>\n<li>\n<p><span lang=\"EN\">We used semi-automated and manual methodologies to fuse photogrammetry point clouds (PPC) from high-resolution aerial imagery with wide-area Light Detection and Ranging (LiDAR) data to quantify vegetation structure (height, density, class) on disturbances associated with caribou declines. We also compared vegetation heights estimated from the semi-automated PPC-LiDAR fusion to heights estimated in the field, using stereoscopic interpretation, and using multi-channel TiTAN LiDAR.</span></p>\n</li>\n<li>\n<p><span lang=\"EN\">Vegetation regrowth was occurring on many of the disturbance types, though there was local variability in the type, height, and density of vegetation. Heights estimated using PPC-LiDAR fusion were highly correlated (r ≥ 0.87 in all cases) with heights estimated using stereomodels, TiTAN multi-channel LiDAR, and field measurements. </span></p>\n</li>\n<li>\n<p>We demonstrated that PPC-LiDAR fusion can be operationalized over large areas to collect comprehensive and consistent vegetation data across landscape levels, providing opportunities to link fine-resolution remote sensing to landscape-scale ecological studies. Crucially, these data can be used to estimate rates of habitat recovery at resolutions that are not feasible using more commonly used satellite-based sensors, bridging the gap between resolution and extent.  Such data are needed to achieve effective and efficient habitat monitoring to support caribou recovery efforts, as well as a myriad of additional forest management needs.</p>\n</li>\n</ol>",
+    "<b>Methods</b><br /><p>Please see methods in associated manuscript. Spatial data are provided in EPSG:26911 - NAD83 / UTM zone 11N.</p>",
+    "<b>Usage notes</b><br /><p>We used ArcGIS 10.7.1. QGIS, R, or similar open-source software are alternatives.</p>"
+  ],
+  "dct_identifier_sm": [
+    "858461_854807",
+    "https://doi.org/10.5683/SP3/SNXTOD"
+  ],
+  "dct_issued_s": "2024-12-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SNXTOD\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data associated with: Applying remote sensing for large-landscape problems: Inventorying and tracking habitat recovery for a broadly distributed Species At Risk",
+  "gbl_mdModified_dt": "2024-12-04T17:46:31Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c560b6f0-48f1-510e-b1fb-91e4d199c489",
+  "pcdm_memberOf_sm": [
+    "U of L Dryad2Dataverse"
+  ],
+  "schema_provider_s": "University of Lethbridge Dataverse"
+}

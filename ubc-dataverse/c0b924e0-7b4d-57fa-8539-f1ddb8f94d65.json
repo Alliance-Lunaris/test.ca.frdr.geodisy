@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.74, -123.169371, 49.35, 48.3)",
+  "dcat_keyword_sm": [
+    "remote sensing",
+    "Multi-season data",
+    "GBIF",
+    "Saanich Peninsula",
+    "Garry Oak",
+    "Machine Learning",
+    "Random Forest",
+    "Victoria",
+    "Sentinel-2",
+    "Species distribution modelling",
+    "Nanaimo",
+    "Gabriola",
+    "Scotch broom",
+    "Invasive species"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pepin, Willa (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains spatial predictors and model outputs used to investigate the distribution of Scotch broom (Cytisus scoparius) within Garry Oak (Quercus garryana) ecosystems in British Columbia, Canada. The dataset was derived from Sentinel-2 multispectral imagery and includes both raw spectral bands and derived vegetation indices.\n\nPredictor variables include surface reflectance bands (B01–B12), Tasseled Cap Transformations (brightness and greenness), and temporal change metrics in vegetation indices (NDVI - Normalized Vegetation Index, ciRED - Red-Edge Chlorophyll Index, and TREI - Red-Edge Chlorophyll Index) calculated across seasonal intervals (January–April, April–September, and January–September). These variables were used as inputs to a Random Forest classification model to identify areas of Scotch broom presence and absence.\n\nThe dataset also includes model outputs as continuous probability surfaces and binary classification maps, generated via thresholding approaches (e.g., Youden’s index and high-confidence thresholds). Accuracy assessment was conducted using validation data, with performance evaluated through confusion matrices, overall accuracy, and class-specific producers’ and users’ accuracies.\n\nThis dataset supports the analysis of spatial patterns in invasive species distribution and can be used for ecological modelling, land cover classification, and invasive species management."
+  ],
+  "dct_identifier_sm": [
+    "1148937_73894_115983",
+    "https://doi.org/10.5683/SP3/XQ03LV"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/XQ03LV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Investigating the Spatial Distribution of Scotch Broom (Cytisus scoparius) in Garry Oak (Quercus garryana) Dominant Regions Using Sentinel-2 Multispectral Imagery",
+  "gbl_mdModified_dt": "2026-04-28T16:38:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c0b924e0-7b4d-57fa-8539-f1ddb8f94d65",
+  "locn_geometry": "ENVELOPE(-124.74, -123.169371, 49.35, 48.3)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

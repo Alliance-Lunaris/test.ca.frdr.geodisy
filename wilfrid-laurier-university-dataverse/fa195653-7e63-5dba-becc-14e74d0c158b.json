@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-114.4422, -114.3502, 62.575, 62.4772)",
+  "dcat_keyword_sm": [
+    "Ground penetrating radar",
+    "Lakes",
+    "Snow depth",
+    "Spatial Distribution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pouw, Alicia F. (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0002-9777-0305",
+    "Kheyrollah Pour, Homa (Wilfrid Laurier University, Remote Sensing of Environmental Change (ReSEC) Research Group, Department of Geography and Environmental Studies, Wilfrid Laurier University, Waterloo, ON). ORCID: https://orcid.org/0000-0002-2631-0416"
+  ],
+  "dct_description_sm": [
+    "Data collection per lake is as follows:<p>\n<ul style=\"list-style-type:disc;\">\n  <li>Finger Lake - 2021-12-09</li>\n  <li>Long Lake - 2021-12-12</li>\n  <li>Vee Lake - 2021-12-14</li>\n  <li>Landing Lake - 2021-12-07 and 2022-03-27</i>\n</ul>",
+    "This dataset contains snow depth data for Finger Lake, Long Lake, Vee Lake and Landing Lake, just north of Yellowknife, NT. Data includes derived snow depths from Ground-Penetrating Radar Two-Way Travel Times collected using a 1000 MHz sensor paired with the IceMap GPR system from sensors & software. Data was collected in December, 2021, and March, 2022, with data collected twice on one lake. The data is in .CSV file format for each lake. Snow depths derived using Kovacs et al. (1995) method. Interpolated snow depth maps in GeoTIFF format are also included for each lake. These were created using inverse distance weighting of the GPR-derived snow depths."
+  ],
+  "dct_identifier_sm": [
+    "403850_137_373940",
+    "https://doi.org/10.5683/SP3/LZ8AZU"
+  ],
+  "dct_issued_s": "2023-06-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/LZ8AZU\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Lake Snow depth observations derived from Ground Penetrating Radar for four lakes near Yellowknife, Northwest Territories",
+  "gbl_mdModified_dt": "2023-06-15T14:18:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa195653-7e63-5dba-becc-14e74d0c158b",
+  "locn_geometry": "ENVELOPE(-114.4422, -114.3502, 62.575, 62.4772)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // ReSEC Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.199, -89.0058, 60.3356, 48.257)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Table containing URL links to summary review reports on licensed personal care homes in Manitoba.\n\nThis table contains URL links to reports on personal care home reviews completed by the Licensing and Compliance Branch of Manitoba Health, Seniors and Active Living. All licensed personal care home facilities in Manitoba are required to comply with minimum standards of care as set out in the Personal Care Home Standards Regulation under the Health Services Insurance Act. The branch monitors compliance through regular review processes. Operators of facilities are required to take the necessary steps to address concerns identified in the course of reviews within specified time lines and must provide status updates until concerns have been addressed.  Licences are reviewed and renewed annually and review findings are used to inform decision-making. The table includes the following fields (Alias (Name): Description)   Regional Health Authority (Regional_Health_Authority): The name of the Regional Health Authority in which the facility is located. Community (Community): The name of the community in which the facility is located. Facility (Facility): The name of the licensed personal care home. Review Date (Review_Date): The date the review was conducted. Review Type (Review_Type):  The type of review conducted.  Summary Link (Summary_Link): The URL link to the report. Facility Key (Facility_Key): Primary key used to link this table with the feature point layer Licensed Personal Care Homes.   This table forms part of the data for the Manitoba Personal Care Home Reporting app."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/266361d2-3d97-c590-ad4e-f37c70b318e3"
+  ],
+  "dct_issued_s": "2023-04-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/266361d2-3d97-c590-ad4e-f37c70b318e3\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Licensed Personal Care Home Summary Reviews",
+  "gbl_mdModified_dt": "2026-09-02T11:00:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8bfc26c6-5798-51f4-926b-a812b4e8e3a1",
+  "locn_geometry": "ENVELOPE(-102.199, -89.0058, 60.3356, 48.257)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

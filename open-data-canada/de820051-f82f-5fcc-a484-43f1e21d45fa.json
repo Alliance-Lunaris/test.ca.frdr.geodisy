@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Rtcs",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "Bus",
+    "Transport en commun",
+    "Autobus"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polyline layer of the express circuit of the Régie de transport en public de Shawinigan (RTCS) on the territory of the city of Shawinigan.\n\n[Link to the complete Isogeo sheet] (https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/3d69fe282b6548338ae9d2cb734dc583?lock)\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n! [RTCS logo] (https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n\n**Attributes**\n\n* `objectid` (`integer`): \n\n* `name` (`char`): Name\n\n* `st_length (shape) `(`double`): Length\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polyligne du circuit express de la régie de transport en commun de Shawinigan (RTCS) sur le territoire de la ville de Shawinigan.\n\n[Lien de la fiche complète Isogeo](https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/3d69fe282b6548338ae9d2cb734dc583?lock)\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n![Logo du RTCS](https://jmap.shawinigan.ca/doc/photos/RTCS-Copie.jpg)\n\n\n**Attributs**\n\n* `objectid` (`integer`) : \n\n* `nom` (`char`) : Nom\n\n* `st_length(shape)` (`double`) : Longueur"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/443152da-10d8-4cf5-8ed9-ff3f4eb11ab7"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/443152da-10d8-4cf5-8ed9-ff3f4eb11ab7\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Circuit de l'express (RTCS) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-12T17:35:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "de820051-f82f-5fcc-a484-43f1e21d45fa",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

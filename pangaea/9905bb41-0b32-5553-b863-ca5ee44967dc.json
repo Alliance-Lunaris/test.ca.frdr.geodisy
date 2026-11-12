@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(9.50139, 9.5014, 40.2592, 40.25919)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Massari, Francesco (Department of Geosciences, University of Padova).",
+    "Fellin, Maria Giuditta (Department of Earth and Planetary Sciences, ETH Zurich). ORCID: https://orcid.org/0000-0003-3545-3512",
+    "Stefani, Cristina (Department of Geosciences, University of Padova). ORCID: https://orcid.org/0000-0002-7299-0475",
+    "Enkelmann, Eva (Department of Earth, Energy and Environment, University of Calgary, University of Calgary).",
+    "Dieni, Iginio (Department of Geosciences, University of Padova).",
+    "Sanchetti, Stefano (Experimental Station for Glass)."
+  ],
+  "dct_description_sm": [
+    "The data set comprises the results of the (U-Th)/He analysis of detrital zircons from two samples (177-1 and 177-2) of the Lanaittu Sandstone. The analysis was performed following the procedure as in Pickering et al. (2020) and Härtel et al. (2026) using a Resonetics Resolution LR 193 nm excimer laser attached to an Alphachron system for the He measurement. The Alphachron He extraction system was equipped with an ultra-high vacuum chamber. The laser ablation system was set up with a spot size of 15 µm, an ablation time of 6 s and a repetition rate of 10 Hz. The same system setting was used to measure both the validation references and the samples.",
+    "The effective uranium concentration (eU) was derived from the actinide concentrations recalculated iteratively to a common mass and disintegration rate of 238U (Härtel &amp; Enkelmann, 2024).The laser abaltion pit volume was determined by optical interferometry as described in Pickering et al. (2020).The He concentration was calculated from the measured (blank-corrected) volume of He, the pit volume, and an assumed zircon density of 4.6 ± 0.1 g/cm³The He uncertainty was calculated by uncertainty propagation from analytical uncertainties on the He volume, blank uncertainties, uncertainties in pit volume, zircon density, and the calibration curve.The He concentration was calibrated against a linear function of bracketing reference materials (FC-1, Fish Canyon Tuff). The uncertainty of the He concentration was calculated from the raw He uncertainty and the calibration line uncertainty.Zircon (U-Th)/He date were calculated from the calibrated He concentration and the eU using the iterative approach of Härtel &amp; Enkelmann (2024)."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.995334",
+    "https://doi.org/10.1594/pangaea.995334"
+  ],
+  "dct_issued_s": "2026-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.995334\"}",
+  "dct_spatial_sm": [
+    "Eastern Sardinia"
+  ],
+  "dct_subject_sm": [
+    "Uranium, effective",
+    "Thorium",
+    "Comment",
+    "Uranium",
+    "Spot identification",
+    "Laser Ablation",
+    "Laser Ablation System, Resonetics Resolution, LR 193 nm; coupled with a automated helium microanalyzer, Alphachron",
+    "Drilling/coring",
+    "Ablation pit",
+    "He measurement",
+    "(U-Th)/He thermochronology",
+    "Uranium, effective, uncertainty",
+    "Helium, uncertainty",
+    "Helium",
+    "Age, mineral, uncertainty",
+    "Thorium, uncertainty",
+    "Ablation pit, uncertainty",
+    "Uranium, uncertainty",
+    "Age, mineral",
+    "Event label"
+  ],
+  "dct_title_s": "Detrital zircon thermochronologic analysis of the Lanaittu Sandstone in Eastern Sardinia, Italy",
+  "gbl_mdModified_dt": "2026-10-14T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9905bb41-0b32-5553-b863-ca5ee44967dc",
+  "locn_geometry": "ENVELOPE(9.50139, 9.5014, 40.2592, 40.25919)",
+  "schema_provider_s": "PANGAEA"
+}

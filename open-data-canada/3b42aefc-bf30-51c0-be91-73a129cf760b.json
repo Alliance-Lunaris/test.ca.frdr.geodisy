@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dcat_keyword_sm": [
+    "Agriculture",
+    "Cultures",
+    "Climat",
+    "Climate",
+    "Agriculture",
+    "Crops",
+    "Remote sensing",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Anomalies de l’IDVN maximal hebdomadaire meilleure qualité"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "Each pixel value corresponds to the difference (anomaly) between the mean “Best-Quality” Max-NDVI of the week specified (e.g. Week 18, 2000-2014) and the “Best-Quality” Max-NDVI of the same week in a specific year (e.g. Week 18, 2015). Max-NDVI anomalies < 0 indicate where weekly Max-NDVI is lower than normal. Anomalies > 0 indicate where weekly Max-NDVI is higher than normal. Anomalies close to 0 indicate where weekly Max-NDVI is similar to normal.",
+    "Chaque valeur de pixel correspond à la différence (anomalie) entre l’IVDN maximal moyen de « meilleure qualité » d’une semaine donnée (p. ex. semaine 18, 2000-2014) et l’IVDN maximal de « meilleure qualité » de la même semaine dans une année précise (p. ex. semaine 18, 2015). Les anomalies de l’IVDN maximal < 0 indiquent un IVDN maximal hebdomadaire inférieur à la normale. Des anomalies > 0 indiquent un IVDN maximal hebdomadaire supérieur à la normale. Les anomalies proches de 0 indiquent que l’IVDN maximal hebdomadaire est similaire à la normale."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ea6b4be2-9826-47f3-a387-33ddf02592f4"
+  ],
+  "dct_issued_s": "2012-11-01",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ea6b4be2-9826-47f3-a387-33ddf02592f4\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Weekly Best-Quality Maximum - NDVI Anomalies",
+  "gbl_mdModified_dt": "2025-10-15T12:10:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3b42aefc-bf30-51c0-be91-73a129cf760b",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Open Data Canada"
+}

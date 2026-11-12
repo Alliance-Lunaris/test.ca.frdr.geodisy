@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.6091, -71.4421, 46.8048, 45.4689)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Ice maps produced for the prevention of flooding by ice jams and the monitoring of river ice during spring floods, winter temperatures or even during problems with ice jams.\n\nThe maps are derived from radar satellite images, therefore available regardless of cloud cover, from several different sources, using algorithms to classify pixels into types of ice cover. Data is only processed and displayed on the main rivers at risk.\n\nThe date the image was taken and the approximate region covered by the data is shown in the layer name. Data is added several times a week, but the frequency of revisits to each river can vary between 2 days and 2 weeks. \n\nThe satellites and algorithms used according to the periods are summarized in this list:\n\n* __Image prefix__: period covered; source satellite; resolution of maps produced; algorithm used \n\n* __R2__: 2018 - 2022; Radarsat 2; 7m; ICEMAP-r\n\n* __RCM__: 2024 - now; Radarsat Constellation Mission; 5m; ICEMAP-r version 2024 \n\n* __S1__: 2018 - now; Sentinel 1; 12.5m; Arctus proprietary algorithm\n\n \n\nThe different classes in the legend make it possible to differentiate the following types of ice:\n\n* __Water (dark blue) __: open water\n\n* __Water/Smooth Ice (blue) __: combination of water on ice, or spaced frasil rafts\n\n* __Smooth ice (cyan) __: or black ice, the exact term for this type of ice is “columnar ice”, due to the vertical and elongated shape of the crystals that compose it. Black ice is generally transparent because it contains few or no air bubbles. It is formed by cooling, in fairly calm water, which is why it is sometimes called “thermal ice”. Its surface is very smooth.\n\n* __Consolidated ice (light pink) __: includes Frasil ice or snow ice. Frasil ice forms in turbulent and very cold water. Composed of fine rounded crystals. These grains accumulate and rise to the surface to form moving ice rafts. These rafts end up close enough to freeze together (agglomerated ice). It contains a lot of air bubbles. Its surface is slightly to moderately rough. \n\n* __Consolidated ice with clusters (dark pink) __: ice cover formed by the stacking and freezing of various forms of moving ice; blocks that are superimposed or pieces of ice that are detached in one place and that are piled up in another. Moderately rough to very rough surface.\n\nThe images from Radarsat-2 and RCM are obtained through a partnership between Public Safety Canada and the MSP. \n\nThe ICEMAP-R algorithm developed by INRS makes it possible to identify the type of ice according to the internal roughness of the ice (presence of air bubbles) and the roughness of the surface of the ice cover (presence of blocks and accumulations). The initial version was usable for Radarsat 2. The 2022 and 2023 RCM ice maps are given as an indication (new algorithm in progress), only data since 2024 are processed with the Icemap-R algorithm adapted to RCM.\n\nSince 2018, the MSP has also used images from Sentinel-1, a radar satellite from the European Space Agency with a resolution of 10 m, resampled to 12.5m for ice maps. The images are then processed by the firm Arctus, which uses a proprietary algorithm.\n\nThe output of the various algorithms has been reclassified to obtain a comparable legend. Historical data may have presented an alternative classification. Until 2022, the legend varied between winter and thaw. \n\n\nThe web service also contains visible satellite images from Landsat satellites (the image prefixes are then L8, L9) or Sentinel 2 (prefix S2). In this case, colored compounds (false colors to benefit from infrared bands in particular) are used to best visualize the presence of ice. From 2024, the colored compound S2 used is as follows:\n\n* Red: 8A band (Near Infrared - VNIR) 20m (resampled to 10m)\n\n* Green: band 3 (Green) 10m \n\n* Blue: band 2 (Blue) 10m\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4a05016f-fa46-4b1d-94cf-ff45b4cb9391"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4a05016f-fa46-4b1d-94cf-ff45b4cb9391\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Ice cards",
+  "gbl_mdModified_dt": "2026-10-07T17:34:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "669a344a-05b1-5916-a47b-1b3486dc863d",
+  "locn_geometry": "ENVELOPE(-72.6091, -71.4421, 46.8048, 45.4689)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

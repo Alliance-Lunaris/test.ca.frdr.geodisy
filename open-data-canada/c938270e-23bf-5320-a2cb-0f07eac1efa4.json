@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.98, -67.735, 49.334, 48.794)",
+  "dcat_keyword_sm": [
+    "Estuaires; Intertidal; Haute-Côte-Nord; Saint-Laurent; Médiolittoral; Baie Barthélemy Rivière Colombier Rivière Mistassini Rivière Franqu",
+    "Échantillonnage; Occurrence; Macroalgue; Macroinvertébrés; Salinité; Hypoosmolarité",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Aquatic plants",
+    "Estuaries; Marine Intertidal; Upper North Shore; St. Lawrence; Mediolittoral; Barthelemy Bay; Colombier River; Mistassini River; Franquelin",
+    "Plante aquatique",
+    "Samplingevent; Occurrence; Macroalgal; Macroinvertebrates; Salinity; Hypoosmolarity",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Inventaire des macroalgues et des macroinvertébrés benthiques sur la rive nord de l'estuaire du Saint-Laurent (2019)"
+  ],
+  "dct_creator_sm": [
+    "Valentine Loiseau."
+  ],
+  "dct_description_sm": [
+    "This inventory, conducted from September 26th to October 3th, 2019, aimed to describe the community structure of macroalgae and benthic macroinvertebrates of five small estuaries of the Upper North Shore of Quebec, namely Barthélemy Bay and the Colombier, Mistassini, Franquelin and Saint-Nicolas rivers. \n\nThis inventory is part of a doctoral study of Valentine Loiseau on the global changes in the St. Lawrence system, mainly the study of marine benthic communities in response to changes of salinity, to ensure proper management of the environment in the face of future changes. The main objective is to describe the structure and the levels of specific diversities of mediolittoral communities of benthic macroinvertebrates and macroalgae along a salinity gradient. \n\nThese five small estuaries were selected because of their similar size, hard substrates and easy access. Three levels of hypoosmotic stress (low, medium, high) and one control level (seawater) were used for each of the selected estuaries, with eight quadrats per stress level. Quadrat positions were randomly selected but had to meet two criteria: (1) regular height in the foreshore to control the influence of other stresses (temperature, exposure); and (2) presence of at least one macroalga to maintain homogeneity. A percentage cover by macroalgal and macroinvertebrate species was estimated, and then all organisms were weighed by species and size group. The salinity of the nearest water point was measured at mid-tide with a portable refractometer and a Castaway-type CTD (Conductivity-Temperature-Density) probe. The inventory was done using a stratified random sampling design and the sampling unit was a quadrat measuring 25 x 25 cm. \n\nThe three files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"event_information\" file includes the generic information of the quadrat, including date and location. The \"additional_information_event_and_occurrence\" file includes salinity and substrate type of the quadrat, as well as the total weight of all individuals of the same species caught in the quadrat extrapolated to one square metre of surface. For nudibranchs and barnacles, weight was estimated from the size of the individuals so that they were not removed from the environment. The \"taxon_occurrence\" file includes the taxonomic inventory of macroalgal and benthic macroinvertebrate species observed in the quadrat, identified to the lowest possible species or taxonomic level and biomass by identified species.\n\nFor quality control, organisms were identified on the field using the following guide: Chabot, Robert et Anne Rossignol. 2003. Algues et faune du littoral du Saint-Laurent maritime : Guide d'identification. Institut des Sciences de la mer de Rimouski, Rimouski ; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages. The taxonomy was checked against the World Register of Marine Species (WoRMS) to match recognized standards and using the R obistools and worrms libraries. The WoRMS match was placed in the \"scientificNameID\" field of the occurrence file. All sample locations were spatially validated. \n\nThis project was funded by DFO Coastal Environmental Baseline Program under Canada’s Oceans Protection Plan. This initiative aims to acquire environmental baseline data contributing to the characterization of important coastal areas and to support evidence-based assessments and management decisions for preserving marine ecosystems.",
+    "Cet inventaire, réalisé du 26 septembre au 3 octobre 2019, visait à décrire la structure des  communautés de macroalgues et de macroinvertébrés benthiques provenant de cinq petits estuaires de la Haute-Côte-Nord du Québec, soit la baie Barthélemy et les rivières Colombier, Mistassini, Franquelin et Saint-Nicolas. \n\nCet inventaire fait partie de l'étude doctorale de Valentine Loiseau sur les changements globaux du système du Saint-Laurent, principalement l’étude des communautés benthiques marines en réponse aux changements de salinité, pour assurer une bonne gestion de l’environnement face aux changements futurs. L’objectif principal est de décrire la structure et les niveaux de diversités spécifique des communautés médiolittorales de macroinvertébrés benthiques et de macroalgues le long d’un gradient de salinité. \n\nCes cinq petits estuaires ont été sélectionnés en raison de leur taille similaire, de leurs substrats durs et de leur accès facile. Trois niveaux de stress hypoosmotique (faible, moyen, élevé) et un niveau de contrôle (eau de mer) ont été utilisé pour chacun des estuaires choisis, à raison de huit quadrats par niveau de stress. Les positions des quadrats ont été choisis au hasard mais devaient répondre à deux critères : (1) hauteur régulière dans l'estran pour contrôler l'influence des autres stress (température, exposition) ; et (2) présence d'au moins une macroalgue pour maintenir l'homogénéité. Un pourcentage de couverture par les espèces de macroalgues et de macroinvertébrés a été estimé, puis tous les organismes ont été pesés par espèce et par groupe de taille. La salinité du point d'eau le plus proche a été mesurée à mi-marée avec un réfractomètre portable et une sonde CTD (Conductivité-Température-Densité) de type Castaway. L’inventaire a été fait selon un plan d’échantillonnage aléatoire stratifié et l’unité d’échantillonnage était un quadrat mesurant 25 x 25 cm. \n\nLes trois fichiers fournis (format DarwinCore) sont complémentaires et sont reliés par la clé «IDactivité». Le fichier «Information_activité» comprend les informations génériques du quadrat, notamment la date et la localisation. Le fichier «information_supplémentaire_activité_et_occurrence» comprend la salinité et le type de substrat du quadrat, ainsi que le poids total de tous les individus de la même espèce capturés dans le quadrat extrapolé à un mètre carré de surface. Pour les nudibranches et les balanes, le poids a été estimé à partir de la taille des individus pour que ces derniers ne soient pas retiré du milieu. Le fichier «occurrence_taxon» comprend l’inventaire taxonomique des espèces de macroalgues et de macroinvertébrés benthiques observées dans le quadrat, identifiées à l’espèce ou au niveau taxonomique le plus bas possible et la biomasse par espèce identifiée. \n\nPour le contrôle de qualité, les organismes ont été identifiés sur le terrain à l’aide du guide suivant: Chabot, Robert et Anne Rossignol. 2003. Algues et faune du littoral du Saint-Laurent maritime : Guide d'identification. Institut des Sciences de la mer de Rimouski, Rimouski ; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages. La taxonomie a été vérifiée sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues et à l’aide des bibliothèques R obistools et worrms. La correspondance WoRMS a été placée dans le champ «IDnomScientifique» du fichier d'occurrence. Tous les lieux d'échantillonnage ont été validés spatialement. \n\nCe projet a été financé par le Programme sur les données environnementales côtières de référence de Pêches et Océans Canada dans le cadre du Plan de protection des océans. Cette initiative vise à acquérir des données environnementales de base qui contribuent à la caractérisation des zones côtières d’importance et appuient des évaluations fondées sur des preuves ainsi que les décisions de gestion afin de préserver les écosystèmes marins."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9c96d46e-f45d-450d-9189-7e31b10fcde9"
+  ],
+  "dct_issued_s": "2021-11-09",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9c96d46e-f45d-450d-9189-7e31b10fcde9\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Inventory of macroalgae and benthic macroinvertebrates on the north shore of the Saint-Lawrence Estuary (2019)",
+  "gbl_mdModified_dt": "2026-03-24T08:42:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c938270e-23bf-5320-a2cb-0f07eac1efa4",
+  "locn_geometry": "ENVELOPE(-68.98, -67.735, 49.334, 48.794)",
+  "schema_provider_s": "Open Data Canada"
+}

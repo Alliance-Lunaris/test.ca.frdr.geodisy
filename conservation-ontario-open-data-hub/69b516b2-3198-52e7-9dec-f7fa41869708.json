@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.96306874159606, -79.53659336833086, 43.95677729284824, 43.583177178936886)",
+  "dcat_keyword_sm": [
+    "Invasive",
+    "Peel",
+    "Restoration",
+    "Phragmites",
+    "RRM",
+    "Field Data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<p>Polygon layer displaying current areas of Phragmites in Peel Region, a subset of TRCA's Invasive Species Tracking dataset. </p><p>Last updated on February 25th, 2025. </p><p>Field Descriptions</p><p><strong>Species:</strong> List of invasive species that are commonly identified in the field and/or managed by TRCA. One species is tracked per Invasive_Species polygon. If there are other species present in the same area a separate polygon is drawn for each.</p><p><strong>Coverage:</strong> Range of coverage densities to gauge how much of the polygon area is covered by the identified species.</p><p><strong>Date Collected (Date_Collected):</strong> Date invasive species polygon is drawn/identified.</p><p><strong>Date Revisited (Date_Revisited):</strong> Date of most recent site visit to show how up to date the polygon boundary is. This information is important to 1) confirm that a species boundary has NOT changed (Poly_Status = Current Boundary) or 2) if the species is no longer present, indicate when that was determined (Poly_Status = No Longer Present).</p><p><strong>Recommended Management (Recommended_Mgmt):</strong> Indicates what type of invasive management is recommended for this area.</p><p><strong>Chainsaw Required (Chainsaw_Req):</strong> Indicates if a chainsaw will be required to manage the invasive species ex: if there are woody stems.</p><p><strong>Further Management (Further_Mgmt):</strong> Indicates if further management of the species is required.</p><p><b>Aquatic/Terrestrial (Aquatic_Terrestrial)</b>: Stems in standing water or not.</p><p><b>Stewardship Friendly (Stewardship)</b>: Can the polygon be managed by a community group effort.</p><p><b>Adjacent Landspread (Adjacent):</b> Does the polygon spread over into an adjacent property.</p><p><b>Height Class (Height_Class)</b>: Average height of stems in polygon</p><p><strong>Polygon Status (Poly_Status):</strong> This field is used to identify the most current data. Sites are often revisited and the extent of previously identified species may change. Poly_Status helps to keep a record of older data that needs to be archived, and allows staff to draw new updated boundaries without excessive polygon clutter due to older polygons at the same site. See statuses below:</p><p></p><ul><li>Current Boundary: Default status autofilled in the field for any new polygons drawn.</li><li>Archive Feature (boundary has changed): When revisiting a site where a boundary has changed and a new polygon needs to be drawn to reflect the current boundary, the status is changed to Archive Boundary.</li><li>Archive Feature (coverage has changed): When revisiting a site where the coverage has changed and the boundary has not, the polygon is copied and added as a new feature. The attributes of the new feature are updated and the old boundary is archived. </li><li>No Longer Present: Invasive species at the site is no longer present through management activities or other causes</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "30320ed3c1fc4ecd9843f7cd8ef80a2d",
+    "https://www.arcgis.com/home/item.html?id=30320ed3c1fc4ecd9843f7cd8ef80a2d"
+  ],
+  "dct_issued_s": "2025-03-11",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::peel-phragmites\"}",
+  "dct_rights_sm": [
+    "Open Data LIC Agreement: Toronto and Region Conservation Authority (TRCA) Open Data Licence v1.0 - Toronto and Region Conservation Authority (TRCA)"
+  ],
+  "dct_title_s": "Peel Phragmites",
+  "gbl_mdModified_dt": "2025-03-21T19:05:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "69b516b2-3198-52e7-9dec-f7fa41869708",
+  "locn_geometry": "ENVELOPE(-79.96306874159606, -79.53659336833086, 43.95677729284824, 43.583177178936886)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

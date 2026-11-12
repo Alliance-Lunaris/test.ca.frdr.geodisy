@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The data shared are spatially explicit projections of wildfire burn probability across Canada’s forested ecozones under multiple future climate scenarios at a 30-m spatial resolution. It is developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS). Four future climate scenarios were used to examine the spatiotemporal distribution of burn probability in the 21st century based on climate, vegetation, and topographic conditions ( Mulverhill et al. 2024). Projected burn probability is provided for four Shared Socioeconomic Pathways (SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5) and four future time periods, including 2021-2040, 2041-2060, 2061-2080, and 2081-2100, along with a baseline period representing average climate conditions and burn probability between 1991 and 2020. Outputs represent the probability that the conditions (climate, vegetation, topography) of a given pixel resemble those of historically burned areas. All non-climate variables were held static; therefore, projections represent burn probability under future climate scenarios given contemporary (2020) forest conditions. When using this dataset, please cite Mulverhill et al. (2025), as below.\nMulverhill, C., Coops, N. C., Wulder, M. A., Hermosilla, T., White, J. C., & Bater, C. W. (2025). Projected Future Changes in Burn Probability in Canada’s Forests and Communities Under Different Climate Change Scenarios. Canadian Journal of Remote Sensing, 51(1). https://doi.org/10.1080/07038992.2025.2560347(Mulverhill et al. 2025).\nFor a detailed description of the source data and methods applied to the baseline period to enable the Mulverhill et al. (2025) projections, see:\nMulverhill, C., Coops, N.C., Wulder, M.A., White, J.C., Hermosilla, T., and Bater, C.W. 2024. “Multidecadal mapping of status and trends in annual burn probability over Canada’s forested ecosystems.” ISPRS Journal of Photogrammetry and Remote Sensing, Vol. 209 pp. 279–295. https://doi.org/10.1016/j.isprsjprs.2024.02.006(Mulverhill et al. 2024)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2d0b4927-38e4-451b-9e7f-cb586a1ac01b"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2d0b4927-38e4-451b-9e7f-cb586a1ac01b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Projected Burn Probability (2020-2100)",
+  "gbl_mdModified_dt": "2026-03-16T16:02:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d362ff7e-3e4c-5712-a735-6fcebf1b9d4b",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.4271, -88.2333, 60.0231, 48.7064)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset provides a geographical location (in decimal degrees to the nearest second) for all officially named geographical features within the Province of Manitoba.  \n  \n  The purpose of this dataset is to provide a geographical location (in decimal degrees to the nearest second) for all officially named geographical features within the Province of Manitoba, as per the Manitoba Geographical Names Program. The program’s mission is to: “embrace the active preservation of the province’s culture through its toponymy, and provides a naming authority for the enhancement, maintenance, dissemination, and protection of Manitoba’s geographical nomenclature recognizing the integral role geographical names play in our daily lives including their essential value to our scientific, commercial, and economic world.”  As part of the program, staff administer and maintain all nomenclature records, an automated names information system, a resource library and archives, supplementary name location maps, a bibliography of name studies, and a commemorative names project. The Manitoba’s Geographical Names database contains more than 24, 000 official and heritage place names found throughout Manitoba. For each place name, the data set contains geographic coordinates, the type of feature, the name’s approval data, its location reference, plus any heritage information recorded about the name. Fields included (Alias (Field Name): Field description.)  OBJECTID (OBJECTID): Sequential unique whole numbers that are automatically generated. Shape (Shape): Coordinates defining the features. Geographical Name (Geographical_Name): Current official name. Unique National Identifier (Field Unique_National_Identifier): Unique national identificatier applied to each toponym by the Geographical Names Board of Canada member for Manitoba. Feature Code (Feature_Code): Numeric code used to classify toponyms based on the nature of the related geographical feature. NTS 250,000 Map Sheet (NTS_250_000_Map_Sheet): Map number of the National Topographic System (NTS) 1:250 000 map sheet that contains the centroid of the toponym.  NTS 50,000 Submap Sheet (NTS_50_000_Submap_Sheet): Map number of the National Topographic System (NTS) 1:50 000 map sheet that contains the centroid of the toponym. Latitude (Latitude): Latitude in Decimal Degrees. Longitude (Longitude): Longitude in Decimal Degrees. Casualty Hometown (Casualty_Hometown): Hometown that was provided by the casualty of war at time of enlistment.  Casualty Regimental Number (Casualty_Regimental_Number): Regimental number of the casualty of war at the time of their death. Casualty Rank (Casualty_Rank): Rank of the casualty of war at the time of their death. Casualty Surname (Casualty_Surname): Surname of the casualty of war at the time of their death. Casualty Given Name(s) (Casualty_Given_Name_s_): Given name(s) of the casualty of war at the time of their death.  Casualty Date of Death (Casualty_Date_of_Death): Date of death for the casualty of war. Casualty Regiment (Casualty_Regiment): Military affiliation of the casualty of war at the time of their death. Casualty Place of Burial (Casualty_Place_of_Burial): Place of burial of the casualty when the geographical feature is named in honour of a casualty of war. Feature Type (Feature_Type): Type of geographical feature, e.g. lake, island, bay, town, city.  Feature Type Description (Feature_Type_Description): Description of the geographical feature."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9eed90cf-b41e-3c36-91ee-e08effb75a73"
+  ],
+  "dct_issued_s": "2023-04-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9eed90cf-b41e-3c36-91ee-e08effb75a73\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Geographical Names",
+  "gbl_mdModified_dt": "2025-02-05T19:07:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "337c9012-f2a8-5092-ab15-10b1b12da23d",
+  "locn_geometry": "ENVELOPE(-102.4271, -88.2333, 60.0231, 48.7064)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

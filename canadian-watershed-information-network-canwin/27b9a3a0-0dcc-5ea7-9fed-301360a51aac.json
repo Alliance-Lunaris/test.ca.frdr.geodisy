@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Frost free days are the number of days in the forecast period with a minimum temperature above the frost temperature; the temperature at which frost damage occurs. This temperature is 0°C for warm season crops (ffd_warm).  \n  \n  Week 1 and week 2 forecasted index is available daily from April 1 to October 31.  \n  \n  Week 3 and week 4 forecasted index is available weekly (Thursday) from April 1 to October 31.  \n  \n  Warm season crops require a relatively warm temperature condition. Typical examples include bean, soybean, corn and sweet potato. They normally grow during the summer season and early fall, then ripen in late fall in southern Canada only. Other agricultural regions in Canada do not always experience sufficiently long growing seasons for these plants to achieve maturity. The optimum temperature for such crops is 30°C.  \n  \n  Agriculture and Agri-Food Canada (AAFC) and Environment and Climate Change Canada (ECCC) have together developed a suite of extreme agrometeorological indices based on four main categories of weather factors: temperature, precipitation, heat, and wind.  The extreme weather indices are intended as short-term prediction tools and generated using ECCC’s medium range forecasts to create a weekly index product on a daily and weekly basis."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fbf086d-6792-4ff3-9488-18cc17b925da"
+  ],
+  "dct_issued_s": "2019-02-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/2fbf086d-6792-4ff3-9488-18cc17b925da\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Frost-free days for warm season crops (>0°C)",
+  "gbl_mdModified_dt": "2023-02-23T14:23:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "27b9a3a0-0dcc-5ea7-9fed-301360a51aac",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Scavenger Receptor",
+    "Setophaga coronata",
+    "association mapping",
+    "Carotenoid"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Brelsford, Alan (University of California System, University of British Columbia, University of Lausanne).",
+    "Toews, David P.L. (University of British Columbia).",
+    "Irwin, Darren E. (University of British Columbia).",
+    "Toews, David P. L. (University of British Columbia, Cornell University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/3UsxMmUhLd6Uza6fCBovhL8GORC2ys2A_D2BaJITe90</p>\n<p><b>Storage size:</b> 370353657</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Identifying the genetic bases for color patterns has provided important insights into the control and expression of pigmentation and how these characteristics influence fitness. However, much more is known about the genetic bases for traits based on melanin pigments than for traits based on another major class of pigments, carotenoids. Here we use natural admixture in a hybrid zone between Audubon’s and myrtle warblers (Setophaga coronata auduboni / S. c. coronata) to identify genomic regions associated with both types of pigmentation. Warblers are known for rapid speciation and dramatic differences in plumage. For each of five plumage coloration traits, we found highly significant associations with multiple SNPs across the genome and these were clustered in discrete regions. Regions near significantly associated SNPs were enriched for genes associated with keratin filaments, fibrils that makeup feathers. A carotenoid-based trait that differs between the taxa—throat color—had more than a dozen genomic regions of association. One cluster of SNPs for this trait overlaps the Scavenger Receptor Class F Member 2 (SCARF2) gene. Other scavenger receptors are presumed to be expressed at target tissues and involved in the selective movement of carotenoids into the target cells, making SCARF2 a plausible new candidate for carotenoid processing. In addition, two melanin-based plumage traits—colors of the eye line and eye spot—show very strong associations with a single genomic region mapping to chromosome 20 in the zebra finch. These findings indicate that only a subset of the genomic regions differentiated between these two warblers are associated with the plumage differences between them and demonstrate the utility of reduced-representation genomic scans in hybrid zones.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">VCF file for SNPs used in GEMMA analysis</h4><div class=\"o-metadata__file-description\">Variant Call Format file (GZipped) for individuals used for genotype-phenotype associations. Sample ID information can be found in the electronic supplementary information on the publisher's website.</div><div class=\"o-metadata__file-name\">plumage_yrwa.snp.variants.only.filter.removed.minGQ20.max.missing.2.maf.01.vcf.recode.vcf.gz</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Plumage association data</h4><div class=\"o-metadata__file-description\">Phenotype data used for the GEMMA analysis. Columns indicate: Record#, a unique identifier, Site, with nearest city / notable location, whether this site was located in the hybrid zone or in allopatry (myrtle versus Audubon's), Lat, Long, and five plumage characters: throat, spot, line, wing, and auricular.</div><div class=\"o-metadata__file-name\">Plumage_association_data.xlsx</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151321_1226260_150149",
+    "https://doi.org/10.5683/SP2/HS8HKF"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/HS8HKF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Alberta",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Admixture mapping in a hybrid zone reveals loci associated with avian feather coloration",
+  "gbl_mdModified_dt": "2021-05-19T22:47:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5a433947-c66f-5f1a-bf92-f70c01142f55",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

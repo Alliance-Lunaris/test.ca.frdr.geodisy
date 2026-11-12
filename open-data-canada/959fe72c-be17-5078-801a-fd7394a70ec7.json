@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 60.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Earth sciences",
+    "Sciences de la terre",
+    "Remote sensing",
+    "Land use",
+    "Utilisation du territoire",
+    "Télédétection"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Couverture des terres des régions agricoles du Canada, vers l’an 2000"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The “Land Cover for Agricultural Regions of Canada, circa 2000” is a thematic land cover classification representative of Circa 2000 conditions for agricultural regions of Canada. Land cover is derived from Landsat5-TM and/or 7-ETM+ multi-spectral imagery by inputting imagery and ground reference training data into a Decision-Tree or Supervised image classification process. Object segmentation, pixel filtering, and/or post editing is applied as part of the image classification. Mapping is corrected to the GeoBase Data Alignment Layer. National Road Network (1:50,000) features and other select existing land cover products are integrated into the product. UTM Zone mosaics are generated from individual 30 meter resolution classified scenes. A spatial index is available indicating the Landsat imagery scenes and dates input in the classification. This product is published and compiled by Agriculture and Agri-Food Canada (AAFC), but also integrates products mapped by other provincial and federal agencies; with appropriate legend adaptations. This release includes UTM Zones 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, and 22 for corresponding agricultural regions in Newfoundland, Prince Edward Island, Nova Scotia, New Brunswick, Québec, Ontario, Manitoba, Saskatchewan, Alberta and British Columbia covering approximately 370,000,000 hectares of mapped area. Mapped classes include: Water, Exposed, Built-up, Shrubland, Wetland, Grassland, Annual Crops, Perennial Crops and Pasture, Coniferous, Deciduous and Mixed forests. However, emphasis is placed on accurately delineating agricultural classes, including: annual crops (cropland and specialty crops like vineyards and orchards), perennial crops (including pastures and forages), and grasslands.",
+    "Le produit « Couverture des terres des régions agricoles du Canada, vers l’an 2000 » est une classification thématique des terres représentant les conditions des régions agricoles du Canada, aux environs de 2000. La couverture des sols est dérivée de l'imagerie multispectrale des capteurs Landsat5-TM et/ou Landsat7-ETM+, traitée, avec des données d’apprentissage de référence au sol, par un processus d'arbre de décision ou de classification supervisée (dirigée). La classification des images comprend des étapes de segmentation des objets, de filtrage des pixels et/ou de post-traitement. La cartographie est corrigée d'après la Couche de cohérence des données de GéoBase. Les entités du Réseau routier national (1/50 000) ainsi que d'autres produits sélectionnés de couvertures des terres sont intégrés au produit. Les mosaïques des zones UTM sont générées à partir des images classifiées de 30 m de résolution. Un index spatial est disponible indiquant les dates des images Landsat utilisées dans la classification. Ce produit est publié et compilé par Agriculture et Agroalimentaire Canada; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre (AAC), mais il intègre également des produits cartographiques générés par des agences provinciales et fédérales, signifiant ainsi une adaptation appropriée des légendes. Ce produit inclut les zones UTM 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, et 22 correspondants aux régions agricoles de diverses provinces (Terre-Neuve, Île-du-Prince-Édouard, Nouvelle-Écosse, Nouveau-Brunswick, Québec, Ontario, Manitoba, Saskatchewan, Alberta, Colombie-Britannique), couvrant approximativement 370 000 000 hectares de surface cartographiée. Les classes cartographiées sont les suivantes : Eau, Sols nus, Zones bâties, Arbustaies, Terres humides, Prairies, Terres en culture annuelle, Cultures vivaces et pâturages, Forêt de conifères, Forêt feuillue et Forêt mixte. Toutefois, on insiste particulièrement sur la délimitation exacte des classes d'étendues agricoles, soit les cultures annuelles (terres en culture et cultures spécialisées comme les vignobles et les vergers), les cultures vivaces (incluant les pâturages et les fourrages) et les prairies."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/16d2f828-96bb-468d-9b7d-1307c81e17b8"
+  ],
+  "dct_issued_s": "2009-04-01",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/16d2f828-96bb-468d-9b7d-1307c81e17b8\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Land Cover for Agricultural Regions of Canada, circa 2000",
+  "gbl_mdModified_dt": "2025-07-21T21:51:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "959fe72c-be17-5078-801a-fd7394a70ec7",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 60.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

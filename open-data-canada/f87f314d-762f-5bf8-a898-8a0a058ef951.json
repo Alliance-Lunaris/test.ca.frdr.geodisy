@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Route verte",
+    "Veloboucles mauricie",
+    "Ville de shawinigan",
+    "Pistes cyclables",
+    "Information gouvernementale",
+    "Voies cyclables",
+    "Donnee ouverte",
+    "Velo",
+    "Bicyclette"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Linear layer of the bicycle network of the City of Shawinigan.\n\n[Link to the complete Isogeo sheet] (https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/03617e6934ea47fc8cbb86031835d060?lock)\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n\nScanning from orthophotography\n\n**Attributes**\n\n* `objectid` (`integer`): \n\n* `type` (`char`): Type\n\n* `surface` (`char`): Surface\n\n* `status` (`char`): Status\n\n* `length` (`double`): Length\n\n* `st_length (shape) `(`double`): Length\n\n* `annee_resurfacage` (`char`): Resurfacing year\n\n* `velobouclemauricie` (`char`): Veloloop Mauricie\n\n* `greenroute` (`char`): Green road\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche linéaire du réseau cyclable de la Ville de Shawinigan.\n\n[Lien de la fiche complète Isogeo](https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/03617e6934ea47fc8cbb86031835d060?lock)\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n\nNumérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`integer`) : \n\n* `type` (`char`) : Type\n\n* `surface` (`char`) : Surface\n\n* `statut` (`char`) : Statut\n\n* `longueur` (`double`) : Longueur\n\n* `st_length(shape)` (`double`) : Longueur\n\n* `annee_resurfacage` (`char`) : Année de resurfaçage\n\n* `velobouclemauricie` (`char`) : Véloboucle Mauricie\n\n* `routeverte` (`char`) : Route Verte"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5afd394d-b6bb-4fd3-8eda-db071cdf2bd3"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5afd394d-b6bb-4fd3-8eda-db071cdf2bd3\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Réseau cyclable - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-12T17:37:37Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f87f314d-762f-5bf8-a898-8a0a058ef951",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

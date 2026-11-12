@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-64.123521, -62.168302, 45.267901, 44.437747)",
+  "dcat_keyword_sm": [
+    "Geospatial",
+    "Transportation",
+    "Geographic Information System",
+    "Network",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Strang, Jennifer (Dalhousie University)."
+  ],
+  "dct_description_sm": [
+    "Halifax_Network.zip is a compressed File Geodatabase that contains a Network Dataset called HRM_ND that was created from HRM street centreline data as well as the street junctions that were created with the creation of the dataset.  The network dataset was built using ArcGIS Pro 3.7.  The dataset can be used to estimate drive times, walk times, drive distances, routes, and service areas.  No traffic is considered in this network. Additional columns were added to the original datasource to augment/improve the creation of the network."
+  ],
+  "dct_identifier_sm": [
+    "1201793",
+    "https://doi.org/10.5683/SP4/94HST2"
+  ],
+  "dct_issued_s": "2026-08-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/94HST2\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Halifax, Nova Scotia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Network dataset for Halifax Regional Municipality, 7 July 2026",
+  "gbl_mdModified_dt": "2026-08-21T17:11:38Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d1c378dd-74e0-5bb4-bcca-a5c29f633767",
+  "locn_geometry": "ENVELOPE(-64.123521, -62.168302, 45.267901, 44.437747)",
+  "schema_provider_s": "Dalhousie University Dataverse"
+}

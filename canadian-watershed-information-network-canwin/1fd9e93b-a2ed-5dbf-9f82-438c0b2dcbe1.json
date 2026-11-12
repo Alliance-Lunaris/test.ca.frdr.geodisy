@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.8889, -122.8486, 54.6303, 48.3127)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Department of Fisheries and Oceans (DFO) Science Branch has designed a multispecies dive survey protocol to provide unbiased, coast wide monitoring of benthic invertebrate stocks (as may be required under the updated Fisheries Act) and associated habitat information for a suite of benthic marine invertebrate species (Green (Strongylocentrotus droebachiensis), Purple (S. purpuratus) and Red Sea Urchin (Mesocentrotus franciscanus), Geoduck (Panopea generosa), Giant Red Sea Cucumber (Apostichopus californicus), Northern Abalone (Haliotis kamtschatkana), and Sunflower Sea Star (Pycnopodia helianthoides)). Based on information available at this time, the proposed survey design can provide estimates of coast wide stock status for Red Sea Urchin and Giant Red Sea Cucumber, and relative abundance indices for Geoduck, Green Sea Urchin, Purple Sea Urchin, Northern Abalone and Sunflower Sea Star.\n\nThe new protocol was tested through a series of pilot surveys conducted on a subset of areas of the BC coast each September from 2016-2021. Design of the pilot surveys was based on previous dive survey data and experience and demonstrated the practical feasibility of the protocol, while also gathering preliminary information to guide recommendations about the statistical design of the survey.\n\nThe dataset consists of a relational database containing tables representing each component of the survey methodology. The primary component of the survey is a transect location. Along each transect, systematically spaced quadrats are sampled, and on each quadrat, substrate observations are recorded, multiple species of algae are recorded, and multiple individual invertebrates are measured or counted. The tables are linked by transect number and quadrat number."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/80db810a-742d-4867-9d32-77e1302ab02f"
+  ],
+  "dct_issued_s": "2024-09-03",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/80db810a-742d-4867-9d32-77e1302ab02f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Multispecies Dive Pilot Surveys",
+  "gbl_mdModified_dt": "2026-03-24T08:37:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1fd9e93b-a2ed-5dbf-9f82-438c0b2dcbe1",
+  "locn_geometry": "ENVELOPE(-133.8889, -122.8486, 54.6303, 48.3127)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

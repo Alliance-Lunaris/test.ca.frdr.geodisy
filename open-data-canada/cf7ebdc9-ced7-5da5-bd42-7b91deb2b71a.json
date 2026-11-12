@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.88, -52.37, 59.18, 41.67)",
+  "dcat_keyword_sm": [
+    "Agriculture statistics",
+    "Statistiques de l'agriculture"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Rendements historiques estimés des cultures par PPC au Canada"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The Estimated Historical Crop Yields in Canada by SLC (kg\\hectare) dataset is produced by combining three complementary sources of yield information at the Soil Landscapes of Canada (SLC) level. First, provincial-level yields for seven major crops are allocated down to SLC polygons using area-based adjustments and statistical scaling. Second, forage yields (alfalfa, improved pasture, unimproved pasture) are taken directly from the EPIC model, which already outputs data at the SLC level. Third, insurance yield datasets (for the Prairies) are linked to SLC polygons and incorporated where available. These three sources are harmonized, ensuring consistency across crops and regions, resulting in a comprehensive SLC-level crop yield dataset for national-scale modeling and reporting.\n\nThis dataset was created primarily in support of Statistics Canada’s Census of Environment. This data can also be used for national scale modelling, calibration of agricultural models, and reporting for the agri-environmental indicators.",
+    "L’ensemble de données sur les rendements historiques estimés des cultures par PPC au Canada (kg/hectare) est conçu en combinant trois sources complémentaires d’information sur les rendements au niveau des pédo paysages du Canada (PPC). Premièrement, les rendements provinciaux de sept grandes cultures sont attribués aux polygones des PPC au moyen d’ajustements par zone et d’une mise à l’échelle statistique. Deuxièmement, les rendements fourragers (luzerne, pâturage amélioré, pâturage non amélioré) sont tirés directement du modèle EPIC, qui produit déjà des données au niveau des PPC. Troisièmement, les ensembles de données sur l’assurance-récolte (pour les Prairies) sont liés aux polygones des PPC et intégrés lorsqu’ils sont disponibles. Ces trois sources sont harmonisées, assurant l’uniformité entre les cultures et les régions, ce qui donne lieu à un ensemble de données exhaustif sur le rendement des cultures au niveau des PPC pour la modélisation et la production de rapports à l’échelle nationale.\n\nCet ensemble de données a été créé principalement à l’appui du Recensement de l’environnement de Statistique Canada. Ces données peuvent également être utilisées pour la modélisation à l’échelle nationale, l’étalonnage des modèles agricoles et la production de rapports pour les indicateurs agroenvironnementaux."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/c5c29149-4a38-47a8-beeb-3456c33fd877"
+  ],
+  "dct_issued_s": "2026-03-20",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/c5c29149-4a38-47a8-beeb-3456c33fd877\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Estimated Historical Crop Yields in Canada by SLC",
+  "gbl_mdModified_dt": "2026-03-25T14:31:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cf7ebdc9-ced7-5da5-bd42-7b91deb2b71a",
+  "locn_geometry": "ENVELOPE(-128.88, -52.37, 59.18, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

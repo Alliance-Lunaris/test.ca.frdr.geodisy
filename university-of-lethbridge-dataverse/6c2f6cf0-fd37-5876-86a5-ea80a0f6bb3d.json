@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "range shift",
+    "Life History Evolution",
+    "individual-based model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hargreaves, Anna L. (McGill University, Queen's University).",
+    "Bailey, Susan F. (Aarhus University).",
+    "Laird, Robert A. (University of Lethbridge)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.g7641</p>\n<p><b>Storage size:</b> 49745293</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Dispersal ability will largely determine whether species track their climatic niches during climate change, a process especially important for populations at contracting (low-latitude/low-elevation) range limits that otherwise risk extinction. We investigate whether dispersal evolution at contracting range limits is facilitated by two processes that potentially enable edge populations to experience and adjust to the effects of climate deterioration before they cause extinction: (i) climate-induced fitness declines towards range limits and (ii) local adaptation to a shifting climate gradient. We simulate a species distributed continuously along a temperature gradient using a spatially explicit, individual-based model. We compare range-wide dispersal evolution during climate stability vs. directional climate change, with uniform fitness vs. fitness that declines towards range limits (RLs), and for a single climate genotype vs. multiple genotypes locally adapted to temperature. During climate stability, dispersal decreased towards RLs when fitness was uniform, but increased when fitness declined towards RLs, due to highly dispersive genotypes maintaining sink populations at RLs, increased kin selection in smaller populations, and an emergent fitness asymmetry that favoured dispersal in low-quality habitat. However, this initial dispersal advantage at low-fitness RLs did not facilitate climate tracking, as it was outweighed by an increased probability of extinction. Locally adapted genotypes benefited from staying close to their climate optima; this selected against dispersal under stable climates but for increased dispersal throughout shifting ranges, compared to cases without local adaptation. Dispersal increased at expanding RLs in most scenarios, but only increased at the range centre and contracting RLs given local adaptation to climate.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig 2 (heatmap) data files and R code</h4><div class=\"o-metadata__file-description\">Data and R code needed to create Fig 2 in Hargreaves et al (2015) J Evol Biol.  One data file for each of the 6 figure panels.  Each file contains evolved D across the range in each of 500 generations of stable climate followed by 1000 generations of climate change.</div><div class=\"o-metadata__file-name\">Fig 2 (heatmap).zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig 3 (D lines) data and R code</h4><div class=\"o-metadata__file-description\">Data and R code needed to create Fig 3 in Hargreaves et al (2015) J Evol Biol.  One data file for each of the 6 models shown.  Each file contains evolved D across the range after 500 generations of stable climate and after 1000 generations of climate change, averaged across 10 runs per cost per model.</div><div class=\"o-metadata__file-name\">Fig 3 (D lines).zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig 4 (delta.D) data and R code</h4><div class=\"o-metadata__file-description\">Data and R code needed to create Fig 4 in Hargreaves et al (2015) J Evol Biol.  One data file for each of the 4 models (ie figure rows) shown.  Each file contains evolved D across the range after 500 generations of stable climate and after 1000 generations of climate change for 30 runs per model.</div><div class=\"o-metadata__file-name\">Fig 4 (delta.D).zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig 6 (D vs density) data and R code</h4><div class=\"o-metadata__file-description\">Data and R code needed to create Fig 6 in Hargreaves et al (2015) J Evol Biol.  Two data files (one for evolved D and one for density) for each of 2 model runs, one with dispersal (dispersal distance =1 as normal) and one run without dispersal (dispersal distance =0).</div><div class=\"o-metadata__file-name\">Fig 6 (D vs density).zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Appendix S1 data and R code for each figure</h4><div class=\"o-metadata__file-description\">Data and R code needed to create figures in Appendix S1 in Hargreaves et al (2015) J Evol Biol. All figures remake Fig 3 while varying one parameter.  Fig S1.1 shows murate = .005; Fig S1.2 shows avshift = .01, .05, .2; Fig. S1.3 shows K=10; Fig. S1.4 shows effect of eliminating kin selection by randomizing individuals within columns before each dispersal event.  For each figure there is 1 data file per model.  Each data file contains evolved D across the range after 500 generations of stable climate and after 1000 generations of climate change, for 10 runs per cost.</div><div class=\"o-metadata__file-name\">Appendix S1.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Model code Matlab file</h4><div class=\"o-metadata__file-description\">Code to run the model simulations.</div><div class=\"o-metadata__file-name\">rangeshift (for dryad).m</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig 5 (extinction threshold) Matlab code</h4><div class=\"o-metadata__file-description\">Matlab code to run the simulations necessary to determine the relationship between the speed of climate change (avshift) and probability of extinction.</div><div class=\"o-metadata__file-name\">rangeshift_thresh (for dryad).m</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "858544_854807",
+    "https://doi.org/10.5683/SP3/3MZ42B"
+  ],
+  "dct_issued_s": "2024-12-04",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/3MZ42B\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Fitness declines toward range limits and local adaptation to climate affect dispersal evolution during climate-induced range shifts",
+  "gbl_mdModified_dt": "2024-12-04T18:42:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6c2f6cf0-fd37-5876-86a5-ea80a0f6bb3d",
+  "pcdm_memberOf_sm": [
+    "U of L Dryad2Dataverse"
+  ],
+  "schema_provider_s": "University of Lethbridge Dataverse"
+}

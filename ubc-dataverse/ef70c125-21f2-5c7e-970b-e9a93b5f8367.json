@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.14708, -122.87536, 51.65733, 48.40389)",
+  "dcat_keyword_sm": [
+    "climate change",
+    "facilitation",
+    "biogenic habitat",
+    "intertidal zone",
+    "mortality",
+    "British Columbia",
+    "heatwaves",
+    "foundation species"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hesketh, Amelia (University of British Columbia, Simon Fraser University). ORCID: https://orcid.org/0000-0002-7344-8565"
+  ],
+  "dct_description_sm": [
+    "This dataset relates to a project conducted in coastal BC to examine the impact of an extreme heatwave (the 2021 Pacific Northwest Heat Dome) on the barnacle <i>Semibalanus cariosus</i> and its associated community. The dataset is comprised of 1) files relating to site characteristics and species sampled, 2) biodiversity data (DIVERSITY files), 3) mortality survey data (MORT files), 4) data from a shading experiment at a single site (SHADE files), and 5) data used to construct relationships between the time of the low tide at sites and the maximum shore temperature reached during the day, which were in turn used to choose site-specific solar azimuth and elevations for modelling the dependence of barnacle mortality on the angle of solar incidence (SOLAR files). Information about files and variables therein can be found in the README text file. Information about methodology used to obtain data can be found in the manuscript preprint (https://ecoevorxiv.org/sn76j/).\n<br><br>\n<b>Abstract:</b> \n<br>\nHeatwave frequency and intensity will increase as climate change progresses. Intertidal sessile invertebrates, which often form thermally benign microhabitats for associated species, are vulnerable to thermal stress because they have minimal ability to behaviourally thermoregulate. Understanding what factors influence the mortality of biogenic species and how heatwaves might impact their ability to provide habitat is critical. Here, we characterize the community associated with the thatched barnacle, Semibalanus cariosus (Pallass 1788), in British Columbia, Canada and attempt to determine what environmental factors — air temperature, time of low tide, shoreline orientation, algal cover, and the angle of solar incidence — explain variations in S. cariosus mortality induced by an unprecedented regional heatwave, the 2021 Pacific Northwest Heat Dome. Further, we used a manipulative shading experiment deployed prior to the heat dome to examine the effect of thermal stress on barnacle survival and recruitment and the barnacle-associated community. We identified 50 taxa inhabiting S. cariosus beds, with variations in community composition between sites. Site-scale variables and algal canopy cover did not predict S. cariosus mortality, but patch-scale variation in substratum orientation did, with more direct solar irradiance corresponding with higher barnacle mortality. The shading experiment demonstrated that S. cariosus survival, barnacle recruitment, and invertebrate community diversity were higher under shades where substratum temperatures were lower. Associated community composition also differed between shaded and non-shaded plots, suggesting S. cariosus was not able to fully buffer acute thermal stress for its associated community. While habitat provisioning by intertidal foundation species is an important source of biodiversity, these species alone may not be enough to prevent substantial community shifts following extreme heatwaves. As heatwaves become more frequent and severe, they may further reduce diversity via the loss of biogenic habitat, and spatial variation in these impacts may be substantial."
+  ],
+  "dct_identifier_sm": [
+    "329691_73901",
+    "https://doi.org/10.5683/SP3/MUZIUP"
+  ],
+  "dct_issued_s": "2022-04-20",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MUZIUP\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Extreme heatwave drives topography-dependent patterns of mortality in a bed-forming intertidal barnacle, with implications for associated community structure",
+  "gbl_mdModified_dt": "2022-04-20T23:18:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ef70c125-21f2-5c7e-970b-e9a93b5f8367",
+  "locn_geometry": "ENVELOPE(-128.14708, -122.87536, 51.65733, 48.40389)",
+  "pcdm_memberOf_sm": [
+    "UBC General Research Data Collection"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

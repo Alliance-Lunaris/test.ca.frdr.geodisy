@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Water resource management",
+    "Teleostei",
+    "Agnatha",
+    "species conservation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Guillaume, Guénard (Université de Montréal).",
+    "Gabriel, Lanthier (Université de Montréal).",
+    "Simonne, Harvey-Lavoie (Université de Montréal).",
+    "Camille, Macnaughton (Université de Montréal).",
+    "Caroline, Senay (Université de Montréal).",
+    "Michel, Lapointe (McGill University).",
+    "Pierre, Legendre (Université de Montréal).",
+    "Daniel, Boisclair (Université de Montréal)."
+  ],
+  "dct_description_sm": [
+    "In this paper, we describe an empirical approach to model community structure using phylogenetic signals. That approach combines information about the species (i.e. traits and phylogeny) with information about the habitat (i.e. environmental conditions and spatial distribution of sampling sites) and their interactions to predict the species responses (e.g. the local densities). As an application, we use the approach to model fish densities in rivers. In the model, the different species and size classes were described using a functional trait, body length, and phylogenetic eigenvectors maps whereas the sites were described using water velocity, depth, substrate composition, macrophyte cover, degree-days, total phosphorus, and spatial eigenvector maps. The model (estimated using a regularised Poisson-family Generalised Linear Modelling approach) fitted the data well (likelihood-based R2adj=0.512) and showed fair predictive power (likelihood-based cross-validation R2=0.283) to predict the density of fish pertaining to 48 species totalling 143 combinations of species and size classes in 15 unregulated Canadian rivers. Using the model as a baseline to estimate the effect of flow regulation on community composition, we found that, with few exceptions, the densities of most fish species were lower in regulated than in unregulated rivers. Phylogenetics have been proposed to study community structure, but this is, to our knowledge, the first time phylogenetic information is used explicitly for numerical habitat modelling. We expect that models of that type will be in increasing demand now that development projects are routinely assessed through impact studies."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.60n52",
+    "https://doi.org/10.5061/dryad.60n52"
+  ],
+  "dct_issued_s": "2016-08-24",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.60n52\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_title_s": "Data from: Modelling habitat distributions for multiple species using phylogenetics",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b67e573c-6486-5f81-bc92-7e0f62b238bc",
+  "schema_provider_s": "Dryad"
+}

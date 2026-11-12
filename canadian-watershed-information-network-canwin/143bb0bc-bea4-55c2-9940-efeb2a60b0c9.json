@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canadian long term satellite data record (LTDR) derived from 1-km resolution Advanced Very High Resolution Radiometer (AVHRR) data was produced by the Canada Center for Remote Sensing (CCRS). Processing included: geolocation, calibration, and compositing using Earth Observation Data Manager (Latifovic et al. 2005), cloud screening (Khlopenkov and Trishchenko, 2006), BRDF correction (Latifovic et. al., 2003), atmosphere and other corrections as described in Cihlar et. al. (2004). For temporal analysis of vegetation cross-sensor correction of Latifovic et al. (2012) is advised. Data collected by the AVHRR instrument on board the National Oceanic and Atmospheric Administration (NOAA) 9,11,14,16,17,18 and 19 satellites were used to generate Canada-wide 1-km 10-day AVHRR composites. Data are available starting in 1985. It is important to note that there are three types of AVHRR sensors: (i) AVHRR-1 flown onboard TIROS-N, NOAA-6, NOAA-8, and NOAA-10; (ii) AVHRR-2 flown onboard NOAA-7, NOAA-9, NOAA-11, NOAA-12, and NOAA-14; and (iii) AVHRR-3 currently operational onboard NOAA-15, NOAA-16, NOAA-17, NOAA-18 and NOAA-19. The AVHRR-1 has four channels, AVHRR-2 has five channels and the AVHRR-3 has six channels, although only five channels of AVHRR-3 can be operational at any one time. As such, channels 3A (1.6 m) and 3B (3.7 m) work interchangeably. The processing procedure was designed to minimize artefacts in AVHRR composite images. There are thirty six 10-day image composites per year. The following three processing levels are provided:  P1) top of atmosphere reflectance and brightness temperature, P2) reflectance at surface and surface temperature and P3) reflectance at surface normalized to a common viewing geometry (BRDF normalization). The processing level P1 and P2 are provided for all 36 composites while level P3 is provided for 21 composites from April – October."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9045136a-d6e7-a825-491d-ee5dc77a2620"
+  ],
+  "dct_issued_s": "2018-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9045136a-d6e7-a825-491d-ee5dc77a2620\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Multi-Spectral Clear-Sky Composites of AVHRR Channels (1 - 5) Over Canada at 1 km Spatial Resolution and 10-Day Intervals Since January, 1985",
+  "gbl_mdModified_dt": "2026-09-29T19:01:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "143bb0bc-bea4-55c2-9940-efeb2a60b0c9",
+  "locn_geometry": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2247, -123.0235, 49.3161, 49.1982)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zhang, Daniella (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Understanding social cohesion in urban green spaces is essential for fostering inclusive and resilient communities. This study analyzes social sentiment in Vancouver parks using a transfer learning natural language processing (NLP) approach to classify and interpret visitor reviews. A self-attention deep learning model was trained to detect social cohesion–related sentiment and categorize it into five classes: strong negative, moderately negative, neutral, moderately positive, and strong positive. Google reviews for 180 Vancouver parks were collected and pre-processed, including tokenization and translation where needed. Binary classification was first applied to filter for reviews relevant to social cohesion, followed by fine-tuning RoBERTa, a robustly optimized BERT (Bidirectional Encoder Representations from Transformers) model that excels at understanding contextual word meaning within sentences, on a labeled dataset. This fine-tuning process adapted the model’s attention toward content associated with social cohesion themes such as “welcoming,” “family,” “crowded,” and “unsafe.” The average park sentiment score was then used as the independent variable in a generalized linear regression (GLR) model, followed by geographically weighted regression (GWR) to account for spatial variation. Twenty candidate socioeconomic variables from the 2021 Canadian census were tested as predictors of average park sentiment. Results showed that household size and median income were statistically significant positive predictors of higher park sentiment at the dissemination area (DA) scale. The findings highlight disparities in perceived social cohesion across Vancouver’s neighborhoods and reveal the social atmosphere of parks beyond Google star ratings alone, offering evidence-based insights for park planning and management.\n\nKey Words: Social cohesion, sentiment analysis, transfer learning, deep learning, geographically weighted regression, natural language processing"
+  ],
+  "dct_identifier_sm": [
+    "898253_73894_115983",
+    "https://doi.org/10.5683/SP3/OQ9O09"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/OQ9O09\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, BC, Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences"
+  ],
+  "dct_title_s": "Exploring Social Interactions in Vancouver's Neighbourhood Parks Through Sentiment Analysis of Google Reviews",
+  "gbl_mdModified_dt": "2025-04-22T16:47:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d1e1fe9a-51e3-5a69-9fd7-0d00a3a7a7b7",
+  "locn_geometry": "ENVELOPE(-123.2247, -123.0235, 49.3161, 49.1982)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

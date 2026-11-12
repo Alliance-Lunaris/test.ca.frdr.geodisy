@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Transport",
+    "SUM",
+    "Vision zéro",
+    "Collision",
+    "Information gouvernementale",
+    "Sécurité routière",
+    "Accident",
+    "PoleARTM"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de l'urbanisme et de la mobilité."
+  ],
+  "dct_description_sm": [
+    "List of collisions that have occurred in Montreal since 2012.\n\nThis set shows collisions involving at least one motor vehicle traveling on the network and which were the subject of a police report. It includes the descriptive, contextual, and location of events, including the severity expressed in deaths, serious injuries, minor injuries, and property damage only.\n\n### IMPORTANT:\n\nThis set is a subset of the one that was put online by the Société de l'assurance automobile du Québec (SAAQ) on [Data Quebec] (https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident) before December 2023. It contains all the collisions identified on the territory of Montreal, including those with property damage only (DMS) of less than $2,000 recorded by the Service de Police de la Ville de Montréal (SPVM), with a geolocation compiled by the City for analysis purposes. The data recorded for the whole city only shows collisions that occurred on the road network under the trust of the agglomeration of Montreal. Collisions that occurred on the highway network are excluded from this dataset.\n\nSince the revision of the data by the SAAQ in December 2023, the contents of the 2 platforms differ for the period 2012-2021. \n\nFor all collisions subsequent to 2021, it is possible to consult the data put online by the Société de l'assurance automobile du Québec (SAAQ) on [Data Quebec] (https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Liste des collisions survenues à Montréal depuis 2012.\n\nCet ensemble fait état des collisions impliquant au moins un véhicule motorisé circulant sur le réseau et qui ont fait l'objet d'un rapport de police. Il inclut les éléments descriptifs, contextuels et la localisation des événements, dont la gravité exprimée en décès, blessures graves, blessures légères et dommages matériels seulement.\n\n### IMPORTANT :\n\nLe présent ensemble est un sous-ensemble de celui qui était mis en ligne par la Société de l'assurance automobile du Québec (SAAQ) sur [Données Québec](https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident) avant décembre 2023. Il contient l'ensemble des collisions recensées sur le territoire de Montréal, y compris celles dont les dommages matériels seulement (DMS) sont de moins de 2 000 $ comptabilisés par le Service de Police de la Ville de Montréal (SPVM), avec une géolocalisation compilée par la Ville à des fins d'analyses. Les données comptabilisées sous l'ensemble de la Ville ne présentent que les collisions survenues sur le réseau routier sous la fiducie de l'agglomération de Montréal. Les collisions survenues sur le réseau autoroutier sont exclues de ce jeu de données.\n\nDepuis la révision des données par la SAAQ en décembre 2023, les contenus des 2 plateformes diffèrent pour la période 2012-2021. \n\nPour toutes les collisions subséquentes à 2021, il est possible de consulter les données mises en lignes par la Société de l'assurance automobile du Québec (SAAQ) sur [Données Québec](https://www.donneesquebec.ca/recherche/fr/dataset/rapports-d-accident)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b"
+  ],
+  "dct_issued_s": "2018-11-12",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/cd722e22-376b-4b89-9bc2-7c7ab317ef6b\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Collisions routières",
+  "gbl_mdModified_dt": "2026-09-30T17:33:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c7aeff1c-966c-5d73-9bea-d01b1ceb1aa4",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}

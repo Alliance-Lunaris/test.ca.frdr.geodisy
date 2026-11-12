@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Information gouvernementale",
+    "Sport",
+    "Donnee ouverte",
+    "Equipement sportif",
+    "Terrain de sport",
+    "Infrastructure sportive"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Point layer of municipal sports infrastructures (indoor and outdoor) in the City of Shawinigan.\n\n[Link to the complete Isogeo sheet] (https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/5d3ef8082c78491d879dd558f93c4416?lock)\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n\nScanning from orthophotography\n\n**Attributes**\n\n* `objectid` (`integer`): \n\n* `sport` (`char`): Sport\n\n* `name` (`char`): Name\n\n* `address` (`char`): Address\n\n* `url` (`char`): URL\n\n* `photo` (`char`): Picture\n\n* `photo_360` (`char`): 360° photo\n\n* `sector` (`char`): Sector\n\n* `notes` (`char`): Notes\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelle des infrastructures sportives municipales (intérieures et extérieures) de la Ville de Shawinigan.\n\n[Lien de la fiche complète Isogeo](https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/5d3ef8082c78491d879dd558f93c4416?lock)\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n\nNumérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`integer`) : \n\n* `sport` (`char`) : Sport\n\n* `nom` (`char`) : Nom\n\n* `adresse` (`char`) : Adresse\n\n* `url` (`char`) : URL\n\n* `photo` (`char`) : Photo\n\n* `photo_360` (`char`) : Photo 360°\n\n* `secteur` (`char`) : Secteur\n\n* `notes` (`char`) : Notes"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/bc476943-d0d3-4701-b1d9-9b51dad436c1"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/bc476943-d0d3-4701-b1d9-9b51dad436c1\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Infrastructures sportives - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-12T17:36:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "863d500b-55fe-57b0-9b33-f78b38afe17c",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "Sectors targeted for urban densification.\nPolygons resulting from an analysis by the urban planning department and identified as areas conducive to urban densification.\n\n**Collection context**\n Areas determined by the urban planning department.\nManual analysis and limits according to an anthropogenic constraint, a street or a zoning limit.\n\n**Collection method**\n Technical drawing and computer-aided mapping.\n\n**Attributes**\n\n* `ID_ZONAGE` (`long`): Zoning ID\n* `NUM_ZONE` (`varchar`): Zone number\n* `GROUPE_USA` (`varchar`): Use group\n* `LABEL` (`varchar`): Label\n* `DATE_CREAT` (`date`): Creation date\n* `DATE_MODIF` (`date`): Date of modification\n* `USER_MODIF` (`varchar`): Modified by\n* `Source` (`varchar`): Source\n* `GRILLE_URL` (`varchar`): Grid of uses\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Secteurs visés pour densification urbaine.\nPolygones issus d'une analyse du service de l'urbanisme et identifiés comme zones propice de densification urbaine.\n\n**Contexte de collecte**\n Zones déterminées par le service de l'urbanisme.\nAnalyse manuelle et limites suivant une contrainte anthropique, une rue ou une limite de zonage.\n\n**Méthode de collecte**\n Dessin technique et cartographie assistée par ordinateur.\n\n**Attributs**\n\n* `ID_ZONAGE` (`long`) : ID zonage\n* `NUM_ZONE` (`varchar`) : Numéro de zone\n* `GROUPE_USA` (`varchar`) : Groupe d'usages\n* `ETIQUETTE` (`varchar`) : Étiquette\n* `DATE_CREAT` (`date`) : Date de création\n* `DATE_MODIF` (`date`) : Date de modification\n* `USER_MODIF` (`varchar`) : Modifié par\n* `Source` (`varchar`) : Source\n* `GRILLE_URL` (`varchar`) : Grille d'usages\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/5e46e95a-18ac-44be-a774-e75405ddf7de"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/5e46e95a-18ac-44be-a774-e75405ddf7de\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Îlots de densification visés - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:39:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "21f7c94b-e366-59f2-8938-0429165bb2e5",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.743057, -54.901157, 47.835846, 40.030963)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Species distribution models (SDMs) are tools that combine species observations of occurrence, abundance, or biomass with environmental variables to predict the distribution of a species in unsampled locations. To produce accurate predictions of occurrence, abundance or biomass distribution, a wide range of physical and/or biological variables is desirable. Such data is often collected over limited or irregular spatial scales, and require the application of geospatial techniques to produce continuous environmental surfaces that can be used for modelling at all spatial scales. Here we provide a review of 102 environmental data layers that were compiled for the entire spatial extent of Fisheries and Oceans Canada’s (DFO) Maritimes Region. Variables were obtained from a broad range of physical and biological data sources and spatially interpolated using geostatistical methods. For each variable we document the underlying data distribution, provide relevant diagnostics of the interpolation models and an assessment of model performance, and present the final standard error and interpolation surfaces. These layers have been archived in a common (raster) format at the Bedford Institute of Oceanography to facilitate future use. Based on the diagnostic summaries in this report, a subset of these variables has subsequently been used in species distribution models to predict the distribution of deep-water corals, sponges, and other significant benthic taxa in the Maritimes Region.\n\nCite this data as: Beazley, Lindsay; Guijarro, Javier, Lirette; Camille; Wang, Zeliang; Kenchington, Ellen (2020). Characteristics of Environmental Data Layers for Use in Species Distribution Modelling in the Maritimes Region. Published July 2023. Ocean Ecosystems Science Division, Fisheries and Oceans Canada, Dartmouth, N.S. https://open.canada.ca/data/en/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1"
+  ],
+  "dct_issued_s": "2023-08-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/34a917cb-a0e3-403c-91c7-af3dc20628b1\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Characteristics of Environmental Data Layers for Use in Species Distribution Modelling in the Maritimes Region",
+  "gbl_mdModified_dt": "2026-03-24T08:44:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3954ed0f-7a93-54cd-86ec-6b704c8b235d",
+  "locn_geometry": "ENVELOPE(-67.743057, -54.901157, 47.835846, 40.030963)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

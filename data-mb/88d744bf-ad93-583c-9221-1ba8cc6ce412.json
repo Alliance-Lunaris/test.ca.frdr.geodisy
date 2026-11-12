@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.27736192564167, -91.47445484192312, 59.52206215568273, 52.72262272804892)",
+  "dcat_keyword_sm": [
+    "Administrative",
+    "Agreements",
+    "Open Data",
+    "Compensation",
+    "First Nation Non TLE Agreements",
+    "Government",
+    "First Nation",
+    "Flood Compensation",
+    "Land Claims",
+    "Boundary",
+    "Manitoba Government",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The purpose of this dataset is to show Crown land parcels contained within formal flood compensation and other settlement agreements with specified First Nations (does not include Treaty Land Entitlement sites). The Crown lands are intended for transfer to the Government of Canada to be set apart as Reserve land. There are different categories/types of compensation lands noted in the various settlement agreements and every agreement has different provisions. </SPAN></P><P><SPAN>Best efforts have been taken to reasonably illustrate the parcels within the dataset as set out in the respective agreements. All boundaries are to be considered approximate and for illustrative purposes only. The mapped parcels are not removed (or regularly updated) following the survey or transfer of any Crown (Manitoba) land to Canada to be set apart as Reserve for the respective First Nation.</SPAN></P><P><SPAN>For more information on individual agreements please visit the Manitoba government website: </SPAN><A href=\"https://www.gov.mb.ca/inr/settlements-and-other-agreements/index.html\" STYLE=\"text-decoration:underline;\"><SPAN>https://www.gov.mb.ca/inr/settlements-and-other-agreements/index.html</SPAN></A></P><P><SPAN>Fields included [</SPAN><SPAN STYLE=\"font-weight:bold;\">Alias </SPAN><SPAN>(Field Name): Field description]</SPAN></P><UL><LI><P><SPAN STYLE=\"font-weight:bold;\">OBJECTID</SPAN><SPAN> (OBJECTID): Sequential unique whole numbers that are automatically generated</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">ID Number </SPAN><SPAN>(ID): A unique number identifying the Community Agreement parcel</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Name of First Nation of Non TLE Agreement </SPAN><SPAN>(FIRST_NATION): Name of the First Nation covered under the non TLE Agreement</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Site Name</SPAN><SPAN> (SITE_NAME): Name of the land parcel</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Site Type</SPAN><SPAN> (SITE_TYPE): Site type description. Sites can be designated as: exchange land, proposed relocation land, mines and minerals, additional lands, reversion lands, or returned project lands.</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Area in Square Metres</SPAN><SPAN> (AREA): Land parcel area in square metres</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Area in Hectares</SPAN><SPAN> (HECTARES): Land parcel area in hectares</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Area in Acres</SPAN><SPAN> (ACREAGE): Land parcel area in acres</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Agreement Name</SPAN><SPAN> (AGREEMENT): Name of settlement agreement under which the land parcel is administered</SPAN></P></LI><LI><P><SPAN STYLE=\"font-weight:bold;\">Date of Agreement</SPAN><SPAN> (AGREE_DATE): Date of settlement agreement under which the land parcel is administered</SPAN></P></LI></UL></DIV></DIV></DIV>"
+  ],
+  "dct_identifier_sm": [
+    "d5d8db83cd8c400e96e0844efd38421d",
+    "https://www.arcgis.com/home/item.html?id=d5d8db83cd8c400e96e0844efd38421d"
+  ],
+  "dct_issued_s": "2022-02-16",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::first-nation-non-tle-agreements-mb\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence This is an active layer, date can change daily. All departments and agencies impacted will receive all necessary updates."
+  ],
+  "dct_title_s": "First_Nation_Non_TLE_Agreements_MB",
+  "gbl_mdModified_dt": "2024-10-28T16:40:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "88d744bf-ad93-583c-9221-1ba8cc6ce412",
+  "locn_geometry": "ENVELOPE(-101.27736192564167, -91.47445484192312, 59.52206215568273, 52.72262272804892)",
+  "schema_provider_s": "Data MB"
+}

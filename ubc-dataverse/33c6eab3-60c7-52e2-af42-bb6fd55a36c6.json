@@ -1,0 +1,49 @@
+{
+  "dcat_keyword_sm": [
+    "alpine",
+    "pheomelanin",
+    "Junco hyemalis",
+    "songbird"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "de Zwaan, Devin R. (Mount Allison University, Acadia University, University of British Columbia).",
+    "Greenwood, Jennifer L. (University of British Columbia).",
+    "Martin, Kathy (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/fdBAcn8iuU2HYORcFMEfj8UDiS8m_6HwnYwGV9s8Le0</p>\n<p><b>Storage size:</b> 88436</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Variation in feather melanism and microstructure can arise through sexual selection and ecological functional drivers. Melanin-based plumage traits are associated with sexual dichromatism and the intensity of sexual selection in many avian species, but also have several ecological benefits such as protection against ultra-violet (UV) radiation, camouflage, and feather strength. Additionally, feather microstructure influences thermoregulation. Plumage variation across species is well documented; however, the relative role of sexual selection and ecological drivers in intra-specific and within-population variation is less established. We investigated UV reflectance, melanism, and feather microstructure in a population of Oregon dark-eyed juncos Junco hyemalis oreganus between high (1900–2200 m a.s.l.) and low (450–800 m a.s.l.) elevations in the Selkirk Mountains to evaluate potential sexual selection and ecological drivers of variation. We found no difference in UV reflectance or lightness (melanism) of head feathers between elevations, but individuals at high elevation had lighter (less melanism) and less brown (less pheomelanin) body contour feathers than at low elevations. High elevation individuals also had longer contour feathers with more pronounced plumulaceous regions. Sexual dichromatism did not vary between elevations, leading us to reject sexual selection in favour of ecological functional drivers of plumage variation in this system. To our knowledge, this is the first study to identify within-population differences in feather melanism and microstructure between different elevations.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Plumage colour measurements for Dark-eyed juncos in the Selkirk Mountains</h4><div class=\"o-metadata__file-description\">A combination of morphological and body condition data collected in the field, as well as LAB colour space data measured in Adobe Photoshop for head and dorsal regions.  Column heading abbreviations: FWS is the unique individual identifier; std.l, std.a, and std.b are the L*A*B* colour variables for a black standard colour chip included in each photo; head.l, head.a, head.b are the L*A*B* colour variables for the mantle; back.l, back.a, back.b are the L*A*B* colour variables for the dorsal region.</div><div class=\"o-metadata__file-name\">colour data_JAV-01050_R1.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Feather microstructure measurements for Dark-eyed junco in the Selkirk Mountains</h4><div class=\"o-metadata__file-description\">A combination of body condition data and feather microstructure variables. Originally, all microstructure variables were measured twice on two separate feathers. After finding there was no difference between variables measured on separate feathers (P>0.33), we pooled the variables within individual and the averaged values are depicted in this data set (i.e., one row per individual).  Column heading abbreviations: penn.length & plum.length are the linear measurements of the pennaceous and plumulaceous feather regions respectively; penn.barb is the number of pennacous barbs counted to measure density; penn.density.length is the length over which the barbs were counted; penn.density is penn.barb/penn.density.length; penn.barbules: this series is the same as the penn.barb columns but for barbule densities measured twice (on two separate barbs); barbule.length: measurements of individual barbule length from 5 randomly selected barbules on the section of the barb that barbule density was measured.</div><div class=\"o-metadata__file-name\">feather microstructure data _ JAV-01050_R1.csv</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Plumage reflectance data for Dark-eyed junco in the Selkirk Mountains</h4><div class=\"o-metadata__file-description\">A combination of body condition data collected in the field and plumage reflectance data derived from the R package 'pavo' (Maia et al. 2013) which is based on Stoddard and Prum (2008)'s 'Tetracolourspace'. The data was generated using an average avian visual and achromatic cone system. Column heading abbreviations: u.p, s.p, m.p, l.p: proportion of ultra-violet, short wave, medium wave, and long wave reflectance, respectively; u.r, s.r, m.r, l.r: relative reflectance for each wavelength category; the remaining variables (x, y, z, h.theta, h.phi, r.vec, r.max, and r.achieved) were ultimately not used in the final analysis but serve to place individuals in a 3D Tetracolourspace and also allow calculation of variables such as brilliance and chroma which tend to be more important for carotenoid colours (see Stoddard and Prum 2008 for a more detailed description).</div><div class=\"o-metadata__file-name\">Reflectance_JAV-01050_R1.csv</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152021_150149",
+    "https://doi.org/10.5683/SP2/6ZNJNL"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/6ZNJNL\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Revelstoke",
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Feather melanin and micro-structure variation in dark-eyed junco (Junco hyemalis) across an elevational gradient in the Selkirk Mountains",
+  "gbl_mdModified_dt": "2021-05-20T00:25:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33c6eab3-60c7-52e2-af42-bb6fd55a36c6",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

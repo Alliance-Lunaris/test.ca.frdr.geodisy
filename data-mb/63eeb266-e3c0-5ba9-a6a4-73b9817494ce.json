@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.87649, -92.08756999999999, 58.771463999999995, 49.10425999999998)",
+  "dcat_keyword_sm": [
+    "COVID-19",
+    "Canada",
+    "testing",
+    "coronavirus",
+    "Province of Manitoba",
+    "rapid antigen",
+    "Manitoba Government",
+    "Manitoba Shared Health",
+    "Manitoba",
+    "public"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "Feature point layer showing locations of distribution sites that currently have COVID-19 rapid antigen test kits available in Manitoba. The main purpose of this data is to provide the public with the hours of operation for these sites. Distributors include pharmacies, retail stores, and community libraries. <p>This data is populated by Manitoba Shared Health and is updated as needed.</p><p>This feature layer is used in the <a href='https://manitoba.maps.arcgis.com/home/item.html?id=882e4137a4b34ba8863b6cc2459545be' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba COVID-19 Rapid Antigen Test Kit Availability Map</a> and <a href='https://manitoba.maps.arcgis.com/home/item.html?id=a8d773a2fa0d413b89b683b56f98d335' target='_blank' rel='nofollow ugc noopener noreferrer'>Manitoba COVID-19 Rapid Antigen Test Kit Availability</a> application.</p><p>For more information on Manitoba’s response to COVID-19, please visit the following site: <a href='https://www.gov.mb.ca/covid19/index.html' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.gov.mb.ca/covid19/index.html</a><br /></p><p>Fields included [<b>Alias </b>(<i>Field Name</i>): Field description]</p><ul><li><b>Site Category</b> (<i>Site_Category</i>): Indicates whether the site is a retail business, pharmacy, or community library</li><li><b>Site Name</b> (<i>Site_Name</i>): Official business name of the site </li><li><b>Address</b> (<i>Address</i>): Street address of the site </li><li><b>City or Town</b> (<i>City_or_Town</i>): City or town in which the site is located</li><li><b>Postal Code</b> (<i>Postal_Code</i>): Postal code that corresponds with the street address of the site </li><li><b>Phone</b> (<i>Phone</i>): Telephone number for the site</li><li><b>French Service</b> (<i>French_Service</i>): Indicates whether a site self-identified as having services available in French; if unknown, value is null  </li><li><b>Health Authority</b> (<i>Health_Authority</i>): Name of the regional health authority where the site is located</li><li><b>Hours of Operation</b> (<i>Hours_of_Operation</i>): Listing of days and times that the site is open to the public</li><li><b>Alt Hours Start</b> (<i>Alt_Hours_Start</i>): Start date of when alternate hours are in effect</li><li><b>Alt Hours End </b>(<i>Alt_Hours_End</i>): End date of when alternate hours are in effect</li><li><b>Alternate Hours of Operation</b> (<i>Alternate</i>_<i>Hours_of_Operation</i>): Listing of alternate days and times that the site is open to the public</li><li><b>Latitude </b>(<i>Latitude</i>): Latitudinal coordinate of the site</li><li><b>Longitude </b>(<i>Longitude</i>): Longitudinal coordinate of the site</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "b0f0973735df43c6ad967e068c77defa",
+    "https://www.arcgis.com/home/item.html?id=b0f0973735df43c6ad967e068c77defa"
+  ],
+  "dct_issued_s": "2022-06-15",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-covid-19-rapid-antigen-test-kit-distributors\"}",
+  "dct_rights_sm": [
+    "Manitoba Open Data Licence"
+  ],
+  "dct_title_s": "Manitoba COVID-19 Rapid Antigen Test Kit Distributors",
+  "gbl_mdModified_dt": "2024-09-13T19:26:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "63eeb266-e3c0-5ba9-a6a4-73b9817494ce",
+  "locn_geometry": "ENVELOPE(-101.87649, -92.08756999999999, 58.771463999999995, 49.10425999999998)",
+  "schema_provider_s": "Data MB"
+}

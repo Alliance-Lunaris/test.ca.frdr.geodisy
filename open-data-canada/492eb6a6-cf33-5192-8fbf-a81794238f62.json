@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-66.79832752, -66.35146346, 50.2327533, 49.97760114)",
+  "dcat_keyword_sm": [
+    "Occurrence Sampling Biodiversity Beam trawl Snow crab",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "Aquatic wildlife",
+    "Occurrence Échantillonnage Biodiversité Chalut Crabe des neiges",
+    "Faune aquatique"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Biodiversité du relevé au chalut du crabe des neiges dans la Baie Sainte-Marguerite, nord du golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Virginie Roy."
+  ],
+  "dct_description_sm": [
+    "A research survey on snow crab (Chionoecetes opilio) was conducted from May 2006 to May 2009, and in July 2023, in Baie Sainte-Marguerite near Sept-Îles, Quebec. The main objective of this survey was to assess the abundance of snow crab and species associated with snow crab habitat. Only data for benthic and demersal species associated with snow crab habitat are presented in this dataset.\n\nData were collected according to a stratified random sampling plan. A total of 79 stations was sampled from 2006 to 2009 and 36 stations in 2023, between 7 to 200 meters depth. Specimens were collected using a beam trawl with a total width of 2.8 meters and a total height of 0.76 meters. The codend was lined with a 16-17 millimeter stretched mesh net in order to harvest the small individuals. The hauls were made at a target speed of 2 knots and a target duration of 5-10 minutes depending on seabed conditions. Start and end positions were recorded to calculate the distance traveled on each tow using the geosphere library in R. The area covered at each tow was the product of the trawl opening and the distance traveled.\n\nThe two files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"Activity_Information\" file includes generic activity information, including date and location. The \"occurrence_taxon\" file includes the taxonomy of the species observed, identified to the species or lowest possible taxonomic level.\n\nFor quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. All sampling locations were spatially validated.",
+    "Un relevé de recherche sur le crabe des neiges (Chionoecetes opilio) a été réalisé de mai 2006 à 2009, ainsi qu'en juillet 2023, dans la Baie Sainte-Marguerite, près de Sept-îles, Québec. L’objectif principal de ce relevé était d’évaluer l’abondance du crabe des neiges et des espèces associées à l’habitat du crabe des neiges. Seules les données des espèces benthiques et démersales associées à l’habitat du crabe des neiges sont présentées dans ce jeu de données.\n\nLes données ont été récoltées selon un plan d'échantillonnage aléatoire stratifié. Un total de 79 stations a été échantillonné de 2006 à 2009 et 36 stations en 2023, entre 7 et 200 mètres de profondeur. Les spécimens ont été récoltés à l’aide d’un chalut à perche d’une largeur totale de 2.8 mètres et une hauteur totale de 0.76 mètre. Le cul du chalut était doublé avec un filet de maille étirée de 16-17 millimètres afin de récolter les petits individus. Les traits ont été réalisés à une vitesse visée de 2 nœuds et d'une durée visée de 10 minutes. Les positions début et fin ont été notées pour calculer la distance parcourue à chaque trait à l'aide de la bibliothèque geosphere de R. La superficie couverte à chaque trait était le produit de l’ouverture du chalut et de la distance parcourue.\n\nLes deux fichiers fournis (format DarwinCore) sont complémentaires et sont reliés par la clé « IDactivité ». Le fichier «Information_activité» comprend les informations génériques de l'activité, notamment la date et la localisation. Le fichier «occurrence_taxon» comprend la taxonomie des espèces observées, identifiées à l’espèce ou au niveau taxonomique le plus bas possible.\n\nPour les contrôles de qualité, tous les noms taxonomiques ont été vérifiés sur le registre mondial des espèces marines (WoRMS) pour correspondre aux normes reconnues. Tous les emplacements d'échantillonnage ont été validés spatialement."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/268bf29e-b9d6-4267-bc86-230f4edfb80b"
+  ],
+  "dct_issued_s": "2021-10-26",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/268bf29e-b9d6-4267-bc86-230f4edfb80b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Biodiversity of the snow crab trawl survey in Baie Sainte-Marguerite, northern Gulf of St-Lawrence",
+  "gbl_mdModified_dt": "2026-09-24T18:30:48Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "492eb6a6-cf33-5192-8fbf-a81794238f62",
+  "locn_geometry": "ENVELOPE(-66.79832752, -66.35146346, 50.2327533, 49.97760114)",
+  "schema_provider_s": "Open Data Canada"
+}

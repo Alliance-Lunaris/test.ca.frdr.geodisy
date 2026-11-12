@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-82.975837, -79.712511, 46.443087, 44.759468)",
+  "dcat_keyword_sm": [
+    "Antrostomus vociferus",
+    "Ecology",
+    "Habitat suitability modelling",
+    "Maximum Entropy",
+    "Biogeography",
+    "Species distribution modelling",
+    "Multi-Criteria Decision Analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Grieve, Paul (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Habitat suitability modelling has become an increasingly valuable tool for understanding species-habitat associations and for identifying the spatial arrangement of suitable habitat, particularly for species that are data-limited. The Eastern Whip-poor-will (Antrostomus vociferus) is a cryptic and nocturnal member of the nightjar family, is legally listed as Threatened under Canada's Species at Risk Act, and is associated with semi-open patchy forests. This study evaluated habitat suitability for A. vociferus nesting habitat in the eastern Georgian Bay region using two independent modelling frameworks: a data-driven ecological niche model MaxEnt and an expert-derived multi-criteria decision analysis (MCDA). Occurrence records from eBird, the Breeding Bird Survey, and targeted local surveys informed MaxEnt model fitting and validated the MCDA suitability map. Environmental predictors included distance to canopy openings, canopy cover variability, forest age, slope, land cover, and dominant tree species. MaxEnt identified distance to opening as the strongest predictor of occurrence, with predicted suitability further influenced by canopy heterogeneity and slope (AUC = 0.73). The MCDA framework emphasized canopy heterogeneity as the dominant influence and classified 91% of the landscape in the three intermediate suitability classes, with 53% of validation points falling within suitable or highly suitable classes. Despite methodological differences, both models classified 7% of the landscape as highly suitable habitat with largely concordant spatial patterns. Highly suitable habitats were concentrated in rock barrens and regenerating forests. The predicted suitability maps produced in this study provide land managers with a spatially explicit tool to prioritize future surveys, land purchase, and recovery planning for the Eastern Whip-poor-will across the Georgian Bay region."
+  ],
+  "dct_identifier_sm": [
+    "1124716_73894_115983",
+    "https://doi.org/10.5683/SP3/ZKNNCN"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZKNNCN\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Modelling Critical Habitat for the Eastern Whip-poor-will (Antrostomus vociferus) in Georgian Bay, Ontario: Comparing the Maximum Entropy Model and Multi-Criteria Decision Analysis Framework",
+  "gbl_mdModified_dt": "2026-04-28T16:34:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5238148-8cfd-5798-903e-f083f0bcbfdc",
+  "locn_geometry": "ENVELOPE(-82.975837, -79.712511, 46.443087, 44.759468)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

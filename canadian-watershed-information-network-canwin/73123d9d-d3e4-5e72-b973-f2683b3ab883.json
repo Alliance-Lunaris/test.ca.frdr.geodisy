@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.25, -78.92, 44.35, 42.91)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The main radar covering the Toronto Area is the King City Doppler Dual-Polarization C-Band radar (43.96388, -79.57416).  Other nearby radars include the Exeter Doppler C-Band radar (43.37027,-81.38416) and the Buffalo Doppler Dual-Polarization S-Band radar (42.94889,-78.73667) from the United States.\r\n\r\nThough the primary radar for the project is the King City radar, the raw data from all three radars are included in their native format (IRIS or Nexrad Level 2) and are intended for radar specialists. The data is available from May 1 2015 to Sept 30 2015.  The scan strategy for each radar is different, with at least 10 minute scan cycles or better.  The user should consult with a radar specialist for more details.\r\n\r\nReflectivity and radial velocity images (presented as a pair) for the lowest elevation angle (0.5o) centred on a 128 km x 128 km box around from the King City radar are provided for general use.  Besides their normal use as precipitation observations, they are particularly useful to identify Lake Breezes as weak linear reflectivity and as radial velocity discontinuity features for the entire period.  The target providing the radar returns are insects. Analysis indicates the presence of Lake Breezes on 118 days, only 35 days did not have any kind of lake breeze-like features. \r\n\r\nDaily movies have been created.  The format of the single images is PNG and the movies is an animated GIF.\r\n\r\nThe data is organized by radar and by day in the following structure.\r\n\r\nThe raw data is organized in the following directory structure:\r\nRADAR -> <WKR|WSO|BUF> -> YYYY -> YYYYMM -> YYYYMMDD; where YYYY is the appropriate year (always 2015), MM is the month, DD is the day.\r\n\r\nThe images are organized as:\r\nRADAR -> QUICKLOOK -> YYYY -> YYYYMM -> YYYYMMDD; where YYYY is the year, MM is the month, DD is the day.  The movies are located in the YYYYMMDD folders and are named as YYYYMMDD_movie.gif"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/cbe2ac22-c492-43e2-9187-3e95fcbb2f99"
+  ],
+  "dct_issued_s": "2018-03-21",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/cbe2ac22-c492-43e2-9187-3e95fcbb2f99\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "RADAR data - TO2015 Pan and Parapan American Games",
+  "gbl_mdModified_dt": "2018-03-21T18:01:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "73123d9d-d3e4-5e72-b973-f2683b3ab883",
+  "locn_geometry": "ENVELOPE(-80.25, -78.92, 44.35, 42.91)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

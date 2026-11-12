@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Climate modeling",
+    "Land-atmosphere",
+    "Global precipitation",
+    "evapotranspiration"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Buchovecky, Benjamin G (University of Washington). ORCID: https://orcid.org/0009-0006-3022-4488",
+    "Lambert, F Hugo (University of Exeter).",
+    "Zarakas, Claire M (University of Washington).",
+    "Laguë, Marysa M (University of British Columbia).",
+    "Koven, Charlie D (Lawrence Berkeley National Laboratory).",
+    "Fung, Inez Y (University of California, Berkeley).",
+    "Bonan, David B (University of Washington).",
+    "Swann, Abigail L S (University of Washington)."
+  ],
+  "dct_description_sm": [
+    "<b>Methods</b><br /><p>The CESM2 PI PPE, described further in Zarakas et al. (2024), was run at 1.9° by 2.5° resolution in a coupled atmosphere-land-slab-ocean configuration under preindustrial boundary conditions using the Community Land Model Version 5 (CLM5; Lawrence et al. 2019), the Community Atmosphere Model Version 6 (CAM6; Bogenshutz et al. 2018), and a slab ocean model (SOM; Danabasoglu and Gent 2009). The perturbed parameter files are included in addition to the output for the CESM2 PI PPE. The HadCM3 PPE contains two scenarios: one forced with historical greenhouse gas emissions and aerosol concentrations from 1850-1990 and the other forced with projected atmospheric CO2 emissions from the 1990-2100 A1B SRES scenario (Nakicenovic et al. 2000). HadCM3 was run in a configuration using a flux-adjusted version of HadCM3 (Gordon et al. 2000) with fully dynamic atmosphere and ocean components coupled to a land surface model with dynamic vegetatino (TRIFFID; Cox 2001, Cox et al. 2000).</p>",
+    "<p><b>Dryad version number:</b> 6</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/dataset/doi:10.5061/dryad.8kprr4z23</p>\n<p><b>Storage size:</b> 2264137199</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Both canonical theory and climate model simulations predict an increase in globally averaged precipitation with warming from radiative forcing. However, terrestrial processes control surface water and energy fluxes, and therefore can impact surface temperatures independently of radiative forcing. Here, we investigate the sensitivity of the global hydrological cycle to changes in land surface conditions using perturbed parameter ensembles from two climate models, which sample a broad range of evapotranspiration (ET) states through modifications to land model parameters. The parameters are perturbed within the range of observationally-constrained uncertainty and alter ET through different land surface pathways. We find that reduced ET drives warming and decreases land-mean precipitation, which is strongly linked to large decreases in near-surface relative humidity. The decline in relative humidity from warming overcomes increased specific humidity and moisture convergence over land driven by enhanced moisture following Clausius-Clapeyron scaling and shifts in large-scale circulation. We explain the tropical precipitation response to ET forcing with a simple scaling that relates changes in the land-ocean contrast in relative humidity to land-mean precipitation change. Further, the suppressed ET induces a shortwave cloud response that amplifies warming. Our results highlight that changes to land surface processes within parametric uncertainty influence warming and precipitation, which is not directly captured by scalings of the global hydrological cycle with radiative forcing, quantifying the potential significance of terrestrial ecosystem functioning and response to climate change.</p>"
+  ],
+  "dct_identifier_sm": [
+    "1184701_1226260_150149",
+    "https://doi.org/10.5683/SP4/PDODSY"
+  ],
+  "dct_issued_s": "2026-06-18",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/PDODSY\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: \"Reduced evapotranspiration decreases land precipitation despite enhanced moisture convergence: Insights from perturbed parameter ensembles of earth system models\"",
+  "gbl_mdModified_dt": "2026-06-18T14:40:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "701fbbc5-26b2-5d60-a2e9-8d38928f18b4",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

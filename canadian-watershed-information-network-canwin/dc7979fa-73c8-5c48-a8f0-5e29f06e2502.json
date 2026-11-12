@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-104.8621, -88.8124, 60.2572, 48.6301)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The lightweight web app shows the locations of several river and lake stations where water levels and/or flow data are collected in Manitoba.  \n  \n  The web map shows the locations of several river and lake stations where water levels and/or flow data are collected. When you click on a location on this map, a pop-up box will appear.  The pop-up box contains various water level and/or flow data, as well as forecast information. Please note these conditions regarding the information contained in the pop-up boxes:The information on this map is updated daily at 1:00 pm during the spring runoff period, based on water levels and flows collected earlier in the morning.  The water levels and flows should be considered preliminary data as they could be affected by ice, wind, or monitoring equipment malfunctions. While the department undertakes due diligence in utilizing this data, final quality control checked data is published by Water Survey of Canada, our main data provider, after the spring runoff.  Forecasted peak information is the most recent data available. Forecasts are evaluated daily and any updates are included in the Daily Flood Sheets and the Flood Report; both of these are available on the Manitoba Flood Forecast website. If the updated forecasts will not be available until later in the afternoon, the forecasted peak information in the pop-up boxes will be from yesterday’s Daily Flood Sheets.Pop-up boxes include the following information: Station Name: station name where the water level and/or flow data are collected Station ID: unique identifier for the station Flood Alert: indicates if the current water level is over the flood stage, over the river bank but below the flood stage, or below the river bank.  Last Update: date that water level and/or flow data was collected  Flow: measured or calculated flow in cubic feet per second  Level: measured water level in feet  Forecasted Flow: the forecasted peak flow in cubic feet per second Forecasted Level: the water level at the forecasted peak in feet Peak Date: date when the peak is forecasted to occur Flood Stage (dike level) (ft): the water level (ft) at which flow overtops community flood protection dike-structures Bankfull Capacity - flow (cfs): the approximate flow (in cubic feet per second) when the water level is at the top of the bank  Bankfull Capacity - level (ft): the water level (in feet)  when the water is at the top of the bank Reference Years:  years when the peak water levels were similar to the forecasted peak water level this year“Flood Alert” definitions:  Flood Warning: A flood warning is issued when water levels are above or expected to be above channel capacity within the next 24 hours, resulting in minor to major flooding. Water is beyond the channel capacity and expected to flood adjacent areas, agricultural fields and/or infrastructure in the area.  High Water Advisory / Flood Watch: A high water advisory is issued when water levels are above seasonal levels. A High Water Advisory can be an early indicator for conditions that may develop into a Flood Watch. A flood watch is issued when water levels are nearing channel capacity, but not expected to reach channel capacity within the next 24 hours. Minor to no flooding is expected at these levels, but water may begin to overflow into nearby low-lying marshland, parkland or floodplain areas with little to no impact. A Flood Watch can be an early indicator for conditions that may develop into a Flood Warning.   Above Community Flood Protection Level: Water levels are above or projected to be above the community dike levels within 24 hours, causing major flooding."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ea297f31-87a3-29bf-d691-d1d4200a0e5f"
+  ],
+  "dct_issued_s": "2023-05-24",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ea297f31-87a3-29bf-d691-d1d4200a0e5f\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba River Conditions and Forecasts Web App",
+  "gbl_mdModified_dt": "2025-02-05T19:11:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc7979fa-73c8-5c48-a8f0-5e29f06e2502",
+  "locn_geometry": "ENVELOPE(-104.8621, -88.8124, 60.2572, 48.6301)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

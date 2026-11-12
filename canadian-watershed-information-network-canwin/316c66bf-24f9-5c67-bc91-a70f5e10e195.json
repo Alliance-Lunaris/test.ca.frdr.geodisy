@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.0, -53.9999750000001, 62.99999999923507, 49.999974999068215)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "### #Des hydrocoherent numerical terrain models (MNT-HC) are also offered south of the 52nd parallel. They are accessible via the [High Resolution Quebec Hydrographic Network Geobase (GRHQ-HR)] (https://www.donneesquebec.ca/recherche/dataset/geobase-du-reseau-hydrographique-du-quebec-a-haute-resolution-grhq-hr) \n\nThese hydrocoherent numerical terrain models (DTM — HC) offer a regional numerical representation of Quebec relief based on altimetric (altitude) and planimetric (rectangular or geographic) data. They are the result of a collaboration between the Ministry of Natural Resources and Forests (MRNF) and Natural Resources Canada (NRCan) within the framework of the Agreement to produce an up-to-date digital map of northern Quebec and the creation of the product “National Hydro Network (RHN)” for the territory of Quebec.\n\nWhen integrated into a geographic information system, these models allow the implementation of multiple types of spatial analyses such as natural risks, landscape analysis, infrastructure implementation, etc.\n\nHydrocoherent MNTs are obtained as a result of hypsometric and hydrographic data processing that uses the concept of hydrocoherence, which consists in interpolating altimetric values by ensuring a connected drainage network and an accurate representation of ridges and watercourses. The oriented RHN filament makes it possible to grade lakes and to control the altimetric descent of watercourses. The final product is a quality portrait of relief on a scale of 1/50,000. DMTs provide altitude values that are based on a grid with a resolution of 0.324 arcseconds in geographic coordinates, which corresponds to a resolution of about 10 meters in the field.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/50ea1add-c7d3-4425-a695-e49618cf7ffe"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/50ea1add-c7d3-4425-a695-e49618cf7ffe\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Hydrocoherent numerical terrain models at the regional scale",
+  "gbl_mdModified_dt": "2026-10-07T17:35:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "316c66bf-24f9-5c67-bc91-a70f5e10e195",
+  "locn_geometry": "ENVELOPE(-80.0, -53.9999750000001, 62.99999999923507, 49.999974999068215)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

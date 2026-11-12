@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(108.963937, 109.761641, -0.211553, -1.09899)",
+  "dcat_keyword_sm": [
+    "Suitability Analysis",
+    "Soil Carbon",
+    "Conservation",
+    "Above Ground Biomass",
+    "Forest loss",
+    "Mangroves"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Evans, Joshua (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Here I document a method for determining priority conservation areas using a suitability analysis combining data sources on surrounding forest loss (Global Forest Change Database), mangrove loss (Global Mangrove Watch), soil carbon content (Global Mangrove Soil Database), and above ground biomass (Global Mangrove Above Ground Biomass Database) that was applied to 96 of Blue Ventures (BV) global locally managed marine areas. The site determined to be the highest conservation priority was the Kubu Raya region of Indonesia with the highest suitability score across all sites (0.8 compared to 0.39). This was a result of the large loss of mangroves within the region (1161 Ha from 1996-2016), its vast soil carbon stock (2 \\times\\ {10}^8\\ Mg), and above ground biomass (9.7 \\times\\ {10}^5\\ Mg). Mangrove dynamics were also further quantified by classifying composites from 2000-2001 using 800 CRA’s, and 8 different spectral indices to inform a random forest classifier. There was calculated to be 5718 Ha of loss with 6315 Ha of gain within the same period, however the loss metric was determined to be more reliable with 1114 Ha of loss within known logging concessions. This analysis represents a consistent and replicable workflow for determining priority target areas and quantifying dynamics for informing mangrove forest conservation programs for any site around the world\n\nThis dataset comprises a) the Landsat composites for 2000 and 2021 that I created, b) the Classificaition Reference Areas (CRA's) I used to inform the random forest classifier, c) the output classified images for 2000 and 2021, d) a raster indicating mangrove loss between the two periods and, d) a raster indicating mangrove gain between the two period. Further information can be found in the readme file and full text."
+  ],
+  "dct_identifier_sm": [
+    "329715_73894_115983",
+    "https://doi.org/10.5683/SP3/AY5LC4"
+  ],
+  "dct_issued_s": "2022-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AY5LC4\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kubu Raya Regency"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Determining conservation priority areas for mangrove conservation and quantifying mangrove dynamics",
+  "gbl_mdModified_dt": "2022-04-22T17:51:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e269d677-0318-51b8-b6b7-79f34bce6aa7",
+  "locn_geometry": "ENVELOPE(108.963937, 109.761641, -0.211553, -1.09899)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

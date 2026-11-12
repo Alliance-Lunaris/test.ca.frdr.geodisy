@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.979795, -75.668075, 44.481185, 43.059501)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Regional Deterministic Wave Prediction System (RDWPS) produces wave forecasts out to 48 hours in the future using the third generation spectral wave forecast model WaveWatch III® (WW3). The model is forced by the 10 meters winds from the High Resolution Deterministic Prediction System (HRDPS). Over the Great Lakes, an ice forecast from the Water Cycle Prediction System of the Great Lakes (WCPS) is used by the model to attenuate or suppress wave growth in areas covered by 25% to 75% and more than 75% ice, respectively. Over the ocean, an ice forecast from the Regional Ice Ocean Prediction System (RIOPS) is used: in the Northeast Pacific, waves propagate freely for ice concentrations below 50%, above this threshold there is no propagation; in the Northwest Atlantic the same logic is used as in the Great Lakes. Forecast elements include significant wave height, peak period, partitioned parameters and others. This system includes several domains: Lake Superior, Lake Huron-Michigan, Lake Erie, Lake Ontario, Atlantic North-West and Pacific North-East."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/38414289-4beb-4854-af58-5ab3b66665eb"
+  ],
+  "dct_issued_s": "2023-05-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/38414289-4beb-4854-af58-5ab3b66665eb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Regional Deterministic Wave Prediction System - Lake Ontario",
+  "gbl_mdModified_dt": "2024-04-04T19:53:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4753bd95-d7a6-5701-a00c-4e32b263865d",
+  "locn_geometry": "ENVELOPE(-79.979795, -75.668075, 44.481185, 43.059501)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

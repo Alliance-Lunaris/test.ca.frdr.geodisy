@@ -1,0 +1,58 @@
+{
+  "dcat_keyword_sm": [
+    "Picea glauca",
+    "Picea engelmannii",
+    "present day",
+    "divergence",
+    "Engelmann spruce",
+    "lodgepole pine",
+    "Pinus contorta",
+    "gene expression",
+    "white spruce",
+    "RNAseq"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yeaman, Sam (University of British Columbia, University of Calgary).",
+    "Hodgins, Kathryn A. (University of British Columbia, Monash University).",
+    "Suren, Haktan (Virginia Tech).",
+    "Nurkowski, Kristin A. (University of British Columbia, Monash University).",
+    "Holliday, Jason A. (Virginia Tech).",
+    "Rieseberg, Loren H. (University of British Columbia, Indiana University Bloomington).",
+    "Aitken, Sally N. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/m-fbM7yL5WGr5nIc3UEq12V3CAWMwB4SQIAR9nF9j4s</p>\n<p><b>Storage size:</b> 204718708</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Species respond to environmental stress through a combination of genetic adaptation and phenotypic plasticity, both of which may be important for survival in the face of climatic change. By characterizing the molecular basis of plastic responses and comparing patterns among species, it is possible to identify how such traits evolve. Here, we use de novo transcriptome assembly and RNA-seq to explore how patterns of gene expression differ in response to temperature, moisture, and light regime treatments in lodgepole pine (Pinus contorta) and interior spruce (a natural hybrid population of Picea glauca and Picea engelmannii). We found wide evidence for an effect of treatment on expression within each species, with 6,413 and 11,658 differentially expressed genes identified in spruce and pine, respectively. Comparing patterns of expression among these species, we found that 74% of all orthologs with differential expression had a pattern that was conserved in both species, despite 140 million years of evolution. We also found that the specific treatments driving expression patterns differed between genes with conserved vs. diverged patterns of expression. We conclude that natural selection has likely played a role in shaping plastic responses to environment in these species.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">data for: Conservation and divergence of gene expression plasticity following ~140 million years of evolution in lodgepole pine (Pinus contorta) and interior spruce (Picea glauca and Picea engelmannii)</h4><div class=\"o-metadata__file-description\">This archive includes raw data and scripts used for the paper. .dat files contain annotation information in blast2go format.</div><div class=\"o-metadata__file-name\">lodgepole_pine_interior_spruce_RNAseq_archive.tar.gz</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151528_150149",
+    "https://doi.org/10.5683/SP2/SEGIO1"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/SEGIO1\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Conservation and divergence of gene expression plasticity following c. 140 million years of evolution in lodgepole pine (Pinus contorta) and interior spruce (Picea glauca × Picea engelmannii)",
+  "gbl_mdModified_dt": "2021-05-19T23:20:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "20d251b0-0d31-5b51-ab39-e05a8fe90255",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

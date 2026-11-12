@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.0, -57.0, 53.0, 44.0)",
+  "dcat_keyword_sm": [
+    "Hydrogeology",
+    "Régions froides--Climat",
+    "Hydrogéologie",
+    "Eau souterraine--Écoulement--Mesure",
+    "Cold climates",
+    "2000-2022",
+    "Groundwater level fluctuations",
+    "Groundwater flow--Measurement",
+    "GB1197.7",
+    "Zones humides--Facteurs climatiques"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Dubois, Emmanuel (UQAM | Université du Québec à Montréal, EPFL, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-4896-6368",
+    "Larocque, Marie (UQAM | Université du Québec à Montréal, UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0001-9906-3535"
+  ],
+  "dct_description_sm": [
+    "All data presented in the dataset in the post-processed form of pretreated time series of groundwater levels and average daily precipitation and temperature for each region of the study area were provided by the Quebec Ministry of the Environment (MELCCFP). They are not under a CC BY licence and are provided for reproduction purposes only.\nThe entire dataset of observation wells can be accessed here: https://www.donneesquebec.ca/recherche/dataset/rsesq",
+    "The dataset contains all the data used in the associated article “Contribution of standardized indexes to understand groundwater level fluctuations in response to meteorological conditions in cold and humid climates” by Dubois and Larocque (2024). The dataset contains (1) the shapefile of the study area, (2) the metadata of the 152 wells used in the analyses, (3) the pretreated monthly time series of groundwater levels, (4) the aggregated monthly precipitation for each geological region, (5) the aggregated daily temperature for each geological region. The period covered corresponds to the 2000-2022 period and the geological regions corresponds to the Appalachians north, Appalachians south, St. Lawrence Platform, Canadian Shield north, and Canadian Shield south.\nGroundwater time series and interpolated climate data were provided by the Quebec Ministry of the Environment (Ministère de l’Environnement et de la Lutte contre les changements climatiques, de la Faune et des Parcs - MELCCFP). \nThe study area is located between 46°N and 52°N in the province of Quebec (Canada; 980 000 km2). The study area includes three geological provinces, the metasedimentary Appalachian Province, the sedimentary basin of the St. Lawrence Platform, and the metamorphic Grenville Province (named the Canadian Shield, its overlying region). The three geological units were further subdivided using the 47°N line as a subjective and approximative line dividing the warmer, southern Quebec (temperature>4°C) and the colder, northern Quebec (average temperature<4 °C). The resulting geological regions and sub-regions are the Appalachians North, the Appalachians South, the St. Lawrence Platform, the Canadian Shield North, and the Canadian Shield South."
+  ],
+  "dct_identifier_sm": [
+    "713480",
+    "https://doi.org/10.5683/SP3/26ROMJ"
+  ],
+  "dct_issued_s": "2024-02-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/26ROMJ\"}",
+  "dct_rights_sm": [
+    "All data are under a governmental licence (http://www.droitauteur.gouv.qc.ca/copyright.php) and are not under a CC BY licence. Permission to publish these data in a pretreated form was obtained from the data owner."
+  ],
+  "dct_spatial_sm": [
+    "Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Data for: Contribution of standardized indexes to understand groundwater level fluctuations in response to meteorological conditions in cold and humid climates",
+  "gbl_mdModified_dt": "2024-05-21T11:52:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "24e85c15-101b-5b8b-b98c-4234e6fb30aa",
+  "locn_geometry": "ENVELOPE(-80.0, -57.0, 53.0, 44.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

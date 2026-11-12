@@ -1,0 +1,39 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Boehm, Mannfred (University of British Columbia). ORCID: https://orcid.org/0000-0002-2537-3490",
+    "Jankowski, Jill (University of British Columbia).",
+    "Cronk, Quentin (University of British Columbia). ORCID: https://orcid.org/0000-0002-4027-7368"
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/Nl7BLBvARkUEHW4n8Rn_IggTBtwG0nkgHluTCEhygow</p>\n<p><b>Storage size:</b> 795531</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>A feature of biodiversity is the abundance of curves displayed by organs and organisms. Curvature is a widespread, convergent trait that has important ecological and evolutionary implications. In pollination ecology, the curvature of flowers and pollinator mouthparts (e.g. hummingbird bills) along the dorsiventral plane has been associated with specialization, competition, and species co-existence. Six methods have historically been used to measure curvature in pollination systems; we provide a solution to this inconsistency by defining curvature using well-established concepts from differential geometry. Intuitively, curvature is the degree to which a line is not straight, but more formally, it is the rate at which the tangent of a curve changes direction with respect to arc length. Here, we establish a protocol wherein a line is fitted against landmarks placed on an image of a curved organ or organism, then curvature is computed at many points along the fitted line and the sum taken. The protocol is demonstrated by studying the development of nectar spur curvature in the flowering plant genus <em>Epimedium</em> (Berberidaceae). By clarifying the definition of curvature, our aim is to make the language of comparative morphology more precise and broadly applicable to capture other curved structures in nature.</p>",
+    "<b>Usage notes</b><br /><p>This dataset is primarily an RStudio project. To run the .R files, we recommend first opening the .RProj file in RStudio and installing the package `here`. This will allow you to run all of the .R scripts without changing any of the working directories.</p>"
+  ],
+  "dct_identifier_sm": [
+    "282954_150149",
+    "https://doi.org/10.5683/SP3/H90AUA"
+  ],
+  "dct_issued_s": "2022-02-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/H90AUA\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Plant-pollinator specialization: Origin and measurement of curvature",
+  "gbl_mdModified_dt": "2022-02-03T00:07:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "23dd22ba-d292-53fb-9f49-a893d4524024",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

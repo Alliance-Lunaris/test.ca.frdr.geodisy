@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.15922599999816, -101.31672899999828, 55.04689599999905, 51.80300799999912)",
+  "dcat_keyword_sm": [
+    "forestry",
+    "forest inventory",
+    "forest",
+    "crown cover",
+    "ccover",
+    "fri",
+    "forest service",
+    "environment",
+    "ministry of environment",
+    "raster",
+    "government of saskatchewan",
+    "saskatchewan",
+    "canada",
+    "closure",
+    "forest resource inventory"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<div>Download: <a href='https://saskatchewan.maps.arcgis.com/home/item.html?id=09b45bc797ac4468acdbe2a69e13e318#' target='_blank' rel='nofollow ugc noopener noreferrer'>Here</a></div><div><br /></div><div>The\n Saskatchewan Ministry of Environment, Forest Service Branch, has \ndeveloped a forest resource inventory (FRI) which meets a variety of \nstrategic and operational planning information needs for the boreal \nplains. Such needs include information on the general land cover, \nterrain, and growing stock (height, diameter, basal area, timber volume \nand stem density) within the provincial forest and adjacent forest \nfringe. This inventory provides spatially explicit information as 10 m \nor 20 m raster grids and as vectors polygons for relatively homogeneous \nforest stands or naturally non-forested areas with a 0.5 ha minimum area\n and a 2.0 ha median area. <div><br /></div><div>Crown cover (CCOVER) is an estimate of the proportional area of the ground covered by the vertical projection of tree crowns on to the ground. CCOVER is available here as a color-mapped 16-bit unsigned integer raster grid in GeoTIFF format with a 10 m pixel resolution. An ArcGIS Pro layer file (*.lyrx) is supplied for viewing CCOVER data in the following 10 per cent categories.</div><div><br /></div><div>Domain: [NULL, 0…100].</div></div><div><br /></div><div><table><tbody><tr><td><p style='margin-top:0px; margin-bottom:0px; font-weight:bold;'>RANGE</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>LABEL</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>RED</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>GREEN</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center; font-weight:bold;'>BLUE</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>0 &lt;= CCOVER &lt; 5</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>0</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>NA</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>5 &lt;= CCOVER &lt; 15</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>10</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>224</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>242</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>241</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>15 &lt;= CCOVER &lt; 25</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>20</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>199</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>227</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>224</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>25 &lt;= CCOVER &lt; 35</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>30</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>174</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>212</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>208</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>35 &lt;= CCOVER &lt; 45</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>40</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>149</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>196</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>191</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>45 &lt;= CCOVER &lt; 55</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>50</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>124</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>181</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>175</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>55 &lt;= CCOVER &lt; 65</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>60</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>100</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>166</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>158</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>65 &lt;= CCOVER &lt; 75</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>70</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>75</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>151</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>142</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>75 &lt;= CCOVER &lt; 85</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>80</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>50</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>135</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>125</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>85 &lt;= CCOVER &lt; 95</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>90</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>25</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>120</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>109</p></td></tr><tr><td><p style='margin-top:0px; margin-bottom:0px;'>95 &lt;= CCOVER &lt;= 100</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>100</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>0</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>105</p></td><td><p style='margin-top:0px; margin-bottom:0px; text-align:center;'>92</p></td></tr></tbody></table><br /></div><div>For more information, see the <a href='https://publications.saskatchewan.ca/#/products/110320' target='_blank' rel='nofollow ugc noopener noreferrer'>Forest Inventory Standard</a> of the Saskatchewan Environmental Code, Forest Inventory Chapter.<br /></div>"
+  ],
+  "dct_identifier_sm": [
+    "f6517743c6b24f648ee9b3f8019e8add",
+    "https://www.arcgis.com/home/item.html?id=f6517743c6b24f648ee9b3f8019e8add"
+  ],
+  "dct_issued_s": "2021-03-05",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/maps/saskatchewan::fri-crown-cover\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data Licence v2.0"
+  ],
+  "dct_title_s": "FRI: Crown cover",
+  "gbl_mdModified_dt": "2025-12-07T15:53:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "08de2849-a0f6-5dcc-a9b0-5a208afea1a6",
+  "locn_geometry": "ENVELOPE(-110.15922599999816, -101.31672899999828, 55.04689599999905, 51.80300799999912)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.43926, -121.348, 49.51107, 48.99772)",
+  "dcat_keyword_sm": [
+    "Land-cover change",
+    "confusion matrix",
+    "landscape structure",
+    "perennial agriculture",
+    "data harmonization",
+    "agricultural landscapes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ezekiel, Oluwaseyi (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Agricultural landscapes in the Lower Fraser Valley, British Columbia, are undergoing structural changes driven by land-use transitions and management practices. However, few studies have explored the spatial dynamics of agricultural land-cover change, particularly shifts between annual and perennial crop types and their effects on landscape configuration in this region. This study assessed land-cover dynamics between 2015 and 2020 using two land-cover datasets: the Annual Crop Inventory and the North American Land Change Monitoring System data. The land-cover products were harmonized using a rule-based overlay that evaluated pairwise agreement between the datasets, generating consistent classifications across both time steps. The harmonization produced six land-cover classes: Water, Urban, Annual Agriculture, Perennial Agriculture, Forest, and Wetland. Results showed a decline in annual agriculture from 48,721 ha (12.5%) in 2015 to 18,062 ha (4.6%) in 2020, alongside an increase in perennial agriculture from 11,365 ha (2.9%) to 36,351 ha (9.3%). Adjacency between annual and perennial agriculture increased from 3.4% to 13.9%, indicating greater spatial integration and the development of more heterogeneous agricultural mosaics. Areas with increased interspersion between annual and perennial agriculture may represent potential locations for perennial expansion. A total of 1,542 ha of forest was converted to agriculture, primarily through small, scattered patches rather than large clearings. These patterns indicate gradual and spatially localized landscape change. The findings highlight the importance of considering both land-cover composition and spatial configuration in understanding agricultural landscape dynamics and support sustainable land management in rapidly evolving agricultural regions."
+  ],
+  "dct_identifier_sm": [
+    "1147314_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/ZCQCHD"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ZCQCHD\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "Assessing Critical Transitions in Agricultural Landscapes in the Lower Fraser Valley, British Columbia, Canada",
+  "gbl_mdModified_dt": "2026-04-28T16:25:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "741f85da-63c3-56ea-8327-5386e8193ba6",
+  "locn_geometry": "ENVELOPE(-123.43926, -121.348, 49.51107, 48.99772)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

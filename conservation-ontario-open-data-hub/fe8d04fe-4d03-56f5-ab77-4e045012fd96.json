@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.03044154196455, -78.97080890481871, 44.0585279046733, 43.57587767114126)",
+  "dcat_keyword_sm": [
+    "intrinsic vulnerability",
+    "highly vulnerable aquifer",
+    "TRSPA",
+    "groundwater",
+    "Source Water Protection",
+    "HVA",
+    "surface water"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SWP Highly Vulnerable Aquifer</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SWP_HIGHLY_VULNERABLE_AQUIFR_FT</span></span></p><p style='margin:0 0 4 0;'><span>An underground water supply, or aquifer, that can easily be contaminated because overlaying soil layers are thin or permeable.</span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OGF ID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric provincial identifier assigned to each object.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>Vulnerability Score</span></span></p><p><span><span>VULNERABILITY_SCORE</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(1)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The vulnerability score assigned to an aquifer. The vulnerability score value is always 6 for a highly vulnerable aquifer (HVA).</span></span></p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr><tr><td><p></td><td><p></td><td><p></td><td><p></td><td><p></td></tr></tbody></table></div></div></div></p></p></p></p></p></p></p></p></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "9b14224cdc464980b7ca398a623af993",
+    "https://www.arcgis.com/home/item.html?id=9b14224cdc464980b7ca398a623af993"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-highly-vulnerable-aquifers\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Highly Vulnerable Aquifers",
+  "gbl_mdModified_dt": "2025-03-21T20:55:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fe8d04fe-4d03-56f5-ab77-4e045012fd96",
+  "locn_geometry": "ENVELOPE(-80.03044154196455, -78.97080890481871, 44.0585279046733, 43.57587767114126)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-94.592393, -74.09438, 54.654225, 42.011697)",
+  "dcat_keyword_sm": [
+    "other",
+    "autre"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau provincial de surveillance de la qualité de l'eau (PWQMN)"
+  ],
+  "dct_creator_sm": [
+    "DataStream.",
+    "Government of Ontario, Ministry of the Environment, Conservation and Parks (MECP)."
+  ],
+  "dct_description_sm": [
+    "The Provincial (Stream) Water Quality Monitoring Network (PWQMN) measures water quality in rivers and streams across Ontario. Over 400 locations are currently monitored in partnership with Ontario's Conservation Authorities, Severn Sound Environmental Association, and other agencies. . Partners collect water samples on an approximately monthly basis and deliver them to the Ministry's laboratory where they are analyzed for a suite of water quality constituents. The program has been operating since 1964 providing a valuable database for tracking changes in water quality over time. More recently, special studies have been implemented in agricultural and urban watersheds to collect additional information in support of source protection planning and nutrient, road salts and pesticides management.\n\nThis dataset on DataStream is an integrated version of the original source dataset (see source URL). The data have been reformatted, and PWQMN fields and vocabulary have been translated into DataStream’s standardized structure. Certain fields, such as result value detection limit and activity type, have been derived from combinations of source field values. Refer to DataStream’s result comment field for more detail about source code values. \n\nWhile most records are included, some records that are not compatible with DataStream’s schema (e.g. records with missing coordinates, records with stream condition measurements etc. ) are excluded. Additionally, adding records with new PWQMN parameters to this dataset may be delayed as DataStream’s schema may need to be updated. For the most complete and up-to-date version of the dataset, users should refer to the original source (see source URL).\nPlease reach out to the PWQMN and DataStream team if you want to learn more about how the data is mapped between the two systems.",
+    "Le Réseau provincial de surveillance de la qualité de l'eau (cours d'eau) (PWQMN) mesure la qualité de l'eau dans les rivières et les ruisseaux de l'Ontario. Plus de 400 sites sont actuellement surveillés en partenariat avec les offices de protection de la nature de l'Ontario, la Severn Sound Environmental Association et d'autres agences.. Les partenaires collectent des échantillons d'eau environ une fois par mois et les livrent au laboratoire du ministère où ils sont analysés pour déterminer la qualité de l'eau. Le programme fonctionne depuis 1964 et fournit une base de données précieuse pour suivre l'évolution de la qualité de l'eau au fil du temps. Plus récemment, des études spéciales ont été menées dans des bassins hydrographiques agricoles et urbains afin de recueillir des informations supplémentaires à l'appui de la planification de la protection des sources et de la gestion des nutriments, des sels de voirie et des pesticides.\n\nCe jeu de données sur DataStream est une version intégrée du jeu de données source d'origine (voir l'URL source). Les données ont été reformatées et les champs et le vocabulaire PWQMN ont été traduits dans la structure standardisée de DataStream. Certains champs, tels que la limite de détection des valeurs de résultat et le type d'activité, ont été dérivés de combinaisons de valeurs de champs sources. Reportez-vous au champ de commentaire des résultats de DataStream pour plus de détails sur les valeurs du code source. \n\nBien que la plupart des enregistrements soient inclus, certains enregistrements qui ne sont pas compatibles avec le schéma de DataStream (par exemple, les enregistrements dont les coordonnées sont manquantes, les enregistrements contenant des mesures de l'état des cours d'eau, etc.) sont exclus. En outre, l'ajout d'enregistrements avec de nouveaux paramètres PWQMN à cet ensemble de données peut être retardé car le schéma de DataStream peut avoir besoin d'être mis à jour. Pour obtenir la version la plus complète et la plus récente de l'ensemble de données, les utilisateurs doivent se référer à la source d'origine (voir l'URL de la source).\nVeuillez contacter l'équipe PWQMN et DataStream si vous souhaitez en savoir plus sur la façon dont les données sont mappées entre les deux systèmes."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/0255d51e-266f-429b-88a3-ef571eab3077"
+  ],
+  "dct_issued_s": "2020-09-01",
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/0255d51e-266f-429b-88a3-ef571eab3077\"}",
+  "dct_rights_sm": [
+    "Open Government Licence 2.0 (Ontario) https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_title_s": "Provincial Water Quality Monitoring Network (PWQMN)",
+  "gbl_mdModified_dt": "2026-07-31T16:00:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "450d4a5b-3000-5ae1-a177-c0527e136b61",
+  "locn_geometry": "ENVELOPE(-94.592393, -74.09438, 54.654225, 42.011697)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

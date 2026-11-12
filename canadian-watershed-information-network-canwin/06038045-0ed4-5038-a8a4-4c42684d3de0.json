@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Linear network representing the estimated traffic flows for roads and highways managed by the Ministry of Transport and Sustainable Mobility (MTMD). These flows are obtained using a statistical estimation method applied to data from more than 4,500 collection sites spread over the main roads of Quebec. \n\nIt includes DJMA (annual average daily flow), DJME (summer average daily flow), DJME (summer average daily flow (June, July, August, September) and DJMH (average daily winter flow (December, January, February, March) as well as other traffic data. It is important to note that these values are calculated for total traffic directions.\n\nInteractive map: \n\nSome files are accessible by querying an à la carte traffic section with a click (the file links are displayed in the descriptive table that is displayed upon click):\n\n• Historical aggregate data (PDF)\n\n• Annual reports for permanent sites (PDF and Excel)\n\n• Hourly data (hourly average per weekday per month) (Excel)\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/c77c495a-2a4c-447e-9184-25722289007f"
+  ],
+  "dct_issued_s": "2020-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c77c495a-2a4c-447e-9184-25722289007f\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Traffic flow",
+  "gbl_mdModified_dt": "2026-10-07T17:39:10Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "06038045-0ed4-5038-a8a4-4c42684d3de0",
+  "locn_geometry": "ENVELOPE(-79.505, -57.1525, 62.4179, 44.9921)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

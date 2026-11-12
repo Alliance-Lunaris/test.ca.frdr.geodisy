@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.93459550538248, -79.19725639287272, 44.05036971812149, 43.823705734931465)",
+  "dcat_keyword_sm": [
+    "wellhead protection zones",
+    "TRSPA",
+    "Source Water Protection",
+    "WHPA",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SWP Wellhead Protection Area</span></span></p><p style='font-weight:bold;margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SWP_WELLHEAD_PROTECTION_AREA_FT</span></span></p><p><span><span>Land area around a well where contaminants from land activities can reach and pollute the well water supply. Subdivided concentrically to show risk; scores range between 2 (lowest) and 10 (highest). In general, 8 or 10 indicate there is a policy for certain activities to prohibit or manage them. Wellhead protection areas are described as WHPA A: Area closest to the well, within a 100-metre radius. Land-based activities here pose the highest risk to well water. The vulnerability score is always 10. WHPA B: Contaminants from land-based activities in this area would take less than 2 years to travel to the well. Scores range between 6 and 10. WHPA C or C1: Contaminants would take less than 5 (C) or 10 (C1) years to travel to the well. Dense non-aqueous phase liquids (DNAPLs) continue to pose a threat here. The vulnerability scores range between 4 and 8. WHPA D: Contaminants would take up to 25 years to travel to the well. The vulnerability scores range between 2 and 6.</span></span></p><table><tbody><tr><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center;font-style:italic;font-weight:bold;margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OGF ID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric provincial identifier assigned to each object.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>Wellhead Protection Area ID</span></span></p><p><span><span>WHPA_ID</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The object identifier of the feature from the original Wellhead Protection Zone dataset.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>4</span></span></p></td><td><p><span><span>Area Name</span></span></p><p><span><span>AREA_NAME</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>VARCHAR2(2)</span></span></p></td><td><p style='text-align:Center;margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The name of the well head protection area or zone, as a letter code. Values usually reflect the time period for water to reach the well. Code values are described as A: 100 m radius around the well, B: up to 2 years, C: up to 5 years, C1: up to 10 years, D: up to 25 years.</span></span></p><p style='margin:16 0 4 0;'><span><span>VALID VALUES</span></span><span><span>: </span></span></p><p style='margin:3 0 3 0;'><span><span>A</span></span></p><p style='margin:3 0 3 0;'><span><span>B</span></span></p><p style='margin:3 0 3 0;'><span><span>C</span></span></p><p style='margin:3 0 3 0;'><span><span>C1</span></span></p><p style='margin:3 0 3 0;'><span><span>D</span></span></p><p></td></tr><tr><td><p><span /><span>5</span></p></td><td><p><span>Wellfield</span></p></td><td><p><span /><span>VARCHAR(</span><span>50</span><span>)</span></p></td><td><p><span /><span>No</span></p></td><td><p><span>Local name of water system</span></p></td></tr></tbody></table><p></div></div></div></p></p>"
+  ],
+  "dct_identifier_sm": [
+    "9912e24f500641ddb31bb711124399b6",
+    "https://www.arcgis.com/home/item.html?id=9912e24f500641ddb31bb711124399b6"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-wellhead-protection-areas\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP Wellhead Protection Areas",
+  "gbl_mdModified_dt": "2024-04-11T21:26:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e80a6add-1a31-5839-8f6e-d48266eff6b5",
+  "locn_geometry": "ENVELOPE(-79.93459550538248, -79.19725639287272, 44.05036971812149, 43.823705734931465)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Géophysique",
+    "Sol",
+    "Forage",
+    "Géotechnique",
+    "Investigation géotechnique",
+    "Transports Québec",
+    "Glissement de terrain",
+    "Sondage",
+    "MTMD",
+    "MTQ"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ministère des Transports et de la Mobilité durable."
+  ],
+  "dct_description_sm": [
+    "Le terme « site d’investigation géotechnique » désigne les emplacements où des données géotechniques (sondages et instrumentations) et géophysiques sont disponibles. Ces données incluent :\r\n\r\n<ul><li><b>Sites d’investigation géotechnique (site_inv_geotech_p)</b> : Sondages géotechniques produits par ou pour le ministère à partir des années 1990, provenant de la banque de données active de la Direction de la géotechnique et géologie (DGG). Les données sont ajoutées au fur et à mesure de leur validation.</li></br>\r\nCe fichier est accompagné d’une table de <b>Caractéristiques stratigraphiques (site_inv_geotech _STRATI.csv).</b> Celle-ci contient les informations stratigraphiques pour la majorité des sites et peut être reliée au fichier de localisation à l’aide de la clé primaire «NO_UNIQUE».</li></ul>\r\n\r\n<ul><li><b>Sites d’investigation géotechnique BDG (site_inv_geotech_BDG_p)</b> : Forages et sondages géotechniques provenant d’une banque de données « inactive » confiée à la DGG par le ministère des Ressources naturelles et de la Faune (MRNF), depuis le milieu des années 1980. Il s’agit de données de forages et sondages compilées par le MRNF dans les années 70 et 80 pour des campagnes de cartographie « prévisionnelle » ou « d’aptitude géotechnique des sols ».</br>\r\nComme il s’agit d’une banque de données inactive (non évolutive), il n’y a aucune mise à jour à prévoir.</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/75b512a3-864a-424c-838c-2bd37523219a"
+  ],
+  "dct_issued_s": "2019-11-05",
+  "dct_publisher_sm": [
+    "Ministère des Transports et de la Mobilité durable"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/75b512a3-864a-424c-838c-2bd37523219a\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Infrastructures",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Site d'investigation géotechnique",
+  "gbl_mdModified_dt": "2025-12-12T13:38:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9f304f70-e40c-5dba-8e27-9386ea300540",
+  "schema_provider_s": "Données Québec"
+}

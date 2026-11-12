@@ -1,0 +1,40 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Information gouvernementale",
+    "Données du Québec"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Géomatique."
+  ],
+  "dct_description_sm": [
+    "1 kilometer buffer zone around railway stations and rail yard areas.\n\n**Collection context**\n Buffer zone of 1000 meters.\n\n**Collection method**\n Applying a stamp using geoprocessing.\n\n**Attributes**\n\n* `Id` (`long`): Identifier\n* `BUFF_DIST` (`double`): Distance\n* `ORIG_FID` (`long`): FID\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Zone tampon de 1 kilomètre autour des gares et zones de triage ferroviaires.\n\n**Contexte de collecte**\n Zone tampon de 1000 mètres.\n\n**Méthode de collecte**\n Application d'un tampon par géotraitement.\n\n**Attributs**\n\n* `Id` (`long`) : Identifiant\n* `BUFF_DIST` (`double`) : Distance\n* `ORIG_FID` (`long`) : FID\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9ca08221-dc8b-4872-b3a6-c03d5cced155"
+  ],
+  "dct_issued_s": "2025-09-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9ca08221-dc8b-4872-b3a6-c03d5cced155\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Gares et zones de triage - zone tampon 1000 mètres - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:05:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3699a27a-31a2-5fd1-8956-8ab93fe4caaa",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

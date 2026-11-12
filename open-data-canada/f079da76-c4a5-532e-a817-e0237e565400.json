@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-110.6577, -100.8579, 54.273, 48.5545)",
+  "dcat_keyword_sm": [
+    "native prairie",
+    "Government information",
+    "ecoregion",
+    "moist mixed grassland",
+    "prairie",
+    "inventory",
+    "grassland",
+    "biodiversity",
+    "machine learning",
+    "raster",
+    "habitat",
+    "landcover",
+    "landscape",
+    "pli"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Inventaire des paysages de prairie (PLI) - Classification des prairies mixtes humides"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "Land cover imagery for the moist mixed grassland ecoregion of Saskatchewan with a resolution of 10m. Classification was based on machine learning analysis and remote sensing data of Sentinel-1 and Sentinel-2 imagery in Google Earth Engine platform. The goal of this land cover was to distinguish native from tame grasslands, and is classified into several classes: native grassland, tame grassland, mixed grassland, cropland, woody plants, water, and urban area.  \n  \n  Download: Here The Prairie Landscape Inventory (PLI) working team of Habitat Unit in the Fish and Wildlife Branch, Ministry of Environment aims to develop improved methods of assessing land cover and land use for conservation. Native grassland, in particular, has been one of the most hard to map at risk ecosystems because of difficulty for imagery classification methods to distinguish native from tame grasslands. Improved classification methods will provide valuable information for habitat suitability, identifying high biodiversity potential and invasion risk potential.  The classification map has seven (7) classes:  1.  Cropland This class represents all cultivated areas with crop commodities: corn, pulse, soybeans, canola, grains, summer-fallow. 2. Native grassland This class represents the native grassland areas of the Moist Mixed Grassland ecoregion, which are composed of at least 75% native grass species, such as the needle grasses, wheatgrasses along with June grass and blue grama grass. Also includes additional sedge species, forbs, and some non-vascular species. Unbroken grassland that is invaded by species like Kentucky bluegrass, crested wheatgrass or smooth brome, such that native cover is less than 75%, is not considered native for the purpose of this project.  3. Mixed grassland This class represent a heterogenic grassland with a mix of less than 75% native grass species or less than 75% tame species.  4. Tame grassland This class represents the tame grassland areas of the Moist Mixed Grassland ecoregion, which are composed of at least 75% seeded or planted species with introduced grasses and forb species such as crested wheatgrass, smooth brome, alfalfa, sweet clover. 5. Water This class represents permanent water locations such as lakes and rivers. 8. Woody plants This class represents the sites dominated by woody vegetation including shrubs and trees with typically more than 20% canopy cover. 9. Urban area This class was masked using urban/developed area class of the Annual Crop Inventory 2020 (Agriculture Agri-Food Canada), and limited within the urban municipality polygons. Colour Classes: Value Label Red Green Blue 1 Cropland 255 255 190 2 Native grassland 168 168 0 3 Mixed grassland 199 215 158 4 Tame grassland 245 202 122 5 Water 190 232 255 8 Woody plants 137 205 102 9 Urban area 128 128 128 Accuracy metrics This model has an overall accuracy of 70.3 per cent. The table below summarizes the user’s accuracy, producer’s accuracy, and F1-score of the model on the validation dataset. Class User’s accuracy (%) Producer’s accuracy (%) F1-score Cropland 74.7 87.1 0.81 Native grassland 61.7 78.3 0.69 Mixed grassland 57.7 26.1 0.36 Tame grassland 66.9 69.8 0.68 Water 96.3 84.4 0.90 Woody plants 81.1 73.2 0.77",
+    "Imagerie de la couverture terrestre de l'écorégion des prairies mixtes humides de la Saskatchewan avec une résolution de 10 m. La classification était basée sur une analyse d'apprentissage automatique et des données de télédétection des images Sentinel-1 et Sentinel-2 sur la plateforme Google Earth Engine. L'objectif de cette couverture terrestre était de distinguer les prairies indigènes des prairies cultivées et est classée en plusieurs catégories : prairies indigènes, prairies apprivoisées, prairies mixtes, terres cultivées, plantes ligneuses, eau et zone urbaine.  \n  \n  Télécharger : Ici, l'équipe de travail sur l'inventaire des paysages des prairies (PLI) de l'Unité de l'habitat de la Direction de la pêche et de la faune du ministère de l'Environnement vise à développer de meilleures méthodes d'évaluation de la couverture terrestre et de l'utilisation des terres à des fins de conservation. Les prairies indigènes, en particulier, constituent l'un des écosystèmes à risque les plus difficiles à cartographier en raison de la difficulté des méthodes de classification par imagerie à distinguer les prairies indigènes des prairies cultivées. Des méthodes de classification améliorées fourniront des informations précieuses sur l'adéquation de l'habitat, en identifiant un potentiel de biodiversité élevé et un potentiel de risque d'invasion. La carte de classification comporte sept (7) classes : 1. Terres cultivées Cette classe représente toutes les zones cultivées consacrées à des produits agricoles : maïs, légumineuses, soja, canola, céréales, jachère d'été. 2. Prairies indigènes Cette classe représente les zones de prairies indigènes de l'écorégion des prairies mixtes humides, qui sont composées d'au moins 75 % d'espèces de graminées indigènes, telles que les graminées à aiguilles, l'agropyre de blé ainsi que l'herbe de juin et l'herbe bleue. Comprend également d'autres espèces de carex, des plantes herbacées non graminoïdes et certaines espèces non vasculaires. Les prairies intactes qui sont envahies par des espèces comme le pâturin du Kentucky, l'agropyre huppé ou le brome lisse, de sorte que le couvert naturel est inférieur à 75 %, ne sont pas considérées comme indigènes aux fins de ce projet. 3. Prairies mixtes Cette classe représente une prairie hétérogène composée de moins de 75 % d'espèces de graminées indigènes ou de moins de 75 % d'espèces apprivoisées. 4. Prairies cultivées Cette classe représente les zones de prairies cultivées de l'écorégion des prairies mixtes humides, qui sont composées d'au moins 75 % d'espèces ensemencées ou plantées avec des graminées introduites et des espèces herbacées non graminoïdes telles que l'agropyre huppé, le brome lisse, la luzerne et le mélilot. 5. Eau Cette classe représente les points d'eau permanents tels que les lacs et les rivières. 8. Plantes ligneuses Cette classe représente les sites dominés par la végétation ligneuse, y compris les arbustes et les arbres, dont le couvert forestier est généralement supérieur à 20 %. 9. Zone urbaine Cette classe a été masquée à l'aide de la classe des zones urbaines/développées de l'Inventaire annuel des cultures 2020 (Agriculture Agroalimentaire Canada), et limitée aux polygones des municipalités urbaines. Classes de couleur : étiquette de valeur rouge vert bleu 1 Terre cultivée 255 255 190 2 Prairies indigènes 168 168 0 3 Prairies mixtes 199 215 158 4 Prairies cultivées 245 202 122 5 Eau 190 232 255 8 Plantes ligneuses 137 205 102 9 Zone urbaine 128 128 128 Mesures de précision Ce modèle a une précision globale de 70,3 %. Le tableau ci-dessous résume la précision de l'utilisateur, la précision du producteur et le score F1 du modèle sur l'ensemble de données de validation. Classe Précision de l'utilisateur (%) Précision du producteur (%) Score F1 Terres cultivées 74,7 87,1 0,81 Prairies indigènes 61,7 78,3 0,69 Prairies mixtes 57,7 26,1 0,36 Prairies cultivées 66,9 69,8 0,68 Eau 96,3 84,4 0,90 Plantes ligneuses 81,1 73,2 0,77  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/0717c96e-4810-0ac9-2b63-9873720e2e9e"
+  ],
+  "dct_issued_s": "2023-02-16",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/0717c96e-4810-0ac9-2b63-9873720e2e9e\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Prairie Landscape Inventory (PLI) - Moist Mixed Grassland Classification",
+  "gbl_mdModified_dt": "2025-02-26T13:10:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f079da76-c4a5-532e-a817-e0237e565400",
+  "locn_geometry": "ENVELOPE(-110.6577, -100.8579, 54.273, 48.5545)",
+  "schema_provider_s": "Open Data Canada"
+}

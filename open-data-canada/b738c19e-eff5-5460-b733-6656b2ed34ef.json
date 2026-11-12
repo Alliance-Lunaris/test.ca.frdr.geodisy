@@ -1,0 +1,59 @@
+{
+  "dcat_bbox": "ENVELOPE(-148.50785074, -46.02738199, 76.64849281, 40.07514221)",
+  "dcat_keyword_sm": [
+    "Fire",
+    "CFFDRS",
+    "MCEDIF",
+    "FBP",
+    "feux de forêt",
+    "wildfire",
+    "PCI",
+    "Incendie",
+    "forêts",
+    "forests",
+    "Foresterie",
+    "Forestry",
+    "Gestion forestière",
+    "Incendie forestier ou de brousse",
+    "Incendie de forêt",
+    "fuel type",
+    "Type de combustible",
+    "forest fire",
+    "Forest management",
+    "Forest fires"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Méthode canadienne d'évaluation des dangers d'incendie de forêt (MCEDIF) Types de combustibles pour la prévision du comportement des incendies (PCI) 2024"
+  ],
+  "dct_creator_sm": [
+    "Sam LaCarte."
+  ],
+  "dct_description_sm": [
+    "A National Forest Fire Behaviour Prediction (FBP) Fuel Type (FT) layer, representing fuel types as described in the Canadian Forest Fire Danger Rating System (CFFDRS) Canada-wide. This data is developed through the Spatialized Canadian National Forest Inventory (SCANFI) dataset, specifically the updated SCANFI version 2.0. The Fuel Type layer is produced at variable resolution to best meet the needs of users: 30m (default) and 100m (ideal for fire growth modelling).\nThe purpose of this dataset is to characterize Canadian forests into Fuel Types for use in various applications, including wildland fire management, research, fuel management, and more. This layer is primarily developed to support national scale applications and uses but can be utilized for localized landbases and adapted as required.\nThis data represents the most up-to-date national product and is updated annually prior to the start of the fire season to incorporate burned area and additional data from the previous year. This data will be updated annually and published online by April 30th of each year.\nNote: In this product Slash fuel types (S-1, S-2, and S-3) are not represented. Conifer Plantation (C-6) is not represented. \nRaster Grid Value 13 represents vegetated fuels without an effective match to an existing FBP Fuel Type under this ruleset. Grid Value 11 (corresponding to D-1 Leafless Aspen) is assumed to represent true Deciduous fuels as described in the FBP system.",
+    "Une couche des types de combustibles (TC) utilisés pour la prévision du comportement des incendies (PCI) dans la forêt nationale, représentant des types de combustibles tels qu’ils sont décrits dans la Méthode canadienne d’évaluation des dangers d’incendies de forêt (MCEDIF), et ce, sur l’ensemble du territoire canadien. Cette couche est basée sur le jeu de données de l’Inventaire forestier national canadien spatialisé (SCANFI). La couche de types de combustibles est produite à différentes résolutions spatiales pour répondre aux besoins des utilisateurs : 30 m (réglage par défaut) et 100 m (idéale pour les modèles de propagation du feu).\nL’objectif de ce jeu de données est de caractériser les forêts canadiennes en types de combustibles pour être utile dans diverses applications, tels que la gestion de feux de forêt, la recherche, la gestion de combustibles, et plus encore.\nCette couche de types de combustibles représente le produit national le plus récent. Elle est mise à jour chaque année avant le début de la saison des feux, afin d’intégrer les améliorations apportées à la logique des types de combustibles, ainsi que les perturbations forestières telles que les zones brûlées, les récoltes et potentiellement d’autres jeux de données d’intérêt. Une mise à jour annuelle de ces données sera publiée en ligne avant le 30 avril de chaque année.\nRemarque: Les types de combustibles rémanents (S-1, S-2, et S-3) ainsi que la plantation de conifères (C-6) ne sont pas représentés dans ce produit.\nLa valeur 13 dans la carte matricielle représente des combustibles végétaux qui ne correspondent pas à un type de combustible PCI existant selon ce jeu de règles. La valeur 11 (correspondant aux peupliers faux-trembles sans feuilles D-1) est considérée comme véritablement représentative des types de combustibles feuillus décrits dans la MCPCI."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/851e6a27-a250-41e6-9cd0-d7ff96455dd6"
+  ],
+  "dct_issued_s": "2026-05-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/851e6a27-a250-41e6-9cd0-d7ff96455dd6\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Canadian National Fire Behaviour Prediction (FBP) Fuel Type (FT) Layer - Current Year",
+  "gbl_mdModified_dt": "2026-07-23T13:31:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b738c19e-eff5-5460-b733-6656b2ed34ef",
+  "locn_geometry": "ENVELOPE(-148.50785074, -46.02738199, 76.64849281, 40.07514221)",
+  "schema_provider_s": "Open Data Canada"
+}

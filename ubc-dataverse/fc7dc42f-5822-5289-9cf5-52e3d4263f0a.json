@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "selective sweep",
+    "Diffusion equations",
+    "deleterious mutations",
+    "Genetic Hitchhiking",
+    "Hill-Robertson effects"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Hartfield, Matthew (University of Edinburgh, French National Centre for Scientific Research).",
+    "Otto, Sarah P. (Department of Zoology, 6270 University Blvd,, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/8dGqJEgzUrjETdHfypB7F2BkzzkF4xXNW7m10NClShg</p>\n<p><b>Storage size:</b> 32889</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>When new advantageous alleles arise and spread within a population, deleterious alleles at neighbouring loci can hitchhike alongside them and spread to ﬁxation in areas of low recombination, introducing a ﬁxed mutation load. We use branching processes and diffusion equations to calculate the probability that a deleterious allele hitchhikes and ﬁxes alongside an advantageous mutant. As expected, the probability of ﬁxation of a deleterious hitchhiker rises with the selective advantage of the sweeping allele and declines with the selective disadvantage of the deleterious hitchhiker. We then use computer simulations of a genome with an inﬁnite number of loci to investigate the increase in load after an advantageous mutant is introduced. We show that the appearance of advantageous alleles on genetic backgrounds loaded with deleterious alleles has two potential effects: it can ﬁx deleterious alleles and also facilitate the persistence of recombinant lineages that happen to occur. The latter is expected to reduce the signals of selection in the surrounding region. We consider these results in light of human genetic data to infer how likely it is that such deleterious hitchhikers have occurred in our recent evolutionary past.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Simulations</h4><div class=\"o-metadata__file-description\">ZIP file containing the source code (written in C) for the three main simulations used in the paper (two-locus hitchhiking simulation; three-locus simulation with neutral locus; multi-locus simulation).</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153360_150149",
+    "https://doi.org/10.5683/SP2/NB2KLF"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/NB2KLF\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Recombination and hitchhiking of deleterious alleles",
+  "gbl_mdModified_dt": "2021-05-19T19:35:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fc7dc42f-5822-5289-9cf5-52e3d4263f0a",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

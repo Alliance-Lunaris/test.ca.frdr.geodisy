@@ -1,0 +1,35 @@
+{
+  "dcat_bbox": "ENVELOPE(-81.6040086584009, -80.55528405710396, 46.881810464865815, 46.199174009180666)",
+  "dcat_keyword_sm": [
+    "Building",
+    "Address"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "GIS Administrator."
+  ],
+  "dct_description_sm": [
+    "<span style='font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Noto Sans&quot;, Ubuntu, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; color:rgb(23, 43, 77); font-size:14px;'>A map and list of addresses in Greater Sudbury. The address point file is a point representation of over 60,000 primary and secondary addresses within the City of Greater Sudbury. Data includes addresses on primary structures (e.g. houses and businesses) and secondary address points which represent buildings that are more than 250 ft. from a primary structure. Updated daily as changes are made to our source data.</span><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><ul><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>OBJECTID/ADDRESSID</b> - Simply Unique Identifiers</span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>STYPE </b>- Primary or Secondary. Primary identify a place or residence. </span></font>which represent buildings that are more than 250 ft. from a primary structure. </li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>ADDRESSLIFECYCLESTATUS - </b>Typically Active or Retired. Retired Addresses may occur on lot splits or during address validation exercises<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><b>ADDRESSALIAS - </b><span style='font-family:inherit; font-size:14px;'>Where the full text address may have another 'known' name (ex: 3720 Municipal Road 80, 3720 Highway 69 North)</span><br /></font></li><li><font color='#172b4d' style='font-family:inherit;'><b>ADDRESSNUMBERPREFIX - </b><span style='font-family:inherit; font-size:14px;'>Prefix to a full text address. ( <i>AddressNumber AddressNumberPrefix Streetname Addressnumbersuffix)</i></span><br /></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>ADDRESSNUMBER- </b>The address number,<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>ADDRESSNUMBERSUFFIX </b>- Suffix to the full text address ( <i>AddressNumber AddressNumberPrefix Streetname Addressnumbersuffix)</i><br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>COMMUNITY - </b>Community that the point belongs too.<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>LASTUPDATE - </b>Any time the data point is moved or attribute information is updated this field gets timestamped.<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>CREATEDATE - </b>When the data point gets created this field gets timestamped.<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>ASSIGNEDADDRESSID - </b>The “AssignedAddressID” represents a relationship between addresses and commercial or residential units that fall within. The “AssignedAddressID”, where relevant, will equal the “AddressID” of the appropriate address. <br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>UNIT_OR_AMENITY - </b>Field to aid in filtering data based on the point.<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>UNIT_AMENITY_TYPE - </b>Field to aid in filtering data based on the point.<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>NAME - </b>IF an amenity was collected will contain the name of this amenity (Ex. Schoolnames, restuarant names)<br /></span></font></li><li><font color='#172b4d' style='font-family:inherit;'><span style='font-family:inherit; font-size:14px;'><b>VERIFIED_DATE - </b>Simply a timestamp identifying if the City has been requested to verify an existing address.</span></font></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "d3b94bd7d0a14b4b97b3757d1a383dd4",
+    "https://www.arcgis.com/home/item.html?id=d3b94bd7d0a14b4b97b3757d1a383dd4"
+  ],
+  "dct_issued_s": "2023-07-10",
+  "dct_publisher_sm": [
+    "GIS Administrator"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.greatersudbury.ca/datasets/Sudbury::building-roofline\"}",
+  "dct_rights_sm": [
+    "Open Data License"
+  ],
+  "dct_title_s": "Address and Building Roofline",
+  "gbl_mdModified_dt": "2024-06-27T13:51:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b7fddfa8-2331-5398-bcd2-07d5e89747c9",
+  "locn_geometry": "ENVELOPE(-81.6040086584009, -80.55528405710396, 46.881810464865815, 46.199174009180666)",
+  "schema_provider_s": "City of Greater Sudbury Open Data Portal"
+}

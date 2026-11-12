@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "7‑day",
+    "Government information",
+    "Precipitation Distribution",
+    "Forecast",
+    "Province of Manitoba",
+    "APCP",
+    "168h",
+    "Hydrology",
+    "Watershed",
+    "NCEP",
+    "SubBasins",
+    "Global",
+    "Manitoba",
+    "GFS",
+    "NOAA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Précipitations accumulées moyennes prévues par bassin (GFS - 168 heures)"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "This polygon layer presents the spatial distribution of forecasted accumulated precipitation from the Global Forecast System (GFS) over watershed sub‑basins. GFS APCP raster data are overlaid with global watershed boundaries, and zonal statistics are computed to derive average precipitation per sub‑basin over a 7‑day (168‑hour) period. This product aids in global disaster preparedness and water management planning.\n\nGFS model output is processed into APCP rasters that capture accumulated precipitation over a 7‑day forecast period. These rasters are then combined with watershed boundary data, and zonal statistics are applied to compute average precipitation for each sub‑basin. The final polygon features provide a clear depiction of global rainfall and snowfall patterns, offering critical information for disaster risk management and international water resource planning.",
+    "Cette couche polygonale présente la distribution spatiale des précipitations accumulées prévues par le Système mondial de prévisions (GFS) sur les sous-bassins versants. Les données matricielles GFS APCP sont superposées aux limites des bassins versants mondiaux, et des statistiques zonales sont calculées pour calculer les précipitations moyennes par sous-bassin sur une période de 7 jours (168 heures). Ce produit contribue à la préparation aux catastrophes mondiales et à la planification de la gestion de l'eau.\n\nLa sortie du modèle GFS est traitée dans des rasters APCP qui capturent les précipitations accumulées sur une période de prévision de 7 jours. Ces rasters sont ensuite combinés aux données relatives aux limites des bassins versants, et des statistiques zonales sont appliquées pour calculer les précipitations moyennes pour chaque sous-bassin. Les caractéristiques finales du polygone fournissent une représentation claire de la configuration mondiale des précipitations et des chutes de neige, fournissant des informations essentielles pour la gestion des risques de catastrophes et la planification internationale des ressources en eau.\n\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/563638a3-a52d-9145-528e-b59ed661b35f"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/563638a3-a52d-9145-528e-b59ed661b35f\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (GFS - 168 Hrs)",
+  "gbl_mdModified_dt": "2026-03-18T11:31:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "83192518-dc35-572b-b5a8-dc40f6ce9254",
+  "locn_geometry": "ENVELOPE(-117.421, -89.8937, 60.2238, 45.4463)",
+  "schema_provider_s": "Open Data Canada"
+}

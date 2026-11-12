@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.04448405427114, -75.34076977724666, 45.524199738990674, 45.12702645509616)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "Transit",
+    "bus shelters",
+    "benches"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p><strong>Accuracy</strong>:</p><p>&nbsp;While OC Transpo endeavors to have accurate information about bus stop locations and amenities, it is possible that some bus stop locations may not be correct, and/or may be outdated based on operational changes to bus stops onstreet. Likewise, the information about bus stop amenities is as accurate as possible, but may not represent the current condition at a bus stop. Overall, this data should not be used for planning purposes, and is for reference, only.<br /><br /><strong>Update Frequency</strong>:</p><p>This data will be updated a least once per year, as required, but may be updated as many as four times per year, aligned with OC Transpo's four annual service periods.<br /><br /><strong>Attributes</strong>:</p><p>FID: this is a bus stop identifier assigned in the mapping software, but is not the actual bus stop identification number<br />SHAPE: all bus stops are identified as point layers<br />560: This is the 4-digit \"560 number\" associated with the bus stop, and is the customer-facing bus stop identification code<br />LOCATION: This is the bus stop name, which is expressed based on the location of the bus stop<br />LATITUDE: this is the latitude coordinate for the bus stop location<br />LONGITUDE: this is the longitude coordinate for the bus stop location<br />SHELTER: This field is populated with a \"Y\" when there is a shelter present at the bus stop<br />BENCH: this field is populated with a \"Y\" when there is a bench present at the bus stop.<br /><br /><strong>Contact</strong>: <a href='mailto:michael.tracey@ottawa.ca' rel='nofollow ugc'>OC Transpo</a></p>"
+  ],
+  "dct_identifier_sm": [
+    "32d2b2cb030743b78a097c8de99700cb",
+    "https://www.arcgis.com/home/item.html?id=32d2b2cb030743b78a097c8de99700cb"
+  ],
+  "dct_issued_s": "2025-07-21",
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::oc-transpo-stops\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data"
+  ],
+  "dct_title_s": "OC Transpo Stops",
+  "gbl_mdModified_dt": "2025-08-11T17:37:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dcd8957f-d60b-5120-bf19-ccc1a6f8be59",
+  "locn_geometry": "ENVELOPE(-76.04448405427114, -75.34076977724666, 45.524199738990674, 45.12702645509616)",
+  "schema_provider_s": "Open Ottawa"
+}

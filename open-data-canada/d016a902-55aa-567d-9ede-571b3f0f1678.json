@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Canada",
+    "Précipitation",
+    "climate change",
+    "Canada",
+    "Climate change",
+    "chute de pluie",
+    "chute de neige",
+    "Changement climatique",
+    "Precipitation",
+    "rainfall",
+    "changements climatiques",
+    "snowfall"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ensemble des données quotidiennes ajustées de pluie et neige pour le Canada"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada."
+  ],
+  "dct_description_sm": [
+    "The AdjDlyRS dataset contains adjusted daily rainfall (R) and snowfall (S) data from all Canadian stations reporting rainfall and snowfall for which we have metadata to do the adjustments (Wang et al. 2017). The processing includes inspection and adjustments using quality control procedures customized for producing gridded datasets (Wang et al. 2017), including: (1) conversion of snowfall ruler measurements to their water equivalents; (2) corrections for gauge undercatch and evaporation due to wind effect, for gauge specific wetting loss, and for trace precipitation amount; and (3) treatment of flags (e.g. accumulation flags). Version 2020 or later versions of this dataset also includes identification and correction of random erroneous values, including false zeros, which usually arose from missing values being misrecorded as 0 precipitation in the climate Archive (Cheng et al. 2022). All the identified erroneous daily values are set to missing. A total of 3346 stations were processed, but the data series are not homogenized. Most of the stations are located in southern Canada and have short and/or seasonal data records. The number of stations changes over time: there are 512-958 stations in the period 1948-1964, 1012-2038 stations in the period 1965-2008, and only around 300 stations in the recent years. Note that the unadjusted/raw total precipitation data in Environment and Climate Change Canada's digital Archive underestimate more than 25% of the total precipitation in northern Canada, and about 10-15% in most of southern Canada (Wang et al. 2017).\r\n\r\nReferences: (1) Wang, X. L., Xu, B. Qian, Y. Feng, E. Mekis, 2017: Adjusted daily rainfall and snowfall data for Canada, Atmosphere-Ocean, 55:3, 155-168, DOI:10.1080/07055900.2017.1342163. (2) Cheng, V. Y.S., X. L. Wang, Y. Feng, 2022: A quality control system for historical in situ precipitation data. Atmosphere-Ocean (submitted)",
+    "L’ensemble de données AdjDlyRS contient des données ajustées sur les pluies (R) et les chutes de neige (S) quotidiennes provenant de toutes les stations canadiennes rapportant les pluies et les chutes de neige pour lesquelles nous disposons de métadonnées permettant d’effectuer les ajustements (Wang et al. 2017). Le traitement comprend l’inspection et les ajustements à l’aide de procédures de contrôle de la qualité adaptées à la production d’ensemble de données maillées (Wang et al. 2017), y compris : (1) la conversion des chutes de neige mesurées à la règle en leurs équivalents en eau; (2) des ajustements pour le sous‑captage de la jauge et l’évaporation attribuable au vent, pour la perte par mouillage propre à la jauge et pour la quantité de précipitations à l’état de trace; (3) le traitement des incidents (par exemple, l’accumulation d’incidents). Les versions 2020 et ultérieures de cet ensemble de données comprennent également la détection et la correction d’erreurs aléatoires, dont les faux zéros, qui sont généralement causés par des valeurs manquantes enregistrées erronément comme « 0 précipitation » dans les archives climatiques (Cheng et al. 2022). Toutes les valeurs quotidiennes erronées relevées ont été réglées à « manquantes ». Au total, les données provenant de 3346 stations ont été traitées, mais les séries de données ne sont pas homogénéisées. La plupart des stations sont situées dans le sud du Canada et enregistrent des données sur une courte période ou de façon saisonnière. Le nombre de stations varie au fil du temps : il y a entre 512 et 958 stations pour la période de 1948 à 1964, de 1012 à 2038 stations pour la période de 1965 à 2008, et seulement 300 stations environ dans les dernières années. Remarque : les données de précipitations totales non ajustées ou brutes des archives numériques d’Environnement et Changement climatique Canada sous-estiment plus de 25 % des précipitations totales dans le nord du Canada, et environ de 10 à 15 % dans la majeure partie du sud du Canada (Wang et al. 2017).\r\n\r\nRéférences : (1) Wang, X. L., H. Xu, B. Qian, Y. Feng, E. Mekis. (2017). Adjusted daily rainfall and snowfall data for Canada, Atmosphere-Ocean, 55:3, 155-168, DOI : 10.1080/07055900.2017.1342163. (2) Cheng, V. Y. S., X. L. Wang, Y. Feng (2022). A quality control system for historical in situ precipitation data. Atmosphere-Ocean (soumis pour publication)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305"
+  ],
+  "dct_issued_s": "2017-04-14",
+  "dct_publisher_sm": [
+    "Environment and Climate Change Canada | Environnement et Changement climatique Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/d8616c52-a812-44ad-8754-7bcc0d8de305\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Adjusted daily rainfall and snowfall dataset for Canada",
+  "gbl_mdModified_dt": "2026-08-04T17:32:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d016a902-55aa-567d-9ede-571b3f0f1678",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

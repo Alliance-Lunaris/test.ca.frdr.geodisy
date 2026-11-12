@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_keyword_sm": [
+    "Extrêmes (Météorologie)",
+    "Climatic extremes",
+    "1940-2020",
+    "réanalyse",
+    "Vagues de chaleur",
+    "QC981.8.A5",
+    "reaanalysis",
+    "global",
+    "extreme temperature",
+    "Heat waves (Meteorology)",
+    "température extrême"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Comeau, Elise (UQAM | Université du Québec à Montréal). ORCID: https://orcid.org/0009-0008-5209-8800",
+    "Di Luca, Alejandro (UQAM | Université du Québec à Montréal, Université du Québec à Montréal. Département des sciences de la terre et de l'atmosphère, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961",
+    "Roberge, François (UQAM | Université du Québec à Montréal, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-9583-5363"
+  ],
+  "dct_description_sm": [
+    "<p> The UQAM Heatwave ERA5 Archive and Temperatures (U-HEAT) catalog is a global dataset of temperature and heatwave data spanning 1940 to 2022. The temperature data features the maximum daily 2-m temperature, the 90th percentile of the maximum daily 2-m temperature, and an indication as to whether a given location (grid point) is experiencing a heatwave or not on a given day. The heatwave data includes metrics such as the duration, the cumulated intensity and the maximum intensity of heatwaves occuring in the study period as well as their location (grid point) and start date. Both the temperature and the heatwave metrics data were calculated from the ERA5 data produced by the European Centre for Medium-Range Weather Forecasts (ECMWF). More information on the catalog can be found in the documentation and the README files. </p>\n\n<p> Le catalogue <i> UQAM Heatwave ERA5 Archive and Temperatures </i> (U-HEAT) est un jeu de données global de température et de vague de chaleur pour la période entre 1940 et 2022. Les données de température comprennent le maximum quotidien de la température à 2m, le 90e percentile du maximum quotidien de la température à 2m et une indication permettant de savoir si un lieu donné (point de grille) subit ou non une vague de chaleur pour un jour donné. Les données de vague de chaleur incluent des métriques comme la durée, l'intensité cumulée et l'intensité maximale de vagues de chaleur qui se sont produites durant la période d'étude en plus de leur emplacement (point de grille) et leur date de début. Les données de température et de vague de chaleur ont été calculées à partir du jeu de données ERA5 produit par le <i> European Centre for Medium-Range Weather Forecasts </i> (ECMWF). Le fichier de documentation et le fichier README peuvent être consultés pour obtenir plus d'information à propos du catalogue. </p>"
+  ],
+  "dct_identifier_sm": [
+    "675920",
+    "https://doi.org/10.5683/SP3/Z4Y0LK"
+  ],
+  "dct_issued_s": "2023-11-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Z4Y0LK\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "UQAM-Heatwave ERA5 Archive and Temperatures (U-HEAT) Catalog",
+  "gbl_mdModified_dt": "2023-12-01T21:24:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb782d9f-cda7-5b0f-92da-7cb05186c61b",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

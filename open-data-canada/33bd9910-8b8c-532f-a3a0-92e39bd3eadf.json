@@ -1,0 +1,41 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 83.0, 41.0)",
+  "dcat_keyword_sm": [
+    "Agriculture statistics",
+    "Statistiques de l'agriculture"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données interpolées du Recensement de l'agriculture par écodistricts"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The Census of Agriculture is disseminated by Statistics Canada's standard geographic units (boundaries). Since these census units do not reflect or correspond with biophysical landscape units (such as ecological regions, soil landscapes or drainage areas), Agriculture and Agri-Food Canada in collaboration with Statistics Canada's Agriculture Division, have developed a process for interpolating (reallocating or proportioning) Census of Agriculture information from census polygon-based units to biophysical polygon-based units.  \n  \n  In the “Interpolated census of agriculture”, suppression confidentiality procedures were applied by Statistics Canada to the custom tabulations to prevent the possibility of associating statistical data with any specific identifiable agricultural operation or individual. Confidentiality flags are denoted where \"-1\" appears in data cell. This indicates information has been suppressed by Statistics Canada to protect confidentiality. Null values/cells simply indicate no data is reported.",
+    "Le Recensement de l’agriculture est diffusé selon les unités géographiques normalisées (limites) de Statistique Canada. Étant donné que ces unités de recensement ne sont ni le reflet ni l’équivalent d’unités biophysiques du paysage (les écorégions, les pédo-paysages ou les bassins versants, par exemple), Agriculture et Agroalimentaire Canada; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre, en collaboration avec la Division de l’agriculture de Statistique Canada, a mis au point un processus d’interpolation (réaffectation ou répartition au prorata) des données du Recensement de l’agriculture de façon à passer des unités polygonales de recensement à des unités polygonales biophysiques.  \n  \n  Dans les « Données interpolées du Recensement de l’agriculture », des procédures de suppression des données pour des raisons de confidentialité ont été appliquées par Statistique Canada aux tables personnalisées pour que l’on ne puisse pas associer des données statistiques à une exploitation agricole en particulier ou à un exploitant identifiable. La valeur « -1 » qui figure dans les cellules de données indique que l’information a été supprimée par Statistique Canada afin de protéger la confidentialité des répondants. Les valeurs nulles ou les cellules vides indiquent tout simplement qu’aucune donnée n’a été déclarée."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/58ec1dc1-f225-4290-b6d7-a26ad19b528b"
+  ],
+  "dct_issued_s": "2013-05-14",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/58ec1dc1-f225-4290-b6d7-a26ad19b528b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "agriculture"
+  ],
+  "dct_title_s": "Interpolated Census of Agriculture by Ecodistricts",
+  "gbl_mdModified_dt": "2025-07-21T21:51:53Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "33bd9910-8b8c-532f-a3a0-92e39bd3eadf",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Open Data Canada"
+}

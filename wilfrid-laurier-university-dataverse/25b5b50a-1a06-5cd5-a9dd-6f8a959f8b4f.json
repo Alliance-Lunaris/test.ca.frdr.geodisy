@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.76847, -132.892646, 69.216026, 68.345081)",
+  "dcat_keyword_sm": [
+    "hydrology",
+    "thermokarst",
+    "lakes",
+    "water",
+    "Isoptopes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wilcox, Evan J. (Wilfrid Laurier University, Cold Regions Research Centre, Wilfrid Laurier University, Universität Hamburg). ORCID: https://orcid.org/0000-0002-4172-7623",
+    "Wolfe, Brent (Wilfrid Laurier University). ORCID: https://orcid.org/0000-0003-4093-453X",
+    "Marsh, Philip (Wilfrid Laurier University, Cold Regions Research Centre, Wilfrid Laurier University, Waterloo). ORCID: https://orcid.org/0000-0002-3618-6893"
+  ],
+  "dct_description_sm": [
+    "This dataset contains water isotope concentrations measured from 25 lakes at five time points in 2018, along with snowpack and rainfall isotope concentrations from 2018. The lakes spanned a ~70km stretch of the Inuvik to Tuktoyaktuk Highway (ITH). Rainfall samples were collected in Inuvik, while snowpack samples were collected within the vicinity of the Trail Valley Creek Research Station. The dataset also contains lake and watershed characteristics for the 25 lakes that were sampled for water isotope analysis. Lake-specific properties include surface area, watershed position, depth, latitude, longitude, and elevation, while watershed-specific properties include surface area, average hillslope angle, drainage density, and ice-wedge polygon coverage. Watersheds were delineated using a 2-metre resolution digital elevation model and the D8 algorithm. Within each watershed, the areas of ice-wedge polygons were identified visually from satellite imagery and digitized manually. Drainage density was calculated as the length of all flowpaths with a contributing area greater than 5000 m2, and then divided by the total area of the watershed."
+  ],
+  "dct_identifier_sm": [
+    "330005_137_62437",
+    "https://doi.org/10.5683/SP3/AZE4ER"
+  ],
+  "dct_issued_s": "2022-05-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AZE4ER\"}",
+  "dct_rights_sm": [
+    "CC BY-NC-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Northwest Territories, Canada"
+  ],
+  "dct_subject_sm": [
+    "Chemistry",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Isotope data and associated attributes for 25 thermokarst lakes along the Inuvik – Tuktoyaktuk Highway, 2018",
+  "gbl_mdModified_dt": "2022-05-02T15:50:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "25b5b50a-1a06-5cd5-a9dd-6f8a959f8b4f",
+  "locn_geometry": "ENVELOPE(-133.76847, -132.892646, 69.216026, 68.345081)",
+  "pcdm_memberOf_sm": [
+    "Wilfrid Laurier University Library Research Data Repository Dataverse // Trail Valley Creek Research Station Dataverse"
+  ],
+  "schema_provider_s": "Wilfrid Laurier University Dataverse"
+}

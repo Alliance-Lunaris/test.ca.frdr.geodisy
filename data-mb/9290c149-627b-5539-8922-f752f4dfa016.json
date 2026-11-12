@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.42069125409456, -89.89373024606634, 60.223663685073085, 45.44628818981067)",
+  "dcat_keyword_sm": [
+    "HRDPS",
+    "Forecast",
+    "Province of Manitoba",
+    "Weather Models",
+    "Accumulated Precipitation",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<ul><li><strong>Convection-Permitting</strong>: The HRDPS can explicitly resolve thunderstorms and other small-scale weather events by running at ~2.5 km.</li><li><strong>Short-Range Focus</strong>: Typically provides forecasts out to 36–48 hours, updated several times daily.</li><li><strong>Local Impact</strong>: Valuable for pinpointing high-impact precipitation in complex terrain or urban environments, aiding emergency managers and hydrologists in short-lead-time decisions.</li><li><strong>Nested Model</strong>: Receives lateral boundary conditions from RDPS, maintaining consistency with regional forecasts while refining detail in local domains.</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "98310738a15548bc8d2ec3af6712f363",
+    "https://www.arcgis.com/home/item.html?id=98310738a15548bc8d2ec3af6712f363"
+  ],
+  "dct_issued_s": "2025-03-12",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::hrdps-forecasted-accumulated-precipitation-24-48-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "HRDPS Forecasted Accumulated Precipitation - 24 & 48 hrs",
+  "gbl_mdModified_dt": "2025-10-10T21:29:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9290c149-627b-5539-8922-f752f4dfa016",
+  "locn_geometry": "ENVELOPE(-117.42069125409456, -89.89373024606634, 60.223663685073085, 45.44628818981067)",
+  "schema_provider_s": "Data MB"
+}

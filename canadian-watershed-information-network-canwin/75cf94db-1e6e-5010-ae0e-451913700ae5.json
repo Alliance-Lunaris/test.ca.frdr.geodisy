@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Moderate Resolution Imaging Spectroradiometer (MODIS ) is one of the most sophisticated sensors that is used in a wide range of applications related to land, ocean and atmosphere. It has 36 spectral channels with spatial resolution varying between 250 m and 1 km at nadir. MODIS channels 1 (B1, visible) and 2 (B2, near infrared) are available at 250 m spatial resolution, an additional five channels for terrestrial applications (bands B3 to B7) are available at 500 m spatial resolution, the other twenty-nine channels not included in this data set capture images with a spatial resolution of 1 km. The MODIS record begins in March 2000 and extends to present with daily measurements over the globe. This level 3 product for Canada was created from the following original Level 1 (1B) MODIS data (collection 5): a) MOD02QKM - Level 1B 250 m swath data, 5 min granules; b ) MOD02HKM - level 1B , 500 m swath data, 5 min granules; c) MOD03 - level 1 geolocation information, 1 km swath data, 5 min granules. All these data are available from the DAAC Earth Observing System Data Gateway (NASA http://ladsweb.nascom.nasa.gov/data/search.html). The terrestrial channels MODIS (B3 to B7) at 500 m spatial resolution were reduced to  250 m with an adaptive regression system and normalization described in Trishchenko et al. (2006, 2009), and the data were mapped using a Lambert Conformal Conic (LCC ) projection (Khlopenkov et al., 2008). These data were combined to form pan-Canadian images using a technique for detection of clear sky, clouds and cloud shadows with a maximum interval of 10 days (Luo et al., 2008). Atmospheric and sun-sensor geometry corrections have not been applied. For each date, data include forward and backward scattering observations as separate files. This allows data to be optimized for a given application. For general use, data from either forward or backward scattering or both should be used. Future release of the MODIS time series will correct the forward and backward scattering geometry to provide a single best observation for each pixel."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/7c954356-a099-2925-5b00-023eb775b90f"
+  ],
+  "dct_issued_s": "2018-09-14",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/7c954356-a099-2925-5b00-023eb775b90f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Multi-Spectral Clear-Sky Composites of MODIS/Terra Land Channels (B1 - B7) Over Canada at 250m Spatial Resolution, 2000-03-01 to 2013-01-10",
+  "gbl_mdModified_dt": "2022-02-26T15:26:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "75cf94db-1e6e-5010-ae0e-451913700ae5",
+  "locn_geometry": "ENVELOPE(-141.0, -43.0, 84.0, 41.5)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

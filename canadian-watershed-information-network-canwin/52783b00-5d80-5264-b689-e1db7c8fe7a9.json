@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -52.0, 83.0, 41.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canada Geological Map Compilation (CGMC) is a database of previously published bedrock geological maps sourced from provincial, territorial, and other geological survey organizations. The geoscientific information included within these source geological maps wasstandardized, translated to English, and combined to provide complete coverage of Canada and support a range of down-stream machine learning applications. Detailed lithological, mineralogical, metamorphic, lithostratigraphic, and lithodemic information was not previously available as onenational-scale product. The source map data was also enhanced by correcting geometry errors and through the application of a new hierarchical generalized lithology classification scheme to subdivide the original rocks types into 35 classes. Each generalized lithology is associated with asemi-quantitative measure of classification uncertainty. Lithostratigraphic and lithodemic names included within the source maps were matched with the Lexicon of Canadian Geological Names (Weblex) wherever possible and natural language processing was used to transform all of the available text-basedinformation into word tokens. Overlapping map polygons and boundary artifacts across political boundaries were not addressed as part of this study. As a result, the CGMC is a patchwork of overlapping bedrock geological maps with varying scale (1:30,000-1:5,000,000), publication year (1996-2023), andreliability. Preferred geological and geochronological maps of Canada are presented as geospatial rasters based on the best available geoscientific information extracted from these overlapping polygons for each map pixel. New higher resolution geological maps will be added over time to fill datagaps and to update geoscientific information for future applications of the CGMC."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/d4f80bd3-17e3-a7e8-4bfe-d22a430678d5"
+  ],
+  "dct_issued_s": "2025-07-02",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/d4f80bd3-17e3-a7e8-4bfe-d22a430678d5\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Canada Geological Map Compilation",
+  "gbl_mdModified_dt": "2025-07-02T15:40:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "52783b00-5d80-5264-b689-e1db7c8fe7a9",
+  "locn_geometry": "ENVELOPE(-141.0, -52.0, 83.0, 41.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

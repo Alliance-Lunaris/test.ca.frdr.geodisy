@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.7527, -101.2023, 54.1113, 48.9202)",
+  "dcat_keyword_sm": [
+    "polygon",
+    "Government information",
+    "Government of Saskatchewan",
+    "GOS",
+    "Ministry of Parks Culture and Sport",
+    "PCS",
+    "Saskatchewan",
+    "Regional Parks"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Parcs régionaux du PCS"
+  ],
+  "dct_creator_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan."
+  ],
+  "dct_description_sm": [
+    "PCS Regional Parks contains the approved boundary of regional parks in Saskatchewan under The Regional Parks Act, 2013. These boundaries are maintained by the Government of Saskatchewan on behalf of the regional park authorities.  \n  \n  PCS Regional Parks contains the approved boundary of all regional parks in Saskatchewan. These boundaries, maintained by the Government of Saskatchewan on behalf of the regional park authorities, reflect the descriptions in the originating Order in Council (OC) or amending Minister's Order (MO) signed under the Regional Parks Act, 2013. This feature class is the revised version of \"Parks_Regional\" following a significant schema update completed in March 2023. Updates: Corrected topology errors to remove gaps and overlaps within itself and against the CADASTRE.surface feature class (ED220908). Corrected attributes and updated schema (ED230331). Renamed the feature class from PARK_REGIONS to PCS_Regions for clarity (ED230427).",
+    "Les parcs régionaux du PCS contiennent les limites approuvées des parcs régionaux de la Saskatchewan en vertu de la Loi de 2013 sur les parcs régionaux. Ces limites sont maintenues par le gouvernement de la Saskatchewan au nom des autorités du parc régional.  \n  \n  Les parcs régionaux du PCS contiennent les limites approuvées de tous les parcs régionaux de la Saskatchewan. Ces limites, maintenues par le gouvernement de la Saskatchewan au nom des administrations des parcs régionaux, reflètent les descriptions figurant dans le décret initial ou l'arrêté ministériel modifiant le décret (MO) signé en vertu de la Loi de 2013 sur les parcs régionaux. Cette classe d'entités est la version révisée de « Parks_Regional » suite à une importante mise à jour du schéma réalisée en mars 2023. Mises à jour : erreurs de topologie corrigées afin de supprimer les lacunes et les chevauchements en son sein et par rapport à la classe d'entités Cadastre.Surface (ED220908). Attributs corrigés et schéma mis à jour (ED230331). Pour plus de clarté, la classe d'entités PARK_REGIONS a été renommée en PCS_Regions (ED230427).  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/422daef8-fd1a-c4d5-4103-24f1824fd250"
+  ],
+  "dct_issued_s": "2023-09-26",
+  "dct_publisher_sm": [
+    "Government of Saskatchewan | Gouvernement de la Saskatchewan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/422daef8-fd1a-c4d5-4103-24f1824fd250\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use Data License (Version 2.0) https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "PCS Regional Parks",
+  "gbl_mdModified_dt": "2025-04-16T12:10:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4563299e-8ca2-5369-8fee-2b5c5698a8e0",
+  "locn_geometry": "ENVELOPE(-109.7527, -101.2023, 54.1113, 48.9202)",
+  "schema_provider_s": "Open Data Canada"
+}

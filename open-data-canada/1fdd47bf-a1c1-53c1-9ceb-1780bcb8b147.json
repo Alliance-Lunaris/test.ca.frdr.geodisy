@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.15, -71.79, 45.54, 45.25)",
+  "dcat_keyword_sm": [
+    "Transports et stationnements",
+    "Municipal",
+    "Information gouvernementale",
+    "HackQC22",
+    "Sherbrooke"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Section de la géomatique."
+  ],
+  "dct_description_sm": [
+    "Street segments of the road network.attributes:ID - Unique identifierToponymy - Full street nameNorte - Road numberCivic NumberOriginLeft - Civic number that originated the segment on the left side according to the direction of digitalizationNumberCivicOriginRight - Civic number that originated the segment on the right side according to the direction of digitalizationCivic NumberDestinationLeft - Civic number destined for segment on the left side according to the direction of digitalizationCivic NumberDestinationRight - Civic number to the segment on the right side according to the direction of DigitalNameGeneric - Short name of the streetType - Street typeStreet typeStreet typeSegmentStreet - Hierarchical class of the segment in the networkSpeed - Speed limit displayTypesUnique - Indication relating to the presence of a one-way wayMunicipal - Municipal code - Municipal codeHeavy traffic - Indication relating to heavy traffic**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Segments de rue du réseau routier.Attributs :ID - Identifiant uniqueTOPONYMIE - Nom complet de la rueNORTE - Numéro de la routeNUMEROCIVIQUEORIGINEGAUCHE - Numéro civique à l'origine du segment du côté gauche selon le sens de numérisationNUMEROCIVIQUEORIGINEDROITE - Numéro civique à l'origine du segment du côté droit selon le sens de numérisationNUMEROCIVIQUEDESTINATIONGAUCHE - Numéro civique à destination du segment du côté gauche selon le sens de numérisationNUMEROCIVIQUEDESTINATIONDROITE - Numéro civique à destination du segment du côté droit selon le sens de numérisationNOMGENERIQUE - Nom abrégé de la rueTYPERUE - Type de rueTYPESEGMENTRUE - Classe hiérarchique du segment dans le réseauVITESSE - Limite de vitesse affichéeTYPESENSUNIQUE - Indication relative à la présence d'un sens uniqueMUNICIPALITE - Code de la municipalitéCIRCULATIONLOURDE - Indication relative à la circulation lourde"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6bc95d3f-7941-4dc5-8684-2fb184a985c2"
+  ],
+  "dct_issued_s": "2018-01-22",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6bc95d3f-7941-4dc5-8684-2fb184a985c2\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Segments de rue",
+  "gbl_mdModified_dt": "2026-06-19T20:46:20Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1fdd47bf-a1c1-53c1-9ceb-1780bcb8b147",
+  "locn_geometry": "ENVELOPE(-72.15, -71.79, 45.54, 45.25)",
+  "schema_provider_s": "Open Data Canada"
+}

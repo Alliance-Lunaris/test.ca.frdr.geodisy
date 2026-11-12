@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.9401, -75.4415, 45.5113, 45.2321)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Traffic",
+    "Screenlines",
+    "Traffic Counts",
+    "Screenline Stations",
+    "Counting Stations"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Open Ottawa."
+  ],
+  "dct_description_sm": [
+    "<p>Screenline Counting Stations are located along a screenline wherever counts are conducted, usually located where roads, transitways and bike/walkways cross the screenline.</p><p>Screenlines are imaginary lines typically drawn along features such as rivers or railways, which have a minimum number of crossing points, making it more manageable to count traffic going from one side to the other. A screenline (e.g. LN02, LN10) is made up of several stations placed to count east-west or north-south travel which in total capture all major travel routes across the imaginary screenline. The screenlines are located along geographical barriers, i.e.: rivers, greenbelt - generally where a number of major transportation facilities are the main flow. To be truly representative of the flow, there is a station at each intersecting road, transit, and bike/walkway path on the screenline.</p><p><strong>Date created: </strong>June 29, 2026&nbsp;<br /><strong>Update frequency: </strong>As required<br /><strong>Accuracy: </strong>Not intended to represent exact location on the ground</p><p><strong>Attributes</strong></p><ul><li>SL_NUM (Screenline Number)</li><li>STATION_ID (Screenline Counting Station ID)</li><li>CORDON_EN (Cordon - screenlines or groups of screenlines that describe an area of interest (English text))</li><li>CORDON_FR (Cordon - screenlines or groups of screenlines that describe an area of interest (French text))</li><li>NAME_EN (Screenline Counting Station name (English text))</li><li>NAME_FR (Screenline Counting Station name (French text))</li><li>NAME_TEXT1_EN (Screenline Counting Station name part 1 (English text))</li><li>NAME_TEXT1_FR (Screenline Counting Station name part 2 (English text))</li><li>NAME_TEXT2_EN (Screenline Counting Station name part 1 (French text))</li><li>NAME_TEXT2_FR (Screenline Counting Station name part 2 (French text))</li><li>SEASON_EN (Season that the traffic count was captured (English text))</li><li>SEASON_FR (Season that the traffic count was captured (French text))</li><li>DURATION (Traffic count recording duration in hours)</li><li>COUNTYEAR_EN ((Both = Count Collection during All Years / Even = Count Collection during Even Years / Odd = Count Collection during Odd Years) - describes when the count takes place (English text))</li><li>COUNTYEAR_FR (Les deux = Comptage à chaque année / Paires = Comptage pendant les années paires / Impaires = Comptage pendant les années impaires) - describes when the count takes place (French text))</li><li>STATION_TYPE_EN (Station Type (English text))</li><li>STATION_TYPE_FR (Station Type (French text))</li><li>NEWYEAR_EN (Year when the screenline count station was implemented (English text))</li><li>NEWYEAR_FR (Year when the screenline count station was implemented (French text))</li><li>CHANGE_EN (English text describing a change to a screenline count station)</li><li>CHANGE_FR (French text describing a change to a screenline count station)</li><li>FLOW_EN (Boolean flag indicating that the change to the screenline count station result in a change to the counted traffic flows (English text))</li><li>FLOW_FR (Boolean flag indicating that the change to the screenline count station result in a change to the counted traffic flows (French text))</li><li>DECOM_EN (Screenline Counting Station decommission status (English text))</li><li>DECOM_FR (Screenline Counting Station decommission status (French text))</li><li>YEAR (Year the traffic count was captured)</li><li>STATUS_EN (Latest – English text describing the data as the most recent captured)</li><li>STATUS_FR (Dernier en date – French text describing the data as the most recent captured)</li></ul><p><strong>Author: </strong>Transportation Planning<br /><strong>Author email:</strong><a> mischael.raj@ottawa.ca</a><br /><strong>Maintainer Organization:</strong> Geospatial Analytics, Technology and Solutions (GATS), PDBS</p>"
+  ],
+  "dct_identifier_sm": [
+    "ab24e7978a564c6bb2b8d12138b77ef9",
+    "https://www.arcgis.com/home/item.html?id=ab24e7978a564c6bb2b8d12138b77ef9"
+  ],
+  "dct_issued_s": "2026-06-29",
+  "dct_publisher_sm": [
+    "Open Ottawa"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.ottawa.ca/datasets/ottawa::screenline-counting-stations\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data/about-open-data"
+  ],
+  "dct_title_s": "Screenline Counting Stations",
+  "gbl_mdModified_dt": "2026-06-29T19:36:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "608ad69c-e858-5cef-a7d0-1b2e35d20ed5",
+  "locn_geometry": "ENVELOPE(-75.9401, -75.4415, 45.5113, 45.2321)",
+  "schema_provider_s": "Open Ottawa"
+}

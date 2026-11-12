@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-175.0, -54.0, 90.0, 38.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Cryospheric Information Network."
+  ],
+  "dct_description_sm": [
+    "This map is intended for scientific applications requiring timely information on snow cover presence at relatively high spatial resolution and validated against Canadian insitu snow course data sets. The restriction to a binary snow/no-snow classification will result in a slight increase in disagreement (up to 20 per cent) with field snow course data during the melt period with higher agreement (~90 per cent) outside this period. However, at least half of this disagreement is traceable to random errors that will tend to cancel out when the data set is aggregated spatially. The residual errors are land cover dependent typically. Users who wish to use this snow cover information to drive other models should take this error structure into consideration. This map should not be used for operational water resource assessments with some form of local cross-validation."
+  ],
+  "dct_identifier_sm": [
+    "1757",
+    "https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=1757"
+  ],
+  "dct_issued_s": "2009-04-30",
+  "dct_license_sm": [
+    "https://www.polardata.ca/pdcinput/public/termsofuse"
+  ],
+  "dct_publisher_sm": [
+    "Polar Data Catalogue"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=1757\"}",
+  "dct_subject_sm": [
+    "Geographic locations -> North America",
+    "Natural sciences -> Snow cover",
+    "Natural sciences -> Snow",
+    "Geographic locations -> Canada",
+    "Natural sciences -> Ice"
+  ],
+  "dct_title_s": "Daily Canadian Snow Inland Ice Cover Synthesis Maps",
+  "gbl_mdModified_dt": "2024-07-22T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c2c942ea-2472-56ba-b346-7da456f0704e",
+  "locn_geometry": "ENVELOPE(-175.0, -54.0, 90.0, 38.0)",
+  "schema_provider_s": "Polar Data Catalogue"
+}

@@ -1,0 +1,55 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Darooneh, Amir Hossein (University of Toronto). ORCID: https://orcid.org/0000-0001-5205-7242",
+    "Kortenaar, Jean-Luc (University of Toronto). ORCID: https://orcid.org/0000-0002-0966-1767",
+    "Goulart, Celine M (McGill University). ORCID: https://orcid.org/0000-0002-8740-757X",
+    "McLaughlin, Katie (University of Toronto). ORCID: https://orcid.org/0000-0003-4988-0013",
+    "Cornelius, Sean P (Toronto Metropolitan University). ORCID: https://orcid.org/0000-0001-8697-791X",
+    "Bassani, Diego G (University of Toronto). ORCID: https://orcid.org/0000-0001-6704-3820"
+  ],
+  "dct_description_sm": [
+    "This folder includes the shapefiles for the 10 validation countries included in the manuscript.\n\nAbstract: The study of population health through network science holds high promise, but data sources that allow complete representation of populations are limited in low- and middle-income settings. Large national health surveys designed to gather nationally representative health and development data in low- and middle-income countries are promising sources of such data. Although they provide researchers, healthcare providers, and policymakers with valuable information, they are not designed to produce small-area estimates of health indicators, and the methods for producing these tend to rely on diverse and imperfect covariate data sources, have high data input requirements and are computationally demanding, limiting their use for network representations of populations. To reduce the sources of measurement error and allow efficient multi-country representation of populations as networks of human settlements here, we present a covariate-free multi-country method to estimate small-area health indicators using standardized georeferenced surveys. The approach utilizes interpolation via local inverse distance weighting. The estimates are compared to those obtained using a Bayesian Geostatistical Model and have been cross-validated. The estimates are aggregated into population settlements and identified using the Global Human Settlement Layer database. The method is fully automated, requiring a single standard georeferenced survey data source for mapping populations, eliminating the need for indicator or country-specific covariate selection by investigators. Efficient estimation is achieved by only computing values for human-occupied areas and adopting a logical aggregation of estimates into the complete range of settlement sizes. An open-access library of standardized georeferenced settlement-level datasets for 15 indicators and 10 countries was validated in this paper, as well as the code used to identify settlements and estimate indicators. The datasets are intended to be used as the basis for population health studies, and the library will continue to be expanded. The novel aspects include using harmonized input sources and estimation procedures across countries and the adoption of real-world units for population data aggregation, creating a specialized library of nodes that serve as a basis for network representations of population health in low- and middle-income countries."
+  ],
+  "dct_identifier_sm": [
+    "755794_750263",
+    "https://doi.org/10.5683/SP3/R0DPTZ"
+  ],
+  "dct_issued_s": "2024-08-02",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/R0DPTZ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Angola",
+    "Senegal",
+    "Benin",
+    "Mali",
+    "Malawi",
+    "Gabon",
+    "Nigeria",
+    "Zambia",
+    "Mozambique",
+    "Cambodia"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Physics",
+    "Social Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "(Shapefiles - Validation countries) SEEDNet: A covariate-free multi-country settlement-level database of epidemiological estimates for network analysis",
+  "gbl_mdModified_dt": "2025-04-25T17:18:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9cfe0258-fa47-5419-89af-2ab1350030e5",
+  "pcdm_memberOf_sm": [
+    "SEEDNet: Settlement-level Epidemiological Estimates Datasets for Network Analysis"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

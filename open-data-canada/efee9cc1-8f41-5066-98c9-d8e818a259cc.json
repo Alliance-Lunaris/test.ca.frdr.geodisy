@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Pixel",
+    "Forêt",
+    "Matriciel",
+    "Information gouvernementale",
+    "Direction inventaires forestiers",
+    "DIF",
+    "Inventaire écoforestier",
+    "Compilation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "🍃 Secteur des Forêts - Direction des inventaires forestiers (DIF)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\n\n**The results of compilations by forel** are one of the deliverables of the ecoforest inventory in southern Quebec. These results are used to produce forest compilations by stand associated with the original ecoforest map. The forel corresponds to a forest pixel with a resolution of 20 meters by 20 meters. \n\nThese results are presented in the form of matrix mapping (image in raster format) to assess the variability of the various dendrometric characteristics within the same forest stand.\n\nHere is the list of variables presented in this map: gross market volume per hectare, basal area per hectare and number of stems per hectare.\n\nThese results are intended to provide small-scale information that can, among other things, support the planning of forest operations. They cover ecoforest stands 7 m or more in height. For commercial stems, a separate matrix file is produced for each of the three variables and each of the species, attribution groups, species types and for the total all species. For saplings (stems of 9 cm or less in diameter), only results for basal area and the number of stems per hectare for species types and for the total of all species are produced. The information contained in this map is an image of the forest in the year the aerial photograph was taken.\n\nThe results of this forest compilation method will eventually cover most of the territory south of the 52nd parallel. When achieved, the results are disseminated by planning unit (AU) for the territories produced under the fourth inventory and by ecological planning unit (UPE) for the territories produced as part of the fifth inventory.\n\n__ ⚠️ Notes: __\n\nConsult the [original ecoforest map and current inventory results]\n\n] (https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) for the results of forest compilations by population, also available on Data Quebec.\n\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "__Le lien : *Accéder au répertoire de données* est disponible à la section *Fiches descriptives du jeu de données ; Informations complémentaires*__.\n\n\n**Les résultats de compilations par forel** constituent un des livrables de l’inventaire écoforestier du Québec méridional. Ces résultats servent à produire les compilations forestières par peuplement associées à la carte écoforestière originale. Le forel correspond à un pixel de forêt ayant une résolution de 20 mètres sur 20 mètres. \n\nCes résultats se présentent sous forme de cartographie matricielle (image en format raster) permettant d’apprécier la variabilité des différentes caractéristiques dendrométriques à l’intérieur d’un même peuplement forestier.\n\nVoici la liste des variables présentées dans cette cartographie : volume marchand brut à l’hectare, surface terrière à l’hectare et nombre de tiges à l’hectare.\n\nCes résultats ont pour but de fournir une information à petite échelle permettant, entre autres, d’appuyer la planification des opérations forestières. Ils couvrent les peuplements écoforestiers de 7 m ou plus de hauteur. Pour les tiges marchandes, un fichier matriciel distinct est produit pour chacune des trois variables et chacune des essences, groupes d’attribution, types d’essences et pour le total toutes essences. Pour les gaules (tiges de 9 cm ou moins de diamètre), seuls des résultats pour la surface terrière et le nombre de tiges à l’hectare des types d’essences et du total toutes essences sont produits. L'information contenue dans cette cartographie est à l’image de la forêt à l'année de la prise de la photographie aérienne.\n\nLes résultats de cette méthode de compilation forestière couvriront à terme la majorité du territoire au sud du 52e parallèle. Lorsque réalisés, les résultats sont diffusés par unité d’aménagement (UA) pour les territoires produits dans le cadre du quatrième inventaire et par unité de planification écologique (UPE) pour les territoires produits dans le cadre du cinquième inventaire.\n\n__⚠️ Notes : __\n\nConsultez la [carte écoforestière originale et résultats d'inventaire courants\n\n](https://www.donneesquebec.ca/recherche/dataset/resultats-d-inventaire-et-carte-ecoforestiere) pour avoir les résultats de compilations forestières par peuplement, aussi disponibles sur Données Québec."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/fbdec18f-c749-4f79-9d83-a2a839380d09"
+  ],
+  "dct_issued_s": "2018-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/fbdec18f-c749-4f79-9d83-a2a839380d09\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Résultats de compilations forestières par forel",
+  "gbl_mdModified_dt": "2026-09-30T18:02:30Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "efee9cc1-8f41-5066-98c9-d8e818a259cc",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

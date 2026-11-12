@@ -1,0 +1,66 @@
+{
+  "dcat_keyword_sm": [
+    "Adaptive radiation",
+    "Darwin’s finches",
+    "Speciation",
+    "Fitness landscape",
+    "Ecological theory",
+    "Ecology",
+    "Galápagos Santa Cruz",
+    "Geospiza",
+    "Evolution",
+    "Adaptive landscapes"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Beausoleil, Marc-Olivier (McGill University). ORCID: https://orcid.org/0000-0003-3717-3223",
+    "Carrión-Avilés, Paola (McGill University). ORCID: https://orcid.org/0000-0002-2314-968X",
+    "Podos, Jeffrey (University of Massachusetts Amherst). ORCID: https://orcid.org/0000-0002-2546-7999",
+    "Camacho, Carlos (Estación Biológica de Doñana—CSIC). ORCID: https://orcid.org/0000-0002-9704-5816",
+    "Rabadán-González, Julio (Observation.org). ORCID: https://orcid.org/0000-0002-5047-5923",
+    "Richard, Roxanne (McGill University). ORCID: https://orcid.org/0000-0002-0962-6320",
+    "Lalla, Kristen (McGill University). ORCID: https://orcid.org/0000-0003-1422-0672",
+    "Raeymaekers, Joost A. M. (Nord University). ORCID: https://orcid.org/0000-0003-2732-7495",
+    "Knutie, Sarah A. (University of Connecticut). ORCID: https://orcid.org/0000-0001-6423-9561",
+    "De León, Luis F. (University of Massachusetts Boston: Boston, MA, US, University of Massachusetts Boston). ORCID: https://orcid.org/0000-0001-9317-420X",
+    "Chaves, Jaime A. (San Francisco State University). ORCID: https://orcid.org/0000-0003-0679-2603",
+    "Clayton, Dale H. (University of Utah). ORCID: https://orcid.org/0000-0003-1698-3542",
+    "Koop, Jennifer A. H. (Northern Illinois University). ORCID: https://orcid.org/0000-0002-5332-3618",
+    "Sharpe, Diana M. T. (Harvard University Center for the Environment). ORCID: https://orcid.org/0000-0002-3986-4725",
+    "Gotanda, Kiyoko M. (Brock University, Université de Sherbrooke, McGill University). ORCID: https://orcid.org/0000-0002-3666-0700",
+    "Huber, Sarah K. (Virginia Institute of Marine Science). ORCID: https://orcid.org/0000-0002-5320-7166",
+    "Barrett, Rowan D. H. (McGill University). ORCID: https://orcid.org/0000-0003-3044-2531",
+    "Hendry, Andrew P. (McGill University). ORCID: https://orcid.org/0000-0002-4807-6667"
+  ],
+  "dct_description_sm": [
+    "<h3>License</h3>\nThe data and the code (see <i>adaptive.landscapes.finches.zip</I> file) do not have the same licence. For the code, please look at the LICENSE file. The license for data is provided in the 'License/Data Use Agreement' section.",
+    "<h3>Purpose</h3>\n\nThe dataset and script were developed to \n<ol>\n  <li>estimate the fitness landscape for Darwin's ground finch species (<i>Geospiza</i> spp.) at El Garrapatero over 2003 to 2020, and </li>\n  <li> use the fitness landscape to consider theoretical expectations and previous empirical assertions regarding the topology of fitness and adaptive landscapes. \n</li>\n</ol>\n\n<h3>Brief Methodology</h3>\nTo fulfil these aims, we used the data from our long-term monitoring site El Garrapatero on Santa Cruz in the Galápagos, Ecuador. We calculated lifespan as a fitness proxi from our recapture data to construct a fitness and adaptive landscape using the beak length and depth. \n\n<h3>Data</h3>\nPlease, download and consult the <i>README</i> text file which explains the contents of <i>adaptive.landscapes.finches.zip</i>. The <i>.zip</i> file preserves the folder structure needed to run the scripts. The main program needed for the analysis is <a href=\"https://cran.r-project.org\">R (open-source)</a>, but to fully reproduce all the code, <a href=\"https://imagemagick.org/index.php\">ImageMagick (open-source)</a> and  <a href=\"https://ffmpeg.org\">FFMPEG (open-source)</a> programs. \n\n<h3>References</h3>\n<ul>\n  <li><a href=\"https://github.com/beausoleilmo/adaptive.landscapes.finches\">GitHub repository of 'adaptive.landscapes.finches'</a> </li>\n  <li>The scripts and data and for the R language (R Core Team 2023; R version, 4.2.1 (Funny-Looking Kid)).\n</li>\n</ul>"
+  ],
+  "dct_identifier_sm": [
+    "465022",
+    "https://doi.org/10.5683/SP3/0YIWSE"
+  ],
+  "dct_issued_s": "2023-08-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/0YIWSE\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Galápagos Islands, Ecuador"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences",
+    "Other"
+  ],
+  "dct_title_s": "The fitness landscape of a community of Darwin’s finches",
+  "gbl_mdModified_dt": "2023-08-22T14:08:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ce7bef70-be1f-5981-8486-2f9cdfb3cf95",
+  "schema_provider_s": "McGill University Dataverse"
+}

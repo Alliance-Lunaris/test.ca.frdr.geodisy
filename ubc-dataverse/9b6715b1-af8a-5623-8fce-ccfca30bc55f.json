@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "genetic constraints",
+    "redundancy",
+    "convergent evolution"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Yeaman, Samuel (University of Calgary).",
+    "Gerstein, Aleeza C. (University of British Columbia, University of Minnesota).",
+    "Hodgins, Kathryn A. (University of British Columbia, Monash University).",
+    "Whitlock, Michael C. (University of British Columbia).",
+    "Yeaman, Sam (University of British Columbia, University of Calgary)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/UNRbBSPhmD8pIWyJHncoj-6d3pxVx_wG4B30u92-1WQ</p>\n<p><b>Storage size:</b> 549725878</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Convergent adaptation can occur at the genome scale when independently evolving lineages use the same genes to respond to similar selection pressures. These patterns provide insights into the factors that facilitate or constrain the diversity of genetic responses that contribute to adaptive evolution. A first step in studying such factors is to quantify the observed amount of repeatability relative to expectations under a null hypothesis. Here, we formulate a novel metric to quantify the constraints driving the observed amount of repeated adaptation in pairwise contrasts based on the hypergeometric distribution, and then generalize this for simultaneous analysis of multiple lineages. This metric is explicitly based on the probability of observing a given amount of repeatability by chance under an arbitrary null hypothesis, and is readily compared among different species and types of trait. We also formulate a metric to quantify the effective proportion of genes in the genome that have the potential to contribute to adaptation. As an example of how these metrics can be used to draw inferences, we assess the amount of repeatability observed in existing datasets on adaptation to antibiotics in yeast and climate in conifers. This approach provides a method to test a wide range of hypotheses about how different kinds of factors can facilitate or constrain the diversity of genetic responses observed during adaptive evolution.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Data and scripts</h4><div class=\"o-metadata__file-description\">This file includes the data and scripts necessary to generate all results in the manuscript.</div><div class=\"o-metadata__file-name\">convergence_archive_dryad.zip</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "153231_1226260_150149",
+    "https://doi.org/10.5683/SP2/MFKZQH"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/MFKZQH\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Quantifying how constraints limit the diversity of viable routes to adaptation",
+  "gbl_mdModified_dt": "2021-05-20T03:40:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9b6715b1-af8a-5623-8fce-ccfca30bc55f",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

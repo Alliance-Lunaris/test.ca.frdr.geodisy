@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Each pixel value corresponds to the best quality maximum NDVI recorded within that pixel over the week specified. Poor quality pixel observations are removed from this product. Observations whose quality is degraded by snow cover, shadow, cloud, aerosols, and/or low sensor zenith angles are removed (and are assigned a value of “missing data”). In addition, negative Max-NDVI values, occurring where R reflectance > NIR reflectance, are considered non-vegetated and assigned a value of 0. This results in a Max-NDVI product that should (mostly) contain vegetation-covered pixels. Max-NDVI values are considered high quality and span a biomass gradient ranging from 0 (no/low biomass) to 1 (high biomass)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ce83bef-5397-42b8-9839-6825ba48eaf0"
+  ],
+  "dct_issued_s": "2021-07-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1ce83bef-5397-42b8-9839-6825ba48eaf0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Weekly Best-Quality Maximum-NDVI",
+  "gbl_mdModified_dt": "2024-04-19T02:21:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ad571d19-21d6-5eb1-97ed-b9702c86b68d",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

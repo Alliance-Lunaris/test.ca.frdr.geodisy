@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Holocene",
+    "stochastic",
+    "landscape dynamics",
+    "land use change",
+    "landscape ecology",
+    "spatial",
+    "Markov chain",
+    "ST-Sim"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Colin, Daniel (University of Toronto).",
+    "Leonardo, Frid (Apex Resource Management Solutions Ltd. 937 Kingsmere Ave. Ottawa ON K2A 3K2 Canada, Apex Resource Management Solutions Ltd. Ottawa ON Canada).",
+    "Benjamin, Sleeter (United States Geological Survey).",
+    "Marie-Josée, Fortin (University of Toronto).",
+    "Colin J., Daniel (University of Toronto)."
+  ],
+  "dct_description_sm": [
+    "A wide range of spatially explicit simulation models have been developed to forecast landscape dynamics, including models for projecting changes in both vegetation and land use. While these models have generally been developed as separate applications, each with a separate purpose and audience, they share many common features.\r\nWe present a general framework, called a state-and-transition simulation model (STSM), which captures a number of these common features, accompanied by a software product, called ST-Sim, to build and run such models. The STSM method divides a landscape into a set of discrete spatial units and simulates the discrete state of each cell forward as a discrete-time-inhomogeneous stochastic process. The method differs from a spatially interacting Markov chain in several important ways, including the ability to add discrete counters such as age and time-since-transition as state variables, to specify one-step transition rates as either probabilities or target areas, and to represent multiple types of transitions between pairs of states.\r\nWe demonstrate the STSM method using a model of land-use/land-cover (LULC) change for the state of Hawai'i, USA. Processes represented in this example include expansion/contraction of agricultural lands, urbanization, wildfire, shrub encroachment into grassland and harvest of tree plantations; the model also projects shifts in moisture zones due to climate change. Key model output includes projections of the future spatial and temporal distribution of LULC classes and moisture zones across the landscape over the next 50 years.\r\nState-and-transition simulation models can be applied to a wide range of landscapes, including questions of both land-use change and vegetation dynamics. Because the method is inherently stochastic, it is well suited for characterizing uncertainty in model projections. When combined with the ST-Sim software, STSMs offer a simple yet powerful means for developing a wide range of models of landscape dynamics."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.g58k0",
+    "https://doi.org/10.5061/dryad.g58k0"
+  ],
+  "dct_issued_s": "2017-05-23",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.g58k0\"}",
+  "dct_spatial_sm": [
+    "Hawaii"
+  ],
+  "dct_title_s": "Data from: State-and-transition simulation models: a framework for forecasting landscape change",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "afcdf299-71b6-53ec-a9f8-77e43cfd7575",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.1167, -88.7415, 60.1159, 48.9248)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Table containing information relevant to animal disease investigations in Manitoba from 2012 to present.  \n  \n  This table contains information relevant to animal disease investigations in Manitoba from 2012 to present, conducted by the Chief Veterinary Office (CVO). Information includes year, number of sites, number of linked sites, animal species, disease types and results. Updated on a weekly basis.  It is important that users are aware of the following caveats when reviewing data presented in the Animal Disease Investigations Dashboard: 1. Each investigation can have one or more cases involved depending on the number of herds or animals exposed.  Not all disease investigations are handled the same due to a partnership approach.  Diseases can be detected via surveillance, ad hoc reporting, or through other programs. 2. Rabies is a separate program. Please see Manitoba's Provincial Rabies Management Program for data related to Rabies Surveillance.3. Certain zoonotic diseases, such as salmonella or influenza, are also captured in more detail through other means.  The total occurrence of a zoonotic disease represented in this dashboard reflects occurrences where risks or exposures were deemed significant enough to warrant further investigation.  4. Historically, One Health Investigations that were predominantly focused on Public Health issues rather than Animal Health concerns were not captured in this system and will be underrepresented here. Fields included ( Alias (Field Name): Field description.) Year (Year): Year of the disease investigation Number of Sites (Number_of_Sites): Number of investigation sites Number of Linked Sites (Number_of_Linked_Sites): Number of sites linked to investigation sites Species/Class (Species__Class): Group of animal species Disease Type (Disease_Type): The type of disease that is being investigated Result (Result): The outcome (positive/negative) for the corresponding animal disease investigation"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/794a2939-17b2-a84b-4e46-fb34c17de9ef"
+  ],
+  "dct_issued_s": "2023-04-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/794a2939-17b2-a84b-4e46-fb34c17de9ef\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Disease Investigations data",
+  "gbl_mdModified_dt": "2025-03-05T13:10:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6f598c38-9a8f-507c-ab7f-370d2387fd00",
+  "locn_geometry": "ENVELOPE(-102.1167, -88.7415, 60.1159, 48.9248)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

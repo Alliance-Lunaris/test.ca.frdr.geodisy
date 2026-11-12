@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3957, -123.3215, 48.4496, 48.4065)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "traffic",
+    "engineering",
+    "GIS",
+    "traffic volume",
+    "open data"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Traffic Volume (24hr count). Data are updated as needed by the Transportation department (typically in the summer), and subsequently copied to VicMap and the Open Data Portal the following day.<br /></p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Traffic speed and volume data are collected at various locations around the city, from different locations each year, using a variety of technologies and manual counting. Counters are placed on streets and at intersections, typically for 24-hour periods. <br /></p><p style='margin-top:0px; margin-bottom:1.5rem;'><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Targeted information is also collected during morning or afternoon peak period travel times and can also be done for several days at a time to capture variability on different days of the week. </span></p><p style='margin-top:0px; margin-bottom:1.5rem;'><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>The City collects data year-round and in all types of weather (except for extreme events like snowstorms). The City also uses data from our agency partners like Victoria Police, the CRD or ICBC. </span></p><p style='margin-top:0px; margin-bottom:1.5rem;'><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Speed values recorded at each location represent the 85th percentile speed, which means 85% or less traffic travels at that speed. This is standard practice among municipalities to reduce anomalies due to excessively speedy or excessively slow drivers. Values recorded are based on the entire 24-hour period.</span></p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><b>The Traffic Volume dataset is linear.  The lines can be symbolized using arrows and the &quot;Direction&quot; attribute. Where the direction value is &quot;one&quot;, use an arrow symbol where the arrow is at the end of the line.  Where the direction value is &quot;both&quot;, use an arrow symbol where there are arrows at both ends of the line.  Use the &quot;Label&quot; field to add labels. </b>The label field indicates the traffic volume at each location, and the year the data was collected.  So for example, “2108(05)” means 2108 vehicles were counted in the year 2005 at that location.<br /></p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Data are automatically copied to the Open Data Portal. The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description. We update our data through automated scripts which does not trigger the &quot;last updated&quot; date to change. </p><p style='margin-top:0px; margin-bottom:1.5rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Note: Attributes represent each field in a dataset, and some fields will contain information such as ID numbers.  As a result some visualizations on the tabs on our Open Data page will not be relevant.</p>"
+  ],
+  "dct_identifier_sm": [
+    "060ef2302b0a43998ae4c096150b429b",
+    "https://www.arcgis.com/home/item.html?id=060ef2302b0a43998ae4c096150b429b"
+  ],
+  "dct_issued_s": "2021-05-06",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::traffic-volume\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Traffic Volume",
+  "gbl_mdModified_dt": "2024-11-04T23:02:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8a1d1f7e-4391-5b09-b83e-2a1d61e68fe8",
+  "locn_geometry": "ENVELOPE(-123.3957, -123.3215, 48.4496, 48.4065)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

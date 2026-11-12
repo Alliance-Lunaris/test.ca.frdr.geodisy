@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.3, -120.5, 59.6, 44.3)",
+  "dcat_keyword_sm": [
+    "Modélisation",
+    "North Atlantic",
+    "analyse de sensibilité",
+    "sensitivity analysis",
+    "Climat",
+    "iron cycle",
+    "Climate",
+    "cycles biogéochimiques",
+    "biogeochemical cycles",
+    "Pacifique Nord",
+    "cycle du fer",
+    "North Pacific",
+    "Modelling",
+    "modélisation de l'océan",
+    "Atlantique Nord",
+    "Arctique",
+    "ocean modeling",
+    "Arctic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Un modèle biogéochimique océanique pancanadien englobant les océans Atlantique Nord, Pacifique Nord et Arctique"
+  ],
+  "dct_creator_sm": [
+    "James Christian."
+  ],
+  "dct_description_sm": [
+    "Description:\nThis dataset consists of monthly mean simulation results from Canada's three Oceans: the Atlantic, Pacific and Arctic from 2015 to 2017.\n\nAbstract from the report:\nA numerical ocean model with biogeochemistry has been developed for a domain that spans Canada's three oceans: the Atlantic, Pacific and Arctic. The domain extends to 26°N in the Atlantic and 44°N in the Pacific, and spans the full width of each basin as well as the whole of the Arctic Ocean. The resolution is moderate to high (≈0.25°, 75 levels). A series of simulations was conducted to assess the best choices for biogeochemical model parameters across the diverse regions, using a variety of validation data sets including satellite ocean colour (surface chlorophyll and particulate organic carbon, integrated primary production), surface underway pCO2, and depth profiles of oxygen and nitrate concentration from ships and Argo floats. In addition to parameter values, processes examined include interactive sediments, fluvial nutrients, light attenuation by fluvial coloured dissolved organic matter (CDOM), and iron limitation. The results indicate that the optimal parameter set is one that limits phytoplankton losses to grazing and other processes so as to ensure strong biological drawdown of dissolved inorganic carbon and nutrients in spring and summer; among the parameter sets tested both insufficient and excessive drawdown were observed. Sensitivity to other processes such as interactive sediments, fluvial nutrients or CDOM attenuation was weak in most regions. In some regions, attenuation by CDOM or sequestration of nutrients in the sediment can substantially reduce primary production and zooplankton biomass, and fluvial nutrients can cause localized reduction of pCO2 by as much as 60 μatm. Iron limitation has an effect on the model solution in regions generally considered iron-replete; building a model that successfully spans iron-limited and non-iron-limited domains will require complete and accurate specification of iron sources and sinks.",
+    "Description:\nCet ensemble de données est constitué de résultats moyens mensuels des simulations des trois océans du Canada : l'Atlantique, le Pacifique et l'Arctique, de 2015 à 2017.\n\nRésumé tiré du rapport :\nUn modèle océanique numérique biogéochimique a été élaboré pour un domaine qui couvre les trois océans du Canada, soit l’océan Atlantique, l’océan Pacifique et l’océan Arctique. Le domaine s’étend jusqu’à 26° N dans l’Atlantique et 44° N dans le Pacifique, sur toute la largeur de chaque bassin ainsi que sur l’ensemble de l’océan Arctique. La résolution est modérée à élevée (≈ 0,25°, 75 niveaux). Une série de simulations ont été effectuées afin d’évaluer les meilleurs choix pour les paramètres du modèle biogéochimique dans les diverses régions, à l’aide de divers ensembles de données de validation, y compris les données satellitaires sur la couleur de l’océan (chlorophylle à la surface et carbone organique en particules, production primaire intégrée), la pCO2 en surface et les profils de profondeur des concentrations d’oxygène et de nitrate provenant des navires et des flotteurs Argo. En plus des valeurs des paramètres, les processus examinés comprennent les sédiments interactifs, les nutriments fluviaux, l’atténuation de la lumière par la matière organique fluviale colorée dissoute et la limitation en fer. Les résultats indiquent que l’ensemble optimal de paramètres est celui qui limite les pertes de phytoplancton au broutage et à d’autres processus afin d’assurer une forte diminution biologique du carbone inorganique dissous et des nutriments au printemps et à l’été; parmi les ensembles de paramètres testés, on a observé des rabattements insuffisants et des rabattements excessifs. La sensibilité à d’autres processus tels que les sédiments interactifs, les nutriments fluviaux ou l’atténuation par la matière organique colorée dissoute était faible dans la plupart des régions. Dans certaines régions, l’atténuation par la matière organique colorée dissoute ou la séquestration de nutriments dans les sédiments peut réduire considérablement la production primaire et la biomasse du zooplancton, et les nutriments fluviaux peuvent entraîner une réduction localisée de la pCO2 pouvant atteindre 60 μatm. La limitation en fer a un effet sur le modèle dans les régions généralement considérées comme présentant des réserves de fer; la création d’un modèle qui couvre avec succès les domaines limités en fer et les domaines non limités en fer nécessitera une spécification complète et précise des sources de fer et des puits à fer."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/1c9e3a85-88e1-4ec6-88dd-604781eae399"
+  ],
+  "dct_issued_s": "2025-07-15",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/1c9e3a85-88e1-4ec6-88dd-604781eae399\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "A Canada-wide ocean biogeochemical model encompassing the North Atlantic, North Pacific and Arctic Oceans",
+  "gbl_mdModified_dt": "2026-03-24T09:02:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1fbc2c2f-4a7a-5f63-b1f2-04328305bc91",
+  "locn_geometry": "ENVELOPE(-142.3, -120.5, 59.6, 44.3)",
+  "schema_provider_s": "Open Data Canada"
+}

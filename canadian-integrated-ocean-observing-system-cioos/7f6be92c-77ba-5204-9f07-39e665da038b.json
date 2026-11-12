@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-71.01561, -55.8672, 45.57044, 51.97679)",
+  "dcat_keyword_sm": [
+    "Oceans",
+    "other",
+    "Saint-Laurent",
+    "pêches commerciales",
+    "eDrivers",
+    "eDrivers",
+    "environmental stressors",
+    "St. Lawrence",
+    "stresseurs environnementaux",
+    "Autre",
+    "commercial fisheries"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "L'intensité des activités de pêche commerciale, stresseur environnemental : projet eDrivers sur le système du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Beauchesne, David (Université Laval).",
+    "Pêches et Océans Canada."
+  ],
+  "dct_description_sm": [
+    "The impacts of fisheries activities in the St. Lawrence are evaluated using DFO fisheries logbooks program. While logbooks are not mandatory for all fisheries in the St. Lawrence, they still provide a very thorough overview of the spatial distribution and intensity of fishing activities in the St. Lawrence. The data we used spans 6 years from 2010 to 2015 and details 218323 fishing events (approximately 36387 fishing events per year). There were 31 targeted species and a total of 53 caught species in the dataset.\n\nFishing activities are performed using a variety of gear types: trap, trawl, dredge, driftnet, hand line, longline, scuba diving, purse seine, seine, beach seine and jig fishing. Intensity of fishing activities was divided among gear types and based on their respective types of environmental impacts. For example, traps and trawls have very different effects on a system. Gear classification was done using the classification presented in [Halpern et al. (2008)](https://www.science.org/doi/10.1126/science.1149345) and [Halpern et al. (2015a)](https://knb.ecoinformatics.org/view/doi:10.5063/F1S180FS) and is broken down into 5 distinct classes: demersal destructive (DD), demersal non-destructive low-bycatch (DNL), demersal non-destructive high-bycatch (DNH), pelagic low-bycatch (PLB) and pelagic high-bycatch (PHB). This categorization therefore divides the fisheries data into 5 distinct driver layers characterizing fishing activities. Gear types can also be further classified into fixed or mobile engines based on their mobility. We used these two mobility classes to generate a buffer of impact around each fishing activity coordinates to consider potential spatial uncertainty associated with locations and the fact that mobile engines can be tracted over several kilometers during fishing activities and that we do not have the beginning and end points of mobile fishing events. Buffer sizes for fixed and mobile engine was of 200 and 2000 meters, respectively. To characterize the intensity of fishing activities we used a biomass yield density index. We multiplied the total annual biomass captured in each grid cell, regardless of species, by the proportion of fishing area in each grid cell.\n\nIt is possible to consult the scientific report of the **eDrivers** project: [Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full) and the [additional data](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full#supplementary-material). It is possible to consult the application [eDrivers](https://catalogue.ogsl.ca/dataset/ca-cioos_7c51ad5f-c2a9-4f4a-a78c-0b652e630825).",
+    "Les impacts des activités de pêche dans le Saint-Laurent sont évalués à l'aide du programme de journaux de bord des pêches du ministère des Pêches et des Océans du Canada (MPO). Bien que les journaux de bord ne soient pas obligatoires pour toutes les pêches du Saint-Laurent, ils fournissent tout de même un aperçu très complet de la répartition spatiale et de l'intensité des activités de pêche dans le Saint-Laurent. Les données que nous avons utilisées couvrent une période de 6 ans, de 2010 à 2015, et détaillent 218 323 activités de pêche (environ 36 387 activités de pêche par an). Il y avait 31 espèces ciblées et un total de 53 espèces capturées dans le jeu de données.\n\nLes activités de pêche sont pratiquées à l'aide de divers types d'engins : trappe, chalut, drague, filet dérivant, ligne à main, palangre, plongée sous-marine, senne coulissante, senne de plage et pêche au jig. L'intensité des activités de pêche a été divisée entre les types d'engins et en fonction de leurs types d'impacts environnementaux respectifs. La classification des engins a été effectuée à l'aide de la classification présentée dans [Halpern et al. (2008)](https://www.science.org/doi/10.1126/science.1149345) et [Halpern et al. (2015a)](https://knb.ecoinformatics.org/view/doi:10.5063/F1S180FS) et est divisée en 5 catégories distinctes : démersales destructrices (DD), faibles prises accessoires démersales non destructrices (DNL), prises accessoires démersales non destructrices élevées (DNH), faibles prises accessoires pélagiques (PLB) et hautes prises accessoires pélagiques (PHB). Cette catégorisation divise donc les données sur les pêches en 5 couches de facteurs distincts caractérisant les activités de pêche. Les types d'engins de pêche peuvent également être classés en engins fixes ou mobiles en fonction de leur mobilité. Ces deux classes de mobilité ont été utilisés pour générer une zone tampon d'impact autour des coordonnées de chaque activité de pêche afin de tenir compte de l'incertitude spatiale potentielle associée aux emplacements et du fait que les moteurs mobiles peuvent être tractés sur plusieurs kilomètres pendant les activités de pêche, et que nous ne connaissons pas les points de début et de fin des activités de pêche mobile. Les tailles des zones tampons pour les moteurs fixes et mobiles étaient de 200 et 2 000 mètres, respectivement. Pour caractériser l'intensité des activités de pêche, nous avons utilisé un indice de densité de rendement de la biomasse. Nous avons multiplié la biomasse annuelle totale capturée dans chaque cellule de la grille, quelle que soit l'espèce, par la proportion de zones de pêche dans chaque cellule de la grille.\n\nIl est possible de consulter le rapport scientifique du projet ***eDrivers*** : [Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full) et les [données complémentaires](https://www.frontiersin.org/articles/10.3389/fmars.2020.00383/full#supplementary-material). Il est possible de consulter l'application [*eDrivers*](https://catalogue.ogsl.ca/dataset/ca-cioos_7c51ad5f-c2a9-4f4a-a78c-0b652e630825)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b4e2b123-a012-4b0a-8331-7b9c05d382ad"
+  ],
+  "dct_issued_s": "2010-01-01",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b4e2b123-a012-4b0a-8331-7b9c05d382ad\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Commercial fisheries intensity, Driver of Environmental Change: eDrivers Project for the St.Lawrence System",
+  "gbl_mdModified_dt": "2026-07-31T16:37:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7f6be92c-77ba-5204-9f07-39e665da038b",
+  "locn_geometry": "ENVELOPE(-71.01561, -55.8672, 45.57044, 51.97679)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,54 @@
+{
+  "dcat_keyword_sm": [
+    "Spatiotemporal correlation",
+    "Wind model",
+    "methane inventory",
+    "Wind uncertainty",
+    "Numerical Weather Prediction Model",
+    "remote survey",
+    "Gaussian copula"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conrad, Bradley M. (Carleton University). ORCID: https://orcid.org/0000-0003-3678-7434",
+    "Johnson, Matthew R. (Carleton University). ORCID: https://orcid.org/0000-0002-3637-9919"
+  ],
+  "dct_description_sm": [
+    "Individual files comprising:\n1) supplemental figures for all derived region-averaged wind speed error models, including the Canadian provinces of British Columbia, Alberta, and Saskatchewan; the U.S. state of North Dakota; a combined Saskatchewan - North Dakota model; and the country of Colombia.  \n2) Python code (WindSpeed.py) for interfacing with and applying these models, as well as Jupyter Notebook and a .pdf file outlining how to use the code.\n3) Data file (wind-error-models.pickle) containing model coefficients that is read by the Python code"
+  ],
+  "dct_identifier_sm": [
+    "971399_1024599",
+    "https://doi.org/10.5683/SP3/PMLX4X"
+  ],
+  "dct_issued_s": "2025-08-12",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/PMLX4X\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada",
+    "Alberta, Canada",
+    "Saskatchewan, Canada",
+    "North Dakota, United States",
+    "Colombia"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences",
+    "Mathematical Sciences",
+    "Engineering"
+  ],
+  "dct_title_s": "Supplemental Code and Derived Models for \"Accounting for spatiotemporally correlated errors in wind speed for remote surveys of methane emissions\"",
+  "gbl_mdModified_dt": "2025-08-12T15:18:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7e902a08-300e-584e-b819-dd87be4c0865",
+  "pcdm_memberOf_sm": [
+    "The Energy & Emissions Research Lab (EERL) Dataverse"
+  ],
+  "schema_provider_s": "Carleton University Dataverse"
+}

@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Raquette",
+    "Raquette a neige",
+    "Activite hivernale",
+    "Information gouvernementale",
+    "Sport",
+    "Donnee ouverte"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Polyline layer of snowshoeing trails in the territory of the city of Shawinigan.\n\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Collection method**\n Scanning from orthophotography\n\n**Attributes**\n\n* `objective` (`OID`): \n* `association_name` (`String`): Association\n* `location` (`String`): Location\n* `sector` (`String`): Sector\n* `circuit` (`String`): Number\n* `Circuit_name` (`String`): Name\n* `problem` (`String`): Difficulty\n* `Kilometers` (`Double`): Mileage\n* `st_length (shape) `(`Double`): Length\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche polyligne des sentiers de raquette sur le territoire de la ville de Shawinigan.\n\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `nom_association` (`String`) : Association\n* `localisation` (`String`) : Localisation\n* `secteur` (`String`) : Secteur\n* `circuit` (`String`) : Numéro\n* `nom_circuit` (`String`) : Nom\n* `difficulte` (`String`) : Difficulté\n* `kilometres` (`Double`) : Kilométrage\n* `st_length(shape)` (`Double`) : Longueur\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/3f137d4d-b156-4e77-afed-febd3d5352f4"
+  ],
+  "dct_issued_s": "2024-02-28",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/3f137d4d-b156-4e77-afed-febd3d5352f4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Sentiers de raquette - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T17:42:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6a24f587-9a5c-58ea-b673-e3bb8b075982",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.75, -121.31, 50.39, 49.29)",
+  "dcat_keyword_sm": [
+    "wildland-urban interface",
+    "Provincial Strategic Threat Analysis",
+    "wildfire modelling",
+    "BurnP3+",
+    "coastal fire regime",
+    "geographic weighted regression"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Gauci, Catherine (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfire seasons in British Columbia are becoming more severe, increasing risk for communities in the wildland-urban interface. Land managers use wildfire threat models to guide fuel treatments and community protection, but different models can produce diverging results depending on design. This study compared two commonly used wildfire threat models across six communities in coastal and mountainous southwest British Columbia to understand how and why their outputs differ, and how well each represents wildfire potential. The Provincial Strategic Threat Analysis is static and uses a single weighted formula for the province based largely on past fire occurrence, fire behaviour indices, and outdated fuel layers. The BurnP3+ model simulates thousands of potential fires under varying weather and landscape conditions. Spearman correlations, fuel stratification, ordinary least squares regression and geographically weighted regression were used to assess input importance, spatial patterns, and model accuracy. The Provincial Strategic Threat Analysis consistently produced higher threat scores across all communities, and nearly 90% of its variation was explained by a single fuel-related input. This highlights that it is not tailored to regional differences in landscape, weather, or fine-scale conditions. In contrast, BurnP3+ showed more spatially detailed responses, with geographically weighted regression revealing that its optimal local bandwidth on the coast was six times smaller than the static model, reflecting much finer-scale variation in drivers of threat. Model agreement was high in mountainous areas with stable conditions but low on the coast, where rare historical fires, variable conditions, and increasingly hot and dry conditions make wildfire potential harder to quantify. These results suggest generalized, static models may misrepresent wildfire threat in coastal communities, while simulation-based approaches have better potential to capture fine-scale and emerging wildfire threat under changing climate conditions."
+  ],
+  "dct_identifier_sm": [
+    "1142731_1226260_73894_115983",
+    "https://doi.org/10.5683/SP3/CNX7AT"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CNX7AT\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "A Comparative Analysis of Wildfire Models in Coastal British Columbia",
+  "gbl_mdModified_dt": "2026-04-28T16:37:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d2efa61d-fe70-537c-bd62-2430c0a32064",
+  "locn_geometry": "ENVELOPE(-124.75, -121.31, 50.39, 49.29)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

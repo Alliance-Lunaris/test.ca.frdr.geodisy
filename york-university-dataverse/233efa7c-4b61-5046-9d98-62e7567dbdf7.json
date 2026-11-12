@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.436741, -63.410545, 72.700413, 42.80722)",
+  "dcat_keyword_sm": [
+    "Indigenous Youth",
+    "Residential Schools"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Orlandini, Rosa (York University). ORCID: https://orcid.org/0000-0002-7609-9356"
+  ],
+  "dct_description_sm": [
+    "<p>The Residential Schools Locations Dataset in Geodatabase format (IRS_Locations.gbd) contains a feature layer \"IRS_Locations\" that contains the locations (latitude and longitude) of Residential Schools and student hostels operated by the federal government in Canada.<p>\r\n<p>All the residential schools and hostels that are listed in the Residential Schools Settlement Agreement are included in this dataset, as well as several Industrial schools and residential schools that were not part of the IRRSA. This version of the dataset doesn’t include the five schools under the Newfoundland and Labrador Residential Schools Settlement Agreement.</p>\r\n<p>The original school location data was created by the Truth and Reconciliation Commission, and was provided to the researcher (Rosa Orlandini) by the National Centre for Truth and Reconciliation in April 2017. The dataset was created by Rosa Orlandini, and builds upon and enhances the previous work of the Truth and Reconcilation Commission, Morgan Hite (creator of the Atlas of Indian Residential Schools in Canada that was produced for the Tk'emlups First Nation and Justice for Day Scholar's Initiative, and Stephanie Pyne (project lead for the Residential Schools Interactive Map). Each individual school location in this dataset is attributed either to RSIM, Morgan Hite, NCTR or Rosa Orlandini.</p>\r\n<p>Many schools/hostels had several locations throughout the history of the institution. If the school/hostel moved from its’ original location to another property, then the school is considered to have two unique locations in this dataset,the original location and the new location. For example, Lejac Indian Residential School had two locations while it was operating, Stuart Lake and Fraser Lake. If a new school building was constructed on the same property as the original school building, it isn't considered to be a new location, as is the case of Girouard Indian Residential School.When the precise location is known, the coordinates of the main building are provided, and when the precise location of the building isn’t known, an approximate location is provided.</p>\r\n<p>For each residential school institution location, the following information is provided: official names, alternative name, dates of operation, religious affiliation, latitude and longitude coordinates, community location, Indigenous community name, contributor (of the location coordinates), school/institution photo (when available), location point precision, type of school (hostel or residential school) and list of references used to determine the location of the main buildings or sites.</p>\r\n<p><strong>Access Instructions</strong>: there are 47 files in this data package. Please download the entire data package by selecting all the 47 files and click on download. Two files will be downloaded, IRS_Locations.gbd.zip and IRS_LocFields.csv. Uncompress the IRS_Locations.gbd.zip. Use QGIS, ArcGIS Pro, and ArcMap to open the feature layer IRS_Locations that is contained within the IRS_Locations.gbd data package. The feature layer is in WGS 1984 coordinate system. There is also detailed file level metadata included in this feature layer file. The IRS_locations.csv provides the full description of the fields and codes used in this dataset. </p>"
+  ],
+  "dct_identifier_sm": [
+    "75638_75122_75486",
+    "https://doi.org/10.5683/SP2/JFQ1SZ"
+  ],
+  "dct_issued_s": "2019-05-15",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/JFQ1SZ\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Social Sciences",
+    "Arts and Humanities"
+  ],
+  "dct_title_s": "Residential Schools Locations Dataset (Geodatabase)",
+  "gbl_mdModified_dt": "2019-05-31T14:26:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "233efa7c-4b61-5046-9d98-62e7567dbdf7",
+  "locn_geometry": "ENVELOPE(-139.436741, -63.410545, 72.700413, 42.80722)",
+  "pcdm_memberOf_sm": [
+    "Rosa Orlandini Dataverse // Residential Schools Locations Project"
+  ],
+  "schema_provider_s": "York University Dataverse"
+}

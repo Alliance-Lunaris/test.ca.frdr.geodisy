@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-0.821228, -0.332397, 6.763306, 6.490906)",
+  "dcat_keyword_sm": [
+    "Kwahu South",
+    "AGB",
+    "Landsat 9",
+    "Random Forest",
+    "GEDI",
+    "PlanetScope"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Phung, Hieu (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Forest plays a vital role in regulating the global carbon cycle, yet their aboveground biomass (AGB) remains difficult to estimate over large areas due to limitations of field-based measurements. This study addresses the challenge by evaluating satellite-based approaches to estimate AGB in Kwahu South, Ghana. The objective was to determine which optical satellite imagery, when paired with a consistent reference dataset, offers the most accurate biomass prediction. Specifically, three datasets were compared: Landsat 9, PlanetScope, and rescaled PlanetScope. \n\nGlobal Ecosystem Dynamics Investigation (GEDI) L4A data, collected by a full waveform LiDAR instrument mounted on the International Space Station (ISS), was used as reference data for validation. GEDI provides high-resolution laser ranging observations that capture the 3D structure of Earth's forests. GEDI L4A specifically provides globally available aboveground biomass density (AGBD) estimates, serving as reliable reference data for training and validating remote sensing models and reducing reliance on labor-intensive field campaigns. \n\nVegetation indices and topographic variables were extracted from each satellite dataset and used as explanatory variables in a Random Forest regression model trained using ArcGIS Pro. Results showed that rescaled PlanetScope imagery achieved the highest prediction accuracy with a model explaining 84% of variability in observed AGB and the lowest prediction error. Despite its higher spatial resolution, the original Planet model was less accurate compared to Landsat 9. These findings highlight the importance of matching the spatial scale of satellite data to that of reference observations. They also suggest that increasing resolution does not always improve model performance and that thoughtful data preprocessing can significantly enhance prediction accuracy. This research offers a scalable and cost-effective method for monitoring biomass in regions where ground measurements are limited, contributing to better-informed forest management and carbon accounting efforts."
+  ],
+  "dct_identifier_sm": [
+    "894522_73894_115983",
+    "https://doi.org/10.5683/SP3/EA5GAR"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/EA5GAR\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Kwahu South District, Ghana"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Detecting Change of Aboveground Biomass (AGB) in Kwahu South, Ghana",
+  "gbl_mdModified_dt": "2025-04-22T16:59:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0979a7b2-91e0-5e28-a138-aaf327b03a3a",
+  "locn_geometry": "ENVELOPE(-0.821228, -0.332397, 6.763306, 6.490906)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

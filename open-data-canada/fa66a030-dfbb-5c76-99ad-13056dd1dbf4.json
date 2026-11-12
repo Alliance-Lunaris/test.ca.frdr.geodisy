@@ -1,0 +1,72 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Earth sciences",
+    "flood screening",
+    "Canada",
+    "Données historiques",
+    "Eau de surface",
+    "Carte géographique",
+    "North America",
+    "Water management",
+    "Canada",
+    "Sciences de la terre",
+    "historical data",
+    "Surface water",
+    "Hydrologie",
+    "flood susceptibility",
+    "Floods",
+    "Northern Hemisphere",
+    "susceptibilité aux inondations",
+    "Western Hemisphere",
+    "dépistage des zones inondables",
+    "Mid-latitude",
+    "Hydrology",
+    "dépistage des zones inondables",
+    "Geographical maps",
+    "probabilité d'inondation",
+    "Hémisphère septentrional",
+    "Amérique du nord",
+    "Gestion de l'eau",
+    "Hémisphère occidental",
+    "Inondation",
+    "Latitude moyenne",
+    "flood likelihood"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Historique - Cartographie de la susceptibilité aux inondations"
+  ],
+  "dct_creator_sm": [
+    "GeoInfo."
+  ],
+  "dct_description_sm": [
+    "This series of historic flood susceptibility maps comes from an XGBboost machine learning model trained on major floods from 2005 to 2023. The trained model is then run for each year from 2000 to 2023, including unique temporal characteristics of temperature, precipitation, land use land cover and  Normalized Difference Vegetation Index (NDVI), to predict the flood susceptibility of any given year.\n\nThis dataset forms part of a broader collection of flood susceptibility datasets, offering related information and analyses. The collection includes an overview page with associated publications, historic susceptibility values, temporal trends, and future projections.\n\n- [Collection – Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc)\n- [Trends and Extremes – Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)\n- [Future - Flood Susceptibility Mapping]( https://open.canada.ca/data/en/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)",
+    "Cette série de cartes historiques de la susceptibilité aux inondations provient d’un modèle d’apprentissage automatique XGBoost entraîné à partir des inondations majeures survenues entre 2005 et 2023. Le modèle ainsi entraîné est ensuite exécuté pour chaque année de 2000 à 2023, en intégrant les caractéristiques temporelles propres à la température, aux précipitations, à l’occupation du sol et à l’indice de végétation par différence normalisée (IVDP), afin de prédire la susceptibilité aux inondations pour chaque année.\n\nThis dataset forms part of a broader collection of flood susceptibility datasets, offering related information and analyses. The collection includes an overview page with associated publications, historic susceptibility values, temporal trends, and future projections.\n\n- [Collection - Cartographie de la susceptibilité aux inondations]( https://ouvert.canada.ca/data/fr/dataset/1074f781-85d3-4c86-86cb-fd1c339197dc)\n- [Tendances et extrêmes - Cartographie de la susceptibilité aux inondations]( https://ouvert.canada.ca/data/fr/dataset/3202e0a0-0afb-4120-b102-b0c41f0fb9eb)\n- [Future - Cartographie de la susceptibilité aux inondations]( https://ouvert.canada.ca/data/fr/dataset/c00f95a3-7bab-4d28-b9cc-b30f06b5afd2)"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77"
+  ],
+  "dct_issued_s": "2026-03-01",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ea1384df-bf4a-4743-97bb-870dc43f8d77\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Historic - Flood Susceptibility Mapping",
+  "gbl_mdModified_dt": "2026-04-24T11:30:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fa66a030-dfbb-5c76-99ad-13056dd1dbf4",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

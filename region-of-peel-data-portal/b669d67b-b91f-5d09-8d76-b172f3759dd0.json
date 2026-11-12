@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.364871, -78.955763, 44.419772, 43.107116)",
+  "dcat_keyword_sm": [
+    "Transportation",
+    "Open Data",
+    "corridor",
+    "GO Transit",
+    "tourism",
+    "rail",
+    "crossing",
+    "commute",
+    "passenger",
+    "freight",
+    "train",
+    "tracks"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><p><span>A single line representation of each track in the Region of Peel's railway network, including mainlines, crossovers, branch lines, yards, siding, spurs, and abandoned track. This dataset includes the Union-Pearson Express line.  This data was modified to use the same attributes as the Peel data and some data, such as track use, owner, and operator were transferred over to enrich the dataset as a whole.</span></p><p>The tracks are divided into the following categories:</p><p><ul><li>Main - multi-track lines with heavy passenger and/or freight traffic.</li><li>Crossover - Used to switch between tracks on a mainline.</li><li>Branch - connect main lines, usually single tracked, lower quality, and lower speed limits.</li><li>Siding - short length of track running parallel to the main/branch track that is used for passing or short/long term storage.</li><li>Spurs - short lengths of track used by companies for access to the rail network.</li><li>Yard - trackage operated by railway companies to marshal and store trains and cars.</li><li>Light Rail - transit trackage that is on road or in its own right of way. This also includes the Pearson LINK Train, a cable car.</li><li>Construction - tracks that are currently under construction. These are less accurate representations than active tracks and should be used with care.</li><li>Disused - trackage that still physically exists but does not appear to be used for any type of service.</li><li>Abandoned - physical tracks have been removed and therefore cannot be used at all (these were digitized for historical purposes).</li></ul></p></div>"
+  ],
+  "dct_identifier_sm": [
+    "f9a20d0967b541e4a6251a914ab9522b",
+    "https://www.arcgis.com/home/item.html?id=f9a20d0967b541e4a6251a914ab9522b"
+  ],
+  "dct_issued_s": "2019-11-22",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::railway\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Railway",
+  "gbl_mdModified_dt": "2026-04-22T15:33:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b669d67b-b91f-5d09-8d76-b172f3759dd0",
+  "locn_geometry": "ENVELOPE(-80.364871, -78.955763, 44.419772, 43.107116)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

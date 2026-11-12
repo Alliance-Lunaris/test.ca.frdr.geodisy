@@ -1,0 +1,54 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -47.5, 83.5, 40.0)",
+  "dcat_keyword_sm": [
+    "Territoire",
+    "Canada",
+    "Canada Lands",
+    "Boundaries",
+    "Province",
+    "Canada",
+    "Petroleum",
+    "Pétrole",
+    "Frontière",
+    "Provinces",
+    "Terres du Canada",
+    "Territories"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Étendues quadrillées du Règlement sur les terres pétrolifères et gazifères du Canada"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "The land division system used for describing the extent of oil and gas interests located in the Northwest Territories, Nunavut or in Canada's offshore area is defined in the Canada Oil and Gas Land Regulations. This land division system consists of a grid system divided into Grid Areas, Sections, and Units – all referenced to the North American Datum of 1927 (NAD27).  This data provides the geo-spatial representation of the NAD27 Oil and Gas Grid Areas referenced to NAD83 Datum. The creation of the Oil and Gas Grid Areas geo-spatial file covers areas that are situated in the Northwest Territories, Nunavut or Sable Island as well as submarine areas, not within a province, in the internal waters of Canada, the territorial sea of Canada or the continental shelf of Canada beyond 200 nm zone. The NAD83 grid area boundaries are defined by geodesics joining the four grid area corners. For sections and units, the eastern and western grid area geodesic boundaries are partitioned into 40 equal segments. The northern and southern grid area geodesic boundaries are partitioned into 40, 32 or 24 equal segments, depending on latitude. All internal corners at the section and unit level are defined by the intersections of north-south and east-west geodesics joining corresponding partition points along the northern and southern, and eastern and western, grid area geodesic boundaries.",
+    "Le Règlement sur les terres pétrolifères et gazières du Canada définit le système de division des terres servant à décrire l'étendue des intérêts pétroliers et gaziers qui se trouvent dans les Territoires du Nord-Ouest, le Nunavut ou dans la zone extracôtière du Canada. Ce système de division des terres est formé d'un système de quadrillage divisé par étendues quadrillées, sections et unités, le tout étant référencé au Système de référence nord-américain de 1927 (NAD27). Ces données fournissent une représentation géo-spatiale des étendues quadrillées NAD27 des concessions pétrolières et gazières en référence au système canadien de référence spatiale NAD83. Les régions couvertes par ces étendues quadrillées comprennent les Territoires du Nord-Ouest, le Nunavut, l'île de Sable ainsi que les aires sous-marines des eaux intérieures du Canada qui ne sont pas dans une province, de la mer territoriale du Canada et du plateau continental du Canada au-delà de la zone de 200 milles marins. Les limites des étendues quadrillées NAD83 sont définies par des géodésiques reliant les quatre coins de l’étendue quadrillée. Pour les sections et les unités, les limites géodésiques est et ouest de l’étendue quadrillée sont divisées en 40 segments égaux.  Les limites géodésiques nord et sud de l’étendue quadrillée sont divisées en 40, 32 ou 24 segments égaux, selon la latitude. Tous les coins intérieurs pour les sections et les unités sont définis par l’intersection des géodésiques nord-sud et est-ouest reliant les points de division établis le long des limites géodésiques nord et sud, et est et ouest des étendues quadrillées."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/87ef7c55-23f1-4912-8dde-4941cf99148b"
+  ],
+  "dct_issued_s": "2014-07-23",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/87ef7c55-23f1-4912-8dde-4941cf99148b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "government_and_politics",
+    "nature_and_environment",
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Grid Areas of the Canada Oil and Gas Land Regulations",
+  "gbl_mdModified_dt": "2021-07-12T19:11:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0b76f4c6-a367-54bb-8c69-4e75aaae69f6",
+  "locn_geometry": "ENVELOPE(-141.0, -47.5, 83.5, 40.0)",
+  "schema_provider_s": "Open Data Canada"
+}

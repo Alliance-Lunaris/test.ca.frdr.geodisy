@@ -1,0 +1,67 @@
+{
+  "dcat_bbox": "ENVELOPE(-135.80001000000001, -116.0, 73.0, 67.79999)",
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Activité des glissements régressifs dû au dégel et changement de couleur des lacs connexe dans cinq régions de l’ouest de l’Arctique canadien"
+  ],
+  "dct_creator_sm": [
+    "Lewkowicz, Antoni G. (University of Ottawa)."
+  ],
+  "dct_description_sm": [
+    "This database contains the spatial coordinates and years (timing and duration) of activity for more than 7400 retrogressive thaw slumps (RTS) in five areas of the western Canadian Arctic covering &gt;150 000 km2. RTS are thermokarst landforms whose headwalls retreat due to thawing of exposed ice-rich permafrost or massive ice at rates that can exceed 10 m per year. Their initiation can relate to rapid ground thaw (e.g., due to a particularly warm summer) or from local erosion undercutting a slope, and once initiated, they may expand for several decades, exporting water, sediment, and dissolved solids downslope or into aquatic systems.\nThe five study areas and their periods of record are: (1) Banks Island (1984-2016), (2) northwest Victoria Island (1984-2018), (3) Bluenose moraine (1984-2018), (4) Paulatuk region (1984-2018), and (5) Richardson Mountains / Peel Plateau (2001-2018). The entries include a code to indicate where each RTS initiated in the landscape (at the coast, on a riverbank, on a lakeshore, or on a slope) and the locations of lakes which changed colour due to RTS activity, and the dates of those changes. The data on new RTS initiations commences one year after the start of record shown above and ends one year earlier than the final date. Some RTS were already active at the start of the record (denoted by the year 1900 in the dataset) and others were still active in the final year of each record (denoted by the year 2100).\nThe RTS activity and lake colour change data were generated from visual observation of Google Earth Timelapse videos (Lewkowicz and Way 2019; Lewkowicz under review) which are mainly derived from Landsat images. Active RTS were identified by the retrogression of their headwalls which appears as movement on the Timelapse videos. The location of the approximate centroid of the RTS was then recorded on Google Earth, together with the dates of activity and the initiation code. The visual identification technique had errors of omission of 8% and of commission (incorrect identification of features as active RTS) of 1% for Banks Island (Lewkowicz and Way 2019). Similar errors are expected for the other four study areas. The activity data are resolved annually, but the year of initiation shown in the database may lag the true date by one year because the Timelapse imagery pre-dated RTS initiation, or because the RTS was too small to be observed in the first year of its existence (Lewkowicz and Way 2019). The date of cessation of activity (if this occurred) may also be subject to a degree of imprecision because it usually takes place gradually over several years, rather than suddenly across the entire headwall.\nThe lakes listed are those that visually changed colour from deep blue to turquoise or beige due to sediment inputs from RTS activity on their shorelines, or up-basin and affecting inflowing rivers or other lakes. The lake data for each study area are provided for the same period as the RTS data. Colour variations not clearly associated with RTS activity were excluded. Lakes reverted to their original colour when RTS activity ceased, or when RTS headwalls receded sufficiently that sediment inputs to the lake declined. Some lakes changed colour more than once and these separate periods were recorded in the database. The use of 1900 and 2100 for dates represents, respectively, lakes that exhibited a colour associated with sediment inputs at the start of the record and those that remained changed at the end of the record.\nOver 1984-2016, total RTS numbers in the first four study areas increased more than 50 times. The vast majority of the RTS were initiated in association with particularly warm summers (Lewkowicz under review). More than 500 lakes exhibited an altered colour due to inputs of sediment from RTS activity. The complete dataset should be useful for validation of machine-learning techniques which are currently being developed to map RTS and their impacts across the entire Arctic.",
+    "Cette base de données contient les coordonnées spatiales et les années (moment et durée) d'activité de plus de 7 400 glissements régressifs dû au dégel (GRDD) dans cinq régions de l'ouest de l'Arctique canadien couvrant plus de 150 000 km2. Les GRDD sont des formes thermokarstiques dont les parois frontales reculent en raison du dégel du pergélisol riche en glace exposé ou de la glace massive à des taux pouvant dépasser 10 m par an. Leur initiation peut être liée au dégel rapide du sol (par exemple, en raison d'un été particulièrement chaud) ou à une érosion locale sous-cotant une pente, et une fois initiées, elles peuvent s'étendre pendant quelques décennies, exportant de l'eau, des sédiments et des solides dissous vers le bas de la pente ou dans les systèmes aquatiques.\nLes cinq régions d'étude et leurs périodes d'enregistrement sont : (1) l'île Banks (1984-2016), (2) le nord-ouest de l'île Victoria (1984-2018), (3) la moraine Bluenose (1984-2018), (4) la région de Paulatuk (1984-2018) et (5) Monts Richardson/Plateau Peel (2001-2018). Les entrées comprennent un code pour indiquer où chaque GRDD a débuté dans le paysage (sur la côte, au bord d'une rivière, au bord d'un lac ou sur une pente) et les emplacements des lacs qui ont changé de couleur en raison de l’activité des GRDD, et les dates de ces changements. Les données sur les initiations des GRDD commencent un an après le début de l'enregistrement indiqué ci-dessus et se terminent un an avant la date finale. Certains GRDD étaient déjà actifs au début de l'enregistrement (indiqué par l'année 1900 dans l'ensemble de données) et d'autres étaient encore actifs au cours de la dernière année de chaque enregistrement (indiqué par l'année 2100).\nLes données d’activité GRDD et de changement de couleur du lac ont été générées à partir de l'observation visuelle de vidéos Google Earth Timelapse (Lewkowicz et Way 2019 ; Lewkowicz soumis) qui sont principalement dérivées de l'images Landsat. Les GRDD actifs ont été identifiés par la régression de parois frontales qui apparaît sous forme de mouvement sur les vidéos Timelapse. La localisation du barycentre approximatif du GRDD a ensuite été enregistrée sur Google Earth, ainsi que les dates d'activité et le code d'initiation. La technique d'identification visuelle présentait des erreurs d'omission de 8 % et de commission (identification incorrecte des éléments comme GRDD actif) de 1 % pour l'île Banks (Lewkowicz et Way 2019). Des erreurs similaires sont attendues pour les quatre autres régions d’étude. Les données d'activité sont résolues chaque année, mais l'année de l’initiation indiquée dans la base de données peut être décalée d'un an par rapport à la date réelle, car les images Timelapse sont antérieures d’initiation du GRDD ou parce que le GRDD était trop petit pour être observé au cours de la première année de son existence (Lewkowicz et Way 2019). La date de cessation d'activité (si elle a lieu) peut également être sujette à une certaine imprécision car elle intervient généralement progressivement sur plusieurs années, plutôt que brutalement sur l'ensemble de la paroi frontale.\nLes lacs répertoriés sont ceux qui ont visuellement changé de couleur du bleu profond au turquoise ou au beige en raison des apports de sédiments provenant de l'activité GRDD sur leurs rives, ou en amont du bassin et affectant les rivières ou autres lacs affluents. Les données lacustres de chaque région d'étude sont fournies pour la même période que les données GRDD. Les variations de couleur non clairement associées à l'activité GRDD ont été exclues. Les lacs ont retrouvé leur couleur d'origine lorsque l'activité du GRDD a cessé ou lorsque les parois frontales du GRDD ont reculé suffisamment pour que les apports de sédiments dans le lac diminuent. Certains lacs ont changé de couleur plus d'une fois et ces périodes distinctes ont été enregistrées dans la base de données. L'utilisation de 1900 et 2100 pour les dates représente, respectivement, les lacs qui présentaient une couleur associée aux apports sédimentaires au début de l'enregistrement et ceux qui sont restés modifiés à la fin de l'enregistrement.\nEntre 1984 et 2016, le nombre total de GRDD dans les quatre premières régions d’étude a été multiplié par plus de 50. La grande majorité des GRDD ont été initiées en association avec des étés particulièrement chauds (Lewkowicz soumis). Plus de 500 lacs présentaient une couleur altérée en raison des apports de sédiments provenant de l'activité GRDD. L’ensemble de données complet devrait être utile pour la validation des techniques d’apprentissage automatique actuellement développées pour cartographier les GRDD et leurs impacts dans l’ensemble de l’Arctique."
+  ],
+  "dct_identifier_sm": [
+    "10.5885/45888xd-c644c19f4f414d58",
+    "https://doi.org/10.5885/45888xd-c644c19f4f414d58"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "Nordicana D"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5885/45888xd-c644c19f4f414d58\"}",
+  "dct_spatial_sm": [
+    "Banks Island",
+    "Bluenose moraine",
+    "NW Victoria Island",
+    "Paulatuk region",
+    "Richardson Mountains / Peel Plateau"
+  ],
+  "dct_subject_sm": [
+    "L'île Victoria",
+    "changement de couleur du lac",
+    "Moraine Bluenose",
+    "télédétection par satellite",
+    "Réchauffement du climat",
+    "lake colour change",
+    "Paulatuk",
+    "Banks Island",
+    "Plateau Peel",
+    "permafrost degradation",
+    "Victoria Island",
+    "retrogressive thaw slump",
+    "glissement régressif dû au dégel",
+    "Climate warming",
+    "Peel Plateau",
+    "Ouest de l'Arctique canadien",
+    "dégradation du pergélisol",
+    "Bluenose moraine",
+    "Monts Richardson",
+    "satellite remote sensing",
+    "thermokarst",
+    "Paulatuk",
+    "L'île de Banks",
+    "western Canadian Arctic",
+    "Richardson Mountains",
+    "thermokarst"
+  ],
+  "dct_title_s": "Retrogressive thaw slump activity and related lake colour change in five areas of the western Canadian Arctic",
+  "gbl_mdModified_dt": "2025-08-25T17:38:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "21b87db7-42a1-5376-a7a3-f529b03bec13",
+  "locn_geometry": "ENVELOPE(-135.80001000000001, -116.0, 73.0, 67.79999)",
+  "schema_provider_s": "Nordicana D"
+}

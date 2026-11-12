@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Stationnement",
+    "Information gouvernementale",
+    "Donnee ouverte",
+    "Msp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Point layer of public parking lots on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Collection method**\n Location at the corresponding address\n\n\n**Attributes**\n\n* _objectid_ (_OID_): \n* _number_ (_String_): Number\n* _name_ (_String_): Name\n* _location_ (_String_): Location\n* _nb_place_24_hrs_ (_Integer_): Number of seats 24h\n* _handicape_ (_String_): Disabled\n* _thumbnail_ (_String_): Thumbnail\n* _Regulation_ (_String_): Regulation\n* _electric_terminal_ (_String_): Electrical terminal\n* _nb_place_2_hrs_ (_Integer_): Number of seats 2h\n* _recommende_velo_ (_String_): Bike stop\n* _type_parking_ (_String_): Parking type\n* _nb_place_totale_ (_String_): Total number of places\n* _Internal rules_ (_String_): Internal regulations\n* _deneige_ (_String_): Snow removed\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelle des stationnements publics sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n Localisation à l’adresse correspondante\n\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _numero_ (_String_) : Numéro\n* _nom_ (_String_) : Nom\n* _localisation_ (_String_) : Localisation\n* _nb_place_24_hrs_ (_Integer_) : Nombre de places 24h\n* _handicape_ (_String_) : Handicapé\n* _vignette_ (_String_) : Vignette\n* _reglement_ (_String_) : Réglement\n* _borne_electrique_ (_String_) : Borne électrique\n* _nb_place_2_hrs_ (_Integer_) : Nombre de places 2h\n* _recommande_velo_ (_String_) : Halte vélo\n* _type_stationnnement_ (_String_) : Type de stationnement\n* _nb_place_totale_ (_String_) : Nb de place totales\n* _reglementinterne_ (_String_) : Reglement interne\n* _deneige_ (_String_) : Déneigé\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6761de2c-4741-449c-a974-25acd4b5dd54"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6761de2c-4741-449c-a974-25acd4b5dd54\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Stationnements publics (ponctuels) - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-07-29T17:35:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "74bf53ed-cebb-5576-b1da-d04394c7c744",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.26, -55.371, 52.834, 47.096)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Spatial distribution of lumpfish catch rates (number per tow) during the August DFO research survey conducted annually since 1990, to assess the state of groundfish and shrimp stocks in the northern Gulf of St. Lawrence.\n\nThe area sampled by a tow is the product of the distance trawled (fishing time multiplied by vessel speed) and the wing spread (13.41 m for the Alfred Needler and 16.94 m for the Teleost). Given that this area may vary among tows, the sampling unit is standardized and defined as being a station sampled by a tow over a distance of 0.75 nautical miles (1,389 m) with a horizontal wing spread of 16.94 m. Catch variables were calculated based on the standard area, 0.02353 km².\n\nAfter each tow, the catch was sorted by taxa, and the number of individuals and total biomass of these taxa were noted. For taxa identified to the species level, individual biometric parameters (e.g., length, weight) and biological parameters (e.g., sex, maturity of gonads) were recorded based on a subsample. Full methods are described in Bourdages et al. (2010).\n\nNote that the increase in catch rate for the 2005-2009 period coincides with a change in gear for this survey.\n\nBourdages, H., and Ouellet, J.-F. 2011. Geographic distribution and abundance indices of marine fish in the northern Gulf of St. Lawrence (1990–2009). Can. Tech. Rep. Fish. Aquat. Sci. 2963: vi + 171 p.\n\nSource:\n\nGauthier, J., Grégoire, F., and Nozères, C. 2017. Assessment of Lumpfish (Cyclopterus lumpus) in the Gulf of St. Lawrence (3Pn, 4RS) in 2015. DFO Can. Sci. Advis. Sec. Res. Doc. 2017/051. v + 47 p.\n\nPurpose\n\nThe multidisciplinary survey of groundfish and shrimp in the northern Gulf of St. Lawrence has been conducted every August by Fisheries and Oceans Canada for more than two decades. Initially, its objective was to determine the abundance and geographic distribution of commercially important taxa. However, for couple of years, the objective was expanded to include all taxa caught with the shift toward the ecosystem approach."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/533d694b-b692-4127-bf22-d1e41c0b5bba"
+  ],
+  "dct_issued_s": "2019-04-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/533d694b-b692-4127-bf22-d1e41c0b5bba\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Lumpfish catch rates since 1990 in the Estuary and Gulf of St. Lawrence (NAFO divisions 3PN and 4RST)",
+  "gbl_mdModified_dt": "2026-03-24T08:31:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6eebcc91-ff49-53a4-8390-ead315115002",
+  "locn_geometry": "ENVELOPE(-69.26, -55.371, 52.834, 47.096)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

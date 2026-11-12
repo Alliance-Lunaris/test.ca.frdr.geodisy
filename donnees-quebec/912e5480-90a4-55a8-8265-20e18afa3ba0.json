@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "Route verte",
+    "Veloboucles mauricie",
+    "Ville de shawinigan",
+    "Pistes cyclables",
+    "Voies cyclables",
+    "Donnee ouverte",
+    "Velo",
+    "Bicyclette",
+    "Msp"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Couche linéaire du réseau cyclable de la Ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n**Méthode de collecte**\n  Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* _objectid_ (_OID_) : \n* _type_ (_String_) : Type\n* _surface_ (_String_) : Surface\n* _statut_ (_String_) : Statut\n* _longueur_ (_Double_) : Longueur\n* _st_length(shape)_ (_Double_) : Longueur\n* _annee_resurfacage_ (_String_) : Année de resurfaçage\n* _velobouclemauricie_ (_String_) : Véloboucle Mauricie\n* _routeverte_ (_String_) : Route Verte\n\n\nPour plus d’informations, consultez <a href=\"https://open.isogeo.com/s/b6da64af30234cbda2afed3972a5fc3e/Urd8YxfJdWSzGaUmhHFMY60vx14s0/r/03617e6934ea47fc8cbb86031835d060\" target=\"_blank\">la métadonnée sur le catalogue Isogeo</a> (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/cc22af97-fe94-45d2-b892-9bb583a8f45b"
+  ],
+  "dct_issued_s": "2026-08-17",
+  "dct_publisher_sm": [
+    "Ville de Shawinigan"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/cc22af97-fe94-45d2-b892-9bb583a8f45b\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Shawinigan, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Tourisme, sports et loisirs"
+  ],
+  "dct_title_s": "Réseau cyclable - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-08-17T17:30:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "912e5480-90a4-55a8-8265-20e18afa3ba0",
+  "schema_provider_s": "Données Québec"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(122.5656223, 119.6657479, 51.933299, 50.2908903)",
+  "dcat_keyword_sm": [
+    "Random forest, Remote sensing, Wildfire, Fuel type classification, Forest inventory data, Object-based image analysis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Li, Shuojie (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Wildfire drives a tremendous amount of forest and land cover change in the central interior of British Columbia, Canada. Fuel type maps have been acknowledged as critical references to conduct landscape-level fire simulations as well as fire behavior predictions. Nonetheless, the current thematic maps are not updated on an annual basis and cannot be easily produced at a certain scale and speed. The objective of this research was to test the hypothesis – that machine learning algorithm can augment the current manual wildfire fuel types identification system and can help to update fuel types on an annual basis, in the meantime the accuracy of the algorithm can meet the standards of The Ministry of Forests, Lands, Natural Resource Operations and Rural Development (BC FLNRO).  The random forest algorithm was applied over a 40 000-km² landscape in central interior British Columbia that burned from a megafire in 2017. Fuel maps were obtained from the years 2013-2017, with the cross-validation overall accuracy reached 98.57% and the overall accuracy of confusion matrix tested on the validation set reached 92.35%. Various recommendations are given for future research using machine learning algorithms for fuel mapping such as assuring pre-processing procedure follows delicate standards, modifying the machine learning algorithm, and adopting other sources of remotely sensed data."
+  ],
+  "dct_identifier_sm": [
+    "150940_73894_115983",
+    "https://doi.org/10.5683/SP2/N45050"
+  ],
+  "dct_issued_s": "2021-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/N45050\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "A Random Forest Algorithm for Learning and Updating Fuel Types for Fire Research",
+  "gbl_mdModified_dt": "2021-04-18T01:43:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f487802b-8b16-541c-a5d2-fe67fca41c1a",
+  "locn_geometry": "ENVELOPE(122.5656223, 119.6657479, 51.933299, 50.2908903)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

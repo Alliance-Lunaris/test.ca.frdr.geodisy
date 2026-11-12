@@ -1,0 +1,62 @@
+{
+  "dcat_keyword_sm": [
+    "Arthropods",
+    "Caloptilia sp.",
+    "community genetics",
+    "Salix hookeriana",
+    "Aculus tetanothrix",
+    "plant traits",
+    "secondary metabolites",
+    "Leaf Quality",
+    "Iteomyia salicisverruca"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Barbour, Matthew A. (University of British Columbia).",
+    "Rodriguez-Cabal, Mariano A. (National University of Comahue, University of British Columbia).",
+    "Wu, Elizabeth T. (Humboldt State University).",
+    "Julkunen-Tiitto, Riitta (University of Eastern Finland).",
+    "Ritland, Carol E. (University of British Columbia).",
+    "Miscampbell, Allyson E. (University of British Columbia).",
+    "Jules, Erik S. (Humboldt State University).",
+    "Crutsinger, Gregory M. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/nvzRl-KQZOOF-wSyI2aSawURqxxVJw4JjQCPit3szXo</p>\n<p><b>Storage size:</b> 270970</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>1. Community genetics research has posited a genetic basis to the assembly of ecological communities. For arthropod herbivores in particular, there is strong support that genetic variation in host plants is a key factor shaping their diversity and composition. However, the specific plant phenotypes underlying herbivore responses remain poorly explored for most systems. 2. We address this knowledge gap by examining the influence of both genetic and phenotypic variation in a dominant host-plant species, Salix hookeriana, on its associated arthropod herbivore community in a common garden experiment. Specifically, we surveyed herbivore responses among five different arthropod feeding guilds to 26 distinct S. hookeriana genotypes. Moreover, we quantified the heritability of a suite of plant traits that determine leaf quality (e.g. phenolic compounds, trichomes, specific leaf area, C : N) and whole-plant architecture, to identify which traits best accounted for herbivore community responses to S. hookeriana genotype. 3. We found that total herbivore abundance and community composition differed considerably among S. hookeriana genotypes, with strong and independent responses of several species and feeding guilds driving these patterns. We also found that leaf phenolic chemistry displayed extensive heritable variation, whereas leaf physiology and plant architecture tended to be less heritable. Of these traits, herbivore responses were primarily associated with leaf phenolics and plant architecture; however, different herbivore species and feeding guilds were associated with different sets of traits. Despite our thorough trait survey, plant genotype remained a significant predictor of herbivore responses in most trait association analyses, suggesting that unmeasured host-plant characteristics and/or interspecific interactions were also contributing factors. 4. Taken together, our results support that the genetic basis of herbivore community assembly occurs through a suite of plant traits for different herbivore species and feeding guilds. Still, identifying these phenotypic mechanisms requires measuring a broad range of plant traits and likely further consideration of how these traits affect interspecific interactions.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Table S7: Willow trait REML models</h4><div class=\"o-metadata__file-description\">This R script reproduces Table S7 of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\" This script contains all of the restricted maximum likelihood (REML) models and broad-sense heritability estimates of the 40 willow (Salix hookeriana) traits measured in this common garden experiment.</div><div class=\"o-metadata__file-name\">trait_REML_table.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Table S4: Heatmap of willow phenotypic correlations</h4><div class=\"o-metadata__file-description\">This R script reproduces Table S4 of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\" Specifically, this script calculates willow (Salix hookeriana) phenotypic correlations (Pearson's r) among the 40 traits measured in this common garden experiment. This script also generates a heat map for visualizing these correlations.</div><div class=\"o-metadata__file-name\">trait.corr_plot.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig. 3: Multipanel figure of genetic variation in willow traits</h4><div class=\"o-metadata__file-description\">This script reproduces Fig. 3 of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\" Specifically, it calculates and plots the mean and standard error of several plant traits measured among the 26 willow genotypes used in this common garden experiment.</div><div class=\"o-metadata__file-name\">plant.trait_plots.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig. 2: Multipanel figure of herbivore guild responses to willow genotype</h4><div class=\"o-metadata__file-description\">This R script reproduces Fig. 2 in the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\" Specifically, this script calculates and plots the mean and standard error of the abundance of each feeding guild occurring on the 26 willow genotypes measured in this common garden experiment.</div><div class=\"o-metadata__file-name\">herb.guild_responses_genotype.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Fig. 1 & S6: Herbivore community responses to willow genotype</h4><div class=\"o-metadata__file-description\">This R script reproduces Fig. 1 & S6 in the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\"</div><div class=\"o-metadata__file-name\">herb.com_responses_genotype.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Summary of results for herbivore community responses to willow genotype.</h4><div class=\"o-metadata__file-description\">This R script runs one-way ANOVA, GLMs, and RDA models of herbivore community responses to willow genotype. These results are reported in the first 2 paragraphs of the Results section of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\"</div><div class=\"o-metadata__file-name\">herb.com_anova_table.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Table 1 & 2: Phenotypic and genetic correlations of herbivore guild and species responses</h4><div class=\"o-metadata__file-description\">This R script reproduces the results reported in Table 1 & 2 of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly. Specifically, this script calculates Pearson correlations for phenotypic and genotypic correlations of herbivore community.</div><div class=\"o-metadata__file-name\">herb.com_corr_table.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Table 3: willow traits that best predict herbivore community responses</h4><div class=\"o-metadata__file-description\">This R script runs the forward model selection approach advocated by Blanchet et al. (2008, Ecology) to identify which willow traits best predict herbivore community responses. After identifying these traits, I then determined whether willow genotype still had a significant effect. These results are reported in Table 3 of the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\"</div><div class=\"o-metadata__file-name\">herb.trait_regressions.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Table S5: Principal Component Analysis of willow phenolic compounds</h4><div class=\"o-metadata__file-description\">This R script replicates the principal component analyses we performed on different classes of phenolic compounds (Table S5) in the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\" We explored different transformations (sqrt, log, log(x+1)) to linearize the relationships among leaf phenolic compounds. We then used scree plots and visual inspection of phenolic compound loadings to choose interpretable principal componenents. All PCs were performed on the correlation matrix to give equal weight to each phenolic compound.</div><div class=\"o-metadata__file-name\">phenolic_pcas.R</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Willow herbivore community and plant trait management script</h4><div class=\"o-metadata__file-description\">This R script manages the herbivore community and plant trait data for the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly\". This file is sourced in for all of the other R scripts associated with this manuscript so that all of the figures, tables, and analyses are reproducible.</div><div class=\"o-metadata__file-name\">herb_trait_manage.r</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Willow genotype, herbivore community, and plant trait data</h4><div class=\"o-metadata__file-description\">Contains all of the data that is analyzed and reported in the manuscript entitled, \"Multiple plant traits shape the genetic basis of herbivore community assembly.\"</div><div class=\"o-metadata__file-name\">herb.trait.data.csv</br></div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152786_150149",
+    "https://doi.org/10.5683/SP2/B95IFN"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/B95IFN\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "USA",
+    "124°12'4\"W",
+    "Loleta",
+    "40°40'53\"N",
+    "California"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Multiple plant traits shape the genetic basis of herbivore community assembly",
+  "gbl_mdModified_dt": "2021-05-19T17:53:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "445eba4f-467c-530f-8c8a-b318ef4014ab",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

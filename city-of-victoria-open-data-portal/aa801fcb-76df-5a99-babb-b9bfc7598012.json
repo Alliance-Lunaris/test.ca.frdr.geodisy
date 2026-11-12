@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.4302, -123.3223, 48.4512, 48.4056)",
+  "dcat_keyword_sm": [
+    "transportation",
+    "intersections",
+    "roads",
+    "streets",
+    "engineering",
+    "GIS"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Victoria."
+  ],
+  "dct_description_sm": [
+    "<p>Road intersections in the City of Victoria.</p><p>This dataset is used for searches, so each intersection has multiple points to allow for a search string with street names in any order.  e.g. the user can search and find either &quot;Bay St &amp; Blanshard St&quot; or &quot;Blanshard St &amp; Bay St&quot;.</p><p>Data are updated by city staff as needed, and automatically copied to the Open Data Portal. The &quot;Last Updated&quot; date shown on our Open Data Portal refers to the last time the data schema was modified in the portal, or any changes were made to this description.  We update our data through automated scripts which does not trigger the &quot;last updated&quot; date to change.</p><p>Note: Attributes represent each field in a dataset, and some fields will contain information such as ID numbers.  As a result some visualizations on the tabs on our Open Data page will not be relevant.</p>"
+  ],
+  "dct_identifier_sm": [
+    "383095cdbc6d41adb717c61e7160452e",
+    "https://www.arcgis.com/home/item.html?id=383095cdbc6d41adb717c61e7160452e"
+  ],
+  "dct_issued_s": "2019-02-13",
+  "dct_publisher_sm": [
+    "City of Victoria"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.victoria.ca/datasets/VicMap::intersections\"}",
+  "dct_rights_sm": [
+    "Open Data Licence"
+  ],
+  "dct_title_s": "Intersections",
+  "gbl_mdModified_dt": "2024-11-04T23:10:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "aa801fcb-76df-5a99-babb-b9bfc7598012",
+  "locn_geometry": "ENVELOPE(-123.4302, -123.3223, 48.4512, 48.4056)",
+  "schema_provider_s": "City of Victoria Open Data Portal"
+}

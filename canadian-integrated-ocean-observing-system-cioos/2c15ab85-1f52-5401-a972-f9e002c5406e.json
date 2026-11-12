@@ -1,0 +1,68 @@
+{
+  "dcat_bbox": "ENVELOPE(-171.155, -126.385166666667, 45.0000166666667, 58.0061833333333)",
+  "dcat_keyword_sm": [
+    "abondance-et-distribution-de-poissons",
+    "international-year-of-the-salmon",
+    "seagrasscoverandcomposition",
+    "microbebiomassanddiversity",
+    "north-pacific-ocean",
+    "macroalgalcanopycoverandcomposition",
+    "biomasse-et-diversite-microbienne",
+    "oceans",
+    "ecosystems",
+    "composition-et-couverture-de-la-canopee-de-macroalgues",
+    "abondance-et-distribution-de-tortues-marines-oiseaux-et-mammiferes",
+    "biomasse-et-diversite-de-zooplancton",
+    "zooplanktonbiomassanddiversity",
+    "composition-et-couverture-des-herbiers-marins",
+    "pacific-salmon",
+    "fishabundanceanddistribution",
+    "marineturtlesbirdsmammalsabundanceanddistribution",
+    "edna",
+    "invertebrateabundanceanddistribution",
+    "composition-et-couverture-des-coraux-durs",
+    "phytoplanktonbiomassanddiversity",
+    "hardcoralcoverandcomposition",
+    "abondance-et-distribution-dinvertebres",
+    "biomasse-et-diversite-de-phytoplancton"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données d'ADN environnemental (eDNA) provenant de la Garde côtière canadienne Sir John Franklin, de la NOAA Bell M. Shimada et du R/V TINRO lors de l'expédition panpacifique hivernale en haute mer de l'Année internationale du saumon 2022"
+  ],
+  "dct_creator_sm": [
+    "North Pacific Anadromous Fish Commission.",
+    "Deeg, Christoph (University of British Columbia, Fisheries and Oceans Canada).",
+    "Tam, Christopher (Department of Fisheries and Oceans, Fisheries and Oceans Canada).",
+    "Esenkulova, Svetlana (Pacific Salmon Foundation).",
+    "Wells, Abi (National Oceanic and Atmospheric Administration).",
+    "Soshnina, Valeriia (All-Russian Research Institute Fisheries and Oceanography).",
+    "Ens, Nicholas (University of Victoria).",
+    "Schulze, Angela (Department of Fisheries and Oceans, Fisheries and Oceans Canada).",
+    "Miller-Saunders, Kristi (Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "Amplicon sequence variant (asv) dataset from multi amplicon metabarcoding environmental DNA analysis from the International Year of the Salmon Signature expedition to the Northeast Pacific in Feb/Mar 2022. A table of all asv generated in the study is provided  in ASV.csv, broken down by amplicon and sample and listing the occurance of said asv in said sample. Further, total reads per amplicon/sample bin are recorded as well as a taxonomic assignment. Note that this data is provided prior to filtering, e.g. \"Homo sapiens\" reads are abundant and should be considered contamination. The metadata to sampling stations is provided in the sample_metadata.csv which contains the date, lat/long, as well as detailed environmental metadata associated with the sample. Refer to Deeg et al. \"Spatiotemporal patterns of salmon winter habitat usage in the Northeast Pacific uncovered by environmental DNA\" ICES Journal of Marine Science 2025 (https://doi.org/10.1093/icesjms/fsaf104) for detailed information on sample collection, sequencing and bioinformatic processing.",
+    "Ensemble de données de variants de séquences d'amplicons (asv) issu d'une analyse de l'ADN environnemental par métabarcodage à barres multi-amplicons lors de l'expédition Signature de l'Année internationale du saumon dans le Pacifique Nord-Est en février/mars 2022. Un tableau de tous les asv générés dans l'étude est fourni dans ASV.csv, ventilé par amplicon et échantillon et répertoriant la présence dudit asv dans ledit échantillon. De plus, le nombre total de lectures par amplicon/bac d'échantillons est enregistré ainsi qu'une attribution taxonomique. Notez que ces données sont fournies avant le filtrage. Par exemple, les lectures d' « Homo sapiens » sont abondantes et doivent être considérées comme une contamination. Les métadonnées des stations d'échantillonnage sont fournies dans le fichier sample_metadata.csv qui contient la date, lat/long, ainsi que des métadonnées environnementales détaillées associées à l'échantillon. Reportez-vous à Deeg et coll. « Les modèles spatiotemporels de l'utilisation de l'habitat hivernal du saumon dans le Pacifique Nord-Est découverts par l'ADN environnemental » ICES Journal of Marine Science 2025 (https://doi.org/10.1093/icesjms/fsaf104) pour des informations détaillées sur le prélèvement d'échantillons, le séquençage et le traitement bioinformatique."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/4a3f6b07-af58-410d-804a-ab605ddce4c8"
+  ],
+  "dct_issued_s": "2022-02-05",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/4a3f6b07-af58-410d-804a-ab605ddce4c8\"}",
+  "dct_rights_sm": [
+    "CC0"
+  ],
+  "dct_title_s": "Environmental DNA (eDNA) data from the CCGS Sir John Franklin, NOAA Bell M. Shimada and R/V TINRO during the 2022 International Year of the Salmon Pan-Pacific Winter High Seas Expedition",
+  "gbl_mdModified_dt": "2026-09-16T20:24:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2c15ab85-1f52-5401-a972-f9e002c5406e",
+  "locn_geometry": "ENVELOPE(-171.155, -126.385166666667, 45.0000166666667, 58.0061833333333)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-77.92700000000002, -61.41500000000002, 48.4952, 24.899)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mucci, Alfonso (McGill University). ORCID: https://orcid.org/0000-0001-9155-6319",
+    "Guiney, Hannah (McGill University)."
+  ],
+  "dct_description_sm": [
+    "The archived dataset was collected during a laboratory experiment, conducted between April 2021 and April 2022 at McGill University, in which we tested the competitive carbonate dissolution hypothesis. A mixture of biogenic and synthetic carbonates was reacted with acidified, natural seawater to simulate the progressive acidification of ocean waters by anthropogenic carbon dioxide (CO2). The biogenic material (Goniolithon, a high-magnesium (Mg) calcite red algae, and Halimeda, an aragonitic green algae) was collected off the coast of Andros, Bahamas in November 2019, whereas the ACS-grade synthetic calcite was purchased from Fisher Scientific®. The natural seawater was collected at ~400 m depth in the Gulf of St. Lawrence. The reaction was conducted in 350 mL of natural seawater with 0.3133 g of Goniolithon, 0.3020 g of Halimeda and 0.3068 g of synthetic calcite in a 500 mL water-jacketed glass reaction vessel maintained at 25.0 °C by recirculating water from a constant temperature bath through the reactor jacket. Results of this study confirm the hypothesis that carbonates will dissolve sequentially according to their respective solubility. They also reveal that the dissolution of high Mg-calcites proceeds incongruently. The originality of this contribution rests with the demonstration that the presence of a single high Mg-calcite will generate, like in a sediment of mixed mineralogy, a continuum of transient states as lower Mg-calcites of greater stability are precipitated and dissolved.",
+    "The experiment was started on April 9, 2021 and completed on April 10, 2022.---The natural seawater was collected in the deep waters of the Gulf of St. Lawrence using a rosette system (12 x 12 L Niskin bottles) equipped with Conductivity-Temperature-Depth sensors (CTD, Seabird® SBE 911plus) onboard the R/V Coriolis II on 31 May 2018 (48º29.71'N; 61º24.90' W, 12h30 UTC, z= 403.5 m; SP = 34.93, where SP stands for practical salinity). The seawater was stored in 20 L polyethylene carboys and vacuum filtered through 0.45µm Nuclepore® polycarbonate filters before use in the experiment.---The biogenic material was collected by skin divers off a skiff boat between November 23rd and 29th, 2019 in Blanket Bay (24.8990⁰N, 77.9270⁰W) on the eastern shore of Andros Island, Bahamas. The biogenic carbonates were soaked in a bleach solution overnight, rinsed multiple times with fresh water and allowed to dry in the sun for several days. Upon returning to McGill, aliquots of the biogenic carbonates were crushed into coarse fragments (~1-3 mm), soaked in distilled water for several days and the water replaced every day in order to remove the hypochlorite that may have been trapped within the samples. They were then allowed to dry at room temperature, lightly dry-crushed with an agate mortar and pestle, and stored dry in a closed plastic container until use.---The pH of the experimental solution was measured on the total proton concentration scale (pHT) using a Radiometer Analytical (GK2401C) combination glass electrode connected to a Radiometer Copenhagen PHM85 pH-meter (92R01N32). The electrode was calibrated against three NIST-traceable buffer solutions: pH-4.00, pH-7.00 and pH-10.00 at 25°C. The Nernstian slope was obtained by least-squares fitting the electrode response to the assigned buffer values. pHNBS was converted to pHT according to the electrode response to a TRIS buffer solution prepared at SP = 35, for which the pHT was assigned at 25°C (8.089; Millero, 1986). Reproducibility of pHT measurements, based on replicate analyses of the same sample, was typically better than 0.005.---The total alkalinity (TA) of the acidified, natural seawater and experimental solutions was determined by potentiometric titration using an automated Radiometer TitraLab-845 titrator and Radiometer Analytical (GK2401C) combination glass electrode. The titrant was a 0.03N hydrochloric acid solution prepared in distilled water. It was calibrated at the beginning and end of each session against a laboratory, natural seawater reference solution (filtered and poisoned with mercuric chloride) that had been standardized using certified reference materials (CRM batch #140 and 154) supplied by Andrew Dickson (Scripps Institute of Oceanography). The reproducibility of the measurements was better than 0.3%.---Dissolved calcium (Ca), magnesium (Mg) and potassium (K) concentrations were determined by flame atomic absorption spectrophotometry (FAAS) on a Perkin-Elmer AAnalyst 100, following a 1:100 dilution in 0.1N Omni-trace hydrochloric acid (HCl). External calibration solutions were prepared within the linear response range of the instrument by dilution of commercial (SCP Science PlasmaCal) 1000 ppm AAS standard solutions in 0.1N Omni-trace HCl. Reproducibility of the AAS measurements was better than 3% and all results were normalized to the standard seawater ionic concentrations.---The salinity of the experimental solutions was determined on 1 mL aliquots of the unacidified samples by automated, potentiometric, argentometric titrations using an automated Radiometer TTM81 titrator, an ABU80 automatic burette, as well as Radiometer P-4040 silver and Radiometer REF601 mercury/mercuric sulfate reference electrodes connected to a Radiometer PHM64 pH/mV meter. The silver nitrate solution was calibrated against IAPSO standard seawater. The reproducibility of the measurements was better than 0.1% (relative standard deviation).---The saturation state (ΩC) and carbon dioxide partial pressure (pCO2) calculations were performed with version 01.05 of CO2SYS, a program originally written by Ernie Lewis and Doug Wallace (Lewis and Wallace, 1998). The carbonic acid dissociation constants (K*1 and K*2) of Mehrbach et al. (1973) as refit by Dickson and Millero (1987), the dissociation constant of HSO4- of Dickson (1990), the dissociation constant of HF of Dickson and Riley (1979) and the total boron:salinity ratio of Lee et al. (2010) were used for the calculations. Measured calcium concentrations were substituted in the calculations to account for deviations from the salinity-derived values in CO2SYS."
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.972024",
+    "https://doi.org/10.1594/pangaea.972024"
+  ],
+  "dct_issued_s": "2024-10-14",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.972024\"}",
+  "dct_spatial_sm": [
+    "Andros Island, Bahamas",
+    "Gulf of St. Lawrence"
+  ],
+  "dct_subject_sm": [
+    "Time in days",
+    "pH, total scale",
+    "Combination glass electrode, Radiometer Analytical, GK2401C; coupled with pH-meter, Radiometer Copenhagen, PHM85 [SN: 92R01N32]",
+    "Treatment: 0.1 N hydrochloric acid",
+    "Seawater pH buffering",
+    "Potassium",
+    "Carbon dioxide, partial pressure",
+    "Sampling by diver",
+    "Laboratory experiment",
+    "Calculated using CO2SYS",
+    "Calcium",
+    "Combination glass electrode, Radiometer Analytical, GK2401C; Titrator, Radiometer, TitraLab-845",
+    "CORII_2018",
+    "Mixed carbonate dissolution",
+    "Calcite saturation state",
+    "Salinity",
+    "Atomic absorption spectrophotometer (FAAS), PerkinElmer, AAnalyst 100",
+    "Alkalinity, total",
+    "Coriolis II",
+    "Ocean acidification",
+    "Type of study",
+    "CTD/Rosette",
+    "Magnesium",
+    "Titration"
+  ],
+  "dct_title_s": "Carbonate chemistry of competitive dissolution experiment",
+  "gbl_mdModified_dt": "2026-05-20T01:12:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e9ad06c3-c2f6-58d0-9fef-a4ef5e73d4bb",
+  "locn_geometry": "ENVELOPE(-77.92700000000002, -61.41500000000002, 48.4952, 24.899)",
+  "schema_provider_s": "PANGAEA"
+}

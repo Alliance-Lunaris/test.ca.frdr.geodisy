@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-100.0964, -67.6428, 55.758, 42.9966)",
+  "dcat_keyword_sm": [
+    "Orthophotography",
+    "Orthoimage",
+    "cache",
+    "Aerial photo",
+    "Imagery",
+    "Remote sensing",
+    "imagery service",
+    "Aerial photograph",
+    "Aerial photography",
+    "ODCSYNC",
+    "Image",
+    "Orthorectified",
+    "web service",
+    "Orthophoto"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ontario GeoHub."
+  ],
+  "dct_description_sm": [
+    "<p>The Ontario Imagery Web Map Service (OIWMS) is an open data service available to everyone free of charge. It provides instant online access to the most recent, highest quality, province wide imagery. GEOspatial Ontario (GEO) makes this data available as an Open Geospatial Consortium (OGC) compliant web map service or as an ArcGIS map service. Imagery was compiled from many different acquisitions which are detailed in the Ontario Imagery Web Map Service Metadata Guide linked below. Instructions on how to use the service can also be found in the Imagery User Guide linked below.</p><div>&nbsp;</div><div><p>Note: This map displays the Ontario Imagery Web Map Service Source, a companion ArcGIS web map service to the Ontario Imagery Web Map Service. It provides an overlay that can be used to identify acquisition relevant information such as sensor source and acquisition date. OIWMS contains several hierarchical layers of imagery, with coarser less detailed imagery that draws at broad scales, such as a province wide zooms, and finer more detailed imagery that draws when zoomed in, such as city-wide zooms. The attributes associated with this data describes at what scales (based on a computer screen) the specific imagery datasets are visible.</p><p>&nbsp;</p><div><div><strong>Available Products</strong></div><div><ul><li>&nbsp;</li><li><a target=\"_blank\" href=\"https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_Imagery/Ontario_Imagery_Web_Map_Service/MapServer/WMTS\">Ontario Imagery OGC Web Map Service</a>&nbsp;– public link</li><li><a target=\"_blank\" href=\"https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_Imagery/Ontario_Imagery_Web_Map_Service/MapServer\">Ontario Imagery ArcGIS Map Service</a>&nbsp;– public link</li><li><a target=\"_blank\" href=\"https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_Imagery/Ontario_Imagery_Web_Map_Service_Source/MapServer\">Ontario Imagery Web Map Service Source</a>&nbsp;– public link</li><li><a target=\"_blank\" href=\"https://intra.ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_Imagery/Ontario_Imagery_Web_Map_Service/MapServer\">Ontario Imagery ArcGIS Map Service</a>&nbsp;– OPS internal link</li><li><a target=\"_blank\" href=\"https://intra.ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_Imagery/Ontario_Imagery_Web_Map_Service_Source/MapServer\">Ontario Imagery Web Map Service Source</a>&nbsp;– OPS internal link</li></ul></div><div><strong>Additional Documentation</strong><br />&nbsp;</div><div><ul><li><a target=\"_blank\" href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/OntarioImageryWebMapService-MetadataGuide.pdf\">Ontario Imagery Web Map Service Metadata Guide (PDF)</a></li><li><a target=\"_blank\" href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/OntarioImageryWebMapService-CopyrightOnly.pdf\">Ontario Imagery Web Map Service Copyright Document (PDF)</a><br />&nbsp;</li><li><a target=\"_blank\" href=\"https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario_Imagery_User_Guide.docx\">Imagery User Guide (Word)</a></li></ul></div><div><strong>Status</strong></div><div>Completed: Production of the data has been completed</div><div>&nbsp;</div><div>&nbsp;</div><div><strong>Maintenance and Update Frequency</strong></div><div>Annually: Data is updated every year</div><div>&nbsp;</div><div>&nbsp;</div><div><strong>Contact</strong></div><div><span style=\"color:rgb(26,26,26);\">Ontario Ministry of Natural Resources, Geospatial Ontario</span>, <a href=\"mailto:imagery@ontario.ca\" target=\"_blank\">imagery@ontario.ca</a></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "101295c5d3424045917bdd476f322c02",
+    "https://www.arcgis.com/home/item.html?id=101295c5d3424045917bdd476f322c02"
+  ],
+  "dct_issued_s": "2020-07-06",
+  "dct_publisher_sm": [
+    "Ontario GeoHub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.lio.gov.on.ca/maps/lio::ontario-imagery-web-map-service-oiwms\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario"
+  ],
+  "dct_title_s": "Ontario Imagery Web Map Service (OIWMS)",
+  "gbl_mdModified_dt": "2026-08-11T21:29:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "658ecc4b-89e4-5763-839e-c25d581c0bcd",
+  "locn_geometry": "ENVELOPE(-100.0964, -67.6428, 55.758, 42.9966)",
+  "schema_provider_s": "Ontario GeoHub"
+}

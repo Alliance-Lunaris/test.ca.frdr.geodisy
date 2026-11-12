@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.15517871088474, -79.53731542963537, 43.9928303551538, 43.490097299119114)",
+  "dcat_keyword_sm": [
+    "projected population",
+    "unofficial",
+    "Trends",
+    "growth",
+    "Open Data",
+    "age structure",
+    "census tract",
+    "forecast",
+    "migration",
+    "future",
+    "fertility",
+    "mortality",
+    "population"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div><strong>Please note that this dataset is now provided for historical reference only and is not intended for analytical use. As of July 1, 2024, Peel Region's planning and development responsibilities were transferred to the Ontario Government and local municipalities under Bill 185 ‘Cutting Red Tape to Build More Homes Act 2024’.</strong></div><div>&nbsp;</div><p>This dataset provides <strong>unofficial</strong> population forecast data for Peel Region by 2016 Census Tracts. The forecasts are provided as-is for each Census Tract in Peel in 5-year age groups for each Census year (5 year intervals from 2016 to 2041).</p><p><strong>Please note:</strong>&nbsp;there are some known issues with age forecasts when aggregating values from the Census Tract level to the municipal level.&nbsp; These aggregated Census Tract values will be different than the municipal totals that are provided.&nbsp; The municipal totals take precedence and provide the correct municipal-level population values.<br />&nbsp;</p><p><span style='font-size:large;'><strong>These forecasts have not been endorsed by Regional Council and are not used for Regional Official Plan or Planning purposes.</strong> These forecasts have been created to aid in other programming and estimates the Region performs and are neither official nor endorsed.</span></p><p>For Council endorsed values at the municipal level, please see Population Forecasts 2006-2031.</p><p><br /><strong>When Should I Use These Forecasts?</strong></p><p>These forecasts, while they are not official and can't be used for Planning purposes, can still be useful to you.&nbsp; They provide approximate population and age information at a sub-neighbourhood level.&nbsp; This can be used to help in program or business planning with data that was never publicly available before.</p><p><strong>When Shouldn't I Use These Forecasts?</strong></p><p>If your work or research is related to the Regional Official Plan, Planning (as in city planning), or municipal infrastructure planning, then you need to look at the current Council-endorsed Forecasts that are in the current Regional Official Plan.&nbsp; If you want to see the draft approved for consultation forecasts by Secondary Plan Area (SPA), they are available on the Open Data Portal.</p><p><strong>Notes</strong></p><ul><li>These forecasts have been created to aid in other programming and estimates the Region performs and <strong>are neither official nor endorsed for Planning purposes</strong>.</li><li>Due to rounding errors, values may not always add up to their totals.</li><li>Population values include a net under-coverage (undercount) that has been applied.<br />&nbsp;</li></ul>"
+  ],
+  "dct_identifier_sm": [
+    "58680c4d2b34469bbccc691b090be653",
+    "https://www.arcgis.com/home/item.html?id=58680c4d2b34469bbccc691b090be653"
+  ],
+  "dct_issued_s": "2019-11-20",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::unofficial-population-forecasts-2016-to-2041\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Unofficial Population Forecasts 2016 to 2041",
+  "gbl_mdModified_dt": "2026-02-05T01:58:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "bc3ec640-7ddd-5b25-b2a5-95f68dc98220",
+  "locn_geometry": "ENVELOPE(-80.15517871088474, -79.53731542963537, 43.9928303551538, 43.490097299119114)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

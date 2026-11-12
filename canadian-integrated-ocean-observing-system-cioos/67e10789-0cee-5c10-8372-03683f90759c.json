@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-115.7, -37.66, 78.93, 44.71)",
+  "dcat_keyword_sm": [
+    "Température sous la surface",
+    "water density",
+    "physical-chemical",
+    "CTD",
+    "conductivité de l'eau",
+    "pressure",
+    "fluorescence",
+    "subSurfaceSalinity",
+    "subSurfaceTemperature",
+    "pression",
+    "water conductivity",
+    "physico-chimie",
+    "Salinité sous la surface",
+    "CTD",
+    "SGDE-ISMER-QO",
+    "fluorescence",
+    "densité eau",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Système de gestion de données environnementales de l'Institut des sciences de la mer et Québec-Océan (SGDE-ISMER-QO)"
+  ],
+  "dct_creator_sm": [
+    "Institut des sciences de la mer de Rimouski.",
+    "Québec Océan."
+  ],
+  "dct_description_sm": [
+    "L'Institut des sciences de la mer (ISMER) of the Université du Québec à Rimouski (UQAR) manages oceanographic data from research missions conducted through numerous collaborations in Quebec, Canada and around the world via its environmental data management system (EDMS) developed with and maintained thanks to the [Québec-Ocean](https://www.quebec-ocean.ulaval.ca/en/) strategic cluster, funded since 2002 by the Fonds de Recherche du Québec. Québec-Océan brings together oceanographic research teams from nine universities and numerous partners active in the field of oceanographic research in the province of Quebec to strengthen excellence, train highly qualified personnel and support society towards a more sustainable interaction with the marine environment. This collection contains two main types of data, CTD data and anchoring data, covering all regions of the world where ISMER and Québec-Océan are active, with a particular emphasis on the Gulf of St. Lawrence, the North, and Argentina.\n\n**CTD Data**  \nThis type of data refers to the measurement of physicochemical parameters of seawater along a vertical line obtained out at a given location from the sea surface to the bottom at a given time. Temperature and conductivity, which is related to salinity, are the basic parameters that are measured as a function of depth and presented in the form of a vertical profile. Other sensors are frequently added to the conductivity-temperature-depth (CTD) profiler in order to measure other parameters such as dissolved oxygen concentration, fluorescence and transmissivity.\n\n**ADCP Data** *(Available soon)*  \nThis type of data refers to the speed and direction of the current at various depths along a vertical profile by measuring the Doppler shift of the backscattered acoustic waves, hence the name ADCP for Acoustic Doppler Current Profiler. When the ADCP is moored, a time series of current profiles at a given location is obtained. Some moored ADCP also measure surface waves parameters (height, period, direction). When the ADCP is attached to the hull of a moving ship, a portrait of the currents is then obtained that is both temporal and spatial.",
+    "L'Institut des sciences de la mer (ISMER) de l'Université du Québec à Rimouski (UQAR) assure la gestion des données océanographiques issues de missions de recherche menées à travers de nombreuses collaborations au Québec, au Canada et dans le monde via son système de gestion des données environnementales (SGDE) développé avec et maintenu notamment grâce au regroupement stratégique [Québec-Océan](https://www.quebec-ocean.ulaval.ca/), financé depuis 2002 par le Fonds de recherche du Québec. Québec-Océan rassemble des équipes de 9 universités québécoises et de nombreux partenaires actifs en recherche océanographique au Québec afin de renforcer l'excellence, former la relève et accompagner la société vers une interaction plus durable avec le milieu marin. Cette collection contient deux principaux types de données, soit les données CTD et les données de mouillage, couvrant toutes les régions du monde où nous sommes actifs, avec une emphase particulière sur le golfe du Saint-Laurent, le Nord canadien et l’Argentine\n\n**Données CTD**  \nCe type de données réfère à la mesure de paramètres physico-chimiques le long d'une ligne verticale effectuée à un endroit donné de la surface de la mer jusqu'au fond à un moment précis. La température et la conductivité, qu'on relie à la salinité, sont les paramètres de base qui sont mesurés en fonction de la profondeur et présentés sous forme de profil vertical. D'autres senseurs y sont fréquemment ajoutés au profileur dans le but de mesurer d'autres paramètres comme la concentration en oxygène dissous, la fluorescence et la transmissivité.\n\n**Données ADCP** *(à venir)*  \nCe type de données réfère à la mesure de la vitesse et de la direction du courant à différentes profondeurs le long d'un profil vertical grâce à la mesure du décalage Doppler des ondes acoustiques rétroréfléchies vers l'appareil qui les ont émises, d'où le nom ADCP pour *Acoustic Doppler Current Profiler*. Lorsque l'ADCP est mouillé, une série temporelle de profils courantométriques à un endroit donné est obtenue. Certains ADCP mouillés mesurent aussi les paramètres des vagues de surfaces (hauteur, période, direction). Lorsque l'ADCP est fixé à la coque d'un navire en mouvement, on obtient alors un portrait à la fois temporel et spatial des courants."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/fc5633aa-1598-411c-9356-62317d376f39"
+  ],
+  "dct_issued_s": "2013-07-07",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/fc5633aa-1598-411c-9356-62317d376f39\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Environmental Data Management System of the Institut des sciences de la mer and Québec-Océan (EDMS-ISMER-QO)",
+  "gbl_mdModified_dt": "2026-07-31T16:39:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "67e10789-0cee-5c10-8372-03683f90759c",
+  "locn_geometry": "ENVELOPE(-115.7, -37.66, 78.93, 44.71)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

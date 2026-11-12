@@ -1,0 +1,59 @@
+{
+  "dcat_keyword_sm": [
+    "energy expenditure",
+    "Callorhinus ursinus",
+    "Antarctic fur seal",
+    "Time-activity budget",
+    "northern fur seal",
+    "2011-2012",
+    "ODBA",
+    "acceleration",
+    "VeDBA",
+    "foraging",
+    "Arctocephalus gazella"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jeanniard-du-Dot, Tiphaine (University of British Columbia).",
+    "Guinet, Christophe (Centre d'Etudes Biologiques de Chizé, French National Centre for Scientific Research).",
+    "Arnould, John P. Y. (University of British Columbia, Deakin University).",
+    "Speakman, John R. (The Institute of Biological and Environmental Sciences Zoology Bldg, Tillydrone Avenue AberdeenAB24 2TZ UK).",
+    "Trites, Andrew W. (University of British Columbia).",
+    "Arnould, John P.Y. (Deakin University)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/h4srE2l8uSZYxl3JXhWDLNbXHRhwyiswdFoyWiYPzlg</p>\n<p><b>Storage size:</b> 3923822293</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Energy expenditure is an important component of foraging ecology, but is extremely difficult to estimate in free-ranging animals and depends on how animals partition their time between different activities during foraging. Acceleration data have emerged as a new way to determine energy expenditure at a fine scale but this needs to be tested and validated in wild animals.\r\nThis study investigated whether vectorial dynamic body acceleration (VeDBA) could accurately predict the energy expended by marine predators during a full foraging trip. We also aimed to determine whether the accuracy of predictions of energy expenditure derived from acceleration increased when partitioned by different types of at-sea activities (i.e. diving, transiting, resting and surface activities).\r\nTo do so, we equipped 20 lactating northern (Callorhinus ursinus) and 20 lactating Antarctic fur seals (Arctocephalus gazella) with GPS, time-depth recorders and tri-axial accelerometers and obtained estimates of field metabolic rates using the doubly labelled water (DLW) method. VeDBA was derived from tri-axial acceleration, and at-sea activities (diving, transiting, resting and surface activities) were determined using dive depth, tri-axial acceleration and travelling speed.\r\nWe found that VeDBA did not accurately predict the total energy expended by fur seals during their full foraging trips (R2 = 0·36). However, the accuracy of VeDBA as a predictor of total energy expenditure increased significantly when foraging trips were partitioned by activity and when activity-specific VeDBA was paired with time-activity budgets (R2 = 0·70). Activity-specific VeDBA also accurately predicted the energy expenditures of each activity independent of each other (R2 > 0·85).\r\nOur study confirms that acceleration is a promising way to estimate energy expenditures of free-ranging marine mammals at a fine scale never attained before. However, it shows that it needs to be based on the time-activity budgets that make up foraging trips rather than being derived as a single measure of VeDBA applied to entire foraging trips. Our activity-based method provides a cost-effective means to accurately calculate energy expenditures of fur seals using acceleration and time-activity budgets, that can be transfered to studies on other species.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Northern fur seals data</h4><div class=\"o-metadata__file-description\">Data was collected on northern fur seal females during the breeding season on St Paul island, Bering Sea, Alaska from a daily Diary tag from Wildlife Computers. Column headings include \"Date\", \"Time\",\"Depth\", \"External Temperature\", \"int mX\", \"int mY\", \"int mZ\", \"int aX\", \"int aY\", \"int aZ\", \"Light Level\", \"Velocity\", \"Wet/Dry\", \"Wet/Dry\", \"Hour\", \"Battery Voltage\", \"Protocol\". int mX, Y, Z refer to magnetic field recorded on the 3 body axes, and int aX, Y, Z to the acceleration recorded on the same axes.</div><div class=\"o-metadata__file-name\">Northern_fur_seals_data.zip</br></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">Antarctic fur seal data</h4><div class=\"o-metadata__file-description\">Data was collected on Antarctic fur seal females during the breeding season on Kerguelen Island, Southern Ocean on The Pointe Suzanne colony from a Daily Diary tag from Wildlife Computers. Column headings include \"Date\", \"Time\", \"Depth\", \"Temperature\", \"aX\", \"aY\", \"aZ\", \"Light\", \"Velocity\", \"WetDry\", \"WetDrytxt\". aX, Y, Z refer to the acceleration recorded on the 3 body axes.</div><div class=\"o-metadata__file-name\">Antarctic_fur_seal_data.zip</br></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "151248_150149",
+    "https://doi.org/10.5683/SP2/KS38PK"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KS38PK\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Bering Sea",
+    "Southern Ocean"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Accelerometers can measure total and activity-specific energy expenditure in free-ranging marine mammals only if linked to time-activity budgets",
+  "gbl_mdModified_dt": "2021-05-19T19:32:35Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "164eaebe-4b37-513e-980e-bdbb5a6eacbe",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

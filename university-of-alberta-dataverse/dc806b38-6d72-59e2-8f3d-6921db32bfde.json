@@ -1,0 +1,40 @@
+{
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ortega, Santiago (University of Alberta). ORCID: https://orcid.org/0000-0002-3518-276X",
+    "Rodriguez, Cristina (Universidad Nacional Autonoma de Mexico).",
+    "Mizuno, Ayumi (University of Alberta).",
+    "Arroyo, Laura (Universidad Nacional Autonoma de Mexico).",
+    "Drummond, Hugh (Universidad Nacional Autonoma de Mexico).",
+    "Nakagawa, Shinichi (University of Alberta)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the data, fitted models and code needed to reproduce the analyses and figures in Ortega et al., \"Declining environmental predictability erodes reproduction in a tropical seabird\". It combines 21 years (2003–2023) of individual breeding records of blue-footed boobies (Sula nebouxii) on Isla Isabel, Mexico (8,378 breeding attempts by 2,581 females; 8,962 by 2,910 males) with MODIS-Aqua satellite chlorophyll-a data. Bloom onset, phenological mismatch (laying date − bloom onset) and nest success (0–3 fledglings) were analysed with Bayesian location–scale models (brms/Stan), testing for changes in both mean timing and year-to-year variability. The deposit includes the input data, the full Quarto analysis workflow (bloom detection, mismatch calculation, model fitting, diagnostics, sensitivity analyses and figure code), the fitted model objects, precomputed posterior draws, figure outputs and numerical source data for every figure."
+  ],
+  "dct_identifier_sm": [
+    "1230508_203206",
+    "https://doi.org/10.5683/SP4/5SGEPV"
+  ],
+  "dct_issued_s": "2026-09-29",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP4/5SGEPV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Medicine, Health and Life Sciences"
+  ],
+  "dct_title_s": "Replication Data for: Declining environmental predictability erodes reproduction in a tropical seabird",
+  "gbl_mdModified_dt": "2026-09-29T22:03:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dc806b38-6d72-59e2-8f3d-6921db32bfde",
+  "pcdm_memberOf_sm": [
+    "UAlberta Research Data Collection"
+  ],
+  "schema_provider_s": "University of Alberta Dataverse"
+}

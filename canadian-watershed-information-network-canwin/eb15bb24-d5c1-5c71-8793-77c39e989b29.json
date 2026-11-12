@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "__The link: *Access the data directory* is available in the section*Dataset Description Sheets; Additional Information*__.\n\nIn 2020, the Forest Inventory Directorate of the Ministry of Natural Resources and Forests (MRNF) began the production of vector layers of riparian ecotones. This type of layer is produced using a series of geomatic tools that use the canopy height model (MHC) and the topographic humidity index (TWI) produced from aerial LiDAR, as well as data from the ecoforest map of southern Quebec. The development of the tools and their configuration were carried out in collaboration with the forest hydrology laboratory at Laval University.\n\nThe layer thus produced aims to delimit riparian ecotones, which are defined as [_ “a transition zone between the aquatic environment and the forest, characterized by muscinal, herbaceous or shrubby vegetation in wetlands and sometimes including a few scattered trees” _] (https://mffp.gouv.qc.ca/RADF/guide/chapitre-i/article-1/).\n\nThe layer produced defines the area where a significant change in tree heights is observed on the MHC LiDAR. However, if deforestation, agricultural fields, or natural disturbances are adjacent to a body of water, no change in tree heights is observed. In these cases, the tool instead uses potential water accumulation data from the Topographic Humidity Index (TWI), as well as data from the ecoforest map, to delineate riparian ecotones. On the other hand, the tool does not make it possible to filter all of these exceptional cases and we thus find a few “false coastal ecotones” in the layer. For example, deforested land along a body of water can sometimes be included in the ecotone layer. \n\nBefore using these data, it is therefore recommended to plan validation work by photo-interpretation or by means of field visits. It should also be noted that ecotone data is primarily used to support forest mandates such as the delineation of buffer zones along watercourses. Therefore, they are not contours of wetlands within the meaning of the Act respecting the conservation of wetlands and bodies of water.\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/dbb4b96d-62a9-4fb3-a62b-0b27a6b8ce5d"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/dbb4b96d-62a9-4fb3-a62b-0b27a6b8ce5d\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Riparian ecotone from LiDAR",
+  "gbl_mdModified_dt": "2026-10-07T17:35:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb15bb24-d5c1-5c71-8793-77c39e989b29",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

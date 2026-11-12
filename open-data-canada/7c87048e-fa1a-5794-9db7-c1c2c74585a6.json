@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "dcat_keyword_sm": [
+    "forestry",
+    "BC",
+    "survey",
+    "Government information",
+    "noxious weeds",
+    "inventory",
+    "observations",
+    "invasive plants",
+    "invasive species",
+    "invasive alien plants",
+    "Weeds"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Observations d'espèces envahissantes"
+  ],
+  "dct_creator_sm": [
+    "Brennan Webster."
+  ],
+  "dct_description_sm": [
+    "Polygon geometry for an invasive species observation. The polygon represents the area of the observation. An observation of an invasive species can be either positive or negative. Positive indicates the species was present at the time of the observation. Negative indicates the species was not present at the time of the observation. Dataset currently only includes plant species.",
+    "Géométrie polygonale pour l'observation d'espèces envahissantes. Le polygone représente la zone d'observation. L'observation d'une espèce envahissante peut être positive ou négative. Un résultat positif indique que l'espèce était présente au moment de l'observation. Un résultat négatif indique que l'espèce n'était pas présente au moment de l'observation. L'ensemble de données ne comprend actuellement que les espèces végétales.\n\n** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate). **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9cf5d0b3-6ea7-4383-9d17-359c944db618"
+  ],
+  "dct_issued_s": "2025-04-29",
+  "dct_publisher_sm": [
+    "Government of British Columbia | Gouvernment de la Colombie-Britannique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9cf5d0b3-6ea7-4383-9d17-359c944db618\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - British Columbia https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Invasive Species Observations",
+  "gbl_mdModified_dt": "2026-01-28T19:44:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "7c87048e-fa1a-5794-9db7-c1c2c74585a6",
+  "locn_geometry": "ENVELOPE(-139.5, -113.5, 60.0, 48.0)",
+  "schema_provider_s": "Open Data Canada"
+}

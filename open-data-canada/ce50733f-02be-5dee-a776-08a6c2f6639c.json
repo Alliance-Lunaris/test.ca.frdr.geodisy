@@ -1,0 +1,81 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.876, -62.734, 47.58154781, 43.957)",
+  "dcat_keyword_sm": [
+    "Geospatial",
+    "Réseau",
+    "Hydrography",
+    "Ruisseau",
+    "Geographic data",
+    "Données géographiques",
+    "Geography",
+    "Earth sciences",
+    "Watercourses",
+    "GéoBase",
+    "Hydrographic Network",
+    "Eau de surface",
+    "CHN",
+    "RHC",
+    "Lac",
+    "Bassin hydrologique",
+    "Hydrographie",
+    "Sciences de la terre",
+    "Lakes",
+    "Géospatial",
+    "Surface water",
+    "Hydrologie",
+    "Natural resources",
+    "Réseau hydrographique",
+    "Géographie",
+    "Streams",
+    "GeoBase",
+    "Watersheds",
+    "CHN",
+    "Hydrology",
+    "Hydrospatial",
+    "RHC",
+    "Eau",
+    "Hydrospatial",
+    "Ressources naturelles",
+    "Fleuve / Rivière",
+    "Water",
+    "Cours d'eau",
+    "Rivers",
+    "Networks"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Réseau hydrospatial canadien - RHC"
+  ],
+  "dct_creator_sm": [
+    "Client Services | Services clients."
+  ],
+  "dct_description_sm": [
+    "The Canadian Hydrospatial Network (CHN) is an analysis-ready geospatial network of features that help enable the modelling of surface water flow in Canada. The six main layers and feature types are: flowlines, waterbodies, catchments, catchment aggregates, work units, and hydro nodes.    \n  \n  Where possible the CHN is derived from high resolution source data such as Light Detection and Ranging (LiDAR) derived Digital Elevation Models (DEMs) and aerial imagery, to name a few. If existing provincial or territorial hydrographic networks meet the standards, they are incorporated into the CHN, otherwise automatic extraction methods are used on the high-resolution source data. To provide full network connectivity, if neither of these methods is possible in a region, the NHN is converted into the CHN until higher-resolution source data is available.  \n  \n  Additional value-added attributes are included in the CHN to aid modelling, such as stream order and reach slope. The CHN physical model and features are also closely aligned and harmonized with the USGS 3DHP hydrographic network, which aids trans-border modelling. Where possible geonames (i.e. toponyms) are also added.  \n  \n  The CHN is produced and disseminated by hydrologically connected geographic areas called work units. Work units can contain just one watershed, several small adjacent watersheds outletting into a large body of water, or be one of many parts of a larger watershed. In all cases, the features of a work unit are hydrologically connected. This is a more natural approach to data delivery, in comparison to data that is split into tiles. A generalized work unit index file is provided in the downloads to help users decide which files to download.  \n  \n  For more information on the CHN please visit the project webpage:  \n  \n   https://natural-resources.canada.ca/canadian-hydrospatial-network",
+    "Le Réseau hydrospatial canadien (RHC) est un réseau géospatial d'entités prêtes à l'analyse qui permet de modéliser l'écoulement des eaux de surface au Canada. Les six couches principales et les types d'entités sont : les filamentaires d'écoulement, les eaux de surface, les aires de drainage, les agrégats d'aire de drainage, les unités de travail et les nœuds hydro.  \n  \n  Dans la mesure du possible, le RHC est dérivé de données sources à haute résolution telles que les modèles numériques d'élévation (MNE) dérivés de la détection et de la télémétrie par ondes lumineuses (LiDAR) et l'imagerie aérienne, pour n'en citer que quelques-unes. Si les réseaux hydrographiques provinciaux ou territoriaux existants répondent aux normes, ils sont incorporés au RHC, sinon des méthodes d'extraction automatique sont utilisées sur les données sources à haute résolution. Pour assurer une connectivité totale du réseau, si aucune de ces méthodes n'est possible dans une région, le RHN est converti en RHC jusqu'à ce que des données sources à plus haute résolution soient disponibles.  \n  \n  Des attributs supplémentaires à valeur ajoutée sont inclus dans le RHC pour faciliter la modélisation, tels que l'ordre des cours d'eau et la pente des tronçons. Le modèle physique et les caractéristiques du RHC sont également étroitement alignés et harmonisés avec le réseau hydrographique 3DHP de l'USGS, ce qui facilite la modélisation transfrontalière. Dans la mesure du possible, des noms géographiques (c'est-à-dire des toponymes) sont également ajoutés.  \n  \n  Le RHC est produit et distribué par des zones géographiques hydrologiquement connectées, appelées unités de travail. Les unités de travail peuvent contenir un seul bassin versant, plusieurs petits bassins versants adjacents se déversant dans une grande masse d'eau, ou être l'une des nombreuses parties d'un plus grand bassin versant. Dans tous les cas, les caractéristiques d'une unité de travail sont liées à l'hydrologie. Il s'agit d'une approche plus naturelle pour rendre disponible la donnée, par rapport aux données qui sont divisées en tuiles. Un fichier d'index général des unités de travail est fourni dans les téléchargements pour aider les utilisateurs à choisir les fichiers à télécharger.  \n  \n  Pour plus d'informations sur le CHN, veuillez consulter la page web du projet :  \n  \n  https://ressources-naturelles.canada.ca/reseau-hydrospatial-canadien"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/ae385105-e48c-4b54-bd0f-dfb7303301cb"
+  ],
+  "dct_issued_s": "2024-02-22",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/ae385105-e48c-4b54-bd0f-dfb7303301cb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canadian Hydrospatial Network - CHN",
+  "gbl_mdModified_dt": "2024-12-31T16:10:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ce50733f-02be-5dee-a776-08a6c2f6639c",
+  "locn_geometry": "ENVELOPE(-67.876, -62.734, 47.58154781, 43.957)",
+  "schema_provider_s": "Open Data Canada"
+}

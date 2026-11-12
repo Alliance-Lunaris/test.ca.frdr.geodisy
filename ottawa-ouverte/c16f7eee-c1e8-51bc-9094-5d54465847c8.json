@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-75.956, -75.4402, 45.5124, 45.227)",
+  "dcat_keyword_sm": [
+    "Transport",
+    "Circulation",
+    "Comptage de la circulation",
+    "Lignes écrans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Ottawa Ouverte."
+  ],
+  "dct_description_sm": [
+    "<p>Les lignes‑écrans sont des lignes imaginaires généralement tracées le long d’éléments comme des rivières ou des voies ferrées, qui présentent un nombre minimal de points de croisement, ce qui facilite le comptage du trafic circulant d’un côté à l’autre. La symbologie est fondée sur le champ COUNTYEAR_EN&nbsp;(Both = Count Collection during All Years / Even = Count Collection during Even Years / Odd = Count Collection during Odd Years), qui indique à quel moment le comptage a lieu.</p><p>Une ligne‑écran (p.&nbsp;ex. LN02, LN10) est constituée de plusieurs postes placés de manière à comptabiliser les déplacements est‑ouest ou nord‑sud, qui, ensemble, couvrent l’ensemble des principaux axes de circulation traversant cette ligne‑écran imaginaire. Les lignes‑écrans sont situées le long de barrières géographiques, p.&nbsp;ex. rivières, Ceinture de verdure, généralement là où se concentrent un certain nombre d’infrastructures de transport majeures constituant les principaux axes de circulation. Afin de refléter fidèlement la circulation, un poste est installé à chaque intersection de routes, de lignes de transport en commun et de pistes cyclables ou de voies piétonnes sur la ligne‑écran.</p><p><strong>Date de création:</strong> 29 juin 2026<br /><strong>Fréquence des mises à jour:</strong> Au besoin<br /><strong>Exactitude:</strong>&nbsp;Ne sert pas à représenter l’emplacement exact sur le terrain.</p><p><strong>Attributs:</strong></p><ul><li>SL_NUM (numéro de la ligne‑écran)</li><li>SL_TEXT (texte identifiant la ligne‑écran)</li><li>CORDON_EN (cordon – lignes‑écrans ou groupes de lignes‑écrans délimitant une zone d’intérêt [texte en anglais])</li><li>CORDON_FR (cordon – lignes‑écrans ou groupes de lignes‑écrans délimitant une zone d’intérêt [texte en français])</li><li>NAME_EN (nom de la ligne‑écran [texte en anglais])</li><li>NAME_FR (nom de la ligne‑écran [texte en français])</li><li>SEASON_EN (saison au cours de laquelle le comptage de la circulation a été effectué [texte en anglais])</li><li>SEASON_FR (saison au cours de laquelle le comptage de la circulation a été effectué [texte en français])</li><li>COUNTYEAR_EN ((<strong>Both</strong> = Count Collection during All Years / <strong>Even</strong> = Count Collection during Even Years / <strong>Odd</strong> = Count Collection during Odd Years) – indique à quel moment le comptage a lieu [texte en anglais])</li><li>COUNTYEAR_FR ((Les deux = Comptage à chaque année / Paires = Comptage pendant les années paires / Impaires = Comptage pendant les années impaires) – indique à quel moment le comptage a lieu [texte en français])</li><li>CHANGE_EN (texte en anglais décrivant un changement apporté à une ligne‑écran)</li><li>CHANGE_FR (texte en français décrivant un changement apporté à une ligne‑écran)</li><li>YEAR (année correspondant à la version de la fonctionnalité de la ligne‑écran)</li><li>STATUS_EN (Latest – texte en anglais indiquant qu’il s’agit des données les plus récentes enregistrées)</li><li>STATUS_FR (Dernier en date – texte en français indiquant qu’il s’agit des données les plus récentes enregistrées)</li></ul><p><strong>Auteur:&nbsp;</strong>Planification des transports<br /><strong>Courriel de l’auteur:&nbsp;</strong><a href='mailto:mischael.raj@ottawa.ca' rel='nofollow ugc'>mischael.raj@ottawa.ca</a>&nbsp;<br /><strong>Organisme responsable de la tenue des données:&nbsp;</strong>Direction de l’analyse géospatiale, de la technologie et des solutions, Direction générale des services de la planification, de l’aménagement et du bâtiment</p>"
+  ],
+  "dct_identifier_sm": [
+    "230bb08489a44122aaf15e531376f058",
+    "https://www.arcgis.com/home/item.html?id=230bb08489a44122aaf15e531376f058"
+  ],
+  "dct_issued_s": "2026-07-03",
+  "dct_publisher_sm": [
+    "Ottawa Ouverte"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://ouverte.ottawa.ca/datasets/ottawa::lignes-écrans\"}",
+  "dct_rights_sm": [
+    "https://ottawa.ca/fr/hotel-de-ville/decouvrir-votre-ville/donnees-ouvertes"
+  ],
+  "dct_title_s": "Lignes-écrans",
+  "gbl_mdModified_dt": "2026-07-03T12:23:56Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c16f7eee-c1e8-51bc-9094-5d54465847c8",
+  "locn_geometry": "ENVELOPE(-75.956, -75.4402, 45.5124, 45.227)",
+  "schema_provider_s": "Ottawa Ouverte"
+}

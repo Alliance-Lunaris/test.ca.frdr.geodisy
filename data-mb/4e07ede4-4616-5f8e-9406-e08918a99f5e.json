@@ -1,0 +1,38 @@
+{
+  "dcat_bbox": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "dcat_keyword_sm": [
+    "HRDPS",
+    "Forecast",
+    "Weather Models",
+    "SubBasins",
+    "Accumulated Precipitation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Manitoba Government."
+  ],
+  "dct_description_sm": [
+    "<span style=\"font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;\">The HRDPS is a 2.5 km resolution model used for short-range, convection-permitting forecasts in Canada. This layer takes HRDPS precipitation totals and aggregates them by each sub-basin polygon, revealing how localized rain or snow could impact individual watersheds. Useful for near-term flood or flash-flood risk, as well as local water management during intense weather.</span>"
+  ],
+  "dct_identifier_sm": [
+    "e70f5a9343024df8af680030d54d8fa4",
+    "https://www.arcgis.com/home/item.html?id=e70f5a9343024df8af680030d54d8fa4"
+  ],
+  "dct_issued_s": "2025-05-01",
+  "dct_publisher_sm": [
+    "Manitoba Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geoportal.gov.mb.ca/datasets/manitoba::forecasted-basin-average-accumulated-precipitation-hrdps-24-48-hrs\"}",
+  "dct_rights_sm": [
+    "MB open data - Province of Manitoba | Copyright Notification"
+  ],
+  "dct_title_s": "Forecasted Basin-Average Accumulated Precipitation (HRDPS - 24  & 48 hrs)",
+  "gbl_mdModified_dt": "2026-09-25T03:31:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4e07ede4-4616-5f8e-9406-e08918a99f5e",
+  "locn_geometry": "ENVELOPE(-117.420963, -89.893723, 60.223796, 45.44628)",
+  "schema_provider_s": "Data MB"
+}

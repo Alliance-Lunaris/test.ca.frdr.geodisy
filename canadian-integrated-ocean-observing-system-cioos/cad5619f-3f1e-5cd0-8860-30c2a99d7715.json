@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-133.7841801345348, -122.49023482203482, 54.52958287232971, 48.23443097294032)",
+  "dcat_keyword_sm": [
+    "alismatales",
+    "zostera",
+    "zosteraceae",
+    "seagrass",
+    "commission-for-environmental-cooperation",
+    "seagrasscoverandcomposition",
+    "other",
+    "liliopsida",
+    "oceans",
+    "liliopsida",
+    "tracheophyta",
+    "composition-et-couverture-des-herbiers-marins",
+    "plantae",
+    "shorezone",
+    "zostera",
+    "zostera-marina",
+    "zostera-marina",
+    "alismatales",
+    "plantae",
+    "intertidal",
+    "zosteraceae",
+    "eelgrass",
+    "autre",
+    "blue-carbon",
+    "geospatial",
+    "tracheophyta"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Étendue de zostère marine - Côtière de la Colombie-Britannique"
+  ],
+  "dct_creator_sm": [
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "This dataset represents modeled areal extent of eelgrass meadows (Zostera marina) in coastal British Columbia, Canada. This dataset was generated between 2016 and 2017 as part of the Commission for Environmental Cooperation efforts to estimate blue carbon storage in eelgrass meadows across the Pacific Northwest. To model the areal spatial extent of British Columbia a novel tool was created for use in ArcGIS. This tool required 2 inputs: (1) the coastline data from Shorezone (ie. vector line features with attributes on the presence or absence of eelgrass along a linear extent of coastline) and (2) bathymetry data. Briefly, each line segment of coast in ShoreZone was converted to points along its vertices and points were used to generate Thiessen polygons. Thiessen polygons were clipped to a selected bathymetric contour (5 m or 3 m) based on the results of regional bathymetry analysis. The modeled outputs were compared to available mapping data from the British Columbia Marine Conservation Analysis Atlas to assess model accuracy. \n\nPlease refer to the report summary for the details on methods and caveats.",
+    "Cet ensemble de données représente l'étendue modélisée des prairies de zostères marines (Zostera marina) sur la côte de la Colombie-Britannique, au Canada. Cet ensemble de données a été généré entre 2016 et 2017 dans le cadre des efforts de la Commission de coopération environnementale visant à estimer le stockage du carbone bleu dans les prairies de zostères du nord-ouest du Pacifique. Pour modéliser l'étendue spatiale de la Colombie-Britannique, un nouvel outil a été créé pour être utilisé dans ArcGIS. Cet outil nécessitait deux entrées : (1) les données côtières de Shorezone (c'est-à-dire des caractéristiques vectorielles avec des attributs sur la présence ou l'absence de zostère marine le long d'une étendue linéaire du littoral) et (2) des données bathymétriques. En bref, chaque segment de côte de ShoreZone a été converti en points situés le long de ses sommets et les points ont été utilisés pour générer des polygones de Thiessen. Les polygones de Thiessen ont été découpés selon un contour bathymétrique sélectionné (5 m ou 3 m) sur la base des résultats d'une analyse bathymétrique régionale. Les résultats modélisés ont été comparés aux données cartographiques disponibles provenant de l'Atlas d'analyse de la conservation marine de la Colombie-Britannique afin d'évaluer la précision du modèle. \n\nVeuillez consulter le résumé du rapport pour plus de détails sur les méthodes et les mises en garde."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/aab940b9-bb7f-49c0-ae62-4f78d26897b3"
+  ],
+  "dct_issued_s": "2016-09-02",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/aab940b9-bb7f-49c0-ae62-4f78d26897b3\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Modeled Eelgrass Extent, British Columbia, Canada",
+  "gbl_mdModified_dt": "2026-09-16T20:33:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cad5619f-3f1e-5cd0-8860-30c2a99d7715",
+  "locn_geometry": "ENVELOPE(-133.7841801345348, -122.49023482203482, 54.52958287232971, 48.23443097294032)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

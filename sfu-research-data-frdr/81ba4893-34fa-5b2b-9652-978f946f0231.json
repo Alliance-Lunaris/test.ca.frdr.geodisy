@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.0483541, -128.0483541, 55.1173725, 55.1173725)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Su, Geoffrey, Y. (Simon Fraser University). ORCID: https://orcid.org/0009-0005-8863-0086",
+    "Allison, Michael, J. (University of Victoria).",
+    "Beblow, Jordan (Gitanyow Fisheries Authority).",
+    "Koch, Kevin (Gitanyow Fisheries Authority).",
+    "Anderson, Jeffrey (Geomorphic Environmental Services).",
+    "M’Gonigle, Leithen, K. (Simon Fraser University).",
+    "Cleveland, Mark (Gitanyow Fisheries Authority).",
+    "Helbing, Caren, C. (University of Victoria).",
+    "Marlatt, Vicki, L. (Simon Fraser University)."
+  ],
+  "dct_description_sm": [
+    "The field of environmental DNA has advanced over the past decade, with multiple approaches available for a variety of sampling media and species. Here, we quantify salmon environmental DNA upstream of a fish counting fence along with river velocity, and together, use these values to determine the correlation between the number of salmon passing by the fish fence daily with daily eDNA rates in water before, during and after the salmon spawning season for 4 Pacific salmonids (Oncorhynchus gorbuscha, O. kisutch, O. tshawytscha, O. nerka; pink, coho, Chinook, sockeye respectively). \r\nHydrogeological data of streamflow and water temperature were measured in 10 minutes intervals by automatic barologgers and levelloggers and averaged over a 24-hour period between 9pm the previous day and 9pm to get daily temperature and streamflow rate.\r\nTriplicate daily water samples were 50 m upstream of the fish counting fence in bleach sterilised glass bottles and filtered on 0.45 micron cellulose filters before storing in envelopes placed in desiccant. DNA is then extracted from these filters with stringent contamination protocols using DNeasy Blood & Tissue kits. qPCR is performed using primers and probes for each of the 4 salmonid species and the Cq values generated are converted to copies/L (S ̂, sHat) using either linear regression using parameters derived from n=24 replicate tests or by publicly available eLowQuant method (https://github.com/mlespera/eLowQuant) depending on the number of non-zero reads out of each 8 technical replicate test. No amplification producing no Cq value is an absence of target DNA.\r\nThe copies/L readings for each daily triplicate water sample are then averaged and multiplied by the daily stream flow rate to get flow adjusted eDNA rate. This can then by log transformed by doing log_10⁡〖(S ̂ 〗+1) as to not lose readings of 0 copies/L."
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.20383/102.0727"
+  ],
+  "dct_issued_s": "2023-01-01",
+  "dct_publisher_sm": [
+    "Federated Research Data Repository / dépôt fédéré de données de recherche"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.20383/102.0727\"}",
+  "dct_rights_sm": [
+    "Creative Commons Public Domain Dedication (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_spatial_sm": [
+    "Kitwanga, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Fisheries sciences",
+    "Sciences de la pêche",
+    "eDNA",
+    "Aquatic ecosystem studies and stock assessment",
+    "salmon",
+    "Agriculture, foresterie et pêches",
+    "Agriculture, forestry, and fisheries",
+    "environmental DNA",
+    "enumeration",
+    "Études des écosystèmes aquatiques et estimation des stocks"
+  ],
+  "dct_title_s": "Enumeration Potential of Environmental DNA for Pacific Salmon Stock Assessments using qPCR based methodologies converting Cq into copy number using linear regression and the eLowQuant method",
+  "gbl_mdModified_dt": "2026-04-21T17:50:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "81ba4893-34fa-5b2b-9652-978f946f0231",
+  "locn_geometry": "ENVELOPE(-128.0483541, -128.0483541, 55.1173725, 55.1173725)",
+  "schema_provider_s": "SFU Research Data (FRDR)"
+}

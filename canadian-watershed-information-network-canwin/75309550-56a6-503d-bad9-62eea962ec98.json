@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-140.875, -47.875, 86.375, 40.125)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Significant climate change impacts are highly likely in all Canadian marine and freshwater basins, with effects increasing over time (DFO 2012). Climate models project that ecosystems and fisheries across Canada will be disrupted into the foreseeable future (Lotze et al. 2019; Bryndum-Buchholz et al. 2020; Tittensor et al. 2021; Boyce et al. 2024). Despite its imminence, climate change is infrequently factored into Canada’s primary marine conservation strategies, such as spatial planning (O’Regan et al. 2021) or fisheries management (Boyce et al. 2021; Pepin et al. 2022). The Climate Risk Index for Biodiversity (CRIB) was developed to assess climate risk for marine species in a quantitative, spatially explicit, and scalable manner, supporting climate-informed decision-making. It has been used to evaluate climate risks for marine life globally (Boyce et al. 2022), regionally (Lewis et al. 2023; Boyce et al. 2024; Keen et al. 2023), for fisheries (Boyce et al. 2024), and in support of spatial conservation planning (Keen et al. 2023). \n\nThis dataset contains climate vulnerability and risk estimates from the CRIB framework adapted to consider warming at both the sea surface and its bottom for 145 marine species of conservation or fisheries interest across Canada’s marine territory. Climate risk is available at a 0.25-degree resolution under two contrasting emission scenarios to 2100. For each species, location, and scenario, 12 climate indexes, three vulnerability dimensions, and an overall vulnerability and risk score are provided. The accompanying report describes the data, methods, and workflow used to calculate risk. This report also guides the interpretation of these data to inform and support climate-informed decision-making in Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/264692e5-7b51-4ab9-bb1f-da65f6fc0875"
+  ],
+  "dct_issued_s": "2025-05-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/264692e5-7b51-4ab9-bb1f-da65f6fc0875\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "A climate risk index for marine species of commercial and conservation interest across Canada",
+  "gbl_mdModified_dt": "2026-03-24T08:06:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "75309550-56a6-503d-bad9-62eea962ec98",
+  "locn_geometry": "ENVELOPE(-140.875, -47.875, 86.375, 40.125)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

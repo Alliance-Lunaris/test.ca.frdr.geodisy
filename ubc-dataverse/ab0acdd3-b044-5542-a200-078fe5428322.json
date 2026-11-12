@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "Open",
+    "Boreal",
+    "Forest management"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lochhead, Kyle (UBC Forestry).",
+    "LeMay, Valerie (University of British Columbia, UBC Forestry).",
+    "Bull, Gary (UBC Forestry).",
+    "Schwab, Olaf (Natural Resources Canada).",
+    "Halperin, James (UBC Forestry)."
+  ],
+  "dct_description_sm": [
+    "http://hdl.handle.net/11272/10515",
+    "A spatially explicit “wall to wall” forest inventory of percent crown closure (CC), average height (Ht), average age (Age), and commercial species percentages derived using a multi-source inventory approach from Lochhead et al. (2017). This process involved compiling a suite of spatial layers including Landsat TM/ETM+ imagery, interpolated climate variables, topographic variables and other remote sensing products to be used as predictors and Canada’s National Forest Inventory photo plot information (1986-2010) as the source of dependant variables.Following Lochhead et al.(2017) the application used a method called kriging with external drift which relies on a system of non-linear models with spatially varying parameters to produce multivariate maps for the year 2010 at a 90m x 90m pixel resolution. The resulting maps are clipped to each forest management area (FMA) boundary which was sourced online (www.databasin.org). For cases, where a 90 m x 90 m pixel window overlapped non-vegetated area (e.g., waterbodies) the forest attribute information was averaging using only the vegetated pixels (i.e., prorating). For more information on methods refer to the publication."
+  ],
+  "dct_identifier_sm": [
+    "74275_73894",
+    "https://doi.org/10.5683/SP2/KITZQK"
+  ],
+  "dct_issued_s": "2019-02-26",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KITZQK\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Multivariate maps of forest attributes for management units in Canada's boreal forest",
+  "gbl_mdModified_dt": "2019-07-25T18:34:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ab0acdd3-b044-5542-a200-078fe5428322",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

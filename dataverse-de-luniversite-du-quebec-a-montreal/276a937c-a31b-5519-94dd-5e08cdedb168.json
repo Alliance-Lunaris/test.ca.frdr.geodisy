@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.0, -46.0, 66.0, 31.0)",
+  "dcat_keyword_sm": [
+    "Précipitations (Météorologie)",
+    "Physics—Meteorology. Climatology—Aqueous vapor—Rain and rainfall—Observations. By region or country—North America, United States, and Canada—Canada",
+    "Modèle régional canadien du climat",
+    "Climate model",
+    "Precipitation",
+    "Spin-up"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Roberge, François (UQAM | Université du Québec à Montréal, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-9583-5363",
+    "Di Luca, Alejandro (UQAM | Université du Québec à Montréal, Université du Québec à Montréal. Département des sciences de la terre et de l'atmosphère, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1481-2961"
+  ],
+  "dct_description_sm": [
+    "This catalogue includes seasonal mean precipitation fields from simulations and reanalysis used for the calculation of the Spatial Spin-Up Distance (SSUD). A total of seven simulation were conducted using the convection-permitting configuration (2.5-km grid spacing) of version 6 of the Canadian Regional Climate Model (CRCM6/GEM5; hereafter denoted as GEM2.5 for simplicity). The CRCM6/GEM5 version used here is based on version 5.0.2 of the Global Environmental Multiscale model (GEM5). GEM2.5 simulations were driven directly by the ERA5 reanalysis or by 12-km (GEM12) simulations also performed using the CRCM6/GEM5 model (which was in turn driven by the ERA5 reanalysis). The catalogue comprises seasonal mean precipitation fields from all seven GEM2.5 simulations, from the ERA5 reanalysis and from two GEM12 intermediate simulations (GEM12_SUN and GEM12_P3). Seasonal means were calculated using the common convention: December, January and February (DJF) for winter; March, April and May (MAM) for spring; June, July and August (JJA) for summer; and September, October and November (SON) for fall. Precipitations fields are given in mm/h."
+  ],
+  "dct_identifier_sm": [
+    "502148",
+    "https://doi.org/10.5683/SP3/GBCE7U"
+  ],
+  "dct_issued_s": "2023-07-11",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GBCE7U\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_subject_sm": [
+    "Physics",
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Spatial Spin-Up Distance Simulations Catalogue (SSUDC), V1",
+  "gbl_mdModified_dt": "2023-07-19T21:56:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "276a937c-a31b-5519-94dd-5e08cdedb168",
+  "locn_geometry": "ENVELOPE(-102.0, -46.0, 66.0, 31.0)",
+  "schema_provider_s": "Dataverse de l'Université du Québec à Montréal"
+}

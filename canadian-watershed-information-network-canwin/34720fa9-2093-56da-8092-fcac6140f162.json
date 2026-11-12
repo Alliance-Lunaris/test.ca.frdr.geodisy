@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Regional stream sediment geochemical data compilation\n\nNovember 2020\n\nRelease notes\n\nThe regional stream sediment geochemical data compilation comprises data for more than 30 000 samples across Yukon. This compilation updates the work of Héon (2003). This new compilation includes results from the reanalysis of more than 24 000 samples; inductively coupled plasma mass spectrometry (ICPMS) analysis provides upgraded detection limits and a broader range of elements relative to previous analytical data. In addition to analytical data, efforts have been made to improve sample location accuracy. The data in this release are organized by analytical method with the geodatabase having six feature classes:\n\n\n1. RGS_SITE_WATER - site specific physiography and water quality data. These data are unchanged from the original releases.\n\n \n\n2. RGS_HEON - the same data as released in Héon (2003) with minor updates to sample location.\n\n \n\n3. RGS_AAS - all samples analyzed by atomic absorption spectrometry. Most of these data are superseded by INAA and ICPMS data.\n\n \n\n4. RGS_INAA - all samples analyzed by instrumental neutron activation analysis (INAA) and fire assay-neutron activation (FA-NA) analysis.\n\n \n\n5. RGS_ICPMS - all samples analyzed by inductively coupled plasma mass spectrometry (ICPMS).\n\n \n\n6. RGS_All - includes all AAS, INAA and ICPMS data.\n\n \n\nCollection of stream sediment samples in Yukon began in 1976 and ended in 2006. Three analytical methods have been used to analyze the minus 0.177 mm fraction (-80 mesh) of these samples: AAS, INNA (and FA-NA) and ICPMS. A simple description of each method is given below.\n\nFor atomic absorption spectrometry (AAS) a 1 g aliquot is 'partially digested' using Lefort aqua regia or concentrated hot nitric acid. The digestion product is analyzed using an atomic absorption spectrometer. Oxide and silicate minerals are partially digested while some sulphide minerals are erratically volatilized. This means that AAS cannot be used to obtain accurate REE, Ta, Nb, As, Sb, Sn, Hg, Cr, or Au determinations.\n\nFor instrumental neutron activation analysis ( INAA), aliquots of sieved sediment (the minus 0.177 mm fraction) or milled rock ranging from 5 to 40 g are encapsulated and irradiated in a nuclear reactor before counting the primary gamma radiation induced by the neutron irradiation with a high resolution germanium gamma ray detector. Fire assay-neutron activation (FA-NA) analysis is similar but includes a pre-concentration fire assay step prior to irradiation and analysis. Results for both INAA and FA-NA are similar to those for samples analyses by fusion or other total digestion techniques. Neutron activation detection limits are typically higher than those by acid digestion - ICPMS. Commodity and pathfinder elements such as Au, As, Sb and W have reasonable detection limits by INAA and the data generated are relatively precise.\n\nFor ICPMS analysis, aliquots of sieved sediment ( the minus 0.177 mm fraction) ranging from 0.5 to 1 g are prepared using a partial digestion technique, typically aqua regia, followed by analysis of dissolution product by ICPMS. Sulphide minerals are completely oxidized and dissolved whereas most oxide and silicate minerals are only partially digested. This means that results produced by partial digestion methods are acceptable for elements such as Ag, As, Mo, Ni, Pb, Sb, Tl, and Zn but values for elements such as Al, Ba, Cr, Fe, P, Sn, Ti, Y, and Zr are likely to not reflect the actual element concentration in a sample. The sample size used for routine RGS sample analysis is too small be representative of Au in the original sample and thus Au by aqua regia digestion - ICPMS has poor precision.\n\nFurther upgrades to this database are not anticipated. All samples that could be found in the GSC-Ottawa warehouse have been reanalyzed using ICPMS. Any errors or omissions in this database should be reported to the Yukon Geological Survey. Your feedback contributes to improving the accuracy of the geoscience databases for Yukon.\n\nContact: [YGSMinerals@yukon.ca](mailto:YGSMinerals@yukon.ca) ; [geology@yukon.ca](mailto:geology@yukon.ca)\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps) . Discover more digital map data and interactive maps from Yukon's digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/3424abc1-8da0-41ee-a14d-d8e82ad9e94f"
+  ],
+  "dct_issued_s": "2025-09-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/3424abc1-8da0-41ee-a14d-d8e82ad9e94f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Regional Geochemical Surveys - RGS - All - 250k",
+  "gbl_mdModified_dt": "2026-10-07T15:41:15Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "34720fa9-2093-56da-8092-fcac6140f162",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

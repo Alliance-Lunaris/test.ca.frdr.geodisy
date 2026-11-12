@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "computational motor control",
+    "myoelectric",
+    "utility function"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jonathon, Sensinger (University of New Brunswick).",
+    "Adrian, Aleman-Zapata (Universidad de Guadalajara).",
+    "Kevin, Englehart (University of New Brunswick)."
+  ],
+  "dct_description_sm": [
+    "Control of human-machine interfaces are well modeled by computational control models, which take into account the behavioral decisions people make in estimating task dynamics and state for a given control law. This control law is optimized according to a cost function, which for the sake of mathematical tractability is typically represented as a series of quadratic terms. Recent studies have found that people actually use cost functions for reaching tasks that are slightly different than a quadratic function, but it is unclear which of several cost functions best explain human behavior and if these cost functions generalize across tasks of similar nature but different scale. In this study, we used an inverse-decision-theory technique to reconstruct the cost function from empirical data collected on 24 able-bodied subjects controlling a myoelectric interface. Compared with previous studies, this experimental paradigm involved a different control source (myoelectric control, which has inherently large multiplicative noise), a different control interface (control signal was mapped to cursor velocity), and a different task (the tracking position dynamically moved on the screen throughout each trial). Several cost functions, including a linear-quadratic; an inverted Gaussian, and a power function, accurately described the behavior of subjects throughout this experiment better than a quadratic cost function or other explored candidate cost functions (p<0.05). Importantly, despite the differences in the experimental paradigm and a substantially larger scale of error, we found only one candidate cost function whose parameter was consistent with the previous studies: a power function (cost ∝ errorα) with a parameter value of α = 1.69 (1.53–1.78 interquartile range). This result suggests that a power-function is a representative function of user’s error cost over a range of noise amplitudes for pointing and tracking tasks."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.13qh4",
+    "https://doi.org/10.5061/dryad.13qh4"
+  ],
+  "dct_issued_s": "2016-08-10",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.13qh4\"}",
+  "dct_spatial_sm": [
+    "Fredericton"
+  ],
+  "dct_title_s": "Data from: Do cost functions for tracking error generalize across tasks with different noise levels?",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "66cc262c-352e-5f91-8343-5402e40d6e2a",
+  "schema_provider_s": "Dryad"
+}

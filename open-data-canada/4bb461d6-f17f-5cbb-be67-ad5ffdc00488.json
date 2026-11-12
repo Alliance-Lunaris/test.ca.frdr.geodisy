@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Parc",
+    "Territoire",
+    "Inventaire",
+    "Environnement",
+    "Santé",
+    "Schéma",
+    "Terrain",
+    "Forêt",
+    "Stationnement",
+    "Information gouvernementale",
+    "HackQC22",
+    "Mobilité",
+    "Municipalité",
+    "Arbre",
+    "Infrastructure",
+    "Urbanisme",
+    "Aménagement",
+    "Écoforestier",
+    "Cartographie"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "DSET, Territoire, évaluation des impacts et adaptation au climat."
+  ],
+  "dct_description_sm": [
+    "The canopy is defined by the projection on the ground of the tops (crown) of trees (including leaves, branches, and trunks), which is visible from the sky. Any vegetation with a height greater than 2 m was taken into account. \n\nThe mapping of the canopy was carried out using deep learning methods, based on variables (resolution of 1 m) calculated from raw airborne lidar data from 2010 to 2020. It covers the six census metropolitan areas (CMAs) of Quebec: Gatineau, Montreal, Quebec, Saguenay, Sherbrooke and Trois-Rivières.\n\nFor more details on the creation of the map as well as the benefits, limitations, and potential uses, consult the * [Technote] (https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/3d6ed9d1-5760-43f8-95ed-b391b98a30bd) * (simplified version) and/or the * [methodological report] (https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/09155478-3b52-4865-bda4-3ad4189fe0a5) * (full version).\n\nThe production of these data was coordinated by the National Institute of Public Health of Quebec (INSPQ) and carried out by the forest remote sensing laboratory of the Sainte-Foy Forestry Education and Research Center (CERFO).\n\nNOTE: The canopy height per pixel is available in the raster files that you can download (see the data download guide in the “Documentation” section).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La canopée se définit par la projection au sol de la cime (couronne) des arbres (incluant les feuilles, les branches et le tronc), qui est visible du ciel. Toute végétation ayant une hauteur supérieure à 2 m a été prise en compte. \n\nLa cartographie de la canopée a été réalisée par des méthodes d’apprentissage profond, basées sur des variables (résolution de 1 m) calculées depuis des données brutes lidar aéroporté de 2010 à 2020. Elle couvre les six régions métropolitaines de recensement (RMR) du Québec : Gatineau, Montréal, Québec, Saguenay, Sherbrooke et Trois-Rivières.\n\nPour plus de détails sur la création de la carte ainsi que sur les avantages, limites et utilisations potentielles, consultez la *[Technote](https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/3d6ed9d1-5760-43f8-95ed-b391b98a30bd)* (version vulgarisée) et/ou le *[rapport méthodologique](https://www.donneesquebec.ca/recherche/dataset/canopee-des-six-rmr-du-quebec/resource/09155478-3b52-4865-bda4-3ad4189fe0a5)* (version complète).\n\nLa production de ces données a été coordonnée par l’Institut national de santé publique du Québec (INSPQ) et réalisée par le laboratoire de télédétection forestière du Centre d’Enseignement et de Recherche en Foresterie de Sainte-Foy (CERFO).\n\nNOTE : La hauteur de canopée par pixel est disponible dans les fichiers rasters que vous pouvez télécharger (voir le guide de téléchargement des données dans la section « Documentation »)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b90d077d-5df7-47b1-90c7-00c323ac25a4"
+  ],
+  "dct_issued_s": "2022-02-23",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b90d077d-5df7-47b1-90c7-00c323ac25a4\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Canopée des six RMR du Québec 2022",
+  "gbl_mdModified_dt": "2026-09-30T17:37:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4bb461d6-f17f-5cbb-be67-ad5ffdc00488",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

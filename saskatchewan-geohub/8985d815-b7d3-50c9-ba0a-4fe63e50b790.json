@@ -1,0 +1,44 @@
+{
+  "dcat_bbox": "ENVELOPE(-109.9985351561745, -101.6708984374267, 57.87519499381565, 52.54435077274071)",
+  "dcat_keyword_sm": [
+    "sk2",
+    "species at risk",
+    "woodland caribou",
+    "sk2 west",
+    "environment",
+    "biodiversity",
+    "raster",
+    "rangifer tarandus caribou",
+    "sk2 east",
+    "boreal plain",
+    "sk2 central"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Saskatchewan Government."
+  ],
+  "dct_description_sm": [
+    "<p>Caribou habitat potential has been defined based on the attributes of Saskatchewan’s forest ecosites (McLaughlan et al., 2010) and their utility and function for caribou. Forest ecosites were evaluated for habitat potential for woodland caribou with the assistance of caribou experts with experience in Saskatchewan ecosystems, during a workshop in March 2013 (Roddy, 2013). Ecosites were evaluated and classified into low, moderate, or high caribou habitat potential based on their potential to provide forage, refuge, or calving habitats regardless of current condition.<br />&nbsp;</p><p>Download: <a target='_blank' href='https://www.arcgis.com/home/item.html?id=068f7531901b4cbf8651244a40ffcd04' rel='nofollow ugc noopener noreferrer'>here</a></p><p><br />Forage value was rated based on the availability of lichen and other plant species, which are palatable to caribou (Thomas and Armbruster, 1996).&nbsp;<br />In this dataset, high potential foraging habitat is considered to be ecosites with scores of 2 or 3.<br /><br />Refuge value was rated based on the availability of plant species which provide food value for other ungulates (e.g., moose, deer, elk). This was used as a surrogate for the probability of predation. If these food sources are not present, the ecosite has potential to provide refuge for caribou from predators.&nbsp;<br />In this dataset, high potential refuge habitat is considered to be ecosites with scores of 2 or 3.</p><p>Calving value ratings were made in consideration of both the time of calving and the following two to four-week period. The primary consideration was predator avoidance. The related factors considered were the ability to hide a calf and the lack of spring black bear forage. A secondary consideration was whether there was caribou forage available on the site.&nbsp;<br />In this dataset, high potential calving habitat is considered to be ecosites with scores of 2 or 3.</p><p><br />Overall habitat potential was determined from the sum of the three habitat values of forage, refuge, and calving. Therefore, overall habitat potential values of:<br />3 = low habitat potential for woodland caribou;<br />4, 5 and 6 = moderate habitat potential for woodland caribou; and<br />7, 8, and 9 = high habitat potential for woodland caribou.<br /><br /><br />The SK2 Caribou Conservation Unit is mainly located within the Boreal Plain ecozone, however a few small areas intersect with the Boreal Shield. This habitat potential data set is primarily based on predictive ecosite mapping for the Boreal Plain ecozone at 10 metres that was generalized using a pixel clustering algorithm to provide a smoother end product.&nbsp;<br />In the areas of SK2 within the Boreal Shield, predictive ecosite mapping for the Boreal Shield was used, generalized to ecosite groupings to improve accuracy. Forage/refuge/calving scores for each ecosite group were determined using a weighted average of the scores for the individual ecosites. The final overall habitat potential score for each ecosite group is the sum of the weighted average scores for foraging/refuge/calving.<br />The final data set that included information from the Boreal Plain and Boreal Shield ecosites was dissolved on the unique combinations of the forage, refuge, calving and habitat potential scores.</p><p style='margin:0in 0in 0pt;'>&nbsp;</p><p>Further information about the construction and uses of the woodland caribou habitat potential layer can be found in the SK2 range plans: <a target='_blank' href='https://www.saskatchewan.ca/business/environmental-protection-and-sustainability/wildlife-and-conservation/wildlife-species-at-risk/woodland-caribou-program/range-planning' rel='nofollow ugc noopener noreferrer'>Range Planning | Woodland Caribou Program | Government of Saskatchewan</a><br />&nbsp;</p>"
+  ],
+  "dct_identifier_sm": [
+    "068f7531901b4cbf8651244a40ffcd04",
+    "https://www.arcgis.com/home/item.html?id=068f7531901b4cbf8651244a40ffcd04"
+  ],
+  "dct_issued_s": "2020-04-21",
+  "dct_publisher_sm": [
+    "Saskatchewan Government"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://geohub.saskatchewan.ca/maps/saskatchewan::sk2-woodland-caribou-habitat-potential\"}",
+  "dct_rights_sm": [
+    "Government of Saskatchewan Standard Unrestricted Use License"
+  ],
+  "dct_title_s": "SK2 Woodland Caribou Habitat Potential",
+  "gbl_mdModified_dt": "2026-03-12T20:19:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8985d815-b7d3-50c9-ba0a-4fe63e50b790",
+  "locn_geometry": "ENVELOPE(-109.9985351561745, -101.6708984374267, 57.87519499381565, 52.54435077274071)",
+  "schema_provider_s": "Saskatchewan GeoHub"
+}

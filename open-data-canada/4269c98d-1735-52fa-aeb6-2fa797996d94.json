@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "dcat_keyword_sm": [
+    "Surface Water Monitoring Centre",
+    "drought",
+    "flood forecasting",
+    "Environment and Climate Change Canada",
+    "climate",
+    "rain",
+    "Government information",
+    "precipitation",
+    "hydrometric",
+    "Regional Operations Division",
+    "weather",
+    "conservation authority",
+    "Environment and Natural Resources",
+    "flood"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur les précipitations"
+  ],
+  "dct_creator_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario."
+  ],
+  "dct_description_sm": [
+    "This data contains information on active precipitation gauges in Ontario. These precipitation gauges: * measure how much rainfall/precipitation falls on the ground (mm) * are peripherals to hydrometric monitoring stations within the Ontario Hydrometric Network Rainfall and snowmelt are primary causes of flooding in Ontario. The lack of precipitation often causes low water and drought conditions. Data from the gauges is collected and maintained by the Surface Water Monitoring Centre (SWMC). The data supports SWMC and partner organization such as conservation authorities, on the local and provincial scale, with: * flood forecasting and warning * drought monitoring The SWMC transfers precipitation data to Environment and Climate Change Canada (ECCC). This happens through an automated process integrated into the SWMC corporate water and climate database. ECCC publishes and maintains a variety of datasets on their Meteorological Services of Canada Datamart, a publicly accessible source for meteorological and hydrological data. This data source has 24/7 operational service and provides support on a best effort basis during normal business hours. There are 30 days worth of precipitation data available on the MSC (Meteorological Services of Canada) Datamart. To access the data, input a date in the link. The links contained in the files will only work if you input a date within the past 30 days. The instructions below are for how to set up the link to access the data. __Setup the Link__ 1. Paste the link from either the Climate Stations or https://dd.weather.gc.ca/YYYYMMDD/WXO-DD/observations/swob-ml/partners/on_water. 2. Input the date to get the data. A section in the link is to identify the date in the format of “YYYYMMDD” (Y = year, M = month, D = day). The date must be within the past 30 days. 3. Download either the precipitation data (XML format) or stations (CSV format).",
+    "Ces données contiennent des renseignements sur les pluviomètres actifs en Ontario. Ces pluviomètres : * mesurent la quantité de pluie/précipitations au sol (en mm); * sont des périphériques aux stations de surveillance hydrométrique du réseau hydrométrique de l’Ontario. Les précipitations et la fonte des neiges sont les principales causes des inondations en Ontario. L’absence de précipitations engendre souvent des niveaux d’eau bas et des conditions de sécheresse. Les données des pluviomètres sont recueillies et conservées par le Centre de contrôle des eaux de surface. Les données appuient le Centre de contrôle des eaux de surface et les organismes partenaires, comme les offices de protection de la nature, à l’échelle locale et provinciale, avec : * prévision et avertissement d’inondations * surveillance des sécheresses Le Centre de contrôle des eaux de surface transfère les données sur les précipitations à Environnement et Changement climatique Canada (ECCC). Cela se fait au moyen d’un processus automatisé intégré à la base de données ministérielle sur l’eau et le climat du Centre de contrôle des eaux de surface. ECCC publie et tient à jour divers ensembles de données dans son Datamart du Service météorologique du Canada, une source accessible au public pour les données météorologiques et hydrologiques. Cette source de données offre un service opérationnel 24 heures sur 24, 7 jours sur 7, et offre du soutien dans la mesure du possible pendant les heures normales d’ouverture. Il y a des données disponibles pour un total de 30 jours de précipitations dans le Datamart du Service météorologique du Canada. Pour accéder aux données, entrez une date dans le lien. Les liens contenus dans les fichiers ne fonctionneront que si vous entrez une date au cours des 30 derniers jours. Les instructions ci-dessous indiquent comment configurer le lien pour accéder aux données. __Configurer le lien__ 1. Collez le lien à partir des fichiers de données Climate Stations ou https://dd.weather.gc.ca/YYYYMMDD/WXO-DD/observations/swob-ml/partners/on_water. 2. Entrez la date pour obtenir les données. Une section du lien sert à indiquer la date au format « AAAAMMJJ » (A = année, M = mois, J = jour). La date doit se situer dans les 30 derniers jours. 3. Téléchargez les données sur les précipitations (format XML) ou les stations (format CSV).** Cet élément de métadonnées provenant d’une tierce partie. Les valeurs françaises pour le titre et la description du jeu de données proviennent de la province de l’Ontario alors que celles des mots-clés et des noms des ressources sont le résultat d'une traduction automatique (Amazon Translate) **"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/f7130012-beca-4de8-a57d-50c03ca323d0"
+  ],
+  "dct_issued_s": "2024-08-07",
+  "dct_publisher_sm": [
+    "Government of Ontario | Gouvernement de l'Ontario"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/f7130012-beca-4de8-a57d-50c03ca323d0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence – Ontario https://www.ontario.ca/page/open-government-licence-ontario"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Precipitation data",
+  "gbl_mdModified_dt": "2025-08-13T13:11:14Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4269c98d-1735-52fa-aeb6-2fa797996d94",
+  "locn_geometry": "ENVELOPE(-95.15, -74.3, 56.85, 41.67)",
+  "schema_provider_s": "Open Data Canada"
+}

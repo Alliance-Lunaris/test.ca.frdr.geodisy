@@ -1,0 +1,53 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.846266, -123.808739, 49.136283, 49.122371)",
+  "dcat_keyword_sm": [
+    "Node communities",
+    "Garry Oak",
+    "LiDAR",
+    "Graph theory",
+    "Fragmentation",
+    "Network analysis",
+    "Hydrology",
+    "Betweenness Centrality",
+    "Vernal Pool"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Rizvi, Asiya (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Light Detection and Ranging (LiDAR) technology in combination with a graph-theory-based analytical framework enables high-resolution, network analysis of hydrological structures and connectivity. Such assessments are essential to understanding how land use changes and/or development impact ecological processes. The integration of LiDAR data with graph-theoretic approaches has been relatively underexplored, especially in the context of shaping methodology to assess hydrological relationships with specific ecosystems and species in a given area. \nThis study utilizes high-resolution LiDAR data to delineate hydrological features applies graph theory to identify key nodes that facilitate overall connectivity, either by measure of their betweenness centrality or ability to fragment the network when removed or obstructed. \nSpecifically, analysis is targeted towards two ecosystems at-risk in British Columbia: Garry Oak (Quercus garryana) meadows and vernal pools. The LiDAR-derived digital elevation model is used to identify stochastic depressions that are potentially suitable for vernal pools. On top of fragmentation analysis for the entire network, a sub-analysis is also completed in the specific context of the meadows: critical nodes that, upon removal, fragment the most meadow pour points are identified. Quantitatively, this is measured by the number of added separate network components that connect to at least one meadow pour point. \nResults highlight commonly unrecognized network structures and critical nodes that underpin hydrological connectivity in and between vulnerable ecosystems. This approach provides efficient insights to inform land management decisions and predict how development in specific areas may degrade surrounding ecosystems of varying distances from the disturbance point."
+  ],
+  "dct_identifier_sm": [
+    "1146164_73894_115983",
+    "https://doi.org/10.5683/SP3/GJIXAR"
+  ],
+  "dct_issued_s": "2026-04-28",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/GJIXAR\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Nanaimo, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Other",
+    "Earth and Environmental Sciences",
+    "Computer and Information Science"
+  ],
+  "dct_title_s": "Using a LiDAR-derived Digital Elevation Model to Identify Hydrological Vulnerabilities",
+  "gbl_mdModified_dt": "2026-04-28T16:38:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4cf4bd16-cc53-582c-aab9-d14244774b80",
+  "locn_geometry": "ENVELOPE(-123.846266, -123.808739, 49.136283, 49.122371)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

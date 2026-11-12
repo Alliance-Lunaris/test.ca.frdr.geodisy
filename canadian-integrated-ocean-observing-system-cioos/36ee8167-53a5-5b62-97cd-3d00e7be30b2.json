@@ -1,0 +1,74 @@
+{
+  "dcat_bbox": "ENVELOPE(-128.1719970703125, -128.10985565185547, 51.68362528576685, 51.63229666135982)",
+  "dcat_keyword_sm": [
+    "urchin",
+    "extent",
+    "ochrophyta",
+    "marine",
+    "macrocystis-pyrifera",
+    "calvert",
+    "nereocystis",
+    "laminariaceae",
+    "laminariaceae",
+    "other",
+    "photo",
+    "nearshore",
+    "macroalgalcanopycoverandcomposition",
+    "oceans",
+    "composition-et-couverture-de-la-canopee-de-macroalgues",
+    "canopy",
+    "air",
+    "laminariales",
+    "phaeophyceae",
+    "macrocystis",
+    "2006",
+    "laminariales",
+    "phaeophyceae",
+    "nereocystis-luetkeana",
+    "hakai",
+    "macrocystis-pyrifera",
+    "downloadable-data",
+    "macrocystis",
+    "autre",
+    "nereocystis",
+    "geospatial",
+    "chromista",
+    "kelp",
+    "chromista",
+    "nereocystis-luetkeana",
+    "ochrophyta"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Étendue de la canopée de varech 2006 - nord-ouest de l'île Calvert"
+  ],
+  "dct_creator_sm": [
+    "Holmes, Keith (Hakai Institute).",
+    "Burt, Jenn (Hakai Institute).",
+    "Hakai Institute (Hakai Institute)."
+  ],
+  "dct_description_sm": [
+    "2006 air photos sourced from the province were used to digitize kelp canopies for NW Calvert Island. Focal areas of West Beach and Choked Passage off Calvert Island have been chosen to to multiple year analysis of kelp canopy change pre - and post otter establishment in the area. \n\nKelp density / species / and extent are recorded - see attributes listed below.\n2006 kelp canopy extent represents the maximum growth for the year. Tide level was roughly  2.47 meters (8.1 foot) - a level which could impact kelp extent and the ability for GIS technicians to properly detect and identify species. More research is being done to validate and test tide levels with associated kelp extent findings.\n\nAll digitizing occurred using Arc GIS. SFU volunteer crew (Amanda Schrack and Sebastian Mather) along with principal investigators Jenn Burt and Keith Holmes.\n\nMethods based on KIM 1 methodology as described in Sutherland 2007 report: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/338662.pdf\n\nAreas covered: West Beach – 7th beach to West Beach + Choked Passage – Surf Pass and North Beach to Wolf Beach North to Hakai Land and Sea Beach.\n\nAttributes:\n\nFID - Unique identification number - ARC auto generated during polygon creation\n\nShape - Polygon - spatial representation\n\nSpecies - \"Macro\" / \"Nereo\" / Mixed detailing the two possible kelp canopy species. Macro refers to macrocystis pyrifera or giant kelp. Nereo refers to nereocystis luetkeana or bull kelp. Mixed is a homogenous mix of both Macro and Nereo species. Defined by GIS techs - identified by \"credit\" field. \n\nDensity - density of kelp defined as either high or low. Based on the Sutherland methodology for kelp density. High = high density / based on mean kelp plants found per square meter. Low = low density - still a continuous bed of kelp with large gaps the length of each fond.\n\nArea sq_m - size of each kelp bed in square meters. Defined by arc geometry calculation.\n\nConcat - concatenation of species and density information. Used for cartographic purposes. Defined by concatenating species and density metrics in ARC GIS.\n\nConfidence - Used by GIS technician to identify difficult to detect species / kelp bed extent / density. Used to inform reviewers and quality control spatial information. High = High confidence - no need to check over, Medium = medium confidence - check over, Low = low confidence - unsure of major elements - reviewer check over. A \"Checked\" may be added to the information to determine quality control has been completed on low confidence polygons. Determined by the last \"credit\" reviewer.\n\nCredit - Initials of GIS technician to create and give the final quality check on the kelp extent polygon. KH = Keith Holmes, JB = Jenn Burt, AS = Amanda Schrack, SM = Sebastian Mather.\n\nSpecies_la - full Latin species name for the kelp. macrocystis pyrifera / nereocystis luetkeana / mixed. Mixed has a homogeneous mix of both macrocystis pyrifera and nereocystis luetkeana species\n\nDataset created by Jenn Burt and Keith Holmes. Simon Fraser University Volunteers: Amanda Schrack and Sebastian Mather\nContact: keith.holmes@hakai.org",
+    "Des photos aériennes de 2006 provenant de la province ont été utilisées pour numériser les canopées de varech du nord-ouest de l'île Calvert. Les zones d'intérêt de West Beach et de Choked Passage, au large de l'île Calvert, ont été choisies pour effectuer une analyse pluriannuelle de l'évolution de la canopée de varech avant et après l'établissement de la loutre dans la région. \n\nLa densité, l'espèce et l'étendue du varech sont enregistrées - voir les attributs ci-dessous.\nL'étendue de la canopée de varech en 2006 représente la croissance maximale de l'année. Le niveau de la marée était d'environ 2,47 mètres (8,1 pieds), un niveau qui pourrait avoir une incidence sur l'étendue du varech et sur la capacité des techniciens des SIG à détecter et à identifier correctement les espèces. D'autres recherches sont en cours pour valider et tester le niveau des marées avec les résultats associés à l'étendue du varech.\n\nToutes les numérisations ont été effectuées à l'aide d'Arc GIS. L'équipe de bénévoles de la SFU (Amanda Schrack et Sebastian Mather) ainsi que les chercheurs principaux Jenn Burt et Keith Holmes.\n\nMéthodes basées sur la méthodologie KIM 1 telle que décrite dans le rapport Sutherland 2007 : https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/338662.pdf\n\nZones couvertes : West Beach — 7e plage à West Beach + Choked Passage — Surf Pass et North Beach à Wolf Beach North jusqu'à Hakai Land and Sea Beach.\n\nAttributs :\n\nFID - Numéro d'identification unique - ARC généré automatiquement lors de la création du polygone\n\nForme - Polygone - représentation spatiale\n\nEspèces - « Macro »/« Nereo »/Mixte détaillant les deux espèces possibles de la canopée de varech. Macro fait référence à macrocystis pyrifera ou varech géant. Nereo fait référence à nereocystis luetkeana ou varech taureau. Mixed est un mélange homogène d'espèces Macro et Nereo. Défini par les techniciens des SIG - identifié par le champ « crédit ». \n\nDensité : densité du varech définie comme étant élevée ou faible. Basé sur la méthodologie de Sutherland pour la densité du varech. Élevé = haute densité/basé sur la moyenne des plants de varech trouvés par mètre carré. Faible = faible densité - il s'agit toujours d'un lit continu de varech avec de grands espaces sur la longueur de chaque fond.\n\nSuperficie en mètres carrés - taille de chaque lit de varech en mètres carrés. Défini par le calcul de la géométrie de l'arc.\n\nConcat - concaténation d'informations sur les espèces et la densité. Utilisé à des fins cartographiques. Défini par la concaténation des espèces et des métriques de densité dans ARC GIS.\n\nConfiance - Utilisée par un technicien en SIG pour identifier les espèces difficiles à détecter, l'étendue et la densité du lit de varech. Utilisé pour informer les réviseurs et contrôler la qualité des informations spatiales. Haut = niveau de confiance élevé - pas besoin de vérifier, moyen = niveau de confiance moyen - vérification, faible = niveau de confiance faible - incertitude quant aux principaux éléments - vérification par l'évaluateur. La mention « Vérifié » peut être ajoutée aux informations pour déterminer que le contrôle qualité a été effectué sur les polygones à faible niveau de confiance. Déterminé par le dernier évaluateur de « crédit ».\n\nCrédit : Initiales du technicien en SIG chargé de créer le polygone d'étendue du varech et d'effectuer le contrôle de qualité final. KH = Keith Holmes, JB = Jenn Burt, États-Unis = Amanda Schrack, SM = Sebastian Mather.\n\nSpecies_LA - nom latin complet de l'espèce pour le varech. macrocystis pyrifera/nereocystis luetkeana/mixed. Mixed contient un mélange homogène d'espèces macrocystis pyrifera et nereocystis luetkeana\n\nEnsemble de données créé par Jenn Burt et Keith Holmes. Bénévoles de l'Université Simon Fraser : Amanda Schrack et Sebastian Mather\nContactez : keith.holmes@hakai.org"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/0f19ac6e-dc86-445b-b2da-7b61a389222e"
+  ],
+  "dct_issued_s": "2015-11-26",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/0f19ac6e-dc86-445b-b2da-7b61a389222e\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution 4.0 https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "dct_title_s": "Kelp Canopy Extent 2006 - NW Calvert Island",
+  "gbl_mdModified_dt": "2026-10-02T23:02:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "36ee8167-53a5-5b62-97cd-3d00e7be30b2",
+  "locn_geometry": "ENVELOPE(-128.1719970703125, -128.10985565185547, 51.68362528576685, 51.63229666135982)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

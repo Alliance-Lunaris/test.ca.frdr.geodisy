@@ -1,0 +1,52 @@
+{
+  "dcat_bbox": "ENVELOPE(-67.6187, -66.8023, 47.9971, 47.5285)",
+  "dcat_keyword_sm": [
+    "Salmons/Trouts",
+    "rivière/cours d'eau",
+    "RIVERS/STREAM",
+    "saumons/truites",
+    "Golfe du Saint-Laurent",
+    "Salmo salar",
+    "Pêcheries",
+    "Gulf of St. Lawrence",
+    "Salmo salar",
+    "Fisheries",
+    "Fleuve / Rivière",
+    "Rivers"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Jeu de données de saumoneaux de saumon Atlantique de la rivière Kedgwick, Nouveau-Brunswick"
+  ],
+  "dct_creator_sm": [
+    "Michael Coffin."
+  ],
+  "dct_description_sm": [
+    "PURPOSE:\nEstimation of Atlantic salmon smolt abundance in the Restigouche watershed.\n            \n\nDESCRIPTION:\nEach spring (May-June), DFO installs a Rotary Screw Trap (RST; smolt wheel) on the Kedgwick river, a tributary of the Restigouche River. The number of individuals of each species of fish caught in the trap is recorded, and length and weight are measured for a portion of Atlantic salmon smolts captured. All Atlantic salmon smolts captured in the RST are tagged with uniquely-numbered polyethylene streamer tags and released upstream of the trap with the intention of using their rate of recapture to estimate the efficiency of the trap and the abundance of smolts (Capture-Mark-Recapture experiment).\n            \n\nPARAMETERS COLLECTED:\nspecies counts (ecological); point (spatial); capture-mark-recapture data for Atlantic salmon smolts (ecological)\n\nNOTES ON QUALITY CONTROL:\nThe data is stored in a relational database and therefore benefits from referential integrity between tables and observations. The database also defines data types for columns of the tables, ensuring a degree of consistency across observations. The field data sheets are also entered into a web app which provides an additional layer of quality control.\n\nUSE LIMITATION:\nTo ensure scientific integrity and appropriate use of the data, we would encourage you to contact the data custodian.",
+    "OBJECTIF :\nEstimation de l'abondance des saumoneaux de saumon Atlantique dans le bassin versant de la Restigouche.\n            \n\nDESCRIPTION :\nChaque printemps (mai-juin), le MPO installe une trappe rotative (roue à saumoneaux) sur la rivière Kedgwick, une tributaire de la rivière Restigouche. Le nombre d'individus de chaque espèce de poisson pris dans le piège est enregistré, et la longueur et le poids sont mesurés pour une partie des saumoneaux du saumon Atlantique capturés. Tous les saumoneaux capturés dans le RST sont marqués avec des étiquettes en polyéthylène numérotées et relâchés en amont du piège avec l'intention d'utiliser leur taux de recapture pour estimer l'efficacité du piège et l'abondance des saumoneaux (expérience de capture-marquage-recapture).\n            \n\nPARAMÈTRES COLLECTÉS :\nabondance d'especes (ecologique); position (spatial); données capture-marque-recapture de saumoneaux de saumon atlantique (ecologique)\n\nNOTES SUR LE CONTRÔLE DE QUALITÉ :\nLes données sont stockées dans une base de données relationnelle et bénéficient donc d'une intégrité référentielle entre les tables et les observations. La base de données définit également les types de données pour les colonnes des tableaux, ce qui garantit un certain degré de cohérence entre les observations. Les fiches de données de terrain sont également saisies dans une application Web qui fournit une vérification supplémentaire de contrôle de la qualité.\n\nLIMITATION DE L'UTILISATION :\nPour assurer l'intégrité scientifique et l'utilisation appropriée des données, nous vous encourageons à contacter le gardien des données."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/17bda544-dd77-99c4-5785-74315d9badaa"
+  ],
+  "dct_issued_s": "2020-03-03",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/17bda544-dd77-99c4-5785-74315d9badaa\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Atlantic Salmon Smolt Data from the Kedgwick River, New Brunswick",
+  "gbl_mdModified_dt": "2026-03-24T08:39:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8cf3f69d-b712-5c0f-b771-152706348805",
+  "locn_geometry": "ENVELOPE(-67.6187, -66.8023, 47.9971, 47.5285)",
+  "schema_provider_s": "Open Data Canada"
+}

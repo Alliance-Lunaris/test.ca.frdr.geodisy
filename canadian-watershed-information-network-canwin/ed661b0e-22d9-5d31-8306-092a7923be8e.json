@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The maps show a multiyear ground deformation rate caused by small-scale deformation processes in Canada, measured in meters per year. Horizontal-east and vertical deformation components were computed from data acquired on ascending and descending orbits. This horizontal-east/vertical 2D decomposition is approximate and assumes constant viewing geometry and the absence of horizontal-north deformation.  \n  \n  In the line-of-sight (LOS) map computed from ascending orbit data, a negative signal approximately corresponds to either subsidence or eastward motion, while a positive signal corresponds to uplift or westward motion. In the LOS map computed from descending orbit data, a negative signal approximately corresponds to either subsidence or westward motion, while a positive signal corresponds to uplift or eastward motion.  \n  \n  In the horizontal-east map, a negative signal corresponds to westward motion, while a positive signal corresponds to eastward motion. In the vertical map, a negative signal indicates subsidence, while a positive signal indicates uplift.  \n  \n  The maps were calculated from Sentinel-1 Synthetic Aperture Radar data collected between 2017 and 2024 during the snow-free season. Interferometric analysis of Sentinel-1 data was performed using GAMMA Software (https://www.gamma-rs.ch), and the long-term deformation rate was computed with the Multidimensional Small Baseline Subset (MSBAS) Software Version 10 (https://doi.org/10.1080/07038992.2024.2424753) at the Canada Centre for Mapping and Earth Observation, Natural Resources Canada.  \n  \n  Long-wavelength signals caused by postglacial rebound and tectonic motion were filtered to enhance the visibility of small-scale deformation processes, such as those originating from landslides and mining. Field studies have confirmed only a few of these processes to date. The maps are expected to contain processing artifacts, which will be addressed in future work.  \n  \n  References:  \n  \n  Samsonov, S. V., & Feng, W. (2023). Deformation Retrievals for North America and Eurasia from Sentinel-1 DInSAR: Big Data Approach, Processing Methodology and Challenges. Canadian Journal of Remote Sensing, 49(1). https://doi.org/10.1080/07038992.2023.2247095  \n  \n  Samsonov, S. V. (2024). Multidimensional Small Baseline Subset (MSBAS) Software for Constrained and Unconstrained Deformation Analysis of Partially Coherent DInSAR and Speckle Offset Data. Canadian Journal of Remote Sensing, 50(1). https://doi.org/10.1080/07038992.2024.2424753  \n  \n  Limitation of Liability :  \n  \n  The information contained on this website is provided on an “as is” basis and Natural Resources Canada makes no representations or warranties respecting the information, either expressed or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose. Natural Resources Canada does not assume any liability in respect of any damage or loss based on the use of this website. In no event shall Natural Resources Canada be liable in any way for any direct, indirect, special, incidental, consequential, or other damages based on any use of this website or any other website to which this site is linked, including, without limitation, any lost profits or revenue or business interruption."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1da588c1-0dc6-45e4-9e63-9acf2fdc353a"
+  ],
+  "dct_issued_s": "2025-09-25",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1da588c1-0dc6-45e4-9e63-9acf2fdc353a\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Pilot national scale maps of active deformation processes in Canada",
+  "gbl_mdModified_dt": "2025-09-29T12:20:24Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ed661b0e-22d9-5d31-8306-092a7923be8e",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

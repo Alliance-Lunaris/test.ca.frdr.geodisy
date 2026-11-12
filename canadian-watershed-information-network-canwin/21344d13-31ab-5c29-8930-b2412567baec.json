@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-120.0, -110.0, 60.0, 49.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset is provided by the Ministry of Utilities and Affordability, Rural Utilities Branch, and represents rural low-pressure pipelines (less than 700 kPa) and customer meters in Alberta that are under the jurisdiction of the Gas Distribution Act, including Gas Co-operatives, First Nations, Municipalities and Counties, Private Systems, Apex Utilities Inc., and ATCO Gas Inc. The data is based on the annual submissions of construction as-builts to Rural Utilities, Alberta Affordability and Utilities. The geodatabase contains linear pipeline data features and customer meter point features.The pipeline data features contain:Pipe material,Status, Year built, if known, andThe name of the natural gas distributor and general contact information for inquiries and requests.The meter attributes include the type of meter and the contact information for each distributor. The Customer meters features contain:Meter Code,Meter Type, andThe name of the natural gas distributor and general contact information for inquiries and requests."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/8b181b95-1be8-4f9a-9f08-4ad539e0c749"
+  ],
+  "dct_issued_s": "2026-08-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/8b181b95-1be8-4f9a-9f08-4ad539e0c749\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Rural Utilities Alberta Low Pressure Gas Distribution",
+  "gbl_mdModified_dt": "2026-08-26T14:01:16Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "21344d13-31ab-5c29-8930-b2412567baec",
+  "locn_geometry": "ENVELOPE(-120.0, -110.0, 60.0, 49.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

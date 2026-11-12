@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-130.2, -120.0, 60.0, 56.686)",
+  "dcat_keyword_sm": [
+    "Fire Risk",
+    "Disturbance Ecology",
+    "Trembling Aspen",
+    "Random Forest",
+    "Aspen Serpentine Leafminer",
+    "Forest Pests"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Russell, Sadie (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Trembling aspen (Populus tremuloides) is a fire-resilient tree species, making its role increasingly important as wildfire seasons intensify in British Columbia, Canada. However, forest pests like the aspen serpentine leafminer (Phyllocnistis populiella) raise concerns about their potential to alter fire behavior by affecting forest structure and fuel conditions. This study evaluates whether leafminer outbreaks influence burn severity in aspen-dominated stands of northeastern British Columbia. Using provincial and federal datasets from 2010 to 2020, fire-affected aspen stands were analyzed at a 200 m resolution, comparing areas with and without prior leafminer outbreaks. A random forest model assessed the effect of leafminer presence on burn severity, measured by the differenced Normalized Burn Ratio (dNBR), while controlling for 11 climate, topography, and vegetation variables. Among 10,326 aspen-dominated burn pixels, 21% showed leafminer presence. The model achieved an R² of 0.84, with surrounding mean dNBR exerting the greatest influence on model performance, while leafminer presence had the least effect. Burn severity was slightly lower in leafminer-affected areas, with a mean dNBR decrease of 0.03. Additionally, higher trembling aspen percentage and climate conditions favorable to aspen growth were strongly associated with reduced burn severity. These findings suggest that while the leafminer’s impact on burn severity is minimal, finer-scale analyses or investigations of outbreak severity may reveal more nuanced effects on aspen fire resilience."
+  ],
+  "dct_identifier_sm": [
+    "897585_73894_115983",
+    "https://doi.org/10.5683/SP3/8OU83A"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/8OU83A\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Influence of Aspen Serpentine Leafminer (Phyllocnistis populiella) on Burn Severity In Trembling Aspen (Populus tremuloides)",
+  "gbl_mdModified_dt": "2025-04-22T16:51:32Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "64341f90-9393-5138-ad01-774f0c9d51c9",
+  "locn_geometry": "ENVELOPE(-130.2, -120.0, 60.0, 56.686)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

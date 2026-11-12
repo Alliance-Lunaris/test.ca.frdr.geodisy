@@ -1,0 +1,62 @@
+{
+  "dcat_bbox": "ENVELOPE(-65.073981, -61.009308, 47.850473, 45.643261)",
+  "dcat_keyword_sm": [
+    "ECHO SOUNDERS",
+    "Estuaries",
+    "écosystèmes aquatiques",
+    "COASTAL",
+    "Ocean Acoustics",
+    "SONAR",
+    "sonar",
+    "côtier",
+    "Aquatic Ecosystems",
+    "Habitats",
+    "Estuaire",
+    "Golfe du Saint-Laurent",
+    "estuaires",
+    "Marine Environment Monitoring",
+    "Gulf of St. Lawrence",
+    "surveillance du milieu marin",
+    "acoustique sous-marine",
+    "SONNEURS D'ÉCHO",
+    "habitat côtier",
+    "Habitat",
+    "Coastal Habitat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données de transects sonar en bateau dans le sud du golfe du Saint-Laurent"
+  ],
+  "dct_creator_sm": [
+    "Monica Boudreau."
+  ],
+  "dct_description_sm": [
+    "PURPOSE:\nTo gather localized high-quality data for mapping eelgrass distribution in bays and estuaries in the Gulf Region of Atlantic Canada.\n\nDESCRIPTION:\nBetween 2018 and 2023, a total of 48 coastal sites in New Brunswick (NB), Prince Edward Island (PE), and Nova Scotia (NS) have been fully processed for eelgrass presence/absence and depth information.\n\nAn additional 18 sites from the same region and time period (2018–2023) have data collected but not yet fully processed for depth and eelgrass classification. These sites will be incorporated into the dataset as processing is completed.\n            \nPARAMETERS COLLECTED:\nGeographic coordinates, timestamp, submerged aquatic vegetation presence.\n\nNOTES ON QUALITY CONTROL:\nBioSonics Visual Aquatic was used to process raw dt4 files by delineating the bottom and submerged aquatic vegetation (SAV) heights. Initial delineation of the estuary bottom was performed using an automated algorithm within the software, followed by manual adjustments to refine the delineation as needed. An algorithm was then used to delineate vegetation, which was edited visually by referring to written ground-truthing notes and underwater photos taken with a GoPro underwater camera with GPS capacity.  Expert advice within DFO was used to advise the analysts on best practices and subtleties in the echograms.  All efforts were made to ensure vegetation mapped was eelgrass, but in some cases, such as where the acoustic response was not clear or ground-truthing notes were lacking, it is possible that other types of SAV were included.\n\nThe processed data were exported from BioSonics Visual Aquatic aggregating sets of 10 pings that were in very close proximity.  Grouped pings with a vegetation canopy height >= 0.1 m were assigned an eelgrass presence (i.e., \"EG_Presence\") value of \"Y\", while grouped pings with a height < 0.1 m were assigned a presence value of \"N\".\n\nSAMPLING METHODS:\nAcoustic data were collected during the summer or early fall season (varies depending on the site) by the Southern Gulf of St. Lawrence Coalition on Sustainability (Coalition-SGSL) in partnership with Fisheries and Oceans Canada (DFO) Gulf Region.  At some sites, the Province of New Brunswick's Department of Agriculture, Aquaculture and Fisheries (NBDAAF) also collected data using their boat.  BioSonics MX Aquatic Habitat Echosounder units with a single beam (8.7°) 204.8kHz transducer (mounting height varied depending on the boat used) was used for data collection by all parties. Positioning was achieved using the BioSonics internal GPS through 2020, then subsequently an external GPS unit (Hemisphere S631 RTK GPS) was used to improve positioning from 1-2m accuracy to ~20cm when differential was obtained.  BioSonics Visual Acquisition software was used to collect the data.\n\nUSE LIMITATION:\nThis product is provided as-is and has not been accuracy-assessed against other data. Since there were no transect-independent ground-truthing points surveyed, the accuracy of any interpolated surfaces created from this data cannot be known.\n\nNot for use without inclusion of full metadata. The data products are supplied \"as they stand\" and DFO does not guarantee the integrity, the completeness, or the accuracy.\n\nThere were issues with the internal GPS of the BioSonics unit, and their impact on positional accuracy has yet to be determined. Beginning in 2021, an external, higher precision GPS unit was used to increase accuracy.\n\nUse of various boats and surveyors, as well as analysts, can introduce some inconsistencies in the data collection and analysis between sites and years.  \n\nSite-specific characteristics such as mixed submerged aquatic vegetation can complicate mapping efforts.  Shallow areas can also be challenging to delineate accurately since the bottom and/or the vegetation can extend higher than the mounted transducer.  In these cases, a best estimate was used by the analyst.\n\nWeather conditions such as wind can affect the accuracy of the results, as the transponder may pitch and roll with the boat, while increased sediment in the water can interfere with the signal. \n\nSingle-beam acoustic data has a very small focus footprint, which varies with depth, so it should not be considered a comprehensive bottom mapping tool.  However, it does provide valuable point data that can indicate presence of vegetation, canopy height, relative depth, and ground-truthing for other mapping techniques (e.g. aerial or satellite imagery). For example, at 1 m depth, the 8.6 degree single-beam used for this work has a footprint of approximately 0.0177 square metres, and at 2 m depth that footprint becomes 0.0711 square metres.",
+    "OBJECTIF :\nRecueillir des données localisées de haute qualité pour cartographier la distribution de la zostère dans les baies et les estuaires de la région du Golfe du Canada atlantique.\n\nDESCRIPTION :\nEntre 2018 et 2023, un total de 48 sites côtiers au Nouveau-Brunswick (NB), à l'Île-du-Prince-Édouard (PE) et en Nouvelle-Écosse (NS) ont été entièrement traités pour obtenir des informations sur la présence ou l'absence de zostères et leur profondeur.\n\nDes données ont été recueillies sur 18 autres sites de la même région et de la même période (2018-2023), mais elles n'ont pas encore été entièrement traitées pour déterminer la profondeur et la classification des zostères. Ces sites seront intégrés à l'ensemble de données une fois le traitement terminé.\n            \nPARAMÈTRES COLLECTÉS :\nCoordonnées géographiques, horodatage, présence de végétation aquatique submergée.\n\nNOTES SUR LE CONTRÔLE DE QUALITÉ :\nBioSonics Visual Aquatic a été utilisé pour traiter les fichiers dt4 bruts en délimitant le fond et la hauteur de la végétation aquatique submergée (VAS).   Le contour initial du fond de l'estuaire a été tracé à l'aide d'un algorithme automatisé intégré au logiciel, puis affiné manuellement afin d'obtenir un contour plus précis. Un algorithme a ensuite été utilisé pour délimiter la végétation, qui a été éditée visuellement en se référant à des notes écrites de vérification sur le terrain et à des photos sous-marines prises avec une caméra sous-marine GoPro équipée d'un GPS. Des experts du MPO ont conseillé les analystes sur les meilleures pratiques et les subtilités des échogrammes.   Tous les efforts ont été faits pour s'assurer que la végétation cartographiée était bien de la zostère, mais dans certains cas, notamment lorsque la réponse acoustique n'était pas claire ou que les notes de vérification sur le terrain faisaient défaut, il est possible que d'autres types de VAS aient été inclus.\n\nLes données ont été exportées de BioSonics Visual Aquatic en agrégeant des ensembles de 10 pings très proches les uns des autres. Les pings groupés d'une hauteur de canopée végétale >= 0,1 m ont reçu une valeur de présence d'herbes marines (c'est-à-dire « EG_Presence ») de « Y », tandis que les pings groupés avec une hauteur < 0,1 m ont reçu une valeur de présence de « N ».\n\nMÉTHODES D'ÉCHANTILLONNAGE :\nLes données acoustiques ont été recueillies au cours de l'été ou au début de l'automne (selon le site) par la Coalition pour la viabilité du sud du golfe du Saint-Laurent (Coalition-SGSL), en partenariat avec Pêches et Océans Canada (MPO), région du Golfe.  Sur certains sites, le ministère de l'Agriculture, de l'Aquaculture et des Pêches du Nouveau-Brunswick (MAAPNB) a également recueilli des données à l'aide de son bateau.  Des échosondeurs BioSonics MX Aquatic Habitat équipé d'un transducteur à faisceau unique (8,7°) de 204,8 kHz (la hauteur de montage variait en fonction du bateau utilisé) a été utilisé par toutes les parties pour la collecte des données. Le positionnement a été réalisé à l'aide du GPS interne de BioSonics jusqu'en 2020, puis par la suite une unité GPS externe (Hemisphere S631 RTK GPS) a été utilisée pour améliorer le positionnement d'une précision de 1-2m à ~20cm lorsque le différentiel a été obtenu.  Le logiciel BioSonics Visual Acquisition a été utilisé pour collecter les données.\n\nLIMITATION DE L'UTILISATION :\nCe produit est fourni tel quel et son exactitude n'a pas été vérifiée par rapport à d'autres données. Comme aucun point de vérification au sol indépendant des transects n'a été relevé, l'exactitude des surfaces interpolées créées à partir de ces données ne peut être connue.\n\nNe pas utiliser sans inclure toutes les métadonnées. Les produits de données sont fournis « tels quels » et le MPO ne garantit pas leur intégrité, leur exhaustivité ou leur exactitude.\n\nLe GPS interne de l'appareil BioSonics a connu des problèmes, et leur impact sur la précision de la position n'a pas encore été déterminé. À partir de 2021, un GPS externe plus précis a été utilisé pour améliorer la précision.\n\nL'utilisation de différents bateaux et géomètres, ainsi que d'analystes, peut entraîner certaines incohérences dans la collecte et l'analyse des données entre les sites et les années.  \n\nLes caractéristiques spécifiques à chaque site, telles que la végétation aquatique submergée mixte, peuvent compliquer les efforts de cartographie.  Les zones peu profondes peuvent également être difficiles à délimiter avec précision, car le fond et/ou la végétation peuvent s'étendre plus haut que le transducteur monté.  Dans ces cas, l'analyste a utilisé la meilleure estimation possible.\n\nLes conditions météorologiques, telles que le vent, peuvent affecter la précision des résultats, car le transpondeur peut tanguer et rouler avec le bateau, tandis que l'augmentation des sédiments dans l'eau peut interférer avec le signal. \n\nLes données acoustiques à faisceau unique ont une empreinte focale très petite, qui varie en fonction de la profondeur, et ne doivent donc pas être considérées comme un outil complet de cartographie des fonds marins.  Cependant, il fournit des données ponctuelles précieuses qui peuvent indiquer la présence de végétation, la hauteur de la canopée végétale, la profondeur relative et la vérification sur le terrain pour d'autres techniques de cartographie (par exemple, l'imagerie aérienne ou satellitaire). Par exemple, à une profondeur de 1 m, le faisceau unique de 8,6 degrés utilisé pour ce travail a une empreinte d'environ 0,0177 mètre carré, et à une profondeur de 2 m, cette empreinte passe à 0,0711 mètre carré."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/a186fa0c-142c-11ee-b2d9-e77b63152d13"
+  ],
+  "dct_issued_s": "2025-11-12",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/a186fa0c-142c-11ee-b2d9-e77b63152d13\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Boat-based Sonar Transect Data in the Southern Gulf of St. Lawrence",
+  "gbl_mdModified_dt": "2026-03-24T08:14:42Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "31d48fe2-f99c-50b6-91d7-fdaa17997f01",
+  "locn_geometry": "ENVELOPE(-65.073981, -61.009308, 47.850473, 45.643261)",
+  "schema_provider_s": "Open Data Canada"
+}

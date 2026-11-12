@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-102.2079, -95.0049, 53.8978, 48.8208)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "DEM",
+    "Government information",
+    "Government",
+    "Elevation",
+    "LiDAR",
+    "Province of Manitoba",
+    "Manitoba Government",
+    "Manitoba"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Traceur LiDAR du Manitoba"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to show end users where LiDAR data has been acquired by the Government of Manitoba.  \n  \n  LiDAR (Light Detection and Ranging) is a remote sensing technology that uses lasers to collect accurate, continuous elevation data over relatively large areas. These data are essential for activities such as forestry, flood risk management, land use planning, and natural resources management. The Manitoba Government is increasingly acquiring LiDAR data across the province.This layer was created on August 5, 2009 by Manitoba Sustainable Development and was updated on August 9, 2021.To  download LiDAR data from the Manitoba Land Initiative (MLI) site, follow this link: https://mli2.gov.mb.ca/dems/index_external_lidar.html Fields included ( Alias (Field Name): Field description.) ObjectID (OBJECTID) - Automatically generated feature numberAcquired  (ACQUIRED) - LiDAR data capture dateContractor  (CONTRACTOR) - Contractor nameContributor  (CONTRIB) - Manitoba Government departmentName (NAME) - Dataset nameCellsize (CELLSIZE) - Raster DEM cell sizeMLI (MLI) - Data available for download on the Manitoba Land Initiative site",
+    "Le but de cet ensemble de données est de montrer aux utilisateurs finaux où les données LiDAR ont été acquises par le gouvernement du Manitoba.  \n  \n  Le LiDAR (Light Detection and Ranging) est une technologie de télédétection qui utilise des lasers pour collecter des données d'altitude précises et continues sur des zones relativement étendues. Ces données sont essentielles pour des activités telles que la sylviculture, la gestion des risques d'inondation, l'aménagement du territoire et la gestion des ressources naturelles. Le gouvernement du Manitoba acquiert de plus en plus de données LiDAR dans toute la province. Cette couche a été créée le 5 août 2009 par Développement durable du Manitoba et a été mise à jour le 9 août 2021. Pour télécharger les données LiDAR depuis le site de la Manitoba Land Initiative (MLI), suivez ce lien : https://mli2.gov.mb.ca/dems/index_external_lidar.html Champs inclus (Alias (nom du champ) : description du champ.) ObjectID (OBJECTID) - Numéro de caractéristique généré automatiquement Acquis (ACQUIS) - Capture de données LiDAR DateContractor (CONTRACTOR) - Nom du contractuteurContributeur (CONTRIB) - Nom du ministère du gouvernement du Manitoba (NAME) - Nom du jeu de données CellSize (CELLSIZE) - Taille de cellule Raster DEM EMLI (MLI) - Données disponibles en téléchargement sur le site de la Manitoba Land Initiative  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/2bd40be2-8077-f1a1-6a07-b87f69793d03"
+  ],
+  "dct_issued_s": "2019-04-30",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/2bd40be2-8077-f1a1-6a07-b87f69793d03\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Manitoba LiDAR Tracker",
+  "gbl_mdModified_dt": "2025-02-05T19:05:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cbf9aa17-c794-583c-8a4a-5dd1ce3a85d4",
+  "locn_geometry": "ENVELOPE(-102.2079, -95.0049, 53.8978, 48.8208)",
+  "schema_provider_s": "Open Data Canada"
+}

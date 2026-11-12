@@ -1,0 +1,55 @@
+{
+  "dcat_bbox": "ENVELOPE(-68.6, -68.1, 48.9, 48.6)",
+  "dcat_keyword_sm": [
+    "underwater acoustics",
+    "Oceans",
+    "oceanSound",
+    "vents",
+    "trafic maritime",
+    "marine mammal",
+    "bruit",
+    "wind",
+    "Paysage acoustique des océans",
+    "waves",
+    "noise",
+    "mammifères marins",
+    "acoustique sous-marine",
+    "vagues",
+    "maritime traffic"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Séries temporelles du bruit sous-marin à la station MARS dans l'estuaire du Saint-Laurent (2021-2023)"
+  ],
+  "dct_creator_sm": [
+    "Mercure-Boissonnault, Pierre (Rimouski Marine Sciences Institute).",
+    "St-Onge, Guillaume (Rimouski Marine Sciences Institute, Laboratoire de paléomagnétisme et géologie marine - UQAR ISMER, Institut des sciences de la mer).",
+    "Lafrance, Sylvain (Innovation Maritime).",
+    "Gauthier Marquis, Jean Christophe (Innovation Maritime).",
+    "Cauchy, Pierre (Université du Québec à Rimouski, Rimouski Marine Sciences Institute, Institut des sciences de la mer)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the time series of the spectra of acoustic recordings obtained at the MARS station from 2021 to 2023. The MARS station is composed of 12 hydrophones (underwater microphones) distributed at depths of 80, 173 and 300m over four vertical moorings. These hydrophones record continuously several months a year near shipping lanes in the St. Lawrence Estuary off the coast of Rimouski.\n\nThe sample rate is 16 kHz (16000 samples per second) with a few short periods at 128 kHz for the years 2021 and 2022 and 32 kHz in 2023. The hydrophones used are GeoSpectrum M36-100s mounted on Aural-M3 recorders designed by Multi-Électronique.\n\nThe PyPAM library was used to produce the dataset. The signal from the acoustic recordings was converted into spectra (acoustic levels depending on frequency) covering 1 minute each. These were transformed into milli-decade hybrid spectra (with a reduced number of bands at high frequency) and median spectra of the latter were obtained on 1-hour periods. These time series make it possible to study the evolution of ambient noise mainly coming from the maritime traffic, but also from the geophony (noise from wind and waves) and the biophony (sounds produced by the marine species).\n \n1-minute time series in milli-decade hybrid and the accurate position of the moorings are available on request.\n \nThis was carried out as part of the [MARS project](https://www.projet-mars.ca/en) whose aim is to study the noise radiated by the maritime traffic and to propose mitigation methods. The MARS project is co-led by the Institut des sciences de la mer (ISMER) of the Université du Québec à Rimouski (UQAR) and Innovation maritime (IMAR), with the support of MTE Instruments and OpDAQ Systems. It involves a partnership with the shipowners Algoma Central Corporation, CSL, Desgagnés, and Fednav, and is financially supported by Transport Canada, the Quebec Ministry of Economy and Innovation and the St. Lawrence Economic Development Council (SODES).",
+    "Ce jeu de données contient les séries temporelles des spectres des enregistrements acoustiques obtenus à la station MARS de 2021 à 2023. La station MARS est composée de 12 hydrophones (microphones sous-marins) répartis à des profondeurs de 80, 173 et 300m sur quatre mouillages verticaux. Ces hydrophones enregistrent en continu plusieurs mois par année près des voies de navigation dans l'estuaire du Saint-Laurent au large de Rimouski.\n\nLa fréquence d'échantillonnage est de 16 kHz (16000 échantillons par seconde) avec quelques courtes périodes à 128 kHz pour les années 2021 et 2022 et de 32 kHz en 2023. Les hydrophones utilisés sont des M36-100 de GeoSpectrum montés des enregistreurs Aural-M3 conçus par Multi-Électronique.\n\nLa librairie PyPAM a été utilisée pour produire le jeu de données. Le signal des enregistrements acoustiques a été converti en spectres (niveaux acoustiques selon la fréquence) couvrant 1 minute chacun. Ceux-ci ont été transformés en spectres en milli-décades hydrides (avec un nombre de bandes réduites à haute fréquence) puis des spectres médians de ces derniers ont été calculés sur des périodes d'une heure. Les séries temporelles ainsi produites permettent d'étudier l'évolution du bruit ambiant qui dépend principalement du trafic maritime, mais aussi de la géophonie (bruit du vent et des vagues) et de la biophonie (sons générés par les espèces marines).\n \nLes séries temporelles aux minutes en milli-décades hydrides ainsi que la position précise des mouillages sont disponibles sur demande.\n \nCeci a été effectué dans le cadre du [projet MARS](https://www.projet-mars.ca/) ayant pour but d'étudier le bruit rayonné par le trafic maritime et de proposer des méthodes de mitigation. Le projet MARS est codirigé par l'Institut des sciences de la mer (ISMER) de l'Université du Québec à Rimouski (UQAR) et Innovation maritime (IMAR), avec le soutien de MTE Instruments et d'OpDAQ Systèmes. Il s'appuie sur un partenariat avec les armateurs Algoma Central Corporation, CSL, Desgagnés, et Fednav, et bénéficie du soutien financier de Transports Canada, du ministère de l'Économie et de l'Innovation du Québec et de la Société de développement économique du Saint-Laurent (SODES)."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/a805fcfa-55b0-40fe-b6da-e62cec9298a4"
+  ],
+  "dct_issued_s": "2021-07-26",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/a805fcfa-55b0-40fe-b6da-e62cec9298a4\"}",
+  "dct_rights_sm": [
+    "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "dct_title_s": "Time Series of Underwater Noise at the MARS Station in the St. Lawrence Estuary (2021-2023)",
+  "gbl_mdModified_dt": "2026-07-31T16:37:27Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9a63c1ba-f683-52a4-849b-6c8426ba6ac6",
+  "locn_geometry": "ENVELOPE(-68.6, -68.1, 48.9, 48.6)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

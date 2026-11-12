@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2749527040869, -123.01372532732785, 49.31966689880937, 49.19370156247169)",
+  "dcat_keyword_sm": [
+    "aerial",
+    "remote sensing elevation",
+    "degree",
+    "vector",
+    "mapping",
+    "digital elevation model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "City of Vancouver."
+  ],
+  "dct_description_sm": [
+    "<div><p> LiDAR (Light Detection and Ranging) data collected in 2018 of the City of Vancouver and UBC Endowment Lands with an Area of Interest (AOI) covering a total of 134 square kilometers.​</p><p>Data products include \"bare earth\" ground surface and of the upper most surface defined by vegetation cover, build​ings and other structures.</p></div> <h3>Note</h3><div><p> ​​The 2018 LiDAR data is being utilized for initiatives including land management and planning including hazard assessment, floods, landslides, lava flows, and tsunamis), forestry, agriculture, geologic mapping, and watershed and river modelling and analysis. </p><h3>Data access</h3><p>Each of the 181 polygons on the map or rows in the table provides corresponding link to the data in LAS format (zipped, file sizes range from 7KB to 950MB).</p><h3>Attributes</h3><p>Point data was classified as:</p><ol><li>Unclassified;</li><li>Bare-earth and low grass;</li><li>Low vegetation (height &lt;2m);</li><li>High vegetation (height &gt;2m);</li><li>Water;</li><li>Buildings; </li><li>Other; and</li><li>Noise (noise points, blunders, outliners, etc)​</li></ol></div> <h3>Data currency</h3><div><p>Aerial LiDAR was acquired on August 27th and August 28th, 2018 and is ​current as of those dates.​</p>\n</div> <h3>Data accuracy</h3><div><ul><li>The LiDAR data is positioned with an average density of 30 points per square metre</li><li>Sidelap: minimum of 60% in north-south and east-west directions</li><li>Vertical accuracy: 0.18 metre (95% confidence level)</li><li>Horizontal accuracy: 0.36 metre (95% confidence level </li></ul></div><h3>Coordinate system</h3><p>The map of grid cells on this portal is in WGS 84 but the LiDAR data in the LAS files are in the following coordinate system:</p>\n<div>\n<ul><li>Projection: UTM Zone 10 (Central Meridian 123 West)</li><li>Hz Datum: NAD 83 (CSRS) 4.0.0.BC.1.GVRD</li><li>Vertical Datum:  CGVD28GVRD</li><li>\n<a href=\"https://www2.gov.bc.ca/gov/content/data/geographic-data-services/georeferencing/geoid-model-data\"><span style=\"text-decoration:underline;\"><font color=\"#0066cc\">Metro Vancouver Geoid</font></span></a> (HTMVBC00_Abbbyn.zip)</li></ul></div> <h3>Websites for further information</h3><div><ul><li>​<a href=\"https://opendata.vancouver.ca/explore/dataset/city-boundary/\">City boundary dataset</a>​</li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "lidar-2018",
+    "https://opendata.vancouver.ca/explore/dataset/lidar-2018"
+  ],
+  "dct_issued_s": "2019-11-20",
+  "dct_publisher_sm": [
+    "City of Vancouver"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.vancouver.ca/explore/dataset/lidar-2018\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Vancouver https://opendata.vancouver.ca/pages/licence/"
+  ],
+  "dct_subject_sm": [
+    "Geography and imagery"
+  ],
+  "dct_title_s": "LiDAR 2018",
+  "gbl_mdModified_dt": "2019-11-20T17:10:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f2446dec-c246-52af-9dfe-4a7f6c96f955",
+  "locn_geometry": "ENVELOPE(-123.2749527040869, -123.01372532732785, 49.31966689880937, 49.19370156247169)",
+  "schema_provider_s": "City of Vancouver Open Data Portal"
+}

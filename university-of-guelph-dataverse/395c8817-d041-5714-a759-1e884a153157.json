@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "milking",
+    "VMS",
+    "heifer",
+    "feed intake",
+    "voluntary milking system",
+    "dairy cattle"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Brock, Erica (Office of Research. University of Guelph.).",
+    "Alcantara, Lucas (Office of Research. University of Guelph.).",
+    "Husiny, Jaber (Department of Plant Agriculture. Ontario Agriculture College. University of Guelph and Guelph Turfgrass Institute., Department of Plant Agriculture. Ontario Agricultural College. University of Guelph and Guelph Turfgrass Institute., Department of Plant Agriculture. Ontario Agricultural College. University of Guelph.).",
+    "Edwards, Michelle (Office of Research. University of Guelph., University of Guelph).",
+    "Huitema, Carly (Office of Research. University of Guelph.)."
+  ],
+  "dct_description_sm": [
+    "This is a data schema created using <a href=\"http://agrifooddatacanada.ca\">Agri-food Data Canada's</a> <a href= \"https://semanticengine.org\"> Semantic Engine <a/>. Data schemas describe data that are collected on an ongoing basis from research centres, and provide add-on documentation that enhances the value of raw data. This schema is applicable to all datasets collecting data on feed pellets dispensed to cows at the Voluntary Milking System (VMS) during milking. There is no scale to weigh the actual amount of feed consumed. Each record is the total amount (kg) of feed pellets dispensed hourly - e.g. hour = 14:00:00 and feed_dispensed = 1.5, therefore this cow ate 1.5 kg of feed from 1 pm to 2 pm. If a cow started milking at 03:55:00 and finished at 04:05:00 there will be two records for that session, one for the amount dispensed until 4 am and another for the amount dispensed until 5 am. Milking start and end times are not necessarily the same times for feeding, i.e. a cow could start milking at 03:55:00 but only start eating at 04:01:00, therefore she would only have one record for that session to reflect the amount she ate until 5 am. Data described in this schema is sample data, to request access to the related data, please visit the <a href=\"https://odrcdata.uoguelph.ca\"> Ontario Dairy Research Centre Data Portal</a>."
+  ],
+  "dct_identifier_sm": [
+    "819629_16_273961_706548",
+    "https://doi.org/10.5683/SP3/ESI9SL"
+  ],
+  "dct_issued_s": "2024-09-23",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/ESI9SL\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Elora, Ontario, Canada"
+  ],
+  "dct_subject_sm": [
+    "Agricultural Sciences"
+  ],
+  "dct_title_s": "ODRC data schema: Feed intake during milking",
+  "gbl_mdModified_dt": "2024-11-25T19:53:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "395c8817-d041-5714-a759-1e884a153157",
+  "pcdm_memberOf_sm": [
+    "Agri-environmental Research Data // Agri-food Data Canada // Ontario Dairy Research Centre"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

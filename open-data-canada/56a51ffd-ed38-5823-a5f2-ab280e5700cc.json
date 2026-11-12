@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.83836041, -50.27231513, 78.3801742, 45.71226782)",
+  "dcat_keyword_sm": [
+    "Snow",
+    "Satellite images",
+    "Remote sensing",
+    "Neiger",
+    "Indice de végétation par différence normalisée; IVDN",
+    "Image satellite",
+    "Normalized Difference Vegetation Index; NDVI",
+    "Télédétection",
+    "Vegetation",
+    "Vegetation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Produits composites quotidiens IVDN et masque de neige de VIIRS SNPP"
+  ],
+  "dct_creator_sm": [
+    "Alexander Trichtchenko."
+  ],
+  "dct_description_sm": [
+    "The dataset includes two data products derived from the Visible Infrared Imaging Radiometer Suite (VIIRS) imager operated by the US National Oceanic and Atmospheric Administration (NOAA) onboard Suomi National Polar-Orbiting Partnership (SNPP) satellite:  \n  \n  1) Normalized Difference Vegetation Index (NDVI)  \n  \n  2) Snow Mask (Snow) with supplementary information about data quality and scene identification  \n  \n  Each product, NDVI and Snow, has been derived at two spatial resolutions:   \n  \n  1) I-band resolution for 250-m spatial grid (VIIRS image bands I1 and I2)  \n  \n  2) M-band resolution for 500-m spatial grid (VIIRS moderate resolution bands M5 and M7)  \n  \n  Datasets are produced with a daily temporal frequency, i.e. one file per day. The study area with the size of 5,700 km × 4,800 km covers Canada and neighboring regions (Trishchenko, 2019). The VIIRS time series are produced from VIIRS /SNPP imagery at CCRS from January 1, 2017.",
+    "L'ensemble de données comprend deux produits de données dérivés de l'imageur Visible Infrared Imaging Radiometer Suite (VIIRS) exploité par la National Oceanic and Atmospheric Administration (NOAA) des États-Unis à bord du satellite Suomi National Polar-Orbiting Partnership (SNPP):  \n  \n  1) Indice de végétation par différence normalisée (IVDN)  \n  \n  2) Masque de neige (Neige) avec des informations supplémentaires sur la qualité des données et l'identification de la scène  \n  \n  Chaque produit, IVDN et Neige, a été dérivé à deux résolutions spatiales:  \n  \n  1) Résolution en bande I pour une grille spatiale de 250 m (bandes d'image I1 et I2 du VIIRS)  \n  \n  2) Résolution en bande M pour une grille spatiale de 500 m (bandes de résolution moyenne du VIIRS M5 et M7)  \n  \n  Les jeux de données sont produits avec une fréquence temporelle quotidienne, soit un fichier par jour. La zone d'étude d'une taille de 5 700 km × 4 800 km couvre le Canada et les régions voisines (Trishchenko, 2019). Les séries chronologiques VIIRS sont produites à partir des images VIIRS/SNPP au CCT depuis le 1er janvier 2017."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/90882264-f1e1-45e2-8e29-84b41f4d65e3"
+  ],
+  "dct_issued_s": "2022-07-19",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/90882264-f1e1-45e2-8e29-84b41f4d65e3\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Daily NDVI and Snow Mask Composite Products from VIIRS SNPP",
+  "gbl_mdModified_dt": "2022-11-01T13:40:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "56a51ffd-ed38-5823-a5f2-ab280e5700cc",
+  "locn_geometry": "ENVELOPE(-141.83836041, -50.27231513, 78.3801742, 45.71226782)",
+  "schema_provider_s": "Open Data Canada"
+}

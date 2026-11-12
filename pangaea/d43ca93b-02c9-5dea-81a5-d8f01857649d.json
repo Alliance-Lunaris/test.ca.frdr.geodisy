@@ -1,0 +1,69 @@
+{
+  "dcat_bbox": "ENVELOPE(-85.7659479, -71.3804361, 66.5751138, 57.7633293)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lenz, Kai-Frederik (Institut für Geowissenschaften, Christian-Albrechts-Universität, Kiel, Christian-Albrechts-Universität zu Kiel, Kiel University). ORCID: https://orcid.org/0000-0003-3043-8399",
+    "Schneider, Ralph R (Kiel University). ORCID: https://orcid.org/0000-0003-1453-9181",
+    "Papenmeier, Svenja (Leibniz Institute for Baltic Sea Research, Warnemünde). ORCID: https://orcid.org/0000-0002-2385-5269",
+    "Brembach, Kerstin (Laval University).",
+    "Bauer, Benedikt (Kiel University).",
+    "Thamm, Viktoria (Kiel University)."
+  ],
+  "dct_description_sm": [
+    "During cruise MSM120, high-resolution bathymetric data were acquired using the hull-mounted Kongsberg EM122 and EM712 multibeam echosounders (MBES) on RV MARIA S. MERIAN. Beam positions and depths were calculated from two-way travel time and beam angle, with real-time motion, heading, and position provided by a Kongsberg Seapath 320 system. Surface sound velocity was measured using an AML C-keel probe, and raw data including backscatter were stored in *.all format. The EM712, optimized for shallow to medium water depths (40–100 kHz), was deployed in working areas B, C, D, E, and F. It achieved seafloor coverage of approximately seven times the water depth, with 800 beams per ping, 0.5° × 0.5° beam width, and a ping rate up to 40 Hz. Angular coverage was set between 55° and 65° per side depending on conditions, and acquisition was synchronized with the PS70 using the K-Sync trigger box at a 2:1 ping ratio. ADCPs were turned off during EM712 operation to avoid interference. Sound velocity profiles from CTD casts were applied during post-processing for beamforming corrections. Surveys were conducted at 8–10 kn, with transit profiles recorded at 12 kn. In total, 2,623 nautical miles of track were covered, mapping 2,855 km² of seafloor. Both MBES systems performed reliably, providing high-quality bathymetric and backscatter datasets for detailed seafloor morphology studies.",
+    "These data should not be used for navigational purposes.Data publishing was realized by Henriette Kolling, Kiel University, Germany"
+  ],
+  "dct_identifier_sm": [
+    "10.1594/pangaea.992485",
+    "https://doi.org/10.1594/pangaea.992485"
+  ],
+  "dct_issued_s": "2026-01-01",
+  "dct_publisher_sm": [
+    "PANGAEA"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.1594/pangaea.992485\"}",
+  "dct_subject_sm": [
+    "Stop of data file recording, longitude",
+    "Stop of data file, depth",
+    "Stop of data file recording, date/time",
+    "Maria S. Merian",
+    "EM712 multibeam echosounder",
+    "Kongsberg datagram raw file name",
+    "Ship speed",
+    "Comment",
+    "Extracted from file",
+    "Binary Object (Media Type)",
+    "Start of data file recording, date/time",
+    "Binary Object (MD5 Hash)",
+    "Multibeam Echosounder",
+    "Extracted with MB-System",
+    "Stop of data file, heading",
+    "Start of data file, depth",
+    "Binary Object",
+    "Stop of data file recording, latitude",
+    "MSM120",
+    "Start of data file recording, latitude",
+    "Start of data file recording, longitude",
+    "File content",
+    "ELEVATION",
+    "Data file recording duration",
+    "Binary Object (File Size)",
+    "Number of pings",
+    "DATE/TIME",
+    "Start of data file, heading",
+    "Bathymetry",
+    "Data file recording distance",
+    "LATITUDE",
+    "LONGITUDE",
+    "Event label"
+  ],
+  "dct_title_s": "Multibeam bathymetry raw data (Kongsberg EM712 entire dataset) of RV MARIA S. MERIAN during cruise MSM120",
+  "gbl_mdModified_dt": "2026-08-15T03:28:55Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d43ca93b-02c9-5dea-81a5-d8f01857649d",
+  "locn_geometry": "ENVELOPE(-85.7659479, -71.3804361, 66.5751138, 57.7633293)",
+  "schema_provider_s": "PANGAEA"
+}

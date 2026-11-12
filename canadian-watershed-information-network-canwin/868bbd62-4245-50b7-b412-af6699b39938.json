@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Cyanobacteria (also referred to as blue-green algae) are common photosynthetic bacteria that live in surface waters. Under favorable conditions, such as warm water and high nutrient content, these bacteria can form nuisance “blooms”. The presence of blooms in recreational water causes unpleasant aesthetics and exposure to some toxin-producing blooms may pose potential health risks. Contact with blooms can cause skin rashes and irritation, itchy eyes, and ear infections. Inhaling water may cause allergic-like reactions, runny noses or sore throats. Ingestion of toxins can cause a range of symptoms (e.g., hepatotoxic or neurotoxic effects, and even death). There has been increased public awareness as a result of research over the past 25 years, recent monitoring efforts, and increased public education on the topic. In 2009, Alberta Health and Alberta Health Services began seasonal monitoring for cyanobacterial blooms at high use recreational beaches. In 2019, beach operators took over the sampling role from Alberta Health Services under the Alberta Safe Beach Protocol. Water is collected from shallow water adjacent to beaches and submitted to laboratories for analysis of cyanobacterial bloom indicators. These data, along with visual inspection, are used to characterize potential cyanobacterial blooms and issue recreational water use advisories when cyanobacteria are found in a waterbody at levels that can affect human health. The data presented below is organized into two files that contain supporting data and key cyanobacterial bloom indicators, and counts of individual cyanobacteria species, respectively. Each row represents a water sample collected from an Alberta beach. In the cyanobacteria species data, each water sample will have many associated rows of data. Each column represents a piece of information about that water sample (e.g., key indicators and supporting information) that is used to characterize cyanobacterial blooms. Data from the current year (2026) should be considered preliminary and might change with further quality control/quality assurance steps. This dataset is updated monthly between June and September each year. For more information on these indicators please refer to the column descriptions “Usage Considerations” associated with this dataset."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/76a54113-1381-4824-b39c-2b32d2dfc652"
+  ],
+  "dct_issued_s": "2023-04-06",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/76a54113-1381-4824-b39c-2b32d2dfc652\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Cyanobacterial blooms in Alberta recreational waters",
+  "gbl_mdModified_dt": "2026-10-02T17:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "868bbd62-4245-50b7-b412-af6699b39938",
+  "locn_geometry": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

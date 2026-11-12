@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dcat_keyword_sm": [
+    "Cultures",
+    "Climate variables; biophysical parameters; canopy cover",
+    "Crops",
+    "Couverture du sol",
+    "Land cover",
+    "Arbre",
+    "Variables climatiques; paramètres biophysiques; couverture forestière",
+    "Trees"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Fraction de couverture végétale durant la haute saison au Canada à partir d'images satellites à moyenne résolution"
+  ],
+  "dct_creator_sm": [
+    "Richard Fernandes."
+  ],
+  "dct_description_sm": [
+    "FCOVER corresponds to the amount of the ground surface that is covered by vegetation, including the understory, when viewed vertically (from nadir).  FCOVER is an indicator of the spatial extent of vegetation independent of land cover class. It is a dimensionless quantity that varies from 0 to 1, and as an intrinsic property of the canopy, is not dependent on satellite observation conditions.This product consists of FCOVER indicator during peak-season (June-July-August)  at 100m resolution covering Canada's land mass.",
+    "La fraction de couverture végétale (FCOVER) correspond à la quantité de surface du sol qui est couverte par la végétation, y compris le sous-étage, lorsqu'elle est vue verticalement (depuis le nadir). La fraction de couverture végétale est un indicateur de l'étendue spatiale de la végétation indépendamment de la classe de couverture terrestre. Il s'agit d'une grandeur sans dimension qui varie de 0 à 1 et, en tant que propriété intrinsèque de la canopée, ne dépend pas des conditions d'observation par satellite. Ce produit représente l'indicateur FCOVER pendant la haute saison (juin-juillet-août) à une résolution de 100 m couvrant la masse terrestre du Canada."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/b352a71a-011e-4a8e-b97c-77eae5ed3226"
+  ],
+  "dct_issued_s": "2021-11-05",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/b352a71a-011e-4a8e-b97c-77eae5ed3226\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors"
+  ],
+  "dct_title_s": "Peak Season Fraction of Vegetation Cover of Canada from Medium Resolution Satellite Imagery",
+  "gbl_mdModified_dt": "2022-01-04T15:00:45Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "50936bc0-7e18-51f1-a981-01d93ebdc407",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "seabird tracking",
+    "accelerometer",
+    "Uria lomvia",
+    "Rissa tridactyla",
+    "behavioral classification"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Allison, Patterson (McGill University).",
+    "H. G., Gilchrist (Environment and Climate Change Canada National Wildlife Research Centre Ottawa Ontario Canada, Environment and Climate Change Canada).",
+    "Lorraine, Chivers (Institute for Seabird Research and Conservation Anchorage Alaska, Brundall, Norfolk).",
+    "Scott, Hatch (Institute for Seabird Research and Conservation Anchorage Alaska, Institute for Seabird Research and Conservation; 12850 Mountain Place Anchorage Alaska 99516, Institute for Seabird Research and Conservation: Anchorage, Alaska, US, Institute for Seabird Research and Conservation).",
+    "Kyle, Elliott (McGill University and Génome Québec Innovation Centre, McGill University)."
+  ],
+  "dct_description_sm": [
+    "The behavior of many wild animals remains a mystery, as it is difficult to quantify behaviour of species that cannot be easily followed throughout their daily or seasonal movements. Accelerometers can solve some of these mysteries, as they collect activity data at a high temporal resolution (< 1 sec), can be relatively small (< 1 g) so they minimally disrupt behavior, and are increasingly capable of recording data for long periods. Nonetheless, there is a need for increased validation of methods to classify animal behaviour from accelerometers to promote widespread adoption of this technology in ecology. We assessed the accuracy of six different behavioral assignment methods for two species of seabird, thick-billed murres (Uria lomvia) and black-legged kittiwakes (Rissa tridactyla). We identified three behaviors using tri-axial accelerometers: standing, swimming and flying, after classifying diving using a pressure sensor for murres. We evaluated six classification methods relative to independent classifications from concurrent GPS tracking data. We used four variables for classification: depth, wing beat frequency, pitch and dynamic acceleration. Average accuracy for all methods was greater than 98% for murres, and 89% and 93% for kittiwakes during incubation and chick rearing, respectively. Variable selection showed that classification accuracy did not improve with more than two (kittiwakes) or three (murres) variables. We conclude that simple methods of behavioral classification can be as accurate for classifying basic behaviors as more complex approaches, and that identifying suitable accelerometer metrics is more important than using a particular classification method when the objective is to develop a daily activity or energy budget. Highly accurate daily activity budgets can be generated from accelerometer data using a multiple methods and a small number of accelerometer metrics; therefore, identifying a suitable behavioral classification method should not be a barrier to using accelerometers in studies of seabird behavior and ecology."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.2hf101c",
+    "https://doi.org/10.5061/dryad.2hf101c"
+  ],
+  "dct_issued_s": "2019-02-27",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.2hf101c\"}",
+  "dct_spatial_sm": [
+    "Coats Island Nunavut Canada",
+    "Middleton Island Alaska USA"
+  ],
+  "dct_title_s": "Data from: A comparison of techniques for classifying behaviour from accelerometers for two species of seabird",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b4725abb-81f1-561d-970f-aadffc425003",
+  "schema_provider_s": "Dryad"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "High-resolution map of leading tree species distribution for Canada’s forested ecosystems (2019). Leading tree species map produced from a 2019 Landsat image composite, geographic and climate data, elevation derivatives, and remote sensing derived phenology following the framework described in Hermosilla et al. (2022). Regional classification models were generated based on Canada’s National Forest Inventory using a 150x150 km tiling system. The leading tree species are defined by representing the most voted tree species from the Random Forests classification models (i.e. the class with the highest class membership probability).The data represents leading tree species of Canada's forested ecosystems in 2019. An image compositing window of August 1 ± 30 days was used to generate the best-available-pixel (BAP) image composites utilized as source data for the classification.\nThe science and methods developed to generate the information outcomes shown here, that track and characterize the history of Canada’s forests, were led by Canadian Forest Service of Natural Resources Canada, developed within the framework of Canada’s National Terrestrial Ecosystem Monitoring System (NTEMS), partnered with the University of British Columbia, augmented by processing capacity from Digital Research Alliance of Canada.\n\nFor an overview on the data, image processing, and methods applied, as well as information on independent accuracy assessment of the data, see Hermosilla et al. (2022) https://doi.org/10.1016/j.rse.2022.113276\n\nWhen using this data, please cite as: \nHermosilla, T., Bastyr, A., Coops, N.C., White, J.C., Wulder, M.A., 2022. Mapping the presence and distribution of tree species in Canada’s forested ecosystems. Remote Sensing of Environment 282, 113276."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/fcdcf0e7-fe84-46f0-9b39-5078341e9133"
+  ],
+  "dct_issued_s": "2026-03-16",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/fcdcf0e7-fe84-46f0-9b39-5078341e9133\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Tree Species (2019)",
+  "gbl_mdModified_dt": "2026-03-16T16:03:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ff54ee15-9af9-55b7-982a-79c3b447b9ed",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

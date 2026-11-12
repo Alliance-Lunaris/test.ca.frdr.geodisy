@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Polygonal zoning layer.\n\n**Collection context**\n Maintenance and modifications by the urban planning department according to the amendments to the zoning regulations.\n\n**Collection method**\n Computer-aided mapping.\n\n**Attributes**\n\n* `ID_ZONAGE` (`integer`): Identifier\n* `NUM_ZONE` (`varchar`): Zone number\n* `GROUPE_USAGE_DOM` (`varchar`): Dominant user group\n* `LABEL` (`varchar`): Label\n* `ZON_AREA` (`numeric`): Area\n* `ZON_PER` (`numeric`): Perimeter\n* `DATE_CREATION` (`smalldatetime`): Created on\n* `DATE_MODIFICATION` (`smalldatetime`): Modified on\n* `USER_MODIFICATION` (`varchar`): Modified by\n* `Source` (`varchar`): Source\n* `GRILLE_URL` (`varchar`): Link to grid\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/0c8a89da-47f2-4341-9770-35146d265fc1"
+  ],
+  "dct_issued_s": "2025-10-22",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/0c8a89da-47f2-4341-9770-35146d265fc1\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_title_s": "Zoning - Saint-Hyacinthe",
+  "gbl_mdModified_dt": "2026-05-27T18:05:09Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "aaa90503-2456-5ecd-8c50-8e60f50e94c5",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

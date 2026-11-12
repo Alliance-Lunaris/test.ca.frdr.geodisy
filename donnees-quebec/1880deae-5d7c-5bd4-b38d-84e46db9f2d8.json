@@ -1,0 +1,45 @@
+{
+  "dcat_keyword_sm": [
+    "Transport",
+    "Hydrographie",
+    "BDAT",
+    "Végétation",
+    "Relief",
+    "Bâtiments",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l'information géospatiale."
+  ],
+  "dct_description_sm": [
+    "**Notez que les cartes topographiques à l'échelle de 1/100 000 ne sont plus mises à jour. Pour connaître la dernière date de mise à jour, consultez les [métadonnées](ftp://transfert.mern.gouv.qc.ca/public/diffusion/RGQ/Documentation/BDAT/Metadonnees_BDAT100k_NordSud.xls). La donnée cartographique de référence est maintenant constituée selon une approche par couche d'information continue :**\r\n\r\n* [AQréseau+](https://www.donneesquebec.ca/recherche/fr/dataset/adresses-quebec)\r\n* [Géobase du réseau hydrographique du Québec (GRHQ)](https://www.donneesquebec.ca/recherche/dataset/grhq)\r\n* [Découpages administratifs à l'échelle de 1/20 000 (SDA)](https://www.donneesquebec.ca/recherche/fr/dataset/decoupages-administratifs)\r\n* [Modèles numériques de terrain hydro cohérents à l’échelle régionale (MNT)](https://www.donneesquebec.ca/recherche/fr/dataset/modeles-numerique-de-terrain-hydro-coherents-a-l-echelle-regionale)\r\n ___\r\n\r\nLes cartes topographiques à l’échelle de 1/100 000 offrent une vue d’ensemble de l’occupation du territoire québécois à l’échelle de 1/100 000. Une série au sud (266 feuillets) et une série au nord (151 feuillets) du 53e parallèle couvrent la majorité du Québec.\r\n\r\nLes données offrent une précision inférieure à 10 mètres et chaque fichier couvre une superficie d’environ 4 000 km2, soit l’équivalent de 16 feuillets à [l’échelle de 1/20 000](https://www.donneesquebec.ca/recherche/fr/dataset/cartes-topographiques-a-l-echelle-de-1-20-000 \"Cartes topographiques à l'échelle de 1/20 000\").\r\n\r\nPrincipales composantes :\r\n\r\n* L’hydrographie (lacs de plus de trois hectares, cours d’eau permanents, marécages, etc.).\r\n* La végétation (surfaces boisées et tourbières de plus de 13 hectares).\r\n* Les constructions de l’homme :\r\n    * infrastructures de transport (routes carrossables, ponts, aéroports, etc.);\r\n    * bâtiments de dimension supérieure à 12 500 m2;\r\n    * équipements et aires désignées.\r\n* Le relief (courbes de niveau à une équidistance de 20 mètres et points d’élévation).\r\n\r\n##### Particularités de la série au sud du 53e parallèle\r\n\r\n* Les données sont obtenues par une généralisation des données cartographiques à l’échelle de 1/20 000. Entre le 51e et le 53e parallèle, elles sont extraites de l’imagerie satellite SPOT à 10 mètres de résolution.\r\n* Les formats de données accessibles pour cette série sont :\r\n    * Cover ArcInfo (vectoriel);\r\n    * GeoTIFF, projection CCL (matriciel);\r\n    * GeoTIFF, projection MTM (matriciel);\r\n    * PDF (matriciel).\r\n\r\n##### Particularités de la série au nord du 53e parallèle\r\n\r\n* Les données sont obtenues par une généralisation des données cartographiques de Ressources naturelles Canada (produit CanVec) à l’échelle de 1/50 000. Des données multisources, soit les données d'Adresses Québec, les données sur les aéroports et les hydrobases du ministère des Transports du Québec et les données sur les réservoirs d'Hydro-Québec, viennent accroître la qualité de ce produit cartographique à l'échelle de 1/100 000.\r\n* Le format de données accessible pour cette série est :\r\n    * FGDB (vectoriel)."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/d3812df2-6988-409d-a626-ccbc58a59431"
+  ],
+  "dct_issued_s": "2019-01-31",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/d3812df2-6988-409d-a626-ccbc58a59431\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Transport",
+    "Infrastructures",
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Cartes topographiques à l'échelle de 1/100 000",
+  "gbl_mdModified_dt": "2026-03-25T17:53:03Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "1880deae-5d7c-5bd4-b38d-84e46db9f2d8",
+  "schema_provider_s": "Données Québec"
+}

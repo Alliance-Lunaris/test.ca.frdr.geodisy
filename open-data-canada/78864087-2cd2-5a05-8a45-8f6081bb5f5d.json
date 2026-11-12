@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.9344, -96.2221, 55.4717, 48.9752)",
+  "dcat_keyword_sm": [
+    "hunting",
+    "Government information",
+    "game",
+    "Game Hunting Area",
+    "Wildlife Act",
+    "Environment",
+    "Government of Manitoba",
+    "moose closures",
+    "restricted areas",
+    "conservation",
+    "Public",
+    "trapping"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Zones de chasse et de piégeage restreintes par la Loi sur la faune"
+  ],
+  "dct_creator_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba."
+  ],
+  "dct_description_sm": [
+    "The purpose of this dataset is to give an accurate representation of the boundaries of lands closed to hunting in Manitoba.  \n  \n  The purpose of this dataset is to give an accurate representation of the boundaries of lands closed to hunting in Manitoba. These are defined as lands where hunting and trapping are either prohibited, or special restrictions are in place for certain species and areas are defined within the General Hunting Regulation (351/87), Moose Conservation Closure Regulation (122/2011), Hunting Seasons and Bag Limits Regulation (165/91), and Trapping of Wild Animals Regulation (245/90) of The Wildlife Act (C.C.S.M c. W130). Hunting and trapping prohibitions or restrictions are implemented in certain areas to ensure the conservation of species or enhance public safety. Fields included (Alias (Field Name): Field description) FID (OBJECTID): Sequential unique whole numbers that are automatically generated Id (Id): The number assigned to each restricted area (not currently being used) Name (Name): Name given to the restricted area Restrictions (Restrictions): Description of the restriction applied to the restricted area Director of Surveys Plan (D_of_S): Director of Surveys Plan number which pertains to the boundary of the restricted area Regulation (Regulation): The regulation title defined in The Wildlife Act Shape_Area (Shape_Area): Area of the feature in internal units squared Shape_Length (Shape_Length): Length of the feature in internal units",
+    "Le but de cet ensemble de données est de donner une représentation précise des limites des terres interdites à la chasse au Manitoba.  \n  \n  Le but de cet ensemble de données est de donner une représentation précise des limites des terres interdites à la chasse au Manitoba. Ces terres sont définies comme des terres où la chasse et le piégeage sont soit interdits, soit des restrictions spéciales sont en place pour certaines espèces et certaines zones sont définies dans le Règlement général sur la chasse (351/87), le Règlement sur la fermeture de la conservation de l'orignal (122/2011), le Règlement sur les saisons de chasse et les limites de prises (165/91) et le Règlement sur le piégeage des animaux sauvages (245/90) de la Loi sur la faune (C.C.S.M c. W130). Des interdictions ou des restrictions relatives à la chasse et au piégeage sont mises en œuvre dans certaines zones afin d'assurer la conservation des espèces ou de renforcer la sécurité publique. Champs inclus (Alias (nom du champ) : description du champ) FID (OBJECTID) : Nombres entiers uniques séquentiels générés automatiquement Id (Id) : Le numéro attribué à chaque zone restreinte (non utilisé actuellement) Nom (Nom) : Nom donné à la zone réglementée Restrictions (Restrictions) : Description de la restriction appliquée à la zone réglementée Directeur du plan des enquêtes (D_of_S) : Numéro du plan du directeur des enquêtes qui se rapporte à la limite du Règlement sur les zones réglementées (Réglementation) : Le titre du règlement défini dans The Wildlife Act Shape_Area (Shape_) Surface) : Surface de l'entité en unités internes au carré Shape_Length (Shape_Length) : Longueur de l'entité en unités internes  \n  \n  ** Cet élément de métadonnées provenant d’une tierce partie a été traduit à l'aide d'un outil de traduction automatisée (Amazon Translate).**"
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/eb29d93b-6de2-3c38-30c3-0c8eba949bfe"
+  ],
+  "dct_issued_s": "2022-11-07",
+  "dct_publisher_sm": [
+    "Government of Manitoba | Gouvernement du Manitoba"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/eb29d93b-6de2-3c38-30c3-0c8eba949bfe\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Wildlife Act Restricted Hunting and Trapping Areas",
+  "gbl_mdModified_dt": "2025-02-05T19:08:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "78864087-2cd2-5a05-8a45-8f6081bb5f5d",
+  "locn_geometry": "ENVELOPE(-101.9344, -96.2221, 55.4717, 48.9752)",
+  "schema_provider_s": "Open Data Canada"
+}

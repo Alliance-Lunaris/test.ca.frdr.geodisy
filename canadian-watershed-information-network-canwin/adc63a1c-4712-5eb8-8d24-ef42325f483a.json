@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Here is a Pan-Canadian prospectivity model for flake graphite deposits. This model is derived from multiple forms of geodata (e.g., geology, structural, geophysics) that were spatially indexed. Feature extraction was performed using an autoencoder (deep learning). Predictive modelling was performed using the deep ensemble method. The model was trained using known graphite deposits and occurrences and their associated features. Furthermore, this model here has been updated with regional mineral occurrence/deposits datasets. The map shows regions of interest for exploration of flake graphite. Higher probability values highlight areas with an increased probability for flake graphite mineral system deposits and occurrences."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b9c088d0-d514-bca5-afff-89d246b4913e"
+  ],
+  "dct_issued_s": "2026-10-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b9c088d0-d514-bca5-afff-89d246b4913e\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Updated flake graphite national prospectivity",
+  "gbl_mdModified_dt": "2026-10-19T11:31:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "adc63a1c-4712-5eb8-8d24-ef42325f483a",
+  "locn_geometry": "ENVELOPE(-141.0, -53.0, 83.0, 44.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

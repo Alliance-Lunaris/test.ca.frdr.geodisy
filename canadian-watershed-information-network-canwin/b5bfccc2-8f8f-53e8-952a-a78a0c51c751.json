@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, 0.0)",
+  "dcat_keyword_sm": [
+    "Cyclone",
+    "Modeling"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Centre for Earth Observation Science."
+  ],
+  "dct_description_sm": [
+    "This dataset comprises a series of CSV files, each of which catalogues a suite of information for an individual cyclone track for the Northern Hemisphere. Detection and tracking are conducted using version 13.3 of the Lagrangian cyclone detection and tracking algorithm described by Crawford et al. (2021). This algorithm is applied to sea-level pressure data from Version 5 of the European Centre for Medium-Range Weather Forecasts (ECMWF) Retrospective Analysis (ERA-5) at a 3-hour temporal resolution and 25-km spatial resolution for the period 1940 – present (updated annually). Each CSV file contains information regarding the location, propagation, intensity, and size of the storm for each observation time. Whether a storm is a multi-center cyclone or interacting (splitting or merging) with other storm systems is also noted. Only cyclones that last at least 24 hours and travel at least 1000 km are included. Storms must also be observed at least once over an elevation under 500 m and at least once at a distance at least 500 km from their point of origin. These standard criteria are necessary to remove spurious systems (i.e., reduce the false positive rate)."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4be4d01a-a14b-483f-a1a6-6ead0974fa57"
+  ],
+  "dct_issued_s": "2021-11-09",
+  "dct_publisher_sm": [
+    "Centre for Earth Observation Science"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4be4d01a-a14b-483f-a1a6-6ead0974fa57\"}",
+  "dct_rights_sm": [
+    "None"
+  ],
+  "dct_subject_sm": [
+    "Atmosphere"
+  ],
+  "dct_title_s": "Northern Hemisphere Extratropical Cyclone Tracks from ERA-5",
+  "gbl_mdModified_dt": "2026-02-24T00:03:51Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "b5bfccc2-8f8f-53e8-952a-a78a0c51c751",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, 0.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.2064, -123.007, 50.12, 48.7808)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Description:\nSpatial information on the distribution of juvenile Pacific salmon is needed to support Marine Spatial Planning in the Pacific Region of Canada. Here we provide spatial estimates of the distribution of juvenile fish in the Strait of Georgia for all five species of Pacific salmon. These estimates were generated using a spatiotemporal generalized linear model and are based on standardized fishery-independent survey data from the Strait of Georgia mid-water juvenile salmon mid-water trawl survey from 2010 to 2020. We provide predicted catch per unit effort (CPUE), year-to-year variation in CPUE, and prediction uncertainty for both summer (June–July) and fall (September–October) at a 0.5 km resolution, covering the majority of the strait. These results show that the surface 75 m of the entire Strait of Georgia is habitat for juvenile salmon from June through early October, but that distributions within the strait differ across species and across seasons. While there is interannual variability in abundances and distributions, our analysis identifies areas that have consistently high abundances across years. The results from this study illustrate juvenile habitat use in the Strait of Georgia for the five species of Pacific salmon and can support ongoing marine spatial planning initiatives in the Pacific region of Canada.\n\nMethods:\nJuvenile Salmon Survey Data\nThis analysis is based on surveys conducted between 2010 and 2020. Sets that lasted between 12 and 50 minutes and at depths less than or equal to 60 m (head rope depth) were included. The resulting survey dataset consists of 1588 sets. The analysis included all five species of Pacific salmon. For pink salmon, only even year surveys were included as they have a two-year life cycle and are effectively absent from the Strait in odd years.\n\nGeostatistical model of salmon abundance and Predictions\nWe estimated the spatial distribution and abundance of each species of Pacific Salmon using geostatistical models fit with sdmTMB (Anderson et al. 2022). For each species, we modelled the number of individuals caught in a set, at a location and time using a negative binomial observation model with a log link. Predictions were made for each survey season (summer and fall) in each year from 2010 to 2020 over a 500 m by 500 m grid based on a 3 km buffer around the outer concave hull of the trawl coordinates. The concave hull was calculated using the ‘sf_concave_hull’ function from the sf package using a concavity ratio of 0.3, and excluding holes. Predictions were made as catch per unit effort (CPUE, for 60 minutes) for tows conducted in the surface waters (i.e., head rope at 0 m). Continuous estimates are provided at a 0.5 km resolution throughout the Strait of Georgia. These estimates consist of 1) mean catch per unit effort (CPUE), 2) year-to-year coefficient of variation (CV) of CPUE as a measure of the temporal variability, 3) binned biscale measures of mean vs. CV of CPUE to distinguish areas where abundance is consistently high vs. areas where it is high on average, but with high year-to-year variability, and 4) mean standard error in CPUE as a measure of uncertainty.\n\nSee Thompson and Neville for full method details.\n\nUncertainties:\nAlthough the models had relatively low uncertainty and the estimated spatial patterns reflected the spatial and temporal variation in CPUE in the surveys, it is important to understand the limitations of these model predictions. Because juvenile salmon are often aggregated, there is high variability in the CPUE in the survey data. Our model predictions represent the geometric mean CPUE and so are an average expectation, but do not reproduce the high inter-tow variability that is present in the survey data. Spatially, our predictions have low uncertainty in areas that are central within the standard survey track line. However, uncertainty is higher on the margins of the survey area, where there are fewer sets to inform those predictions.\n\nData Sources:\nJuvenile salmon survey database from Salmon Marine Interactions Program, REEFF, ESD, Pacific Biological Station.\nData is also available through Canadian Data Report of Fisheries and Aquatic Sciences publications."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/46902cbc-4bc2-40f5-bd02-b0111bd2818f"
+  ],
+  "dct_issued_s": "2025-02-26",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/46902cbc-4bc2-40f5-bd02-b0111bd2818f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Spatial estimates of juvenile Pacific salmon (Oncorhynchus spp.) abundance in the Strait of Georgia",
+  "gbl_mdModified_dt": "2026-03-24T08:14:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "fc06052d-bf89-55f9-b8f1-904d8ab3ebf8",
+  "locn_geometry": "ENVELOPE(-125.2064, -123.007, 50.12, 48.7808)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

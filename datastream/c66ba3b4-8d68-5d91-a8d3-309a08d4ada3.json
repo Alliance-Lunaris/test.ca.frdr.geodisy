@@ -1,0 +1,37 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.39058, -79.361482, 43.69099, 43.638349)",
+  "dcat_keyword_sm": [
+    " temperature",
+    " GTA",
+    " water quality",
+    " Don River",
+    "continuous"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Digital Waters."
+  ],
+  "dct_description_sm": [
+    "Digital Waters aims to monitor all creeks, rivers, and lake shorelines in the GTA and beyond to get baseline information about our local water, identify contamination events, and build AI models to make inferences. \nThe data provided to DataStream is a subset of the data we collect. Our typical data collection frequency is every 5 minutes, and we also collect photographic data of the water with more sensors and metrics in the pipeline. Our data can be found at data.digitalwaters.org/dashboard and is also available through our API at data.digitalwaters.org/getwaterdata"
+  ],
+  "dct_identifier_sm": [
+    "https://doi.org/10.25976/m20o-9w27"
+  ],
+  "dct_issued_s": "2025-12-07",
+  "dct_license_sm": [
+    "https://opendatacommons.org/licenses/pddl/1-0/"
+  ],
+  "dct_publisher_sm": [
+    "DataStream"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.25976/m20o-9w27\"}",
+  "dct_title_s": "Digital Waters Continuous Monitoring Data",
+  "gbl_mdModified_dt": "2026-08-02T08:07:28Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c66ba3b4-8d68-5d91-a8d3-309a08d4ada3",
+  "locn_geometry": "ENVELOPE(-79.39058, -79.361482, 43.69099, 43.638349)",
+  "schema_provider_s": "DataStream"
+}

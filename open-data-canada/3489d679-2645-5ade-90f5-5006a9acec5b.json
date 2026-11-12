@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "dcat_keyword_sm": [
+    "Ville de shawinigan",
+    "Information gouvernementale",
+    "Sport",
+    "Hiver"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Division de la Géomatique - TI - Ville de Shawinigan."
+  ],
+  "dct_description_sm": [
+    "Point layer of winter activities proposed in the Recreation brochure, on the territory of the city of Shawinigan.\n\n! [Shawinigan logo] (https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Collection method**\n Scanning from orthophotography\n\n**Attributes**\n\n* `objective` (`OID`): \n* `place` (`String`): Location\n* `services` (`String`): Services\n* `fee` (`String`): Fresh\n* `infos_sup` (`String`): Additional information\n* `url` (`String`): URL\n* `tel` (`String`): Phone\n* `address` (`String`): Address\n* `photo` (`String`): Picture\n* `velo` (`String`): Bicycle\n* `ski_alpin` (`String`): Alpine skiing\n* `racquets` (`String`): Rackets\n* `ski_fond` (`String`): Cross-country skiing\n* `Slide` (`String`): Slides\n* `curling` (`String`): Curling\n* `Luge` (`String`): Sledge\n* `trail_icer` (`String`): Ice trail\n* `scooter` (`String`): Scooter\n* `skating rink` (`String`): Skating rink\n* `canin` (`String`): Dog park\n* `Walk` (`String`): Market\n\n\nFor more information, consult the metadata on the Isogeo catalog (OpenCatalog link).**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Couche ponctuelles des activités hivernales proposées dans la brochure des Loisirs, sur le territoire de la ville de Shawinigan.\n\n![Logo de Shawinigan](https://jmap.shawinigan.ca/doc/photos/LogoShawinigan.jpg)\n\n\n**Méthode de collecte**\n Numérisation à partir de l'orthophotographie\n\n**Attributs**\n\n* `objectid` (`OID`) : \n* `lieu` (`String`) : Lieu\n* `services` (`String`) : Services\n* `frais` (`String`) : Frais\n* `infos_sup` (`String`) : Informations supplémentaires\n* `url` (`String`) : URL\n* `tel` (`String`) : Téléphone\n* `adresse` (`String`) : Adresse\n* `photo` (`String`) : Photo\n* `velo` (`String`) : Vélo\n* `ski_alpin` (`String`) : Ski alpin\n* `raquettes` (`String`) : Raquettes\n* `ski_fond` (`String`) : Ski de fond\n* `glissade` (`String`) : Glissades\n* `curling` (`String`) : Curling\n* `luge` (`String`) : Luge\n* `sentier_glace` (`String`) : Sentier de glace\n* `trottinette` (`String`) : Trottinette\n* `patinoire` (`String`) : Patinoire\n* `canin` (`String`) : Parc canin\n* `marche` (`String`) : Marche\n\n\nPour plus d’informations, consultez la métadonnée sur le catalogue Isogeo (lien OpenCatalog)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/90e63450-8b4b-47e3-899d-a3261341a5d3"
+  ],
+  "dct_issued_s": "2025-10-06",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/90e63450-8b4b-47e3-899d-a3261341a5d3\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Activités hivernales - Ville de Shawinigan",
+  "gbl_mdModified_dt": "2026-05-27T18:31:47Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "3489d679-2645-5ade-90f5-5006a9acec5b",
+  "locn_geometry": "ENVELOPE(-73.19, -72.53, 46.92, 46.38)",
+  "schema_provider_s": "Open Data Canada"
+}

@@ -1,0 +1,43 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.242374, -123.233784, 49.265936, 49.258487)",
+  "dcat_keyword_sm": [
+    "habitat fragmentation, urban ecology, LiDAR, habitat suitability, squirrel connectivity, 3D visualization."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Li, Xinran (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Urban development is a leading driver of habitat fragmentation, with significant implications for wildlife in growing cities. This research investigates how projected urban expansion under the University of British Columbia’s Campus Vision 2050 may impact Eastern Grey Squirrel habitat suitability in Acadia Park, a residential neighborhood on the University of British Columbia Vancouver campus. The objective was to assess changes in habitat quality and connectivity using high-resolution Light Detection and Ranging data and visualize these changes through an interactive 3D model. Individual trees were identified using segmentation algorithms applied to 2022 Light Detection and Ranging data, and habitat suitability was evaluated using four ecological metrics: Nearest Neighbor Distance, Proximity Index, Convex Hull Area Index, and Height Index. These metrics were combined to produce a Habitat Suitability Index (HSI) for each tree. Results indicate a 4.0% reduction in tree count and an 8.2% loss in canopy volume between 2021 and 2050. High-suitability habitat (HSI ≥ 0.6) declined by 19.57%, while low-suitability areas increased by 1.9%, signaling greater habitat fragmentation. Although medium-suitability habitat remained relatively stable, connectivity between habitat patches weakened. A voxel-based visualization in Minetest revealed increasing gaps in the canopy, particularly in areas slated for future construction. These findings highlight that the loss of connectivity, rather than overall tree count, poses a greater risk to urban wildlife. By combining geospatial analysis with interactive modeling, this study offers a replicable approach for visualizing habitat change and supports the integration of ecological data into sustainable campus planning."
+  ],
+  "dct_identifier_sm": [
+    "896829_73894_115983",
+    "https://doi.org/10.5683/SP3/PPDPIU"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/PPDPIU\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Assessing the Impact of the University of British Columbia Campus Vision 2050 on Eastern Grey Squirrel Habitat Suitability in Acadia Park",
+  "gbl_mdModified_dt": "2025-04-22T16:51:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "af8a839a-2e62-50e1-ad22-a6ea8ebd564a",
+  "locn_geometry": "ENVELOPE(-123.242374, -123.233784, 49.265936, 49.258487)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

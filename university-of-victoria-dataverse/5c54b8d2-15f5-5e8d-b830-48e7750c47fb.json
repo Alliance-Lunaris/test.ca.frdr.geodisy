@@ -1,0 +1,58 @@
+{
+  "dcat_bbox": "ENVELOPE(-127.185, -126.796, 50.697, 50.597)",
+  "dcat_keyword_sm": [
+    "classification algorithm",
+    "SAR",
+    "Sentinel-1",
+    "kelp forests",
+    "machine learning model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Marta Konik. ORCID: https://orcid.org/0000-0003-1145-9127",
+    "Eduardo Loos.",
+    "Alejandra Mora-Soto. ORCID: https://orcid.org/0000-0003-2254-5338",
+    "Sarah B. Schroeder.",
+    "Lianna Gendall. ORCID: https://orcid.org/0000-0003-1275-518X",
+    "Lauren Man. ORCID: https://orcid.org/0000-0001-9765-6783",
+    "Luba Reshitnyk. ORCID: https://orcid.org/0000-0003-0282-724X",
+    "Vanessa Caron. ORCID: https://orcid.org/0009-0009-1676-9942",
+    "Michael Henley.",
+    "Kim Pearce. ORCID: https://orcid.org/0000-0002-8659-6823",
+    "Maycira Costa (University of Victoria). ORCID: https://orcid.org/0000-0002-1876-3351"
+  ],
+  "dct_description_sm": [
+    "Attached are the following files: <br>\n1) ClassifyKelp_XGBoost.ipynb: the Jupyter notebook to test the classification <br>\n2) environment_kelpNN.yml: a yaml list of packages to set up an environment in Miniconda <br>\n3) MonthlyCube_MalcolmIsl_2017.nc: an image stack with the preprocessed and filtered monthly sigma0 VV Sentinel-1 images for the year 2017, generated similarly to the file saved in the Jupyter notebook <br>\n4) XGBoost_KelpClassification-Model.sav: the trained XGBoost model for kelp classification\n <br><br>\nThe `environment_kelpNN.yml` is an environment definition required to run a test. The `XGBoost_KelpClassification-Model.sav` contains the classification model, and `MonthlyCube_MalcolmIsl_2017.nc`is the input file. The model may be run using the `ClassifyKelp_XGBoost.ipynb`. The .nc files follow a standard netCDF4 structure definition and were opened with the free ESA SNAP software.\n <br><br>\nDetails on the development and the validation of the algorithm can be found in the associated peer-reviewed paper.",
+    "This dataset contains a machine learning model specifically designed to classify kelp, saved in the .sav format. It includes sample input data for the year 2017, covering the area of Malcolm Island, BC, Canada. Finally, to facilitate testing of the classification, a Jupyter notebook and a Miniconda environment definition were also included. The mask of the land, the sandy bottom substrate, and depths under 20 m, was not included in the bundle due to copyright of the input datasets. To obtain instructions on how to create your own mask file, please contact the Point of Contact, using provided email. <br>\nThis algorithm is the outcome of a research project funded by the Canadian Space Agency, as part of the Program to Support Research, Awareness, and Learning in Space Science and Technology, in collaboration with the Natural Sciences and Engineering Research Council of Canada Alliance grant. \n <br>\nDetails on the validation and development of the algorithm can be found in the associated peer-reviewed paper."
+  ],
+  "dct_identifier_sm": [
+    "1115773_71619",
+    "https://doi.org/10.5683/SP3/KQOSNB"
+  ],
+  "dct_issued_s": "2026-04-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/KQOSNB\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Floating Kelp Forest mapping using spaceborne Synthetic Aperture Radar on the British Columbia coast: the classification model",
+  "gbl_mdModified_dt": "2026-04-24T23:24:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5c54b8d2-15f5-5e8d-b830-48e7750c47fb",
+  "locn_geometry": "ENVELOPE(-127.185, -126.796, 50.697, 50.597)",
+  "pcdm_memberOf_sm": [
+    "UVic Research Data Collection"
+  ],
+  "schema_provider_s": "University of Victoria Dataverse"
+}

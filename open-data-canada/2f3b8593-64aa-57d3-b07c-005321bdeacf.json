@@ -1,0 +1,91 @@
+{
+  "dcat_bbox": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "dcat_keyword_sm": [
+    "coast",
+    "un mariage",
+    "fishing",
+    "climate change",
+    "coastal monitoring program",
+    "environmental monitoring",
+    "océanographie",
+    "temperature",
+    "oxygène dissous",
+    "ph",
+    "pH",
+    "temperature",
+    "écosystème",
+    "aquaculture",
+    "surveillance environnementale",
+    "pêche",
+    "climate change",
+    "amarrage",
+    "Government information",
+    "changement climatique",
+    "écosystème",
+    "pêcheries",
+    "dissolved oxygen",
+    "environnement",
+    "programme de surveillance côtière",
+    "Information gouvernementale",
+    "oxygène dissous",
+    "nouveau-brunswick",
+    "océan",
+    "changement climatique",
+    "température",
+    "ecosystem",
+    "côte",
+    "programme de surveillance côtière",
+    "oxygen dissous",
+    "environment",
+    "aquaculture",
+    "qualité de l'eau",
+    "new brunswick",
+    "surveillance de l'environnement",
+    "water quality",
+    "salinité",
+    "environmental monitoring",
+    "température",
+    "salinity",
+    "coastal monitoring program",
+    "mooring",
+    "oceanography",
+    "fisheries",
+    "amarrage",
+    "ecosystem",
+    "ocean"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Données sur la qualité de l'eau du Nouveau-Brunswick : Emplacement des stations"
+  ],
+  "dct_creator_sm": [
+    "Government of New Brunswick | Gouvernement du Nouveau-Brunswick."
+  ],
+  "dct_description_sm": [
+    "Locations of sampling stations for stationary moorings deployed as part of the New Brunswick Coastal Monitoring Program. The moorings record high-resolution temperature, dissolved oxygen, salinity, and pH data at various depths, typically for several months.\n\n\n\nFor more information on CMAR and the Coastal Monitoring Program go to: https://cmar.ca/coastal-monitoring-program/Usage Considerations\n\nThis dataset is complementary to the New Brunswick Coastal Monitoring Program region datasets available on the Open Data Portal. It indicates the approximate location of stations with data available for download from the portal. Station coordinates are approximate because exact deployment coordinates change each time an installation is serviced. For exact deployment locations, see the corresponding region dataset. The Station Locations dataset contains the following columns: region: region in which the station is located (North or South). waterbody: waterbody in which the station is located. station: local area where the mooring was deployed. latitude: approximate latitude of the station in decimal-degrees. longitude: approximate longitude of the station in decimal-degrees./Emplacements des stations d'échantillonnage des mouillages fixes déployés dans le cadre du Programme de surveillance côtière du Nouveau-Brunswick. Ces mouillages enregistrent des données à haute résolution sur la température, l'oxygène dissous, la salinité et le pH à différentes profondeurs, généralement pendant plusieurs mois.\n\nPour plus d'information sur le CRAM et le Programme de surveillance côtière, consultez le site : https:",
+    "/cmar.ca/coastal-monitoring-program/Considérations relatives à l'utilisation\n\nCet ensemble de données complète les ensembles de données régionaux du Programme de surveillance côtière du Nouveau-Brunswick disponibles sur le Portail des données ouvertes. Il indique l'emplacement approximatif des stations dont les données peuvent être téléchargées à partir du portail. Les coordonnées des stations sont approximatives, car les coordonnées exactes de déploiement changent chaque fois qu'une installation est entretenue. Pour connaître les emplacements exacts, consultez l'ensemble de données régional correspondant. L'ensemble de données « Emplacements des stations » contient les colonnes suivantes : region (région) : région où se trouve la station (Nord ou Sud) ; waterbody (plan d'eau) : plan d'eau où se trouve la station ; station : zone locale où le mouillage a été déployé ; latitude : latitude approximative de la station en degrés décimaux. longitude : longitude approximative de la station en degrés décimaux."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/6b18b648-8d52-3cfc-22a7-8f72936a953c"
+  ],
+  "dct_issued_s": "2026-06-23",
+  "dct_publisher_sm": [
+    "Government of New Brunswick | Gouvernement du Nouveau-Brunswick"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/6b18b648-8d52-3cfc-22a7-8f72936a953c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - New Brunswick http://www.snb.ca/e/2000/data-E.html"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "New Brunswick Water Quality Data: Station Locations",
+  "gbl_mdModified_dt": "2026-10-07T14:01:19Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2f3b8593-64aa-57d3-b07c-005321bdeacf",
+  "locn_geometry": "ENVELOPE(-69.0534663, -63.328871, 48.2206848, 44.299667)",
+  "schema_provider_s": "Open Data Canada"
+}

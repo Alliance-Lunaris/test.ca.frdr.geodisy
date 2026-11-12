@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-76.0, -42.0, 39.0, 66.0)",
+  "dcat_keyword_sm": [
+    "chlorophylle-a",
+    "phytoplancton",
+    "remote-sensing",
+    "oceans",
+    "phytoplankton",
+    "couleur-des-oceans",
+    "oceancolour",
+    "chlorophyll-a",
+    "floraison-printaniere-de-phytoplancton",
+    "spring-phytoplankton-bloom",
+    "phytoplanktonbiomassanddiversity",
+    "teledetection",
+    "biomasse-et-diversite-de-phytoplancton"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Par-Pixel métriques de la floraison printanière dans l'Atlantique du Nord-ouest dérivées de la Chlorophylle-a satellitaire OC-CCI POLY-4"
+  ],
+  "dct_creator_sm": [
+    "Clay, Stephanie (Department of Fisheries and Oceans, Fisheries and Oceans Canada).",
+    "Devred, Emmanuel (Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "This dataset contains the metrics derived from fitting a shifted Gaussian to the time series of daily 4km-resolution satellite-derived surface chlorophyll-a concentration (Chl-a) within a single pixel for a given year. The fitting procedure is the same as that used in the PhytoFit R-shiny application (https://github.com/BIO-RSG/PhytoFit) to model the spring phytoplankton bloom within a user-selected region of interest. The derived bloom metrics include the day of year of the start of the bloom and its duration, the maximum chl-a and the total chl-a produced during the bloom period, and the mean annual chl-a. Each year contains these five layers as well as two layers describing the quality of the data and the accuracy of the Gaussian fit. The metrics cover an area spanning the Northwest Atlantic (39-66°N, 42-76°W, excluding Hudson Strait) from 1998 to present. The chl-a data used in the time series were the regionally-tuned POLY4 chl-a derived from remote sensing reflectance data provided in the OC-CCI multisensor product (oceancolour.org), which were gap-filled using the DINEOF method (https://github.com/aida-alvera/DINEOF). These metrics can be used to inform on the state of the ecosystem in a particular area and its variability over time, which could have implications for higher trophic level dynamics.",
+    "Ce jeu de données contient les mesures dérivées de l'ajustement d'une courbe gaussienne décalée à une série temporelle de concentrations quotidiennes de chlorophylle-a mesurées en surface (Chl-a) par dérivée par satellite avec une résolution de 4 km pour chaque pixel pour une année donnée. La procédure d'ajustement est la même que celle utilisée dans l'application PhytoFit R-shiny (https://github.com/BIO-RSG/PhytoFit) pour modéliser la floraison printanière de phytoplancton dans une région d'intérêt sélectionnée par l'utilisateur. Les paramètres dérivés de la floraison printanière comprennent le jour de l'année du début de la floraison et sa durée, la chl-a maximale et la chl-a totale produite pendant la période de floraison, ainsi que la chl-a annuelle moyenne. Chaque année contient ces cinq couches ainsi que deux couches décrivant la qualité des données et la précision de l'ajustement gaussien. Les mesures couvrent une zone s'étendant sur l'Atlantique Nord-Ouest (39-66°N, 42-76°O, à l'exclusion du détroit d'Hudson) de 1998 à aujourd'hui. Les données chl-a utilisées dans la série temporelles sont les données chl-a POLY4 ajustées au niveau régional, dérivées des données de réflectance de télédétection fournies par le produit multi capteur OC-CCI (oceancolour.org), dont les données manquantes ont été calculée en utilisant la méthode DINEOF (https://github.com/aida-alvera/DINEOF). Ces mesures peuvent être utilisées pour fournir des informations sur l'état de l'écosystème dans une zone particulière ainsi que sa variabilité temporelle, ce qui pourrait avoir des implications pour la dynamique des niveaux trophiques supérieurs."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/b7cbdce4-de76-4203-9d02-61fe175c4d44"
+  ],
+  "dct_issued_s": "1998-01-01",
+  "dct_publisher_sm": [
+    "SIOOC-Atlantique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/b7cbdce4-de76-4203-9d02-61fe175c4d44\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Northwest Atlantic per-pixel spring bloom metrics derived from OC-CCI POLY4 satellite Chlorophyll-a",
+  "gbl_mdModified_dt": "2026-09-04T17:30:02Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "18c7ccaf-616e-58c4-9e36-7466e5f5000e",
+  "locn_geometry": "ENVELOPE(-76.0, -42.0, 39.0, 66.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

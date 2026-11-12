@@ -1,0 +1,53 @@
+{
+  "dcat_keyword_sm": [
+    "Habitat size",
+    "geographic variation",
+    "Psidium",
+    "Melastomataceae",
+    "Zygoptera",
+    "Miconia",
+    "decomposition"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "LeCraw, Robin M. (University of British Columbia).",
+    "Romero, Gustavo Q. (State University of Campinas).",
+    "Srivastava, Diane S. (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/-Xz5KFKjLCuzpq1Rc5wIFPy0281KaNq4yL2Zw9L2530</p>\n<p><b>Storage size:</b> 37466</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>Habitat size is known to affect community structure and ecosystem function, but few studies have examined the underlying mechanisms over sufficient size gradients or in enough geographic contexts to determine their generality. Our goal in this study was to determine if the relationship between habitat size and leaf decomposition varied across geographic sites, and which factors may be driving the differences.\r\nWe conducted replicated observations in a coastal forest in Brazil, and in rainforests in Costa Rica and Puerto Rico. We used leaf litter decomposition and macroinvertebrate composition in bromeliad phytotelmata of varying sizes to determine the relationships between habitat size, trophic structure and decomposition over a wide geographical range. We experimentally disentangled the effects of site and litter quality by quantifying invertebrate control of decomposition of a native and a transplanted litter type within one site.\r\nWe found that the relationship between bromeliad size and decomposition rates differed among study sites. In rainforests in Costa Rica and Puerto Rico, decomposition was strongly linked to macroinvertebrate trophic structure, which varies with bromeliad size, driving strong bromeliad size-decomposition relationships. However, in Brazil there was no relationship between bromeliad size and decomposition. Our manipulative experiment suggests that within coastal forest in Brazil, the poor quality of native litter resulted in little invertebrate control of decomposition. Furthermore, the key detritivore in this site builds a predator-resistant case, which likely prevented effects of bromeliad size on trophic structure from being transmitted to decomposition even when litter quality was increased.\r\nWe conclude that differences in both leaf litter quality and macroinvertebrate traits among sites determine the link between decomposition and macroinvertebrates, and consequently the decomposition-bromeliad size relationship. These results show that the response of decomposition to habitat size is context-dependent, and depends on which component of the food web is the main driver of the function.",
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">LeCraw_Ecography_LeafMass_BromSize</h4><div class=\"o-metadata__file-description\">Decomposition rate experiment; Figure 1\r\nRaw leaf mass data from leaf packs in all three experimental sites.\r\n\r\nTable headings:\r\nSite – Experimental Site\r\nM0_g – Starting dry leaf mass\r\nMt_g – Final dry leaf mass\r\nT_days – length of experiment in days\r\nBrom_capacity_mL – Maximum water holding capacity of bromeliad\r\nK – Exponential decay constant calculated as (ln(start)-ln(final))/days</div><div class=\"o-metadata__file-name\"></div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">LeCraw_Ecography_LeafSp_Decomp</h4><div class=\"o-metadata__file-description\">Leaf litter species comparisons; Figure 2\r\nRaw leaf mass data from leaf species experiment in Brazil.\r\n\r\nTable headings:\r\nBrom_capacity_ml – Maximum water holding capacity of bromeliad\r\nLeaf_Sp – Leaf Species identified by genus \r\nMesh – Mesh size of leaf packs\r\nM0_g – Starting dry leaf mass\r\nMt_g – Final dry leaf mass (experiment duration 30 days)</div><div class=\"o-metadata__file-name\"></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "152331_150149",
+    "https://doi.org/10.5683/SP2/KM7MVG"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KM7MVG\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Sao Paulo Brazil",
+    "Guanacaste Costa Rica",
+    "Luquillo Puerto Rico"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Geographic shifts in the effects of habitat size on trophic structure and decomposition",
+  "gbl_mdModified_dt": "2021-05-20T01:00:34Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "662b68f5-071e-57d2-b82f-9d4caff44730",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

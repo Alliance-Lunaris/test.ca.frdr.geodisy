@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.3505, -123.2608, 48.7305, 48.5858)",
+  "dcat_keyword_sm": [
+    "seagrass",
+    "marine mapping",
+    "remote sensing",
+    "intertidal",
+    "Remotely Piloted Aircraft Systems",
+    "marine conservation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Taylor, Gwynifyre (University of British Columbia). ORCID: https://orcid.org/0009-0002-5930-7333"
+  ],
+  "dct_description_sm": [
+    "Seagrass meadows play a vital role in the protection of coastlines and support productive habitats for marine life, unfortunately, seagrasses are experiencing declines due to climate change and human activities. Gathering accurate data on their spatial extent is essential for coastal management, yet traditional field methods are costly and impractical over large areas. Remotely piloted aircraft systems (RPAS) offer a flexible and cost-effective alternative for collecting imagery, though a standardized method for detecting seagrass meadows in British Columbia (BC) has yet to be established. Coastal dynamics associated with seagrass habitat such as tidal conditions and growing season limits the extent to which seagrass can be accurately detected. In this study, I test a methodology for seagrass detection and evaluate how detection accuracy is impacted by tidal conditions, growing season, and the incorporation of multispectral sensors. Specifically, I compare classifications of two eelgrass (Zostera marina) sites in the Gulf Islands (Sidney and Moresby) in southwestern BC. I employed a Random Forest Classifier and compared the incorporation of near-infrared and red-edge wavelengths to traditional red-green-blue (RGB) imagery to explore potential improvements in eelgrass detection. This achieved overall accuracies up to 95%. RGB images captured at low and high tide in July and August performed better than images captured in June and at medium tide. Imagery captured at medium tide exhibited the most variability in accuracy. The addition of multispectral imagery did not significantly improve eelgrass detection for these two sites and should be further tested over a greater sample size. The results of this analysis intend to contribute to the development of a provincial seagrass mapping methodology, supporting eelgrass monitoring and conservation in BC."
+  ],
+  "dct_identifier_sm": [
+    "719056_73894_115983",
+    "https://doi.org/10.5683/SP3/MJVW8X"
+  ],
+  "dct_issued_s": "2024-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/MJVW8X\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Gulf Islands, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Optimizing Seagrass Mapping with Remotely Piloted Aircraft Systems and Machine Learning",
+  "gbl_mdModified_dt": "2024-04-17T20:30:04Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0c4b2362-435d-517c-8ff0-43fb744a2007",
+  "locn_geometry": "ENVELOPE(-123.3505, -123.2608, 48.7305, 48.5858)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

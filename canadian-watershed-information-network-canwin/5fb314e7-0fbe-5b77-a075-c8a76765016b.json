@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-94.986512, -70.621674, 56.693135, 40.116502)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Canadian Wildlife Service - Ontario Region Biodiversity Atlas represents the Canadian Wildlife Service biodiversity portfolio across the Ontario portions of the Boreal Hardwood Shield (Bird Conservation Region 12) and Mixedwood Plains (Bird Conservation Region 13) ecozones. These data are the derived product from an extensive landscape assessment that assessed the Canadian Wildlife Service biodiversity portfolio (Species at Risk, migratory birds, habitat) at various resolutions. Biodiversity is mapped by forest, grassland (open country) and wetland quality and quantity, and then progressively combined to identify local High Value Biodiversity Areas. At the finest resolution, scores were applied to each unit of analysis (5 hectare hexagon in Bird Conservation Region 12; 2 hectare hexagon in Bird Conservation Region 13), based on over 30 criteria for landscape habitat condition, Species at Risk and migratory birds. Habitat condition scores were derived from guidance in Environment and Climate Change Canada's existing How Much Habitat is Enough? and in Bird Conservation Region 12, where the landscape is less fragmented, habitat was also based on draft guidance in How Much Disturbance is too Much? Individual scores were summed and various combinations (e.g. top 25% of forest scores + top 25% of Species at Risk (SAR) scores) were calculated to identify areas with multiple conservation value. For each habitat type (forest, grassland and wetland), study units with more than one conservation value were aggregated into High Value Habitat which were subsequently aggregated into High Value Biodiversity Areas (HVBA). The results are areas on the landscape that have high value from a Canadian Wildlife Service specific lens; that is, they are high quality habitats that are important for Species at Risk and/or migratory birds.\n\n               High value habitats are those forests, grasslands and wetlands with potential high conservation value (PHCV). They contain at least 1 of a possible 3 potential high conservation values: top 25% of overall habitat scores, top 25% of Species at Risk (SAR) scores, and/or top 25% of relevant migratory bird scores.\n\n               High value forest, grassland and wetland were derived by combining landscape, Species at Risk (SAR) and migratory bird elements (see Table 1). Overall habitat scores were assigned to each study unit based on the combined scores for each forest, grassland and wetland. These overall habitat scores were divided into quartiles, and the top 25% of each total score (overall forest, overall grassland and overall wetland) are considered to be potential high conservation value. Similarly, SAR scores were assigned for each study unit, totalled and broken into quartiles. The top 25% of SAR scores that intersect each of forest, grassland and wetland are considered to be the highest quality habitats important to SAR and have potential high conservation value. Finally, relevant migratory bird scores were totalled within each study unit, divided into quartiles and the top 25% of migratory bird scores that intersect each of forest, grassland and wetland are considered to be the highest quality habitats important to migratory birds and have potential high conservation value. Study units with a PHCV greater than 0 (i.e., contains at least 1 of the possible 3 potential high conservation values) were aggregated together by 750 m to create High Value Habitats.\n\n               High value biodiversity areas (HVBAs) are those study units that contain multiple high value habitats (high value forest and/or high value grassland and/or high value wetland). \n\n               High value biodiversity areas (HVBA) were derived by aggregating high value forest, grassland and wetland. Study units with a potential high conservation value greater than 1 were aggregated together by 750 m. Biodiversity sites are areas greater than 20 ha, and secondary biodiversity sites are areas less than 20 ha in area."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/9168cf3c-38c0-4473-863a-60859d0c55e0"
+  ],
+  "dct_issued_s": "2020-02-10",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/9168cf3c-38c0-4473-863a-60859d0c55e0\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "High Value Habitats and High Value Biodiversity Areas - Biodiversity Atlas, Canadian Wildlife Service - Ontario Region",
+  "gbl_mdModified_dt": "2026-08-14T14:30:50Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5fb314e7-0fbe-5b77-a075-c8a76765016b",
+  "locn_geometry": "ENVELOPE(-94.986512, -70.621674, 56.693135, 40.116502)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

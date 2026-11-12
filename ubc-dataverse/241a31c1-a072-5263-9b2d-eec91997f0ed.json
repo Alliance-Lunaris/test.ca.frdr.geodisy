@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2622, -123.2265, 49.2731, 49.2416)",
+  "dcat_keyword_sm": [
+    "LiDAR",
+    "Random forest classifier",
+    "Tree inventory",
+    "UBC Vancouver Campus",
+    "Orthophoto",
+    "Supervised classification"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Shao, Yifei (University of British Columbia). ORCID: https://orcid.org/0000-0002-0879-0436"
+  ],
+  "dct_description_sm": [
+    "As urban forest provides ecological, social, and economic values to the residents, forest inventory can monitor forest health. Based on the land classification map, the campus planning team pays attention to tree health in the public green space of the University of British Columbia (UBC) campus in Vancouver, Canada. Working together, the forest inventory and land classification map are the priorities of urban planning and forest health in UBC. In order to solve the knowledge gap of no current inventory and land classification map on campus, this study aimed to update the UBC tree inventory and land classification map. R algorithms extracted individual trees’ parameters and metrics like tree height and crown area using Light Detection and Ranging (LiDAR) data 2018 by the City of Vancouver. The author applied random forest classification to determine the tree species (coniferous/deciduous) with the metrics. Four major land cover types were classified by the supervised classification scheme using the UBC orthophoto 2020. The results show that there are 14165 trees (crown diameter more than 4 m) on campus, and the height estimation by the LiDAR method had an overall accuracy of 80% comparing to the field data. The campus’s total vegetation cover was 44% that is higher than the cities in Great Vancouver. The land classification map shows that most of the vegetation cover is on the southern campus. Considering the campus’s topography, coniferous trees on the southwest campus provided potential ecological implications of water retention and preventing soil erosion. The study provided the basis for future studies of trees, vegetation, and UBC Vancouver Campus land planning."
+  ],
+  "dct_identifier_sm": [
+    "157162_1226260_73894_115983",
+    "https://doi.org/10.5683/SP2/KYVQWM"
+  ],
+  "dct_issued_s": "2021-04-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/KYVQWM\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Light Detection and Ranging (LiDAR)-based Forest Inventory and Land Classification Map 2020 of the University of British Columbia (UBC) Vancouver Campus",
+  "gbl_mdModified_dt": "2021-04-17T15:44:26Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "241a31c1-a072-5263-9b2d-eec91997f0ed",
+  "locn_geometry": "ENVELOPE(-123.2622, -123.2265, 49.2731, 49.2416)",
+  "pcdm_memberOf_sm": [
+    "UBC Research Data Collection // UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

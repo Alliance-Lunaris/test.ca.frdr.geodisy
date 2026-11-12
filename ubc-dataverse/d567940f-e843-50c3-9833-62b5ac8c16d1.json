@@ -1,0 +1,51 @@
+{
+  "dcat_keyword_sm": [
+    "Seagrass",
+    "Atlantic Ocean",
+    "PoolSeq",
+    "Genome resequencing",
+    "conservation genomics"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Jeffery, Nicholas (Bedford Institute of Oceanography). ORCID: https://orcid.org/0000-0003-4242-5712",
+    "Vercaemer, Benedikte (Bedford Institute of Oceanography).",
+    "Stanley, Ryan (Bedford Institute of Oceanography, OTHER, Fisheries and Oceans Canada).",
+    "Kess, Tony (Northwest Atlantic Fisheries Centre).",
+    "Dufresne, France (Université du Québec à Rimouski).",
+    "Noisette, Fanny (Université du Québec à Rimouski, Rimouski Marine Sciences Institute, ISMER, Institut des sciences de la mer).",
+    "O'Connor, Mary (University of British Columbia).",
+    "Wong, Melisa (Bedford Institute of Oceanography)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.xpnvx0kp2</p>\n<p><b>Storage size:</b> 1056439</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>A global decline in seagrass populations has led to renewed calls for their conservation as important providers of biogenic and foraging habitat, shoreline stabilisation, and carbon storage. Eelgrass (Zostera marina) occupies the largest geographic range among seagrass species spanning a commensurately broad spectrum of environmental conditions. In Canada, eelgrass is managed as a single phylogroup despite occurring across three oceans and a range of ocean temperatures and salinity gradients. Previous research has focused on applying relatively few markers to reveal population structure of eelgrass, whereas a whole genome approach is warranted to investigate cryptic structure among populations inhabiting different ocean basins and localized environmental conditions. We used a pooled whole-genome re-sequencing approach to characterise population structure, gene flow, and environmental associations of 23 eelgrass populations ranging from the Northeast United States, to Atlantic, subarctic, and Pacific Canada. We identified over 500,000 SNPs, which when mapped to a chromosome-level genome assembly revealed six broad clades of eelgrass across the study area, with pairwise FST ranging from 0 among neighbouring populations to 0.54 between Pacific and Atlantic coasts. Genetic diversity was highest in the Pacific and lowest in the subarctic, consistent with colonisation of the Arctic and Atlantic oceans from the Pacific less than 300 kya. Using redundancy analyses and two climate change projection scenarios, we found that subarctic populations are predicted to be more vulnerable to climate change through genomic offset predictions. Conservation planning in Canada should thus ensure that representative populations from each identified clade are included within a national network so that latent genetic diversity is protected, and gene flow is maintained. Northern populations, in particular, may require additional mitigation measures given their potential susceptibility to a rapidly changing climate.</p>",
+    "<b>Methods</b><br /><p>We generated allele frequencies for 23 Zostera marina populations across North America using a pooled whole-genome sequencing approach (poolseq). Individual shoots of eelgrass were collected from plants at least 2 metres apart in the field, to minimize the potential presence of clones in the data. Genomic DNA was extracted from all individuals and pooled at the population level for sequencing on an Illumina NovaSeq platform at Genome Quebec (Canada), and SNPs were called following the GATK pipeline. Analyses were conducted with Popoolation2 and R Studio. R Studio was used for all genomic-environmental association analyses, including redundancy analyses, and calculating genomic offset sensu Capblancq and Forester (2021). </p>"
+  ],
+  "dct_identifier_sm": [
+    "716511_150149",
+    "https://doi.org/10.5683/SP3/SDBPJV"
+  ],
+  "dct_issued_s": "2024-03-07",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SDBPJV\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Variation in genomic vulnerability to climate change across temperate populations of eelgrass (Zostera marina)",
+  "gbl_mdModified_dt": "2024-03-07T17:05:57Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d567940f-e843-50c3-9833-62b5ac8c16d1",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "Castors--Habitat",
+    "Beavers--Habitat"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Smufer, Facundo (Université du Québec à Montréal). ORCID: https://orcid.org/0000-0002-1259-1085",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159"
+  ],
+  "dct_description_sm": [
+    "The file contains the following variables and units of measurement: Coordinate System: NAD_1983_CSRS_Quebec_Albers\nArea (m2)\nLatitude and Longitude (Decimal Degrees)",
+    "Beaver ponds shape file. The following archive contains a shapefile of 10855 polygons corresponding to beaver ponds with a minimum mapping size of 500 m2. All these polygons are within a watershed (47,880743 -78,717634) located in Abibiti, Québec, Canada. Beaver ponds were delineated using the Normalized Difference Water Index (NDWI) over PlanetScope 3m spatial resolution scenes. The NDWI yields an index that ranges between -1 and 1, where open-water pixels approach 1 and terrestrial pixels -1. To set the threshold for water pixels, the Otsu adaptive threshold was used, the optimal threshold is identified by minimizing the inter-class variance and maximizing the intra-class variance."
+  ],
+  "dct_identifier_sm": [
+    "441577_281357_281358",
+    "https://doi.org/10.5683/SP3/CZ2HWQ"
+  ],
+  "dct_issued_s": "2023-02-17",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/CZ2HWQ\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_spatial_sm": [
+    "Abitibi, Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Shapefile of beaver ponds for a watershed (02JB) located in the region of Abitibi [Quebec, Canada]",
+  "gbl_mdModified_dt": "2023-12-08T14:31:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "26205a8a-9c45-5983-9b55-b8b9c34a1121",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

@@ -1,0 +1,42 @@
+{
+  "dcat_keyword_sm": [
+    "selection gradients",
+    "multiple regression",
+    "Pseudoreplication",
+    "blue tit",
+    "Cyanistes caeruleus",
+    "spatial heterogeneity"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Pascal, Marrot (Université de Sherbrooke).",
+    "Dany, Garant (Université de Sherbrooke).",
+    "Anne, Charmantier (Centre National de la Recherche Scientifique, Centre National pour la Recherche Scientifique et Technique (CNRST), Centre d'Écologie Fonctionnelle et Évolutive, Université de Sherbrooke, Université de Montpellier, Université du Québec)."
+  ],
+  "dct_description_sm": [
+    "1. Natural selection is typically estimated in the wild using Lande and Arnold's multiple regression approach. Despite its utility for evolutionary ecologists, this method is subject to the classical assumptions of multiple regressions, which could result in potential analytical problems. In particular, spatial autocorrelation in fitness violates the assumption of residuals independence. Although widespread in the wild, the consequences of this effect have yet to be investigated in the context of Lande and Arnold's regression and resulting selection estimation. 2. Here we first described four spatially explicit models that allow to control for spatial autocorrelation in residuals of the Lande and Arnold's regression: a generalized least square (GLS) model with a distance-based exponential covariance function, two simultaneous autoregressive models (SAR, the lagged-response model (SAR-lag) and the spatial error model (SAR-err)) and a 5-step procedure using the principal coordinates of neighbour matrices (PCNM) method based on the extraction of spatial descriptors. We then compared the four spatially explicit models of selection to non-spatial models for three life-history traits recorded over 6 years in a wild blue tit (Cyanistes caeruleus) population. We also compared the performance of the four spatially explicit models of selection using a simulation approach. 3. Our analyses revealed strong spatial autocorrelation in residuals of selection models, which was completely described by the two SAR and the PCNM models, while only partially described by the GLS model. The magnitude of selection gradients and differentials decreased systematically in the 4 spatially explicit models while the degree of fit of these models increased (except for the GLS model). Moreover, we showed using simulations that the selection coefficients extracted from the SAR-lag model were systematically biased compared to those extracted from the GLS, SAR-err and PCNM models. 4. We hereby showed that spatial autocorrelation in fitness can severely affect selection differentials and gradients, even at a relatively small spatial scale. By using geostatistical models such as PCNM or SAR-err models, it is possible to control for this spatial autocorrelation. Finally, since spatial autocorrelation is closely linked to spatial environmental variation, this approach can also be used to explore environmental components of covariance between fitness and traits."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.pm86c",
+    "https://doi.org/10.5061/dryad.pm86c"
+  ],
+  "dct_issued_s": "2016-07-21",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.pm86c\"}",
+  "dct_spatial_sm": [
+    "South of France"
+  ],
+  "dct_title_s": "Data from: Spatial autocorrelation in fitness affects the estimation of natural selection in the wild",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "090e1eb1-59bc-5118-b4b6-6aa0beaa6430",
+  "schema_provider_s": "Dryad"
+}

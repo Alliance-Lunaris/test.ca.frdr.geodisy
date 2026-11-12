@@ -1,0 +1,48 @@
+{
+  "dcat_keyword_sm": [
+    "<i>Arabidopsis thaliana</i>",
+    "seed dispersal",
+    "interspecific competition",
+    "experimental dispersal",
+    "expansion speed",
+    "range expansion"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "McHugh, Erin (University of Toronto). ORCID: https://orcid.org/0009-0006-7395-1159",
+    "Urquhart, Carla (University of British Columbia).",
+    "Lustenhouwer, Nicky (Swiss Federal Institute of Technology in Zurich, University of Aberdeen).",
+    "Williams, Jennifer (McMaster University, University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 2</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> http://datadryad.org/stash/dataset/doi:10.5061/dryad.r4xgxd2pt</p>\n<p><b>Storage size:</b> 23558</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>Understanding the factors influencing how fast populations can spread across the landscape will be crucial as species ranges shift due to climate change. While the role of abiotic factors in determining expansion speed has been well studied in theory and empirical research, how competition impacts speed has received far less attention. Here, we investigated how seed dispersal distances change in response to competition and how these changes to distributions of dispersed seeds impact expansion speed. We dispersed four genotypes of the annual plant <em>Arabidopsis thaliana</em> with variation in life history traits into greenhouse mesocosms of either empty habitat or habitat containing the annual grass competitor, <em>Lolium multiflorum</em>. We found that competition decreased both mean and maximum dispersal distance. We then built a simulation model of range expansion with experimental data from this and a prior experiment to explore whether competition slows species expansions primarily through decreasing dispersal or fecundity. We found that competition primarily slows expansion speed through decreases in dispersal, but that when competition impacts both dispersal and fecundity, expansions slow more than with dispersal alone. The genotype with traits associated with longer distance dispersal was the most affected by competition in both experimental dispersal and simulations. This research suggests that not only does competition slow range expansions through decreases in both fecundity and dispersal, but that there may be consequences for evolutionary processes at the leading edge.</p>",
+    "<b>Methods</b><br /><p><strong>Dispersal data</strong></p>\n<p>Data containing the number of seedlings in dispersal mesocosms for each replicate. Seedlings were counted by dividing each of the five 8x8-cm pots into eight 1-cm bins and counting the number of seedlings in each bin. The 0 cm bin corresponds to the seedlings in the pot containing the parent plant (the plant whose seeds were dispersing), and centimetres 1-40 correspond to each 1 cm bin in the dispersal mesocosm.<strong> Data found in: Competition_Dispersal_2022.csv.</strong></p>\n<p><strong>Phenological and trait data</strong></p>\n<p>Data containing the germination date, date of bolting, date of first flower, date of first mature silique, etc., as well as height and silique (fruit) number (measured on the day that mesocosms were dismantled) for each replicate in the dispersal experiment. Additionally, data includes the day that replicates were planted, how long they spent cold-stratifying, when they went into dispersal mesocosms, and when they came out of dispersal mesocosms. <strong>Data found in: Competition_Experiment_2022_PhenData.csv.</strong></p>\n<p><strong>R Code</strong></p>\n<p>Code for fitting negative exponential functions to dispersal data found in <strong>01_fitting_kernels.R</strong>.</p>\n<p>Code for calculating m and lambda (fecundity) values with and without competition is found in <strong>02_calculating_lambda_and_m_values_final.R</strong>.</p>\n<p>Code for generating the boxplot showing differences in mean dispersal between competition and no competition treatments for each genotype found in <strong>03_generating_boxplot_meandisp.R</strong>.</p>\n<p>Code for linear models used in the paper are found in <strong>04_linear_models_updated.R</strong>.</p>\n<p>Code for making the scatterplot showing maximum dispersal distance as a function of height found in <strong>05_generating_heightvmaxdistance_scatterplot.R</strong>.</p>\n<p>Code for running the simulations found in <strong>06_simple_sim_one_genotype.R</strong>.</p>\n<p>Code for analysing the simulation output and making a scatterplot for expansion speed, organized by genotype and m x lambda combination is found in <strong>07_analysing_simulation_results.R</strong>.</p>\n<p>More details can be found in the README file that accompanies the data.</p>"
+  ],
+  "dct_identifier_sm": [
+    "845101_150149",
+    "https://doi.org/10.5683/SP3/AONVA8"
+  ],
+  "dct_issued_s": "2024-10-31",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/AONVA8\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Interspecific competition reduces seed dispersal in an annual plant and slows simulated range expansions",
+  "gbl_mdModified_dt": "2024-10-31T13:18:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40d3bc31-01d0-54ee-a65b-2389ea2d14d1",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

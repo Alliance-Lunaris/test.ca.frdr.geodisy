@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Statistically downscaled multi-model ensembles of projected change (also known as anomalies) in minimum temperature (°C) are available at a 10km spatial resolution for 1951-2100. Statistically downscaled ensembles are based on output from twenty-four Coupled Model Intercomparison Project Phase 5 (CMIP5) global climate models (GCM). Daily minimum temperature from GCM outputs were downscaled using the Bias Correction/Constructed Analogues with Quantile mapping version 2 (BCCAQv2). A historical gridded minimum temperature dataset of Canada (ANUSPLIN) was used as the downscaling target.  \n  \n                 Projected change in minimum temperature (°C) is with respect to the reference period of 1986-2005. Seasonal and annual averages of projected minimum temperature change to 1986-2005 are provided. Specifically, the 5th, 25th, 50th, 75th and 95th percentiles of the downscaled ensembles of minimum temperature change are available for the historical time period, 1901-2005, and for emission scenarios, RCP2.6, RCP4.5 and RCP8.5, for 2006-2100.  \n  \n                 Twenty-year average changes in statistically downscaled mean minimum temperature (°C) for four time periods (2021-2040; 2041-2060; 2061-2080; 2081-2100), with respect to the reference period of 1986-2005, for RCP2.6, RCP4.5 and RCP8.5 are also available in a range of formats. The median projected change across the ensemble of downscaled CMIP5 climate models is provided.  \n  \n                 Note: Projections among climate models can vary because of differences in their underlying representation of earth system processes. Thus, the use of a multi-model ensemble approach has been demonstrated in recent scientific literature to likely provide better projected climate change information."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/3156e7bf-6f11-46f7-b70a-51b6d4e3835b"
+  ],
+  "dct_issued_s": "2018-09-27",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/3156e7bf-6f11-46f7-b70a-51b6d4e3835b\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Statistically downscaled scenarios of projected minimum temperature change",
+  "gbl_mdModified_dt": "2025-04-03T15:50:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f3f83010-7ae2-58d7-8ad0-2935ac6c423a",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

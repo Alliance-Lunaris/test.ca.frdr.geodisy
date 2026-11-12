@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-61.94393485, -61.3, 47.61656503, 47.23600034)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "A research survey on American lobster (Homarus americanus) has been conducted annually in the Magdalen Islands since 1995 to assess the abundance and structure of lobster populations in this area. Starting in 2007, the main objective was modified to include the diversity and abundance of benthic species associated with lobster habitat. Only benthic species data associated with lobster habitat are presented in this dataset.  \n  \n  Surveys were generally conducted during the first two weeks of September from 2007 to 2020 on the entire south side of the Magdalen Islands, from Grosse-Île to Havre-Aubert. The sampling plan consists of 70 trawl tows on 50 fixed stations, between 4 and 35 meters in depth. Some stations had double tows. Specimens were collected using a Nephrops-type door trawl with a total width of 3.04 meters consisting of four Vexar™ lined baskets of 19 millimeter mesh size in order to harvest small individuals. Start and end positions were recorded to calculate the distance traveled at each tow using the geosphere library in R. The year 2011 is not included in the dataset, as biodiversity data were not recorded. Since 2017, the average tow distance has been reduced from 1000 meters to 500 meters. The opening of the trawl is also noted every minute throughout the duration of the tow so that the area sampled can be calculated. The area covered in each tow was the product of the trawl opening and the distance traveled.  \n  \n  The two files provided (DarwinCore format) are complementary and are linked by the \"eventID\" key. The \"Event_data\" file includes generic activity information, including date and location. The \"Occurrence\" file includes the taxonomy of the observed species, identified to the species or lowest possible taxonomic level. For abundance and biomass estimates, contact Benoît Bruneau (Benoit.Bruneau@dfo-mpo.gc.ca).  \n  \n  For quality controls, all taxonomic names were checked against the World Register of Marine Species (WoRMS) to match recognized standards. The WoRMS match was placed in the \"ScientificnameID\" field of the occurrence file. Special cases were noted in the \"identificationRemarks\" field and selected specimens were confirmed with field photos mentioned in \"associatedMedia\". Data quality checks were performed using the R obistools and WORMS libraries. All sampling locations were spatially validated."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/99cb7034-f3d5-4da4-a5bc-e81315cfb8eb"
+  ],
+  "dct_issued_s": "2023-02-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/99cb7034-f3d5-4da4-a5bc-e81315cfb8eb\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Biodiversity of the American lobster trawl survey in the Magdalen Islands",
+  "gbl_mdModified_dt": "2025-02-17T19:54:05Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a08b3aa-b485-5351-933d-fc22276875eb",
+  "locn_geometry": "ENVELOPE(-61.94393485, -61.3, 47.61656503, 47.23600034)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

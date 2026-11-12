@@ -1,0 +1,43 @@
+{
+  "dcat_keyword_sm": [
+    "Étiage",
+    "Hydrologie",
+    "Débit",
+    "HackQC22",
+    "Eau",
+    "Changements climatiques",
+    "Inondation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Direction de l'expertise hydrique."
+  ],
+  "dct_description_sm": [
+    "##Données de l'Atlas hydroclimatique 2022\n###Description\nL’Atlas hydroclimatique décrit le régime hydrique actuel et futur du Québec méridional dans le but de soutenir la mise en œuvre de pratiques de gestion de l’eau résilientes aux changements climatiques.\nCes données sont celles de la plus récente version de l’[Atlas hydroclimatique](https://www.cehq.gouv.qc.ca/atlas-hydroclimatique). \n###Nouveautés\n* Amélioration de la résolution spatiale du réseau hydrographique;\n* Plus grande couverture spatiale;\n* Ajout des ensembles ClimEx et CORDEX-NA, en plus des scénarios de l’ensemble CMIP5;\n* Utilisation de six plateformes hydrologiques;\n* Ajout d’indicateurs, notamment annuels.\n* Etc.\n###Liste des données disponibles\n* Lien vers le nouveau site web de l’Atlas hydroclimatique.\n* Carte des 24 604 tronçons de rivière de l’Atlas hydroclimatique avec leurs attributs, disponible en format GeoJSON et shapefile. Pour faciliter le téléchargement et l’affichage, la carte est divisée en 11 fichiers GeoJSON : ABIT (Abitibi et région du Lac Abitibi), CND ouest (régions Côte-Nord A et B), CND est (régions Côte-Nord C, D et E), GASP (Gaspésie), MONT (Montégérie), OUTM (Outaouais amont), OUTV (Outaouais aval), SAGU (Saguenay), SLNO (St-Laurent nord-ouest), SLSO (St-Laurent sud-ouest) et VAUD (Vaudreuil).\n* Les tables CSV (« Ampleur ... ») pour chacun des 76 indicateurs hydrologiques décrivant l’__ampleur__, la __direction__ et la __dispersion__ pour les RCP 4.5 et RCP8.5, pour les trois horizons futurs (voir la [documentation](https://www.donneesquebec.ca/recherche/dataset/8bc217ff-d25d-4f55-a9a7-ada3df4b29a7/resource/086e3a6d-9e79-4aee-81c3-4b2343bf7996/download/metadonnees_atlas2022.pdf) pour les détails).\n* Les tables CSV (« Indicateur projeté … ») pour chacun des 76 indicateurs hydrologiques détaillant les valeurs de débits avec leur incertitude pour la période historique et les trois horizons futurs (RCP4.5 et 8.5). Voir la [documentation](https://www.donneesquebec.ca/recherche/dataset/8bc217ff-d25d-4f55-a9a7-ada3df4b29a7/resource/086e3a6d-9e79-4aee-81c3-4b2343bf7996/download/metadonnees_atlas2022.pdf) pour plus de détails.\n* Un [PDF](https://www.donneesquebec.ca/recherche/dataset/8bc217ff-d25d-4f55-a9a7-ada3df4b29a7/resource/086e3a6d-9e79-4aee-81c3-4b2343bf7996/download/metadonnees_atlas2022.pdf) avec les métadonnées et une description plus détaillée des données. \n\n###Note\nLes [données de la version 2018](https://www.donneesquebec.ca/recherche/dataset/atlas-hydroclimatique-2018) sont archivées sur Données Québec pour référence, par exemple pour d’anciens rapports ou analyses faisant référence à cette version des données. Toute nouvelle étude ou analyse devrait utiliser les plus récentes données disponibles ci-dessous ou sur le site web de l’Atlas."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/8bc217ff-d25d-4f55-a9a7-ada3df4b29a7"
+  ],
+  "dct_issued_s": "2022-03-15",
+  "dct_publisher_sm": [
+    "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/8bc217ff-d25d-4f55-a9a7-ada3df4b29a7\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "quebec-meridional"
+  ],
+  "dct_subject_sm": [
+    "Environnement, ressources naturelles et énergie"
+  ],
+  "dct_title_s": "Atlas hydroclimatique 2022",
+  "gbl_mdModified_dt": "2025-12-05T15:36:06Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "d6498e2d-766a-53bc-a2d0-8f203ff4badd",
+  "schema_provider_s": "Données Québec"
+}

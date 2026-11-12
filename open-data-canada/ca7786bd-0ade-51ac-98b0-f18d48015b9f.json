@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "dcat_keyword_sm": [
+    "Inland waters",
+    "Bassin hydrologique",
+    "Drainage",
+    "Drainage",
+    "Hydrologie",
+    "Eaux intérieures",
+    "Watersheds",
+    "Hydrology",
+    "Eau",
+    "Water",
+    "Provinces de l'Ouest",
+    "Western provinces"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Superficies brutes totales des bassins hydrographiques du Projet des bassins hydrographiques d’AAC (2013)"
+  ],
+  "dct_creator_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada."
+  ],
+  "dct_description_sm": [
+    "The \"Total Gross Drainage Areas of the AAFC Watersheds Project - 2013\" dataset is a geospatial data layer containing polygon features representing the maximum area that could contribute surface runoff (total gross drainage areas) for each gauging station of the Agriculture and Agri-Food Canada (AAFC) Watersheds Project.   \n  \n  These polygons overlap as upstream land surfaces form part of multiple downstream gauging stations’ total gross drainage areas.   \n  \n  Drainage area includes all land whose surface runoff contributes to the same drainage outlet or gauging station. Many gauging stations share the same headwaters, thus the overlapping areas (or polygons).  The majority of the drainage areas in this dataset have shared areas.",
+    "Le jeu de données « superficies brutes totales des bassins hydrographiques du Projet des bassins hydrographiques d’AAC (2013) » est une couche de données géospatiales contenant des entités polygonales représentant la superficie maximale qui contribuerait au ruissellement (superficies brutes totales des bassins hydrographiques) pour chaque station hydrométrique du Projet des bassins hydrographiques d'Agriculture et Agroalimentaire Canada; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre;  Observations de la terre; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques ; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Agroclimatique; direction générale des sciences et de la technologie; Division de l'agroclimatique, de la géomatique, et de l'observation de la terre; Géomatiques (AAC).   \n  \n  Ces polygones se chevauchent, car les surfaces terrestres en amont font partie intégrante de multiples « superficies brutes totales des bassins hydrographiques » de stations hydrométriques en aval.  \n  \n  La superficie des bassins hydrographiques comprend toutes les terres dont les eaux de ruissellement contribuent à la même décharge de bassin hydrographique ou à la même station hydrométrique. Comme bon nombre de stations hydrométriques partagent les mêmes eaux d’amont, les superficies (ou polygones) se chevauchent. La plupart des superficies des bassins hydrographiques de ce jeu de données ont des superficies communes."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/67c8352d-d362-43dc-9255-21e2b0cf466c"
+  ],
+  "dct_issued_s": "2013-04-05",
+  "dct_publisher_sm": [
+    "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/67c8352d-d362-43dc-9255-21e2b0cf466c\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment"
+  ],
+  "dct_title_s": "Total Gross Drainage Areas of the AAFC Watersheds Project - 2013",
+  "gbl_mdModified_dt": "2025-10-15T12:20:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "ca7786bd-0ade-51ac-98b0-f18d48015b9f",
+  "locn_geometry": "ENVELOPE(-124.0, -90.0, 61.0, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

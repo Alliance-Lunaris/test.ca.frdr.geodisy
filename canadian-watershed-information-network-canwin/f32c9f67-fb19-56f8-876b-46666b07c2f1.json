@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "AAFC’s Canadian Ag-Land Monitoring System (CALMS), operational since 2009, was developed by AAFC’s Earth Observation Service (EOS) to deliver weekly NDVI-based maps of crop condition in near-real-time. The CALMS uses data collected by the Moderate Resolution Imaging Spectro-radiometer (MODIS), a sensor mounted onboard NASA’s Terra satellite that has been acquiring data since February 2000. The state-of-the-art radiometric, spectral and spatial resolutions of MODIS Terra make it particularly well-suited for large-scale vegetation mapping and assessment. Crop condition (NDVI) maps are generated weekly by AAFC throughout Canada’s growing season, the period defined as the six-month period stretching from the start of Julian week 12 (end of March) to the end of Julian week 44 (late October). Weeks of the year are defined according to the ISO 8601 week-numbering standard, where weeks start on a Monday and end the following Sunday. CALMS products are generated in the MODIS native Integrated Sinusoidal (ISIN) projection for the region covering the twelve MODIS tiles h09v03 to h14v03 and h09v04 to h14v04."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/20b8aafa-dec3-4db2-84c1-f2f96797ef3f"
+  ],
+  "dct_issued_s": "2021-07-19",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/20b8aafa-dec3-4db2-84c1-f2f96797ef3f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "The Canadian Ag-Land Monitoring System (CALMS)",
+  "gbl_mdModified_dt": "2023-04-08T14:00:21Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f32c9f67-fb19-56f8-876b-46666b07c2f1",
+  "locn_geometry": "ENVELOPE(-132.0, -52.0, 90.0, 36.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

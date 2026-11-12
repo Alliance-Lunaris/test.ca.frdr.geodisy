@@ -1,0 +1,44 @@
+{
+  "dcat_keyword_sm": [
+    "SNP Selection",
+    "Salmo salar",
+    "Individual Assignment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Emma V.A., Sylvester (Fisheries and Oceans Canada, Dalhousie University).",
+    "Paul, Bentzen (Dalhousie University).",
+    "Ian R., Bradbury (Memorial University of Newfoundland, Department of Fisheries, Fisheries and Oceans Canada, Dalhousie University).",
+    "Marie, Clément (Memorial University of Newfoundland).",
+    "Jon, Pearce (Dalhousie University).",
+    "John, Horne (Dalhousie University).",
+    "Robert G., Beiko (Dalhousie University).",
+    "Emma V. A., Sylvester (Dalhousie University, Fisheries and Oceans Canada)."
+  ],
+  "dct_description_sm": [
+    "Genetic population assignment used to inform wildlife management and conservation efforts requires panels of highly informative genetic markers and sensitive assignment tests. We explored the utility of machine-learning algorithms (random forest, regularized random forest, and guided regularized random forest) compared with FST ranking for selection of single nucleotide polymorphisms (SNP) for fine-scale population assignment. We applied these methods to an unpublished SNP dataset for Atlantic salmon (Salmo salar) and a published SNP data set for Alaskan Chinook salmon (Oncorhynchus tshawytscha). In each species, we identified the minimum panel size required to obtain a self-assignment accuracy of at least 90% using each method to create panels of 50-700 markers Panels of SNPs identified using random forest-based methods performed up to 7.8 and 11.2 percentage points better than FST-selected panels of similar size for the Atlantic salmon and Chinook salmon data, respectively. Self-assignment accuracy ≥90% was obtained with panels of 670 and 384 SNPs for each dataset, respectively, a level of accuracy never reached for these species using FST-selected panels. Our results demonstrate a role for machine-learning approaches in marker selection across large genomic datasets to improve assignment for management and conservation of exploited populations."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.93h33",
+    "https://doi.org/10.5061/dryad.93h33"
+  ],
+  "dct_issued_s": "2017-07-27",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.93h33\"}",
+  "dct_spatial_sm": [
+    "Labrador"
+  ],
+  "dct_title_s": "Data from: Applications of random forest feature selection for fine-scale genetic population assignment",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "6f3e562b-9902-547d-9e5c-3aeb2d336a86",
+  "schema_provider_s": "Dryad"
+}

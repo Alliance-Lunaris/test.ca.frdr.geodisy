@@ -1,0 +1,50 @@
+{
+  "dcat_keyword_sm": [
+    "Ciona intestinalis",
+    "invasive aquatic species",
+    "semantic segmentation dataset",
+    "mytilus edulis",
+    "ciona intestinalis",
+    "aquaculture management",
+    "Mytilus edulis"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Galloway, Angus (School of Engineering. College of Engineering and Physical Sciences. University of Guelph and Vector Institute for Artificial Intelligence., School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0003-0343-9951",
+    "Taylor, Graham (School of Engineering. College of Physical and Engineering Science. University of Guelph., School of Engineering. College of Engineering and Physical Sciences. University of Guelph., School of Engineering. College of Engineering and Physical Sciences. University of Guelph and Vector Institute for Artificial Intelligence, University of Guelph). ORCID: https://orcid.org/0000-0001-5867-3652",
+    "Ramsay, Aaron (Department of Agriculture and Fisheries. Government of PEI.).",
+    "Moussa, Medhat (School of Engineering. College of Engineering and Physical Sciences. University of Guelph.). ORCID: https://orcid.org/0000-0002-5394-043X"
+  ],
+  "dct_description_sm": [
+    "An original dataset for semantic segmentation, Ciona17, is introduced, which to the best of the authors' knowledge, is the first dataset of its kind with pixel-level annotations pertaining to invasive species in a marine environment. Diverse outdoor illumination, a range of object shapes, and severe occlusion provide a significant \nchallenge for the computer vision community. An accompanying ground-truthing tool for superpixel labeling, Truth and Crop, is also introduced. In a subsequent work, results are reported in terms of the mean intersection over union (mIoU) with segmentation mask. The GUI application for ground-truthing semantic segmentation datasets in PyQt4/OpenCV can be accessed at https://github.com/AngusG/truth-and-crop"
+  ],
+  "dct_identifier_sm": [
+    "47203_76_950557",
+    "https://doi.org/10.5683/SP/NTUOK9"
+  ],
+  "dct_issued_s": "2017-02-07",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP/NTUOK9\"}",
+  "dct_rights_sm": [
+    "Users agree to use this dataset in accordance with the special permissions, citation requirements and conditions outlined within the dataset terms."
+  ],
+  "dct_spatial_sm": [
+    "Prince Edward Island, Canada"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "The Ciona17 dataset for semantic segmentation of invasive species in a marine aquaculture environment",
+  "gbl_mdModified_dt": "2025-01-07T15:00:07Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "f003e01c-667e-524c-864b-367f56b49c63",
+  "pcdm_memberOf_sm": [
+    "Cross-disciplinary Research Data // College of Engineering"
+  ],
+  "schema_provider_s": "University of Guelph Dataverse"
+}

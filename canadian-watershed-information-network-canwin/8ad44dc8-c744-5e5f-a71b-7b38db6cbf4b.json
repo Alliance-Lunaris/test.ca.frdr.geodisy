@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-119.998694, -110.066336, 59.985769, 52.001374)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The objective of this project was to map and characterize abandoned padded wellsites (i.e., constructed with imported mineral soil materials between 1940 and 2020) in peatlands within the Boreal and Foothills Regions of the Green area in Alberta. This Project used high-resolution LiDAR data combined with open-access optical data from Sentinel-2 to build a supervised machine learning model that detected padded sites. The classification procedure achieved 81.2% accuracy when predicting no pad and 73.9% accuracy when predicting a pad, for an overall classification accuracy of 78%. As a result, a total of 7,077 padded sites and 8,006 unpadded sites in peatland areas were obtained from the supervised classification. This dataset contains the locations of those 7,077 padded sites. These sites will be used by the Project team to select sites for a field-based research program and will be provided to EPA to enable improved regulatory efficiency in the Province of Alberta."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d18910a-9f64-48a1-9989-5d1131974c87"
+  ],
+  "dct_issued_s": "2023-02-23",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/6d18910a-9f64-48a1-9989-5d1131974c87\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "Project Returns for Identification and Characterization of Abandoned Padded Wellsites Using Remote Sensing",
+  "gbl_mdModified_dt": "2026-03-04T19:38:41Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "8ad44dc8-c744-5e5f-a71b-7b38db6cbf4b",
+  "locn_geometry": "ENVELOPE(-119.998694, -110.066336, 59.985769, 52.001374)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

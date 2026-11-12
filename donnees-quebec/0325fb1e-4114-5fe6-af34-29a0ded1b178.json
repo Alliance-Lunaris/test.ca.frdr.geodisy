@@ -1,0 +1,41 @@
+{
+  "dcat_keyword_sm": [
+    "Bâtisse",
+    "Construction",
+    "Immeuble",
+    "Cadre bâti",
+    "DGIG"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur de l'infrastructure foncière et de l'information géospatiale - Direction générale de l’information géospatiale."
+  ],
+  "dct_description_sm": [
+    "Le référentiel québécois sur les bâtiments se compose d’une couche continue, réalisée à vol d’oiseau et présentée sous forme de polygones vectoriels. Ces travaux s’inscrivent dans le contexte de la démarche visant à doter le Québec d’une base de données riche et exhaustive qui rassemble les informations liées  au cadre bâti. Il est le fruit d’un travail de collaboration entre le Centre de recherche en données et intelligence géospatiales de l’Université Laval, le milieu municipal, Ressources naturelles Canada   et les ministères et organismes du Québec.\r\n\r\nCe jeu de données intègre des géométries issues de différents partenariats et produites à l’aide de l’intelligence artificielle et d’algorithmes d’extraction automatisée. La couverture géographique correspond à l’information disponible lors de sa publication et sera étendue selon la disponibilité de nouvelles données. Pour connaître les changements survenus depuis la version précédente ou pour plus de détails sur les techniques de production et les données sources utilisées, consultez la **[liste des attributs](https://diffusion.mern.gouv.qc.ca/diffusion/RGQ/Vectoriel/Theme/Local/ReferentielBati/Document/ListeAttributs_RefBati.pdf)**. \r\n\r\n###Caractéristiques des niveaux de complétude\r\nLa qualité de la donnée géométrique peut varier selon le niveau de complétude (NC)\\* atteint et pourrait différer de la réalité terrain, et ce, tant sur le plan de la représentation que sur celui de l’authenticité. \r\n\r\nCette version incorpore des données de NC-0 et de NC-1 correspondant aux descriptions suivantes :\r\n\r\n* NC-0 : Géométries vectorielles brutes, de sources variées, sans contrôle qualité effectué;\r\n* NC-1 : Géométries validées manuellement (ajustements, ajouts, suppressions).\r\n\r\n\\* _Chaque niveau de complétude (NC) caractérise le niveau de travail d’édition, de validation et de contenu descriptif du jeu de données. Des informations thématiques viendront bonifier le jeu de données_."
+  ],
+  "dct_identifier_sm": [
+    "https://www.donneesquebec.ca/recherche/fr/dataset/be7053a8-7122-4514-91a2-5a8f5a60b341"
+  ],
+  "dct_issued_s": "2023-03-22",
+  "dct_publisher_sm": [
+    "Ministère des Ressources naturelles et des Forêts"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://www.donneesquebec.ca/recherche/fr/dataset/be7053a8-7122-4514-91a2-5a8f5a60b341\"}",
+  "dct_rights_sm": [
+    "Attribution (CC-BY 4.0) https://www.donneesquebec.ca/licence/#cc-by"
+  ],
+  "dct_spatial_sm": [
+    "Québec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Infrastructures"
+  ],
+  "dct_title_s": "Référentiel québécois sur les bâtiments",
+  "gbl_mdModified_dt": "2026-06-16T15:07:25Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0325fb1e-4114-5fe6-af34-29a0ded1b178",
+  "schema_provider_s": "Données Québec"
+}

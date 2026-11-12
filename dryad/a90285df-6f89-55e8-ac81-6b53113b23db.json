@@ -1,0 +1,55 @@
+{
+  "dcat_keyword_sm": [
+    "claims data",
+    "case ascertainment",
+    "2008 - 2016",
+    "algorithm",
+    "2008-2016",
+    "validation study",
+    "Multiple sclerosis",
+    "prevalence"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "William J., Culpepper (University of Maryland, Baltimore).",
+    "Ruth Anne, Marrie (University of Manitoba).",
+    "Annette, Langer-Gould (Neurology Department, Kaiser Permanente Southern California, Los Angeles, Southern California Permanente Medical Group, Pasadena).",
+    "Mitchell T., Wallin (Georgetown University, Department of Veterans Affairs Multiple Sclerosis Center of Excellence and Georgetown University School of Medicine, Washington, DC).",
+    "Jonathan D., Campbell (University of Colorado, Aurora).",
+    "Lorene M., Nelson (Stanford University).",
+    "Wendy E., Kaye (McKing Consulting Corp, Atlanta, GA).",
+    "Laurie, Wagner (McKing Consulting Corp, Atlanta, GA, McKing Consulting Corporation, Atlanta, GA).",
+    "Helen, Tremlett (University of British Columbia).",
+    "Lie H., Chen (Neurology Department, Kaiser Permanente Southern California, Los Angeles, Southern California Permanente Medical Group, Pasadena).",
+    "Stella, Leung (University of Manitoba).",
+    "Charity, Evans (University of Saskatchewan).",
+    "Shenzhen, Yao (Saskatchewan Health Quality Council).",
+    "Nicholas G., LaRocca."
+  ],
+  "dct_description_sm": [
+    "Objective: To develop a valid algorithm for identifying multiple sclerosis (MS) cases in administrative health claims (AHC) datasets.\r\n\r\nMethods: We used 4 AHC datasets from the Veterans Administration (VA), Kaiser Permanente Southern California (KPSC), Manitoba (Canada), and Saskatchewan (Canada). In the VA, KPSC, and Manitoba, we tested the performance of candidate algorithms based on inpatient, outpatient, and disease-modifying therapy (DMT) claims compared to medical records review using sensitivity, specificity, positive and negative predictive values, and interrater reliability (Youden J statistic) both overall and stratified by sex and age. In Saskatchewan, we tested the algorithms in a cohort randomly selected from the general population.\r\n\r\nResults: The preferred algorithm required ≥3 MS-related claims from any combination of inpatient, outpatient, or DMT claims within a 1-year time period; a 2-year time period provided little gain in performance. Algorithms including DMT claims performed better than those that did not. Sensitivity (86.6%–96.0%), specificity (66.7%–99.0%), positive predictive value (95.4%–99.0%), and interrater reliability (Youden J = 0.60–0.92) were generally stable across datasets and across strata. Some variation in performance in the stratified analyses was observed but largely reflected changes in the composition of the strata. In Saskatchewan, the preferred algorithm had a sensitivity of 96%, specificity of 99%, positive predictive value of 99%, and negative predictive value of 96%.\r\n\r\nConclusions: The performance of each algorithm was remarkably consistent across datasets. The preferred algorithm required ≥3 MS-related claims from any combination of inpatient, outpatient, or DMT use within 1 year. We recommend this algorithm as the standard AHC case definition for MS."
+  ],
+  "dct_identifier_sm": [
+    "doi:10.5061/dryad.4c7s325",
+    "https://doi.org/10.5061/dryad.4c7s325"
+  ],
+  "dct_issued_s": "2019-02-18",
+  "dct_license_sm": [
+    "https://spdx.org/licenses/CC0-1.0.html"
+  ],
+  "dct_publisher_sm": [
+    "Dryad"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5061/dryad.4c7s325\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_title_s": "Data from: Validation of an algorithm for identifying MS cases in administrative health claims datasets",
+  "gbl_mdModified_dt": "2020-06-24T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a90285df-6f89-55e8-ac81-6b53113b23db",
+  "schema_provider_s": "Dryad"
+}

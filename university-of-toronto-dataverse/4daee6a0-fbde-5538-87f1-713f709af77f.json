@@ -1,0 +1,46 @@
+{
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -30.0, -75.0)",
+  "dcat_keyword_sm": [
+    "Ocean biogeochemistry",
+    "Southern Ocean",
+    "Dissolved inorganic carbon",
+    "Deep learning model"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Zemskova, Varvara E (University of Toronto). ORCID: https://orcid.org/0000-0001-8263-6931",
+    "He, Tailong (University of Toronto).",
+    "Wan, Zirui (University of Toronto).",
+    "Grisouard, Nicolas (Department of Physics, University of Toronto, Canada, University of Toronto). ORCID: https://orcid.org/0000-0003-4045-2143"
+  ],
+  "dct_description_sm": [
+    "Output of deep-learning model trained to predict dissolved inorganic carbon (DIC) in upper 4 km of the ocean south of -30 degrees (over the Southern Ocean). Data extends from 1993 to 2019 at 5-day temporal resolution over 1x1 degree horizontal grid and variable vertical spacing.\nEach individual file contains data for one year and includes grid and temporal information.\nSpatial mask is applied to exclude land, bottom topography, and regions of the ocean that are shallower than 1 km."
+  ],
+  "dct_identifier_sm": [
+    "144931_144930",
+    "https://doi.org/10.5683/SP2/FTQYTV"
+  ],
+  "dct_issued_s": "2021-03-01",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/FTQYTV\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Dissolved Inorganic Carbon Deep Learning Model Output 1993-2019",
+  "gbl_mdModified_dt": "2022-05-24T15:10:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4daee6a0-fbde-5538-87f1-713f709af77f",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -30.0, -75.0)",
+  "pcdm_memberOf_sm": [
+    "Dept. of Physics, V. E. Zemskova"
+  ],
+  "schema_provider_s": "University of Toronto Dataverse"
+}

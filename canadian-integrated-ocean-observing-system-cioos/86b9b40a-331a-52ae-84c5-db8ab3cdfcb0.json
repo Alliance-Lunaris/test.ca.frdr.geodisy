@@ -1,0 +1,42 @@
+{
+  "dcat_bbox": "ENVELOPE(-72.0, -54.0, 53.25, 42.0)",
+  "dcat_keyword_sm": [
+    "État de la mer",
+    "waves",
+    "vagues",
+    "seaState",
+    "Oceans"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Sous-ensemble de données provenant du produits du système régional de prévision déterministe de vague"
+  ],
+  "dct_creator_sm": [
+    "Environment and Climate Change Canada (Government of Canada).",
+    "Meteorological Service of Canada."
+  ],
+  "dct_description_sm": [
+    "**Extract of the [Meteorological Service of Canada Datamart](https://eccc-msc.github.io/open-data/msc-data/nwp_rdwps/readme_rdwps_en/):** *The Regional Deterministic Wave Prediction System (RDWPS) produces wave forecasts out to 48 hours in the future using the third generation spectral wave forecast model WaveWatch III® (WW3). The model is forced by the 10 meters winds from the High Resolution Deterministic Prediction System (HRDPS). Over the Great Lakes, an ice forecast from the Water Cycle Prediction System of the Great Lakes (WCPS) ) is used by the model to attenuate or suppress wave growth in areas covered by 25% to 75% and more than 75% ice, respectively. Over the ocean, an ice forecast from the Regional Ice Ocean Prediction System (RIOPS) is used: [...] ; in the Northwest Atlantic the same logic is used as in the Great Lakes. Forecast elements include significant wave height, peak period, partitioned parameters and others. This system includes several domains: Lake Superior, Lake Huron-Michigan, Lake Erie, Lake Ontario, Atlantic North-West and Pacific North-East.*\n\nThe data availables on the SLGO catalogue provides the **direction** and **periode of peak waves**, as well as the **significant height of combined wind waves and swell**. Peak waves refer to the most energetic waves (among wind waves and swell) at a specific point. The dataset provide hourly data for the last three days and include 48-hours forecasts derived from the latest model run. Spatially, the dataset covers the St. Lawrence Estuary (downstream of *Île d'Orléans*, Qc, Canada) and the Gulf, as well as a localized portion of the Northwest Atlantic.  \n\nAn interactive visualization of this dataset is available via the SLGO's **[Nautilo app](https://nautilo.ca/)**",
+    "**Extrait du [datamart du Service météorologique du Canada](https://eccc-msc.github.io/open-data/msc-data/nwp_rdwps/readme_rdwps_fr/) :** *Le Système régional de prévision déterministe de vague (SRPDV) produit les prévisions de vagues jusqu'à 48 heures dans le futur en utilisant le modèle spectral de prévision de vague de troisième génération WaveWatch III® (WW3). Le modèle est forcé par les vents à une élévation de 10 mètres du Système à haute résolution de prévision déterministe (SHRPD). Sur les Grands Lacs, une prévision de glace du Système de prévision du cycle de l'eau (SPCE) est utilisée par le modèle pour atténuer ou supprimer la croissance des vagues dans les zones couvertes par respectivement 25% à 75% et plus de 75% de glace. Sur l'océan, une prévision de glace du Système Régional de Prévision Glace-Océan (SRPOG) est utilisée : [...] ; dans l'Atlantique nord-ouest la même logique est utilisée que dans les Grands Lacs. Les éléments prévus incluent la hauteur significative des vagues, la période pic, des paramètres partitionnés et autres. Ce système comprend plusieurs domaines : lac Supérieur, lac Huron-Michigan, lac Érié, Lac Ontario, Atlantique nord-ouest et Pacifique nord-est.*\n\nLes données présentes sur le catalogue de l'OGSL présentent la **direction des pics de vagues**, **leurs périodes**, et la **hauteur significative des vagues de vent et de la houle combinées**. Les pics de vagues correspondent aux vagues de plus haute énergie en un point donné parmi les vagues de vents et de houles. La période couverte concerne les 3 derniers jours et inclue des prévisions pour les 48h suivant le dernier fonctionnement du modèle avec une résolution horaire. L'étendu du jeu de données concerne l'estuaire (en aval de l'île d'Orléan, Qc, Canada) et le golfe du Saint-Laurent, ainsi qu'une partie localisée de l'Atlantique Nord-Ouest.\n\nUne visualisation interactive du jeu de données est disponible au travers de **l'[application Nautilo](https://nautilo.ca/)** de l'OGSL"
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/72f0baa7-7b03-46c3-8086-d955bf69400a"
+  ],
+  "dct_issued_s": "2026-03-30",
+  "dct_publisher_sm": [
+    "Observatoire global du Saint-Laurent"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/72f0baa7-7b03-46c3-8086-d955bf69400a\"}",
+  "dct_rights_sm": [
+    "Environment and Climate Change Canada Data Servers End-use Licence https://eccc-msc.github.io/open-data/licence/readme_en/"
+  ],
+  "dct_title_s": "Subset of Data from the Regional Deterministic Wave Prediction System",
+  "gbl_mdModified_dt": "2026-07-31T16:36:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "86b9b40a-331a-52ae-84c5-db8ab3cdfcb0",
+  "locn_geometry": "ENVELOPE(-72.0, -54.0, 53.25, 42.0)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

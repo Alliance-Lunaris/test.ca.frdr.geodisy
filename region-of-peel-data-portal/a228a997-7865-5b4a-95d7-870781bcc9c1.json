@@ -1,0 +1,45 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.14945620766724, -79.52923145286928, 43.99311252087787, 43.48033365467055)",
+  "dcat_keyword_sm": [
+    "Open Data",
+    "wards",
+    "Boundaries",
+    "Municipal Elections",
+    "Municipal Government",
+    "Ward",
+    "Councillor",
+    "democracy",
+    "Boundary",
+    "chair",
+    "Mayor",
+    "Election"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Region of Peel Data Portal."
+  ],
+  "dct_description_sm": [
+    "<div>Contains ward boundaries within the Region of Peel for the 2022-2026 term of council. Municipal elections are levied at the Ward level.  Councillors are elected from each ward to form Municipal and Regional councils.</div><div><br /></div><div>There are two files provided in this package:</div><div><ol><li>WardBoundary - the Regional Ward boundaries along with the start and end date of the ward boundary.</li><li>WardBoundary_Councillors - this table follows the <a href='https://represent.opennorth.ca/government/' target='_blank' rel='nofollow ugc noopener noreferrer'>OpenNorth Represent format</a> for their Represent API.  It provides councillor information, including a link to their profile, photo, and contact information.</li></ol><div>In Brampton, there are wards that have multiple councillors.  Councillors in Brampton also represent two wards at the Regional level.  The relationship between WardBoundary and WardBoundary_Councillors should be joined as a one to many relationship to reflect this using the WardName and DistrictName columns as the join field.  To use this relationship within ArcGIS Online Map View, check out the <a href='https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/rolling-out-related-records-in-map-viewer/' target='_blank' rel='nofollow ugc noopener noreferrer'>Rolling out related records in map viewer</a> blog post from Esri.<br /></div></div><div><br /></div><div><b>Apps</b></div><div><ul><li><a href='https://represent.opennorth.ca/demo/' target='_blank' rel='nofollow ugc noopener noreferrer'>OpenNorth Represent</a><br /></li></ul></div>"
+  ],
+  "dct_identifier_sm": [
+    "513fd67039084e2e987ef209576f7ed6",
+    "https://www.arcgis.com/home/item.html?id=513fd67039084e2e987ef209576f7ed6"
+  ],
+  "dct_issued_s": "2022-11-30",
+  "dct_publisher_sm": [
+    "Region of Peel Data Portal"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://data.peelregion.ca/datasets/RegionofPeel::wardboundary-councillors\"}",
+  "dct_rights_sm": [
+    "Open Data Licence for The Regional Municipality of Peel (Version 1.0)"
+  ],
+  "dct_title_s": "Peel Ward Boundary",
+  "gbl_mdModified_dt": "2025-03-20T17:38:18Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a228a997-7865-5b4a-95d7-870781bcc9c1",
+  "locn_geometry": "ENVELOPE(-80.14945620766724, -79.52923145286928, 43.99311252087787, 43.48033365467055)",
+  "schema_provider_s": "Region of Peel Data Portal"
+}

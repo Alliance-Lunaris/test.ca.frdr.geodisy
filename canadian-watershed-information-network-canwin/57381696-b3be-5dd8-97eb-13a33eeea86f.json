@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The purpose of this layer is to provide end users with a spatial representation of the Designated Areas in adopted Development Plans and their consolidated amendments in Manitoba. It also allows users of the data to undertake a variety of land use planning analyses based on Development Plan Designations. This layer is intended to be a source of data delivery as well as usage in situ.  \n  \n  This dataset is comprised of boundary geometry representing the Development Plan Designations for all of the Development Plan bylaws (as defined in The Planning Act) in force and effect within the Province of Manitoba. Spatial referencing of the designations is based on the best available land parcel data for each municipality. Where available, land parcel data based on registered survey plans and ground control coordinates was used. Otherwise, the reference grid maintained by Manitoba Sustainable Development was used. The delineation of the boundaries is set by the bylaw establishing or amending the boundary of each designation. Dataset content is subject to: Ongoing changes in designated areas which are determined by amendments to adopted Development Plans or the adoption of new Development Plans. Ongoing development and maintenance of the land parcel datasets. Improvements to the land parcel data are used to improve the positional accuracy of the Development Plan designation polygons. As of the publication date of this dataset, the following known issues remain: For designation boundaries that include water boundaries, the water boundary that best reflects the intended designation boundary was used. In some instances, road allowances on a municipal boundary are included in both of the adjoining municipalities. Please visit the Manitoba Municipal Relations website for more information at www.gov.mb.ca/mr. The Development Plan Designations data reflects the most current designations at the time of export and was uploaded to Manitoba Maps as a feature layer. Fields Included: OBJECTID: Sequential unique whole numbers that are automatically generated DP_BYLAW: Number assigned by planning authority to identify a specific bylaw DPA_BYLAW: Number assigned to a bylaw that amends an existing development plan bylaw PLANNINGDISTRICT: Name of the Planning District establishing the bylaws PLANNINGREGION: Area of responsibility for a Community and Regional Planning Branch (In the Department of Municipal Relations) office ACRES: Area of each polygon expressed in acres DES_NAME: Name of Designation as stated in the Development Plan bylaw DES_CATEGORY: Designation category as interpreted by Municipal Relations RES_MIN_ACRES_PER_LOT: Minimum acreage for a residential lot as defined by the Development Plan bylaw RES_MAX_ACRES_PER_LOT: Maximum acreage for a residential lot as defined by the Development Plan bylaw MUNI_NO: Manitoba municipality identifier number MUNI_NAME: Name of municipality AU_LIMIT: Animal Unit limit as set by the Development Plan Policy"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/918e505e-7e1a-be87-7dd8-a6f48206e4db"
+  ],
+  "dct_issued_s": "2024-05-29",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/918e505e-7e1a-be87-7dd8-a6f48206e4db\"}",
+  "dct_rights_sm": [
+    "OpenMB Information and Data Use License https://manitoba.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf"
+  ],
+  "dct_title_s": "Manitoba Development Plan Designations",
+  "gbl_mdModified_dt": "2025-02-05T19:08:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "57381696-b3be-5dd8-97eb-13a33eeea86f",
+  "locn_geometry": "ENVELOPE(-101.8847, -93.6832, 58.7936, 48.9989)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This database contains surface level average concentration, average deposition velocity, and summed deposition fluxes, for the one-year period October 1, 2017 through September 30, 2018, generated using a 2.5 km resolution of the Oil Sands version of the Global Environmental Multiscale – Modelling Air-quality and CHemistry model (GEM-MACH-OS) for Alberta and Saskatchewan. \n\r \n\rThese files include one-year averages of surface level concentrations, one-year averages of other model outputs such as deposition velocity, and the summed one-year totals for deposition velocity. The one-year period chosen for the extraction corresponds to the averaging time of some of the observations available for model output, which are on a bi-annual cycle. One-year totals are also a requirement for calculations of environmental impacts such as the effects of sulphur and nitrogen deposition. \n\r\n\rThe mapped fields were extracted, averaged and/or summed, from 15-month hourly simulations covering the period August 1, 2017 through October 31, 2018. Files were generated for each of several simulations for the given time period - details of the model run setup, the simulations carried out, the content of each file, and the references for the work appear in the document “GEM-MACH products description.pdf”. \n\r\n\rThe model output for each simulation is available in a separate folder and can be reached through the links given below the pdf file. \n\rEach link corresponds to an individual simulation, and contains 372 mapped fields described in the pdf file, each provided in three formats:\n\r\n\r (1) .jpg maps {which provide a quick reference for the annual average or summed model output included in the GIS and netCDF files, allowing a comparison of that model output to the GIS and netCDF files on the users’ mapping systems}; \n\r(2) GIS files {.prj,.dbf,.shp,.shx to allow for input into GIS systems}; \n\r(3) netCDF format files {for input into a variety of plotting and data analysis packages}. \n\r\n\rFurther details may be also found in the pdf description file."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/a2684cae-d60a-49c1-8606-565aa64fc5dc"
+  ],
+  "dct_issued_s": "2024-10-15",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/a2684cae-d60a-49c1-8606-565aa64fc5dc\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Modelled Concentration, Deposition Fluxes and Deposition Velocities Database, Global Environmental Multiscale – Modelling Air-Quality and Chemistry Model, Oil Sands Region",
+  "gbl_mdModified_dt": "2026-07-23T15:31:40Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2d102aa3-760b-5b00-8637-ddc98c65cfc6",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

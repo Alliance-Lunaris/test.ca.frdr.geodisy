@@ -1,0 +1,39 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.76273557212659, -79.0481299186538, 44.20571503678808, 43.79315427802116)",
+  "dcat_keyword_sm": [
+    "TRSPA",
+    "SWP",
+    "quantity",
+    "Q1",
+    "WHPA-Q",
+    "TRCA"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Conservation Ontario Open Data Hub."
+  ],
+  "dct_description_sm": [
+    "<div style='text-align:Left;'><div><div><p style='margin:0 0 0 0;'><span><span>Entity Name: </span></span><span style='font-weight:bold;'><span>SW Quantity WHPA Q1</span></span></p><p style='font-weight:bold; margin:4 0 4 0;'><span><span>Table Name: </span></span><span><span>SW_QUANTITY_WHPAQ1_FT</span></span></p><p style='margin:0 0 4 0;'><span>Feature representing a wellhead protection area (Q1).</span></p><table><tbody><tr><td><p style='text-align:Center; font-style:italic; font-weight:bold; margin:0 0 4 0;'><span><span>#</span></span></p></td><td><p style='text-align:Center; font-style:italic; font-weight:bold; margin:0 0 4 0;'><span><span>ATTRIBUTE/COLUMN NAME</span></span></p></td><td><p style='text-align:Center; font-style:italic; font-weight:bold; margin:0 0 4 0;'><span><span>DATATYPE</span></span></p></td><td><p style='text-align:Center; font-style:italic; font-weight:bold; margin:0 0 4 0;'><span><span>REQ</span></span></p></td><td><p style='text-align:Center; font-style:italic; font-weight:bold; margin:0 0 4 0;'><span><span>DESCRIPTION</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>1</span></span></p></td><td><p><span><span>OBJECTID</span></span></p><p><span><span>OBJECTID</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>NUMBER(13)</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>A unique numeric identifier assigned to each feature.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>2</span></span></p></td><td><p><span><span>Source Protection Area ID</span></span></p><p><span><span>SPP_ID</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>NUMBER(2)</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span>Identifier for the source protection area that provided the original data about the feature. </span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>3</span></span></p></td><td><p><span><span>T3 Local Area Name</span></span></p><p><span><span>T3_LOCAL_AREA_NAME</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>VARCHAR2(100)</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The name the area is known as by the local Conservation Authority.</span></span></p></td></tr><tr><td><p style='text-align:Center;'><span><span>4</span></span></p></td><td><p><span><span>Risk Level</span></span></p><p><span><span>RISK_LEVEL</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>VARCHAR2(11)</span></span></p></td><td><p style='text-align:Center; margin:4 0 4 0;'><span><span>Yes</span></span></p></td><td><p style='margin:4 0 4 0;'><span><span>The level of risk associated with the wellhead protection area. Can be Low, Moderate or Significant. </span></span></p><p style='margin:16 0 4 0;'><span><span>VALID VALUES</span></span><span><span>: </span></span></p><p style='margin:3 0 3 0;'><span><span>Low</span></span></p><p style='margin:3 0 3 0;'><span><span>Moderate</span></span></p><p style='margin:3 0 3 0;'><span><span>Significant</span></span></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table><p><span></span></p></div></div></div>"
+  ],
+  "dct_identifier_sm": [
+    "b4dfc4b40fe748d69db13aba4d9c5bec",
+    "https://www.arcgis.com/home/item.html?id=b4dfc4b40fe748d69db13aba4d9c5bec"
+  ],
+  "dct_issued_s": "2024-01-23",
+  "dct_publisher_sm": [
+    "Conservation Ontario Open Data Hub"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://co-opendata-camaps.hub.arcgis.com/datasets/camaps::trspa-swp-whpaq1\"}",
+  "dct_rights_sm": [
+    "As defined by TRCA's open data licence: https://trca.ca/about/open-data-licence/"
+  ],
+  "dct_title_s": "TRSPA SWP WHPAQ1",
+  "gbl_mdModified_dt": "2024-01-23T04:18:13Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb32347e-d040-5541-a454-0f4ae3981ee2",
+  "locn_geometry": "ENVELOPE(-79.76273557212659, -79.0481299186538, 44.20571503678808, 43.79315427802116)",
+  "schema_provider_s": "Conservation Ontario Open Data Hub"
+}

@@ -1,0 +1,87 @@
+{
+  "dcat_bbox": "ENVELOPE(-142.3, -120.5, 59.6, 44.3)",
+  "dcat_keyword_sm": [
+    "flux de dioxyde de carbone air-mer",
+    "Température sous la surface",
+    "potential temperature",
+    "atmosphere",
+    "océans",
+    "inorganicCarbon",
+    "Oceans",
+    "total primary production",
+    "pH",
+    "other",
+    "modelling",
+    "climate",
+    "nitrate",
+    "densité potentielle",
+    "climatologie",
+    "Oxygène",
+    "total alkalinity",
+    "modélisation",
+    "subSurfaceSalinity",
+    "environnement",
+    "nitrate",
+    "Carbone inorganique",
+    "subSurfaceTemperature",
+    "oxygen",
+    "meteorology",
+    "potential density",
+    "température potentielle",
+    "nutrients",
+    "climatology",
+    "seaSurfaceTemperature",
+    "pH",
+    "air-sea carbon dioxide flux",
+    "alcalinité totale",
+    "Salinité de surface",
+    "environment",
+    "seaSurfaceSalinity",
+    "Température de surface",
+    "Salinité sous la surface",
+    "Nutriments",
+    "chlorophylle totale",
+    "salinité",
+    "production primaire totale",
+    "salinity",
+    "total chlorophyll",
+    "Autre",
+    "climat",
+    "état de saturation de l’aragonite",
+    "météorologie",
+    "aragonite saturation state",
+    "atmosphère"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Modèle des écosystèmes de l’océan canadien du Pacifique Nord-Est (NEP36-CanOE) – Projections climatiques"
+  ],
+  "dct_creator_sm": [
+    "Holdsworth, Amber M. (Institute of Ocean Sciences, Fisheries and Oceans Canada, Fisheries and Oceans Canada (DFO), Fisheries and Oceans Canada).",
+    "Christian, James R. (Fisheries and Oceans Canada, Fisheries and Oceans Canada (DFO))."
+  ],
+  "dct_description_sm": [
+    "This dataset consists of three simulations from the Northeastern Pacific Canadian Ocean Ecosystem Model (NEP36-CanOE) which is a configuration of the Nucleus for European Modelling of the Ocean (NEMO) V3.6. The historical simulation is an estimate of the 1986-2005 mean climate. The future simulations project the 2046-2065 mean climate for representative concentration pathways (RCP) 4.5 (moderate mitigation scenario) and 8.5 (no mitigation scenario). Each simulation is forced by a climatology of atmospheric forcing fields calculated over these 20 year periods and the winds are augmented with high frequency variability, which introduces a small amount of interannual variability. Model outputs are averaged over 3 successive years of simulation (the last 3, following an equilibration period); standard deviation among the 3 years is available upon request. For each simulation, the dataset includes the air-sea carbon dioxide flux, monthly 3D fields for potential temperature, salinity, potential density, total alkalinity, dissolved inorganic carbon, nitrate, oxygen, pH, total chlorophyll, aragonite saturation state, total primary production, and monthly maximum and minimum values for oxygen, pH, and potential temperature. The data includes 50 vertical levels at a 1/36 degree spatial resolution and a mask is provided that indicates regions where these data should be used cautiously or not at all. For a more detailed description please refer to Holdsworth et al. 2021.",
+    "Cet ensemble de données est constitué de trois simulations du modèle des écosystèmes de l’océan canadien du Pacifique Nord-Est (NEP36-CanOE), à savoir une configuration du NEMO (Nucleus for European Modelling of the Ocean), V3.6. La simulation historique est une estimation du climat moyen pour la période allant de 1986 à 2005. Les simulations futures permettront de projeter le climat moyen pour la période allant de 2046 à 2065 pour des profils représentatifs d’évolution de concentration (RCP) de 4,5 (scénario d’atténuation modérée) et de 8,5 (scénario d’absence d’atténuation). Chaque simulation est forcée par une climatologie de champs de forçage atmosphérique calculée sur ces périodes de 20 ans, et les vents sont augmentés d’une variabilité à haute fréquence, ce qui introduit une petite quantité de variabilité interannuelle. La moyenne des sorties du modèle est calculée sur trois années successives de simulation (les trois dernières, suivant une période d’équilibre); l’écart-type entre les trois années est disponible sur demande. Pour chaque simulation, l’ensemble de données comprend le flux de dioxyde de carbone air-mer, les champs en 3D mensuels pour la température potentielle, la salinité, la densité potentielle, l’alcalinité totale, le carbone inorganique dissous, le nitrate, l’oxygène, le pH, la chlorophylle totale, l’état de saturation de l’aragonite, la production primaire totale, et les valeurs maximales et minimales mensuelles pour l’oxygène, le pH et la température potentielle. Les données comprennent 50 niveaux verticaux à une résolution spatiale de 1/36 degrés, et un masque est fourni pour indiquer les régions où ces données doivent être utilisées avec prudence ou pas du tout. Pour une description plus détaillée, veuillez vous référer à Holdsworth et al. 2021."
+  ],
+  "dct_identifier_sm": [
+    "https://catalogue.cioos.ca/dataset/bcbe0732-0ff1-4990-bc26-13a39c6178e0"
+  ],
+  "dct_issued_s": "2021-03-02",
+  "dct_publisher_sm": [
+    "SIOOC-Pacifique"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue.cioos.ca/dataset/bcbe0732-0ff1-4990-bc26-13a39c6178e0\"}",
+  "dct_rights_sm": [
+    "government-open-license-canada"
+  ],
+  "dct_title_s": "Northeastern Pacific Canadian Ocean Ecosystem Model (NEP36-CanOE) Climate Projections",
+  "gbl_mdModified_dt": "2026-09-16T20:35:52Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "c8c13f17-31ca-5e17-91e1-f4d23dce0ba2",
+  "locn_geometry": "ENVELOPE(-142.3, -120.5, 59.6, 44.3)",
+  "schema_provider_s": "Canadian Integrated Ocean Observing System (CIOOS)"
+}

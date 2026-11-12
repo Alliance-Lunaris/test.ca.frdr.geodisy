@@ -1,0 +1,50 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.0325764, -120.8106962, 51.2143137, 50.7990362)",
+  "dcat_keyword_sm": [
+    "Earthflows",
+    "MintPy",
+    "Remote Sensing",
+    "HyP3",
+    "Geohazard Monitoring",
+    "Post-Wildfire Geomorphology",
+    "Interferometric Synthetic Aperture Radar"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Grist, Axel (University of British Columbia). ORCID: https://orcid.org/0009-0002-3590-3595"
+  ],
+  "dct_description_sm": [
+    "ArcGIS StoryMap: https://storymaps.arcgis.com/stories/f16992fe87684e18bb466a211def9481",
+    "This research investigates the efficiency of Interferometric Synthetic Aperture Radar (InSAR) in identifying and tracking changes in earthflow activity and movement post wildfire. The study was conducted in British Columbia's Deadman River Watershed, which was severely impacted by the Sparks Lake wildfire in 2021, increasing the possibility of landslide reactivation and movement. Using InSARderived time series data, earthflow ground deformation velocity was measured before and after the wildfire. Sentinel-1 satellite data was processed through the Alaska Satellite Facility’s Hybrid Pluggable Processing Pipeline (HyP3), R programming language, and the Miami InSAR Time-series software in Python (MintPy) to develop the time series. The analysis successfully identified two large earthflows near Snohoosh Lake and Castle Rock Hoodoos Provincial Park in the Northern region. Both earthflows accelerated in average velocity post-wildfire, with the highest average velocity increase recorded at 8.64 cm/year. The earthflows were located in areas classified as having medium to high burn severity. This research demonstrates the effectiveness of InSAR analysis in detecting and tracking slow-moving earthflows in the region and their potential hazards. The approach used in earthflow detection and monitoring provides valuable data to regional districts and land management agencies, who can implement risk mitigation strategies to protect local communities and infrastructure in the Deadman watershed. The study highlights the potential of InSAR as a cost-effective and efficient tool for post-wildfire environmental monitoring and geohazard analysis."
+  ],
+  "dct_identifier_sm": [
+    "720749_73894_115983",
+    "https://doi.org/10.5683/SP3/YUFB8F"
+  ],
+  "dct_issued_s": "2024-04-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/YUFB8F\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Thompson-Nicola Regional District, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Detection and Monitoring of Wildfire-Induced Earthflows: InSAR Time Series Analysis in the Deadman River Watershed, British Columbia",
+  "gbl_mdModified_dt": "2025-04-17T21:36:58Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "101ccb93-9cb7-5c8b-80f3-9883496043b5",
+  "locn_geometry": "ENVELOPE(-121.0325764, -120.8106962, 51.2143137, 50.7990362)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

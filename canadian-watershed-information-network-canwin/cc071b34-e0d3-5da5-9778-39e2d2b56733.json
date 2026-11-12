@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "AFETUW (Alberta Flow Estimation Tool for Ungauged Watersheds) is a rapid assessment tool used to estimate natural flows during the open water season (April-October) in ungauged watersheds. The AFETUW Regulated Stream Network GIS layer is a copy of the ArcHydro Phase II Provincial stream network with several added attribute fields. Attributes are set by the Regional Hydrologists to control the ungauged stream flow options administrated by the AFETUW Development Team for any stream reach or segment or for multiple streams within any defined area. The “Regulate” field is used to specify stream reaches that are regulated by an upstream control structure such as a dam. For a regulated stream, AFETUW flow estimation cannot be applied although a watershed boundary can still be delineated. This data layer can be viewed via AFETUW webapp at https://afetuw.alberta.ca/"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/b773614f-bd3a-4ccd-9082-772bfbdcab7f"
+  ],
+  "dct_issued_s": "2026-03-18",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/b773614f-bd3a-4ccd-9082-772bfbdcab7f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "AFETUW Regulated Stream Network",
+  "gbl_mdModified_dt": "2026-03-18T14:00:59Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "cc071b34-e0d3-5da5-9778-39e2d2b56733",
+  "locn_geometry": "ENVELOPE(-121.0, -109.0, 61.0, 48.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

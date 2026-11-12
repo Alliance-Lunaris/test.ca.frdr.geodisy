@@ -1,0 +1,47 @@
+{
+  "dcat_keyword_sm": [
+    "Dolium sedentarium",
+    "single-cell RNA-seq",
+    "Euglenozoa",
+    "sessile species",
+    "Microbiology",
+    "protist"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Lax, Gordon (Dalhousie University, University of British Columbia). ORCID: https://orcid.org/0000-0003-3986-3068",
+    "Keeling, Patrick (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "<p><b>Dryad version number:</b> 4</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/BonecSjJsdktRdMDiT-g_Ol8EWexgPibuTYWONlMr1Y</p>\n<p><b>Storage size:</b> 300243019</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/><p>The euglenids are a species-rich group of flagellates with varying modes of nutrition that can be found in diverse habitats. Phagotrophic members of this group gave rise to phototrophs and hold the key to understanding the evolution of euglenids as a whole, including the evolution of complex morphological characters like the euglenid pellicle. Yet to understand the evolution of these characters, a comprehensive sampling of molecular data is needed to correlate morphological and molecular data and to estimate a basic phylogenetic backbone of the group. While the availability of SSU rDNA and, more recently, multigene data from phagotrophic euglenids has improved, several ‘orphan’ taxa remain without any molecular data whatsoever. <em>Dolium</em> <em>sedentarium</em> is one such taxon: It is a rarely-observed phagotrophic euglenid that inhabits tropical benthic environments and is one of the few known sessile euglenids. Based on morphological characters, it has been thought of as part of the earliest branch of euglenids, the Petalomonadida. We report the first molecular sequencing data for <em>Dolium</em> using single-cell transcriptomics. Both SSU rDNA and multigene phylogenies confirm it as a solitary branch within Petalomonadida.</p>",
+    "<b>Methods</b><br /><p>A single cell of <em>Dolium sedentarium</em> was collected from Spaanse Water mangrove in Curaçao in April 2022 (12.070621, -68.860269) via manual isolation with a micropipette, imaged on a Leica DLIM inverted microscope at 630x and a Sony a7RIII camera, and deposited in lysis buffer (see Picelli et al 2014). After 4 freeze-thaw cycles for lysis, a single-cell transcriptome was generated with the SmartSeq2 protocol (Picelli et al 2014), and sequenced on an Illumina MiSeq (2x250bp), multiplexed with other libraries.</p>\n<p>Raw reads were read-corrected with <em>rcorrector</em> (version 1.0.4), adapter- and quality-trimmed with <em>trimmomatic</em> (version 0.39), and assembled with <em>rnaSPAdes</em> (version 3.15.1). Coding regions were determined with <em>Transdecoder</em> (version 5.5.0).</p>\n<p>Additional assembly metrics shown in the multiQC report were generated with <em>QUAST</em> (version 5.0.2) and <em>BUSCO</em> (version 5.4.3).</p>\n<p>SSU-rDNA sequences from the assembly were extracted with <em>barrnap</em> (version 0.9), and those sequences were blasted against GenBank's NCBI nr/nt to identify the euglenid SSU rDNA. This sequence was then appended to an existing dataset (Lax et al 2023), aligned with <em>MAFFT</em> <em>E-INS-I </em>(version 7.481), and trimmed with <em>trimAl</em> (version 1.2rev59, -gt 0.5 -st 0.001). A phylogeny was estimated with RAxML-NG under model GTR+GAMMA with 1000 non-parametric bootstraps (version 1.1.0).</p>\n<p>The phylogenomic dataset was based on a 19-gene dataset (Lax et al 2023), and homologs were extracted as described previously (Lax et al 2023). All 19 genes had 2 rounds of single-gene tree checking to exclude paraloguous and contaminant sequences. After concatenation of all 19 protein alignments, 9 orthologs from <em>Dolium sedentarium</em> were retained. Two analyses were run on this base 19-gene, 63-taxon dataset:</p>\n<p>1) CAT_63S19F_UFB.treefile: IQ-TREE (version 2.2.0) under LG+C60+F+G and 1,000 Ultrafast bootstraps</p>\n<p>2) CAT_63S19F_PMSF.treefile: IQ-TREE (version 2.2.0) under LG+C60+F+G+PMSF and 500 non-parametric bootstraps (using the tree from 1 as a guide-tree)</p>",
+    "<b>Usage notes</b><br /><p>Alignment-files in .fasta format can be opened with any text editor (e.g. SublimeText) or alignment viewers like AliView or SeaView.</p>\n<p>Assemblies (.fasta and .pep) files can be opened with any text editor like SublimeText.</p>\n<p>Tree-files in NEWICK-format (ending in .treefile or .tre) can be opened with a tree viewer like FigTree, Archaeopteryx, or iTOL EMBL.</p>\n<p>The multiQC-report (ending in .html) can be opened with any browser.</p>"
+  ],
+  "dct_identifier_sm": [
+    "659653_150149",
+    "https://doi.org/10.5683/SP3/Z3RUR1"
+  ],
+  "dct_issued_s": "2023-09-21",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/Z3RUR1\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Molecular phylogenetics of sessile Dolium sedentarium, a petalomonad euglenid",
+  "gbl_mdModified_dt": "2023-09-21T23:23:49Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "a64afb79-0f1b-554c-b251-6298cf0d3dca",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

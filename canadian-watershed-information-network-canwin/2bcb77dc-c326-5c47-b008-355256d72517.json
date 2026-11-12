@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "The Waterbodies dataset is comprised of area features: lakes, intermittent waterbodies, islands, and rivers wide enough to be represented as an area feature (e.g. St. Lawrence River, Mackenzie River). In a few exceptional cases, islands had to be represented by \"holes\" in the polygons in the Waterbodies dataset. Some area features have been subdivided and several types of virtual linear features serve to separate them. Features in this dataset are linked (by an attribute) to their corresponding flow line in the Drainage Network Skeleton. Therefore the Waterbodies dataset may be used in conjunction with the Drainage Network Skeleton for analytical applications. The Islands dataset is comprised of area and linear features: islands within inland waters and the waterbodies and single line rivers within these islands. Oceanic islands are not included as they are part of the coastline component of the Drainage Network Skeleton dataset. The Islands dataset exists to complete the cartographic representation of Canadian hydrology. The Islands dataset is not logically connected with the Drainage Network Skeleton, and can not be used for analytical applications. It should be noted that flow lines of the Drainage Network Skeleton do not take into account of the existence of islands and therefore do not necessarily flow around them. In a few exceptional cases, islands had to be represented by \"holes\" in the polygons in the Waterbodies dataset. Some islands themselves contain waterbodies and rivers, not significant for network analysis. However, in order to support a complete cartographic representation such waterbodies and rivers have been added to the Islands dataset. The National Scale Frameworks Hydrology data consists of area, linear and point geospatial and attribute data for Canada's hydrology at a national scale. It provides a representation of Canada's surface water features, and data completeness reflects the content of the source, the original Vector Map level 0 (VMAP0) revision 4 hydrographic layers, except where revision editing has been performed. Key value-added characteristics include river flow direction, connectivity and the tagging of geographical name keys to selected rivers, lakes and islands included in the Concise Gazetteer of Canada.\n\nThe Atlas Frameworks are a set of integrated base map layers which form part of a larger National Scale Frameworks data collection. These data have been compiled at a scale of 1:1 000 000 with the primary goal being to indicate correct relative positioning with other framework layers rather than absolute positional accuracy.\n\nDistributed from [GeoYukon](https://yukon.ca/geoyukon) by the [Government of Yukon](https://yukon.ca/maps) . Discover more digital map data and interactive maps from Yukon's digital map data collection.\n\nFor more information: [geomatics.help@yukon.ca](mailto:geomatics.help@yukon.ca)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/585d2a22-e690-4202-ae57-cae9c5655b83"
+  ],
+  "dct_issued_s": "2025-09-17",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/585d2a22-e690-4202-ae57-cae9c5655b83\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Yukon https://open.yukon.ca/open-government-licence-yukon"
+  ],
+  "dct_title_s": "Waterbodies - 1M",
+  "gbl_mdModified_dt": "2026-10-07T15:41:17Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "2bcb77dc-c326-5c47-b008-355256d72517",
+  "locn_geometry": "ENVELOPE(-141.0, -123.8, 69.7, 60.0)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

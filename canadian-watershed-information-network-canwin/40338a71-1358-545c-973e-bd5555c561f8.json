@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Land cover information is essential for a wide range of environmental applications, including climate impact assessment and adaptation, emergency response, and wildlife habitat monitoring. In Canada, a 2008 user survey identified that the most practical format for land cover data is a nationwide map with a 30 m spatial resolution, updated every five years. To meet this need, the Canada Centre for Remote Sensing (CCRS) has been producing 30 m resolution land cover maps since 2010, with updates released in 2015 and 2020. These datasets also serve as Canada’s contribution to the 30 m Land Cover Map of North America, developed collaboratively by government agencies in Mexico, the United States, and Canada through the North American Land Change Monitoring System (NALCMS). The classification system used in these maps is designed for consistency across North America. It follows a two-level hierarchy based on the Food and Agriculture Organization (FAO) Land Cover Classification System (LCCS), consisting of 12 classes at Level I and 19 classes at Level II. Of the 19 Level II classes, 15 are applicable to Canada and are included in the national land cover dataset. Tropical vegetation classes (specifically classes 3, 4, 7, and 9) are either absent or occur only minimally in Canada and are therefore excluded from the national dataset. Canada’s land cover maps are generated using observations from the Operational Land Imager (OLI) Landsat sensor. An accuracy assessment based on 832 randomly distributed samples indicates that the latest dataset achieves 86.9% overall accuracy, with no marked spatial inconsistencies.  \n  \n  - [Land Cover of Canada - Cartographic Product Collection](https://open.canada.ca/data/en/dataset/11990a35-912e-4002-b197-d57dd88836d7)  \n  \n  - [NALCMS — The North American Land Change Monitoring System](https://www.cec.org/publications/nalcms/)"
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47"
+  ],
+  "dct_issued_s": "2022-08-11",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/ee1580ab-a23d-4f86-a09b-79763677eb47\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "2020 Land Cover of Canada",
+  "gbl_mdModified_dt": "2025-09-23T19:10:22Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "40338a71-1358-545c-973e-bd5555c561f8",
+  "locn_geometry": "ENVELOPE(-141.003, -52.6174, 83.1139, 41.6755)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

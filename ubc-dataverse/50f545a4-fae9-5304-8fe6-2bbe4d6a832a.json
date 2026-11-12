@@ -1,0 +1,48 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.26846, -123.191058, 49.28039, 49.218822)",
+  "dcat_keyword_sm": [
+    "Greenspace",
+    "Climate Change Adaptation",
+    "Species Distribution Modelling",
+    "Salmonberry",
+    "Culturally Significant Plants",
+    "Sword Fern"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Mes, Johic (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Urban greenspaces provide essential ecosystem services, enhance biodiversity, and hold cultural significance, particularly for Indigenous communities. However, these areas are increasingly threatened by climate change, urbanization, and invasive species. While greenspace planning and species distribution modeling are established tools for supporting ecological resilience, few studies integrate future climate suitability into site-specific planting guidelines. This represents a key gap in designing adaptive urban landscapes. Remote sensing offers a distinct advantage in this context by enabling fine-scale, spatially continuous assessment of environmental conditions, such as precipitation and shade, that are difficult to capture through ground-based methods alone.\nThis study addressed this gap by assessing habitat suitability and future climate impacts at a local scale. Specifically, it identified future habitat suitability and optimal planting locations for culturally significant plants of the Musqueam people on the University of British Columbia Vancouver campus. To achieve this, the study combined iNaturalist occurrence data, future climate projections from ClimateBC, and local environmental variables derived from light detection and ranging within a MaxEnt modeling framework. The analysis focused on two species: Salmonberry (Rubus spectabilis) and Sword Fern (Polystichum munitum), evaluating their suitability under different climate scenarios. The resulting suitability maps highlighted optimal planting locations based on projected climate conditions and environmental factors such as slope, aspect, and shade. Shade emerged as the most influential variable across all models, contributing between 74% and 92%. Other environmental variables had a limited effect on model outcomes, likely due to the study’s small geographic scope. Overall, the model outputs aligned closely with the known ecological preferences of the studied species. These findings can inform climate-resilient planting strategies for culturally significant species in urban greenspaces."
+  ],
+  "dct_identifier_sm": [
+    "894527_73894_115983",
+    "https://doi.org/10.5683/SP3/SU2T7P"
+  ],
+  "dct_issued_s": "2025-04-22",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/SU2T7P\"}",
+  "dct_rights_sm": [
+    "CC BY-SA 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Modeling Climate Resilient Planting Locations of Culturally Significant Plants for Musqueam on the University of British Columbia's Vancouver Campus",
+  "gbl_mdModified_dt": "2025-04-22T16:56:29Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "50f545a4-fae9-5304-8fe6-2bbe4d6a832a",
+  "locn_geometry": "ENVELOPE(-123.26846, -123.191058, 49.28039, 49.218822)",
+  "pcdm_memberOf_sm": [
+    "UBC Faculty of Forestry // Master of Geomatics for Environmental Management"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

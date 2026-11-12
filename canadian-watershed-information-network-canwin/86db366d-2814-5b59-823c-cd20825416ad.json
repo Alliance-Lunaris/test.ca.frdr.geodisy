@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-80.24, -78.95, 44.33, 42.93)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "Environment and Climate Change Canada's (ECCC’s) air quality model, Global Environmental Multiscale – Model of Atmospheric Chemistry (GEM-MACH v2), was run at high spatial resolution to generate daily forecasts for the Air Quality Health Index (AQHI) at Pan Am sporting venue locations and for surface air quality measurement stations across the Greater Toronto Area.  The model was run for a domain covering all of Southern Ontario at a spatial resolution of 2.5-km grid spacing. The model also included updated traffic pollutant emissions, generated before the Games by using a road link-based, traffic flow model. The GEM-MACH model generated daily forecasts on an hourly interval and forecasts were available at 6am local time each morning.  Numerous chemical pollutants were predicted including ozone, nitrogen dioxide, carbon monoxide, sulfur dioxide, particulate matter, among others. The air quality forecasts were placed on several data servers for dissemination (ECCC Air Quality Model experimental website, Science and Technology ECPASS website, WISDOM health information website, MSC XM-Tools website, University of Toronto AirSensor website).  The data in the archive is for the high resolution GEM-MACH v2 demonstration model and is not the operational air quality forecast disseminated by the Canadian Meteorological Centre. The demonstration forecast archived here has not been corrected using the post-processing UMOS tool, a statistical algorithm based on previous model/observations correlations for a location.\r\n\r\n\r\nA chemical objective analysis was also performed using the 2.5km GEM-MACH v2 model output and the surface observations within the model domain. The analysis is a fusion of the model and observations resulting in an improved model forecast surface map."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/1aa6d723-2ed2-4654-ba15-dc1df74a186d"
+  ],
+  "dct_issued_s": "2018-03-09",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/1aa6d723-2ed2-4654-ba15-dc1df74a186d\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_title_s": "Air Quality Model Data - TO2015 Pan and Parapan American Games",
+  "gbl_mdModified_dt": "2021-07-30T17:44:44Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "86db366d-2814-5b59-823c-cd20825416ad",
+  "locn_geometry": "ENVELOPE(-80.24, -78.95, 44.33, 42.93)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

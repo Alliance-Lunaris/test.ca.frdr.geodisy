@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "dcat_keyword_sm": [
+    "Texture",
+    "pH",
+    "Sol",
+    "Sable",
+    "Carbone organique",
+    "Information gouvernementale",
+    "CEC",
+    "Limon",
+    "Argile"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Secteur des Forêts - Direction de la recherche forestière."
+  ],
+  "dct_description_sm": [
+    "The SiIGsol-100m maps make it possible to document the spatial evolution of the properties of the mineral part of the soil at a spatial resolution of 100 m. These values were simulated by combining point observation data and spatially explicit covariates, derived from remote sensing data, using automated learning methods. These values should not be interpreted as an observation, but rather as the most likely value for a given distribution of observations and set of predictor variables. Soil property values are simulated for all non-urbanized land surfaces. All attributes whose value is likely to change with\nthe depth are available in 6 layers, which make it possible to translate the evolution of properties with depth. The depth limits used come from the GlobalSoilMap.net project mapping standard: 00-05 cm, 05-15 cm, 15-30 cm, 30-60 cm, 60-100 cm, and 100-200 cm. Map products are currently divided into 6 variables; the sand fraction, the silt fraction, the clay fraction, the pH, the cation exchange capacity and the proportion of organic matter. They cover the entire territory of the Province of Québecois located south of the 55th parallel.**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "Les cartes SIIGSOL-100m permettent de documenter l’évolution spatiale des propriétés de la partie minérale du sol à une résolution spatiale de 100 m. Ces valeurs ont été simulées en combinant des données d’observation ponctuelles et de covariables spatialement explicites, dérivées à partir de données de télédétection, par le biais de méthodes d’apprentissage automatisées. Ces valeurs ne doivent pas être interprétées comme une observation, mais plutôt comme la valeur la plus probable pour une distribution d’observations et jeu de variables prédictives donné. Les valeurs des propriétés du sol sont simulées pour toutes les surfaces terrestres non urbanisées. Tous les attributs dont la valeur est susceptible d’évoluer avec\nla profondeur sont disponibles en 6 couches, qui permettent de traduire l’évolution des propriétés avec la profondeur. Les limites des profondeurs utilisées proviennent de la norme de cartographie du projet GlobalSoilMap.net : 00-05 cm, 05-15 cm, 15-30 cm, 30-60 cm, 60-100 cm et 100-200 cm. Les produits cartographiques sont actuellement déclinés en 6 variables; la fraction de sable, la fraction de limon, la fraction d'argile, le pH, la capacité d’échanges cationiques et la proportion de matière organique. Ils couvrent l’ensemble du territoire de la Province de Québécois situé au sud du 55e parallèle."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/4d6fabc3-b16f-43c3-8bc6-62233651558e"
+  ],
+  "dct_issued_s": "2022-08-30",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/4d6fabc3-b16f-43c3-8bc6-62233651558e\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "SIIGSOL-100m - Carte des propriétés du sol",
+  "gbl_mdModified_dt": "2026-05-27T18:34:39Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "9676ccf5-c263-5392-a174-d5adfbf94a4b",
+  "locn_geometry": "ENVELOPE(-79.6, -57.0, 62.6, 45.0)",
+  "schema_provider_s": "Open Data Canada"
+}

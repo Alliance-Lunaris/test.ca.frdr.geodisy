@@ -1,0 +1,46 @@
+{
+  "dcat_keyword_sm": [
+    "phages",
+    "genomics",
+    "Viruses",
+    "prophages"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Roux, Simon (University of Arizona).",
+    "Hallam, Steven J. (Canadian Institute for Advanced Research, University of British Columbia).",
+    "Woyke, Tanja (Joint Genome Institute).",
+    "Sullivan, Matthew B. (University of Arizona)."
+  ],
+  "dct_description_sm": [
+    "<b>Usage notes</b><br /><div class=\"o-metadata__file-usage-entry\"><h4 class=\"o-heading__level3-file-title\">VirSorter Curated Dataset genbank file package</h4><div class=\"o-metadata__file-description\">This zip package includes the annotated genbank files (affiliation against PFAM and Refseq) of all viral sequences predicted in the VirSorter Curated Dataset, organized in different folders based on the host of the virus (i.e. the taxonomy of the genomic data in which the viral sequence was identified).</div><div class=\"o-metadata__file-name\">VirSorter_Curated_Dataset_genbank-files.zip</br></div></div>",
+    "<p><b>Dryad version number:</b> 1</p>\n<p><b>Version status:</b> submitted</p>\n<p><b>Dryad curation status:</b> Published</p>\n<p><b>Sharing link:</b> https://datadryad.org/stash/share/jRLPkvzapf6WFit0ripShjyrxJljZcIK_r0-hHioIz8</p>\n<p><b>Storage size:</b> 254533367</p>\n<p><b>Visibility:</b> public</p>",
+    "<b>Abstract</b><br/>The ecological importance of viruses is now widely recognized, yet our limited knowledge of viral sequence space and virus-host interactions precludes accurate prediction of their roles and impacts. Here we mined publicly available bacterial and archaeal genomic datasets to identify 12,498 high‑confidence viral genomes linked to their microbial hosts. These data augment public datasets 10-fold, provide first viral sequences for 13 new bacterial phyla including ecologically abundant phyla, and help taxonomically identify 7-38% of 'unknown' sequence space in viromes. Genome- and network-based classification was largely consistent with accepted viral taxonomy and suggested that (i) 264 new viral genera were identified (doubling known genera) and (ii) cross-taxon genomic recombination is limited. Further analyses provided empirical data on extrachromosomal prophages and co‑infection prevalences, as well as evaluation of in silico virus-host linkage predictions. Together these findings illustrate the value of mining viral signal from microbial genomes."
+  ],
+  "dct_identifier_sm": [
+    "154002_150149",
+    "https://doi.org/10.5683/SP2/RDFV9C"
+  ],
+  "dct_issued_s": "2021-05-19",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP2/RDFV9C\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Other"
+  ],
+  "dct_title_s": "Data from: Viral dark matter and virus–host interactions resolved from publicly available microbial genomes",
+  "gbl_mdModified_dt": "2021-05-19T21:04:46Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "5c48957a-f843-5849-a913-ee10a9a092e5",
+  "pcdm_memberOf_sm": [
+    "UBC Dryad2Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

@@ -1,0 +1,39 @@
+{
+  "dcat_keyword_sm": [
+    "Computer Vision",
+    "Utility Pole",
+    "Google Street View",
+    "Powerline",
+    "Semantic Segmentation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Souley Dosso, Yasmina (Carleton University)."
+  ],
+  "dct_description_sm": [
+    "Annotations of critical electrical infrastructure from 2,221 Google Street View (GSV) images are provided here. Wires and poles observed in the scene were annotated by drawing lines over the wires and polygons encapsulating the poles, and creating a binary mask. The collected GSV images and corresponding binary masks are provided here and are suitable for semantic segmentation research. For ease of use for different research applications, binary masks are divided into images containing power wires only, power poles only, or both."
+  ],
+  "dct_identifier_sm": [
+    "423591",
+    "https://doi.org/10.5683/SP3/7CVJ7D"
+  ],
+  "dct_issued_s": "2023-01-16",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/7CVJ7D\"}",
+  "dct_rights_sm": [
+    "CC0 1.0"
+  ],
+  "dct_subject_sm": [
+    "Engineering"
+  ],
+  "dct_title_s": "Critical Electrical Infrastructure Annotations from Google Street View Images",
+  "gbl_mdModified_dt": "2023-01-16T22:25:23Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "59b6c8a9-c21e-5a94-9cea-d260e1050c65",
+  "schema_provider_s": "Carleton University Dataverse"
+}

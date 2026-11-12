@@ -1,0 +1,51 @@
+{
+  "dcat_bbox": "ENVELOPE(-179.12, -52.63, 59.99, 10.27)",
+  "dcat_keyword_sm": [
+    "Canada",
+    "Mexique",
+    "Énergie renouvelable",
+    "Canada",
+    "États-Unis",
+    "Energy Potential",
+    "Mexico",
+    "United States",
+    "Renewable energy",
+    "Énergie potentiel",
+    "Solar energy",
+    "Énergie solaire"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Ressource solaire, NSRDB PSM Ensoleillement normal direct (END) - Coopération nord-américaine en matière d’information sur l’énergie"
+  ],
+  "dct_creator_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada."
+  ],
+  "dct_description_sm": [
+    "Average of the hourly Direct Normal Irradiance (DNI) over 17 years (1998-2014). Data extracted from the National Solar Radiation Database (NSRDB) developed using the Physical Solar Model (PSM) by National Renewable Energy Laboratory (\"NREL\"), Alliance for Sustainable Energy, LLC, U.S. Department of Energy (\"DOE\").  \n  \n  The current version of the National Solar Radiation Database (NSRDB) (v2.0.1) was developed using the Physical Solar Model (PSM), and offers users the solar resource datasets from 1998 to 2014). The NSRDB comprises 30-minute solar and meteorological data for approximately 2 million 0.038-degree latitude by 0.038-degree longitude surface pixels (nominally 4 km2). The area covered is bordered by longitudes 25° W on the east and 175° W on the west, and by latitudes -20° S on the south and 60° N on the north. The solar radiation values represent the resource available to solar energy systems. The AVHRR Pathfinder Atmospheres-Extended (PATMOS-x) model uses half-hourly radiance images in visible and infrared channels from the GOES series of geostationary weather satellites, a climatological albedo database and mixing ratio, temperature and pressure profiles from Modern Era-Retrospective Analysis (MERRA) to generate cloud masking and cloud properties. Cloud properties generated using PATMOS-x are used in fast radiative transfer models along with aerosol optical depth (AOD) and precipitable water vapor (PWV) from ancillary sources to estimate Direct Normal Irradiance (DNI) and Global Horizontal Irradiance (GHI). A daily AOD is retrieved by combining information from the MODIS and MISR satellites and ground-based AERONET stations. Water vapor and other inputs are obtained from MERRA. For clear sky scenes the direct normal irradiance (DNI) and GHI are computed using the REST2 radiative transfer model. For cloud scenes identified by the cloud mask, Fast All-sky Radiation Model for Solar applications (FARMS) is used to compute the GHI. The DNI for cloud scenes is then computed using the DISC model. The data in this layer is an average of the hourly GHI over 17 years (1998-2014).   \n  \n  NOTE:  The Geographical Information System (GIS) data and maps for solar resources for Global Horizontal Irradiance (GHI) and Direct Normal Irradiance (DNI) were developed by the U.S. National Renewable Energy Laboratory (NREL) and provided for Canada as an estimate. At present, neither the NREL data, nor the Physical Solar Model (PSM) on which the NREL data is based, have been either assessed or validated for the particular Canadian weather applications.  A Canadian GHI map developed by the department of Natural Resources Canada (NRCan) is based on the State University of New York (SUNY) model and has been assessed and validated for the particular Canadian weather applications.  The Canadian GHI map is available at http://atlas.gc.ca/cerp-rpep/en/.",
+    "Moyenne de l’ensoleillement normal direct (END) horaire sur 17 ans (1998-2014). Données extraites de la base nationale de rayonnement solaire (NSRDB) développée à l'aide du modèle solaire physique PSM (Physical Solar Model) par le National Renewable Energy Laboratory (\"NREL\"), Alliance for Sustainable Energy, LLC, U.S. Department of Energy (\"DOE\").  \n  \n  La version actuelle de la base de données nationale sur le rayonnement solaire des États-Unis, soit la NSRDB (National Solar Radiation Database) (v. 2.0.1), a été développée à l'aide du modèle solaire physique PSM (Physical Solar Model) et il donne aux utilisateurs l'accès aux ensembles de données sur les ressources solaires de 1998 à 2014. La NSRDB contient des données météorologiques et des données sur l'énergie solaire reçues aux 30 minutes pour environ 2 millions de pixels de surface mesurant 0,038 degré de latitude sur 0,038 degré de longitude (valeur nominale de 4 km2). La zone visée est délimitée par les longitudes -25° ouest et -175° ouest, ainsi que les latitudes -20° sud et 60° nord. Les valeurs de rayonnement solaire représentent l'énergie solaire disponible pour les systèmes d'énergie solaire. Le modèle AVHRR PATMOS-x (Pathfinder Atmospheres-Extended) utilise des images du rayonnement reçues dans les canaux visible et infrarouge aux 30 minutes à partir de la série de satellites météorologiques géostationnaires GOES. Le modèle se sert aussi de données climatologiques d’albédo et rapport de mélange, ainsi que des profils de température et de pression atmosphérique MERRA (Modern Era-Retrospective Analysis) pour générer le masque et les propriétés des nuages. Les propriétés de nuages générées avec PATMOS-x sont utilisées dans les modèles rapides de transfert radiatif, et pour établir l'épaisseur optique des aérosols (AOD) et la vapeur d'eau précipitable de sources auxiliaires afin d'estimer l’ensoleillement direct normal (EDN) et l’ensoleillement horizontal global (EHG). Un bilan quotidien de l'épaisseur optique des aérosols (AOD) est réalisé en mettant en commun des données provenant des satellites MODIS et MISR et des stations au sol AERONET. Les données de vapeur d'eau et d'autres données à inclure proviennent de MERRA. Dans les scènes à ciel dégagé, l’ensoleillement direct normal (EDN) et l’ensoleillement horizontal global (EHG) sont calculés à l'aide du modèle de transfert radiatif REST2. Dans les scènes nuageuses représentées par le masque nuageux, le modèle rapide de rayonnement solaire plein ciel (FARMS) est utilisé pour calculer l’ensoleillement horizontal global (EHG). L’ensoleillement direct normal (EDN) des scènes nuageuses est ensuite calculé à l'aide du modèle DISC. Les données de cette couche correspondent à la moyenne de l’ensoleillement horizontal global horaire sur 17 ans (1998-2014).  \n  \n  NOTE: Les données et les cartes de système d'information géographique (SIG) des ressources solaires pour l’Ensoleillement horizontal global (EHG) et l’Ensoleillement normal direct (END) ont été développées par le National Renewable Energy Laboratoy (NREL) et sont fournies pour le Canada à titre estimatif. En ce moment, ni les données NREL, ni le modèle solaire physique PSM (Physical Solar Model) sur lequel repose les données NREL, ont été évalués ou validés pour les applications particulières à la météorologie Canadienne. Une carte Canadienne de l’EHG développée par le ministère des Ressources naturelles Canada (RNCan) qui est basée sur le modèle de State University of New York (SUNY) et qui a été évaluée et validée pour les applications particulières à la météorologie canadienne est disponible à http://atlas.gc.ca/cerp-rpep/fr/."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/9554ed18-6ab2-477f-9545-da091eba762f"
+  ],
+  "dct_issued_s": "2016-06-13",
+  "dct_publisher_sm": [
+    "Natural Resources Canada | Ressources naturelles Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9554ed18-6ab2-477f-9545-da091eba762f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "economics_and_industry"
+  ],
+  "dct_title_s": "Solar Resource, NSRDB PSM Direct Normal Irradiance (DNI) - North American Cooperation on Energy Information",
+  "gbl_mdModified_dt": "2021-05-19T14:19:54Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "dd5f12de-d817-578c-8df6-b2dc680ee706",
+  "locn_geometry": "ENVELOPE(-179.12, -52.63, 59.99, 10.27)",
+  "schema_provider_s": "Open Data Canada"
+}

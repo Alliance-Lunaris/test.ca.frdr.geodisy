@@ -1,0 +1,30 @@
+{
+  "dcat_bbox": "ENVELOPE(-124.92196, -100.245045, 64.013218, 48.00311)",
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Canadian Watershed Information Network (CanWIN)."
+  ],
+  "dct_description_sm": [
+    "This dataset (lineaments_ln_ll.shp) comprises structural features compiled into GIS format from existing literature, published up to 2003. The data represent fault/lineament locations known or inferred in the Alberta Plains. We have chosen to digitize and publish all lineaments from source maps even where they extended beyond the Alberta boundary. Each compiled feature is characterized by a set of attributes including: affected formations (oldest affected and oldest non-affected stratigraphic unit), fault type, fault sense of displacement, evidence used to infer the fault/lineament, original reference information and publication scale, and an estimate of the georeferencing error. The completeness of the captured attribute set varies for each feature as a function of the level of detail in the source article. The data set should be used cautiously. First, the original authors' interpretation of subsurface faults, particularly of 'basement faults', from air photo or satellite imagery lineaments is tenuous. Second, the vast majority of faults inferred in the foreland basin (Alberta Plains) east of the deformation front are normal-slip faults. although only the dip slip component has been inferred, some of these faults may also have a strike-slip component, generally not accounted for. Third, the location of lineaments includes cumulative errors inherent in the process of transferring into GIS lineaments traced by hand in the pre-computer era on small scale (regional) paper-copy maps. Such errors include spatial imprecisions in original lineament identification and drawing and errors in georefencing of the source map, as well as minor errors introduced during lineament digitization. Although each of them is minor at the scale of the original map, the cumulative effect of these errors may be significant and even misleading for large-scale (township or larger) projects."
+  ],
+  "dct_identifier_sm": [
+    "https://canwin-datahub.ad.umanitoba.ca/data/dataset/4ba232c0-4f28-48c8-bd53-a58a49c00342"
+  ],
+  "dct_issued_s": "2022-03-30",
+  "dct_publisher_sm": [
+    "Canadian Watershed Information Network (CanWIN)"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/4ba232c0-4f28-48c8-bd53-a58a49c00342\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Alberta https://open.alberta.ca/licence"
+  ],
+  "dct_title_s": "GIS compilation of structural elements in Alberta, version 3.0 (GIS data, line features)",
+  "gbl_mdModified_dt": "2026-03-04T15:05:01Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "0a88263f-34df-5358-ad05-e1520094b4d5",
+  "locn_geometry": "ENVELOPE(-124.92196, -100.245045, 64.013218, 48.00311)",
+  "schema_provider_s": "Canadian Watershed Information Network (CanWIN)"
+}

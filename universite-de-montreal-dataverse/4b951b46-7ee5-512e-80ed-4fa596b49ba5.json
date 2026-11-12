@@ -1,0 +1,57 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.01, -74.0, 45.99, 45.98)",
+  "dcat_keyword_sm": [
+    "Weather",
+    "Feuilles d'automne",
+    "Fall foliage",
+    "Lakes",
+    "Oxygène",
+    "Lacs",
+    "Gaz carbonique",
+    "Temps (Météorologie)",
+    "Oxygen",
+    "Carbon dioxide"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Blanchette, Brandon (Université de Montréal). ORCID: https://orcid.org/0000-0003-2123-3084",
+    "Maranger, Roxane (Université de Montréal, Groupe de Recherche Interuniversitaire en Limnologie (GRIL)). ORCID: https://orcid.org/0000-0002-2509-4678",
+    "del Giorgio, Paul (UQAM, Université du Québec à Montréal). ORCID: https://orcid.org/0000-0003-1866-8159",
+    "Parkes, Alice (Université du Québec à Montréal). ORCID: https://orcid.org/0009-0003-9810-5870",
+    "Couture, Raoul-Marie (Université Laval). ORCID: https://orcid.org/0000-0003-4940-3372"
+  ],
+  "dct_description_sm": [
+    "This dataset includes the following variables and respective units: wtr_0.0 (degree Celsius), wtr_1.0 (degree Celsius), wtr_2.0 (degree Celsius), wtr_3.0 (degree Celsius), wtr_4.0 (degree Celsius), wtr_5.0 (degree Celsius), wtr_6.0 (degree Celsius), wtr_7.0 (degree Celsius), wtr_8.0 (degree Celsius), wtr_9.0 (degree Celsius), wtr_10.0 (degree Celsius), global_rad.MJ.m2., cloud_cov, air_temp.C. , rel_hum., air_press.hPa., wind_sp.m.s., rain, thermo.depth, Couleurs, Perte, delta_co2_rate (µmol/L /day), delta_o2_rate (µmol/L /day), departure_slp_abs (µmol/L O2 / µmol/L CO2), cum_temp_sum, cum_rad_sum, avg_temp_sum, avg_temp_fall, vol_rain_fall_perc, vol_hypo_exch, hypoxic_dur, g_C_CO2_per_day, schmidt_rate_leaf_fall, sum_wind_fall, max_wind_fall, leaf_fall_duration, offset (µmol / L), EQ (µmol / L CO2 / µmol / L O2), width (µmol / L), stretch (µmol / L), cum_rad_fall, co2 (µmol/L), o2 (µmol/L), o2_meta (µmol/L), o2_hypo (µmol/L), conc.CO2.insitu (ppm), conc.CO2.atm (ppm), delta.CO2 (µmol /L), do_umol, do_sat, do_meta (µmol/L), sat_meta, do_hypo (µmol/L), sat_hypo, do_mg_l, do_mg_l_meta, do_mg_l_hypo, do_sat_perc, do_deviation (µmol/L), do_sat_perc_meta, do_deviation_meta (µmol/L), do_sat_perc_hypo, do_deviation_hypo (µmol/L)",
+    "This dataset contains CO<sub>2</sub> and O<sub>2</sub> concentrations collected during fall from a buoy at Lake Croche (Saint-Hippolyte, Québec, Canada) from 2015-2019 and 2021-2022. This dataset also includes leaf colour change and complete leaf loss for each year along with modelled temperature data for the years sampled. Dataset also includes pertinent weather data such as : air temperature, wind speed, precipitation at this headwater lake."
+  ],
+  "dct_identifier_sm": [
+    "939561_281357_281358",
+    "https://doi.org/10.5683/SP3/IN5YHU"
+  ],
+  "dct_issued_s": "2025-06-09",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/IN5YHU\"}",
+  "dct_rights_sm": [
+    "CC-BY 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Saint-Hippolyte, Quebec, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Fall CO2 and O2 gas data for Lake Croche (Saint-Hippolyte, Quebec, Canada) from 2015-2019 and 2021-2022",
+  "gbl_mdModified_dt": "2025-07-08T18:00:08Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "4b951b46-7ee5-512e-80ed-4fa596b49ba5",
+  "locn_geometry": "ENVELOPE(-74.01, -74.0, 45.99, 45.98)",
+  "pcdm_memberOf_sm": [
+    "Jean-Francois Lapierre – Dataverse // GRIL (Groupe de recherche interuniversitaire en limnologie)"
+  ],
+  "schema_provider_s": "Université de Montréal Dataverse"
+}

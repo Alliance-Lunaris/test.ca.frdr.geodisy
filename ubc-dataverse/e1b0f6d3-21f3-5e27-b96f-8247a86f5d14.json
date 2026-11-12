@@ -1,0 +1,47 @@
+{
+  "dcat_bbox": "ENVELOPE(-123.2612603538, -123.2270612425, 49.2730726117, 49.2457516066)",
+  "dcat_keyword_sm": [
+    "Campus Microclimates",
+    "LiDAR Analysis",
+    "Shade Frequency",
+    "Geospatial Mapping",
+    "Urban Heat Mitigation"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Wang, Chenyao (University of British Columbia)."
+  ],
+  "dct_description_sm": [
+    "Shade is important to urban environments as they provide comfort, reduce heat-related stress, and enhance overall wellbeing. This report presents a comprehensive study on shade mapping for Neighbourhood climate adaptation and community wellbeing within the University of British Columbia Vancouver (UBCV) campus. The primary objectives are to develop methodologies for shade mapping, identify areas with insufficient shade coverage, and provide actionable recommendations for improving shade distribution. Using high-resolution LiDAR data and sun position data, a Digital Surface Model (DSM) was created to represent campus elevation, and hillshade analysis was employed to simulate shade coverage at 15-minute intervals. Findings reveal that pedestrian areas have the highest mean shade coverage (0.69507), while concrete areas such as buildings and structures have the lowest (0.434512). Significant variations exist across Neighbourhoods, with East Campus and Hampton Place showing high, consistent shade, while Stadium and UBlvd require improvement. Bus stations also exhibit variability in shade, with UBC Exchange Bay 8 having the lowest coverage (0.160035). Recommendations include enhancing shade consistency in pedestrian areas, providing shelters in open concrete spaces, and increasing shade in Neighbourhoods like Wesbrook Place and UBlvd. Limitations of the study include the hillshade method's inability to account for shaded areas underneath trees or structures and the need for ground-truth validation. Future work should explore 3D multipatch analysis, incorporate detailed tree inventory data, and integrate shade analysis into broader urban planning efforts. This methodology-driven research aims to inspire further enhancements to the campus environment, ensuring optimized shade coverage and contributing to a more comfortable and sustainable urban landscape."
+  ],
+  "dct_identifier_sm": [
+    "831439_381348",
+    "https://doi.org/10.5683/SP3/UWGEGJ"
+  ],
+  "dct_issued_s": "2024-09-24",
+  "dct_publisher_sm": [
+    "Borealis"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://doi.org/10.5683/SP3/UWGEGJ\"}",
+  "dct_rights_sm": [
+    "CC BY-NC 4.0"
+  ],
+  "dct_spatial_sm": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "dct_subject_sm": [
+    "Earth and Environmental Sciences"
+  ],
+  "dct_title_s": "Shade Mapping for UBC Vancouver Neighbourhood Climate Adaptation and Community Wellbeing",
+  "gbl_mdModified_dt": "2024-09-24T18:34:43Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "e1b0f6d3-21f3-5e27-b96f-8247a86f5d14",
+  "locn_geometry": "ENVELOPE(-123.2612603538, -123.2270612425, 49.2730726117, 49.2457516066)",
+  "pcdm_memberOf_sm": [
+    "SEEDS Sustainability Program Dataverse"
+  ],
+  "schema_provider_s": "UBC Dataverse"
+}

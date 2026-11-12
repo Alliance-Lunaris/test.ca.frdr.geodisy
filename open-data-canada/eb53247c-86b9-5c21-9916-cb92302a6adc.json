@@ -1,0 +1,60 @@
+{
+  "dcat_bbox": "ENVELOPE(-125.2064, -123.007, 50.12, 48.7808)",
+  "dcat_keyword_sm": [
+    "Pacific region",
+    "juvenile pacific salmon",
+    "planification spatiale marine",
+    "saumons juvéniles du Pacifique",
+    "anadrome",
+    "anadromous",
+    "geostatistical models",
+    "Environmental management",
+    "captures prévues par unité d'effort (cpue)",
+    "Aquatic ecosystems",
+    "Écosystème aquatique",
+    "région du Pacifique",
+    "catch per unit effort (cpue)",
+    "strait of Georgia",
+    "Poisson de mer",
+    "Modèle géostatistique",
+    "détroit de Georgia",
+    "Salt water fish",
+    "Gestion de l'environnement",
+    "marine spatial planning"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_alternative_sm": [
+    "Estimations spatiales de l’abondance des jeunes saumons du Pacifique (Oncorhynchus spp.) dans le détroit de Georgia."
+  ],
+  "dct_creator_sm": [
+    "Patrick Thompson."
+  ],
+  "dct_description_sm": [
+    "Description:\nSpatial information on the distribution of juvenile Pacific salmon is needed to support Marine Spatial Planning in the Pacific Region of Canada. Here we provide spatial estimates of the distribution of juvenile fish in the Strait of Georgia for all five species of Pacific salmon. These estimates were generated using a spatiotemporal generalized linear model and are based on standardized fishery-independent survey data from the Strait of Georgia mid-water juvenile salmon mid-water trawl survey from 2010 to 2020. We provide predicted catch per unit effort (CPUE), year-to-year variation in CPUE, and prediction uncertainty for both summer (June–July) and fall (September–October) at a 0.5 km resolution, covering the majority of the strait. These results show that the surface 75 m of the entire Strait of Georgia is habitat for juvenile salmon from June through early October, but that distributions within the strait differ across species and across seasons. While there is interannual variability in abundances and distributions, our analysis identifies areas that have consistently high abundances across years. The results from this study illustrate juvenile habitat use in the Strait of Georgia for the five species of Pacific salmon and can support ongoing marine spatial planning initiatives in the Pacific region of Canada.\n\nMethods:\nJuvenile Salmon Survey Data\nThis analysis is based on surveys conducted between 2010 and 2020. Sets that lasted between 12 and 50 minutes and at depths less than or equal to 60 m (head rope depth) were included. The resulting survey dataset consists of 1588 sets. The analysis included all five species of Pacific salmon. For pink salmon, only even year surveys were included as they have a two-year life cycle and are effectively absent from the Strait in odd years.\n\nGeostatistical model of salmon abundance and Predictions\nWe estimated the spatial distribution and abundance of each species of Pacific Salmon using geostatistical models fit with sdmTMB (Anderson et al. 2022). For each species, we modelled the number of individuals caught in a set, at a location and time using a negative binomial observation model with a log link. Predictions were made for each survey season (summer and fall) in each year from 2010 to 2020 over a 500 m by 500 m grid based on a 3 km buffer around the outer concave hull of the trawl coordinates. The concave hull was calculated using the ‘sf_concave_hull’ function from the sf package using a concavity ratio of 0.3, and excluding holes. Predictions were made as catch per unit effort (CPUE, for 60 minutes) for tows conducted in the surface waters (i.e., head rope at 0 m). Continuous estimates are provided at a 0.5 km resolution throughout the Strait of Georgia. These estimates consist of 1) mean catch per unit effort (CPUE), 2) year-to-year coefficient of variation (CV) of CPUE as a measure of the temporal variability, 3) binned biscale measures of mean vs. CV of CPUE to distinguish areas where abundance is consistently high vs. areas where it is high on average, but with high year-to-year variability, and 4) mean standard error in CPUE as a measure of uncertainty.\n\nSee Thompson and Neville for full method details.\n\nUncertainties:\nAlthough the models had relatively low uncertainty and the estimated spatial patterns reflected the spatial and temporal variation in CPUE in the surveys, it is important to understand the limitations of these model predictions. Because juvenile salmon are often aggregated, there is high variability in the CPUE in the survey data. Our model predictions represent the geometric mean CPUE and so are an average expectation, but do not reproduce the high inter-tow variability that is present in the survey data. Spatially, our predictions have low uncertainty in areas that are central within the standard survey track line. However, uncertainty is higher on the margins of the survey area, where there are fewer sets to inform those predictions.\n\nData Sources:\nJuvenile salmon survey database from Salmon Marine Interactions Program, REEFF, ESD, Pacific Biological Station.\nData is also available through Canadian Data Report of Fisheries and Aquatic Sciences publications.",
+    "Description:\nDes données spatiales sur la répartition des saumons juvéniles du Pacifique sont nécessaires pour appuyer la planification spatiale marine dans la région du Pacifique au Canada. Nous fournissons ici des estimations spatiales de la répartition des poissons juvéniles dans le détroit de Georgia pour les cinq espèces de saumon du Pacifique. Ces estimations ont été générées à l'aide d'un modèle linéaire généralisé spatio-temporel et sont fondées sur des données normalisées de relevés indépendants de la pêche provenant du relevé au chalut mi-eau du saumon juvénile en milieu d'eau du détroit de Georgia effectué de 2010 à 2020. Nous présentons les captures prévues par unité d'effort (CPUE), les variations annuelles de la CPUE et l'incertitude de prévision pour l'été (juin-juillet) et l'automne (septembre-octobre) à une résolution de 0,5 km, couvrant la majeure partie du détroit. Ces résultats montrent que les 75 m de surface de l'ensemble du détroit de Georgia constituent un habitat pour les saumons juvéniles de juin au début d'octobre, mais que les distributions à l'intérieur du détroit diffèrent selon les espèces et selon les saisons. Bien qu'il y ait une variabilité interannuelle des abondances et des distributions, notre analyse identifie les zones qui ont constamment des abondances élevées d'une année à l'autre. Les résultats de cette étude illustrent l'utilisation de l'habitat par les juvéniles dans le détroit de Georgia pour les cinq espèces de saumon du Pacifique et peuvent appuyer les initiatives continues de planification spatiale marine dans la région du Pacifique au Canada.\n\nMéthodes:\nDonnées des relevés sur les saumons juvéniles\nCette analyse est fondée sur des enquêtes menées entre 2010 et 2020. Les ensembles qui ont duré entre 12 et 50 minutes et à des profondeurs inférieures ou égales à 60 m (profondeur de la corde) ont été inclus. L'ensemble de données d'enquête qui en résulte se compose de 1 588 ensembles. L'analyse a porté sur les cinq espèces de saumon du Pacifique. Pour le saumon rose, seuls les relevés annuels paires ont été inclus, car ils ont un cycle vital de deux ans et sont effectivement absents du détroit les années impaires.\n\nModèle géostatistique de l'abondance du saumon et prévisions\nNous avons estimé la répartition spatiale et l'abondance de chaque espèce de saumon du Pacifique à l'aide de modèles géostatistiques adaptés au sdMTMB (Anderson et al., 2022). Pour chaque espèce, nous avons modélisé le nombre d'individus capturés dans un ensemble, à un endroit et à un moment donné à l'aide d'un modèle d'observation binomial négatif avec un lien logarithmique. Des prévisions ont été faites pour chaque saison de relevé (été et automne) au cours de chaque année de 2010 à 2020 sur une grille de 500 m sur 500 m basée sur une zone tampon de 3 km autour de la coque concave externe des coordonnées du chalut. La coque concave a été calculée à l'aide de la fonction « sf_concave_hull » du package sf en utilisant un rapport de concavité de 0,3, à l'exclusion des trous. Les prévisions ont été faites en tant que prises par unité d'effort (CPUE, pendant 60 minutes) pour les remorquages effectués dans les eaux de surface (c.-à-d. corde de tête à 0 m). Des estimations continues sont fournies à une résolution de 0,5 km dans tout le détroit de Georgia. Ces estimations comprennent 1) la moyenne des prises par unité d'effort (CPUE), 2) le coefficient de variation (CV) d'une année à l'autre de la CPUE comme mesure de la variabilité temporelle, 3) des mesures biscales combinées de la moyenne par rapport au CV des CPUE pour distinguer les zones où l'abondance est constamment élevée par rapport aux zones où elle est élevée en moyenne, mais avec une variabilité élevée d'une année à l'autre, et 4) l'erreur type moyenne dans les CPUE E comme mesure de l'incertitude.\n\nVoir Thompson et Neville pour plus de détails sur la méthode.\n\nIncertitudes:\nBien que les modèles présentaient une incertitude relativement faible et que les profils spatiaux estimés reflétaient la variation spatiale et temporelle de la CPUE dans les relevés, il est important de comprendre les limites de ces prévisions modélisées. Étant donné que les saumons juvéniles sont souvent regroupés, il y a une forte variabilité dans les données de relevé concernant la CPUE. Nos prévisions modélisées représentent la moyenne géométrique des CPUE et indiquent donc une moyenne escomptée, mais elles ne reproduisent pas la forte variabilité entre les traits présente dans les données de relevé. Sur le plan spatial, nos prévisions présentent une faible incertitude dans les zones qui se trouvent au centre de la trajectoire standard du relevé. Toutefois, l’incertitude est plus élevée en marge de la zone de relevé, où il y a moins traits pour étayer ces prévisions.\n\nSources de données:\nBase de données des relevés des saumons juvéniles du Programme sur les interactions des saumons en milieu marin, Section des effets des écosystèmes régionaux sur les poissons et les pêches, Division des sciences des écosystèmes, Station biologique du Pacifique.\nDes données sont également disponibles dans les Rapports statistiques canadiens des sciences halieutiques et aquatiques publiés."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/46902cbc-4bc2-40f5-bd02-b0111bd2818f"
+  ],
+  "dct_issued_s": "2025-01-24",
+  "dct_publisher_sm": [
+    "Fisheries and Oceans Canada | Pêches et Océans Canada"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/46902cbc-4bc2-40f5-bd02-b0111bd2818f\"}",
+  "dct_rights_sm": [
+    "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
+  ],
+  "dct_subject_sm": [
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Spatial estimates of juvenile Pacific salmon (Oncorhynchus spp.) abundance in the Strait of Georgia",
+  "gbl_mdModified_dt": "2026-03-24T08:14:36Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "eb53247c-86b9-5c21-9916-cb92302a6adc",
+  "locn_geometry": "ENVELOPE(-125.2064, -123.007, 50.12, 48.7808)",
+  "schema_provider_s": "Open Data Canada"
+}

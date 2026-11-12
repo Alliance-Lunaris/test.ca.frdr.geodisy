@@ -1,0 +1,49 @@
+{
+  "dcat_bbox": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "dcat_keyword_sm": [
+    "Géobase",
+    "Voie",
+    "réseau routier",
+    "Information gouvernementale",
+    "Toponymie",
+    "PoleARTM",
+    "Route",
+    "Rue",
+    "Adresse",
+    "SCAEC",
+    "Sens"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_creator_sm": [
+    "Service de la concertation des arrondissements et de l'expérience citoyenne."
+  ],
+  "dct_description_sm": [
+    "The double geobase is presented as a projection of the geobase's filamentary network that approximately simulates the boundaries of sidewalks and curbs. The [geobase poles] (/city-of-montreal/geobase-pole), a punctual representation of the left and right sides of segmented sections of the road network, are also available on the portal.\n\nThe [Snow Planner API] (https://donnees.montreal.ca/ville-de-montreal/deneigement) refers to a static version of the double geobase data extracted at the beginning of the season. To monitor the changes made during the winter season, you can refer to the following data sets: [Geobase - section management] (https://donnees.montreal.ca/ville-de-montreal/geobase-gestion-troncon) and [Geobase - destroyed sections] (https://donnees.montreal.ca/ville-de-montreal/geobase-troncon-detruit).\n\nRelated data sets:\n\n- [Geobase - road network] (http://donnees.montreal.ca/dataset/geobase)\n\n- [Geobase - poles] (http://donnees.montreal.ca/dataset/geobase-pole)\n\n- [Geobase - destroyed sections] (http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\n\n- [Geobase - section management] (http://donnees.montreal.ca/dataset/geobase-gestion-troncon)\n\n- [Geobase - nodes] (http://donnees.montreal.ca/dataset/geobase-noeud)\n\n __Warnings__\n\n- The data disseminated (Géobase - street sides of the road network) must be used in accordance with the City of Montreal's open data policy and license.\n\n- The data disseminated (Géobase - street sides of the road network) are those that are in our possession and are not necessarily up to date throughout the country.\n\n- The data disseminated (Geobase - street sides of the road network) is provided for information purposes only and should not be used for the purposes of designing or carrying out the work, or for the purpose of locating assets.\n\n- The City of Montreal cannot be held responsible for the inaccuracies or inaccuracies of the data disseminated (Géobase - street sides of the road network).\n\n**This third party metadata element was translated using an automated translation tool (Amazon Translate).**",
+    "La géobase double se présente comme une projection du réseau filamentaire de la géobase qui simule approximativement les limites des trottoirs et bordures. Les [pôles de géobase](/ville-de-montreal/geobase-pole), une représentation ponctuelle des côtés gauche et droit des tronçons segmentés du réseau routier, sont également disponibles sur le portail.\n\nL'[API de Planif-Neige](https://donnees.montreal.ca/ville-de-montreal/deneigement) fait référence à une version statique des données de la géobase double extraite en début de saison. Pour suivre les modifications apportées durant la saison hivernale, vous pouvez vous référer aux ensembles de données suivants: [Géobase - gestion tronçons](https://donnees.montreal.ca/ville-de-montreal/geobase-gestion-troncon) et [Géobase - tronçons détruits](https://donnees.montreal.ca/ville-de-montreal/geobase-troncon-detruit).\n\nEnsembles de données connexes:\n\n- [Géobase - réseau routier](http://donnees.montreal.ca/dataset/geobase)\n\n- [Géobase - pôles](http://donnees.montreal.ca/dataset/geobase-pole)\n\n- [Géobase - tronçons détruits](http://donnees.montreal.ca/dataset/geobase-troncon-detruit)\n\n- [Géobase - gestion tronçons](http://donnees.montreal.ca/dataset/geobase-gestion-troncon)\n\n- [Géobase - noeuds](http://donnees.montreal.ca/dataset/geobase-noeud)\n\n __Avertissements__\n\n- Les données diffusées (Géobase - côtés de rue du réseau routier) doivent être utilisées en respectant la politique et la licence en matière de données ouvertes de la Ville de Montréal.\n\n- Les données diffusées (Géobase - côtés de rue du réseau routier) sont celles qui se trouvent en notre possession et ne sont pas nécessairement à jour sur l'ensemble du territoire.\n\n- Les données diffusées (Géobase - côtés de rue du réseau routier) sont fournies seulement à titre indicatif et ne devraient pas être utilisées aux fins de conception ou réalisation des travaux, ni aux fins de localisation des actifs.\n\n- La Ville de Montréal ne pourront pas être tenues responsables des imprécisions ou inexactitudes des données diffusées (Géobase - côtés de rue du réseau routier)."
+  ],
+  "dct_identifier_sm": [
+    "https://open.canada.ca/data/en/dataset/224948ab-167c-4727-a663-25d2495a40a0"
+  ],
+  "dct_issued_s": "2025-11-27",
+  "dct_publisher_sm": [
+    "Government and Municipalities of Québec | Gouvernement et municipalités du Québec"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/224948ab-167c-4727-a663-25d2495a40a0\"}",
+  "dct_rights_sm": [
+    "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
+  ],
+  "dct_subject_sm": [
+    "form_descriptors",
+    "nature_and_environment",
+    "science_and_technology"
+  ],
+  "dct_title_s": "Géobase double - côtés de rue du réseau routier (statique)",
+  "gbl_mdModified_dt": "2026-09-30T17:39:11Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "id": "17df5d07-683f-5dea-bff4-25dc78731536",
+  "locn_geometry": "ENVELOPE(-74.0, -73.46, 45.72, 45.36)",
+  "schema_provider_s": "Open Data Canada"
+}
